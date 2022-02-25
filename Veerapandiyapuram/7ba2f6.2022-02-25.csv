@@ -1,0 +1,10 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Jayamkondacholapuram,JanagarTheatreAC2KJayamkondacholapuram,Tamil,10:30,FirstClass,100₹,170,22
+Kumbakonam,BaranikaTheatreKumbakonam,Tamil,11:15,BoxA,120₹,29,0
+Kumbakonam,BaranikaTheatreKumbakonam,Tamil,11:15,Balcony,100₹,182,0
+Jayamkondacholapuram,JanagarTheatreAC2KJayamkondacholapuram,Tamil,14:30,FirstClass,100₹,170,22
+Trichy,ArunaTheatreTrichy,Tamil,14:30,FirstClass,50₹,378,0
+Jayamkondacholapuram,JanagarTheatreAC2KJayamkondacholapuram,Tamil,18:30,FirstClass,100₹,170,22
+Trichy,ArunaTheatreTrichy,Tamil,18:30,FirstClass,50₹,378,0
+Trichy,ArunaTheatreTrichy,Tamil,22:15,FirstClass,50₹,378,0
+Jayamkondacholapuram,JanagarTheatreAC2KJayamkondacholapuram,Tamil,22:30,FirstClass,100₹,170,0
