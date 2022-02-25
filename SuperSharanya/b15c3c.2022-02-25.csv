@@ -1,0 +1,9 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Palluruthy,PvrLuluKochi,Malayalam,13:00,Classic,140₹,39,19
+Palluruthy,PvrLuluKochi,Malayalam,13:00,ClassicPlus,160₹,91,50
+Palluruthy,PvrLuluKochi,Malayalam,13:00,Prime,190₹,64,34
+Palluruthy,PvrLuluKochi,Malayalam,13:00,Recliner,350₹,9,4
+Varadiyam,InoxSobhaCityMall,Malayalam,16:35,RoyalRecliner,350₹,5,2
+Varadiyam,InoxSobhaCityMall,Malayalam,16:35,Club,190₹,33,0
+Varadiyam,InoxSobhaCityMall,Malayalam,16:35,Royal,190₹,14,8
+Varadiyam,InoxSobhaCityMall,Malayalam,16:35,Executive,130₹,11,0
