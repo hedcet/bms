@@ -1,0 +1,13 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+VijayapuraBijapur,ApsaraCineplex70MmBijapur,Kannada,10:00,Gold,150₹,390,26
+VijayapuraBijapur,ApsaraCineplex70MmBijapur,Kannada,10:00,Silver,150₹,84,0
+Bengaluru,AbhinayTheatre4KACGandhinagar,Kannada,10:30,Balcony,150₹,369,70
+Bengaluru,AbhinayTheatre4KACGandhinagar,Kannada,10:30,MiniBalcony,120₹,146,2
+Bengaluru,AbhinayTheatre4KACGandhinagar,Kannada,10:30,SecondClass,100₹,480,56
+Bengaluru,GopalanMallSirsiCircle,Kannada,12:15,Gold,200₹,203,0
+Bengaluru,CinepolisBinnypetMall,Kannada,13:10,Executive,150₹,69,0
+Bengaluru,CinepolisBinnypetMall,Kannada,13:10,Premium,150₹,29,0
+Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,15:50,Classic,170₹,108,2
+Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,15:50,Prime,190₹,108,8
+Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,15:50,Recliner,350₹,16,8
+Bengaluru,PvrMsrElementsMallTanisandhraMainRoad,Kannada,16:10,Classic,170₹,114,8
