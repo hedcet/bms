@@ -1,0 +1,7 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Arambagh,SudhanilCinemaArambagh,Bengali,12:00,Balcony,40₹,30,0
+Arambagh,SudhanilCinemaArambagh,Bengali,12:00,RearStall,30₹,21,0
+Arambagh,SudhanilCinemaArambagh,Bengali,15:00,Balcony,40₹,30,2
+Arambagh,SudhanilCinemaArambagh,Bengali,15:00,RearStall,30₹,21,0
+Arambagh,SudhanilCinemaArambagh,Bengali,18:00,Balcony,40₹,30,0
+Arambagh,SudhanilCinemaArambagh,Bengali,18:00,RearStall,30₹,21,0
