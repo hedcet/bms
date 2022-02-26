@@ -1,0 +1,17 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+MangaluruMangalore,CinepolisCityCentreMallMangaluru,Tulu,16:00,Platinum,150₹,50,24
+MangaluruMangalore,CinepolisCityCentreMallMangaluru,Tulu,16:00,Vip,200₹,17,3
+MangaluruMangalore,BharathCinemasMangalore,Tulu,16:45,Recliner,400₹,21,0
+MangaluruMangalore,BharathCinemasMangalore,Tulu,16:45,Gold,180₹,136,11
+MangaluruMangalore,BharathCinemasMangalore,Tulu,16:45,Silver,150₹,64,3
+MangaluruMangalore,BharathCinemasMangalore,Tulu,16:45,Special,150₹,50,0
+Moodbidri,AmarashreeTalkiesMoodbidri,Tulu,18:30,Balcony,100₹,84,0
+Moodbidri,AmarashreeTalkiesMoodbidri,Tulu,18:30,FirstClass,90₹,90,0
+MangaluruMangalore,PvrForumFizaMallPandeshwar,Tulu,19:00,Classic,150₹,79,49
+MangaluruMangalore,BharathCinemasMangalore,Tulu,19:30,Recliner,400₹,21,0
+MangaluruMangalore,BharathCinemasMangalore,Tulu,19:30,Gold,180₹,136,43
+MangaluruMangalore,BharathCinemasMangalore,Tulu,19:30,Silver,150₹,64,0
+MangaluruMangalore,BharathCinemasMangalore,Tulu,19:30,Special,150₹,50,0
+MangaluruMangalore,BharathCinemasMangalore,Tulu,22:00,Gold,180₹,132,50
+MangaluruMangalore,BharathCinemasMangalore,Tulu,22:00,Silver,150₹,78,3
+MangaluruMangalore,BharathCinemasMangalore,Tulu,22:00,Special,150₹,19,0
