@@ -1,0 +1,17 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Tanuku,LakshmiComplexTanuku,Telugu,11:00,Balcony,150₹,95,0
+Amalapuram,SriGanapathiPicturePalaceAmalapuram,Telugu,11:15,FirstClass,70₹,378,262
+Amalapuram,SriGanapathiPicturePalaceAmalapuram,Telugu,11:15,SecondClass,50₹,63,63
+Amalapuram,SriGanapathiPicturePalaceAmalapuram,Telugu,11:15,ThirdClass,30₹,81,81
+Tanuku,LakshmiComplexTanuku,Telugu,14:00,Balcony,150₹,95,0
+Amalapuram,SriGanapathiPicturePalaceAmalapuram,Telugu,14:15,FirstClass,70₹,378,262
+Amalapuram,SriGanapathiPicturePalaceAmalapuram,Telugu,14:15,SecondClass,50₹,63,63
+Amalapuram,SriGanapathiPicturePalaceAmalapuram,Telugu,14:15,ThirdClass,30₹,81,81
+Tanuku,LakshmiComplexTanuku,Telugu,18:00,Balcony,150₹,95,0
+Amalapuram,SriGanapathiPicturePalaceAmalapuram,Telugu,18:15,FirstClass,70₹,378,262
+Amalapuram,SriGanapathiPicturePalaceAmalapuram,Telugu,18:15,SecondClass,50₹,63,63
+Amalapuram,SriGanapathiPicturePalaceAmalapuram,Telugu,18:15,ThirdClass,30₹,81,81
+Tanuku,LakshmiComplexTanuku,Telugu,21:00,Balcony,150₹,95,2
+Amalapuram,SriGanapathiPicturePalaceAmalapuram,Telugu,21:15,FirstClass,70₹,378,262
+Amalapuram,SriGanapathiPicturePalaceAmalapuram,Telugu,21:15,SecondClass,50₹,63,63
+Amalapuram,SriGanapathiPicturePalaceAmalapuram,Telugu,21:15,ThirdClass,30₹,81,81
