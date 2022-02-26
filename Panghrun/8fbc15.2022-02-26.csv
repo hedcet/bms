@@ -1,0 +1,11 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Rajgurunagar,AbhiruchiCityPrideSinhagadRoad,Marathi,13:30,RoyalSofa,200₹,6,6
+Rajgurunagar,AbhiruchiCityPrideSinhagadRoad,Marathi,13:30,RoyalGold,180₹,62,62
+Rajgurunagar,AbhiruchiCityPrideSinhagadRoad,Marathi,13:30,RoyalSilver,160₹,15,9
+Nagpur,CinepolisVrMallNagpur,Marathi,16:00,Normal,140₹,20,10
+Nagpur,CinepolisVrMallNagpur,Marathi,16:00,Executive,160₹,40,37
+Nagpur,CinepolisVrMallNagpur,Marathi,16:00,Premium,180₹,39,38
+Nagpur,CinepolisVrMallNagpur,Marathi,16:00,Vip,350₹,8,4
+Rajgurunagar,CityPrideKothrud,Marathi,17:15,RoyalGold,200₹,75,75
+Rajgurunagar,CityPrideKothrud,Marathi,17:15,RoyalSilver,180₹,11,8
+Mumbai,MovietimeTheHubGoregaon,Marathi,18:30,Gold,160₹,98,86
