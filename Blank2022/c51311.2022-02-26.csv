@@ -1,0 +1,17 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,GopalanCinemasArcadeMallMysoreRoad,Kannada,12:00,Gold,220₹,292,0
+Bengaluru,GopalanCinemasArcadeMallMysoreRoad,Kannada,12:00,Recliner,320₹,19,0
+Bengaluru,InoxForumNeighbourhoodMallWhitefield,Kannada,12:50,Silver,180₹,69,0
+Bengaluru,InoxForumNeighbourhoodMallWhitefield,Kannada,12:50,Premiere,160₹,78,0
+Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,13:10,Classic,210₹,108,0
+Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,13:10,Prime,230₹,100,0
+Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,13:10,Recliner,400₹,8,0
+Bengaluru,PvrMsrElementsMallTanisandhraMainRoad,Kannada,13:30,Classic,210₹,106,0
+Bengaluru,GopalanMiniplexSignatureMallOldMadrasRoad,Kannada,17:00,Gold,220₹,65,10
+Bengaluru,GopalanMallSirsiCircle,Kannada,17:10,Gold,200₹,206,16
+Bengaluru,CinepolisBinnypetMall,Kannada,19:20,Normal,150₹,10,0
+Bengaluru,CinepolisBinnypetMall,Kannada,19:20,Executive,150₹,82,0
+Bengaluru,CinepolisBinnypetMall,Kannada,19:20,Premium,150₹,33,0
+Bengaluru,PvrVegaCityBannerghattaRoad,Kannada,21:40,Classic,250₹,86,8
+Bengaluru,PvrVegaCityBannerghattaRoad,Kannada,21:40,Recliner,470₹,9,0
+MysuruMysore,MysuruVisionCinemasBehindGrsFantasyPark,Kannada,21:45,Premier,150₹,206,0
