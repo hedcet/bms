@@ -1,0 +1,4 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+NationalCapitalRegionNcr,PvrVegasDwarka,English,12:20,3DClassic,385₹,18,0
+NationalCapitalRegionNcr,PvrVegasDwarka,English,12:20,3DPrime,430₹,10,1
+NationalCapitalRegionNcr,PvrVegasDwarka,English,12:20,3DRecliner,430₹,4,4
