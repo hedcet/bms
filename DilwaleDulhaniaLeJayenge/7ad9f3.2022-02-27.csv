@@ -1,0 +1,4 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Mumbai,MarathaMandirMumbaiCentral,Hindi,11:30,Balcony,30₹,147,12
+Mumbai,MarathaMandirMumbaiCentral,Hindi,11:30,DressCircle,25₹,188,0
+Mumbai,MarathaMandirMumbaiCentral,Hindi,11:30,Stall,20₹,218,1
