@@ -1,0 +1,6 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Kumbakonam,BaranikaTheatreKumbakonam,Tamil,11:15,BoxA,120₹,29,0
+Kumbakonam,BaranikaTheatreKumbakonam,Tamil,11:15,Balcony,100₹,182,54
+Trichy,ArunaTheatreTrichy,Tamil,14:30,FirstClass,50₹,378,0
+Trichy,ArunaTheatreTrichy,Tamil,18:30,FirstClass,50₹,378,0
+Trichy,ArunaTheatreTrichy,Tamil,22:15,FirstClass,50₹,378,0
