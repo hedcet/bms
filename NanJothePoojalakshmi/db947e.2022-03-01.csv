@@ -1,0 +1,4 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+VijayapuraBijapur,ApsaraCineplex70MmBijapur,Kannada,10:00,Gold,150₹,390,26
+VijayapuraBijapur,ApsaraCineplex70MmBijapur,Kannada,10:00,Silver,150₹,84,0
+Bengaluru,GopalanMallSirsiCircle,Kannada,12:10,Gold,150₹,265,4
