@@ -1,0 +1,17 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Kosamba,CoconutSalimCinemaKosamba,Gujarati,09:40,Gold,50₹,85,0
+Surat,RajImperialInoxVarachhaRoadSurat,Gujarati,12:35,Imperial,290₹,9,9
+Surat,RajImperialInoxVarachhaRoadSurat,Gujarati,12:35,Platinum,170₹,26,12
+Surat,RajImperialInoxVarachhaRoadSurat,Gujarati,12:35,Gold,140₹,30,17
+Surat,RajImperialInoxVarachhaRoadSurat,Gujarati,12:35,Silver,112₹,10,0
+Surat,InoxVrMallSurat,Gujarati,13:30,RoyalRecliner,230₹,16,8
+Surat,InoxVrMallSurat,Gujarati,13:30,Club,90₹,102,0
+Surat,InoxVrMallSurat,Gujarati,13:30,Executive,90₹,34,0
+Surat,InoxVrMallSurat,Gujarati,13:30,Royal,90₹,60,6
+Surat,TimeCinemaGalaxyCirclePalSurat,Gujarati,16:15,Gold,190₹,36,0
+Rajpipla,CoconutCinemaRajpipla,Gujarati,18:00,Box,100₹,8,8
+Rajpipla,CoconutCinemaRajpipla,Gujarati,18:00,Gold,50₹,112,57
+Rajpipla,CoconutCinemaRajpipla,Gujarati,18:00,Silver,50₹,40,20
+Ahmedabad,TimeCinemaCgRoadAhmedabad,Gujarati,18:10,Gold,280₹,36,0
+Ahmedabad,RevolutionMultiplexCtmAhmedabad,Gujarati,18:55,PlatinumClass,170₹,15,2
+Ahmedabad,RevolutionMultiplexCtmAhmedabad,Gujarati,18:55,GoldenClass,150₹,30,0
