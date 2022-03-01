@@ -1,0 +1,10 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Hyderabad,MahalaxmiComplexKothapetaHyderabad,Telugu,22:00,Box,112₹,16,16
+Hyderabad,MahalaxmiComplexKothapetaHyderabad,Telugu,22:00,Balcony,112₹,467,20
+Hyderabad,MahalaxmiComplexKothapetaHyderabad,Telugu,22:00,FirstClass,80₹,84,4
+Hyderabad,MahalaxmiComplexKothapetaHyderabad,Telugu,22:00,SecondClass,40₹,106,14
+Hyderabad,Sandhya70MmDolbyAtmosRtcXRoads,Telugu,23:58,BoxA,150₹,27,19
+Hyderabad,Sandhya70MmDolbyAtmosRtcXRoads,Telugu,23:58,BoxB,150₹,27,4
+Hyderabad,Sandhya70MmDolbyAtmosRtcXRoads,Telugu,23:58,UpperBalcony,150₹,469,301
+Hyderabad,Sandhya70MmDolbyAtmosRtcXRoads,Telugu,23:58,LowerBalcony,150₹,415,135
+Hyderabad,Sandhya70MmDolbyAtmosRtcXRoads,Telugu,23:58,FirstClass,100₹,120,108
