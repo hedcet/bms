@@ -1,0 +1,12 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,GopalanCinemasArcadeMallMysoreRoad,Kannada,10:15,Gold,170₹,332,0
+Bengaluru,GopalanCinemasArcadeMallMysoreRoad,Kannada,10:15,Sofa,170₹,21,0
+Bengaluru,KamakyaCinemaBanashankari,Kannada,10:45,Balcony,110₹,338,0
+Bengaluru,KamakyaCinemaBanashankari,Kannada,10:45,Stall,100₹,333,0
+MysuruMysore,PvrForumCentreCityMallMysuru,Kannada,11:45,Classic,140₹,134,8
+Bengaluru,PvrVegaCityBannerghattaRoad,Kannada,13:10,Classic,230₹,78,0
+Bengaluru,PvrVegaCityBannerghattaRoad,Kannada,13:10,Recliner,420₹,9,0
+Bengaluru,GopalanGrandMallOldMadrasRoad,Kannada,13:15,Gold,150₹,148,0
+Bengaluru,GopalanMallSirsiCircle,Kannada,14:30,Gold,180₹,261,0
+Bengaluru,KamakyaCinemaBanashankari,Kannada,16:15,Balcony,110₹,338,0
+Bengaluru,KamakyaCinemaBanashankari,Kannada,16:15,Stall,100₹,333,0
