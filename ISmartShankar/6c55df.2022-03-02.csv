@@ -1,0 +1,6 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Hyderabad,Sandhya70MmDolbyAtmosRtcXRoads,Telugu,03:00,BoxA,150₹,27,4
+Hyderabad,Sandhya70MmDolbyAtmosRtcXRoads,Telugu,03:00,BoxB,150₹,27,4
+Hyderabad,Sandhya70MmDolbyAtmosRtcXRoads,Telugu,03:00,UpperBalcony,150₹,469,69
+Hyderabad,Sandhya70MmDolbyAtmosRtcXRoads,Telugu,03:00,LowerBalcony,150₹,415,7
+Hyderabad,Sandhya70MmDolbyAtmosRtcXRoads,Telugu,03:00,FirstClass,100₹,120,49
