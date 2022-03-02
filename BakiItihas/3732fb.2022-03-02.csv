@@ -1,0 +1,11 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Champahati,StarTheatreKolkata,Bengali,09:30,FrontStall,115₹,58,0
+Champahati,StarTheatreKolkata,Bengali,09:30,RearStall,125₹,193,0
+Champahati,StarTheatreKolkata,Bengali,09:30,Balcony,115₹,135,135
+Memari,KristiCinemaMemari,Bengali,14:10,UpperStall,80₹,231,0
+Memari,KristiCinemaMemari,Bengali,14:10,RearStall,60₹,208,0
+Memari,KristiCinemaMemari,Bengali,14:10,FrontStall,60₹,102,0
+Champahati,NazrultirthaCinemaScreen3Kolkata,Bengali,15:45,Gold,130₹,30,0
+Champahati,NazrultirthaCinemaScreen3Kolkata,Bengali,15:45,Recliner,150₹,8,2
+Champahati,NazrultirthaCinemaScreen3Kolkata,Bengali,15:45,Sofa,130₹,12,0
+Kolkata,NandanKolkata,Bengali,17:30,Normal,30₹,124,18
