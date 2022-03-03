@@ -1,0 +1,17 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Attingal,NewTheatre4KRgbLaserDolbyAtmosThampanoor,Malayalam,11:30,Elite,150₹,173,2
+Mannur,InoxSobhaCityMall,Malayalam,11:55,RoyalRecliner,200₹,10,0
+Mannur,InoxSobhaCityMall,Malayalam,11:55,Club,130₹,63,0
+Mannur,InoxSobhaCityMall,Malayalam,11:55,Royal,130₹,16,2
+Mannur,InoxSobhaCityMall,Malayalam,11:55,Executive,100₹,22,0
+Koothattukulam,PvrLuluKochi,Malayalam,12:25,Classic,110₹,39,2
+Koothattukulam,PvrLuluKochi,Malayalam,12:25,ClassicPlus,140₹,91,5
+Koothattukulam,PvrLuluKochi,Malayalam,12:25,Prime,160₹,64,16
+Koothattukulam,PvrLuluKochi,Malayalam,12:25,Recliner,290₹,9,2
+Attingal,NewTheatre4KRgbLaserDolbyAtmosThampanoor,Malayalam,14:30,Elite,150₹,173,6
+Chennai,PvrVrChennaiAnnaNagar,Malayalam,15:55,Classic,63₹,11,11
+Chennai,PvrVrChennaiAnnaNagar,Malayalam,15:55,Prime,202₹,102,22
+Attingal,NewTheatre4KRgbLaserDolbyAtmosThampanoor,Malayalam,18:30,Elite,150₹,172,14
+Koothattukulam,PvrOberonMallKochi,Malayalam,19:05,Classic,129₹,36,0
+Koothattukulam,PvrOberonMallKochi,Malayalam,19:05,ClassicPlus,160₹,81,39
+Attingal,NewTheatre4KRgbLaserDolbyAtmosThampanoor,Malayalam,21:30,Elite,150₹,161,0
