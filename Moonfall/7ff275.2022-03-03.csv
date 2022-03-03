@@ -1,0 +1,8 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+NationalCapitalRegionNcr,InoxGurgaonArdeeMall,English,10:00,Insignia,500₹,30,5
+NationalCapitalRegionNcr,PvrAmbienceGoldGurgaon,English,16:15,Platinum,400₹,28,0
+NationalCapitalRegionNcr,PvrAmbienceGoldGurgaon,English,16:15,PlatinumSuperior,400₹,16,0
+Hyderabad,Pvr4DxForumSujanaMallKukatpallyHyderabad,English,16:50,4DxClassic,350₹,108,6
+Hyderabad,Pvr4DxIrrumManzilHyderabad,English,18:35,4Dx,350₹,96,26
+Chennai,PvrVrChennaiAnnaNagar,English,19:35,Classic,66₹,11,11
+Chennai,PvrVrChennaiAnnaNagar,English,19:35,Prime,211₹,102,20
