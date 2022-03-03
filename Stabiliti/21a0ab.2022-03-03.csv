@@ -1,0 +1,11 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,VinayakaMultiplexScreen2MysuruRoad,Kannada,11:00,GoldClass,100₹,81,0
+Bengaluru,VinayakaMultiplexScreen2MysuruRoad,Kannada,14:00,GoldClass,100₹,81,0
+Bengaluru,GopalanMiniplexSignatureMallOldMadrasRoad,Kannada,14:45,Gold,180₹,65,0
+Bengaluru,CinepolisSjrCentralMallArekereBannergatta,Kannada,16:05,Normal,150₹,28,0
+Bengaluru,CinepolisSjrCentralMallArekereBannergatta,Kannada,16:05,Executive,150₹,59,0
+Bengaluru,CinepolisSjrCentralMallArekereBannergatta,Kannada,16:05,Premium,150₹,41,7
+Bengaluru,CinepolisSjrCentralMallArekereBannergatta,Kannada,16:05,Vip,250₹,12,0
+Bengaluru,VinayakaMultiplexScreen2MysuruRoad,Kannada,17:00,GoldClass,100₹,81,0
+Bengaluru,GopalanMallSirsiCircle,Kannada,17:20,Gold,180₹,265,4
+Bengaluru,VinayakaMultiplexScreen2MysuruRoad,Kannada,20:00,GoldClass,100₹,81,0
