@@ -1,0 +1,13 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Mumbai,CinepolisVivianaMallThane,Marathi,11:30,Normal,150₹,12,0
+Mumbai,CinepolisVivianaMallThane,Marathi,11:30,Executive,150₹,36,0
+Mumbai,CinepolisVivianaMallThane,Marathi,11:30,Premium,150₹,6,2
+Rajgurunagar,AbhiruchiCityPrideSinhagadRoad,Marathi,17:00,RoyalSofa,230₹,12,2
+Rajgurunagar,AbhiruchiCityPrideSinhagadRoad,Marathi,17:00,RoyalGold,200₹,99,0
+Rajgurunagar,AbhiruchiCityPrideSinhagadRoad,Marathi,17:00,RoyalSilver,180₹,30,0
+Rajgurunagar,CinepolisSeasonsMallPune,Marathi,17:10,Normal,220₹,23,0
+Rajgurunagar,CinepolisSeasonsMallPune,Marathi,17:10,Executive,220₹,68,0
+Rajgurunagar,CinepolisSeasonsMallPune,Marathi,17:10,Premium,240₹,40,2
+Rajgurunagar,CityPrideKothrud,Marathi,18:45,RoyalGold,200₹,108,7
+Rajgurunagar,CityPrideKothrud,Marathi,18:45,RoyalSilver,180₹,22,2
+Rajgurunagar,ShevantaCinemaJunnar,Marathi,21:30,Gold,99₹,118,74
