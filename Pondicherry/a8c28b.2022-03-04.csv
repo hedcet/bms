@@ -1,0 +1,6 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Raigad,ChhotuMaharajCineCafeRoha,Marathi,18:15,Classique,200₹,74,0
+Raigad,ChhotuMaharajCineCafeRoha,Marathi,18:15,Premium,150₹,26,0
+Rajgurunagar,CityPrideKothrud,Marathi,20:00,RoyalSofa,280₹,13,0
+Rajgurunagar,CityPrideKothrud,Marathi,20:00,RoyalGold,230₹,57,6
+Rajgurunagar,CityPrideKothrud,Marathi,20:00,RoyalSilver,200₹,22,2
