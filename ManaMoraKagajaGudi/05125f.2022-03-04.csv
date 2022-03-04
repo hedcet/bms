@@ -1,0 +1,10 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Phulbani,ShradhanjaliTalkiesPhulbani,Oriya,11:15,SpecialClass,80₹,91,0
+Phulbani,ShradhanjaliTalkiesPhulbani,Oriya,11:15,FirstClass,60₹,108,0
+Rayagada,SriRamaTalkiesRayagada,Oriya,14:00,Balcony,100₹,92,3
+Phulbani,ShradhanjaliTalkiesPhulbani,Oriya,14:15,SpecialClass,80₹,91,0
+Phulbani,ShradhanjaliTalkiesPhulbani,Oriya,14:15,FirstClass,60₹,108,0
+Rayagada,SriRamaTalkiesRayagada,Oriya,17:30,Balcony,100₹,92,0
+Phulbani,ShradhanjaliTalkiesPhulbani,Oriya,18:00,SpecialClass,80₹,91,0
+Phulbani,ShradhanjaliTalkiesPhulbani,Oriya,18:00,FirstClass,60₹,108,0
+Rayagada,SriRamaTalkiesRayagada,Oriya,20:30,Balcony,100₹,92,0
