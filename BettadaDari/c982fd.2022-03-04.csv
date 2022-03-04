@@ -1,0 +1,10 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,PvrVaishnaviSapphireMallYeshwanthpur,Kannada,10:30,Classic,112₹,85,0
+Bengaluru,PvrVaishnaviSapphireMallYeshwanthpur,Kannada,10:30,Prime,140₹,37,8
+Bengaluru,PvrVaishnaviSapphireMallYeshwanthpur,Kannada,10:30,Recliner,230₹,13,0
+Bengaluru,PvrOrionUptownOldMadrasRoadBengaluru,Kannada,12:50,Classic,140₹,128,1
+Bengaluru,CinepolisBinnypetMall,Kannada,13:00,Executive,150₹,69,0
+Bengaluru,CinepolisBinnypetMall,Kannada,13:00,Premium,150₹,29,0
+Bengaluru,GopalanMallSirsiCircle,Kannada,14:40,Gold,180₹,265,4
+Bengaluru,InoxGarudaSwagathMallJayanagar,Kannada,19:10,Club,200₹,61,16
+Bengaluru,InoxGarudaSwagathMallJayanagar,Kannada,19:10,Executive,180₹,133,0
