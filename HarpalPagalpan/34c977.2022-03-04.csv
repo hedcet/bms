@@ -1,0 +1,5 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Hyderabad,SapnaCinemasAbids,Hindi,14:30,Balcony,100₹,189,1
+Hyderabad,SapnaCinemasAbids,Hindi,14:30,Silver,70₹,100,0
+Meerut,RegalCineplexMeerut,Hindi,18:30,Diamond,120₹,119,0
+Meerut,RegalCineplexMeerut,Hindi,18:30,Gold,80₹,96,0
