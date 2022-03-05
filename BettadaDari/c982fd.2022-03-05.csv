@@ -1,0 +1,8 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,PvrArenaMallDoddanakundiMarthalliRingRoad,Kannada,10:00,Classic,160₹,112,0
+Bengaluru,PvrArenaMallDoddanakundiMarthalliRingRoad,Kannada,10:00,Prime,180₹,33,12
+MysuruMysore,MysuruVisionCinemasBehindGrsFantasyPark,Kannada,10:45,Premier,150₹,206,0
+Bengaluru,PvrOrionUptownOldMadrasRoadBengaluru,Kannada,12:50,Classic,180₹,120,1
+Bengaluru,GopalanMallSirsiCircle,Kannada,14:40,Gold,180₹,265,4
+Bengaluru,InoxGarudaSwagathMallJayanagar,Kannada,19:10,Club,210₹,61,26
+Bengaluru,InoxGarudaSwagathMallJayanagar,Kannada,19:10,Executive,190₹,133,0
