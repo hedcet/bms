@@ -1,0 +1,13 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+TumakuruTumkur,InoxSMallTumakuru,Kannada,10:00,Royal,250₹,10,0
+TumakuruTumkur,InoxSMallTumakuru,Kannada,10:00,Club,160₹,108,0
+TumakuruTumkur,InoxSMallTumakuru,Kannada,10:00,Executive,140₹,136,0
+Bengaluru,SriNandeeshwaraTheatreJigani,Kannada,10:30,Balcony,100₹,52,0
+Mandya,SriMaruthiCinemasBelluruCross,Kannada,11:00,BalconyClass,100₹,57,0
+Mandya,SriMaruthiCinemasBelluruCross,Kannada,11:00,SecondClass,80₹,105,0
+Mandya,SriMaruthiCinemasBelluruCross,Kannada,14:00,BalconyClass,100₹,57,0
+Mandya,SriMaruthiCinemasBelluruCross,Kannada,14:00,SecondClass,80₹,105,0
+TumakuruTumkur,InoxSMallTumakuru,Kannada,15:40,Royal,300₹,14,8
+TumakuruTumkur,InoxSMallTumakuru,Kannada,15:40,Club,190₹,120,14
+TumakuruTumkur,InoxSMallTumakuru,Kannada,15:40,Executive,170₹,136,0
+Bengaluru,SriNandeeshwaraTheatreJigani,Kannada,17:00,Balcony,100₹,52,0
