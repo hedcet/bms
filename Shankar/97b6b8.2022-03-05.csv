@@ -1,0 +1,14 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Jaunpur,RamChitraMandirJaunpur,Bhojpuri,09:30,Diamond,100₹,80,0
+Jaunpur,RamChitraMandirJaunpur,Bhojpuri,09:30,Gold,80₹,120,0
+Jaunpur,RamChitraMandirJaunpur,Bhojpuri,12:30,Diamond,100₹,80,0
+Jaunpur,RamChitraMandirJaunpur,Bhojpuri,12:30,Gold,80₹,120,0
+PrayagrajAllahabad,MansarovarCinemaPrayagraj,Bhojpuri,12:30,SpecialClass,40₹,246,0
+Jaunpur,RamChitraMandirJaunpur,Bhojpuri,15:30,Diamond,100₹,80,2
+Jaunpur,RamChitraMandirJaunpur,Bhojpuri,15:30,Gold,80₹,120,0
+PrayagrajAllahabad,MansarovarCinemaPrayagraj,Bhojpuri,15:30,SpecialClass,40₹,246,0
+Chinsurah,RabindraManchaBhadreswar,Bhojpuri,16:00,Balcony,100₹,50,0
+Chinsurah,RabindraManchaBhadreswar,Bhojpuri,16:00,RearStall,50₹,50,0
+Jaunpur,RamChitraMandirJaunpur,Bhojpuri,18:15,Diamond,100₹,80,0
+Jaunpur,RamChitraMandirJaunpur,Bhojpuri,18:15,Gold,80₹,120,0
+PrayagrajAllahabad,MansarovarCinemaPrayagraj,Bhojpuri,18:30,SpecialClass,40₹,246,0
