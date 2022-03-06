@@ -1,0 +1,16 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Koothattukulam,ShenoysKochi,Malayalam,11:00,Diamond,220₹,71,0
+Koothattukulam,PadmaCinemaKochi,Malayalam,12:00,Platinum,150₹,178,16
+Thalayolaparambu,CarnivalThalayolaparambu,Malayalam,13:00,Gold,110₹,138,0
+Attingal,CarnivalGreenfieldTrivandrum,Malayalam,13:45,ExecutiveOffline,160₹,119,25
+Koothattukulam,PadmaCinemaKochi,Malayalam,15:00,Platinum,150₹,178,16
+Mannur,InoxSobhaCityMall,Malayalam,16:30,RoyalRecliner,350₹,10,2
+Mannur,InoxSobhaCityMall,Malayalam,16:30,Club,190₹,66,14
+Mannur,InoxSobhaCityMall,Malayalam,16:30,Royal,190₹,28,22
+Mannur,InoxSobhaCityMall,Malayalam,16:30,Executive,130₹,20,4
+Koothattukulam,PadmaCinemaKochi,Malayalam,18:00,Platinum,150₹,178,16
+Koothattukulam,PvrLuluKochi,Malayalam,19:50,Classic,140₹,39,0
+Koothattukulam,PvrLuluKochi,Malayalam,19:50,ClassicPlus,160₹,91,13
+Koothattukulam,PvrLuluKochi,Malayalam,19:50,Prime,190₹,68,23
+Koothattukulam,PvrLuluKochi,Malayalam,19:50,Recliner,350₹,10,0
+Koothattukulam,PadmaCinemaKochi,Malayalam,21:00,Platinum,150₹,178,16
