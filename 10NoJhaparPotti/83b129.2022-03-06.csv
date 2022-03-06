@@ -1,0 +1,15 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+AshoknagarWestBengal,NatarajCinemaAshoknagar,Bengali,11:00,FirstClass,30₹,50,0
+Arambagh,SudhanilCinemaArambagh,Bengali,15:00,Balcony,40₹,30,0
+Arambagh,SudhanilCinemaArambagh,Bengali,15:00,RearStall,30₹,21,0
+Krishnanagar,SangeetaTalkiesKrishnanagar,Bengali,16:00,Balcony,50₹,33,0
+Krishnanagar,SangeetaTalkiesKrishnanagar,Bengali,16:00,FirstClass,30₹,30,0
+Ranaghat,RanaghatTalkiesNadia,Bengali,16:30,1stClass,30₹,540,0
+Ranaghat,RanaghatTalkiesNadia,Bengali,16:30,Balcony,50₹,97,0
+Arambagh,SudhanilCinemaArambagh,Bengali,18:00,Balcony,40₹,30,0
+Arambagh,SudhanilCinemaArambagh,Bengali,18:00,RearStall,30₹,21,0
+Ranaghat,RanaghatTalkiesNadia,Bengali,19:00,1stClass,30₹,540,16
+Ranaghat,RanaghatTalkiesNadia,Bengali,19:00,Balcony,50₹,97,12
+Kolkata,ChhabigharCinemaKolkata,Bengali,19:00,Balcony,80₹,80,0
+Krishnanagar,SangeetaTalkiesKrishnanagar,Bengali,19:00,Balcony,50₹,33,0
+Krishnanagar,SangeetaTalkiesKrishnanagar,Bengali,19:00,FirstClass,30₹,30,0
