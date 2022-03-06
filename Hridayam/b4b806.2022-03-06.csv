@@ -1,0 +1,15 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Koothattukulam,PvrLuluKochi,Malayalam,09:45,Classic,110₹,39,0
+Koothattukulam,PvrLuluKochi,Malayalam,09:45,ClassicPlus,140₹,91,9
+Koothattukulam,PvrLuluKochi,Malayalam,09:45,Prime,160₹,68,33
+Koothattukulam,PvrLuluKochi,Malayalam,09:45,Recliner,290₹,10,7
+Mannur,InoxSobhaCityMall,Malayalam,11:10,RoyalRecliner,270₹,10,4
+Mannur,InoxSobhaCityMall,Malayalam,11:10,Royal,170₹,28,25
+Mannur,InoxSobhaCityMall,Malayalam,11:10,Club,140₹,63,9
+Mannur,InoxSobhaCityMall,Malayalam,11:10,Executive,110₹,20,0
+Attingal,NewTheatre4KRgbLaserDolbyAtmosThampanoor,Malayalam,11:30,Elite,150₹,173,7
+Attingal,NewTheatre4KRgbLaserDolbyAtmosThampanoor,Malayalam,14:30,Elite,150₹,173,21
+Chennai,PvrVrChennaiAnnaNagar,Malayalam,15:50,Classic,63₹,11,11
+Chennai,PvrVrChennaiAnnaNagar,Malayalam,15:50,Prime,202₹,102,91
+Attingal,NewTheatre4KRgbLaserDolbyAtmosThampanoor,Malayalam,18:30,Elite,150₹,173,39
+Attingal,NewTheatre4KRgbLaserDolbyAtmosThampanoor,Malayalam,21:30,Elite,150₹,173,0
