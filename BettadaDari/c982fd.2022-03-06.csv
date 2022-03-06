@@ -1,0 +1,10 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,PvrArenaMallDoddanakundiMarthalliRingRoad,Kannada,10:00,Classic,170₹,112,0
+Bengaluru,PvrArenaMallDoddanakundiMarthalliRingRoad,Kannada,10:00,Prime,190₹,25,0
+Bengaluru,PvrVaishnaviSapphireMallYeshwanthpur,Kannada,10:30,Classic,190₹,85,0
+Bengaluru,PvrVaishnaviSapphireMallYeshwanthpur,Kannada,10:30,Prime,210₹,29,0
+Bengaluru,PvrVaishnaviSapphireMallYeshwanthpur,Kannada,10:30,Recliner,350₹,13,0
+Bengaluru,PvrOrionUptownOldMadrasRoadBengaluru,Kannada,12:50,Classic,200₹,128,8
+Bengaluru,GopalanMallSirsiCircle,Kannada,14:40,Gold,180₹,265,4
+Bengaluru,InoxGarudaSwagathMallJayanagar,Kannada,19:10,Club,230₹,61,16
+Bengaluru,InoxGarudaSwagathMallJayanagar,Kannada,19:10,Executive,200₹,133,0
