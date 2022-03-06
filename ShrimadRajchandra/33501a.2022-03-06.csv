@@ -1,0 +1,6 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Champahati,CinepolisLakeMallKolkata,Gujarati,09:00,Normal,150₹,22,19
+Champahati,CinepolisLakeMallKolkata,Gujarati,09:00,Executive,150₹,55,52
+Champahati,CinepolisLakeMallKolkata,Gujarati,09:00,Premium,150₹,32,31
+Rajkot,InoxRajkotRWorld,Gujarati,10:00,Gold,150₹,199,199
+Rajkot,InoxRajkotRWorld,Gujarati,10:00,Silver,150₹,51,1
