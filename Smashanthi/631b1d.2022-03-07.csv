@@ -1,0 +1,9 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,SriBalaji4KACDolbyAtmosDommasandra,Kannada,10:00,Diamond,150₹,24,0
+Bengaluru,SriBalaji4KACDolbyAtmosDommasandra,Kannada,10:00,Gold,130₹,381,0
+Bengaluru,SriVinayakaCinemas4KDolby71ACVarthur,Kannada,13:15,Sofa,200₹,15,0
+Bengaluru,SriVinayakaCinemas4KDolby71ACVarthur,Kannada,13:15,Box,150₹,31,0
+Bengaluru,SriVinayakaCinemas4KDolby71ACVarthur,Kannada,13:15,Gold,120₹,359,15
+Bengaluru,SriVinayakaCinemas4KDolby71ACVarthur,Kannada,13:15,Silver,100₹,34,0
+Bengaluru,VinayakaMultiplexScreen2MysuruRoad,Kannada,19:00,GoldClass,100₹,81,0
+Bengaluru,VinayakaMultiplexScreen2MysuruRoad,Kannada,21:00,GoldClass,100₹,81,0
