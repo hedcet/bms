@@ -1,0 +1,15 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Mumbai,PvrIconPhoenixPalladiumLowerParelMumbai,English,11:00,Lounger,130₹,10,0
+Mumbai,PvrIconPhoenixPalladiumLowerParelMumbai,English,11:00,Classic,130₹,39,0
+Mumbai,PvrIconPhoenixPalladiumLowerParelMumbai,English,11:00,Prime,200₹,68,18
+Mumbai,PvrIconPhoenixPalladiumLowerParelMumbai,English,11:00,Recliner,250₹,14,4
+NationalCapitalRegionNcr,PvrSelectCityWalkDelhi,English,13:05,ClassicNormal,250₹,120,2
+NationalCapitalRegionNcr,PvrSelectCityWalkDelhi,English,13:05,ClassicSuperior,300₹,34,2
+NationalCapitalRegionNcr,PvrSelectCityWalkDelhi,English,13:05,ReclinersNormal,700₹,10,0
+NationalCapitalRegionNcr,PvrDirectorSCutDelhiAmbienceMall,English,14:55,Platinum,500₹,36,0
+NationalCapitalRegionNcr,PvrDirectorSCutDelhiAmbienceMall,English,14:55,PlatinumSuperior,500₹,10,0
+NationalCapitalRegionNcr,PvrPromenadeVasantKunj,English,16:15,Classic,320₹,96,12
+NationalCapitalRegionNcr,PvrPromenadeVasantKunj,English,16:15,Prime,320₹,33,12
+NationalCapitalRegionNcr,PvrAmbienceGoldGurgaon,English,19:40,Platinum,400₹,28,0
+NationalCapitalRegionNcr,PvrAmbienceGoldGurgaon,English,19:40,PlatinumSuperior,400₹,16,0
+NationalCapitalRegionNcr,PvrLogixNoida,English,20:10,Classic,260₹,87,0
