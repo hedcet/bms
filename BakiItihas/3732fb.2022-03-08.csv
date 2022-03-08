@@ -1,0 +1,5 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Memari,KristiCinemaMemari,Bengali,11:15,UpperStall,80₹,231,0
+Memari,KristiCinemaMemari,Bengali,11:15,RearStall,60₹,208,0
+Memari,KristiCinemaMemari,Bengali,11:15,FrontStall,60₹,102,0
+Kolkata,NandanKolkata,Bengali,18:00,Normal,30₹,124,33
