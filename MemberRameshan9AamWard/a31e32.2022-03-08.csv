@@ -1,0 +1,9 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Mannur,InoxSobhaCityMall,Malayalam,16:30,RoyalRecliner,290₹,10,0
+Mannur,InoxSobhaCityMall,Malayalam,16:30,Club,170₹,66,0
+Mannur,InoxSobhaCityMall,Malayalam,16:30,Royal,170₹,28,15
+Mannur,InoxSobhaCityMall,Malayalam,16:30,Executive,130₹,20,0
+Koothattukulam,PvrLuluKochi,Malayalam,19:50,Classic,140₹,39,0
+Koothattukulam,PvrLuluKochi,Malayalam,19:50,ClassicPlus,160₹,91,3
+Koothattukulam,PvrLuluKochi,Malayalam,19:50,Prime,190₹,68,17
+Koothattukulam,PvrLuluKochi,Malayalam,19:50,Recliner,350₹,10,2
