@@ -1,0 +1,16 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+NationalCapitalRegionNcr,PvrLogixNoida,English,10:00,Classic,180₹,78,0
+Mumbai,InoxLaserplexCr2NarimanPoint,English,12:30,Royale,210₹,114,11
+Mumbai,InoxLaserplexCr2NarimanPoint,English,12:30,Club,190₹,150,0
+Mumbai,MaisonPvrLivingRoomLuxeJioWorldDriveBkc,English,13:30,Luxe,500₹,24,6
+Mumbai,MaisonPvrLivingRoomLuxeJioWorldDriveBkc,English,13:30,LuxeSuperior,500₹,10,10
+Ahmedabad,TimeCinemaCgRoadAhmedabad,English,16:00,Recliner,940₹,8,0
+Mumbai,PvrLuxePhoenixPalladiumLowerParelMumbai,English,16:20,Prime,850₹,20,0
+Mumbai,PvrLuxePhoenixPalladiumLowerParelMumbai,English,16:20,PrimePlus,850₹,42,11
+Mumbai,InoxInsigniaAtAtriaMallWorli,English,16:50,Insignia,700₹,30,10
+Surat,TimeCinemaGalaxyCirclePalSurat,English,19:20,Gold,210₹,36,0
+NationalCapitalRegionNcr,InoxArdeeMallGurugram,English,20:15,Insignia,500₹,25,6
+NationalCapitalRegionNcr,PvrAmbienceGoldGurgaon,English,22:35,Platinum,400₹,28,2
+NationalCapitalRegionNcr,PvrAmbienceGoldGurgaon,English,22:35,PlatinumSuperior,400₹,16,11
+Surat,TimeCinemaGalaxyCirclePalSurat,English,22:40,Gold,240₹,36,0
+NationalCapitalRegionNcr,PvrLogixNoida,English,23:00,Classic,245₹,87,2
