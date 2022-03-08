@@ -1,0 +1,14 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+NationalCapitalRegionNcr,PvrAnsalPlazaGreaterNoida,Hindi,12:00,Classic,130₹,128,0
+NationalCapitalRegionNcr,PvrAnsalPlazaGreaterNoida,Hindi,12:00,Prime,160₹,48,48
+NationalCapitalRegionNcr,InoxCrownInteriorzMallDelhiMathuraRoad,Hindi,12:25,Club,180₹,164,10
+NationalCapitalRegionNcr,InoxCrownInteriorzMallDelhiMathuraRoad,Hindi,12:25,Executive,160₹,54,0
+NationalCapitalRegionNcr,CarnivalRahejaMallGurgaon,Hindi,12:45,Aurus,400₹,14,4
+NationalCapitalRegionNcr,CarnivalRahejaMallGurgaon,Hindi,12:45,PremiumOffline,250₹,51,20
+NationalCapitalRegionNcr,CarnivalRahejaMallGurgaon,Hindi,12:45,Classic,250₹,40,0
+NationalCapitalRegionNcr,CarnivalRahejaMallGurgaon,Hindi,12:45,Standard,250₹,52,0
+NationalCapitalRegionNcr,CarnivalTgip,Hindi,13:00,Gold,200₹,263,0
+NationalCapitalRegionNcr,PvrGaurCityGreaterNoida,Hindi,13:40,Classic,185₹,87,0
+NationalCapitalRegionNcr,PvrGaurCityGreaterNoida,Hindi,13:40,Prime,215₹,13,0
+Muradnagar,MirajCinemasM4USahibabad,Hindi,14:30,Special,110₹,60,0
+Muradnagar,MirajCinemasM4USahibabad,Hindi,14:30,Executive,110₹,134,14
