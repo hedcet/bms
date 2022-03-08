@@ -1,0 +1,11 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Champahati,IndiraCinemaKolkata,Bengali,12:00,Balcony,80₹,119,0
+Kolkata,InoxSouthCityKolkata,Bengali,12:05,Premier,160₹,34,0
+Kolkata,InoxSouthCityKolkata,Bengali,12:05,Silver,160₹,165,12
+Kolkata,NandanKolkata,Bengali,15:00,FrontStall,30₹,83,8
+Kolkata,NandanKolkata,Bengali,15:00,RearStall,50₹,338,24
+Kolkata,NandanKolkata,Bengali,15:00,Balcony,70₹,276,44
+Champahati,AjantaCinemaBehala,Bengali,16:00,Balcony,150₹,58,2
+Kolkata,PvrDiamondPlazaJessoreKolkata,Bengali,19:05,Classic,160₹,100,2
+Kolkata,PvrDiamondPlazaJessoreKolkata,Bengali,19:05,Prime,220₹,11,0
+Kolkata,PvrDiamondPlazaJessoreKolkata,Bengali,19:05,Recliner,420₹,12,0
