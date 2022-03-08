@@ -1,0 +1,5 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+HubballiHubli,ApsaraSudhaCinemasHubli,Kannada,12:00,Balcony,150₹,220,14
+HubballiHubli,ApsaraSudhaCinemasHubli,Kannada,12:00,DressCircle,110₹,218,0
+HubballiHubli,ApsaraSudhaCinemasHubli,Kannada,15:00,Balcony,150₹,220,0
+HubballiHubli,ApsaraSudhaCinemasHubli,Kannada,15:00,DressCircle,110₹,218,1
