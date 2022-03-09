@@ -1,0 +1,14 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,PvrTheCinemaGtWorldBengaluru,Kannada,10:00,Classic,112₹,228,8
+Bengaluru,PvrTheCinemaGtWorldBengaluru,Kannada,10:00,Recliner,250₹,12,6
+Bengaluru,VictoryCinemaBarco4KRgbLaserKamakshipalya,Kannada,11:00,Premium,110₹,505,90
+Bidar,SapnaMultiplexBidar,Kannada,11:00,Gold,180₹,300,0
+Bengaluru,GopalanMallSirsiCircle,Kannada,12:00,Gold,130₹,261,0
+Bengaluru,CinepolisBinnypetMall,Kannada,13:05,Normal,150₹,10,0
+Bengaluru,CinepolisBinnypetMall,Kannada,13:05,Executive,150₹,82,0
+Bengaluru,CinepolisBinnypetMall,Kannada,13:05,Premium,150₹,34,2
+KalaburagiGulbarga,ShettysMultiplexGulbarga,Kannada,16:45,Platinum,180₹,137,0
+KalaburagiGulbarga,ShettysMultiplexGulbarga,Kannada,16:45,Gold,130₹,137,0
+KalaburagiGulbarga,ShettysMultiplexGulbarga,Kannada,16:45,Silver,100₹,137,0
+VijayapuraBijapur,AlankarTheatreBijapur,Kannada,18:00,Balcony,150₹,49,0
+VijayapuraBijapur,AlankarTheatreBijapur,Kannada,21:00,Balcony,150₹,49,0
