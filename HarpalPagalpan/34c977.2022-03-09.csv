@@ -1,0 +1,10 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+KalaburagiGulbarga,SangamTalkiesKalaburagi,Hindi,11:15,Balcony,100₹,100,0
+Hyderabad,SapnaCinemasAbids,Hindi,11:30,Balcony,100₹,189,0
+Hyderabad,SapnaCinemasAbids,Hindi,11:30,Silver,70₹,100,0
+Mumbai,CarnivalMoviestarGoregaon,Hindi,13:15,SilverOffline,150₹,20,0
+Mumbai,CarnivalMoviestarGoregaon,Hindi,13:15,GoldOffline,150₹,55,20
+Hyderabad,SapnaCinemasAbids,Hindi,14:30,Balcony,100₹,189,0
+Hyderabad,SapnaCinemasAbids,Hindi,14:30,Silver,70₹,100,0
+Meerut,RegalCineplexMeerut,Hindi,18:30,Diamond,120₹,119,0
+Meerut,RegalCineplexMeerut,Hindi,18:30,Gold,80₹,96,0
