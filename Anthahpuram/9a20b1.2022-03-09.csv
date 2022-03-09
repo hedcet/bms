@@ -1,0 +1,9 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+HubballiHubli,NewRupamCinemaHubballi,Telugu,12:00,Balcony,100₹,176,0
+HubballiHubli,NewRupamCinemaHubballi,Telugu,12:00,Dresscircle,80₹,380,0
+HubballiHubli,NewRupamCinemaHubballi,Telugu,15:00,Balcony,100₹,176,0
+HubballiHubli,NewRupamCinemaHubballi,Telugu,15:00,Dresscircle,80₹,380,4
+HubballiHubli,NewRupamCinemaHubballi,Telugu,18:00,Balcony,100₹,176,0
+HubballiHubli,NewRupamCinemaHubballi,Telugu,18:00,Dresscircle,80₹,380,0
+HubballiHubli,NewRupamCinemaHubballi,Telugu,21:00,Balcony,100₹,176,0
+HubballiHubli,NewRupamCinemaHubballi,Telugu,21:00,Dresscircle,80₹,380,0
