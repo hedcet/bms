@@ -1,0 +1,9 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Rajgurunagar,AbhiruchiCityPrideSinhagadRoad,Marathi,17:00,RoyalSofa,200₹,12,5
+Rajgurunagar,AbhiruchiCityPrideSinhagadRoad,Marathi,17:00,RoyalGold,180₹,99,4
+Rajgurunagar,AbhiruchiCityPrideSinhagadRoad,Marathi,17:00,RoyalSilver,160₹,30,0
+Rajgurunagar,LaxmiCineplexNarayangaon,Marathi,18:00,Platinum,140₹,24,0
+Rajgurunagar,LaxmiCineplexNarayangaon,Marathi,18:00,Gold,99₹,120,0
+Rajgurunagar,CityPrideKothrud,Marathi,18:45,RoyalGold,200₹,149,2
+Rajgurunagar,CityPrideKothrud,Marathi,18:45,RoyalSilver,180₹,22,1
+Rajgurunagar,ShevantaCinemaJunnar,Marathi,21:30,Gold,99₹,118,0
