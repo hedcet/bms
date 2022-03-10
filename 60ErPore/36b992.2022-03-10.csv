@@ -1,0 +1,14 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Kolkata,PvrDiamondPlazaJessoreKolkata,Bengali,11:10,Classic,130₹,210,0
+Kolkata,PvrDiamondPlazaJessoreKolkata,Bengali,11:10,Prime,180₹,11,0
+Kolkata,PvrDiamondPlazaJessoreKolkata,Bengali,11:10,Recliner,350₹,12,0
+Chinsurah,MiniSushamaCinemaSheoraphuli,Bengali,13:00,RoyalClass,100₹,88,0
+AshoknagarWestBengal,NatarajCinemaAshoknagar,Bengali,13:15,FirstClass,30₹,50,0
+Kolkata,LaliCinemaBarasat,Bengali,14:00,DressCircle,110₹,6,0
+Kolkata,LaliCinemaBarasat,Bengali,14:00,Balcony,70₹,27,0
+Kolkata,LaliCinemaBarasat,Bengali,14:00,DiamondAc,150₹,14,0
+Kolkata,LaliCinemaBarasat,Bengali,14:00,RearStall,50₹,54,0
+Kolkata,MinarCinemaKolkata,Bengali,14:30,Balcony,130₹,86,0
+Kolkata,ChhabigharCinemaKolkata,Bengali,17:15,Balcony,80₹,80,0
+Chinsurah,MiniSushamaCinemaSheoraphuli,Bengali,18:30,RoyalClass,100₹,88,0
+Kolkata,BijoliCinemaKolkata,Bengali,19:00,Balcony,100₹,107,1
