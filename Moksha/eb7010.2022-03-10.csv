@@ -1,0 +1,6 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,GopalanCinemasArcadeMallMysoreRoad,Kannada,12:00,Gold,180₹,292,0
+Bengaluru,GopalanCinemasArcadeMallMysoreRoad,Kannada,12:00,Recliner,280₹,19,0
+Bengaluru,InoxSbrHorizonSeegehalliWhitefieldHoskoteRd,Kannada,12:55,Club,130₹,60,6
+Bengaluru,InoxSbrHorizonSeegehalliWhitefieldHoskoteRd,Kannada,12:55,Executive,110₹,50,0
+Bengaluru,GopalanMiniplexSignatureMallOldMadrasRoad,Kannada,17:10,Gold,180₹,65,2
