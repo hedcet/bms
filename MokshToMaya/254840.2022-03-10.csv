@@ -1,0 +1,17 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+HindaunCity,GeetaTalkiesHindaunCity,Hindi,12:00,FamilyBox,220₹,10,0
+HindaunCity,GeetaTalkiesHindaunCity,Hindi,12:00,BalconyClass,120₹,50,0
+HindaunCity,GeetaTalkiesHindaunCity,Hindi,12:00,GoldClass,100₹,50,0
+HindaunCity,GeetaTalkiesHindaunCity,Hindi,12:00,Economy,70₹,25,0
+HindaunCity,GeetaTalkiesHindaunCity,Hindi,15:00,FamilyBox,220₹,10,0
+HindaunCity,GeetaTalkiesHindaunCity,Hindi,15:00,BalconyClass,120₹,50,0
+HindaunCity,GeetaTalkiesHindaunCity,Hindi,15:00,GoldClass,100₹,50,0
+HindaunCity,GeetaTalkiesHindaunCity,Hindi,15:00,Economy,70₹,25,0
+HindaunCity,GeetaTalkiesHindaunCity,Hindi,18:00,FamilyBox,220₹,10,0
+HindaunCity,GeetaTalkiesHindaunCity,Hindi,18:00,BalconyClass,120₹,50,0
+HindaunCity,GeetaTalkiesHindaunCity,Hindi,18:00,GoldClass,100₹,50,0
+HindaunCity,GeetaTalkiesHindaunCity,Hindi,18:00,Economy,70₹,25,0
+HindaunCity,GeetaTalkiesHindaunCity,Hindi,21:00,FamilyBox,220₹,10,2
+HindaunCity,GeetaTalkiesHindaunCity,Hindi,21:00,BalconyClass,120₹,50,0
+HindaunCity,GeetaTalkiesHindaunCity,Hindi,21:00,GoldClass,100₹,50,0
+HindaunCity,GeetaTalkiesHindaunCity,Hindi,21:00,Economy,70₹,25,0
