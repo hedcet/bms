@@ -1,0 +1,13 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+NationalCapitalRegionNcr,PvrVegasDwarka,Hindi,10:00,Classic,221₹,120,19
+NationalCapitalRegionNcr,PvrVegasDwarka,Hindi,10:00,Prime,267₹,15,4
+NationalCapitalRegionNcr,PvrLogixNoida,Hindi,10:00,Classic,180₹,87,24
+Mumbai,InoxInsigniaAtAtriaMallWorli,Hindi,11:15,Insignia,330₹,34,23
+Champahati,InoxForumMallElginRoad,Hindi,13:20,DressCircle,180₹,102,41
+Champahati,InoxForumMallElginRoad,Hindi,13:20,Galleria,180₹,35,2
+Champahati,InoxForumMallElginRoad,Hindi,13:20,Royal,180₹,35,34
+Mumbai,MetroInoxCinemasMarineLines,Hindi,13:40,Kiddles,220₹,45,25
+NationalCapitalRegionNcr,PvrAmbienceGoldGurgaon,Hindi,13:40,Platinum,400₹,28,0
+NationalCapitalRegionNcr,PvrAmbienceGoldGurgaon,Hindi,13:40,PlatinumSuperior,400₹,16,11
+Bengaluru,PvrTheForumMallKoramangala,Hindi,18:00,Classic,180₹,103,34
+NationalCapitalRegionNcr,PvrLogixNoida,Hindi,22:55,Classic,245₹,78,0
