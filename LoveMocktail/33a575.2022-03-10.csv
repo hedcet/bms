@@ -1,0 +1,4 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,CinepolisOrionEastMallBanaswadi,Kannada,12:40,Normal,140₹,30,0
+Bengaluru,CinepolisOrionEastMallBanaswadi,Kannada,12:40,Executive,160₹,102,4
+Bengaluru,CinepolisOrionEastMallBanaswadi,Kannada,12:40,Premium,180₹,35,0
