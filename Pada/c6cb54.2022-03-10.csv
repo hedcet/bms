@@ -1,0 +1,15 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Koothattukulam,ZeenathTheatre2KACAluva,Malayalam,10:00,RubyRing,150₹,55,13
+Koothattukulam,ZeenathTheatre2KACAluva,Malayalam,10:00,EmeraldRing,120₹,128,47
+Cherthala,EvmGrandCinemaCherthala,Malayalam,11:30,Platinum,160₹,13,0
+Koothattukulam,ZeenathTheatre2KACAluva,Malayalam,13:00,RubyRing,150₹,55,13
+Koothattukulam,ZeenathTheatre2KACAluva,Malayalam,13:00,EmeraldRing,120₹,128,48
+Cherthala,EvmGrandCinemaCherthala,Malayalam,14:30,Platinum,160₹,13,0
+Koothattukulam,ZeenathTheatre2KACAluva,Malayalam,16:00,RubyRing,150₹,55,13
+Koothattukulam,ZeenathTheatre2KACAluva,Malayalam,16:00,EmeraldRing,120₹,128,47
+Cherthala,EvmGrandCinemaCherthala,Malayalam,18:15,Platinum,160₹,13,0
+Koothattukulam,ZeenathTheatre2KACAluva,Malayalam,19:00,RubyRing,150₹,55,13
+Koothattukulam,ZeenathTheatre2KACAluva,Malayalam,19:00,EmeraldRing,120₹,128,47
+Cherthala,EvmGrandCinemaCherthala,Malayalam,21:30,Platinum,160₹,13,0
+Koothattukulam,ZeenathTheatre2KACAluva,Malayalam,22:00,RubyRing,150₹,55,13
+Koothattukulam,ZeenathTheatre2KACAluva,Malayalam,22:00,EmeraldRing,120₹,128,47
