@@ -1,0 +1,8 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Mumbai,PvrLuxePhoenixPalladiumLowerParelMumbai,English,13:30,Prime,600₹,12,1
+Mumbai,PvrLuxePhoenixPalladiumLowerParelMumbai,English,13:30,PrimePlus,600₹,30,9
+Hyderabad,PvrForumSujanaMallKukatpallyHyderabad,English,13:35,Classic,150₹,135,32
+Hyderabad,PvrForumSujanaMallKukatpallyHyderabad,English,13:35,Recliner,250₹,9,0
+NationalCapitalRegionNcr,PvrLogixNoida,English,13:40,Classic,265₹,84,4
+NationalCapitalRegionNcr,PvrAmbienceGoldGurgaon,English,22:00,Platinum,"1,000₹",28,0
+NationalCapitalRegionNcr,PvrAmbienceGoldGurgaon,English,22:00,PlatinumSuperior,"1,200₹",8,0
