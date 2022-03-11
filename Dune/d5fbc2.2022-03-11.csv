@@ -1,0 +1,5 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Mumbai,InoxRCityGhatkopar,English,19:45,RoyalRecliner,330₹,13,2
+Mumbai,InoxRCityGhatkopar,English,19:45,Club,200₹,63,0
+Mumbai,InoxRCityGhatkopar,English,19:45,Executive,200₹,36,0
+Mumbai,InoxRCityGhatkopar,English,19:45,Royal,200₹,45,8
