@@ -1,0 +1,6 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Mumbai,CarnivalMoviestarGoregaon,Marathi,11:00,SilverOffline,90₹,24,0
+Mumbai,CarnivalMoviestarGoregaon,Marathi,11:00,GoldOffline,90₹,46,10
+Rajgurunagar,AbhiruchiCityPrideSinhagadRoad,Marathi,13:15,RoyalSofa,180₹,12,0
+Rajgurunagar,AbhiruchiCityPrideSinhagadRoad,Marathi,13:15,RoyalGold,160₹,99,0
+Rajgurunagar,AbhiruchiCityPrideSinhagadRoad,Marathi,13:15,RoyalSilver,140₹,30,10
