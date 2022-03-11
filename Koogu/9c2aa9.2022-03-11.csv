@@ -1,0 +1,12 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,PvrTheCinemaGtWorldBengaluru,Kannada,10:15,Classic,112₹,180,8
+Bengaluru,PvrTheCinemaGtWorldBengaluru,Kannada,10:15,Recliner,250₹,16,6
+Bengaluru,VinayakaMultiplexScreen2MysuruRoad,Kannada,10:30,GoldClass,100₹,81,0
+Bengaluru,CinepolisBinnypetMall,Kannada,11:00,Executive,150₹,69,0
+Bengaluru,CinepolisBinnypetMall,Kannada,11:00,Premium,150₹,29,0
+Mandya,SriMaruthiCinemasBelluruCross,Kannada,11:00,BalconyClass,100₹,57,0
+Mandya,SriMaruthiCinemasBelluruCross,Kannada,11:00,SecondClass,80₹,105,0
+Bengaluru,GopalanMallSirsiCircle,Kannada,12:00,Gold,200₹,261,0
+Bengaluru,VinayakaMultiplexScreen2MysuruRoad,Kannada,13:30,GoldClass,100₹,81,0
+Mandya,SriMaruthiCinemasBelluruCross,Kannada,14:00,BalconyClass,100₹,57,0
+Mandya,SriMaruthiCinemasBelluruCross,Kannada,14:00,SecondClass,80₹,105,0
