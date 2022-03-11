@@ -1,0 +1,7 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Ahmedabad,TimeCinemaCgRoadAhmedabad,English,09:55,Gold,200₹,27,0
+Mumbai,PvrLuxePhoenixPalladiumLowerParelMumbai,English,14:00,Prime,600₹,20,1
+Mumbai,PvrLuxePhoenixPalladiumLowerParelMumbai,English,14:00,PrimePlus,600₹,42,16
+Ahmedabad,TimeCinemaCgRoadAhmedabad,English,16:00,Recliner,"1,040₹",8,0
+Surat,TimeCinemaGalaxyCirclePalSurat,English,19:40,Gold,210₹,36,0
+Surat,TimeCinemaGalaxyCirclePalSurat,English,23:00,Gold,240₹,36,0
