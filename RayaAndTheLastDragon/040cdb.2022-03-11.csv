@@ -1,0 +1,4 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Guwahati,PvrCityCentreGuwahati,English,19:20,Classic,190₹,40,0
+Guwahati,PvrCityCentreGuwahati,English,19:20,Prime,220₹,82,14
+Guwahati,PvrCityCentreGuwahati,English,19:20,PrimePlus,260₹,13,6
