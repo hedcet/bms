@@ -1,0 +1,7 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+NationalCapitalRegionNcr,PvrDirectorSCutDelhiAmbienceMall,English,19:30,Platinum,"1,200₹",19,3
+NationalCapitalRegionNcr,PvrDirectorSCutDelhiAmbienceMall,English,19:30,PlatinumSuperior,"1,400₹",6,0
+NationalCapitalRegionNcr,PvrMgfGurgaon,English,19:30,Classic,380₹,105,1
+NationalCapitalRegionNcr,PvrMgfGurgaon,English,19:30,Prime,480₹,44,6
+NationalCapitalRegionNcr,PvrPacificSubhashNagarDelhi,English,19:30,Prime,480₹,88,20
+NationalCapitalRegionNcr,PvrPacificSubhashNagarDelhi,English,19:30,Classic,440₹,52,0
