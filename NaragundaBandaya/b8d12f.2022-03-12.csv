@@ -1,0 +1,8 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+VijayapuraBijapur,AmirTalkiesVijayapuraBijapur,Kannada,12:00,Balcony,130₹,96,0
+VijayapuraBijapur,AmirTalkiesVijayapuraBijapur,Kannada,12:00,InterClass,100₹,555,0
+VijayapuraBijapur,AmirTalkiesVijayapuraBijapur,Kannada,15:00,Balcony,130₹,96,0
+VijayapuraBijapur,AmirTalkiesVijayapuraBijapur,Kannada,15:00,InterClass,100₹,555,0
+Raichur,MirajCinemasRaichur,Kannada,18:30,Gold,180₹,61,0
+Raichur,MirajCinemasRaichur,Kannada,18:30,Executive,160₹,90,1
+Raichur,MirajCinemasRaichur,Kannada,18:30,Silver,140₹,30,0
