@@ -1,0 +1,8 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+NationalCapitalRegionNcr,PvrMgfGurgaon,English,19:30,Classic,380₹,90,2
+NationalCapitalRegionNcr,PvrMgfGurgaon,English,19:30,Prime,480₹,44,4
+NationalCapitalRegionNcr,PvrDirectorSCutDelhiAmbienceMall,English,19:30,Platinum,"1,200₹",19,7
+NationalCapitalRegionNcr,PvrDirectorSCutDelhiAmbienceMall,English,19:30,PlatinumSuperior,"1,400₹",6,2
+NationalCapitalRegionNcr,PvrSelectCityWalkDelhi,English,19:30,ClassicNormal,200₹,120,0
+NationalCapitalRegionNcr,PvrSelectCityWalkDelhi,English,19:30,ClassicSuperior,250₹,34,3
+NationalCapitalRegionNcr,PvrSelectCityWalkDelhi,English,19:30,ReclinersNormal,500₹,10,0
