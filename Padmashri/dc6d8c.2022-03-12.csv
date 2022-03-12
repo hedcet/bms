@@ -1,0 +1,5 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Warangal,LaxmanCinemaWarangal,Telugu,11:45,Platinum,100₹,63,0
+Warangal,LaxmanCinemaWarangal,Telugu,14:45,Platinum,100₹,63,1
+Warangal,LaxmanCinemaWarangal,Telugu,18:45,Platinum,100₹,63,0
+Warangal,LaxmanCinemaWarangal,Telugu,21:45,Platinum,100₹,63,0
