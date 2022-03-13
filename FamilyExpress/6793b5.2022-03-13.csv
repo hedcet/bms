@@ -1,0 +1,7 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Barrackpore,NazrultirthaCinemaScreen3Kolkata,Bengali,15:30,Gold,130₹,30,4
+Barrackpore,NazrultirthaCinemaScreen3Kolkata,Bengali,15:30,Recliner,150₹,8,0
+Barrackpore,NazrultirthaCinemaScreen3Kolkata,Bengali,15:30,Sofa,130₹,12,0
+Memari,KristiCinemaMemari,Bengali,18:50,UpperStall,80₹,231,0
+Memari,KristiCinemaMemari,Bengali,18:50,RearStall,60₹,208,0
+Memari,KristiCinemaMemari,Bengali,18:50,FrontStall,60₹,102,0
