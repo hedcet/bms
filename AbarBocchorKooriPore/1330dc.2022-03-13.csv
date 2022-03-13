@@ -1,0 +1,16 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Siliguri,RabindraManchShaktigarhSiliguri,Bengali,12:30,RearStall,50₹,90,0
+Kolkata,InoxSouthCityKolkata,Bengali,14:00,Silver,230₹,135,56
+Kolkata,InoxSouthCityKolkata,Bengali,14:00,Premier,220₹,34,0
+Siliguri,RabindraManchShaktigarhSiliguri,Bengali,15:15,RearStall,50₹,90,0
+Kolkata,NazrultirthaCinemaKolkata,Bengali,17:15,Silver,130₹,26,25
+Kolkata,NazrultirthaCinemaKolkata,Bengali,17:15,Gold,150₹,65,65
+Kolkata,NandanKolkata,Bengali,17:30,FrontStall,30₹,83,75
+Kolkata,NandanKolkata,Bengali,17:30,RearStall,50₹,338,323
+Kolkata,NandanKolkata,Bengali,17:30,Balcony,70₹,276,254
+Siliguri,RabindraManchShaktigarhSiliguri,Bengali,18:00,RearStall,50₹,90,4
+Jigani,PvrPhoenixMarketcityMallWhitefieldRoad,Bengali,18:30,Classic,260₹,72,35
+Jigani,PvrPhoenixMarketcityMallWhitefieldRoad,Bengali,18:30,Recliner,470₹,7,2
+Kolkata,PvrDiamondPlazaJessoreKolkata,Bengali,19:30,Classic,250₹,100,20
+Kolkata,PvrDiamondPlazaJessoreKolkata,Bengali,19:30,Prime,300₹,11,2
+Kolkata,PvrDiamondPlazaJessoreKolkata,Bengali,19:30,Recliner,470₹,12,0
