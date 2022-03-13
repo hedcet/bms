@@ -1,0 +1,13 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Chikkaballapur,VaniTheatreChickballapur,Kannada,10:00,GoldClass,120₹,25,0
+Chikkaballapur,VaniTheatreChickballapur,Kannada,10:00,SilverClass,100₹,25,0
+Chikkaballapur,VaniTheatreChickballapur,Kannada,13:00,GoldClass,120₹,25,0
+Chikkaballapur,VaniTheatreChickballapur,Kannada,13:00,SilverClass,100₹,25,0
+Jigani,NavrangTheatreRajajiNagar,Kannada,13:15,Balcony,150₹,256,17
+Jigani,NavrangTheatreRajajiNagar,Kannada,13:15,Second,110₹,475,0
+Chikkaballapur,VaniTheatreChickballapur,Kannada,16:00,GoldClass,120₹,25,4
+Chikkaballapur,VaniTheatreChickballapur,Kannada,16:00,SilverClass,100₹,25,0
+Kasaragod,CineKrishna4KKasaragod,Kannada,16:30,FirstClass,130₹,144,0
+Kasaragod,CineKrishna4KKasaragod,Kannada,16:30,Sofa,200₹,8,0
+Chikkaballapur,VaniTheatreChickballapur,Kannada,19:00,GoldClass,120₹,25,0
+Chikkaballapur,VaniTheatreChickballapur,Kannada,19:00,SilverClass,100₹,25,0
