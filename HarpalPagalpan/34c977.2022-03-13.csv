@@ -1,0 +1,9 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Jaunpur,RamChitraMandirJaunpur,Hindi,09:30,Diamond,100₹,80,0
+Jaunpur,RamChitraMandirJaunpur,Hindi,09:30,Gold,80₹,120,0
+Jaunpur,RamChitraMandirJaunpur,Hindi,12:30,Diamond,100₹,80,0
+Jaunpur,RamChitraMandirJaunpur,Hindi,12:30,Gold,80₹,120,0
+Jaunpur,RamChitraMandirJaunpur,Hindi,15:30,Diamond,100₹,80,4
+Jaunpur,RamChitraMandirJaunpur,Hindi,15:30,Gold,80₹,120,0
+Jaunpur,RamChitraMandirJaunpur,Hindi,18:15,Diamond,100₹,80,0
+Jaunpur,RamChitraMandirJaunpur,Hindi,18:15,Gold,80₹,120,0
