@@ -1,0 +1,13 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Guntur,VenkataKrishnaTheatreGuntur,Telugu,11:00,FirstClass,100₹,236,204
+Guntur,VenkataKrishnaTheatreGuntur,Telugu,11:00,SecondClass,60₹,59,59
+Guntur,VenkataKrishnaTheatreGuntur,Telugu,11:00,ThirdClass,40₹,68,1
+Guntur,VenkataKrishnaTheatreGuntur,Telugu,14:00,FirstClass,100₹,236,32
+Guntur,VenkataKrishnaTheatreGuntur,Telugu,14:00,SecondClass,60₹,59,0
+Guntur,VenkataKrishnaTheatreGuntur,Telugu,14:00,ThirdClass,40₹,68,68
+Guntur,VenkataKrishnaTheatreGuntur,Telugu,18:00,FirstClass,100₹,236,32
+Guntur,VenkataKrishnaTheatreGuntur,Telugu,18:00,SecondClass,60₹,59,0
+Guntur,VenkataKrishnaTheatreGuntur,Telugu,18:00,ThirdClass,40₹,68,68
+Guntur,VenkataKrishnaTheatreGuntur,Telugu,21:00,FirstClass,100₹,236,0
+Guntur,VenkataKrishnaTheatreGuntur,Telugu,21:00,SecondClass,60₹,59,4
+Guntur,VenkataKrishnaTheatreGuntur,Telugu,21:00,ThirdClass,40₹,68,0
