@@ -1,0 +1,8 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Parbhani,ESquareAnusayaParbhani,Marathi,12:15,Box,130₹,18,18
+Parbhani,ESquareAnusayaParbhani,Marathi,12:15,Platinum,130₹,26,26
+Parbhani,ESquareAnusayaParbhani,Marathi,12:15,Gold,130₹,40,40
+Parbhani,ESquareAnusayaParbhani,Marathi,12:15,Silver,130₹,39,20
+Malegaon,CinemaxMalegaon,Marathi,16:00,Classic,80₹,16,0
+Malegaon,CinemaxMalegaon,Marathi,16:00,ClassicPlus,100₹,59,0
+Malegaon,CinemaxMalegaon,Marathi,16:00,Prime,100₹,65,7
