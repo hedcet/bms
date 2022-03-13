@@ -1,0 +1,14 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Pune,InoxBundGardenRoad,English,18:30,Royale,350₹,32,19
+NationalCapitalRegionNcr,PvrAmbienceGurgaon,English,19:30,ClassicNormal,350₹,84,0
+NationalCapitalRegionNcr,PvrAmbienceGurgaon,English,19:30,Prime,450₹,68,0
+NationalCapitalRegionNcr,PvrPromenadeVasantKunj,English,19:30,Classic,320₹,96,12
+NationalCapitalRegionNcr,PvrPromenadeVasantKunj,English,19:30,Prime,320₹,33,16
+NationalCapitalRegionNcr,PvrSelectCityWalkDelhi,English,19:30,ClassicNormal,200₹,90,0
+NationalCapitalRegionNcr,PvrSelectCityWalkDelhi,English,19:30,ClassicSuperior,250₹,34,7
+NationalCapitalRegionNcr,PvrSelectCityWalkDelhi,English,19:30,ReclinersNormal,500₹,10,1
+Mumbai,InoxRCityGhatkopar,English,19:45,RoyalRecliner,330₹,13,2
+Mumbai,InoxRCityGhatkopar,English,19:45,Club,200₹,63,2
+Mumbai,InoxRCityGhatkopar,English,19:45,Executive,200₹,36,0
+Mumbai,InoxRCityGhatkopar,English,19:45,Royal,200₹,45,15
+Indore,InoxC21Mall,English,21:20,Normal,200₹,171,10
