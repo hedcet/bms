@@ -1,0 +1,15 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Barrackpore,EloraMultiplexChampahati,Bengali,10:45,Gold,100₹,30,2
+Barrackpore,EloraMultiplexChampahati,Bengali,10:45,Silver,70₹,95,0
+Arambagh,KarunaCinemaArambagh,Bengali,12:00,LowerStall,35₹,48,0
+Arambagh,KarunaCinemaArambagh,Bengali,12:00,Balcony,40₹,180,0
+Barrackpore,EloraMultiplexChampahati,Bengali,13:15,Gold,100₹,30,0
+Barrackpore,EloraMultiplexChampahati,Bengali,13:15,Silver,70₹,95,0
+Arambagh,KarunaCinemaArambagh,Bengali,15:00,LowerStall,35₹,48,0
+Arambagh,KarunaCinemaArambagh,Bengali,15:00,Balcony,40₹,180,0
+Barrackpore,EloraMultiplexChampahati,Bengali,16:00,Gold,100₹,30,10
+Barrackpore,EloraMultiplexChampahati,Bengali,16:00,Silver,70₹,95,0
+Arambagh,KarunaCinemaArambagh,Bengali,18:00,LowerStall,35₹,48,0
+Arambagh,KarunaCinemaArambagh,Bengali,18:00,Balcony,40₹,180,0
+Barrackpore,EloraMultiplexChampahati,Bengali,18:45,Gold,100₹,30,0
+Barrackpore,EloraMultiplexChampahati,Bengali,18:45,Silver,70₹,95,0
