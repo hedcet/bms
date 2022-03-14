@@ -1,0 +1,14 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Parbhani,NareshCineplexParbhani,Marathi,12:15,Star,160₹,62,0
+Parbhani,NareshCineplexParbhani,Marathi,12:15,Gold,130₹,48,0
+Parbhani,NareshCineplexParbhani,Marathi,12:15,Silver,100₹,48,0
+Parbhani,ESquareAnusayaParbhani,Marathi,12:30,Box,130₹,18,0
+Parbhani,ESquareAnusayaParbhani,Marathi,12:30,Platinum,130₹,26,0
+Parbhani,ESquareAnusayaParbhani,Marathi,12:30,Gold,130₹,40,0
+Parbhani,ESquareAnusayaParbhani,Marathi,12:30,Silver,130₹,39,0
+Nashik,CinemaxCityCenterNashik,Marathi,13:30,Classic,100₹,17,0
+Nashik,CinemaxCityCenterNashik,Marathi,13:30,Prime,110₹,69,10
+Nashik,CinemaxCityCenterNashik,Marathi,13:30,Recliner,260₹,9,2
+Malegaon,CinemaxMalegaon,Marathi,16:00,Classic,80₹,16,0
+Malegaon,CinemaxMalegaon,Marathi,16:00,ClassicPlus,100₹,59,0
+Malegaon,CinemaxMalegaon,Marathi,16:00,Prime,100₹,65,2
