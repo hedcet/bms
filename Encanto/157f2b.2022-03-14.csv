@@ -1,0 +1,7 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+NationalCapitalRegionNcr,PvrLogixNoida,English,19:30,Classic,260₹,78,3
+NationalCapitalRegionNcr,PvrPacificSubhashNagarDelhi,English,19:30,Prime,350₹,88,0
+NationalCapitalRegionNcr,PvrPacificSubhashNagarDelhi,English,19:30,Classic,330₹,52,0
+NationalCapitalRegionNcr,PvrSelectCityWalkDelhi,English,20:00,ClassicNormal,200₹,120,4
+NationalCapitalRegionNcr,PvrSelectCityWalkDelhi,English,20:00,ClassicSuperior,250₹,34,11
+NationalCapitalRegionNcr,PvrSelectCityWalkDelhi,English,20:00,ReclinersNormal,500₹,10,1
