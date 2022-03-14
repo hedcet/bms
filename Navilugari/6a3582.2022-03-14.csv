@@ -1,0 +1,8 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Jigani,KamakyaCinemaBanashankari,Kannada,16:15,Balcony,110₹,338,0
+Jigani,KamakyaCinemaBanashankari,Kannada,16:15,Stall,100₹,333,0
+Jigani,GopalanMallSirsiCircle,Kannada,16:25,Gold,180₹,265,4
+Bengaluru,VinayakaMultiplexScreen1MysuruRoad,Kannada,16:30,Diamond,118₹,49,0
+Bengaluru,VinayakaMultiplexScreen1MysuruRoad,Kannada,16:30,GoldClass,100₹,60,0
+Bengaluru,VinayakaMultiplexScreen1MysuruRoad,Kannada,19:30,Diamond,118₹,49,0
+Bengaluru,VinayakaMultiplexScreen1MysuruRoad,Kannada,19:30,GoldClass,100₹,60,0
