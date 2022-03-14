@@ -1,0 +1,17 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Durgapur,CarnivalCityCenter,Bengali,11:10,Economy,99₹,44,0
+Durgapur,CarnivalCityCenter,Bengali,11:10,Regular,99₹,70,0
+Durgapur,CarnivalCityCenter,Bengali,11:10,Executive,99₹,219,0
+Kolkata,PvrDiamondPlazaJessoreKolkata,Bengali,12:00,Classic,160₹,100,20
+Kolkata,PvrDiamondPlazaJessoreKolkata,Bengali,12:00,Prime,220₹,11,0
+Kolkata,PvrDiamondPlazaJessoreKolkata,Bengali,12:00,Recliner,420₹,12,0
+Siliguri,CarnivalCinemasSiliguri,Bengali,12:45,Special,99₹,42,0
+Siliguri,CarnivalCinemasSiliguri,Bengali,12:45,Executive,99₹,207,10
+Siliguri,CarnivalCinemasSiliguri,Bengali,12:45,Gold,150₹,51,10
+Barrackpore,CarnivalArtiSuncityMallBarasat,Bengali,13:00,Diamond,90₹,118,2
+Barrackpore,CarnivalArtiSuncityMallBarasat,Bengali,13:00,Gold,90₹,60,0
+Barrackpore,CarnivalArtiSuncityMallBarasat,Bengali,13:00,Silver,90₹,40,0
+Asansol,CarnivalSentrumMall,Bengali,15:20,Gold,90₹,43,1
+Asansol,CarnivalSentrumMall,Bengali,15:20,Silver,90₹,150,4
+Asansol,CarnivalSentrumMall,Bengali,15:20,Premium,90₹,63,0
+Kolkata,NandanKolkata,Bengali,18:00,Normal,30₹,124,18
