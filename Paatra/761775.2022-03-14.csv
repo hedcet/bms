@@ -1,0 +1,10 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Jigani,PvrOrionMallDrRajkumarRoad,Kannada,10:35,Classic,112₹,108,0
+Jigani,PvrOrionMallDrRajkumarRoad,Kannada,10:35,Prime,150₹,108,8
+Jigani,PvrOrionMallDrRajkumarRoad,Kannada,10:35,Recliner,220₹,16,8
+Jigani,GopalanCinemasArcadeMallMysoreRoad,Kannada,12:45,Gold,170₹,292,0
+Jigani,GopalanCinemasArcadeMallMysoreRoad,Kannada,12:45,Recliner,270₹,19,0
+Jigani,InoxBrookefieldMall,Kannada,13:30,Club,130₹,28,8
+Jigani,InoxBrookefieldMall,Kannada,13:30,Executive,110₹,85,0
+Jigani,CinepolisBinnypetMall,Kannada,19:45,Executive,150₹,69,0
+Jigani,CinepolisBinnypetMall,Kannada,19:45,Premium,150₹,29,0
