@@ -1,0 +1,9 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Jigani,PvrVrBengaluruWhitefieldRoad,English,18:25,Classic,190₹,129,8
+Jigani,PvrVrBengaluruWhitefieldRoad,English,18:25,Prime,210₹,17,0
+Jigani,PvrVrBengaluruWhitefieldRoad,English,18:25,Recliner,300₹,14,0
+NationalCapitalRegionNcr,PvrDirectorSCutDelhiAmbienceMall,English,19:30,Platinum,900₹,19,7
+NationalCapitalRegionNcr,PvrDirectorSCutDelhiAmbienceMall,English,19:30,PlatinumSuperior,"1,000₹",6,0
+NationalCapitalRegionNcr,PvrMgfGurgaon,English,19:45,Classic,300₹,72,0
+NationalCapitalRegionNcr,PvrMgfGurgaon,English,19:45,Prime,350₹,39,0
+NationalCapitalRegionNcr,PvrMgfGurgaon,English,19:45,Recliner,500₹,8,0
