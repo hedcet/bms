@@ -1,0 +1,6 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+NationalCapitalRegionNcr,PvrPacificSubhashNagarDelhi,English,19:30,Prime,350₹,68,0
+NationalCapitalRegionNcr,PvrPacificSubhashNagarDelhi,English,19:30,Classic,330₹,52,0
+NationalCapitalRegionNcr,PvrSelectCityWalkDelhi,English,20:40,ClassicNormal,200₹,90,0
+NationalCapitalRegionNcr,PvrSelectCityWalkDelhi,English,20:40,ClassicSuperior,250₹,34,0
+NationalCapitalRegionNcr,PvrSelectCityWalkDelhi,English,20:40,ReclinersNormal,500₹,10,1
