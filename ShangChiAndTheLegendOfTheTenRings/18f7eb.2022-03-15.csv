@@ -1,0 +1,12 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Jigani,PvrVrBengaluruWhitefieldRoad,English,18:25,Classic,190₹,129,8
+Jigani,PvrVrBengaluruWhitefieldRoad,English,18:25,Prime,210₹,17,0
+Jigani,PvrVrBengaluruWhitefieldRoad,English,18:25,Recliner,300₹,14,0
+Jigani,PvrVegaCityBannerghattaRoad,English,18:30,Classic,170₹,86,8
+Jigani,PvrVegaCityBannerghattaRoad,English,18:30,Recliner,300₹,9,2
+Chennai,SpiEscapeExpressAvenueMallRoyapettah,English,18:35,Budget,66₹,11,11
+Chennai,SpiEscapeExpressAvenueMallRoyapettah,English,18:35,Elite,211₹,99,30
+NationalCapitalRegionNcr,PvrPromenadeVasantKunj,English,19:30,Classic,320₹,96,12
+NationalCapitalRegionNcr,PvrPromenadeVasantKunj,English,19:30,Prime,320₹,33,12
+NationalCapitalRegionNcr,PvrAmbienceGurgaon,English,19:40,ClassicNormal,250₹,84,0
+NationalCapitalRegionNcr,PvrAmbienceGurgaon,English,19:40,Prime,300₹,38,0
