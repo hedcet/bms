@@ -1,0 +1,11 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Pulluvila,NewTheatre4KRgbLaserDolbyAtmosThampanoor,Malayalam,11:30,Elite,150₹,173,2
+Pulluvila,NewTheatre4KRgbLaserDolbyAtmosThampanoor,Malayalam,14:30,Elite,150₹,173,0
+Chennai,PvrVrChennaiAnnaNagar,Malayalam,16:00,Classic,63₹,11,11
+Chennai,PvrVrChennaiAnnaNagar,Malayalam,16:00,Prime,202₹,102,23
+Pulluvila,NewTheatre4KRgbLaserDolbyAtmosThampanoor,Malayalam,18:30,Elite,150₹,173,0
+Pulluvila,NewTheatre4KRgbLaserDolbyAtmosThampanoor,Malayalam,21:30,Elite,150₹,173,0
+Koothattukulam,PvrLuluKochi,Malayalam,22:15,Classic,140₹,39,0
+Koothattukulam,PvrLuluKochi,Malayalam,22:15,ClassicPlus,160₹,91,0
+Koothattukulam,PvrLuluKochi,Malayalam,22:15,Prime,190₹,68,17
+Koothattukulam,PvrLuluKochi,Malayalam,22:15,Recliner,350₹,10,0
