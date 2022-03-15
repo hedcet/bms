@@ -1,0 +1,10 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Manipal,InoxManipalCentralCinemas,Kannada,13:05,Royal,200₹,11,4
+Manipal,InoxManipalCentralCinemas,Kannada,13:05,Club,130₹,47,6
+Manipal,InoxManipalCentralCinemas,Kannada,13:05,Executive,110₹,40,0
+Jigani,GopalanMallSirsiCircle,Kannada,14:05,Gold,200₹,265,4
+Jigani,CinepolisBinnypetMall,Kannada,18:25,Executive,200₹,69,0
+Jigani,CinepolisBinnypetMall,Kannada,18:25,Premium,200₹,29,0
+Kundapura,BharathCinemasKundapura,Kannada,19:00,Gold,200₹,32,7
+Kundapura,BharathCinemasKundapura,Kannada,19:00,Silver,180₹,24,0
+Kundapura,BharathCinemasKundapura,Kannada,19:00,Special,150₹,36,0
