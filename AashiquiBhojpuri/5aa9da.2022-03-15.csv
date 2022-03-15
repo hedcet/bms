@@ -1,0 +1,9 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Surat,MovieAngleMultiplexSurat,Bhojpuri,09:00,Gold,50₹,24,0
+Gopalganj,SarswatiTalkiesGopalganj,Bhojpuri,11:30,Diamond,120₹,42,0
+Gopalganj,SarswatiTalkiesGopalganj,Bhojpuri,11:30,Gold,100₹,155,0
+Gopalganj,SarswatiTalkiesGopalganj,Bhojpuri,11:30,Silver,80₹,27,0
+Surat,MovieAngleMultiplexSurat,Bhojpuri,12:00,Gold,50₹,24,0
+Muzaffarpur,FunCinemasAmarjyotiMuzaffarpur,Bhojpuri,12:00,Balcony,100₹,214,3
+Surat,MovieAngleMultiplexSurat,Bhojpuri,15:00,Gold,50₹,24,0
+Surat,MovieAngleMultiplexSurat,Bhojpuri,18:00,Gold,50₹,24,0
