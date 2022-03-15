@@ -1,0 +1,7 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Nashik,CinemaxCityCenterNashik,Marathi,13:30,Classic,100₹,17,0
+Nashik,CinemaxCityCenterNashik,Marathi,13:30,Prime,110₹,69,2
+Nashik,CinemaxCityCenterNashik,Marathi,13:30,Recliner,260₹,9,0
+Malegaon,CinemaxMalegaon,Marathi,16:00,Classic,80₹,16,0
+Malegaon,CinemaxMalegaon,Marathi,16:00,ClassicPlus,100₹,59,0
+Malegaon,CinemaxMalegaon,Marathi,16:00,Prime,100₹,65,2
