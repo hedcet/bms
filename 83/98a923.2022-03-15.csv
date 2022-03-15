@@ -1,0 +1,10 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+NationalCapitalRegionNcr,PvrAmbienceGoldGurgaon,Hindi,10:30,Platinum,600₹,28,0
+NationalCapitalRegionNcr,PvrAmbienceGoldGurgaon,Hindi,10:30,PlatinumSuperior,600₹,16,8
+Mumbai,MetroInoxCinemasMarineLines,Hindi,13:15,Kiddles,220₹,45,13
+NationalCapitalRegionNcr,PvrLogixNoida,Hindi,16:05,Classic,250₹,78,7
+NationalCapitalRegionNcr,PvrAmbienceGoldGurgaon,Hindi,17:00,Platinum,800₹,28,12
+NationalCapitalRegionNcr,PvrAmbienceGoldGurgaon,Hindi,17:00,PlatinumSuperior,900₹,16,15
+Jigani,PvrTheForumMallKoramangala,Hindi,21:30,Classic,200₹,103,20
+NationalCapitalRegionNcr,PvrVegasDwarka,Hindi,22:45,Classic,267₹,112,0
+NationalCapitalRegionNcr,PvrVegasDwarka,Hindi,22:45,Prime,323₹,52,14
