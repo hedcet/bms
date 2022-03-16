@@ -1,0 +1,12 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Vadakara,KirthiMudra4KRgbLaserDolbyAtmos,Malayalam,10:30,Sofa,200₹,16,0
+Vadakara,KirthiMudra4KRgbLaserDolbyAtmos,Malayalam,10:30,Gold,150₹,182,0
+Kollam,RevathyCinemaxParippally,Malayalam,11:00,Platinum,200₹,28,0
+Kollam,RevathyCinemaxParippally,Malayalam,11:00,Gold,150₹,181,0
+Kochi,SangeetaCinemaKochi,Malayalam,12:00,BlueCircle,150₹,187,18
+Vadakara,KirthiMudra4KRgbLaserDolbyAtmos,Malayalam,13:30,Sofa,200₹,16,0
+Vadakara,KirthiMudra4KRgbLaserDolbyAtmos,Malayalam,13:30,Gold,150₹,182,0
+Vadakara,KirthiMudra4KRgbLaserDolbyAtmos,Malayalam,16:30,Sofa,200₹,16,0
+Vadakara,KirthiMudra4KRgbLaserDolbyAtmos,Malayalam,16:30,Gold,150₹,182,0
+Attingal,JbCinemasThapasyaAttingal,Malayalam,18:40,Circle,130₹,436,0
+Attingal,JbCinemasThapasyaAttingal,Malayalam,21:40,Circle,130₹,436,0
