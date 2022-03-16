@@ -1,0 +1,16 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Kochi,PvrLuluKochi,Malayalam,13:00,Classic,140₹,39,0
+Kochi,PvrLuluKochi,Malayalam,13:00,ClassicPlus,160₹,91,0
+Kochi,PvrLuluKochi,Malayalam,13:00,Prime,190₹,64,2
+Kochi,PvrLuluKochi,Malayalam,13:00,Recliner,350₹,9,0
+Thrissur,InoxSobhaCityMall,Malayalam,16:20,RoyalRecliner,290₹,10,0
+Thrissur,InoxSobhaCityMall,Malayalam,16:20,Club,170₹,66,0
+Thrissur,InoxSobhaCityMall,Malayalam,16:20,Royal,170₹,13,0
+Thrissur,InoxSobhaCityMall,Malayalam,16:20,Executive,130₹,22,0
+Kochi,PvrOberonMallKochi,Malayalam,16:50,Classic,129₹,36,0
+Kochi,PvrOberonMallKochi,Malayalam,16:50,ClassicPlus,160₹,81,16
+Kottayam,UgmCinemas4KDolbyAtmosEttumanoor,Malayalam,18:45,Platinum,250₹,16,0
+Kottayam,UgmCinemas4KDolbyAtmosEttumanoor,Malayalam,18:45,Gold,150₹,165,0
+Thodupuzha,AashirvadCineplexxThodupuzha,Malayalam,19:15,Gold,175₹,10,0
+Thodupuzha,AashirvadCineplexxThodupuzha,Malayalam,19:15,Silver,145₹,10,0
+Kochi,Kanoos2KRavipuram,Malayalam,21:00,Diamond,110₹,186,0
