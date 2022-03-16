@@ -1,0 +1,17 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Kochi,SavitaCinemaKochi,Malayalam,12:00,Deluxe,150₹,555,34
+Thrissur,InoxSobhaCityMall,Malayalam,13:00,RoyalRecliner,290₹,10,0
+Thrissur,InoxSobhaCityMall,Malayalam,13:00,Club,170₹,66,0
+Thrissur,InoxSobhaCityMall,Malayalam,13:00,Royal,170₹,13,0
+Thrissur,InoxSobhaCityMall,Malayalam,13:00,Executive,130₹,22,0
+Kochi,PvrLuluKochi,Malayalam,13:20,Classic,140₹,39,0
+Kochi,PvrLuluKochi,Malayalam,13:20,ClassicPlus,160₹,91,4
+Kochi,PvrLuluKochi,Malayalam,13:20,Prime,190₹,68,21
+Kochi,PvrLuluKochi,Malayalam,13:20,Recliner,350₹,10,0
+Attingal,AriesplexSlCinemas,Malayalam,13:45,Executive,110₹,70,0
+Thrissur,InoxSobhaCityMall,Malayalam,19:10,RoyalRecliner,290₹,10,0
+Thrissur,InoxSobhaCityMall,Malayalam,19:10,Club,170₹,66,0
+Thrissur,InoxSobhaCityMall,Malayalam,19:10,Royal,170₹,13,3
+Thrissur,InoxSobhaCityMall,Malayalam,19:10,Executive,130₹,22,0
+Vadakara,KirthiMudra4KRgbLaserDolbyAtmos,Malayalam,19:30,Sofa,200₹,16,0
+Vadakara,KirthiMudra4KRgbLaserDolbyAtmos,Malayalam,19:30,Gold,150₹,182,0
