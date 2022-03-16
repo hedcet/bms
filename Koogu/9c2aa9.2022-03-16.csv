@@ -1,0 +1,8 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,VinayakaMultiplexScreen2MysuruRoad,Kannada,10:30,GoldClass,100₹,81,0
+Mandya,SriMaruthiCinemasBelluruCross,Kannada,11:00,BalconyClass,100₹,57,0
+Mandya,SriMaruthiCinemasBelluruCross,Kannada,11:00,SecondClass,80₹,105,0
+Jigani,GopalanMallSirsiCircle,Kannada,12:00,Gold,200₹,265,4
+Bengaluru,VinayakaMultiplexScreen2MysuruRoad,Kannada,13:30,GoldClass,100₹,81,0
+Mandya,SriMaruthiCinemasBelluruCross,Kannada,14:00,BalconyClass,100₹,57,0
+Mandya,SriMaruthiCinemasBelluruCross,Kannada,14:00,SecondClass,80₹,105,0
