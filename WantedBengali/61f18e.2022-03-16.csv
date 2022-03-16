@@ -1,0 +1,9 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+DakshinBarasat,MahamayaTalkiesDakshinBarasat,Bengali,11:00,GoldClass,100₹,18,2
+DakshinBarasat,MahamayaTalkiesDakshinBarasat,Bengali,11:00,SilverClass,70₹,20,0
+DakshinBarasat,MahamayaTalkiesDakshinBarasat,Bengali,14:00,GoldClass,100₹,18,0
+DakshinBarasat,MahamayaTalkiesDakshinBarasat,Bengali,14:00,SilverClass,70₹,20,0
+DakshinBarasat,MahamayaTalkiesDakshinBarasat,Bengali,16:30,GoldClass,100₹,18,0
+DakshinBarasat,MahamayaTalkiesDakshinBarasat,Bengali,16:30,SilverClass,70₹,20,0
+DakshinBarasat,MahamayaTalkiesDakshinBarasat,Bengali,19:00,GoldClass,100₹,18,0
+DakshinBarasat,MahamayaTalkiesDakshinBarasat,Bengali,19:00,SilverClass,70₹,20,0
