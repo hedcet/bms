@@ -1,0 +1,7 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Jigani,PvrVrBengaluruWhitefieldRoad,English,18:25,Classic,190₹,129,8
+Jigani,PvrVrBengaluruWhitefieldRoad,English,18:25,Prime,210₹,17,0
+Jigani,PvrVrBengaluruWhitefieldRoad,English,18:25,Recliner,300₹,14,0
+NationalCapitalRegionNcr,PvrVegasDwarka,English,19:30,Classic,250₹,76,0
+NationalCapitalRegionNcr,PvrSaketDelhi,English,19:30,Classic,195₹,52,0
+NationalCapitalRegionNcr,PvrSaketDelhi,English,19:30,Prime,245₹,28,2
