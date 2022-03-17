@@ -1,0 +1,17 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Gorakhpur,UnitedTalkiesGorakhpur,Bhojpuri,12:30,Platinum,90₹,176,0
+Gorakhpur,UnitedTalkiesGorakhpur,Bhojpuri,12:30,Diamond,70₹,229,0
+Gorakhpur,UnitedTalkiesGorakhpur,Bhojpuri,12:30,Gold,60₹,144,0
+Gorakhpur,UnitedTalkiesGorakhpur,Bhojpuri,12:30,Silver,50₹,96,0
+Gorakhpur,UnitedTalkiesGorakhpur,Bhojpuri,15:30,Platinum,90₹,176,2
+Gorakhpur,UnitedTalkiesGorakhpur,Bhojpuri,15:30,Diamond,70₹,229,0
+Gorakhpur,UnitedTalkiesGorakhpur,Bhojpuri,15:30,Gold,60₹,144,0
+Gorakhpur,UnitedTalkiesGorakhpur,Bhojpuri,15:30,Silver,50₹,96,0
+Gorakhpur,UnitedTalkiesGorakhpur,Bhojpuri,18:30,Platinum,90₹,176,0
+Gorakhpur,UnitedTalkiesGorakhpur,Bhojpuri,18:30,Diamond,70₹,229,0
+Gorakhpur,UnitedTalkiesGorakhpur,Bhojpuri,18:30,Gold,60₹,144,0
+Gorakhpur,UnitedTalkiesGorakhpur,Bhojpuri,18:30,Silver,50₹,96,0
+Gorakhpur,UnitedTalkiesGorakhpur,Bhojpuri,21:30,Platinum,90₹,176,0
+Gorakhpur,UnitedTalkiesGorakhpur,Bhojpuri,21:30,Diamond,70₹,229,0
+Gorakhpur,UnitedTalkiesGorakhpur,Bhojpuri,21:30,Gold,60₹,144,1
+Gorakhpur,UnitedTalkiesGorakhpur,Bhojpuri,21:30,Silver,50₹,96,0
