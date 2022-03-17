@@ -1,0 +1,6 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+NationalCapitalRegionNcr,PvrLogixNoida,English,13:40,Classic,215₹,84,0
+NationalCapitalRegionNcr,PvrAmbienceGoldGurgaon,English,22:10,Platinum,800₹,28,0
+NationalCapitalRegionNcr,PvrAmbienceGoldGurgaon,English,22:10,PlatinumSuperior,900₹,8,0
+Madhapur,PvrForumSujanaMallKukatpallyHyderabad,English,22:50,Classic,150₹,135,63
+Madhapur,PvrForumSujanaMallKukatpallyHyderabad,English,22:50,Recliner,250₹,9,8
