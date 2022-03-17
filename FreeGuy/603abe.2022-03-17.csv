@@ -1,0 +1,9 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+NationalCapitalRegionNcr,PvrPromenadeVasantKunj,English,19:30,Classic,320₹,96,12
+NationalCapitalRegionNcr,PvrPromenadeVasantKunj,English,19:30,Prime,320₹,33,12
+Mumbai,InoxRCityGhatkopar,English,19:45,RoyalRecliner,230₹,13,0
+Mumbai,InoxRCityGhatkopar,English,19:45,Club,150₹,63,0
+Mumbai,InoxRCityGhatkopar,English,19:45,Executive,150₹,36,0
+Mumbai,InoxRCityGhatkopar,English,19:45,Royal,150₹,45,10
+NationalCapitalRegionNcr,PvrAmbienceGurgaon,English,19:50,ClassicNormal,250₹,84,0
+NationalCapitalRegionNcr,PvrAmbienceGurgaon,English,19:50,Prime,300₹,68,30
