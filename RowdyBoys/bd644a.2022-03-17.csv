@@ -1,0 +1,9 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Kadapa,RahatRajaTheaterKadapa,Telugu,11:30,Sofa,110₹,228,2
+Kadapa,RahatRajaTheaterKadapa,Telugu,11:30,DiamondClass,100₹,133,0
+Kadapa,RahatRajaTheaterKadapa,Telugu,14:30,Sofa,110₹,228,0
+Kadapa,RahatRajaTheaterKadapa,Telugu,14:30,DiamondClass,100₹,133,0
+Kadapa,RahatRajaTheaterKadapa,Telugu,18:30,Sofa,110₹,228,0
+Kadapa,RahatRajaTheaterKadapa,Telugu,18:30,DiamondClass,100₹,133,0
+Kadapa,RahatRajaTheaterKadapa,Telugu,21:30,Sofa,110₹,228,0
+Kadapa,RahatRajaTheaterKadapa,Telugu,21:30,DiamondClass,100₹,133,0
