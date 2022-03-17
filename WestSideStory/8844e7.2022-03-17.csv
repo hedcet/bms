@@ -1,0 +1,17 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Pune,InoxBundGardenRoad,English,18:30,Royale,250₹,31,4
+Vadodara,PvrEvaMallVadodara,English,19:00,Classic,150₹,47,0
+Vadodara,PvrEvaMallVadodara,English,19:00,Prime,150₹,64,0
+Vadodara,PvrEvaMallVadodara,English,19:00,PrimePlus,150₹,65,16
+Hyderabad,PvrNextGalleriaMallPanjagutta,English,19:15,Classic,200₹,145,20
+Mumbai,PvrDynamixJuhu,English,19:15,Lounger,260₹,12,3
+Mumbai,PvrDynamixJuhu,English,19:15,Prime,240₹,264,22
+Pune,PvrPhoenixMarketCityPune,English,19:15,Classic,260₹,52,0
+Pune,PvrPhoenixMarketCityPune,English,19:15,Prime,260₹,119,0
+Pune,PvrPhoenixMarketCityPune,English,19:15,PrimePlus,360₹,10,0
+Mumbai,PvrIconPhoenixPalladiumLowerParelMumbai,English,19:30,Lounger,250₹,10,2
+Mumbai,PvrIconPhoenixPalladiumLowerParelMumbai,English,19:30,Classic,250₹,39,0
+Mumbai,PvrIconPhoenixPalladiumLowerParelMumbai,English,19:30,Prime,300₹,68,17
+Mumbai,PvrIconPhoenixPalladiumLowerParelMumbai,English,19:30,Recliner,550₹,14,8
+Indore,PvrTreasureIslandMallIndore,English,20:00,Classic,130₹,28,0
+Indore,PvrTreasureIslandMallIndore,English,20:00,Prime,150₹,69,20
