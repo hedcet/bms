@@ -1,0 +1,7 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Attingal,NewTheatre4KRgbLaserDolbyAtmosThampanoor,Malayalam,11:30,Elite,150₹,173,0
+Attingal,NewTheatre4KRgbLaserDolbyAtmosThampanoor,Malayalam,14:30,Elite,150₹,173,9
+Chennai,PvrVrChennaiAnnaNagar,Malayalam,15:35,Classic,63₹,11,11
+Chennai,PvrVrChennaiAnnaNagar,Malayalam,15:35,Prime,202₹,102,17
+Attingal,NewTheatre4KRgbLaserDolbyAtmosThampanoor,Malayalam,18:30,Elite,150₹,173,0
+Attingal,NewTheatre4KRgbLaserDolbyAtmosThampanoor,Malayalam,21:30,Elite,150₹,173,2
