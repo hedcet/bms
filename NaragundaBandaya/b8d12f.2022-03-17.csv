@@ -1,0 +1,5 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+VijayapuraBijapur,AmirTalkiesVijayapuraBijapur,Kannada,12:00,Balcony,130₹,96,0
+VijayapuraBijapur,AmirTalkiesVijayapuraBijapur,Kannada,12:00,InterClass,100₹,555,0
+VijayapuraBijapur,AmirTalkiesVijayapuraBijapur,Kannada,15:00,Balcony,130₹,96,1
+VijayapuraBijapur,AmirTalkiesVijayapuraBijapur,Kannada,15:00,InterClass,100₹,555,0
