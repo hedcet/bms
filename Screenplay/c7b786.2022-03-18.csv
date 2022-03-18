@@ -1,0 +1,5 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Kochi,SangeetaCinemaKochi,Malayalam,12:00,BlueCircle,150₹,187,18
+Kochi,MajesticTheatreNarakkal,Malayalam,12:15,Elite,125₹,159,0
+Kochi,MajesticTheatreNarakkal,Malayalam,12:15,Premium,100₹,16,0
+Kattappana,AiswaryaCinemasKattappana,Malayalam,18:30,Diamond,130₹,172,71
