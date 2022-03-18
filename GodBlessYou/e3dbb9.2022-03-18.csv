@@ -1,0 +1,8 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Kalady,CarnivalKsrtComplex,Malayalam,09:45,GoldOffline,130₹,202,27
+Kochi,SangeetaCinemaKochi,Malayalam,09:50,BlueCircle,150₹,187,20
+Thodupuzha,SilverHillsCinemasThodupuzha,Malayalam,10:00,Gold,270₹,16,0
+Thodupuzha,SilverHillsCinemasThodupuzha,Malayalam,10:00,Silver,150₹,224,1
+Kochi,DharsanaCinemaComplexPiravom,Malayalam,11:15,Platinum,180₹,45,0
+Kochi,DharsanaCinemaComplexPiravom,Malayalam,11:15,Gold,150₹,154,0
+Kochi,DharsanaCinemaComplexPiravom,Malayalam,11:15,Silver,80₹,22,0
