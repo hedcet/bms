@@ -1,0 +1,9 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Kanpur,DeokiTalkiesKakadeo,Hindi,09:30,Balcony,80₹,20,0
+Kanpur,DeokiTalkiesKakadeo,Hindi,09:30,DressCircle,50₹,20,0
+Kanpur,DeokiTalkiesKakadeo,Hindi,12:30,Balcony,80₹,20,0
+Kanpur,DeokiTalkiesKakadeo,Hindi,12:30,DressCircle,50₹,20,0
+Kanpur,DeokiTalkiesKakadeo,Hindi,15:30,Balcony,80₹,20,10
+Kanpur,DeokiTalkiesKakadeo,Hindi,15:30,DressCircle,50₹,20,0
+Kanpur,DeokiTalkiesKakadeo,Hindi,18:15,Balcony,80₹,20,2
+Kanpur,DeokiTalkiesKakadeo,Hindi,18:15,DressCircle,50₹,20,0
