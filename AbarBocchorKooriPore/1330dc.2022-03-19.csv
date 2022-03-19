@@ -1,0 +1,11 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Kolkata,InoxSouthCityKolkata,Bengali,12:25,Premier,230₹,34,0
+Kolkata,InoxSouthCityKolkata,Bengali,12:25,Silver,230₹,141,67
+Kolkata,PvrDiamondPlazaJessoreKolkata,Bengali,14:00,Classic,220₹,100,2
+Kolkata,PvrDiamondPlazaJessoreKolkata,Bengali,14:00,Prime,270₹,11,2
+Kolkata,PvrDiamondPlazaJessoreKolkata,Bengali,14:00,Recliner,450₹,12,3
+Kolkata,NazrultirthaCinemaKolkata,Bengali,17:00,Silver,130₹,26,0
+Kolkata,NazrultirthaCinemaKolkata,Bengali,17:00,Gold,150₹,65,52
+Kolkata,NandanKolkata,Bengali,17:30,FrontStall,30₹,83,83
+Kolkata,NandanKolkata,Bengali,17:30,RearStall,50₹,338,338
+Kolkata,NandanKolkata,Bengali,17:30,Balcony,70₹,276,275
