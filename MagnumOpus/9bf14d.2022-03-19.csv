@@ -1,0 +1,7 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Memari,KristiCinemaMemari,Bengali,11:00,UpperStall,80₹,231,0
+Memari,KristiCinemaMemari,Bengali,11:00,RearStall,60₹,208,0
+Memari,KristiCinemaMemari,Bengali,11:00,FrontStall,60₹,102,0
+Belghoria,NazrultirthaCinemaScreen3Kolkata,Bengali,14:00,Gold,130₹,30,1
+Belghoria,NazrultirthaCinemaScreen3Kolkata,Bengali,14:00,Recliner,150₹,8,4
+Belghoria,NazrultirthaCinemaScreen3Kolkata,Bengali,14:00,Sofa,130₹,12,0
