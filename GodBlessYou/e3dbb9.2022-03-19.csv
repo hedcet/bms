@@ -1,0 +1,6 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Kariyad,CarnivalKsrtComplex,Malayalam,09:45,GoldOffline,130₹,175,0
+Palluruthy,SangeetaCinemaKochi,Malayalam,09:50,BlueCircle,150₹,187,18
+Palluruthy,DharsanaCinemaComplexPiravom,Malayalam,11:30,Platinum,180₹,45,0
+Palluruthy,DharsanaCinemaComplexPiravom,Malayalam,11:30,Gold,150₹,154,0
+Palluruthy,DharsanaCinemaComplexPiravom,Malayalam,11:30,Silver,80₹,22,0
