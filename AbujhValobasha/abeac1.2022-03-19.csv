@@ -1,0 +1,7 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Udaynarayanpur,AnandamoyeeCinemaHallUdaynarayanpur,Bengali,12:00,Balcony,40₹,50,0
+Udaynarayanpur,AnandamoyeeCinemaHallUdaynarayanpur,Bengali,12:00,RearStall,30₹,50,0
+Udaynarayanpur,AnandamoyeeCinemaHallUdaynarayanpur,Bengali,15:00,Balcony,40₹,50,0
+Udaynarayanpur,AnandamoyeeCinemaHallUdaynarayanpur,Bengali,15:00,RearStall,30₹,50,0
+Udaynarayanpur,AnandamoyeeCinemaHallUdaynarayanpur,Bengali,17:30,Balcony,40₹,50,2
+Udaynarayanpur,AnandamoyeeCinemaHallUdaynarayanpur,Bengali,17:30,RearStall,30₹,50,0
