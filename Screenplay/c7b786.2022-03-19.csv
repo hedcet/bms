@@ -1,0 +1,8 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Palluruthy,AashirvadCineplexxPerumbavoor,Malayalam,11:30,Platinum,155₹,100,0
+Palluruthy,AashirvadCineplexxPerumbavoor,Malayalam,11:30,Gold,130₹,225,0
+Palluruthy,SangeetaCinemaKochi,Malayalam,12:00,BlueCircle,150₹,187,18
+Palluruthy,MajesticTheatreNarakkal,Malayalam,12:15,Elite,125₹,159,0
+Palluruthy,MajesticTheatreNarakkal,Malayalam,12:15,Premium,100₹,16,0
+Kasaragod,CineKrishna4KKasaragod,Malayalam,22:00,FirstClass,130₹,144,0
+Kasaragod,CineKrishna4KKasaragod,Malayalam,22:00,Sofa,200₹,8,0
