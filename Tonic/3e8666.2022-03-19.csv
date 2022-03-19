@@ -1,0 +1,13 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Dubrajpur,BinapaniTalkiesDubrajpur,Bengali,13:00,Balcony,25₹,20,0
+Dubrajpur,BinapaniTalkiesDubrajpur,Bengali,13:00,RearStall,20₹,20,0
+Kolkata,NandanKolkata,Bengali,15:00,FrontStall,30₹,83,15
+Kolkata,NandanKolkata,Bengali,15:00,RearStall,50₹,338,83
+Kolkata,NandanKolkata,Bengali,15:00,Balcony,70₹,276,139
+Dubrajpur,BinapaniTalkiesDubrajpur,Bengali,16:00,Balcony,25₹,20,0
+Dubrajpur,BinapaniTalkiesDubrajpur,Bengali,16:00,RearStall,20₹,20,0
+Kolkata,PvrDiamondPlazaJessoreKolkata,Bengali,17:20,Classic,240₹,100,10
+Kolkata,PvrDiamondPlazaJessoreKolkata,Bengali,17:20,Prime,290₹,11,6
+Kolkata,PvrDiamondPlazaJessoreKolkata,Bengali,17:20,Recliner,460₹,12,9
+Dubrajpur,BinapaniTalkiesDubrajpur,Bengali,19:00,Balcony,25₹,20,0
+Dubrajpur,BinapaniTalkiesDubrajpur,Bengali,19:00,RearStall,20₹,20,0
