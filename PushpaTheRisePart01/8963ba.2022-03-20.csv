@@ -1,0 +1,5 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Rajkot,RajshriCinemaRajkot,Hindi,07:00,Balcony,40₹,208,203
+Rajkot,RajshriCinemaRajkot,Hindi,07:00,Upper,40₹,550,550
+Mumbai,G7MultiplexBandraW,Hindi,18:30,Special,160₹,36,14
+Mumbai,G7MultiplexBandraW,Hindi,18:30,DressCircle,160₹,10,10
