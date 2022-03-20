@@ -1,0 +1,12 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Jadcherla,SriKrishnaTheatreMahbubnagar,Telugu,09:00,Balcony,100₹,192,0
+Aushapur,PvrNextGalleriaMallPanjagutta,Telugu,10:40,Classic,200₹,152,15
+Kakinada,InoxSrmtMallKakinada,Telugu,13:05,Executive,112₹,146,17
+Sabbavaram,InoxVizagChitralayaMall,Telugu,13:50,Executive,177₹,122,6
+Aushapur,PvrForumSujanaMallKukatpallyHyderabad,Telugu,14:15,Classic,200₹,135,29
+Aushapur,PvrForumSujanaMallKukatpallyHyderabad,Telugu,14:15,Recliner,350₹,9,0
+Vizianagaram,InoxNcsMallVizianagaram,Telugu,16:50,Exclusive,177₹,264,26
+Aushapur,InoxGsmMallHyderabad,Telugu,17:20,Royal,300₹,13,5
+Aushapur,InoxGsmMallHyderabad,Telugu,17:20,Executive,200₹,106,6
+Eluru,SriSatyanarayanaCinemasScreen3Eluru,Telugu,21:30,Balcony,150₹,280,36
+Sabbavaram,InoxVarunBeachBeachRoad,Telugu,22:30,Excutive,177₹,156,19
