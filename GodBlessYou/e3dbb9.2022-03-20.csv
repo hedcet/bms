@@ -1,0 +1,5 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Kochi,SangeetaCinemaKochi,Malayalam,09:50,BlueCircle,150₹,187,18
+Kochi,DharsanaCinemaComplexPiravom,Malayalam,11:15,Platinum,180₹,45,0
+Kochi,DharsanaCinemaComplexPiravom,Malayalam,11:15,Gold,150₹,154,0
+Kochi,DharsanaCinemaComplexPiravom,Malayalam,11:15,Silver,80₹,22,0
