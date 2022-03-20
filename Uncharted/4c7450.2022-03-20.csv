@@ -1,0 +1,16 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Surat,TimeCinemaGalaxyCirclePalSurat,English,09:40,Gold,200₹,12,0
+Mumbai,InoxInsigniaAtAtriaMallWorli,English,10:00,Insignia,500₹,34,32
+Indore,PvrTreasureIslandMallIndore,Hindi,12:15,Classic,200₹,26,0
+Indore,PvrTreasureIslandMallIndore,Hindi,12:15,Prime,220₹,46,16
+Indore,PvrTreasureIslandMallIndore,Hindi,12:15,Recliner,350₹,8,4
+Aushapur,Pvr4DxIrrumManzilHyderabad,English,13:35,4Dx,350₹,96,80
+Chandigarh,Pvr4DxElanteChandigarh,English,13:45,Classic,414₹,108,81
+NationalCapitalRegionNcr,PvrLogixNoida,English,15:25,Classic,375₹,38,30
+Aushapur,Pvr4DxForumSujanaMallKukatpallyHyderabad,English,16:45,4DxClassic,350₹,108,99
+Indore,PvrTreasureIslandMallIndore,Hindi,18:00,Classic,210₹,26,0
+Indore,PvrTreasureIslandMallIndore,Hindi,18:00,Prime,230₹,46,19
+Indore,PvrTreasureIslandMallIndore,Hindi,18:00,Recliner,450₹,8,8
+NationalCapitalRegionNcr,PvrLogixNoida,English,21:15,Classic,400₹,38,9
+Chennai,LuxeCinemasChennai,English,22:35,Elite2D,183₹,134,34
+Chennai,LuxeCinemasChennai,English,22:35,Budget,66₹,24,0
