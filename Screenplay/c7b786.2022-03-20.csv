@@ -1,0 +1,5 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Kochi,SangeetaCinemaKochi,Malayalam,12:00,BlueCircle,150₹,187,18
+Kanhangad,VgmMultiplexTheatreAC2K71Dolby,Malayalam,12:30,VgmGreen,170₹,160,18
+Kasaragod,CineKrishna4KKasaragod,Malayalam,22:00,FirstClass,130₹,144,0
+Kasaragod,CineKrishna4KKasaragod,Malayalam,22:00,Sofa,200₹,8,0
