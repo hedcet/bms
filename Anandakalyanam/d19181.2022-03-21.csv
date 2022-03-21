@@ -1,0 +1,17 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Kochi,EvmCinemaAC2K3DDolby71Perumbavoor,Malayalam,11:00,Executive1,155₹,15,0
+Kochi,EvmCinemaAC2K3DDolby71Perumbavoor,Malayalam,11:00,Deluxe,130₹,128,0
+Kozhinjampara,VrindavanTheatreKozhinjampara,Malayalam,11:00,Balcony,110₹,199,0
+Kozhinjampara,VrindavanTheatreKozhinjampara,Malayalam,11:00,Platinum,100₹,199,0
+Koothattukulam,Kanoos2KRavipuram,Malayalam,12:00,Diamond,110₹,186,0
+Kochi,EvmCinemaAC2K3DDolby71Perumbavoor,Malayalam,14:00,Executive1,155₹,15,0
+Kochi,EvmCinemaAC2K3DDolby71Perumbavoor,Malayalam,14:00,Deluxe,130₹,128,0
+Varkala,GangaCineHouse4KDolbyAtmosAttingal,Malayalam,14:20,Yamuna,130₹,330,0
+Kollam,GmaxCinemasKollam,Malayalam,16:15,Blue,180₹,170,18
+Vadakara,KirthiMudra4KRgbLaserDolbyAtmos,Malayalam,16:30,Sofa,200₹,16,0
+Vadakara,KirthiMudra4KRgbLaserDolbyAtmos,Malayalam,16:30,Gold,150₹,182,0
+Kozhinjampara,VrindavanTheatreKozhinjampara,Malayalam,21:00,Balcony,110₹,199,0
+Kozhinjampara,VrindavanTheatreKozhinjampara,Malayalam,21:00,Platinum,100₹,199,0
+Koothattukulam,DharsanaCinemaComplexPiravom,Malayalam,21:00,Platinum,180₹,45,0
+Koothattukulam,DharsanaCinemaComplexPiravom,Malayalam,21:00,Gold,150₹,154,0
+Koothattukulam,DharsanaCinemaComplexPiravom,Malayalam,21:00,Silver,80₹,22,0
