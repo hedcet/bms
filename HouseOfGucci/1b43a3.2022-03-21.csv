@@ -1,0 +1,6 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Nelamangala,PvrVrBengaluruWhitefieldRoad,English,18:45,Classic,190₹,115,2
+Nelamangala,PvrVrBengaluruWhitefieldRoad,English,18:45,Prime,210₹,17,0
+Nelamangala,PvrVrBengaluruWhitefieldRoad,English,18:45,Recliner,330₹,14,1
+NationalCapitalRegionNcr,PvrAmbienceGurgaon,English,19:30,ClassicNormal,250₹,84,0
+NationalCapitalRegionNcr,PvrAmbienceGurgaon,English,19:30,Prime,300₹,68,36
