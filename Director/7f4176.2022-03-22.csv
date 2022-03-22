@@ -1,0 +1,11 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Eluru,SriSatyanarayanaCinemasScreen3Eluru,Telugu,11:00,Balcony,150₹,280,36
+Hyderabad,PvrNextGalleriaMallPanjagutta,Telugu,11:15,Classic,200₹,152,13
+Kakinada,InoxSrmtMallKakinada,Telugu,13:50,Executive,112₹,131,0
+VizagVisakhapatnam,InoxVizagChitralayaMall,Telugu,13:50,Executive,177₹,122,6
+Madhapur,PvrForumSujanaMallKukatpallyHyderabad,Telugu,14:15,Classic,200₹,135,30
+Madhapur,PvrForumSujanaMallKukatpallyHyderabad,Telugu,14:15,Recliner,350₹,9,0
+Eluru,SriSatyanarayanaCinemasScreen3Eluru,Telugu,14:30,Balcony,150₹,280,36
+Vizianagaram,InoxNcsMallVizianagaram,Telugu,16:50,Exclusive,177₹,264,24
+Eluru,SriSatyanarayanaCinemasScreen3Eluru,Telugu,18:15,Balcony,150₹,280,0
+Eluru,SriSatyanarayanaCinemasScreen3Eluru,Telugu,21:30,Balcony,150₹,280,36
