@@ -1,0 +1,4 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Ahmedabad,TimeCinemaCgRoadAhmedabad,Gujarati,11:15,Recliner,840₹,8,0
+Surat,TimeCinemaGalaxyCirclePalSurat,Gujarati,14:00,Gold,340₹,6,0
+Surat,TimeCinemaGalaxyCirclePalSurat,Gujarati,18:45,Gold,200₹,48,3
