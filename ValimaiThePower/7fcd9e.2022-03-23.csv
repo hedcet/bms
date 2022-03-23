@@ -1,0 +1,13 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Ajmer,PlazaCinemaAjmer,Hindi,11:45,Balcony,70₹,100,2
+Ajmer,PlazaCinemaAjmer,Hindi,11:45,DressCircle,60₹,100,0
+Ajmer,PlazaCinemaAjmer,Hindi,11:45,Janta,50₹,50,0
+Ajmer,PlazaCinemaAjmer,Hindi,15:00,Balcony,70₹,100,0
+Ajmer,PlazaCinemaAjmer,Hindi,15:00,DressCircle,60₹,100,0
+Ajmer,PlazaCinemaAjmer,Hindi,15:00,Janta,50₹,50,0
+Ajmer,PlazaCinemaAjmer,Hindi,18:00,Balcony,70₹,100,4
+Ajmer,PlazaCinemaAjmer,Hindi,18:00,DressCircle,60₹,100,0
+Ajmer,PlazaCinemaAjmer,Hindi,18:00,Janta,50₹,50,0
+Ajmer,PlazaCinemaAjmer,Hindi,21:00,Balcony,70₹,100,0
+Ajmer,PlazaCinemaAjmer,Hindi,21:00,DressCircle,60₹,100,0
+Ajmer,PlazaCinemaAjmer,Hindi,21:00,Janta,50₹,50,0
