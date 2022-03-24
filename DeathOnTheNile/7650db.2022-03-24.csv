@@ -1,0 +1,5 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Surat,TimeCinemaGalaxyCirclePalSurat,English,10:05,Gold,170₹,48,0
+Ahmedabad,TimeCinemaCgRoadAhmedabad,English,14:10,Recliner,940₹,8,0
+Surat,TimeCinemaGalaxyCirclePalSurat,English,22:00,Gold,260₹,48,0
+Ahmedabad,TimeCinemaCgRoadAhmedabad,English,22:45,Recliner,"1,040₹",8,2
