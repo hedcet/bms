@@ -1,0 +1,10 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Ahmedabad,KSeraSeraSgHighway,Hindi,09:25,Gold,150₹,16,3
+Ahmedabad,KSeraSeraSgHighway,Hindi,09:25,Silver,150₹,60,10
+Agra,HeeraTalkiesAgra,Hindi,12:30,Balcony,60₹,753,0
+Agra,HeeraTalkiesAgra,Hindi,12:30,DressCircle,30₹,753,0
+Ahmedabad,AbMiniplexShivranjiniCrossRoadSatellite,Hindi,13:25,Executive,110₹,54,0
+Agra,HeeraTalkiesAgra,Hindi,15:30,Balcony,60₹,455,0
+Agra,HeeraTalkiesAgra,Hindi,15:30,DressCircle,30₹,298,0
+Agra,HeeraTalkiesAgra,Hindi,18:30,Balcony,60₹,753,0
+Agra,HeeraTalkiesAgra,Hindi,18:30,DressCircle,30₹,753,0
