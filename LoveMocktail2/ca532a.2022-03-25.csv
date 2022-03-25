@@ -1,0 +1,9 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Udupi,DianaTheatreUdupi,Kannada,10:30,Balcony,80₹,32,0
+Udupi,DianaTheatreUdupi,Kannada,13:30,Balcony,80₹,32,0
+Udupi,DianaTheatreUdupi,Kannada,16:30,Balcony,80₹,32,0
+TumakuruTumkur,SriKrishnaTalkiesACMGRoad,Kannada,17:00,BalconyClass,120₹,144,2
+TumakuruTumkur,SriKrishnaTalkiesACMGRoad,Kannada,17:00,SecondClass,100₹,288,0
+Udupi,DianaTheatreUdupi,Kannada,19:15,Balcony,80₹,32,0
+TumakuruTumkur,SriKrishnaTalkiesACMGRoad,Kannada,20:00,BalconyClass,120₹,144,0
+TumakuruTumkur,SriKrishnaTalkiesACMGRoad,Kannada,20:00,SecondClass,100₹,288,0
