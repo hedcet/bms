@@ -1,0 +1,8 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Surat,TimeCinemaGalaxyCirclePalSurat,English,09:45,Gold,170₹,24,0
+Mumbai,InoxInsigniaAtAtriaMallWorli,English,10:00,Insignia,450₹,34,8
+NationalCapitalRegionNcr,PvrLogixNoida,English,12:45,Classic,290₹,38,0
+Chandigarh,Pvr4DxElanteChandigarh,English,13:15,Classic,414₹,108,27
+Hyderabad,Pvr4DxIrrumManzilHyderabad,English,13:35,4Dx,350₹,96,35
+Hyderabad,Pvr4DxForumSujanaMallKukatpallyHyderabad,English,16:45,4DxClassic,350₹,108,4
+NationalCapitalRegionNcr,PvrLogixNoida,English,20:05,Classic,290₹,38,7
