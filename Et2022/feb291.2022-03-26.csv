@@ -1,0 +1,17 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Chodavaram,LakshmiTheatreChodavaram,Telugu,11:00,GoldClass,100₹,80,0
+Chodavaram,LakshmiTheatreChodavaram,Telugu,11:00,SilverClass,80₹,80,0
+Vijayawada,SwarnaMultiplexVijayawada,Telugu,11:30,Premium,112₹,188,0
+Vijayawada,SwarnaMultiplexVijayawada,Telugu,11:30,Economy,78₹,50,0
+Chodavaram,LakshmiTheatreChodavaram,Telugu,14:30,GoldClass,100₹,80,0
+Chodavaram,LakshmiTheatreChodavaram,Telugu,14:30,SilverClass,80₹,80,0
+Vijayawada,SwarnaMultiplexVijayawada,Telugu,14:45,Premium,112₹,188,4
+Vijayawada,SwarnaMultiplexVijayawada,Telugu,14:45,Economy,78₹,51,2
+Vijayawada,SwarnaMultiplexVijayawada,Telugu,18:30,Premium,112₹,188,0
+Vijayawada,SwarnaMultiplexVijayawada,Telugu,18:30,Economy,78₹,50,0
+Chodavaram,LakshmiTheatreChodavaram,Telugu,18:30,GoldClass,100₹,284,214
+Chodavaram,LakshmiTheatreChodavaram,Telugu,18:30,SilverClass,80₹,30,30
+Chodavaram,LakshmiTheatreChodavaram,Telugu,21:30,GoldClass,100₹,70,0
+Chodavaram,LakshmiTheatreChodavaram,Telugu,21:30,SilverClass,80₹,70,0
+Vijayawada,SwarnaMultiplexVijayawada,Telugu,21:45,Premium,112₹,188,0
+Vijayawada,SwarnaMultiplexVijayawada,Telugu,21:45,Economy,78₹,50,0
