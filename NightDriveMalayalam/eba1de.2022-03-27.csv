@@ -1,0 +1,8 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Mannur,InoxSobhaCityMall,Malayalam,11:20,RoyalRecliner,270₹,10,2
+Mannur,InoxSobhaCityMall,Malayalam,11:20,Royal,170₹,28,12
+Mannur,InoxSobhaCityMall,Malayalam,11:20,Club,140₹,63,4
+Mannur,InoxSobhaCityMall,Malayalam,11:20,Executive,110₹,22,0
+Wadakkancherry,ThalamTheatreWadakkanchery,Malayalam,14:45,Luxury,129₹,114,14
+Wadakkancherry,ThalamTheatreWadakkanchery,Malayalam,18:15,Luxury,129₹,114,14
+Wadakkancherry,ThalamTheatreWadakkanchery,Malayalam,21:15,Luxury,129₹,114,0
