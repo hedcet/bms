@@ -1,0 +1,10 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Guntur,SriGaneshMahalGuntur,Telugu,11:15,FirstClass,40₹,40,1
+Sabbavaram,InoxVizagChitralayaMall,Telugu,13:05,Executive,177₹,122,59
+Guntur,SriGaneshMahalGuntur,Telugu,14:30,FirstClass,40₹,40,0
+Sabbavaram,InoxVarunBeachBeachRoad,Telugu,16:00,Excutive,177₹,147,64
+Narsipatnam,PvrSreeKanyaNarsipatnam,Telugu,16:30,Classic,60₹,29,5
+Narsipatnam,PvrSreeKanyaNarsipatnam,Telugu,16:30,ClassicPlus,150₹,171,11
+Guntur,SriGaneshMahalGuntur,Telugu,18:15,FirstClass,40₹,40,4
+Sabbavaram,InoxCmrCentralMaddilapalem,Telugu,19:15,Executive,177₹,161,38
+Guntur,SriGaneshMahalGuntur,Telugu,21:30,FirstClass,40₹,40,0
