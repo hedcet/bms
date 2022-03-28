@@ -1,0 +1,5 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Chennai,LuxeCinemasChennai,English,14:40,Elite2D,183₹,126,19
+Chennai,LuxeCinemasChennai,English,14:40,Budget,66₹,14,0
+Surat,TimeCinemaGalaxyCirclePalSurat,English,19:20,Gold,220₹,24,0
+Surat,TimeCinemaGalaxyCirclePalSurat,English,22:40,Gold,380₹,12,0
