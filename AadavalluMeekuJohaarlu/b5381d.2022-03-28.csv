@@ -1,0 +1,16 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Guntur,SriGaneshMahalGuntur,Telugu,11:15,FirstClass,40₹,40,0
+VizagVisakhapatnam,InoxVizagChitralayaMall,Telugu,13:05,Executive,177₹,122,28
+Mandapeta,RajaratnaCinemaxMandapeta,Telugu,14:00,FirstClass,110₹,154,38
+Mandapeta,RajaratnaCinemaxMandapeta,Telugu,14:00,SecondClass,70₹,57,0
+Guntur,SriGaneshMahalGuntur,Telugu,14:30,FirstClass,40₹,40,0
+VizagVisakhapatnam,InoxVarunBeachBeachRoad,Telugu,16:00,Excutive,177₹,147,20
+Narsipatnam,PvrSreeKanyaNarsipatnam,Telugu,16:30,Classic,60₹,29,0
+Narsipatnam,PvrSreeKanyaNarsipatnam,Telugu,16:30,ClassicPlus,150₹,171,21
+Mandapeta,RajaratnaCinemaxMandapeta,Telugu,18:00,FirstClass,110₹,154,38
+Mandapeta,RajaratnaCinemaxMandapeta,Telugu,18:00,SecondClass,70₹,57,0
+Guntur,SriGaneshMahalGuntur,Telugu,18:15,FirstClass,40₹,40,0
+VizagVisakhapatnam,InoxCmrCentralMaddilapalem,Telugu,19:15,Executive,177₹,161,12
+Mandapeta,RajaratnaCinemaxMandapeta,Telugu,21:00,FirstClass,110₹,154,0
+Mandapeta,RajaratnaCinemaxMandapeta,Telugu,21:00,SecondClass,70₹,57,0
+Guntur,SriGaneshMahalGuntur,Telugu,21:30,FirstClass,40₹,40,2
