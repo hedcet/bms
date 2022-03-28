@@ -1,0 +1,4 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Kolkata,NandanKolkata,Bengali,17:30,FrontStall,30₹,83,4
+Kolkata,NandanKolkata,Bengali,17:30,RearStall,50₹,338,91
+Kolkata,NandanKolkata,Bengali,17:30,Balcony,70₹,276,74
