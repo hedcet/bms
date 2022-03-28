@@ -1,0 +1,7 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Kolkata,PvrDiamondPlazaJessoreKolkata,Bengali,12:25,Classic,160₹,80,0
+Kolkata,PvrDiamondPlazaJessoreKolkata,Bengali,12:25,Prime,220₹,11,2
+Kolkata,PvrDiamondPlazaJessoreKolkata,Bengali,12:25,Recliner,420₹,12,0
+Kolkata,NandanKolkata,Bengali,12:30,FrontStall,30₹,83,0
+Kolkata,NandanKolkata,Bengali,12:30,RearStall,50₹,338,6
+Kolkata,NandanKolkata,Bengali,12:30,Balcony,70₹,276,26
