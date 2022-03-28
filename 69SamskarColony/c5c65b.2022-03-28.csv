@@ -1,0 +1,5 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Kodad,SaiKrishnaTheatreKodad,Telugu,11:00,Balcony,100₹,393,1
+Kodad,SaiKrishnaTheatreKodad,Telugu,14:00,Balcony,100₹,393,0
+Kodad,SaiKrishnaTheatreKodad,Telugu,18:00,Balcony,100₹,393,0
+Kodad,SaiKrishnaTheatreKodad,Telugu,21:00,Balcony,100₹,393,0
