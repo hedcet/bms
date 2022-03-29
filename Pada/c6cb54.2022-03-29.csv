@@ -1,0 +1,15 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Koothattukulam,PvrLuluKochi,Malayalam,12:30,Classic,140₹,39,0
+Koothattukulam,PvrLuluKochi,Malayalam,12:30,ClassicPlus,160₹,91,0
+Koothattukulam,PvrLuluKochi,Malayalam,12:30,Prime,190₹,64,16
+Koothattukulam,PvrLuluKochi,Malayalam,12:30,Recliner,350₹,9,0
+Koothattukulam,PvrOberonMallKochi,Malayalam,15:45,Classic,129₹,36,0
+Koothattukulam,PvrOberonMallKochi,Malayalam,15:45,ClassicPlus,160₹,81,16
+Thrissur,InoxSobhaCityMall,Malayalam,22:10,RoyalRecliner,290₹,10,0
+Thrissur,InoxSobhaCityMall,Malayalam,22:10,Club,170₹,63,0
+Thrissur,InoxSobhaCityMall,Malayalam,22:10,Royal,170₹,28,12
+Thrissur,InoxSobhaCityMall,Malayalam,22:10,Executive,130₹,22,0
+Koothattukulam,PvrLuluKochi,Malayalam,22:30,Classic,140₹,39,0
+Koothattukulam,PvrLuluKochi,Malayalam,22:30,ClassicPlus,160₹,91,0
+Koothattukulam,PvrLuluKochi,Malayalam,22:30,Prime,190₹,68,17
+Koothattukulam,PvrLuluKochi,Malayalam,22:30,Recliner,350₹,10,0
