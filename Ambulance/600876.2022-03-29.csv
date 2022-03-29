@@ -1,0 +1,7 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Ahmedabad,TimeCinemaCgRoadAhmedabad,English,10:00,Gold,210₹,24,0
+Surat,TimeCinemaGalaxyCirclePalSurat,English,13:00,Gold,250₹,12,0
+Chennai,LuxeCinemasChennai,English,14:40,Elite2D,183₹,126,14
+Chennai,LuxeCinemasChennai,English,14:40,Budget,66₹,14,0
+Surat,TimeCinemaGalaxyCirclePalSurat,English,19:20,Gold,220₹,24,0
+Surat,TimeCinemaGalaxyCirclePalSurat,English,22:40,Gold,380₹,12,0
