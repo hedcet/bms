@@ -1,0 +1,7 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Madurai,PriyaComplexDolbyAtmosMadurai,Tamil,12:30,FirstClass,110₹,300,26
+Salem,ArrsMultiplexSalem,Tamil,18:30,FirstClass,150₹,197,17
+Salem,ArrsMultiplexSalem,Tamil,18:30,SecondClass,120₹,158,0
+Salem,ArrsMultiplexSalem,Tamil,22:15,FirstClass,150₹,197,17
+Salem,ArrsMultiplexSalem,Tamil,22:15,SecondClass,120₹,158,0
+Chennai,RohiniSilverScreensKoyambedu,Tamil,23:01,GoldStar,150₹,120,32
