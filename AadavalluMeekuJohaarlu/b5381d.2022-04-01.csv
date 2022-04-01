@@ -1,0 +1,15 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Sabbavaram,SatyamTheatreGopalapatnam,Telugu,14:00,Balcony,145₹,207,68
+Sabbavaram,SatyamTheatreGopalapatnam,Telugu,14:00,FirstClass,100₹,69,0
+Sabbavaram,SatyamTheatreGopalapatnam,Telugu,18:00,Balcony,145₹,207,65
+Sabbavaram,SatyamTheatreGopalapatnam,Telugu,18:00,FirstClass,100₹,69,0
+Choutuppal,AnjiReddy70MmChoutuppal,Telugu,18:15,Balcony,110₹,217,0
+Kakinada,MayuriAcDtsKakinada,Telugu,18:30,Premium,112₹,327,0
+Kakinada,MayuriAcDtsKakinada,Telugu,18:30,Premium1,112₹,24,0
+Kakinada,MayuriAcDtsKakinada,Telugu,18:30,NonPremium,75₹,118,0
+Sabbavaram,SatyamTheatreGopalapatnam,Telugu,21:00,Balcony,145₹,207,65
+Sabbavaram,SatyamTheatreGopalapatnam,Telugu,21:00,FirstClass,100₹,69,0
+Choutuppal,AnjiReddy70MmChoutuppal,Telugu,21:15,Balcony,110₹,217,0
+Kakinada,MayuriAcDtsKakinada,Telugu,21:30,Premium,112₹,327,0
+Kakinada,MayuriAcDtsKakinada,Telugu,21:30,Premium1,112₹,24,0
+Kakinada,MayuriAcDtsKakinada,Telugu,21:30,NonPremium,75₹,118,0
