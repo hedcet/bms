@@ -1,0 +1,11 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Kundapura,BharathCinemasKundapura,Kannada,12:30,Gold,200₹,32,0
+Kundapura,BharathCinemasKundapura,Kannada,12:30,Silver,180₹,24,0
+Kundapura,BharathCinemasKundapura,Kannada,12:30,Special,150₹,36,0
+Nelamangala,GopalanMallSirsiCircle,Kannada,14:30,Gold,236₹,187,1
+Shivamogga,BharathCinemasShivamogga,Kannada,15:15,Gold,200₹,86,0
+Shivamogga,BharathCinemasShivamogga,Kannada,15:15,Silver,150₹,40,0
+Shivamogga,BharathCinemasShivamogga,Kannada,15:15,Special,150₹,30,0
+Kasaragod,KaveriCinemasACDtsDolbyKarmamthody,Kannada,16:00,Standard,110₹,145,0
+Kasaragod,KaveriCinemasACDtsDolbyKarmamthody,Kannada,19:15,Standard,110₹,145,0
+Kasaragod,KaveriCinemasACDtsDolbyKarmamthody,Kannada,22:00,Standard,110₹,145,0
