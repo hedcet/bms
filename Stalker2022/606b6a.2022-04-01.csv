@@ -1,0 +1,11 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Nelamangala,PvrOrionMallDrRajkumarRoad,Kannada,13:45,Classic,170₹,108,1
+Nelamangala,PvrOrionMallDrRajkumarRoad,Kannada,13:45,Prime,190₹,108,20
+Nelamangala,PvrOrionMallDrRajkumarRoad,Kannada,13:45,Recliner,350₹,16,8
+MangaluruMangalore,BharathCinemasMangalore,Kannada,17:15,Gold,180₹,38,0
+MangaluruMangalore,BharathCinemasMangalore,Kannada,17:15,Silver,150₹,20,0
+MangaluruMangalore,BharathCinemasMangalore,Kannada,17:15,Special,150₹,7,0
+Nelamangala,GopalanMallSirsiCircle,Kannada,17:25,Gold,236₹,203,8
+Nelamangala,CinepolisBinnypetMall,Kannada,19:00,Normal,180₹,9,0
+Nelamangala,CinepolisBinnypetMall,Kannada,19:00,Executive,180₹,81,34
+Nelamangala,CinepolisBinnypetMall,Kannada,19:00,Premium,180₹,52,52
