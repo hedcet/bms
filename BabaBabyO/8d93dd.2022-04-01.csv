@@ -1,0 +1,9 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Kolkata,NandanKolkata,Bengali,14:45,FrontStall,30₹,83,10
+Kolkata,NandanKolkata,Bengali,14:45,RearStall,50₹,338,44
+Kolkata,NandanKolkata,Bengali,14:45,Balcony,70₹,276,32
+Mahishadal,GitaCinemaMahishadal,Bengali,17:00,AcSuper,100₹,937,0
+Mahishadal,GitaCinemaMahishadal,Bengali,17:00,Special,70₹,937,0
+Mahishadal,GitaCinemaMahishadal,Bengali,17:00,DressCircle,40₹,937,0
+Mahishadal,GitaCinemaMahishadal,Bengali,17:00,Balcony,30₹,937,0
+Mahishadal,GitaCinemaMahishadal,Bengali,17:00,RearStall,25₹,937,0
