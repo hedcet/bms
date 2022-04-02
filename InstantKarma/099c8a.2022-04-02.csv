@@ -1,0 +1,15 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,11:15,Classic,150₹,108,4
+Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,11:15,Prime,190₹,108,18
+Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,11:15,Recliner,350₹,16,0
+Bengaluru,KamakyaCinemaBanashankari,Kannada,11:15,Balcony,150₹,338,3
+Bengaluru,KamakyaCinemaBanashankari,Kannada,11:15,Stall,120₹,333,0
+Bengaluru,InoxGarudaYelahankaBengaluru,Kannada,12:25,Club,230₹,123,12
+Bengaluru,InoxGarudaYelahankaBengaluru,Kannada,12:25,Executive,220₹,60,0
+Bengaluru,CinepolisBinnypetMall,Kannada,13:10,Normal,150₹,10,0
+Bengaluru,CinepolisBinnypetMall,Kannada,13:10,Executive,150₹,82,0
+Bengaluru,CinepolisBinnypetMall,Kannada,13:10,Premium,150₹,34,2
+Bengaluru,GopalanMallSirsiCircle,Kannada,14:30,Gold,200₹,187,5
+Kasaragod,KaveriCinemasACDtsDolbyKarmamthody,Kannada,16:00,Standard,110₹,145,0
+Kasaragod,KaveriCinemasACDtsDolbyKarmamthody,Kannada,19:15,Standard,110₹,145,0
+Kasaragod,KaveriCinemasACDtsDolbyKarmamthody,Kannada,22:00,Standard,110₹,145,0
