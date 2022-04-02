@@ -1,0 +1,14 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,PvrVegaCityBannerghattaRoad,Kannada,11:20,Classic,190₹,86,46
+Bengaluru,PvrVegaCityBannerghattaRoad,Kannada,11:20,Recliner,350₹,9,0
+Bengaluru,PvrPhoenixMarketcityMallWhitefieldRoad,Kannada,12:55,Classic,220₹,72,28
+Bengaluru,PvrPhoenixMarketcityMallWhitefieldRoad,Kannada,12:55,Recliner,400₹,7,4
+Bengaluru,InoxMantriSquareMalleshwaram,Kannada,13:20,Royal,380₹,8,0
+Bengaluru,InoxMantriSquareMalleshwaram,Kannada,13:20,Club,230₹,268,3
+Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,13:45,Classic,210₹,108,0
+Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,13:45,Prime,230₹,108,0
+Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,13:45,Recliner,400₹,16,0
+Bengaluru,GopalanMallSirsiCircle,Kannada,17:25,Gold,236₹,206,8
+Bengaluru,CinepolisBinnypetMall,Kannada,19:00,Normal,180₹,9,0
+Bengaluru,CinepolisBinnypetMall,Kannada,19:00,Executive,180₹,81,0
+Bengaluru,CinepolisBinnypetMall,Kannada,19:00,Premium,180₹,35,0
