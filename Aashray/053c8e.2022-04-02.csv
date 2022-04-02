@@ -1,0 +1,8 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Mumbai,MovietimeTheHubGoregaon,Marathi,11:15,Mhraja,120₹,44,6
+Mumbai,CarnivalMoviestarGoregaon,Marathi,12:10,GoldOffline,130₹,46,0
+Mumbai,CarnivalMoviestarGoregaon,Marathi,12:10,SilverOffline,100₹,24,0
+Mumbai,CinepolisVivianaMallThane,Marathi,13:20,Normal,200₹,108,16
+Pune,AbhiruchiCityPrideSinhagadRoad,Marathi,14:45,RoyalSofa,230₹,12,3
+Pune,AbhiruchiCityPrideSinhagadRoad,Marathi,14:45,RoyalGold,200₹,123,26
+Pune,AbhiruchiCityPrideSinhagadRoad,Marathi,14:45,RoyalSilver,180₹,30,0
