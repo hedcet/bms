@@ -1,0 +1,9 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Chennai,SreeLakshmibalaMoviepark4K3DDolby712Padi,Tamil,10:00,FirstClass,70₹,187,0
+Chennai,PvrHeritageRslEcrChennai,Tamil,11:50,Classic,60₹,11,11
+Chennai,PvrHeritageRslEcrChennai,Tamil,11:50,Prime,190₹,98,13
+Chennai,PvrAmpaMallNelsonManickamRoad,Tamil,12:05,Classic,60₹,17,1
+Chennai,PvrAmpaMallNelsonManickamRoad,Tamil,12:05,Prime,179₹,130,17
+Salem,ArrsMultiplexSalem,Tamil,18:30,FirstClass,150₹,197,17
+Salem,ArrsMultiplexSalem,Tamil,18:30,SecondClass,120₹,158,0
+Chennai,RohiniSilverScreensKoyambedu,Tamil,23:00,GoldStar,150₹,120,32
