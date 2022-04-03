@@ -1,0 +1,8 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Chandigarh,PvrElanteChandigarh,Punjabi,14:20,Classic,212₹,153,72
+Chandigarh,PvrElanteChandigarh,Punjabi,14:20,Recliner,599₹,13,9
+Chandigarh,PvrVrPunjabMallMohali,Punjabi,17:25,Classic,310₹,84,6
+Chandigarh,PvrVrPunjabMallMohali,Punjabi,17:25,Prime,340₹,38,9
+Amritsar,CinepolisMallOfAmritsar,Punjabi,23:10,Normal,160₹,39,0
+Amritsar,CinepolisMallOfAmritsar,Punjabi,23:10,Executive,170₹,52,24
+Amritsar,CinepolisMallOfAmritsar,Punjabi,23:10,Vip,300₹,11,0
