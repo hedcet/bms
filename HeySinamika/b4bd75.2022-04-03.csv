@@ -1,0 +1,8 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Chennai,MayajaalMultiplexEcrChennai,Tamil,11:50,FirstClass,190₹,134,15
+Chennai,SpiPalazzoTheForumVijayaMallVadapalani,Tamil,11:50,Budget,60₹,27,13
+Chennai,SpiPalazzoTheForumVijayaMallVadapalani,Tamil,11:50,Elite,190₹,210,118
+Chennai,SpiEscapeExpressAvenueMallRoyapettah,Tamil,12:30,Budget,60₹,11,11
+Chennai,SpiEscapeExpressAvenueMallRoyapettah,Tamil,12:30,Elite,190₹,99,53
+Chennai,PvrVrChennaiAnnaNagar,Tamil,15:45,Classic,60₹,11,10
+Chennai,PvrVrChennaiAnnaNagar,Tamil,15:45,Prime,190₹,102,95
