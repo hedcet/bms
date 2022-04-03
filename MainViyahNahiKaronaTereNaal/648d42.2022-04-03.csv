@@ -1,0 +1,5 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Amritsar,CinepolisMallOfAmritsar,Punjabi,09:05,Normal,150₹,39,0
+Amritsar,CinepolisMallOfAmritsar,Punjabi,09:05,Executive,160₹,52,16
+Amritsar,CinepolisMallOfAmritsar,Punjabi,09:05,Vip,320₹,11,0
+Ludhiana,PvrPavilionLudhiana,Punjabi,15:30,Classic,270₹,77,72
