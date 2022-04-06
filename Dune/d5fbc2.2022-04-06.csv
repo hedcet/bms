@@ -1,0 +1,8 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+NationalCapitalRegionNcr,PvrAmbienceGurgaon,English,19:30,ClassicNormal,250₹,84,0
+NationalCapitalRegionNcr,PvrAmbienceGurgaon,English,19:30,Prime,300₹,68,30
+NationalCapitalRegionNcr,PvrLogixNoida,English,19:30,Classic,260₹,76,12
+Mumbai,PvrIconPhoenixPalladiumLowerParelMumbai,English,19:30,Lounger,250₹,10,0
+Mumbai,PvrIconPhoenixPalladiumLowerParelMumbai,English,19:30,Classic,250₹,42,1
+Mumbai,PvrIconPhoenixPalladiumLowerParelMumbai,English,19:30,Prime,300₹,68,23
+Mumbai,PvrIconPhoenixPalladiumLowerParelMumbai,English,19:30,Recliner,550₹,14,5
