@@ -1,0 +1,5 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Mumbai,MovietimeTheHubGoregaon,Marathi,11:15,Mhraja,110₹,44,6
+Pune,AbhiruchiCityPrideSinhagadRoad,Marathi,14:45,RoyalSofa,200₹,12,0
+Pune,AbhiruchiCityPrideSinhagadRoad,Marathi,14:45,RoyalGold,180₹,123,24
+Pune,AbhiruchiCityPrideSinhagadRoad,Marathi,14:45,RoyalSilver,160₹,30,0
