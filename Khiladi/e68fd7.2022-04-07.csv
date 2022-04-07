@@ -1,0 +1,17 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+VizagVisakhapatnam,SreeLeelaMahalTheatreVizag,Telugu,11:00,BoxA,145₹,18,1
+VizagVisakhapatnam,SreeLeelaMahalTheatreVizag,Telugu,11:00,BoxB,145₹,18,0
+VizagVisakhapatnam,SreeLeelaMahalTheatreVizag,Telugu,11:00,Balcony,145₹,497,112
+VizagVisakhapatnam,SreeLeelaMahalTheatreVizag,Telugu,11:00,SecondClass,100₹,182,0
+VizagVisakhapatnam,SreeLeelaMahalTheatreVizag,Telugu,14:30,BoxA,145₹,18,0
+VizagVisakhapatnam,SreeLeelaMahalTheatreVizag,Telugu,14:30,BoxB,145₹,18,0
+VizagVisakhapatnam,SreeLeelaMahalTheatreVizag,Telugu,14:30,Balcony,145₹,497,112
+VizagVisakhapatnam,SreeLeelaMahalTheatreVizag,Telugu,14:30,SecondClass,100₹,182,0
+VizagVisakhapatnam,SreeLeelaMahalTheatreVizag,Telugu,18:30,BoxA,145₹,18,0
+VizagVisakhapatnam,SreeLeelaMahalTheatreVizag,Telugu,18:30,BoxB,145₹,18,0
+VizagVisakhapatnam,SreeLeelaMahalTheatreVizag,Telugu,18:30,Balcony,145₹,497,112
+VizagVisakhapatnam,SreeLeelaMahalTheatreVizag,Telugu,18:30,SecondClass,100₹,182,0
+VizagVisakhapatnam,SreeLeelaMahalTheatreVizag,Telugu,21:30,BoxA,145₹,18,0
+VizagVisakhapatnam,SreeLeelaMahalTheatreVizag,Telugu,21:30,BoxB,145₹,18,0
+VizagVisakhapatnam,SreeLeelaMahalTheatreVizag,Telugu,21:30,Balcony,145₹,497,112
+VizagVisakhapatnam,SreeLeelaMahalTheatreVizag,Telugu,21:30,SecondClass,100₹,182,0
