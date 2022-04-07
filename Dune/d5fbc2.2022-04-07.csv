@@ -1,0 +1,5 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Mumbai,PvrIconPhoenixPalladiumLowerParelMumbai,English,19:30,Lounger,250₹,10,2
+Mumbai,PvrIconPhoenixPalladiumLowerParelMumbai,English,19:30,Classic,250₹,42,3
+Mumbai,PvrIconPhoenixPalladiumLowerParelMumbai,English,19:30,Prime,300₹,68,31
+Mumbai,PvrIconPhoenixPalladiumLowerParelMumbai,English,19:30,Recliner,550₹,14,4
