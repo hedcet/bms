@@ -1,0 +1,9 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Eluru,VMaxAC2KDolbyEluru,Telugu,14:30,Recliner,250₹,25,18
+Eluru,VMaxAC2KDolbyEluru,Telugu,14:30,1stClass,150₹,173,109
+Hyderabad,PvrForumSujanaMallKukatpallyHyderabad,Telugu,16:35,Classic,150₹,232,24
+Hyderabad,PvrForumSujanaMallKukatpallyHyderabad,Telugu,16:35,Recliner,250₹,12,4
+Hyderabad,PlatinumMovietimeGachibowli,Telugu,17:35,PlatinumPremiumRecliner,350₹,18,9
+Hyderabad,PlatinumMovietimeGachibowli,Telugu,17:35,PlatinumRecliners,350₹,16,0
+Eluru,VMaxAC2KDolbyEluru,Telugu,18:30,Recliner,250₹,25,16
+Eluru,VMaxAC2KDolbyEluru,Telugu,18:30,1stClass,150₹,173,109
