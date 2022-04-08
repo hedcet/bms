@@ -1,0 +1,10 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Kolkata,LilaCinemaBaruipur,Bengali,13:00,Balcony,60₹,28,0
+Kolkata,PvrDiamondPlazaJessoreKolkata,Bengali,14:05,Classic,210₹,100,6
+Kolkata,PvrDiamondPlazaJessoreKolkata,Bengali,14:05,Prime,260₹,11,0
+Kolkata,PvrDiamondPlazaJessoreKolkata,Bengali,14:05,Recliner,440₹,12,0
+Kolkata,NandanKolkata,Bengali,15:05,FrontStall,30₹,111,31
+Kolkata,NandanKolkata,Bengali,15:05,RearStall,50₹,451,105
+Kolkata,NandanKolkata,Bengali,15:05,Balcony,70₹,369,68
+Kolkata,LilaCinemaBaruipur,Bengali,16:00,Balcony,60₹,28,0
+Kolkata,LilaCinemaBaruipur,Bengali,18:45,Balcony,60₹,28,0
