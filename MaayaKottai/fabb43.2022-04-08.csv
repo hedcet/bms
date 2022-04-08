@@ -1,0 +1,9 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Sathyamangalam,VeerasCinemasSathyamangalam,Tamil,11:00,1FirstClass,80₹,120,0
+Sathyamangalam,VeerasCinemasSathyamangalam,Tamil,11:00,2SecondClass,80₹,120,0
+Sathyamangalam,VeerasCinemasSathyamangalam,Tamil,14:15,1FirstClass,80₹,120,0
+Sathyamangalam,VeerasCinemasSathyamangalam,Tamil,14:15,2SecondClass,80₹,200,200
+Sathyamangalam,VeerasCinemasSathyamangalam,Tamil,18:15,1FirstClass,80₹,120,0
+Sathyamangalam,VeerasCinemasSathyamangalam,Tamil,18:15,2SecondClass,80₹,200,200
+Sathyamangalam,VeerasCinemasSathyamangalam,Tamil,22:00,1FirstClass,80₹,120,0
+Sathyamangalam,VeerasCinemasSathyamangalam,Tamil,22:00,2SecondClass,80₹,120,0
