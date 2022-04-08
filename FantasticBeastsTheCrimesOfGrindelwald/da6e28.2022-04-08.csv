@@ -1,0 +1,13 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Raigarh,CarnivalGrandMallRaigarh,Hindi,15:45,Silver,110₹,67,1
+Raigarh,CarnivalGrandMallRaigarh,Hindi,15:45,Gold,170₹,56,0
+Raigarh,CarnivalGrandMallRaigarh,Hindi,15:45,Platinum,200₹,92,0
+Raigarh,CarnivalGrandMallRaigarh,Hindi,18:45,Silver,110₹,67,0
+Raigarh,CarnivalGrandMallRaigarh,Hindi,18:45,Gold,170₹,56,0
+Raigarh,CarnivalGrandMallRaigarh,Hindi,18:45,Platinum,200₹,92,0
+Rohtak,CitiMaxCinemasRohtak,Hindi,18:45,Silver,140₹,62,0
+Rohtak,CitiMaxCinemasRohtak,Hindi,18:45,Gold,160₹,158,0
+Rohtak,CitiMaxCinemasRohtak,Hindi,18:45,Diamond,200₹,26,0
+Raigarh,CarnivalGrandMallRaigarh,Hindi,21:45,Silver,110₹,67,0
+Raigarh,CarnivalGrandMallRaigarh,Hindi,21:45,Gold,170₹,56,0
+Raigarh,CarnivalGrandMallRaigarh,Hindi,21:45,Platinum,200₹,92,0
