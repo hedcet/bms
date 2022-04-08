@@ -1,0 +1,6 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Kochi,SaritaCinemaKochi,Tamil,12:00,EmeraldCircle,150₹,370,38
+Kochi,SaritaCinemaKochi,Tamil,12:00,RubyCircle,130₹,820,0
+Kochi,SaritaCinemaKochi,Tamil,15:00,EmeraldCircle,150₹,370,38
+Kochi,SaritaCinemaKochi,Tamil,15:00,RubyCircle,130₹,820,0
+Kollam,GmaxCinemasJerome,Tamil,21:00,Blue,180₹,170,152
