@@ -1,0 +1,6 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Pondicherry,JeevaRukmaniCinemasPondicherry,Tamil,12:00,Platinum,150₹,68,20
+Pondicherry,JeevaRukmaniCinemasPondicherry,Tamil,12:00,Diamond,100₹,212,45
+Pondicherry,JeevaRukmaniCinemasPondicherry,Tamil,12:00,Silver,50₹,46,0
+Kanchipuram,ArunaCinemasRgbLaser4KAcDolbyAtmos,Tamil,14:30,ExecutiveClass,120₹,306,0
+Kanchipuram,ArunaCinemasRgbLaser4KAcDolbyAtmos,Tamil,21:30,ExecutiveClass,120₹,306,0
