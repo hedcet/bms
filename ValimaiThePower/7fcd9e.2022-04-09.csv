@@ -1,0 +1,7 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Akola,NewRegalCinemaAkola,Hindi,15:15,Balcony,100₹,149,74
+Akola,NewRegalCinemaAkola,Hindi,15:15,ReserveClass,60₹,343,172
+Akola,NewRegalCinemaAkola,Hindi,18:15,Balcony,100₹,149,74
+Akola,NewRegalCinemaAkola,Hindi,18:15,ReserveClass,60₹,343,172
+Akola,NewRegalCinemaAkola,Hindi,21:15,Balcony,100₹,149,74
+Akola,NewRegalCinemaAkola,Hindi,21:15,ReserveClass,60₹,343,172
