@@ -1,0 +1,14 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Thrissur,KairaliSreeTheaterThrissur,Malayalam,11:00,Platinum,129₹,135,0
+Thrissur,KairaliSreeTheaterThrissur,Malayalam,11:00,Gold,105₹,376,0
+Alappuzha,CherthalaKairaliSreeTheatre,Malayalam,11:00,Platinum,125₹,263,0
+Trivandrum,SwaramLayamCinemasKattakada,Malayalam,11:15,Layam,130₹,143,0
+Trivandrum,LeninCinemas4K3DDolbyAtmosKsfdcTrivandrum,Malayalam,11:30,Platinum,150₹,22,0
+Trivandrum,LeninCinemas4K3DDolbyAtmosKsfdcTrivandrum,Malayalam,11:30,Gold,129₹,144,0
+Kochi,SavitaCinemaKochi,Malayalam,12:00,Deluxe,150₹,555,34
+Trivandrum,CarnivalMallOfTravancoreTrivandrum,Malayalam,13:15,PremiumOffline,300₹,50,12
+Trivandrum,CarnivalMallOfTravancoreTrivandrum,Malayalam,13:15,ExecutiveOffline,180₹,102,7
+Trivandrum,CarnivalMallOfTravancoreTrivandrum,Malayalam,13:15,NormalOffline,100₹,17,0
+Trivandrum,SwaramLayamCinemasKattakada,Malayalam,14:15,Layam,130₹,143,0
+Trivandrum,SwaramLayamCinemasKattakada,Malayalam,18:15,Layam,130₹,143,0
+Trivandrum,SwaramLayamCinemasKattakada,Malayalam,21:15,Layam,130₹,143,0
