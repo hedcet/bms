@@ -1,0 +1,7 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Guwahati,AnuradhaCineplexGuwahati,English,14:00,Silver,130₹,62,0
+Guwahati,AnuradhaCineplexGuwahati,English,14:00,Gold,180₹,170,0
+Guwahati,AnuradhaCineplexGuwahati,English,14:00,Platinum,230₹,158,48
+Guwahati,AnuradhaCineplexGuwahati,English,14:00,Diamond,380₹,16,0
+Guwahati,AnuradhaCineplexGuwahati,English,14:00,Box2,280₹,22,4
+Guwahati,AnuradhaCineplexGuwahati,English,14:00,Box1,280₹,10,0
