@@ -1,0 +1,17 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,CinepolisRoyalMeenakshiMall,Tulu,15:55,Normal,200₹,24,0
+Bengaluru,CinepolisRoyalMeenakshiMall,Tulu,15:55,Executive,200₹,52,8
+Bengaluru,CinepolisRoyalMeenakshiMall,Tulu,15:55,Premium,200₹,40,12
+Bengaluru,GopalanMiniplexSignatureMallOldMadrasRoad,Tulu,16:40,Gold,230₹,65,10
+Bengaluru,CinepolisForumShantiniketanBengaluru,Tulu,17:55,Normal,180₹,24,0
+Bengaluru,CinepolisForumShantiniketanBengaluru,Tulu,17:55,Executive,200₹,56,2
+Bengaluru,CinepolisForumShantiniketanBengaluru,Tulu,17:55,Premium,220₹,32,0
+Bengaluru,CinepolisForumShantiniketanBengaluru,Tulu,17:55,Vip,400₹,10,0
+Bengaluru,PvrTheCinemaGtWorldBengaluru,Tulu,18:00,Classic,200₹,228,18
+Bengaluru,PvrTheCinemaGtWorldBengaluru,Tulu,18:00,Recliner,350₹,12,6
+Bengaluru,InoxForumNeighbourhoodMallWhitefield,Tulu,18:55,Silver,250₹,79,10
+Bengaluru,InoxForumNeighbourhoodMallWhitefield,Tulu,18:55,Premiere,240₹,78,0
+Bengaluru,GopalanMallSirsiCircle,Tulu,19:00,Gold,236₹,187,5
+MangaluruMangalore,CineGalaxySurathkalMangalore,Tulu,19:00,Gold,210₹,18,0
+MangaluruMangalore,CineGalaxySurathkalMangalore,Tulu,19:00,Prime,180₹,48,9
+MangaluruMangalore,CineGalaxySurathkalMangalore,Tulu,19:00,Classic,150₹,42,0
