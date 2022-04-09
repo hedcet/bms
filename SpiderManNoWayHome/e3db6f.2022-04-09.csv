@@ -1,0 +1,17 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+NationalCapitalRegionNcr,PvrVegasDwarka,Hindi,11:00,3DClassic,385₹,36,3
+NationalCapitalRegionNcr,PvrVegasDwarka,Hindi,11:00,3DPrime,485₹,21,7
+NationalCapitalRegionNcr,PvrVegasDwarka,Hindi,11:00,3DRecliner,485₹,8,2
+Chennai,LuxeCinemasChennai,English,12:10,Elite2D,183₹,134,99
+Chennai,LuxeCinemasChennai,English,12:10,Budget,66₹,24,0
+NationalCapitalRegionNcr,PvrVegasDwarka,English,14:15,3DClassic,405₹,36,1
+NationalCapitalRegionNcr,PvrVegasDwarka,English,14:15,3DPrime,510₹,21,14
+NationalCapitalRegionNcr,PvrVegasDwarka,English,14:15,3DRecliner,510₹,8,6
+Hyderabad,PvrNextGalleriaMallPanjagutta,English,15:00,Classic,200₹,54,42
+NationalCapitalRegionNcr,PvrVegasDwarka,Hindi,17:30,3DClassic,405₹,36,0
+NationalCapitalRegionNcr,PvrVegasDwarka,Hindi,17:30,3DPrime,510₹,14,0
+NationalCapitalRegionNcr,PvrVegasDwarka,Hindi,17:30,3DRecliner,510₹,8,6
+NationalCapitalRegionNcr,PvrLogixNoida,English,18:30,3DClassic,440₹,38,24
+NationalCapitalRegionNcr,PvrVegasDwarka,English,20:45,3DClassic,405₹,36,0
+NationalCapitalRegionNcr,PvrVegasDwarka,English,20:45,3DPrime,510₹,14,0
+NationalCapitalRegionNcr,PvrVegasDwarka,English,20:45,3DRecliner,510₹,8,0
