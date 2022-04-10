@@ -1,0 +1,7 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Bijoynagar,AnuradhaCineplexGuwahati,English,20:15,Silver,100₹,62,0
+Bijoynagar,AnuradhaCineplexGuwahati,English,20:15,Gold,150₹,170,1
+Bijoynagar,AnuradhaCineplexGuwahati,English,20:15,Platinum,200₹,158,70
+Bijoynagar,AnuradhaCineplexGuwahati,English,20:15,Diamond,350₹,16,0
+Bijoynagar,AnuradhaCineplexGuwahati,English,20:15,Box2,250₹,22,2
+Bijoynagar,AnuradhaCineplexGuwahati,English,20:15,Box1,250₹,10,0
