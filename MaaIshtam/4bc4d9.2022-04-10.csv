@@ -1,0 +1,10 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Aushapur,AsianCineSquareMultiplexUppal,Telugu,10:50,Sofa,250₹,2,2
+Aushapur,AsianCineSquareMultiplexUppal,Telugu,10:50,Gold,200₹,144,0
+Eluru,SriSatyanarayanaCinemasScreen3Eluru,Telugu,11:00,Balcony,150₹,280,0
+Aushapur,AsianLakshmikalaCineprideMoosapet,Telugu,11:25,Platinum,150₹,338,93
+Aushapur,AsianLakshmikalaCineprideMoosapet,Telugu,11:25,Gold,100₹,177,27
+Aushapur,AsianLakshmikalaCineprideMoosapet,Telugu,11:25,Silver,50₹,135,0
+Eluru,SriSatyanarayanaCinemasScreen3Eluru,Telugu,14:30,Balcony,150₹,280,36
+Eluru,SriSatyanarayanaCinemasScreen3Eluru,Telugu,18:30,Balcony,150₹,280,0
+Eluru,SriSatyanarayanaCinemasScreen3Eluru,Telugu,21:30,Balcony,150₹,280,36
