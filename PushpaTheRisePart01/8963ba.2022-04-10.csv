@@ -1,0 +1,11 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Guntur,SriGaneshMahalGuntur,Telugu,11:15,FirstClass,40₹,40,0
+Kankipadu,RavindraCinemasVijayawada,Telugu,11:15,Gold,295₹,5,0
+Kankipadu,RavindraCinemasVijayawada,Telugu,11:15,Executive,112₹,220,0
+Kankipadu,RavindraCinemasVijayawada,Telugu,11:15,FirstClass,78₹,38,0
+Guntur,SriGaneshMahalGuntur,Telugu,14:30,FirstClass,40₹,40,0
+Guntur,SriGaneshMahalGuntur,Telugu,18:15,FirstClass,40₹,40,2
+Kankipadu,RavindraCinemasVijayawada,Telugu,18:30,Gold,295₹,5,0
+Kankipadu,RavindraCinemasVijayawada,Telugu,18:30,Executive,112₹,220,0
+Kankipadu,RavindraCinemasVijayawada,Telugu,18:30,FirstClass,78₹,38,0
+Guntur,SriGaneshMahalGuntur,Telugu,21:30,FirstClass,40₹,40,0
