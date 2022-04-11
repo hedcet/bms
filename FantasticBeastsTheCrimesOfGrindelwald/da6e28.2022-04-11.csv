@@ -1,0 +1,7 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Rohtak,CitiMaxCinemasRohtak,Hindi,10:00,Silver,140₹,62,0
+Rohtak,CitiMaxCinemasRohtak,Hindi,10:00,Gold,160₹,158,0
+Rohtak,CitiMaxCinemasRohtak,Hindi,10:00,Diamond,200₹,26,0
+Muradnagar,CarnivalCinemasStarXGhaziabad,Hindi,21:25,Economy,110₹,19,0
+Muradnagar,CarnivalCinemasStarXGhaziabad,Hindi,21:25,Premier,120₹,133,11
+Muradnagar,CarnivalCinemasStarXGhaziabad,Hindi,21:25,XClass,130₹,36,0
