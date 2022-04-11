@@ -1,0 +1,9 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+TumakuruTumkur,MylaraCinemaTumkur,Kannada,10:30,Gold,100₹,240,0
+Bengaluru,VinayakaMultiplexScreen1MysuruRoad,Kannada,10:45,Diamond,118₹,181,2
+Bengaluru,VinayakaMultiplexScreen1MysuruRoad,Kannada,10:45,GoldClass,100₹,210,0
+TumakuruTumkur,MylaraCinemaTumkur,Kannada,13:30,Gold,100₹,240,0
+Bengaluru,VinayakaMultiplexScreen1MysuruRoad,Kannada,13:45,Diamond,118₹,181,0
+Bengaluru,VinayakaMultiplexScreen1MysuruRoad,Kannada,13:45,GoldClass,100₹,210,0
+TumakuruTumkur,MylaraCinemaTumkur,Kannada,17:00,Gold,100₹,240,0
+TumakuruTumkur,MylaraCinemaTumkur,Kannada,20:00,Gold,100₹,240,0
