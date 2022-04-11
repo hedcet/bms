@@ -1,0 +1,13 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Chirala,SangamTheatreChirala,Telugu,11:15,FirstClass,110₹,100,0
+Chirala,SangamTheatreChirala,Telugu,11:15,SecondClass,70₹,108,0
+Chirala,SangamTheatreChirala,Telugu,11:15,ThirdClass,50₹,72,1
+Chirala,SangamTheatreChirala,Telugu,14:30,FirstClass,110₹,100,0
+Chirala,SangamTheatreChirala,Telugu,14:30,SecondClass,70₹,108,0
+Chirala,SangamTheatreChirala,Telugu,14:30,ThirdClass,50₹,72,0
+Chirala,SangamTheatreChirala,Telugu,18:30,FirstClass,110₹,100,0
+Chirala,SangamTheatreChirala,Telugu,18:30,SecondClass,70₹,108,0
+Chirala,SangamTheatreChirala,Telugu,18:30,ThirdClass,50₹,72,0
+Chirala,SangamTheatreChirala,Telugu,21:45,FirstClass,110₹,100,0
+Chirala,SangamTheatreChirala,Telugu,21:45,SecondClass,70₹,108,0
+Chirala,SangamTheatreChirala,Telugu,21:45,ThirdClass,50₹,72,0
