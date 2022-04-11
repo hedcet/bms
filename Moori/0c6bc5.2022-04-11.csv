@@ -1,0 +1,9 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Kochi,SangeetaCinemaKochi,Malayalam,09:40,BlueCircle,150₹,187,18
+Thodupuzha,SilverHillsCinemasThodupuzha,Malayalam,14:45,Gold,230₹,16,0
+Thodupuzha,SilverHillsCinemasThodupuzha,Malayalam,14:45,Silver,130₹,224,0
+Alakode,AlakodeFilmCity4KDolbyAtmos,Malayalam,15:00,Chandra,110₹,151,16
+Thodupuzha,SilverHillsCinemasThodupuzha,Malayalam,18:45,Gold,230₹,16,0
+Thodupuzha,SilverHillsCinemasThodupuzha,Malayalam,18:45,Silver,130₹,224,0
+Thodupuzha,SilverHillsCinemasThodupuzha,Malayalam,21:45,Gold,230₹,16,0
+Thodupuzha,SilverHillsCinemasThodupuzha,Malayalam,21:45,Silver,130₹,224,0
