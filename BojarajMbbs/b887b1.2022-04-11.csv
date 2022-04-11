@@ -1,0 +1,11 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Hoskote,CinepolisRoyalMeenakshiMall,Tulu,15:50,Normal,150₹,24,0
+Hoskote,CinepolisRoyalMeenakshiMall,Tulu,15:50,Executive,150₹,52,10
+Hoskote,CinepolisRoyalMeenakshiMall,Tulu,15:50,Premium,150₹,40,12
+Hoskote,GopalanMiniplexSignatureMallOldMadrasRoad,Tulu,16:40,Gold,200₹,65,0
+Hoskote,PvrTheCinemaGtWorldBengaluru,Tulu,18:00,Classic,170₹,228,20
+Hoskote,PvrTheCinemaGtWorldBengaluru,Tulu,18:00,Recliner,280₹,12,6
+Hoskote,GopalanMallSirsiCircle,Tulu,19:00,Gold,160₹,187,75
+MangaluruMangalore,CineGalaxySurathkalMangalore,Tulu,19:00,Gold,210₹,18,0
+MangaluruMangalore,CineGalaxySurathkalMangalore,Tulu,19:00,Prime,180₹,48,2
+MangaluruMangalore,CineGalaxySurathkalMangalore,Tulu,19:00,Classic,150₹,42,0
