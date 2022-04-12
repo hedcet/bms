@@ -1,0 +1,7 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+NationalCapitalRegionNcr,PvrLogixNoida,English,11:00,3DClassic,240₹,38,0
+Chennai,LuxeCinemasChennai,English,12:10,Elite2D,183₹,134,23
+Chennai,LuxeCinemasChennai,English,12:10,Budget,66₹,24,0
+Aushapur,PvrNextGalleriaMallPanjagutta,English,15:00,Classic,200₹,54,21
+NationalCapitalRegionNcr,PvrLogixNoida,English,16:50,3DClassic,315₹,38,2
+NationalCapitalRegionNcr,PvrLogixNoida,English,22:40,3DClassic,315₹,38,0
