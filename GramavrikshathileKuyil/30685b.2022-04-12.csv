@@ -1,0 +1,13 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Cherthala,KairaliSreeTheaterAlappuzha,Malayalam,14:30,Platinum,125₹,169,0
+Cherthala,CherthalaKairaliSreeTheatre,Malayalam,14:30,Platinum,125₹,178,0
+Kochi,SavitaCinemaKochi,Malayalam,15:00,Deluxe,150₹,555,38
+Vadanappally,KairaliSreeTheaterThrissur,Malayalam,15:00,Platinum,129₹,81,4
+Vadanappally,KairaliSreeTheaterThrissur,Malayalam,15:00,Gold,105₹,168,0
+Kochi,SavitaCinemaKochi,Malayalam,18:00,Deluxe,150₹,555,38
+Cherthala,KairaliSreeTheaterAlappuzha,Malayalam,18:15,Platinum,125₹,169,0
+Cherthala,CherthalaKairaliSreeTheatre,Malayalam,18:15,Platinum,125₹,178,0
+Vadanappally,KairaliSreeTheaterThrissur,Malayalam,18:30,Platinum,129₹,81,1
+Vadanappally,KairaliSreeTheaterThrissur,Malayalam,18:30,Gold,105₹,168,0
+Attingal,AriesplexSlCinemas,Malayalam,19:00,Executive,110₹,70,3
+Kochi,SavitaCinemaKochi,Malayalam,21:00,Deluxe,150₹,555,34
