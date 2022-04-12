@@ -1,0 +1,8 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Vadanappally,KairaliSreeTheaterThrissur,Malayalam,11:00,Platinum,129₹,135,0
+Vadanappally,KairaliSreeTheaterThrissur,Malayalam,11:00,Gold,105₹,376,0
+Cherthala,CherthalaKairaliSreeTheatre,Malayalam,11:00,Platinum,125₹,263,0
+Kochi,SavitaCinemaKochi,Malayalam,12:00,Deluxe,150₹,555,34
+Attingal,SwaramLayamCinemasKattakada,Malayalam,14:15,Layam,130₹,143,0
+Attingal,SwaramLayamCinemasKattakada,Malayalam,18:15,Layam,130₹,143,0
+Attingal,SwaramLayamCinemasKattakada,Malayalam,21:15,Layam,130₹,143,0
