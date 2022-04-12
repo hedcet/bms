@@ -1,0 +1,17 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Kadi,CityGoldKadi,Gujarati,09:15,Box,140₹,16,0
+Kadi,CityGoldKadi,Gujarati,09:15,Gold,110₹,140,0
+Kadi,CityGoldKadi,Gujarati,09:15,Silver,110₹,34,0
+Ahmedabad,CityGoldBapunagar,Gujarati,09:30,Executive,100₹,111,0
+Ahmedabad,RupamArthCineplexSanand,Gujarati,12:00,Gold,100₹,79,0
+Ahmedabad,RupamArthCineplexSanand,Gujarati,12:00,Silver,100₹,28,0
+Ahmedabad,RupamArthCineplexSanand,Gujarati,15:00,Gold,100₹,79,0
+Ahmedabad,RupamArthCineplexSanand,Gujarati,15:00,Silver,100₹,28,0
+KalolGandhinagar,CarnivalMovieplexKalol,Gujarati,15:00,PlatinumOffline,110₹,50,8
+Kadi,CityGoldKadi,Gujarati,15:45,Box,140₹,16,0
+Kadi,CityGoldKadi,Gujarati,15:45,Gold,110₹,140,0
+Kadi,CityGoldKadi,Gujarati,15:45,Silver,110₹,34,0
+Ahmedabad,RupamArthCineplexSanand,Gujarati,18:00,Gold,100₹,79,0
+Ahmedabad,RupamArthCineplexSanand,Gujarati,18:00,Silver,100₹,28,0
+Ahmedabad,RupamArthCineplexSanand,Gujarati,21:00,Gold,100₹,79,0
+Ahmedabad,RupamArthCineplexSanand,Gujarati,21:00,Silver,100₹,28,0
