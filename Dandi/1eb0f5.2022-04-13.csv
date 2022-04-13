@@ -1,0 +1,14 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+TumakuruTumkur,SriKrishnaTalkiesACMGRoad,Kannada,10:30,BalconyClass,120₹,144,0
+TumakuruTumkur,SriKrishnaTalkiesACMGRoad,Kannada,10:30,SecondClass,100₹,288,0
+Saligrama,SriPadmambaTalkiesSaligram,Kannada,10:30,FirstClass,80₹,100,0
+Nelamangala,SriGurusiddeshwara2KChitraMandiraThippasandra,Kannada,10:30,GoldClass,100₹,149,0
+Nelamangala,SriGurusiddeshwara2KChitraMandiraThippasandra,Kannada,10:30,SilverClass,100₹,200,0
+Nelamangala,GopalanCinemasArcadeMallMysoreRoad,Kannada,13:10,Gold,200₹,332,2
+Nelamangala,GopalanCinemasArcadeMallMysoreRoad,Kannada,13:10,Sofa,200₹,21,0
+Nelamangala,SriGurusiddeshwara2KChitraMandiraThippasandra,Kannada,13:30,GoldClass,100₹,149,0
+Nelamangala,SriGurusiddeshwara2KChitraMandiraThippasandra,Kannada,13:30,SilverClass,100₹,200,0
+Nelamangala,SriGurusiddeshwara2KChitraMandiraThippasandra,Kannada,16:30,GoldClass,100₹,149,0
+Nelamangala,SriGurusiddeshwara2KChitraMandiraThippasandra,Kannada,16:30,SilverClass,100₹,200,0
+Nelamangala,SriGurusiddeshwara2KChitraMandiraThippasandra,Kannada,19:30,GoldClass,100₹,149,0
+Nelamangala,SriGurusiddeshwara2KChitraMandiraThippasandra,Kannada,19:30,SilverClass,100₹,200,0
