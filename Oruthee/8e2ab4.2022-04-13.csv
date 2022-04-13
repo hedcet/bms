@@ -1,0 +1,11 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Ernakulam,PvrOberonMallKochi,Malayalam,16:00,Classic,129₹,36,0
+Ernakulam,PvrOberonMallKochi,Malayalam,16:00,ClassicPlus,160₹,81,22
+Varadiyam,InoxSobhaCityMall,Malayalam,19:15,RoyalRecliner,290₹,10,0
+Varadiyam,InoxSobhaCityMall,Malayalam,19:15,Club,170₹,66,0
+Varadiyam,InoxSobhaCityMall,Malayalam,19:15,Royal,170₹,28,15
+Varadiyam,InoxSobhaCityMall,Malayalam,19:15,Executive,130₹,20,0
+Ernakulam,PvrLuluKochi,Malayalam,19:25,Classic,140₹,39,0
+Ernakulam,PvrLuluKochi,Malayalam,19:25,ClassicPlus,160₹,91,0
+Ernakulam,PvrLuluKochi,Malayalam,19:25,Prime,190₹,68,21
+Ernakulam,PvrLuluKochi,Malayalam,19:25,Recliner,350₹,10,0
