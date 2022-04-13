@@ -1,0 +1,11 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Nedumkandam,GCinemaxMultiplex,Malayalam,11:45,Audi2,150₹,155,0
+Ernakulam,PvrOberonMallKochi,Malayalam,13:05,Classic,110₹,36,1
+Ernakulam,PvrOberonMallKochi,Malayalam,13:05,ClassicPlus,140₹,81,15
+Nedumkandam,GCinemaxMultiplex,Malayalam,14:45,Audi2,150₹,155,3
+Nedumkandam,GCinemaxMultiplex,Malayalam,18:15,Audi2,150₹,155,4
+Ernakulam,PvrLuluKochi,Malayalam,18:50,Classic,140₹,39,0
+Ernakulam,PvrLuluKochi,Malayalam,18:50,ClassicPlus,160₹,91,2
+Ernakulam,PvrLuluKochi,Malayalam,18:50,Prime,190₹,64,20
+Ernakulam,PvrLuluKochi,Malayalam,18:50,Recliner,350₹,9,0
+Nedumkandam,GCinemaxMultiplex,Malayalam,21:15,Audi2,150₹,155,0
