@@ -1,0 +1,9 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Akola,NewRegalCinemaAkola,Marathi,09:30,Balcony,100₹,149,74
+Akola,NewRegalCinemaAkola,Marathi,09:30,ReserveClass,60₹,343,172
+Kolhapur,ShahuCinemaKolhapur,Marathi,12:30,Balcony,80₹,81,0
+Kolhapur,ShahuCinemaKolhapur,Marathi,12:30,Stall,60₹,70,0
+Phaltan,CineaCityPridePhaltan,Marathi,12:30,Dimond,110₹,78,0
+Phaltan,CineaCityPridePhaltan,Marathi,12:30,Gold,110₹,322,0
+Baramati,TaraCinemaBaramati,Marathi,15:30,Gold,120₹,150,0
+Aurangabad,KhinvasaraCineplexWaluj,Marathi,17:00,Diamond,150₹,82,0
