@@ -1,0 +1,13 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Bellary,RrMultiplexBellary,Telugu,11:00,GoldClass,150₹,80,0
+Bellary,RrMultiplexBellary,Telugu,11:00,SilverClass,100₹,132,0
+Bellary,RrMultiplexBellary,Telugu,14:00,GoldClass,150₹,80,0
+Bellary,RrMultiplexBellary,Telugu,14:00,SilverClass,100₹,132,0
+Kankipadu,SwarnaMultiplexVijayawada,Telugu,14:45,Premium,112₹,206,18
+Kankipadu,SwarnaMultiplexVijayawada,Telugu,14:45,Economy,78₹,70,20
+Bellary,RrMultiplexBellary,Telugu,17:00,GoldClass,150₹,80,1
+Bellary,RrMultiplexBellary,Telugu,17:00,SilverClass,100₹,132,0
+Bellary,RrMultiplexBellary,Telugu,20:00,GoldClass,150₹,80,0
+Bellary,RrMultiplexBellary,Telugu,20:00,SilverClass,100₹,132,0
+Kankipadu,SwarnaMultiplexVijayawada,Telugu,21:45,Premium,112₹,206,18
+Kankipadu,SwarnaMultiplexVijayawada,Telugu,21:45,Economy,78₹,70,20
