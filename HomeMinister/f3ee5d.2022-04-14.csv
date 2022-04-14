@@ -1,0 +1,13 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Jigani,VenkateshwaraCinemas2KACScreen2Gollarahati,Kannada,10:30,Balcony,100₹,343,2
+Shikaripur,JayashreeTheatreShikaripura,Kannada,11:00,Balcony,150₹,30,0
+Shikaripur,JayashreeTheatreShikaripura,Kannada,11:00,FirstClass,100₹,150,0
+Jigani,VenkateshwaraCinemas2KACScreen2Gollarahati,Kannada,13:30,Balcony,100₹,343,2
+Shikaripur,JayashreeTheatreShikaripura,Kannada,14:00,Balcony,150₹,30,0
+Shikaripur,JayashreeTheatreShikaripura,Kannada,14:00,FirstClass,100₹,150,0
+Jigani,VenkateshwaraCinemas2KACScreen2Gollarahati,Kannada,16:30,Balcony,100₹,343,2
+Shikaripur,JayashreeTheatreShikaripura,Kannada,18:00,Balcony,150₹,30,0
+Shikaripur,JayashreeTheatreShikaripura,Kannada,18:00,FirstClass,100₹,150,0
+Jigani,VenkateshwaraCinemas2KACScreen2Gollarahati,Kannada,19:30,Balcony,100₹,343,2
+Shikaripur,JayashreeTheatreShikaripura,Kannada,21:00,Balcony,150₹,30,0
+Shikaripur,JayashreeTheatreShikaripura,Kannada,21:00,FirstClass,100₹,150,0
