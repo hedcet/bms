@@ -1,0 +1,16 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Ahmedabad,MirajCityPulseAhmedabad,Gujarati,11:00,Gold,140₹,66,0
+Mumbai,MetroInoxCinemasMarineLines,Gujarati,16:05,Club,300₹,129,0
+Mumbai,MetroInoxCinemasMarineLines,Gujarati,16:05,Royale,300₹,92,26
+Mumbai,MetroInoxCinemasMarineLines,Gujarati,16:05,Executive,280₹,30,0
+Silvassa,DolphinCinemaSilvassa,Gujarati,18:00,Platinum,120₹,13,0
+Silvassa,DolphinCinemaSilvassa,Gujarati,18:00,Gold,100₹,13,0
+Vadodara,PvrTransCubeVadodara,Gujarati,20:45,Classic,150₹,39,0
+Vadodara,PvrTransCubeVadodara,Gujarati,20:45,Prime,150₹,90,9
+Vadodara,PvrTransCubeVadodara,Gujarati,20:45,Recliner,300₹,8,6
+Ahmedabad,PvrArvedTranscubeAhmedabad,Gujarati,20:45,Classic,160₹,39,0
+Ahmedabad,PvrArvedTranscubeAhmedabad,Gujarati,20:45,Prime,180₹,96,13
+Silvassa,DolphinCinemaSilvassa,Gujarati,21:00,Platinum,120₹,13,0
+Silvassa,DolphinCinemaSilvassa,Gujarati,21:00,Gold,100₹,13,0
+Palghar,GoldCinemaPalghar,Gujarati,21:00,Gold,250₹,47,0
+Palghar,GoldCinemaPalghar,Gujarati,21:00,Silver,200₹,28,0
