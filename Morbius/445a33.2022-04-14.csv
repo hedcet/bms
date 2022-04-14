@@ -1,0 +1,5 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Anand,InfinityCinemasAnand,Hindi,10:15,Recliner,250₹,19,0
+Anand,InfinityCinemasAnand,Hindi,10:15,Platinum,150₹,50,0
+Anand,InfinityCinemasAnand,Hindi,10:15,Gold,110₹,60,0
+NationalCapitalRegionNcr,PvrLogixNoida,English,19:30,Classic,320₹,78,7
