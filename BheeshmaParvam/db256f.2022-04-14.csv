@@ -1,0 +1,6 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Karunagapally,CarnivalHJComplex,Malayalam,15:45,ClassicOffline,100₹,118,0
+Thrissur,InoxSobhaCityMall,Malayalam,22:20,RoyalRecliner,290₹,10,0
+Thrissur,InoxSobhaCityMall,Malayalam,22:20,Club,170₹,66,2
+Thrissur,InoxSobhaCityMall,Malayalam,22:20,Royal,170₹,28,19
+Thrissur,InoxSobhaCityMall,Malayalam,22:20,Executive,130₹,20,0
