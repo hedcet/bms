@@ -1,0 +1,7 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Kolkata,LilaCinemaBaruipur,Bengali,13:00,Balcony,60₹,28,0
+Kolkata,NandanKolkata,Bengali,15:05,FrontStall,30₹,111,45
+Kolkata,NandanKolkata,Bengali,15:05,RearStall,50₹,451,212
+Kolkata,NandanKolkata,Bengali,15:05,Balcony,70₹,369,238
+Kolkata,LilaCinemaBaruipur,Bengali,16:00,Balcony,60₹,28,0
+Kolkata,LilaCinemaBaruipur,Bengali,18:45,Balcony,60₹,28,0
