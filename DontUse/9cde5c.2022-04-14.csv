@@ -1,0 +1,11 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Vasind,PvrIconInfinitiAndheriW,Punjabi,08:30,Classic,130₹,45,0
+Vasind,PvrIconInfinitiAndheriW,Punjabi,08:30,Prime,130₹,179,11
+Vasind,PvrIconInfinitiAndheriW,Punjabi,08:30,Recliner,200₹,12,0
+NationalCapitalRegionNcr,PvrPromenadeVasantKunj,Punjabi,11:00,Classic,390₹,96,12
+NationalCapitalRegionNcr,PvrPromenadeVasantKunj,Punjabi,11:00,Prime,420₹,33,12
+Nanded,PvrTreasureBazaarMallNanded,Punjabi,16:45,Classic,120₹,70,10
+Nanded,PvrTreasureBazaarMallNanded,Punjabi,16:45,Prime,140₹,100,27
+Nanded,PvrTreasureBazaarMallNanded,Punjabi,16:45,PrimePlus,160₹,81,78
+NationalCapitalRegionNcr,PvrPacificSubhashNagarDelhi,Punjabi,19:30,Prime,480₹,88,39
+NationalCapitalRegionNcr,PvrPacificSubhashNagarDelhi,Punjabi,19:30,Classic,440₹,52,0
