@@ -1,0 +1,8 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Ambala,PrimeCinemaAmbala,Hindi,10:30,Silver,160₹,50,2
+Ambala,PrimeCinemaAmbala,Hindi,10:30,Gold,180₹,47,27
+Ambala,PrimeCinemaAmbala,Hindi,11:10,Silver,160₹,98,5
+Ambala,PrimeCinemaAmbala,Hindi,11:10,Gold,180₹,42,29
+Ahmedabad,PvrArvedTranscubeAhmedabad,Kannada,17:00,Classic,175₹,36,0
+Ahmedabad,PvrArvedTranscubeAhmedabad,Kannada,17:00,Prime,200₹,119,15
+Ahmedabad,PvrArvedTranscubeAhmedabad,Kannada,17:00,Recliner,500₹,6,2
