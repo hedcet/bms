@@ -1,0 +1,4 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+PrayagrajAllahabad,MansarovarCinemaPrayagraj,Hindi,12:30,SpecialClass,40₹,246,0
+PrayagrajAllahabad,MansarovarCinemaPrayagraj,Hindi,15:30,SpecialClass,40₹,246,2
+PrayagrajAllahabad,MansarovarCinemaPrayagraj,Hindi,18:30,SpecialClass,40₹,246,2
