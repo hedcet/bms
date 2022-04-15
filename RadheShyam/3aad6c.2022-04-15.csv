@@ -1,0 +1,7 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Agra,RajeevCinemaAgra,Hindi,12:15,Balcony,40₹,56,0
+Agra,RajeevCinemaAgra,Hindi,12:15,DressCircle,20₹,60,0
+Agra,RajeevCinemaAgra,Hindi,15:15,Balcony,40₹,56,0
+Agra,RajeevCinemaAgra,Hindi,15:15,DressCircle,20₹,60,0
+Agra,RajeevCinemaAgra,Hindi,18:15,Balcony,40₹,56,1
+Agra,RajeevCinemaAgra,Hindi,18:15,DressCircle,20₹,60,0
