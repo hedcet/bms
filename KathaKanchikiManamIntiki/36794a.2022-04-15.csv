@@ -1,0 +1,17 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Sabbavaram,SatyamTheatreGopalapatnam,Telugu,11:00,Balcony,145₹,207,65
+Sabbavaram,SatyamTheatreGopalapatnam,Telugu,11:00,FirstClass,100₹,69,0
+Kankipadu,SwarnaMultiplexVijayawada,Telugu,11:30,Premium,112₹,206,18
+Kankipadu,SwarnaMultiplexVijayawada,Telugu,11:30,Economy,78₹,70,20
+Sabbavaram,SatyamTheatreGopalapatnam,Telugu,14:00,Balcony,145₹,207,65
+Sabbavaram,SatyamTheatreGopalapatnam,Telugu,14:00,FirstClass,100₹,69,0
+Kankipadu,SwarnaMultiplexVijayawada,Telugu,14:45,Premium,112₹,206,19
+Kankipadu,SwarnaMultiplexVijayawada,Telugu,14:45,Economy,78₹,70,20
+Sabbavaram,SatyamTheatreGopalapatnam,Telugu,18:00,Balcony,145₹,207,65
+Sabbavaram,SatyamTheatreGopalapatnam,Telugu,18:00,FirstClass,100₹,69,0
+Kankipadu,SwarnaMultiplexVijayawada,Telugu,18:30,Premium,112₹,206,18
+Kankipadu,SwarnaMultiplexVijayawada,Telugu,18:30,Economy,78₹,70,20
+Sabbavaram,SatyamTheatreGopalapatnam,Telugu,21:00,Balcony,145₹,207,65
+Sabbavaram,SatyamTheatreGopalapatnam,Telugu,21:00,FirstClass,100₹,69,0
+Kankipadu,SwarnaMultiplexVijayawada,Telugu,21:45,Premium,112₹,206,18
+Kankipadu,SwarnaMultiplexVijayawada,Telugu,21:45,Economy,78₹,70,20
