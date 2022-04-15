@@ -1,0 +1,11 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Champa,PadminiMultiplexChampa,Chattisgarhi,12:30,Royal,120₹,11,4
+Champa,PadminiMultiplexChampa,Chattisgarhi,12:30,Classic,100₹,16,0
+Durg,FunCinemasApsaraTalkiesDurg,Chattisgarhi,15:00,Balcony,80₹,165,0
+Durg,FunCinemasApsaraTalkiesDurg,Chattisgarhi,15:00,Reserve,50₹,580,2
+Champa,PadminiMultiplexChampa,Chattisgarhi,15:30,Royal,120₹,11,0
+Champa,PadminiMultiplexChampa,Chattisgarhi,15:30,Classic,100₹,16,7
+Durg,FunCinemasApsaraTalkiesDurg,Chattisgarhi,18:00,Balcony,80₹,165,0
+Durg,FunCinemasApsaraTalkiesDurg,Chattisgarhi,18:00,Reserve,50₹,580,0
+Durg,FunCinemasApsaraTalkiesDurg,Chattisgarhi,21:00,Balcony,80₹,165,0
+Durg,FunCinemasApsaraTalkiesDurg,Chattisgarhi,21:00,Reserve,50₹,580,0
