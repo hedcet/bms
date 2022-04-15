@@ -1,0 +1,13 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Baruipur,InoxCityCenterSaltLake,Bengali,14:35,Royale,280₹,39,18
+Baruipur,InoxCityCenterSaltLake,Bengali,14:35,DressCircle,240₹,162,26
+Baruipur,InoxCityCenterSaltLake,Bengali,14:35,Galleria,200₹,36,0
+Baruipur,CinepolisLakeMallKolkata,Bengali,15:45,Normal,180₹,22,0
+Baruipur,CinepolisLakeMallKolkata,Bengali,15:45,Executive,200₹,55,41
+Baruipur,CinepolisLakeMallKolkata,Bengali,15:45,Premium,220₹,32,25
+Baruipur,AjantaCinemaBehala,Bengali,15:45,Balcony,120₹,58,7
+Kolkata,PvrDiamondPlazaJessoreKolkata,Bengali,16:40,Classic,230₹,100,51
+Kolkata,PvrDiamondPlazaJessoreKolkata,Bengali,16:40,Prime,280₹,11,11
+Kolkata,PvrDiamondPlazaJessoreKolkata,Bengali,16:40,Recliner,450₹,12,4
+Kolkata,InoxSouthCityKolkata,Bengali,16:45,Silver,290₹,166,39
+Kolkata,InoxSouthCityKolkata,Bengali,16:45,Premier,270₹,34,0
