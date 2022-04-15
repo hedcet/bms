@@ -1,0 +1,4 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Memari,KristiCinemaMemari,Bengali,09:30,UpperStall,80₹,165,0
+Memari,KristiCinemaMemari,Bengali,09:30,RearStall,60₹,150,0
+Memari,KristiCinemaMemari,Bengali,09:30,FrontStall,60₹,102,2
