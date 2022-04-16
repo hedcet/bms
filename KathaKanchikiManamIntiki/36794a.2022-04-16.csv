@@ -1,0 +1,9 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+VizagVisakhapatnam,SatyamTheatreGopalapatnam,Telugu,11:00,Balcony,145₹,207,0
+VizagVisakhapatnam,SatyamTheatreGopalapatnam,Telugu,11:00,FirstClass,100₹,69,0
+VizagVisakhapatnam,SatyamTheatreGopalapatnam,Telugu,14:00,Balcony,145₹,207,65
+VizagVisakhapatnam,SatyamTheatreGopalapatnam,Telugu,14:00,FirstClass,100₹,69,0
+VizagVisakhapatnam,SatyamTheatreGopalapatnam,Telugu,18:00,Balcony,145₹,207,65
+VizagVisakhapatnam,SatyamTheatreGopalapatnam,Telugu,18:00,FirstClass,100₹,69,0
+VizagVisakhapatnam,SatyamTheatreGopalapatnam,Telugu,21:00,Balcony,145₹,207,65
+VizagVisakhapatnam,SatyamTheatreGopalapatnam,Telugu,21:00,FirstClass,100₹,69,0
