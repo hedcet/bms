@@ -1,0 +1,13 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Mumbai,PvrIconInfinitiAndheriW,Punjabi,08:30,Classic,180₹,45,0
+Mumbai,PvrIconInfinitiAndheriW,Punjabi,08:30,Prime,180₹,179,12
+Mumbai,PvrIconInfinitiAndheriW,Punjabi,08:30,Recliner,400₹,12,0
+Mumbai,PvrDynamixJuhu,Punjabi,09:30,Lounger,180₹,12,0
+Mumbai,PvrDynamixJuhu,Punjabi,09:30,Prime,170₹,264,21
+Nanded,PvrTreasureBazaarMallNanded,Punjabi,16:45,Classic,120₹,70,8
+Nanded,PvrTreasureBazaarMallNanded,Punjabi,16:45,Prime,140₹,100,32
+Nanded,PvrTreasureBazaarMallNanded,Punjabi,16:45,PrimePlus,160₹,81,38
+NationalCapitalRegionNcr,PvrPacificSubhashNagarDelhi,Punjabi,19:30,Prime,480₹,68,16
+NationalCapitalRegionNcr,PvrPacificSubhashNagarDelhi,Punjabi,19:30,Classic,440₹,52,0
+NationalCapitalRegionNcr,PvrAmbienceGurgaon,Punjabi,21:00,ClassicNormal,350₹,84,0
+NationalCapitalRegionNcr,PvrAmbienceGurgaon,Punjabi,21:00,Prime,450₹,68,30
