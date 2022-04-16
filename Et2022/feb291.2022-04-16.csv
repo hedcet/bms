@@ -1,0 +1,13 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Bellary,RrMultiplexBellary,Telugu,11:00,GoldClass,150₹,68,2
+Bellary,RrMultiplexBellary,Telugu,11:00,SilverClass,150₹,60,0
+Guntur,SriGaneshMahalGuntur,Telugu,11:15,FirstClass,40₹,40,0
+Bellary,RrMultiplexBellary,Telugu,14:00,GoldClass,150₹,68,11
+Bellary,RrMultiplexBellary,Telugu,14:00,SilverClass,150₹,60,0
+Guntur,SriGaneshMahalGuntur,Telugu,14:30,FirstClass,40₹,40,0
+Bellary,RrMultiplexBellary,Telugu,17:00,GoldClass,150₹,68,0
+Bellary,RrMultiplexBellary,Telugu,17:00,SilverClass,150₹,60,0
+Guntur,SriGaneshMahalGuntur,Telugu,18:15,FirstClass,40₹,40,0
+Bellary,RrMultiplexBellary,Telugu,20:00,GoldClass,150₹,68,0
+Bellary,RrMultiplexBellary,Telugu,20:00,SilverClass,150₹,60,0
+Guntur,SriGaneshMahalGuntur,Telugu,21:30,FirstClass,40₹,40,0
