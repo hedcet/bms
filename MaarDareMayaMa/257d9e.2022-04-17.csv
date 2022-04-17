@@ -1,0 +1,9 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Durg,FunCinemasApsaraTalkiesDurg,Chattisgarhi,12:00,Balcony,80₹,165,0
+Durg,FunCinemasApsaraTalkiesDurg,Chattisgarhi,12:00,Reserve,50₹,580,0
+Durg,FunCinemasApsaraTalkiesDurg,Chattisgarhi,15:00,Balcony,80₹,165,2
+Durg,FunCinemasApsaraTalkiesDurg,Chattisgarhi,15:00,Reserve,50₹,580,0
+Durg,FunCinemasApsaraTalkiesDurg,Chattisgarhi,18:00,Balcony,80₹,165,0
+Durg,FunCinemasApsaraTalkiesDurg,Chattisgarhi,18:00,Reserve,50₹,580,0
+Durg,FunCinemasApsaraTalkiesDurg,Chattisgarhi,21:00,Balcony,80₹,165,0
+Durg,FunCinemasApsaraTalkiesDurg,Chattisgarhi,21:00,Reserve,50₹,580,0
