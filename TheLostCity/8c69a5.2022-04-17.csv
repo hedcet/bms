@@ -1,0 +1,17 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Surat,TimeCinemaGalaxyCirclePalSurat,English,08:50,Gold,300₹,6,0
+Ahmedabad,TimeCinemaCgRoadAhmedabad,English,08:55,Gold,210₹,24,3
+Mumbai,InoxRCityGhatkopar,English,08:55,Insignia,300₹,42,0
+NationalCapitalRegionNcr,PvrPromenadeVasantKunj,English,10:00,Classic,390₹,50,0
+NationalCapitalRegionNcr,PvrPromenadeVasantKunj,English,10:00,Prime,420₹,44,12
+Mumbai,InoxInsigniaAtAtriaMallWorli,English,10:05,Insignia,450₹,26,11
+Chandigarh,Pvr4DxElanteChandigarh,English,11:05,Classic,400₹,92,11
+NationalCapitalRegionNcr,PvrAmbienceGoldGurgaon,English,11:05,Platinum,600₹,28,5
+NationalCapitalRegionNcr,PvrAmbienceGoldGurgaon,English,11:05,PlatinumSuperior,600₹,16,14
+Mumbai,InoxMegaplexInorbitMallMalad,English,13:20,Club,320₹,16,0
+Mumbai,InoxMegaplexInorbitMallMalad,English,13:20,Royal,320₹,59,23
+NationalCapitalRegionNcr,PvrDirectorSCutDelhiAmbienceMall,English,14:05,Platinum,"1,200₹",19,16
+NationalCapitalRegionNcr,PvrDirectorSCutDelhiAmbienceMall,English,14:05,PlatinumSuperior,"1,400₹",6,6
+Hyderabad,Pvr4DxIrrumManzilHyderabad,English,14:15,4Dx,350₹,96,51
+Hyderabad,Pvr4DxForumSujanaMallKukatpallyHyderabad,English,16:20,4DxClassic,350₹,108,47
+NationalCapitalRegionNcr,PvrLogix4DxNoida,English,16:40,Classic,550₹,80,22
