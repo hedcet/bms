@@ -1,0 +1,5 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Nedumkandam,GCinemaxMultiplex,Malayalam,12:00,Audi3,140₹,165,0
+Nedumkandam,GCinemaxMultiplex,Malayalam,15:00,Audi3,140₹,165,7
+Nedumkandam,GCinemaxMultiplex,Malayalam,18:30,Audi3,140₹,165,5
+Nedumkandam,GCinemaxMultiplex,Malayalam,21:30,Audi3,140₹,165,0
