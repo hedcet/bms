@@ -1,0 +1,6 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+VijayapuraBijapur,AmirTalkiesVijayapuraBijapur,Hindi,18:00,Balcony,150₹,96,1
+VijayapuraBijapur,AmirTalkiesVijayapuraBijapur,Hindi,18:00,InterClass,100₹,555,0
+NationalCapitalRegionNcr,PvrLogixNoida,English,19:30,Classic,350₹,78,18
+VijayapuraBijapur,AmirTalkiesVijayapuraBijapur,Hindi,21:00,Balcony,150₹,96,1
+VijayapuraBijapur,AmirTalkiesVijayapuraBijapur,Hindi,21:00,InterClass,100₹,555,0
