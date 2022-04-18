@@ -1,0 +1,7 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Bhimavaram,SriVijayalakshmiCineComplexBhimavaram,Telugu,18:30,FirstClass,112₹,82,19
+Bhimavaram,SriVijayalakshmiCineComplexBhimavaram,Telugu,18:30,FirstClass1,112₹,82,19
+Bhimavaram,SriVijayalakshmiCineComplexBhimavaram,Telugu,18:30,SecondClass,80₹,53,0
+Bhimavaram,SriVijayalakshmiCineComplexBhimavaram,Telugu,21:30,FirstClass,112₹,179,0
+Bhimavaram,SriVijayalakshmiCineComplexBhimavaram,Telugu,21:30,FirstClass1,112₹,179,0
+Bhimavaram,SriVijayalakshmiCineComplexBhimavaram,Telugu,21:30,SecondClass,80₹,179,0
