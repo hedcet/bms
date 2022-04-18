@@ -1,0 +1,13 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Mundakayam,RdCinemasMundakayam,Tamil,11:30,Executive,140₹,198,0
+Mundakayam,RdCinemasMundakayam,Tamil,11:30,Economy,100₹,16,0
+Mundakayam,RdCinemasMundakayam,Tamil,14:45,Executive,140₹,198,0
+Mundakayam,RdCinemasMundakayam,Tamil,14:45,Economy,100₹,16,0
+Vaniyambadi,SreeShivajiCinemasVaniyambadi,Tamil,18:00,Balcony,150₹,46,8
+Vaniyambadi,SreeShivajiCinemasVaniyambadi,Tamil,18:00,FirstClass,130₹,504,21
+Mundakayam,RdCinemasMundakayam,Tamil,18:30,Executive,140₹,198,0
+Mundakayam,RdCinemasMundakayam,Tamil,18:30,Economy,100₹,16,0
+Vaniyambadi,SreeShivajiCinemasVaniyambadi,Tamil,21:00,Balcony,150₹,46,8
+Vaniyambadi,SreeShivajiCinemasVaniyambadi,Tamil,21:00,FirstClass,130₹,504,20
+Mundakayam,RdCinemasMundakayam,Tamil,21:45,Executive,140₹,198,0
+Mundakayam,RdCinemasMundakayam,Tamil,21:45,Economy,100₹,16,0
