@@ -1,0 +1,9 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Nuzvid,SatyanarayanaTheatersAC2KDolbyNuzvid,Telugu,11:00,Balcony,90₹,88,0
+Nandikotkur,SanthiTheaterACDtsNandikotkur,Telugu,11:30,Platinum,70₹,334,64
+Nuzvid,SatyanarayanaTheatersAC2KDolbyNuzvid,Telugu,14:15,Balcony,90₹,88,2
+Nandikotkur,SanthiTheaterACDtsNandikotkur,Telugu,14:30,Platinum,70₹,334,64
+Nuzvid,SatyanarayanaTheatersAC2KDolbyNuzvid,Telugu,18:00,Balcony,90₹,88,0
+Nandikotkur,SanthiTheaterACDtsNandikotkur,Telugu,18:30,Platinum,70₹,334,64
+Nuzvid,SatyanarayanaTheatersAC2KDolbyNuzvid,Telugu,21:15,Balcony,90₹,88,0
+Nandikotkur,SanthiTheaterACDtsNandikotkur,Telugu,21:30,Platinum,70₹,334,0
