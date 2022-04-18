@@ -1,0 +1,6 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+NationalCapitalRegionNcr,PvrLogixNoida,English,11:00,3DClassic,240₹,38,5
+Hyderabad,PvrNextGalleriaMallPanjagutta,English,15:00,Classic,200₹,54,35
+NationalCapitalRegionNcr,PvrLogixNoida,English,16:50,3DClassic,315₹,38,8
+Hyderabad,PvrNextGalleriaMallPanjagutta,English,21:45,Classic,200₹,54,11
+NationalCapitalRegionNcr,PvrLogixNoida,English,22:40,3DClassic,315₹,38,0
