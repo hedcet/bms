@@ -1,0 +1,9 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Chennai,GanapathyRamTheatre4KDolby71Chennai,Tamil,14:15,Couple,130₹,28,12
+Chennai,GanapathyRamTheatre4KDolby71Chennai,Tamil,14:15,FamilyClass,130₹,21,0
+Chennai,GanapathyRamTheatre4KDolby71Chennai,Tamil,14:15,Balcony,130₹,224,21
+Chennai,GanapathyRamTheatre4KDolby71Chennai,Tamil,14:15,FirstClass,120₹,497,21
+Chennai,GanapathyRamTheatre4KDolby71Chennai,Tamil,22:00,Couple,130₹,28,0
+Chennai,GanapathyRamTheatre4KDolby71Chennai,Tamil,22:00,FamilyClass,130₹,21,0
+Chennai,GanapathyRamTheatre4KDolby71Chennai,Tamil,22:00,Balcony,130₹,224,10
+Chennai,GanapathyRamTheatre4KDolby71Chennai,Tamil,22:00,FirstClass,120₹,497,18
