@@ -1,0 +1,5 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Mumbai,G7MultiplexBandraW,Hindi,12:30,Special,160₹,36,0
+Mumbai,G7MultiplexBandraW,Hindi,12:30,DressCircle,160₹,10,6
+Nagpur,PvrEmpressNagpur,Hindi,16:00,Classic,170₹,26,0
+Nagpur,PvrEmpressNagpur,Hindi,16:00,Prime,210₹,95,26
