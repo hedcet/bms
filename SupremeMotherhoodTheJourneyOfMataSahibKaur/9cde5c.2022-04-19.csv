@@ -1,0 +1,13 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Mumbai,InoxMegaplexInorbitMallMalad,Punjabi,13:05,Kiddles,180₹,57,4
+Mumbai,PvrDynamixJuhu,Punjabi,13:30,Lounger,160₹,12,0
+Mumbai,PvrDynamixJuhu,Punjabi,13:30,Prime,140₹,264,21
+Mumbai,PvrIconInfinitiAndheriW,Punjabi,14:15,Classic,150₹,42,0
+Mumbai,PvrIconInfinitiAndheriW,Punjabi,14:15,Prime,150₹,126,0
+Mumbai,PvrIconInfinitiAndheriW,Punjabi,14:15,PrimeSuperior,150₹,32,0
+Mumbai,PvrIconInfinitiAndheriW,Punjabi,14:15,Recliner,200₹,11,2
+Nanded,PvrTreasureBazaarMallNanded,Punjabi,16:45,Classic,120₹,70,8
+Nanded,PvrTreasureBazaarMallNanded,Punjabi,16:45,Prime,140₹,100,16
+Nanded,PvrTreasureBazaarMallNanded,Punjabi,16:45,PrimePlus,160₹,63,0
+NationalCapitalRegionNcr,PvrAmbienceGurgaon,Punjabi,21:00,ClassicNormal,150₹,84,0
+NationalCapitalRegionNcr,PvrAmbienceGurgaon,Punjabi,21:00,Prime,150₹,68,30
