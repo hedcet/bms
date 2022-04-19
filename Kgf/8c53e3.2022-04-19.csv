@@ -1,0 +1,9 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Vaniyambadi,SreeShivajiCinemasVaniyambadi,Tamil,11:00,Balcony,150₹,46,8
+Vaniyambadi,SreeShivajiCinemasVaniyambadi,Tamil,11:00,FirstClass,130₹,504,11
+Vaniyambadi,SreeShivajiCinemasVaniyambadi,Tamil,14:00,Balcony,150₹,46,0
+Vaniyambadi,SreeShivajiCinemasVaniyambadi,Tamil,14:00,FirstClass,130₹,504,17
+Vaniyambadi,SreeShivajiCinemasVaniyambadi,Tamil,18:00,Balcony,150₹,46,3
+Vaniyambadi,SreeShivajiCinemasVaniyambadi,Tamil,18:00,FirstClass,130₹,504,3
+Vaniyambadi,SreeShivajiCinemasVaniyambadi,Tamil,21:00,Balcony,150₹,46,0
+Vaniyambadi,SreeShivajiCinemasVaniyambadi,Tamil,21:00,FirstClass,130₹,504,6
