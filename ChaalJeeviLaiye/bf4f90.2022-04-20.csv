@@ -1,0 +1,5 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Ahmedabad,TimeCinemaCgRoadAhmedabad,Gujarati,09:20,Gold,210₹,24,0
+Kosamba,CoconutSalimCinemaKosamba,Gujarati,09:40,Gold,50₹,85,0
+Surat,TimeCinemaGalaxyCirclePalSurat,Gujarati,14:00,Gold,200₹,24,0
+Ahmedabad,TimeCinemaCgRoadAhmedabad,Gujarati,18:30,Gold,290₹,24,2
