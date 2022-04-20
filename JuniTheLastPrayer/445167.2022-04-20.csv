@@ -1,0 +1,4 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Hisar,SuncityCinemaHisar,Hindi,16:10,Platinum,130₹,11,0
+Hisar,SuncityCinemaHisar,Hindi,16:10,Gold,130₹,138,19
+Hisar,SuncityCinemaHisar,Hindi,16:10,Silver,130₹,56,0
