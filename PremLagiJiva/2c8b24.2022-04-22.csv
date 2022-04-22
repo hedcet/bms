@@ -1,0 +1,4 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Nagpur,AlankarCinemaNagpur,Marathi,09:15,Balcony,100₹,188,0
+Nagpur,AlankarCinemaNagpur,Marathi,09:15,FirstBalcony,70₹,311,0
+Aurangabad,KhinvasaraCineplexApsaraCinemaAurangabad,Marathi,15:45,Diamond,150₹,140,50
