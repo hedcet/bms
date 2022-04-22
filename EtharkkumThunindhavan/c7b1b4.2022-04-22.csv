@@ -1,0 +1,11 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Tirupur,SriSakthiCinemasUnionMillRoadTirupur,Tamil,10:30,Diamond,190₹,16,8
+Tirupur,SriSakthiCinemasUnionMillRoadTirupur,Tamil,10:30,Platinum,165₹,26,0
+Tirupur,SriSakthiCinemasUnionMillRoadTirupur,Tamil,10:30,Gold,130₹,86,0
+Tirupur,SriSakthiCinemasUnionMillRoadTirupur,Tamil,10:30,Silver,80₹,17,0
+Trichy,SriRengarajTalkiesTiruchirappalli,Tamil,14:15,FirstClass,50₹,200,0
+Trichy,ArunaTheatreTrichy,Tamil,14:30,FirstClass,50₹,378,0
+Trichy,SriRengarajTalkiesTiruchirappalli,Tamil,18:15,FirstClass,50₹,200,0
+Trichy,ArunaTheatreTrichy,Tamil,18:30,FirstClass,50₹,378,0
+Trichy,ArunaTheatreTrichy,Tamil,22:15,FirstClass,50₹,378,0
+Trichy,SriRengarajTalkiesTiruchirappalli,Tamil,22:15,FirstClass,50₹,200,0
