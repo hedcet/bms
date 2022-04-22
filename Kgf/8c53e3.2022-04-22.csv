@@ -1,0 +1,16 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Manawar,ChaitanyaPlazaManawar,Hindi,12:30,Silver,80₹,39,0
+Manawar,ChaitanyaPlazaManawar,Hindi,12:30,Gold,120₹,39,7
+Manawar,ChaitanyaPlazaManawar,Hindi,12:30,Platinum,150₹,65,0
+Erode,SriVishnuTheatreBhavani,Tamil,14:15,FirstClass,100₹,418,5
+Manawar,ChaitanyaPlazaManawar,Hindi,15:30,Silver,80₹,39,0
+Manawar,ChaitanyaPlazaManawar,Hindi,15:30,Gold,120₹,39,0
+Manawar,ChaitanyaPlazaManawar,Hindi,15:30,Platinum,150₹,65,2
+Erode,SriVishnuTheatreBhavani,Tamil,18:15,FirstClass,100₹,418,0
+Manawar,ChaitanyaPlazaManawar,Hindi,18:30,Silver,80₹,39,0
+Manawar,ChaitanyaPlazaManawar,Hindi,18:30,Gold,120₹,39,3
+Manawar,ChaitanyaPlazaManawar,Hindi,18:30,Platinum,150₹,65,0
+Manawar,ChaitanyaPlazaManawar,Hindi,21:30,Silver,80₹,39,0
+Manawar,ChaitanyaPlazaManawar,Hindi,21:30,Gold,120₹,39,0
+Manawar,ChaitanyaPlazaManawar,Hindi,21:30,Platinum,150₹,65,0
+Erode,SriVishnuTheatreBhavani,Tamil,21:45,FirstClass,100₹,418,0
