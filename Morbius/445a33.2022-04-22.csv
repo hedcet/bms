@@ -1,0 +1,8 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Mumbai,InoxMegaplexInorbitMallMalad,English,09:10,Insignia,300₹,46,7
+Rourkela,PvrForumRourkela,English,10:15,Classic,140₹,28,0
+Rourkela,PvrForumRourkela,English,10:15,Prime,180₹,98,14
+Rourkela,PvrForumRourkela,English,10:15,PrimePlus,230₹,13,0
+Rourkela,PvrForumRourkela,English,15:55,Classic,150₹,28,0
+Rourkela,PvrForumRourkela,English,15:55,Prime,230₹,98,14
+Rourkela,PvrForumRourkela,English,15:55,PrimePlus,280₹,13,0
