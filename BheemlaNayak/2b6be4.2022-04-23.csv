@@ -1,0 +1,11 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Tandur,ShanthMahalTalkiesTandur,Telugu,14:00,Balcony,110₹,412,63
+Tandur,ShanthMahalTalkiesTandur,Telugu,14:00,DressCircle,80₹,76,0
+Shikaripur,JayashreeTheatreShikaripura,Telugu,18:00,Balcony,150₹,30,0
+Shikaripur,JayashreeTheatreShikaripura,Telugu,18:00,FirstClass,100₹,150,0
+Tandur,ShanthMahalTalkiesTandur,Telugu,18:00,Balcony,110₹,412,57
+Tandur,ShanthMahalTalkiesTandur,Telugu,18:00,DressCircle,80₹,76,0
+Shikaripur,JayashreeTheatreShikaripura,Telugu,21:00,Balcony,150₹,30,0
+Shikaripur,JayashreeTheatreShikaripura,Telugu,21:00,FirstClass,100₹,150,0
+Tandur,ShanthMahalTalkiesTandur,Telugu,21:00,Balcony,110₹,412,0
+Tandur,ShanthMahalTalkiesTandur,Telugu,21:00,DressCircle,80₹,76,0
