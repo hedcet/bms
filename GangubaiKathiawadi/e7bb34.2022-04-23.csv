@@ -1,0 +1,12 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Mumbai,G7MultiplexBandraW,Hindi,15:45,Special,160₹,38,14
+Mumbai,G7MultiplexBandraW,Hindi,15:45,DressCircle,160₹,9,8
+Mumbai,InoxInsigniaAtAtriaMallWorli,Hindi,16:35,Insignia,"1,050₹",30,22
+NationalCapitalRegionNcr,PvrVegasDwarka,Hindi,17:00,Classic,350₹,89,30
+Mumbai,InoxRCityGhatkopar,Hindi,17:30,Insignia,700₹,46,25
+Mumbai,PvrIconPhoenixPalladiumLowerParelMumbai,Hindi,19:45,Lounger,320₹,10,0
+Mumbai,PvrIconPhoenixPalladiumLowerParelMumbai,Hindi,19:45,Classic,300₹,42,4
+Mumbai,PvrIconPhoenixPalladiumLowerParelMumbai,Hindi,19:45,Prime,390₹,68,41
+Mumbai,PvrIconPhoenixPalladiumLowerParelMumbai,Hindi,19:45,Recliner,850₹,14,11
+NationalCapitalRegionNcr,PvrLogixNoida,Hindi,22:20,Classic,345₹,76,15
+Mumbai,InoxMegaplexInorbitMallMalad,Hindi,22:55,Kiddles,300₹,57,10
