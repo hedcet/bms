@@ -1,0 +1,14 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Dinanagar,OneCinemasDinanagar,Hindi,12:00,Gold,100₹,204,0
+Dinanagar,OneCinemasDinanagar,Hindi,12:00,Silver,100₹,204,0
+Nakodar,KcAnandMiniplexNakodar,Hindi,15:00,Gold,150₹,90,0
+Nakodar,KcAnandMiniplexNakodar,Hindi,15:00,Silver,150₹,60,0
+Nawanshahr,SutlejPalacePictureNawanshahr,Hindi,15:30,Gold,150₹,36,0
+Nawanshahr,SutlejPalacePictureNawanshahr,Hindi,15:30,Silver,150₹,85,0
+Nawanshahr,SutlejPalacePictureNawanshahr,Hindi,15:30,Seasonal,100₹,17,17
+Dinanagar,OneCinemasDinanagar,Hindi,17:00,Gold,100₹,204,0
+Dinanagar,OneCinemasDinanagar,Hindi,17:00,Silver,100₹,204,0
+Malout,CcpCineplexMalout,Hindi,17:30,RoyalClass,300₹,4,0
+Malout,CcpCineplexMalout,Hindi,17:30,GoldClass,100₹,95,0
+Patiala,MalwaPicturePalacePatiala,Hindi,18:15,UpperStalls,80₹,182,0
+Patiala,MalwaPicturePalacePatiala,Hindi,18:15,LowerStalls,50₹,194,51
