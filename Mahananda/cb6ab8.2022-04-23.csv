@@ -1,0 +1,5 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+AshoknagarWestBengal,NatarajCinemaAshoknagar,Bengali,11:00,FirstClass,30₹,50,0
+Kolkata,PvrDiamondPlazaJessoreKolkata,Bengali,16:20,Classic,240₹,100,28
+Kolkata,PvrDiamondPlazaJessoreKolkata,Bengali,16:20,Prime,290₹,11,7
+Kolkata,PvrDiamondPlazaJessoreKolkata,Bengali,16:20,Recliner,460₹,12,0
