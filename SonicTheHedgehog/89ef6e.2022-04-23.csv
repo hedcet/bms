@@ -1,0 +1,9 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Ahmedabad,PvrAcropolis4DxAhmedabad,English,10:00,4DxClassic,450₹,36,0
+Ahmedabad,PvrAcropolis4DxAhmedabad,English,10:00,4DxPrime,450₹,84,12
+Hyderabad,PrasadsHyderabad,English,15:30,Executive,200₹,390,21
+Chennai,PvrVrChennaiAnnaNagar,English,16:55,Classic,66₹,16,0
+Chennai,PvrVrChennaiAnnaNagar,English,16:55,Prime,211₹,110,14
+Hyderabad,PrasadsHyderabad,English,17:45,Executive,200₹,390,17
+Chennai,PvrVrChennaiAnnaNagar,English,19:45,Classic,66₹,16,0
+Chennai,PvrVrChennaiAnnaNagar,English,19:45,Prime,211₹,110,14
