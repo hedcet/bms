@@ -1,0 +1,7 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Lakshmikantapur,SreeLakshmiTalkiesLakshmikantapur,Bengali,12:00,GoldCoupleSeats,200₹,40,0
+Lakshmikantapur,SreeLakshmiTalkiesLakshmikantapur,Bengali,12:00,Silver,70₹,60,0
+Lakshmikantapur,SreeLakshmiTalkiesLakshmikantapur,Bengali,15:00,GoldCoupleSeats,200₹,40,0
+Lakshmikantapur,SreeLakshmiTalkiesLakshmikantapur,Bengali,15:00,Silver,70₹,60,0
+Lakshmikantapur,SreeLakshmiTalkiesLakshmikantapur,Bengali,17:30,GoldCoupleSeats,200₹,40,2
+Lakshmikantapur,SreeLakshmiTalkiesLakshmikantapur,Bengali,17:30,Silver,70₹,60,0
