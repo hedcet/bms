@@ -1,0 +1,6 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Mumbai,MetroInoxCinemasMarineLines,Gujarati,09:30,Club,150₹,144,81
+Mumbai,MetroInoxCinemasMarineLines,Gujarati,09:30,Executive,150₹,36,0
+Mumbai,MetroInoxCinemasMarineLines,Gujarati,09:30,Royale,150₹,57,49
+Mumbai,InoxRaghuleelaMallKandivaliW,Gujarati,09:30,Gold,150₹,157,129
+Mumbai,InoxRaghuleelaMallKandivaliW,Gujarati,09:30,Premiere,150₹,51,0
