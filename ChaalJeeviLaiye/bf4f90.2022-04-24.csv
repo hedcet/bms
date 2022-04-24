@@ -1,0 +1,7 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Surat,TimeCinemaGalaxyCirclePalSurat,Gujarati,09:25,Gold,190₹,24,10
+Ahmedabad,TimeCinemaCgRoadAhmedabad,Gujarati,10:00,Recliner,950₹,8,0
+Kosamba,CoconutSalimCinemaKosamba,Gujarati,12:00,Gold,50₹,85,0
+Rajpipla,CoconutCinemaRajpipla,Gujarati,18:15,Box,60₹,8,8
+Rajpipla,CoconutCinemaRajpipla,Gujarati,18:15,Gold,50₹,135,28
+Rajpipla,CoconutCinemaRajpipla,Gujarati,18:15,Silver,50₹,40,0
