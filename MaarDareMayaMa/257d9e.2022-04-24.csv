@@ -1,0 +1,4 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Raipur,ShyamTalkiesRaipur,Chattisgarhi,12:00,Balcony,100₹,60,3
+Raipur,ShyamTalkiesRaipur,Chattisgarhi,15:00,Balcony,100₹,60,27
+Raipur,ShyamTalkiesRaipur,Chattisgarhi,18:00,Balcony,100₹,60,0
