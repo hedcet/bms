@@ -1,0 +1,5 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Hyderabad,PrasadsHyderabad,English,15:30,Executive,200₹,390,19
+Chennai,PvrVrChennaiAnnaNagar,English,16:55,Classic,66₹,16,0
+Chennai,PvrVrChennaiAnnaNagar,English,16:55,Prime,211₹,110,14
+Hyderabad,PrasadsHyderabad,English,17:45,Executive,200₹,346,2
