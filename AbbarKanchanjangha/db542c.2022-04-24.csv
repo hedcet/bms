@@ -1,0 +1,10 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Kolkata,PvrDiamondPlazaJessoreKolkata,Bengali,12:00,Classic,230₹,154,23
+Kolkata,PvrDiamondPlazaJessoreKolkata,Bengali,12:00,Prime,280₹,12,6
+Kolkata,PvrDiamondPlazaJessoreKolkata,Bengali,12:00,Recliner,460₹,14,0
+Kolkata,CinepolisAcropolisMallKolkata,Bengali,12:55,Normal,200₹,22,3
+Kolkata,CinepolisAcropolisMallKolkata,Bengali,12:55,Executive,220₹,64,12
+Kolkata,CinepolisAcropolisMallKolkata,Bengali,12:55,Premium,240₹,38,10
+Kolkata,InoxSouthCityKolkata,Bengali,14:45,Rr,450₹,16,12
+Kolkata,InoxSouthCityKolkata,Bengali,14:45,Silver,290₹,165,64
+Kolkata,InoxSouthCityKolkata,Bengali,14:45,Premier,270₹,32,0
