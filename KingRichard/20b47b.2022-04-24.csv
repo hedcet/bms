@@ -1,0 +1,11 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Mumbai,PvrIconLuxeInfinitiAndheriWMumbai,English,14:00,Luxe,600₹,51,3
+Mumbai,PvrIconLuxeInfinitiAndheriWMumbai,English,14:00,LuxeSuperior,600₹,33,13
+Mumbai,MaisonPvrTheLoftLuxeJioWorldDriveBkc,English,14:30,Platinum,700₹,33,22
+Mumbai,PvrLuxePhoenixPalladiumLowerParelMumbai,English,16:30,Prime,970₹,12,1
+Mumbai,PvrLuxePhoenixPalladiumLowerParelMumbai,English,16:30,PrimePlus,970₹,30,18
+Mumbai,InoxInsigniaAtAtriaMallWorli,English,16:45,Insignia,"1,050₹",31,19
+Mumbai,InoxLaserplexCr2NarimanPoint,English,18:55,Insignia,950₹,75,19
+NationalCapitalRegionNcr,PvrAmbienceGoldGurgaon,English,19:55,Platinum,"1,000₹",28,2
+NationalCapitalRegionNcr,PvrAmbienceGoldGurgaon,English,19:55,PlatinumSuperior,"1,200₹",8,0
+Mumbai,MetroInoxCinemasMarineLines,English,22:50,Kiddles,370₹,45,13
