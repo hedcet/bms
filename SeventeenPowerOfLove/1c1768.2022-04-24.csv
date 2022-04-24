@@ -1,0 +1,7 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Pune,CinepolisSeasonsMallPune,Korean,12:45,Normal,300₹,17,0
+Pune,CinepolisSeasonsMallPune,Korean,12:45,Executive,300₹,49,2
+Pune,CinepolisSeasonsMallPune,Korean,12:45,Premium,300₹,22,0
+Mumbai,InoxMegaplexInorbitMallMalad,Korean,13:05,Insignia,450₹,33,0
+Hyderabad,Pvr4DxIrrumManzilHyderabad,Korean,14:55,4Dx,350₹,96,14
+Bengaluru,CinepolisForumShantiniketanBengaluru,Korean,16:20,Normal,300₹,84,0
