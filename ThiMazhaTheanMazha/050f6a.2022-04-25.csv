@@ -1,0 +1,17 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Trivandrum,CarnivalGreenfieldTrivandrum,Malayalam,10:30,ExecutiveOffline,100₹,145,15
+Trivandrum,CarnivalArtechCentralMallTrivandrum,Malayalam,10:45,GoldOffline,300₹,13,0
+Trivandrum,CarnivalArtechCentralMallTrivandrum,Malayalam,10:45,SilverOffline,150₹,167,16
+Trivandrum,CarnivalArtechCentralMallTrivandrum,Malayalam,10:45,ExecutiveOffline,100₹,13,0
+Alappuzha,KairaliSreeTheaterAlappuzha,Malayalam,11:00,Platinum,125₹,220,0
+Thodupuzha,SilverHillsCinemasThodupuzha,Malayalam,11:00,Silver,130₹,80,0
+Trivandrum,GangaCineHouse4KDolbyAtmosAttingal,Malayalam,11:15,Yamuna,130₹,330,0
+Kollam,GmaxCinemasJerome,Malayalam,11:45,Green,160₹,86,15
+Thodupuzha,SilverHillsCinemasThodupuzha,Malayalam,14:00,Silver,130₹,80,15
+Kochi,KairaliSreeTheaterNorthParvur,Malayalam,14:30,Platinum,105₹,195,0
+Alappuzha,CherthalaKairaliSreeTheatre,Malayalam,14:30,Platinum,125₹,178,15
+Trivandrum,CarnivalMallOfTravancoreTrivandrum,Malayalam,16:30,Silver,190₹,103,6
+Trivandrum,CarnivalMallOfTravancoreTrivandrum,Malayalam,16:30,ExecutiveOffline,160₹,72,0
+Trivandrum,CarnivalMallOfTravancoreTrivandrum,Malayalam,16:30,NormalOffline,100₹,18,0
+Thrissur,KairaliSreeTheaterThrissur,Malayalam,18:30,Platinum,129₹,81,0
+Thrissur,KairaliSreeTheaterThrissur,Malayalam,18:30,Gold,105₹,168,0
