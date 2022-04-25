@@ -1,0 +1,15 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Mandapeta,RajaratnaCinemaxMandapeta,Telugu,11:00,FirstClass,110₹,312,0
+Amalapuram,SriGanapathiPicturePalaceAmalapuram,Telugu,11:15,FirstClass,70₹,116,0
+Amalapuram,SriGanapathiPicturePalaceAmalapuram,Telugu,11:15,SecondClass,50₹,116,0
+Amalapuram,SriGanapathiPicturePalaceAmalapuram,Telugu,11:15,ThirdClass,30₹,116,0
+Amalapuram,SriGanapathiPicturePalaceAmalapuram,Telugu,14:15,FirstClass,70₹,116,0
+Amalapuram,SriGanapathiPicturePalaceAmalapuram,Telugu,14:15,SecondClass,50₹,116,0
+Amalapuram,SriGanapathiPicturePalaceAmalapuram,Telugu,14:15,ThirdClass,30₹,116,0
+Mandapeta,RajaratnaCinemaxMandapeta,Telugu,18:00,FirstClass,110₹,312,72
+Amalapuram,SriGanapathiPicturePalaceAmalapuram,Telugu,18:15,FirstClass,70₹,116,0
+Amalapuram,SriGanapathiPicturePalaceAmalapuram,Telugu,18:15,SecondClass,50₹,116,0
+Amalapuram,SriGanapathiPicturePalaceAmalapuram,Telugu,18:15,ThirdClass,30₹,116,0
+Amalapuram,SriGanapathiPicturePalaceAmalapuram,Telugu,21:15,FirstClass,70₹,116,0
+Amalapuram,SriGanapathiPicturePalaceAmalapuram,Telugu,21:15,SecondClass,50₹,116,0
+Amalapuram,SriGanapathiPicturePalaceAmalapuram,Telugu,21:15,ThirdClass,30₹,116,0
