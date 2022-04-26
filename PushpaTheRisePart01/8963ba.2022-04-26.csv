@@ -1,0 +1,11 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+VizagVisakhapatnam,SukanyaComplexVizag,Telugu,10:30,Balcony,145₹,259,0
+VizagVisakhapatnam,SukanyaComplexVizag,Telugu,10:30,1StClass,100₹,220,0
+BerhampurOdisha,SivamaxAc71DolbyDigitalBerhampur,Hindi,11:15,Balcony,100₹,106,0
+BerhampurOdisha,SivamaxAc71DolbyDigitalBerhampur,Hindi,11:15,RearStall,70₹,120,0
+VizagVisakhapatnam,SukanyaComplexVizag,Telugu,13:45,Balcony,145₹,259,0
+VizagVisakhapatnam,SukanyaComplexVizag,Telugu,13:45,1StClass,100₹,220,0
+VizagVisakhapatnam,SukanyaComplexVizag,Telugu,17:45,Balcony,145₹,259,0
+VizagVisakhapatnam,SukanyaComplexVizag,Telugu,17:45,1StClass,100₹,220,1
+VizagVisakhapatnam,SukanyaComplexVizag,Telugu,20:20,Balcony,145₹,259,0
+VizagVisakhapatnam,SukanyaComplexVizag,Telugu,20:20,1StClass,100₹,220,0
