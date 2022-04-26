@@ -1,0 +1,7 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Arambagh,KarunaCinemaArambagh,Bengali,12:00,LowerStall,35₹,48,0
+Arambagh,KarunaCinemaArambagh,Bengali,12:00,Balcony,40₹,180,0
+Arambagh,KarunaCinemaArambagh,Bengali,15:00,LowerStall,35₹,48,0
+Arambagh,KarunaCinemaArambagh,Bengali,15:00,Balcony,40₹,180,2
+Arambagh,KarunaCinemaArambagh,Bengali,18:00,LowerStall,35₹,48,0
+Arambagh,KarunaCinemaArambagh,Bengali,18:00,Balcony,40₹,180,0
