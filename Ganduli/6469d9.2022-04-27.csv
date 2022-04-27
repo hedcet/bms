@@ -1,0 +1,10 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+TumakuruTumkur,MylaraCinemaTumkur,Kannada,10:00,Gold,100₹,240,0
+VijayapuraBijapur,AmirTalkiesVijayapuraBijapur,Kannada,12:00,Balcony,150₹,96,0
+VijayapuraBijapur,AmirTalkiesVijayapuraBijapur,Kannada,12:00,InterClass,100₹,555,0
+Bengaluru,InoxMantriSquareMalleshwaram,Kannada,12:40,Club,160₹,223,17
+TumakuruTumkur,MylaraCinemaTumkur,Kannada,13:30,Gold,100₹,240,0
+VijayapuraBijapur,AmirTalkiesVijayapuraBijapur,Kannada,15:00,Balcony,150₹,96,0
+VijayapuraBijapur,AmirTalkiesVijayapuraBijapur,Kannada,15:00,InterClass,100₹,555,0
+TumakuruTumkur,MylaraCinemaTumkur,Kannada,17:00,Gold,100₹,240,0
+TumakuruTumkur,MylaraCinemaTumkur,Kannada,20:00,Gold,100₹,240,0
