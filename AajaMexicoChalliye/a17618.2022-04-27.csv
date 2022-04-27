@@ -1,0 +1,9 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Patiala,MalwaPicturePalacePatiala,Punjabi,10:00,UpperStalls,80₹,182,0
+Patiala,MalwaPicturePalacePatiala,Punjabi,10:00,LowerStalls,50₹,194,0
+Patiala,MalwaPicturePalacePatiala,Punjabi,12:45,UpperStalls,80₹,182,0
+Patiala,MalwaPicturePalacePatiala,Punjabi,12:45,LowerStalls,50₹,194,0
+Patiala,MalwaPicturePalacePatiala,Punjabi,15:30,UpperStalls,80₹,182,3
+Patiala,MalwaPicturePalacePatiala,Punjabi,15:30,LowerStalls,50₹,194,0
+Patiala,MalwaPicturePalacePatiala,Punjabi,21:00,UpperStalls,80₹,182,0
+Patiala,MalwaPicturePalacePatiala,Punjabi,21:00,LowerStalls,50₹,194,0
