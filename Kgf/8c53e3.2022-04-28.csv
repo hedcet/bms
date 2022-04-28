@@ -1,0 +1,17 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Haripad,SnTheatreHaripad,Malayalam,11:15,Screen1,110₹,175,2
+Manawar,ChaitanyaPlazaManawar,Hindi,12:30,Silver,80₹,39,0
+Manawar,ChaitanyaPlazaManawar,Hindi,12:30,Gold,120₹,39,0
+Manawar,ChaitanyaPlazaManawar,Hindi,12:30,Platinum,160₹,65,0
+Haripad,SnTheatreHaripad,Malayalam,14:45,Screen1,110₹,175,0
+Manawar,ChaitanyaPlazaManawar,Hindi,15:30,Silver,80₹,39,0
+Manawar,ChaitanyaPlazaManawar,Hindi,15:30,Gold,120₹,39,0
+Manawar,ChaitanyaPlazaManawar,Hindi,15:30,Platinum,160₹,65,0
+Haripad,SnTheatreHaripad,Malayalam,18:15,Screen1,110₹,175,0
+Manawar,ChaitanyaPlazaManawar,Hindi,18:30,Silver,80₹,39,0
+Manawar,ChaitanyaPlazaManawar,Hindi,18:30,Gold,120₹,39,0
+Manawar,ChaitanyaPlazaManawar,Hindi,18:30,Platinum,160₹,65,0
+Manawar,ChaitanyaPlazaManawar,Hindi,21:30,Silver,80₹,39,0
+Manawar,ChaitanyaPlazaManawar,Hindi,21:30,Gold,120₹,39,0
+Manawar,ChaitanyaPlazaManawar,Hindi,21:30,Platinum,160₹,65,6
+Haripad,SnTheatreHaripad,Malayalam,21:30,Screen1,110₹,175,0
