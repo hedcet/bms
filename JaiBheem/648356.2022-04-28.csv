@@ -1,0 +1,16 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Nakodar,KcAnandMiniplexNakodar,Hindi,15:00,Gold,150₹,74,0
+Nakodar,KcAnandMiniplexNakodar,Hindi,15:00,Silver,150₹,60,0
+Hoshiarpur,ShirazNovaCinemazHoshiarpur,Hindi,15:15,Gold,80₹,99,0
+Hoshiarpur,ShirazNovaCinemazHoshiarpur,Hindi,15:20,Gold,80₹,99,0
+Dasuya,PresidentCinemaDasuya,Hindi,15:30,Diamond,200₹,36,0
+Dasuya,PresidentCinemaDasuya,Hindi,15:30,Economy,150₹,20,0
+Nawanshahr,SutlejPalacePictureNawanshahr,Hindi,15:30,Gold,170₹,36,0
+Nawanshahr,SutlejPalacePictureNawanshahr,Hindi,15:30,Silver,140₹,85,0
+Nawanshahr,SutlejPalacePictureNawanshahr,Hindi,15:30,Seasonal,100₹,17,0
+Jalandhar,PvrFriendsJalandhar,Hindi,16:15,Classic,220₹,48,44
+Jalandhar,PvrFriendsJalandhar,Hindi,16:15,Prime,250₹,73,62
+Malout,CcpCineplexMalout,Hindi,17:30,RoyalClass,300₹,4,0
+Malout,CcpCineplexMalout,Hindi,17:30,GoldClass,100₹,95,0
+Patiala,MalwaPicturePalacePatiala,Hindi,18:15,UpperStalls,80₹,182,0
+Patiala,MalwaPicturePalacePatiala,Hindi,18:15,LowerStalls,50₹,194,0
