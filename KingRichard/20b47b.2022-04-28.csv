@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Mumbai,MaisonPvrTheLoftLuxeJioWorldDriveBkc,,English,14:00,Platinum,500₹,33,7
+Mumbai,PvrIconLuxeInfinitiAndheriWMumbai,,English,14:00,Luxe,600₹,51,0
+Mumbai,PvrIconLuxeInfinitiAndheriWMumbai,,English,14:00,LuxeSuperior,600₹,33,15
+Mumbai,PvrLuxePhoenixPalladiumLowerParelMumbai,,English,16:30,Prime,650₹,11,0
+Mumbai,PvrLuxePhoenixPalladiumLowerParelMumbai,,English,16:30,PrimePlus,650₹,30,6
+Mumbai,InoxMegaplexInorbitMallMalad,,English,16:30,Kiddles,300₹,57,4
+Mumbai,InoxMegaplexInorbitMallMalad,,English,16:35,Insignia,400₹,38,5
+Mumbai,InoxInsigniaAtAtriaMallWorli,,English,16:45,Insignia,700₹,31,4
+Mumbai,InoxLaserplexCr2NarimanPoint,,English,19:00,Insignia,700₹,70,2
+NationalCapitalRegionNcr,PvrAmbienceGoldGurgaon,,English,19:55,Platinum,600₹,28,0
+NationalCapitalRegionNcr,PvrAmbienceGoldGurgaon,,English,19:55,PlatinumSuperior,700₹,16,10
+Mumbai,MetroInoxCinemasMarineLines,,English,22:50,Kiddles,300₹,36,0
