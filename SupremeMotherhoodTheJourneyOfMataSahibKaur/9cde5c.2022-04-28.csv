@@ -1,0 +1,10 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Satna,ImusicaEntertainmentsSatna,Punjabi,09:45,Gold,80₹,38,0
+Satna,ImusicaEntertainmentsSatna,Punjabi,09:45,RedCarpet,100₹,112,5
+Satna,ImusicaEntertainmentsSatna,Punjabi,09:45,Royal,200₹,11,0
+Nanded,PvrTreasureBazaarMallNanded,Punjabi,17:45,Classic,100₹,70,9
+Nanded,PvrTreasureBazaarMallNanded,Punjabi,17:45,Prime,120₹,100,0
+Nanded,PvrTreasureBazaarMallNanded,Punjabi,17:45,PrimePlus,140₹,81,18
+Satna,ImusicaEntertainmentsSatna,Punjabi,21:30,Gold,110₹,38,0
+Satna,ImusicaEntertainmentsSatna,Punjabi,21:30,RedCarpet,150₹,112,71
+Satna,ImusicaEntertainmentsSatna,Punjabi,21:30,Royal,250₹,11,11
