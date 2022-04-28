@@ -1,0 +1,13 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+NationalCapitalRegionNcr,PvrLogixNoida,English,09:40,3DClassic,240₹,38,2
+Tirupati,PadmaPicturePalaceAC4KDolbyAtmosRenigunta,Telugu,11:30,Platinum,100₹,280,0
+Tirupati,PadmaPicturePalaceAC4KDolbyAtmosRenigunta,Telugu,11:30,Gold,80₹,110,0
+Hyderabad,PvrNextGalleriaMallPanjagutta,English,13:05,Classic,200₹,54,18
+Tirupati,PadmaPicturePalaceAC4KDolbyAtmosRenigunta,Telugu,14:45,Platinum,100₹,280,0
+Tirupati,PadmaPicturePalaceAC4KDolbyAtmosRenigunta,Telugu,14:45,Gold,80₹,110,0
+NationalCapitalRegionNcr,PvrLogixNoida,English,15:35,3DClassic,315₹,38,0
+NationalCapitalRegionNcr,PvrVegasDwarka,Hindi,17:15,3DClassic,355₹,36,0
+NationalCapitalRegionNcr,PvrVegasDwarka,Hindi,17:15,3DPrime,405₹,21,10
+NationalCapitalRegionNcr,PvrVegasDwarka,Hindi,17:15,3DRecliner,490₹,8,0
+Tirupati,PadmaPicturePalaceAC4KDolbyAtmosRenigunta,Telugu,18:30,Platinum,100₹,280,4
+Tirupati,PadmaPicturePalaceAC4KDolbyAtmosRenigunta,Telugu,18:30,Gold,80₹,110,0
