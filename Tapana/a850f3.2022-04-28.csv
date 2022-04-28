@@ -1,0 +1,10 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Kakinada,MayuriAcDtsKakinada,Telugu,14:30,Premium,112₹,351,94
+Kakinada,MayuriAcDtsKakinada,Telugu,14:30,NonPremium,75₹,118,54
+Amalapuram,SekharCinemasAmalapuram,Telugu,14:30,Platinum,110₹,200,110
+Amalapuram,SekharCinemasAmalapuram,Telugu,18:15,Platinum,110₹,200,110
+Kakinada,MayuriAcDtsKakinada,Telugu,18:30,Premium,112₹,320,0
+Kakinada,MayuriAcDtsKakinada,Telugu,18:30,NonPremium,75₹,320,0
+Kakinada,MayuriAcDtsKakinada,Telugu,21:30,Premium,112₹,321,0
+Kakinada,MayuriAcDtsKakinada,Telugu,21:30,NonPremium,75₹,321,0
+Amalapuram,SekharCinemasAmalapuram,Telugu,21:30,Platinum,110₹,200,110
