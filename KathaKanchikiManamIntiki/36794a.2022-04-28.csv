@@ -1,0 +1,11 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Vijayawada,SwarnaMultiplexVijayawada,,Telugu,11:30,Premium,112₹,206,18
+Vijayawada,SwarnaMultiplexVijayawada,,Telugu,11:30,Economy,78₹,70,20
+Vijayawada,SwarnaMultiplexVijayawada,,Telugu,14:45,Premium,112₹,206,26
+Vijayawada,SwarnaMultiplexVijayawada,,Telugu,14:45,Economy,78₹,70,20
+Vijayawada,SwarnaMultiplexVijayawada,,Telugu,18:30,Premium,112₹,206,18
+Vijayawada,SwarnaMultiplexVijayawada,,Telugu,18:30,Economy,78₹,70,20
+Hyderabad,MirajCinemasCineTownMiyapur,500049,Telugu,19:00,Executive,175₹,313,0
+Vijayawada,SwarnaMultiplexVijayawada,,Telugu,21:45,Premium,112₹,206,18
+Vijayawada,SwarnaMultiplexVijayawada,,Telugu,21:45,Economy,78₹,70,20
+Hyderabad,MirajCinemasCineTownMiyapur,500049,Telugu,22:30,Executive,175₹,313,0
