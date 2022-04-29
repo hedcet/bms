@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Guntur,SriGaneshMahalGuntur,522001,Telugu,11:15,FirstClass,50₹,40,0
+Guntur,SriGaneshMahalGuntur,522001,Telugu,14:30,FirstClass,50₹,40,0
+Guntur,SriGaneshMahalGuntur,522001,Telugu,18:15,FirstClass,50₹,40,0
+Guntur,SriGaneshMahalGuntur,522001,Telugu,21:30,FirstClass,50₹,40,2
