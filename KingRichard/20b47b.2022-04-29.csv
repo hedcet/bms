@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+NationalCapitalRegionNcr,PvrAmbienceGoldGurgaon,122001,English,11:00,Platinum,500₹,28,0
+NationalCapitalRegionNcr,PvrAmbienceGoldGurgaon,122001,English,11:00,PlatinumSuperior,500₹,16,8
+Mumbai,PvrLuxePhoenixPalladiumLowerParelMumbai,400013,English,15:40,Prime,"1,000₹",12,1
+Mumbai,PvrLuxePhoenixPalladiumLowerParelMumbai,400013,English,15:40,PrimePlus,"1,000₹",30,6
