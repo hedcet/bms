@@ -1,0 +1,7 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Agra,RajeevCinemaAgra,282010,Hindi,12:00,Balcony,40₹,56,0
+Agra,RajeevCinemaAgra,282010,Hindi,12:00,DressCircle,20₹,60,1
+Agra,RajeevCinemaAgra,282010,Hindi,15:00,Balcony,40₹,56,0
+Agra,RajeevCinemaAgra,282010,Hindi,15:00,DressCircle,20₹,60,0
+Agra,RajeevCinemaAgra,282010,Hindi,18:00,Balcony,40₹,56,0
+Agra,RajeevCinemaAgra,282010,Hindi,18:00,DressCircle,20₹,60,0
