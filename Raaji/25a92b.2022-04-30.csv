@@ -1,0 +1,8 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,VinayakaCinemasScreen2MysoreRoad,560018,Kannada,10:30,GoldClass,100₹,81,0
+MysuruMysore,DrcCinemasBmHabitatMall,570012,Kannada,11:05,Premium,160₹,182,0
+MysuruMysore,DrcCinemasBmHabitatMall,570012,Kannada,11:05,Luxury,200₹,18,0
+Bengaluru,CinepolisBinnypetMall,560023,Kannada,13:25,Executive,150₹,69,2
+Bengaluru,CinepolisBinnypetMall,560023,Kannada,13:25,Premium,150₹,29,0
+Bengaluru,VinayakaCinemasScreen2MysoreRoad,560018,Kannada,13:30,GoldClass,100₹,81,0
+Bengaluru,GopalanMallSirsiCircle,560026,Kannada,14:35,Gold,200₹,206,3
