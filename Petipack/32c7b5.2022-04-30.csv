@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Ahmedabad,CityGoldAshramRoad,380009,Gujarati,12:30,Executive,200₹,130,20
+Ahmedabad,AppleMultiplexManinagarAhmedabad,380002,Gujarati,15:00,Platinum,100₹,60,5
+Ahmedabad,CityGoldSatelliteAhmedabad,380015,Gujarati,16:15,Executive,180₹,124,72
+Ahmedabad,CinepolisAhmedabadOne,380015,Gujarati,19:30,Normal,150₹,30,12
+Ahmedabad,CinepolisAhmedabadOne,380015,Gujarati,19:30,Executive,150₹,64,63
+Ahmedabad,CinepolisAhmedabadOne,380015,Gujarati,19:30,Premium,170₹,52,52
+Ahmedabad,AbMiniplexShivranjiniCrossRoadSatellite,380013,Gujarati,20:45,Executive,150₹,54,38
+Ahmedabad,CityGoldAshramRoad,380009,Gujarati,22:00,Executive,250₹,130,105
