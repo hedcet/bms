@@ -1,0 +1,4 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Anand,InfinityCinemasAnand,388001,Hindi,22:35,Recliner,250₹,19,0
+Anand,InfinityCinemasAnand,388001,Hindi,22:35,Platinum,150₹,50,4
+Anand,InfinityCinemasAnand,388001,Hindi,22:35,Gold,110₹,60,0
