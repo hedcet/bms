@@ -1,0 +1,15 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Dinanagar,OneCinemasDinanagar,143531,Hindi,10:00,Gold,100₹,204,0
+Dinanagar,OneCinemasDinanagar,143531,Hindi,10:00,Silver,100₹,204,0
+Dinanagar,OneCinemasDinanagar,143531,Hindi,13:00,Gold,100₹,200,0
+Dinanagar,OneCinemasDinanagar,143531,Hindi,13:00,Silver,100₹,200,0
+Ranaghat,RanaghatTalkiesNadia,741201,Hindi,13:30,1stClass,30₹,720,5
+Ranaghat,RanaghatTalkiesNadia,741201,Hindi,13:30,Balcony,50₹,130,25
+Ahmedabad,KSeraSeraSgHighway,380055,Hindi,15:00,Gold,200₹,16,0
+Ahmedabad,KSeraSeraSgHighway,380055,Hindi,15:00,Silver,150₹,60,0
+Dinanagar,OneCinemasDinanagar,143531,Hindi,16:00,Gold,100₹,125,0
+Dinanagar,OneCinemasDinanagar,143531,Hindi,16:00,Silver,100₹,79,0
+Dinanagar,OneCinemasDinanagar,143531,Hindi,19:00,Gold,100₹,204,0
+Dinanagar,OneCinemasDinanagar,143531,Hindi,19:00,Silver,100₹,204,0
+Ahmedabad,KSeraSeraSgHighway,380055,Hindi,21:15,Gold,200₹,16,0
+Ahmedabad,KSeraSeraSgHighway,380055,Hindi,21:15,Silver,150₹,60,7
