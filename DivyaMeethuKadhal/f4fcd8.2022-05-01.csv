@@ -1,0 +1,6 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Chennai,SreeLakshmibalaMoviepark4K3DDolby712Padi,600050,Tamil,09:45,FirstClass,70₹,189,2
+Cuddalore,VelmuruganTheatreCuddalore,607002,Tamil,11:00,MaharajaClass,130₹,100,0
+Cuddalore,VelmuruganTheatreCuddalore,607002,Tamil,11:00,1FirstClass,130₹,336,0
+Cuddalore,VelmuruganTheatreCuddalore,607002,Tamil,11:00,2SecondClass,100₹,104,0
+Cuddalore,VelmuruganTheatreCuddalore,607002,Tamil,11:00,3ThirdClass,55₹,72,8
