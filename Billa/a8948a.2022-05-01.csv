@@ -1,0 +1,10 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Madurai,AprJeyamCinemasAC4KLaserDolbyAtmosMadurai,625003,Tamil,07:30,Box,10₹,36,2
+Madurai,AprJeyamCinemasAC4KLaserDolbyAtmosMadurai,625003,Tamil,07:30,Couple,10₹,84,74
+Madurai,AprJeyamCinemasAC4KLaserDolbyAtmosMadurai,625003,Tamil,07:30,Balcony,10₹,120,120
+Madurai,AprJeyamCinemasAC4KLaserDolbyAtmosMadurai,625003,Tamil,07:30,FirstClass,10₹,438,438
+Kumbakonam,BaranikaTheatreKumbakonam,612001,Tamil,09:00,BoxA,127₹,29,0
+Kumbakonam,BaranikaTheatreKumbakonam,612001,Tamil,09:00,BoxB,127₹,30,0
+Kumbakonam,BaranikaTheatreKumbakonam,612001,Tamil,09:00,Balcony,120₹,182,75
+Kumbakonam,BaranikaTheatreKumbakonam,612001,Tamil,09:00,LowClass,100₹,413,17
+Kumbakonam,BaranikaTheatreKumbakonam,612001,Tamil,09:00,LadiesClass,100₹,134,0
