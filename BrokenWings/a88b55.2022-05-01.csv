@@ -1,0 +1,17 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Darjeeling,InoxRinkMall,734101,Nepali,13:15,Box,200₹,8,4
+Darjeeling,InoxRinkMall,734101,Nepali,13:15,Royal,180₹,63,12
+Darjeeling,InoxRinkMall,734101,Nepali,13:15,Economy,150₹,53,0
+Darjeeling,InoxRinkMall,734101,Nepali,13:15,Executive,150₹,160,0
+Namchi,ImperialTalkiesNamchi,737126,Nepali,13:30,Platinum,200₹,106,0
+Namchi,ImperialTalkiesNamchi,737126,Nepali,13:30,Gold,150₹,90,2
+Siliguri,InoxVegaCircleMallSiliguri,734001,Nepali,17:20,Royal,220₹,148,2
+Siliguri,InoxVegaCircleMallSiliguri,734001,Nepali,17:20,Club,200₹,68,0
+Siliguri,InoxVegaCircleMallSiliguri,734001,Nepali,17:20,Executive,180₹,34,0
+Darjeeling,InoxRinkMall,734101,Nepali,17:50,Executive,150₹,16,7
+Darjeeling,InoxRinkMall,734101,Nepali,17:50,Economy,140₹,82,0
+Siliguri,InoxCityCentreSiliguri,734010,Nepali,18:55,Royale,240₹,10,2
+Siliguri,InoxCityCentreSiliguri,734010,Nepali,18:55,Club,190₹,176,6
+Siliguri,InoxCityCentreSiliguri,734010,Nepali,18:55,Executive,190₹,32,0
+Namchi,ImperialTalkiesNamchi,737126,Nepali,19:30,Platinum,200₹,106,0
+Namchi,ImperialTalkiesNamchi,737126,Nepali,19:30,Gold,150₹,90,0
