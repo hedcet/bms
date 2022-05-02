@@ -1,0 +1,16 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kanpur,JugulPalaceCinemaKanpur,208010,Hindi,11:00,Balcony,110₹,15,0
+Ajmer,PlazaCinemaAjmer,305001,Hindi,12:00,Balcony,70₹,100,0
+Ajmer,PlazaCinemaAjmer,305001,Hindi,12:00,DressCircle,60₹,100,0
+Ajmer,PlazaCinemaAjmer,305001,Hindi,12:00,Janta,50₹,50,0
+Ajmer,PlazaCinemaAjmer,305001,Hindi,15:00,Balcony,70₹,100,0
+Ajmer,PlazaCinemaAjmer,305001,Hindi,15:00,DressCircle,60₹,100,0
+Ajmer,PlazaCinemaAjmer,305001,Hindi,15:00,Janta,50₹,50,0
+Kanpur,JugulPalaceCinemaKanpur,208010,Hindi,16:30,Balcony,110₹,15,4
+Ajmer,PlazaCinemaAjmer,305001,Hindi,18:00,Balcony,70₹,100,0
+Ajmer,PlazaCinemaAjmer,305001,Hindi,18:00,DressCircle,60₹,100,0
+Ajmer,PlazaCinemaAjmer,305001,Hindi,18:00,Janta,50₹,50,0
+Kanpur,JugulPalaceCinemaKanpur,208010,Hindi,18:40,Balcony,110₹,15,0
+Ajmer,PlazaCinemaAjmer,305001,Hindi,21:00,Balcony,70₹,100,0
+Ajmer,PlazaCinemaAjmer,305001,Hindi,21:00,DressCircle,60₹,100,0
+Ajmer,PlazaCinemaAjmer,305001,Hindi,21:00,Janta,50₹,50,0
