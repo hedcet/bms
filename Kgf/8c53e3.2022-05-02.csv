@@ -1,0 +1,16 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Dinanagar,OneCinemasDinanagar,143531,Hindi,10:00,Gold,100₹,204,0
+Dinanagar,OneCinemasDinanagar,143531,Hindi,10:00,Silver,100₹,204,0
+Vadakara,KirthiMudra4KRgbLaserDolbyAtmos,673101,Tamil,10:30,Platinum,250₹,17,0
+Vadakara,KirthiMudra4KRgbLaserDolbyAtmos,673101,Tamil,10:30,Gold,150₹,192,0
+Vadakara,KirthiMudra4KRgbLaserDolbyAtmos,673101,Tamil,10:30,Silver,100₹,225,1
+Dinanagar,OneCinemasDinanagar,143531,Hindi,13:00,Gold,100₹,204,0
+Dinanagar,OneCinemasDinanagar,143531,Hindi,13:00,Silver,100₹,204,0
+Ranaghat,RanaghatTalkiesNadia,741201,Hindi,13:30,1stClass,30₹,720,4
+Ranaghat,RanaghatTalkiesNadia,741201,Hindi,13:30,Balcony,50₹,130,20
+Dinanagar,OneCinemasDinanagar,143531,Hindi,16:00,Gold,100₹,125,0
+Dinanagar,OneCinemasDinanagar,143531,Hindi,16:00,Silver,100₹,79,0
+Dinanagar,OneCinemasDinanagar,143531,Hindi,19:00,Gold,100₹,204,0
+Dinanagar,OneCinemasDinanagar,143531,Hindi,19:00,Silver,100₹,204,0
+Vadakara,KirthiMudra4KRgbLaserDolbyAtmos,673101,Tamil,22:00,Sofa,200₹,16,0
+Vadakara,KirthiMudra4KRgbLaserDolbyAtmos,673101,Tamil,22:00,Gold,150₹,182,0
