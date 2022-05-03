@@ -1,0 +1,8 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bhubaneswar,SwatiCineplexDolbyAtmosBhubaneshwar,751001,Hindi,20:50,LuxuriousRecliner,250₹,32,5
+Bhubaneswar,SwatiCineplexDolbyAtmosBhubaneshwar,751001,Hindi,20:50,SofaSlider,200₹,76,9
+Bhubaneswar,SwatiCineplexDolbyAtmosBhubaneshwar,751001,Hindi,20:50,Diamond,150₹,192,13
+Bhubaneswar,SwatiCineplexDolbyAtmosBhubaneshwar,751001,Hindi,20:50,Gold,100₹,75,10
+Anand,InfinityCinemasAnand,388001,Hindi,22:35,Recliner,250₹,19,4
+Anand,InfinityCinemasAnand,388001,Hindi,22:35,Platinum,150₹,50,2
+Anand,InfinityCinemasAnand,388001,Hindi,22:35,Gold,110₹,60,0
