@@ -1,0 +1,11 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+NationalCapitalRegionNcr,PvrLogixNoida,201301,Punjabi,09:20,Classic,190₹,76,8
+Jalandhar,PvrFriendsJalandhar,144001,Punjabi,10:30,Classic,150₹,33,0
+Jalandhar,PvrFriendsJalandhar,144001,Punjabi,10:30,Prime,160₹,55,15
+Amritsar,PvrSctAmritsar,143001,Punjabi,13:15,Classic,160₹,12,0
+Amritsar,PvrSctAmritsar,143001,Punjabi,13:15,Prime,170₹,40,0
+NationalCapitalRegionNcr,PvrPacificSubhashNagarDelhi,110018,Punjabi,13:40,Prime,380₹,88,42
+NationalCapitalRegionNcr,PvrPacificSubhashNagarDelhi,110018,Punjabi,13:40,Classic,340₹,52,0
+Amritsar,InoxVrAmbarsarAmritsar,143001,Punjabi,15:30,Normal,170₹,173,16
+Ludhiana,PvrSilverArcLudhiana,141001,Punjabi,16:15,Classic,170₹,119,15
+Ludhiana,PvrSilverArcLudhiana,141001,Punjabi,16:15,Prime,240₹,18,3
