@@ -1,0 +1,12 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Madurai,SakthiCinemasMadurai,625001,Tamil,10:50,FirstClass,100₹,198,30
+Chennai,SreeLakshmibalaMoviepark4K3DDolby712Padi,600050,Tamil,12:00,FirstClass,70₹,189,0
+Chennai,PvrAmpaMallNelsonManickamRoad,600029,Tamil,12:00,Classic,60₹,17,10
+Chennai,PvrAmpaMallNelsonManickamRoad,600029,Tamil,12:00,Prime,190₹,118,0
+Chennai,PvrSklsGalaxyMallRedHillsChennai,600052,Tamil,12:40,Classic,60₹,16,14
+Chennai,PvrSklsGalaxyMallRedHillsChennai,600052,Tamil,12:40,Prime,165₹,81,10
+Madurai,RamTheatreMadurai,625009,Tamil,14:15,Balcony,80₹,256,0
+Madurai,SakthiCinemasMadurai,625001,Tamil,14:30,FirstClass,100₹,198,35
+Madurai,RamTheatreMadurai,625009,Tamil,18:15,Balcony,80₹,256,0
+Nagercoil,KavalkinaruChakravarthyCinemas,627113,Tamil,18:35,Gold,150₹,120,50
+Madurai,RamTheatreMadurai,625009,Tamil,22:00,Balcony,80₹,256,0
