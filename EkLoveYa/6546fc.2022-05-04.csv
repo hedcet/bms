@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Sidlaghatta,SriVenkateshwaraTheatreSidlaghatta,562105,Kannada,10:30,Gold,120₹,212,0
+Sidlaghatta,SriVenkateshwaraTheatreSidlaghatta,562105,Kannada,10:30,FirstClass,100₹,222,0
+Sidlaghatta,SriVenkateshwaraTheatreSidlaghatta,562105,Kannada,14:00,Gold,120₹,212,0
+Sidlaghatta,SriVenkateshwaraTheatreSidlaghatta,562105,Kannada,14:00,FirstClass,100₹,222,1
