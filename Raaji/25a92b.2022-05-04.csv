@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,PvrTheCinemaGtWorldBengaluru,560023,Kannada,10:00,Classic,112₹,228,36
+Bengaluru,PvrTheCinemaGtWorldBengaluru,560023,Kannada,10:00,Recliner,200₹,12,6
+Bengaluru,VinayakaMultiplexScreen2MysuruRoad,560018,Kannada,10:30,GoldClass,100₹,81,0
+Bengaluru,VinayakaMultiplexScreen2MysuruRoad,560018,Kannada,13:30,GoldClass,100₹,81,0
