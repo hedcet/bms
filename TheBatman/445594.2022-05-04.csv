@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Mumbai,InoxMegaplexInorbitMallMalad,400064,English,13:10,Insignia,450₹,38,4
+NationalCapitalRegionNcr,PvrPacificSubhashNagar4DxDelhi,110018,English,15:35,Classic,430₹,36,0
+NationalCapitalRegionNcr,PvrPacificSubhashNagar4DxDelhi,110018,English,15:35,Prime,480₹,72,21
+NationalCapitalRegionNcr,PvrLogix4DxNoida,201301,English,19:00,Classic,450₹,80,6
+Hyderabad,PvrNextGalleriaMallPanjagutta,500082,English,21:45,Classic,200₹,54,14
+NationalCapitalRegionNcr,PvrMgf4DxGurgaon,122001,English,21:45,Classic,450₹,96,2
+Mumbai,InoxInsigniaAtAtriaMallWorli,400018,English,22:15,Insignia,"1,100₹",30,11
+NationalCapitalRegionNcr,PvrAmbienceGoldGurgaon,122001,English,22:15,Platinum,900₹,28,0
+NationalCapitalRegionNcr,PvrAmbienceGoldGurgaon,122001,English,22:15,PlatinumSuperior,"1,100₹",16,8
+Chandigarh,Pvr4DxElanteChandigarh,160002,English,22:30,Classic,400₹,92,0
+NationalCapitalRegionNcr,PvrVegas4DxDwarka,110078,English,22:45,Classic,420₹,84,12
+NationalCapitalRegionNcr,PvrVegas4DxDwarka,110078,English,22:45,Prime,475₹,24,0
