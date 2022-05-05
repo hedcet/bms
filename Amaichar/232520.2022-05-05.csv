@@ -1,0 +1,6 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Madurai,SakthiCinemasMadurai,625001,Tamil,10:50,FirstClass,100₹,198,30
+Madurai,RamTheatreMadurai,625009,Tamil,14:15,Balcony,80₹,256,0
+Madurai,SakthiCinemasMadurai,625001,Tamil,14:30,FirstClass,100₹,198,0
+Madurai,RamTheatreMadurai,625009,Tamil,18:15,Balcony,80₹,256,0
+Madurai,RamTheatreMadurai,625009,Tamil,22:00,Balcony,80₹,256,0
