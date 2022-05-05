@@ -1,0 +1,8 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Nanded,PvrTreasureBazaarMallNanded,431606,Punjabi,16:45,Classic,120₹,70,0
+Nanded,PvrTreasureBazaarMallNanded,431606,Punjabi,16:45,Prime,140₹,100,0
+Nanded,PvrTreasureBazaarMallNanded,431606,Punjabi,16:45,PrimePlus,160₹,81,18
+Mumbai,BalajiMovieplexKoparKhairane,400709,Punjabi,20:00,Vip,166₹,12,12
+Mumbai,BalajiMovieplexKoparKhairane,400709,Punjabi,20:00,Platinum,112₹,137,104
+Mumbai,BalajiMovieplexKoparKhairane,400709,Punjabi,20:00,Gold,112₹,80,0
+Mumbai,BalajiMovieplexKoparKhairane,400709,Punjabi,20:00,Silver,112₹,32,0
