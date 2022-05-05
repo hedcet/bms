@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Chennai,GowriCinemas4KPonneri,601204,Tamil,14:45,Balcony,80₹,80,42
+Chennai,GowriCinemas4KPonneri,601204,Tamil,14:45,FirstClass,80₹,500,0
+Chennai,GowriCinemas4KPonneri,601204,Tamil,22:00,Balcony,80₹,80,20
+Chennai,GowriCinemas4KPonneri,601204,Tamil,22:00,FirstClass,80₹,500,0
