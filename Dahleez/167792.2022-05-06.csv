@@ -1,0 +1,12 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Ranchi,EylexCinemasHinoo,834002,Nagpuri,08:45,Club,120₹,21,4
+Ranchi,EylexCinemasHinoo,834002,Nagpuri,08:45,Gold,120₹,44,0
+Ranchi,EylexCinemasHinoo,834002,Nagpuri,08:45,Platinum,120₹,88,80
+Jharsuguda,ShivaMultiplexJharsuguda,768203,Nagpuri,10:00,Platinum,200₹,26,10
+Jharsuguda,ShivaMultiplexJharsuguda,768203,Nagpuri,10:00,Gold,120₹,144,42
+Ranchi,CarnivalJdHighStreetMall,834001,Nagpuri,11:40,SilverOffline,110₹,13,1
+Ranchi,CarnivalJdHighStreetMall,834001,Nagpuri,11:40,PremiumOffline,150₹,65,15
+Ranchi,CarnivalJdHighStreetMall,834001,Nagpuri,11:40,ClubOffline,170₹,65,29
+Hazaribagh,EylexCinemaHazaribagh,825301,Nagpuri,15:15,Rl,250₹,5,5
+Hazaribagh,EylexCinemaHazaribagh,825301,Nagpuri,15:15,Gl,150₹,39,0
+Hazaribagh,EylexCinemaHazaribagh,825301,Nagpuri,15:15,Pl,150₹,147,1
