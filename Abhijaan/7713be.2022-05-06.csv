@@ -1,0 +1,15 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kolkata,CarnivalSaltLake,700091,Bengali,10:50,Silver,89₹,190,6
+Kolkata,PvrDiamondPlazaJessoreKolkata,700055,Bengali,12:20,Classic,180₹,189,4
+Kolkata,PvrDiamondPlazaJessoreKolkata,700055,Bengali,12:20,Prime,250₹,11,0
+Kolkata,PvrDiamondPlazaJessoreKolkata,700055,Bengali,12:20,Recliner,420₹,12,0
+Kolkata,CinepolisLakeMallKolkata,700026,Bengali,12:35,Normal,150₹,22,0
+Kolkata,CinepolisLakeMallKolkata,700026,Bengali,12:35,Executive,170₹,55,7
+Kolkata,CinepolisLakeMallKolkata,700026,Bengali,12:35,Premium,190₹,32,17
+Kolkata,NandanKolkata,700020,Bengali,14:00,FrontStall,30₹,111,26
+Kolkata,NandanKolkata,700020,Bengali,14:00,RearStall,50₹,451,77
+Kolkata,NandanKolkata,700020,Bengali,14:00,Balcony,70₹,369,54
+Kolkata,NazrultirthaCinemaKolkata,700156,Bengali,14:40,Silver,130₹,26,0
+Kolkata,NazrultirthaCinemaKolkata,700156,Bengali,14:40,Gold,150₹,65,8
+Kolkata,InoxSouthCityKolkata,700068,Bengali,19:50,Silver,290₹,166,28
+Kolkata,InoxSouthCityKolkata,700068,Bengali,19:50,Premier,270₹,34,0
