@@ -1,0 +1,15 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+MysuruMysore,DrcCinemasBmHabitatMall,570012,Kannada,10:30,Premium,160₹,182,4
+MysuruMysore,DrcCinemasBmHabitatMall,570012,Kannada,10:30,Luxury,200₹,18,0
+Bengaluru,InoxMantriSquareMalleshwaram,560052,Kannada,12:40,Royal,320₹,14,14
+Bengaluru,InoxMantriSquareMalleshwaram,560052,Kannada,12:40,Club,190₹,272,14
+Bengaluru,PvrVegaCityBannerghattaRoad,560076,Kannada,13:10,Classic,200₹,118,15
+Bengaluru,CinepolisBinnypetMall,560023,Kannada,13:20,Executive,150₹,69,8
+Bengaluru,CinepolisBinnypetMall,560023,Kannada,13:20,Premium,150₹,42,0
+Kundapura,BharathCinemasKundapura,576222,Kannada,16:30,Gold,200₹,40,4
+Kundapura,BharathCinemasKundapura,576222,Kannada,16:30,Silver,180₹,41,0
+Kundapura,BharathCinemasKundapura,576222,Kannada,16:30,Special,150₹,48,0
+Bengaluru,GopalanCinemasArcadeMallMysoreRoad,560098,Kannada,17:00,Gold,236₹,332,17
+Bengaluru,GopalanCinemasArcadeMallMysoreRoad,560098,Kannada,17:00,Sofa,236₹,21,20
+Bengaluru,PvrArenaMallDoddanakundiMarthalliRingRoad,560037,Kannada,18:45,Classic,180₹,104,14
+Bengaluru,PvrArenaMallDoddanakundiMarthalliRingRoad,560037,Kannada,18:45,Prime,200₹,30,18
