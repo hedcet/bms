@@ -1,0 +1,14 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kolkata,PvrManiSquareMallKolkata,700054,English,13:50,Classic,180₹,48,0
+Kolkata,PvrManiSquareMallKolkata,700054,English,13:50,Prime,210₹,110,0
+Kolkata,PvrManiSquareMallKolkata,700054,English,13:50,Recliner,450₹,8,0
+NationalCapitalRegionNcr,PvrVegasDwarka,110078,English,16:30,Classic,240₹,112,0
+NationalCapitalRegionNcr,PvrVegasDwarka,110078,English,16:30,Prime,295₹,38,0
+Bengaluru,PvrPhoenixMarketcityMallWhitefieldRoad,560048,English,18:20,Classic,210₹,139,24
+Bengaluru,PvrPhoenixMarketcityMallWhitefieldRoad,560048,English,18:20,Prime,230₹,10,0
+Bengaluru,PvrPhoenixMarketcityMallWhitefieldRoad,560048,English,18:20,Recliner,400₹,14,0
+NationalCapitalRegionNcr,PvrPromenadeVasantKunj,110070,English,19:15,Classic,350₹,130,4
+NationalCapitalRegionNcr,PvrPromenadeVasantKunj,110070,English,19:15,Prime,350₹,22,13
+NationalCapitalRegionNcr,PvrLogixNoida,201301,English,19:25,Classic,320₹,87,1
+NationalCapitalRegionNcr,PvrMgfGurgaon,122001,English,20:50,Classic,330₹,90,0
+NationalCapitalRegionNcr,PvrMgfGurgaon,122001,English,20:50,Prime,430₹,44,7
