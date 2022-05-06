@@ -1,0 +1,15 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Vadakara,KirthiMudra4KRgbLaserDolbyAtmos,673101,Tamil,10:30,Sofa,200₹,16,0
+Vadakara,KirthiMudra4KRgbLaserDolbyAtmos,673101,Tamil,10:30,Gold,150₹,182,0
+Chandigarh,InoxDhillonPlazaZirakpur,140603,Hindi,14:25,RoyalRecliner,300₹,8,0
+Chandigarh,InoxDhillonPlazaZirakpur,140603,Hindi,14:25,Club,200₹,95,6
+Chandigarh,InoxDhillonPlazaZirakpur,140603,Hindi,14:25,Royal,200₹,43,11
+Chandigarh,InoxDhillonPlazaZirakpur,140603,Hindi,14:25,Executive,170₹,66,0
+Mumbai,CinepolisFunRepublicMallAndheriW,400053,Hindi,16:45,Normal,180₹,32,0
+Mumbai,CinepolisFunRepublicMallAndheriW,400053,Hindi,16:45,Executive,200₹,96,0
+Mumbai,CinepolisFunRepublicMallAndheriW,400053,Hindi,16:45,Premium,220₹,46,14
+Mumbai,CinepolisFunRepublicMallAndheriW,400053,Hindi,16:45,Platinum,320₹,26,0
+Mumbai,CinepolisFunRepublicMallAndheriW,400053,Hindi,20:35,Normal,210₹,32,0
+Mumbai,CinepolisFunRepublicMallAndheriW,400053,Hindi,20:35,Executive,230₹,96,13
+Mumbai,CinepolisFunRepublicMallAndheriW,400053,Hindi,20:35,Premium,250₹,50,24
+Mumbai,CinepolisFunRepublicMallAndheriW,400053,Hindi,20:35,Platinum,350₹,22,2
