@@ -1,0 +1,10 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Chennai,AgsCinemasMaduravoyal,600095,Tamil,09:55,Diamond,150₹,237,57
+Chennai,AgsCinemasMaduravoyal,600095,Tamil,09:55,Pearl,60₹,24,24
+Chennai,AgsCinemasVillivakkam,600049,Tamil,10:10,Diamond,150₹,147,17
+Chennai,AgsCinemasVillivakkam,600049,Tamil,10:10,Pearl,60₹,17,1
+Manapparai,IndiraCinemasAC4KDtsManapparai,621306,Tamil,11:00,FirstClass,100₹,300,0
+Manapparai,IndiraCinemasAC4KDtsManapparai,621306,Tamil,14:30,FirstClass,100₹,300,0
+Chennai,SreeLakshmibalaMoviepark4K3DDolby712Padi,600050,Tamil,15:00,FirstClass,80₹,189,1
+Manapparai,IndiraCinemasAC4KDtsManapparai,621306,Tamil,18:30,FirstClass,100₹,300,3
+Manapparai,IndiraCinemasAC4KDtsManapparai,621306,Tamil,22:00,FirstClass,100₹,300,0
