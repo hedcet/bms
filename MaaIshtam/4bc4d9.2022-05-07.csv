@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Gangavati,AmarTalkiesGangavati,583227,Telugu,11:00,BalconyClass,100₹,60,0
+Gangavati,AmarTalkiesGangavati,583227,Telugu,11:00,FirstClass,80₹,60,0
+Vijayawada,SwarnaMultiplexVijayawada,520002,Telugu,11:30,Premium,112₹,206,18
+Vijayawada,SwarnaMultiplexVijayawada,520002,Telugu,11:30,Economy,78₹,70,20
+Gangavati,AmarTalkiesGangavati,583227,Telugu,14:00,BalconyClass,100₹,60,0
+Gangavati,AmarTalkiesGangavati,583227,Telugu,14:00,FirstClass,80₹,60,0
+Gangavati,AmarTalkiesGangavati,583227,Telugu,18:00,BalconyClass,100₹,60,0
+Gangavati,AmarTalkiesGangavati,583227,Telugu,18:00,FirstClass,80₹,60,0
+Vijayawada,SwarnaMultiplexVijayawada,520002,Telugu,18:30,Premium,112₹,206,18
+Vijayawada,SwarnaMultiplexVijayawada,520002,Telugu,18:30,Economy,78₹,70,20
+Gangavati,AmarTalkiesGangavati,583227,Telugu,21:00,BalconyClass,100₹,60,0
+Gangavati,AmarTalkiesGangavati,583227,Telugu,21:00,FirstClass,80₹,60,0
