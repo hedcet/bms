@@ -1,0 +1,10 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,InoxMantriSquareMalleshwaram,560052,Kannada,12:40,Royal,380₹,14,5
+Bengaluru,InoxMantriSquareMalleshwaram,560052,Kannada,12:40,Club,230₹,272,17
+Bengaluru,PvrVegaCityBannerghattaRoad,560076,Kannada,13:10,Classic,220₹,118,15
+Bengaluru,CinepolisBinnypetMall,560023,Kannada,13:20,Executive,150₹,69,0
+Bengaluru,CinepolisBinnypetMall,560023,Kannada,13:20,Premium,150₹,42,3
+Bengaluru,GopalanCinemasArcadeMallMysoreRoad,560098,Kannada,17:00,Gold,250₹,332,4
+Bengaluru,GopalanCinemasArcadeMallMysoreRoad,560098,Kannada,17:00,Sofa,250₹,21,2
+Bengaluru,PvrArenaMallDoddanakundiMarthalliRingRoad,560037,Kannada,18:45,Classic,200₹,104,24
+Bengaluru,PvrArenaMallDoddanakundiMarthalliRingRoad,560037,Kannada,18:45,Prime,220₹,30,3
