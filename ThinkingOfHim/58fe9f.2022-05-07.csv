@@ -1,0 +1,16 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kolkata,PvrUniworldDowntownMallNewTownKolkata,700160,English,10:20,Classic,112₹,48,0
+Kolkata,PvrUniworldDowntownMallNewTownKolkata,700160,English,10:20,Prime,150₹,156,1
+Kolkata,PvrUniworldDowntownMallNewTownKolkata,700160,English,10:20,Recliner,350₹,6,1
+Kolkata,PvrManiSquareMallKolkata,700054,English,10:20,Classic,120₹,48,0
+Kolkata,PvrManiSquareMallKolkata,700054,English,10:20,Prime,150₹,110,16
+Kolkata,PvrManiSquareMallKolkata,700054,English,10:20,Recliner,380₹,8,0
+NationalCapitalRegionNcr,PvrVegasDwarka,110078,English,16:30,Classic,240₹,112,0
+NationalCapitalRegionNcr,PvrVegasDwarka,110078,English,16:30,Prime,295₹,52,14
+Bengaluru,PvrPhoenixMarketcityMallWhitefieldRoad,560048,English,18:20,Classic,240₹,139,26
+Bengaluru,PvrPhoenixMarketcityMallWhitefieldRoad,560048,English,18:20,Prime,260₹,10,5
+Bengaluru,PvrPhoenixMarketcityMallWhitefieldRoad,560048,English,18:20,Recliner,450₹,14,3
+NationalCapitalRegionNcr,PvrPromenadeVasantKunj,110070,English,19:15,Classic,350₹,130,9
+NationalCapitalRegionNcr,PvrPromenadeVasantKunj,110070,English,19:15,Prime,350₹,22,9
+NationalCapitalRegionNcr,PvrMgfGurgaon,122001,English,20:50,Classic,330₹,90,0
+NationalCapitalRegionNcr,PvrMgfGurgaon,122001,English,20:50,Prime,430₹,44,0
