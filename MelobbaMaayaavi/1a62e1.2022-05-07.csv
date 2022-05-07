@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Udupi,DianaTheatreUdupi,576101,Kannada,10:15,Balcony,90₹,32,0
+Udupi,DianaTheatreUdupi,576101,Kannada,13:15,Balcony,90₹,32,2
+Udupi,DianaTheatreUdupi,576101,Kannada,16:15,Balcony,90₹,32,1
+Udupi,DianaTheatreUdupi,576101,Kannada,19:15,Balcony,90₹,32,0
