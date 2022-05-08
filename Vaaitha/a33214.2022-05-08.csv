@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Chennai,AgsCinemasMaduravoyal,600095,Tamil,09:55,Diamond,150₹,208,0
+Chennai,AgsCinemasVillivakkam,600049,Tamil,09:55,Diamond,150₹,138,0
+Coimbatore,KgCinemasCoimbatore,641018,Tamil,10:30,Premium,179₹,95,0
+Coimbatore,KgCinemasCoimbatore,641018,Tamil,10:30,Comfort,148₹,53,0
+Chennai,PvrAmpaMallNelsonManickamRoad,600029,Tamil,12:05,Classic,60₹,17,10
+Chennai,PvrAmpaMallNelsonManickamRoad,600029,Tamil,12:05,Prime,179₹,118,0
+Coimbatore,InoxProzoneMallCoimbatore,641035,Tamil,16:25,Club,190₹,135,0
+Coimbatore,InoxProzoneMallCoimbatore,641035,Tamil,16:25,Executive,60₹,19,0
