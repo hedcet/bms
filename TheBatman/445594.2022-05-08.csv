@@ -1,0 +1,4 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+NationalCapitalRegionNcr,PvrAmbienceGoldGurgaon,122001,English,18:25,Platinum,500₹,28,9
+NationalCapitalRegionNcr,PvrAmbienceGoldGurgaon,122001,English,18:25,PlatinumSuperior,500₹,16,14
+NationalCapitalRegionNcr,PvrLogixNoida,201301,English,22:15,Classic,300₹,76,7
