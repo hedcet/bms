@@ -1,0 +1,16 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Parbhani,PritiCinemaParbhani,431401,Marathi,09:52,Platinum,100₹,133,0
+Parbhani,PritiCinemaParbhani,431401,Marathi,09:52,Gold,80₹,98,0
+Parbhani,PritiCinemaParbhani,431401,Marathi,09:52,Silver,60₹,178,0
+Parbhani,PritiCinemaParbhani,431401,Marathi,09:52,King,120₹,76,0
+Pune,AbhiruchiCityPrideSinhagadRoad,411041,Marathi,12:05,RoyalSofa,200₹,12,0
+Pune,AbhiruchiCityPrideSinhagadRoad,411041,Marathi,12:05,RoyalGold,180₹,123,23
+Pune,AbhiruchiCityPrideSinhagadRoad,411041,Marathi,12:05,RoyalSilver,160₹,30,2
+Pen,CarnivalMoreshwar,402107,Marathi,12:15,Platinum,130₹,96,69
+Pen,CarnivalMoreshwar,402107,Marathi,12:15,Gold,110₹,42,0
+Mumbai,InoxRaghuleelaMallVashi,400703,Marathi,12:55,Premier,180₹,89,14
+Mumbai,InoxRaghuleelaMallVashi,400703,Marathi,12:55,Silver,180₹,32,16
+Mumbai,InoxRaghuleelaMallVashi,400703,Marathi,12:55,Executive,160₹,22,0
+Kolhapur,RoyalCinemaKolhapur,416002,Marathi,15:30,Balcony,80₹,75,0
+Kolhapur,RoyalCinemaKolhapur,416002,Marathi,15:30,DressCircle,70₹,85,0
+Kolhapur,RoyalCinemaKolhapur,416002,Marathi,15:30,Stall,60₹,85,0
