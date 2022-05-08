@@ -1,0 +1,10 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Satna,ImusicaEntertainmentsSatna,485001,Bagheli,09:55,Gold,90₹,42,0
+Satna,ImusicaEntertainmentsSatna,485001,Bagheli,09:55,RedCarpet,110₹,98,0
+Satna,ImusicaEntertainmentsSatna,485001,Bagheli,09:55,Royal,250₹,8,0
+Rewa,SamdareeyaCinemaGoldRewa,486001,Bagheli,10:15,Lounger,120₹,16,1
+Rewa,SamdareeyaCinemaGoldRewa,486001,Bagheli,10:15,Silver,120₹,30,0
+Rewa,SamdareeyaCinemaGoldRewa,486001,Bagheli,10:15,Gold,120₹,122,0
+Rewa,SamdareeyaCinemaGoldRewa,486001,Bagheli,10:15,Platinum,120₹,64,0
+Rewa,SamdareeyaCinemaGoldRewa,486001,Bagheli,10:15,Sofa,150₹,20,0
+Rewa,SamdareeyaCinemaGoldRewa,486001,Bagheli,10:15,Recliner,250₹,17,0
