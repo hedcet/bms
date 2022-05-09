@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Chamarajnagar,ShreeBhramarambaCineplexChamarajnagar,571313,Kannada,10:00,BalconyClass,100₹,44,2
+Chamarajnagar,ShreeBhramarambaCineplexChamarajnagar,571313,Kannada,10:00,SecondClass,80₹,56,0
+Chamarajnagar,ShreeBhramarambaCineplexChamarajnagar,571313,Kannada,13:00,BalconyClass,100₹,44,0
+Chamarajnagar,ShreeBhramarambaCineplexChamarajnagar,571313,Kannada,13:00,SecondClass,80₹,56,0
+Chamarajnagar,ShreeBhramarambaCineplexChamarajnagar,571313,Kannada,16:00,BalconyClass,100₹,44,0
+Chamarajnagar,ShreeBhramarambaCineplexChamarajnagar,571313,Kannada,16:00,SecondClass,80₹,56,0
+Chamarajnagar,ShreeBhramarambaCineplexChamarajnagar,571313,Kannada,19:00,BalconyClass,100₹,44,0
+Chamarajnagar,ShreeBhramarambaCineplexChamarajnagar,571313,Kannada,19:00,SecondClass,80₹,56,0
