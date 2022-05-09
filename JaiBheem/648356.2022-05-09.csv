@@ -1,0 +1,8 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Hoshiarpur,ShirazNovaCinemazHoshiarpur,146001,Hindi,15:00,Gold,80₹,99,0
+Hoshiarpur,ShirazNovaCinemazHoshiarpur,146001,Hindi,15:00,Gold,80₹,99,0
+Hoshiarpur,ShirazNovaCinemazHoshiarpur,146001,Hindi,15:10,Gold,80₹,99,0
+Abohar,MirajCinemasKundanPalaceAbohar,152116,Hindi,17:05,Special,130₹,142,0
+Abohar,MirajCinemasKundanPalaceAbohar,152116,Hindi,17:05,Executive,130₹,150,0
+Abohar,MirajCinemasKundanPalaceAbohar,152116,Hindi,17:05,Gold,200₹,29,4
+Kotkapura,OrbitMultiplexKotkapura,151204,Hindi,18:00,Gold,100₹,52,2
