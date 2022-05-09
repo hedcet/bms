@@ -1,0 +1,7 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Rewa,SamdareeyaCinemaGoldRewa,486001,Bagheli,10:15,Lounger,120₹,16,1
+Rewa,SamdareeyaCinemaGoldRewa,486001,Bagheli,10:15,Silver,100₹,30,0
+Rewa,SamdareeyaCinemaGoldRewa,486001,Bagheli,10:15,Gold,100₹,122,0
+Rewa,SamdareeyaCinemaGoldRewa,486001,Bagheli,10:15,Platinum,100₹,64,1
+Rewa,SamdareeyaCinemaGoldRewa,486001,Bagheli,10:15,Sofa,150₹,20,0
+Rewa,SamdareeyaCinemaGoldRewa,486001,Bagheli,10:15,Recliner,250₹,17,8
