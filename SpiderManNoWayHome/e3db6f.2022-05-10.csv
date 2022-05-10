@@ -1,0 +1,7 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+NationalCapitalRegionNcr,PvrLogixNoida,201301,English,12:20,3DClassic,315₹,38,0
+Hyderabad,PvrNextGalleriaMallPanjagutta,500082,English,13:15,Classic,200₹,54,33
+NationalCapitalRegionNcr,PvrLogixNoida,201301,English,18:15,3DClassic,315₹,38,0
+NationalCapitalRegionNcr,PvrVegasDwarka,110078,Hindi,18:25,3DClassic,300₹,36,2
+NationalCapitalRegionNcr,PvrVegasDwarka,110078,Hindi,18:25,3DPrime,355₹,21,7
+NationalCapitalRegionNcr,PvrVegasDwarka,110078,Hindi,18:25,3DRecliner,405₹,8,0
