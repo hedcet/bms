@@ -1,0 +1,17 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Palakkad,NewAromaTheatrePalakkad,678001,Malayalam,09:00,PlatinumCircle,120₹,200,0
+Palakkad,NewAromaTheatrePalakkad,678001,Malayalam,09:00,DiamondCircle,100₹,229,0
+Kochi,SangeetaCinemaKochi,680018,Malayalam,09:45,BlueCircle,150₹,187,18
+Mukkam,PeeCeeTheatreMukkam,673602,Malayalam,11:30,FirstClass,110₹,124,0
+Trivandrum,JbCinemasThapasyaAttingal,695102,Malayalam,14:40,Circle,130₹,436,3
+Thodupuzha,SilverHillsCinemasThodupuzha,685584,Malayalam,17:00,Silver,130₹,80,0
+Kochi,SangeetaCinemaKochi,680018,Malayalam,18:00,BlueCircle,150₹,187,18
+Trivandrum,LeninCinemas4K3DDolbyAtmosKsfdcTrivandrum,695014,Malayalam,18:30,Platinum,150₹,22,0
+Trivandrum,LeninCinemas4K3DDolbyAtmosKsfdcTrivandrum,695014,Malayalam,18:30,Gold,129₹,144,4
+Trivandrum,LeninCinemas4K3DDolbyAtmosKsfdcTrivandrum,695014,Malayalam,21:15,Platinum,150₹,22,0
+Trivandrum,LeninCinemas4K3DDolbyAtmosKsfdcTrivandrum,695014,Malayalam,21:15,Gold,129₹,144,2
+Kasaragod,CineKrishna4KKasaragod,671123,Malayalam,22:00,FirstClass,129₹,144,0
+Kasaragod,CineKrishna4KKasaragod,671123,Malayalam,22:00,Sofa,200₹,8,0
+Trivandrum,CarnivalMallOfTravancoreTrivandrum,695024,Malayalam,22:15,PremiumOffline,250₹,50,8
+Trivandrum,CarnivalMallOfTravancoreTrivandrum,695024,Malayalam,22:15,ExecutiveOffline,160₹,102,15
+Trivandrum,CarnivalMallOfTravancoreTrivandrum,695024,Malayalam,22:15,NormalOffline,100₹,17,0
