@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+KalaburagiGulbarga,TriveniTalkiesKalaburagi,585101,Kannada,11:15,DeluxeClass,100₹,50,0
+KalaburagiGulbarga,TriveniTalkiesKalaburagi,585101,Kannada,14:15,DeluxeClass,100₹,50,0
+KalaburagiGulbarga,MirajCinemasGulbarga,585104,Kannada,15:50,Special,160₹,95,0
+KalaburagiGulbarga,MirajCinemasGulbarga,585104,Kannada,15:50,Executive,180₹,234,0
+KalaburagiGulbarga,MirajCinemasGulbarga,585104,Kannada,15:50,Gold,350₹,11,2
+Bengaluru,GopalanMallSirsiCircle,560026,Kannada,16:15,Gold,200₹,206,3
+KalaburagiGulbarga,TriveniTalkiesKalaburagi,585101,Kannada,17:15,DeluxeClass,100₹,50,0
+KalaburagiGulbarga,TriveniTalkiesKalaburagi,585101,Kannada,20:15,DeluxeClass,100₹,50,0
