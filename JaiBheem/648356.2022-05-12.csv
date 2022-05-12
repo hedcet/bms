@@ -1,0 +1,14 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Hoshiarpur,ShirazNovaCinemazHoshiarpur,146001,Hindi,15:00,Gold,80₹,99,0
+Hoshiarpur,ShirazNovaCinemazHoshiarpur,146001,Hindi,15:00,Gold,80₹,99,0
+Hoshiarpur,ShirazNovaCinemazHoshiarpur,146001,Hindi,15:10,Gold,80₹,99,0
+Nawanshahr,SutlejPalacePictureNawanshahr,144514,Hindi,15:15,Gold,170₹,36,0
+Nawanshahr,SutlejPalacePictureNawanshahr,144514,Hindi,15:15,Silver,140₹,85,1
+Nawanshahr,SutlejPalacePictureNawanshahr,144514,Hindi,15:15,Seasonal,100₹,17,0
+Nawanshahr,SutlejPalacePictureNawanshahr,144514,Hindi,15:30,Gold,170₹,36,0
+Nawanshahr,SutlejPalacePictureNawanshahr,144514,Hindi,15:30,Silver,140₹,85,1
+Nawanshahr,SutlejPalacePictureNawanshahr,144514,Hindi,15:30,Seasonal,100₹,17,0
+Abohar,MirajCinemasKundanPalaceAbohar,152116,Hindi,17:05,Special,130₹,142,4
+Abohar,MirajCinemasKundanPalaceAbohar,152116,Hindi,17:05,Executive,130₹,150,0
+Abohar,MirajCinemasKundanPalaceAbohar,152116,Hindi,17:05,Gold,200₹,29,0
+Kotkapura,OrbitMultiplexKotkapura,151204,Hindi,18:00,Gold,100₹,52,0
