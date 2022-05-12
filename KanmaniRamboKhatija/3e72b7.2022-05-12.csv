@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Nizamabad,SriDeviTheaterNizamabad,503001,Telugu,11:00,PlatinumCircle,110₹,261,0
+Tirupati,TejaTheaterACDtsTirupati,517501,Telugu,11:30,Platinum,100₹,120,0
+Tirupati,TejaTheaterACDtsTirupati,517501,Telugu,11:30,Silver,70₹,48,0
+Nizamabad,SriDeviTheaterNizamabad,503001,Telugu,14:00,PlatinumCircle,110₹,261,0
+Tirupati,TejaTheaterACDtsTirupati,517501,Telugu,14:30,Platinum,100₹,120,0
+Tirupati,TejaTheaterACDtsTirupati,517501,Telugu,14:30,Silver,70₹,48,0
+Nizamabad,SriDeviTheaterNizamabad,503001,Telugu,18:00,PlatinumCircle,110₹,261,2
+Tirupati,TejaTheaterACDtsTirupati,517501,Telugu,18:30,Platinum,100₹,120,0
+Tirupati,TejaTheaterACDtsTirupati,517501,Telugu,18:30,Silver,70₹,48,0
+Nizamabad,SriDeviTheaterNizamabad,503001,Telugu,21:00,PlatinumCircle,110₹,261,2
+Tirupati,TejaTheaterACDtsTirupati,517501,Telugu,21:30,Platinum,100₹,120,0
+Tirupati,TejaTheaterACDtsTirupati,517501,Telugu,21:30,Silver,70₹,48,0
