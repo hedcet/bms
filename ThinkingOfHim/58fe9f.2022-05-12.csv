@@ -1,0 +1,6 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kolkata,PvrUniworldDowntownMallNewTownKolkata,700160,English,11:30,Classic,99₹,48,0
+Kolkata,PvrUniworldDowntownMallNewTownKolkata,700160,English,11:30,Prime,140₹,156,0
+Kolkata,PvrUniworldDowntownMallNewTownKolkata,700160,English,11:30,Recliner,310₹,6,0
+NationalCapitalRegionNcr,PvrPromenadeVasantKunj,110070,English,19:15,Classic,275₹,130,0
+NationalCapitalRegionNcr,PvrPromenadeVasantKunj,110070,English,19:15,Prime,275₹,22,6
