@@ -1,0 +1,11 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Palakkad,NewAromaTheatrePalakkad,678001,Malayalam,09:00,PlatinumCircle,120₹,200,15
+Palakkad,NewAromaTheatrePalakkad,678001,Malayalam,09:00,DiamondCircle,100₹,229,3
+Kochi,SangeetaCinemaKochi,680018,Malayalam,09:45,BlueCircle,150₹,187,18
+Trivandrum,JbCinemasThapasyaAttingal,695102,Malayalam,14:40,Circle,130₹,433,15
+Thodupuzha,SilverHillsCinemasThodupuzha,685584,Malayalam,17:00,Silver,130₹,80,20
+Kochi,SangeetaCinemaKochi,680018,Malayalam,18:00,BlueCircle,150₹,187,34
+Trivandrum,LeninCinemas4K3DDolbyAtmosKsfdcTrivandrum,695014,Malayalam,18:30,Platinum,150₹,22,0
+Trivandrum,LeninCinemas4K3DDolbyAtmosKsfdcTrivandrum,695014,Malayalam,18:30,Gold,129₹,144,15
+Trivandrum,LeninCinemas4K3DDolbyAtmosKsfdcTrivandrum,695014,Malayalam,21:15,Platinum,150₹,22,8
+Trivandrum,LeninCinemas4K3DDolbyAtmosKsfdcTrivandrum,695014,Malayalam,21:15,Gold,129₹,144,15
