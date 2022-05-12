@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Chennai,MayajaalMultiplexEcrChennai,603112,Tamil,15:15,FirstClass,190₹,137,0
+Chennai,PvrVrChennaiAnnaNagar,600040,Tamil,15:55,Classic,60₹,11,1
+Chennai,PvrVrChennaiAnnaNagar,600040,Tamil,15:55,Prime,190₹,102,15
+Chennai,SreeLakshmibalaMoviepark4K3DDolby712Padi,600050,Tamil,18:45,FirstClass,80₹,189,0
+Madurai,InoxVishaalDeMall,625002,Tamil,19:10,Club,178₹,142,27
+Madurai,InoxVishaalDeMall,625002,Tamil,19:10,Executive,60₹,24,12
+Chennai,SpiS2PeramburSpectrumMallPerambur,600011,Tamil,22:00,Budget,60₹,23,15
+Chennai,SpiS2PeramburSpectrumMallPerambur,600011,Tamil,22:00,Elite,165₹,177,0
