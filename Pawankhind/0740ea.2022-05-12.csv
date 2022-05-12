@@ -1,0 +1,10 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Umbraj,NovaCinemazUmbraj,415109,Marathi,12:00,Vip,130₹,102,0
+Umbraj,NovaCinemazUmbraj,415109,Marathi,12:00,Gold,100₹,105,0
+Umbraj,NovaCinemazUmbraj,415109,Marathi,12:00,Silver,100₹,84,0
+Umbraj,NovaCinemazUmbraj,415109,Marathi,18:00,Vip,130₹,102,9
+Umbraj,NovaCinemazUmbraj,415109,Marathi,18:00,Gold,100₹,105,0
+Umbraj,NovaCinemazUmbraj,415109,Marathi,18:00,Silver,100₹,84,0
+Umbraj,NovaCinemazUmbraj,415109,Marathi,21:00,Vip,130₹,102,0
+Umbraj,NovaCinemazUmbraj,415109,Marathi,21:00,Gold,100₹,105,0
+Umbraj,NovaCinemazUmbraj,415109,Marathi,21:00,Silver,100₹,84,0
