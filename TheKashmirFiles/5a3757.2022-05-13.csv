@@ -1,0 +1,4 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Mumbai,MetroInoxCinemasMarineLines,400020,Hindi,09:40,Insignia,300₹,47,5
+NationalCapitalRegionNcr,DhishoomCinemasMallFiftyOneGurugram,122018,Hindi,16:30,Platinum,460₹,35,0
+NationalCapitalRegionNcr,DhishoomCinemasMallFiftyOneGurugram,122018,Hindi,16:30,PlatinumSuperior,460₹,15,0
