@@ -1,0 +1,8 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kolkata,RadhaStudioTollygunge,700033,Bengali,19:00,Silver,30₹,152,15
+Kolkata,InoxSouthCityKolkata,700068,Bengali,20:15,Rr,450₹,16,0
+Kolkata,InoxSouthCityKolkata,700068,Bengali,20:15,Silver,290₹,165,19
+Kolkata,InoxSouthCityKolkata,700068,Bengali,20:15,Premier,270₹,32,0
+Kolkata,PvrDiamondPlazaJessoreKolkata,700055,Bengali,20:15,Classic,220₹,100,34
+Kolkata,PvrDiamondPlazaJessoreKolkata,700055,Bengali,20:15,Prime,260₹,11,1
+Kolkata,PvrDiamondPlazaJessoreKolkata,700055,Bengali,20:15,Recliner,430₹,12,0
