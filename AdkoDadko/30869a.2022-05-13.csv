@@ -1,0 +1,11 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Ahmedabad,19CinemaGodrejGardenCityAhmedabad,382470,Gujarati,12:00,Sofa,150₹,25,0
+Ahmedabad,19CinemaSanandAhmedabad,382110,Gujarati,13:50,Platinum,80₹,42,0
+Ahmedabad,19CinemaSanandAhmedabad,382110,Gujarati,13:50,Gold,80₹,24,0
+Ahmedabad,19CinemaSanandAhmedabad,382110,Gujarati,13:50,Silver,80₹,24,22
+Ahmedabad,19CinemaSouthBopalAhmedabad,380058,Gujarati,14:30,Platinum,110₹,16,0
+Ahmedabad,19CinemaSouthBopalAhmedabad,380058,Gujarati,14:30,Gold,100₹,32,0
+Ahmedabad,19CinemaSouthBopalAhmedabad,380058,Gujarati,14:30,Silver,80₹,16,0
+Ahmedabad,19CinemaSanandAhmedabad,382110,Gujarati,19:35,Platinum,100₹,42,0
+Ahmedabad,19CinemaSanandAhmedabad,382110,Gujarati,19:35,Gold,100₹,24,0
+Ahmedabad,19CinemaSanandAhmedabad,382110,Gujarati,19:35,Silver,100₹,2,0
