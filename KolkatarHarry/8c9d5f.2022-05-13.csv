@@ -1,0 +1,7 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+CoochBehar,BhavaniCinemaCoochBehar,736101,Bengali,10:00,SpecialClass1,100₹,102,0
+CoochBehar,BhavaniCinemaCoochBehar,736101,Bengali,10:00,SpecialClass2,100₹,28,0
+Kolkata,RadhaStudioTollygunge,700033,Bengali,16:00,Silver,30₹,152,6
+Kolkata,NandanKolkata,700020,Bengali,19:15,FrontStall,30₹,111,0
+Kolkata,NandanKolkata,700020,Bengali,19:15,RearStall,50₹,451,0
+Kolkata,NandanKolkata,700020,Bengali,19:15,Balcony,70₹,369,8
