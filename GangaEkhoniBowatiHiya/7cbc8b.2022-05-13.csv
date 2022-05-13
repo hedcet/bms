@@ -1,0 +1,14 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Morigaon,RoyalCinesMorigaon,782105,Assamese,10:00,Platinum,250₹,92,0
+Morigaon,RoyalCinesMorigaon,782105,Assamese,10:00,Gold,200₹,78,0
+Morigaon,RoyalCinesMorigaon,782105,Assamese,10:00,Silver,150₹,30,0
+Guwahati,RrCinemasGuwahati,781015,Assamese,10:35,Platinum,250₹,52,0
+Guwahati,RrCinemasGuwahati,781015,Assamese,10:35,Club,200₹,50,0
+Guwahati,RrCinemasGuwahati,781015,Assamese,10:35,Classic,150₹,23,0
+Jorhat,InoxAbsMallJorhat,785001,Assamese,11:45,Gold,300₹,12,0
+Jorhat,InoxAbsMallJorhat,785001,Assamese,11:45,Club,200₹,68,0
+Jorhat,InoxAbsMallJorhat,785001,Assamese,11:45,Executive,130₹,32,0
+Jorhat,InoxAbsMallJorhat,785001,Assamese,11:45,Premier,110₹,32,0
+Guwahati,PvrCityCentreGuwahati,781005,Assamese,14:10,Classic,190₹,40,3
+Guwahati,PvrCityCentreGuwahati,781005,Assamese,14:10,Prime,210₹,82,14
+Guwahati,PvrCityCentreGuwahati,781005,Assamese,14:10,PrimePlus,230₹,13,0
