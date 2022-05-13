@@ -1,0 +1,10 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kolkata,PadmaCinemaKolkata,700110,Bengali,11:45,Balcony,70₹,96,0
+Kolkata,NandanKolkata,700020,Bengali,12:00,FrontStall,30₹,111,0
+Kolkata,NandanKolkata,700020,Bengali,12:00,RearStall,50₹,451,27
+Kolkata,NandanKolkata,700020,Bengali,12:00,Balcony,70₹,369,9
+Kolkata,InoxSouthCityKolkata,700068,Bengali,12:20,Silver,290₹,167,10
+Kolkata,InoxSouthCityKolkata,700068,Bengali,12:20,Premier,270₹,34,0
+Kolkata,NazrultirthaCinemaScreen3Kolkata,700156,Bengali,17:15,Gold,130₹,30,0
+Kolkata,NazrultirthaCinemaScreen3Kolkata,700156,Bengali,17:15,Recliner,150₹,8,2
+Kolkata,NazrultirthaCinemaScreen3Kolkata,700156,Bengali,17:15,Sofa,130₹,12,0
