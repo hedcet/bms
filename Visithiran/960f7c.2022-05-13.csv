@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Chennai,SpiEscapeExpressAvenueMallRoyapettah,600014,Tamil,12:30,Budget,60₹,11,11
+Chennai,SpiEscapeExpressAvenueMallRoyapettah,600014,Tamil,12:30,Elite,190₹,99,29
+Chennai,SpiPalazzoTheForumVijayaMallVadapalani,600026,Tamil,15:45,Budget,60₹,28,0
+Chennai,SpiPalazzoTheForumVijayaMallVadapalani,600026,Tamil,15:45,Elite,190₹,216,48
+Pondicherry,PvrTheCinemaProvidencePondicherry,605001,Tamil,22:00,Elite,150₹,172,25
+Pondicherry,PvrTheCinemaProvidencePondicherry,605001,Tamil,22:00,Premium,110₹,59,0
+Chennai,PvrVrChennaiAnnaNagar,600040,Tamil,22:25,Classic,60₹,11,1
+Chennai,PvrVrChennaiAnnaNagar,600040,Tamil,22:25,Prime,190₹,102,11
