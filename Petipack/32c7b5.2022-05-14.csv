@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Ahmedabad,CityGoldSatelliteAhmedabad,380015,Gujarati,15:00,Executive,200₹,123,29
+Ahmedabad,CinepolisAhmedabadOne,380015,Gujarati,18:50,Normal,200₹,37,0
+Ahmedabad,CinepolisAhmedabadOne,380015,Gujarati,18:50,Executive,230₹,45,0
+Ahmedabad,CinepolisAhmedabadOne,380015,Gujarati,18:50,Premium,250₹,53,0
