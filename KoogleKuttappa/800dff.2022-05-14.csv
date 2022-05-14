@@ -1,0 +1,15 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Chennai,SpiEscapeExpressAvenueMallRoyapettah,600014,Tamil,12:00,Budget,60₹,11,11
+Chennai,SpiEscapeExpressAvenueMallRoyapettah,600014,Tamil,12:00,Elite,190₹,99,29
+Chennai,CinepolisBsrMallOmrThoraipakkam,600097,Tamil,12:45,Normal,60₹,16,0
+Chennai,CinepolisBsrMallOmrThoraipakkam,600097,Tamil,12:45,Executive,190₹,118,10
+Chennai,PvrVrChennaiAnnaNagar,600040,Tamil,15:45,Classic,60₹,11,0
+Chennai,PvrVrChennaiAnnaNagar,600040,Tamil,15:45,Prime,190₹,102,31
+Pondicherry,PvrTheCinemaProvidencePondicherry,605001,Tamil,15:50,Elite,150₹,172,27
+Pondicherry,PvrTheCinemaProvidencePondicherry,605001,Tamil,15:50,Premium,110₹,59,0
+Chennai,LuxeCinemasChennai,600042,Tamil,16:05,Elite2D,165₹,134,45
+Chennai,LuxeCinemasChennai,600042,Tamil,16:05,Budget,60₹,24,0
+Coimbatore,InoxProzoneMallCoimbatore,641035,Tamil,16:20,Club,190₹,142,0
+Coimbatore,InoxProzoneMallCoimbatore,641035,Tamil,16:20,Executive,60₹,19,0
+Chennai,InoxTheMarinaMallOmr,603103,Tamil,19:05,Club,190₹,126,0
+Chennai,InoxTheMarinaMallOmr,603103,Tamil,19:05,Executive,60₹,16,0
