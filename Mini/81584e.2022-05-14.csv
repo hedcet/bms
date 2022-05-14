@@ -1,0 +1,6 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kolkata,InoxSouthCityKolkata,700068,Bengali,12:20,Silver,290₹,167,12
+Kolkata,InoxSouthCityKolkata,700068,Bengali,12:20,Premier,270₹,34,0
+Kolkata,NazrultirthaCinemaScreen3Kolkata,700156,Bengali,17:15,Gold,130₹,30,0
+Kolkata,NazrultirthaCinemaScreen3Kolkata,700156,Bengali,17:15,Recliner,150₹,8,2
+Kolkata,NazrultirthaCinemaScreen3Kolkata,700156,Bengali,17:15,Sofa,130₹,12,0
