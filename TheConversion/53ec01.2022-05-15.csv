@@ -1,0 +1,14 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+NationalCapitalRegionNcr,PvrVegasDwarka,110078,Hindi,12:55,Classic,320₹,108,0
+NationalCapitalRegionNcr,PvrVegasDwarka,110078,Hindi,12:55,Prime,375₹,74,0
+Gandhinagar,CinemaxSumanGandhinagar,382011,Hindi,13:15,Classic,150₹,42,0
+Gandhinagar,CinemaxSumanGandhinagar,382011,Hindi,13:15,ClassicPlus,150₹,47,0
+Gandhinagar,CinemaxSumanGandhinagar,382011,Hindi,13:15,Prime,175₹,98,0
+Gandhinagar,CinemaxSumanGandhinagar,382011,Hindi,13:15,Recliner,350₹,23,0
+NationalCapitalRegionNcr,PvrPacificDwarka,110077,Hindi,15:10,Classic,320₹,44,11
+NationalCapitalRegionNcr,PvrPacificDwarka,110077,Hindi,15:10,Prime,390₹,17,0
+Gandhidham,VinayCinemaAdipur,370205,Hindi,19:30,Vip,350₹,14,6
+Gandhidham,VinayCinemaAdipur,370205,Hindi,19:30,Platinum,200₹,30,7
+Gandhidham,VinayCinemaAdipur,370205,Hindi,19:30,Diamond,150₹,42,7
+Gandhidham,VinayCinemaAdipur,370205,Hindi,19:30,Gold,130₹,42,0
+Gandhidham,VinayCinemaAdipur,370205,Hindi,19:30,Silver,130₹,42,0
