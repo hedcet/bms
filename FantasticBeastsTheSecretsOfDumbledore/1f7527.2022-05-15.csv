@@ -1,0 +1,11 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Mumbai,InoxLaserplexCr2NarimanPoint,400021,English,09:55,Royale,160₹,111,11
+Mumbai,InoxLaserplexCr2NarimanPoint,400021,English,09:55,Club,140₹,128,0
+Mumbai,PvrDynamixJuhu,400049,English,10:00,Prime,180₹,72,17
+Mumbai,PvrDynamixJuhu,400049,English,10:00,Classic,180₹,40,0
+Mumbai,InoxInsigniaAtAtriaMallWorli,400018,English,13:35,Insignia,800₹,30,2
+NationalCapitalRegionNcr,InoxWorldMarkGurugram,122001,English,14:35,RoyalRecliner,550₹,8,0
+NationalCapitalRegionNcr,InoxWorldMarkGurugram,122001,English,14:35,Royal,300₹,35,0
+NationalCapitalRegionNcr,InoxWorldMarkGurugram,122001,English,14:35,Club,280₹,65,0
+NationalCapitalRegionNcr,InoxWorldMarkGurugram,122001,English,14:35,Executive,260₹,26,0
+NationalCapitalRegionNcr,PvrLogixNoida,201301,English,23:00,Classic,300₹,76,0
