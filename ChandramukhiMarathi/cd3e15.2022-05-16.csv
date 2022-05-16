@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Pune,Rahul70MmShivajinagarPune,411004,Marathi,09:00,GoldClass,100₹,249,44
+Pune,Rahul70MmShivajinagarPune,411004,Marathi,09:00,SilverClass,100₹,120,0
+Sawantwadi,AryaNovaCinemazSawantwadi,416510,Marathi,12:00,Vip,200₹,11,0
+Sawantwadi,AryaNovaCinemazSawantwadi,416510,Marathi,12:00,Gold,170₹,72,0
+Sawantwadi,AryaNovaCinemazSawantwadi,416510,Marathi,12:00,Silver,150₹,60,0
+Satara,RajlaxmiTalkiesSatara,415002,Marathi,17:00,Diamond,180₹,265,0
+Satara,RajlaxmiTalkiesSatara,415002,Marathi,17:00,Gold,130₹,205,0
+Pimpri,VishalCinemaasPimpri,411018,Marathi,19:15,Platinum,160₹,240,0
+Pimpri,VishalCinemaasPimpri,411018,Marathi,19:15,Gold,140₹,204,0
+Pimpri,VishalCinemaasPimpri,411018,Marathi,19:15,Silver,120₹,10,0
+Pune,Rahul70MmShivajinagarPune,411004,Marathi,19:15,GoldClass,150₹,410,40
+Pune,Rahul70MmShivajinagarPune,411004,Marathi,19:15,SilverClass,150₹,132,0
