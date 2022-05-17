@@ -1,0 +1,15 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Rajkot,RajshriCinemaRajkot,360001,Gujarati,10:30,Balcony,150₹,208,0
+Rajkot,RajshriCinemaRajkot,360001,Gujarati,10:30,Upper,100₹,550,0
+Jetpur,FunCinemasBalajiCineplexJetpur,360370,Gujarati,12:40,Box,250₹,8,8
+Jetpur,FunCinemasBalajiCineplexJetpur,360370,Gujarati,12:40,Executive,180₹,39,33
+Jetpur,FunCinemasBalajiCineplexJetpur,360370,Gujarati,12:40,Upper,160₹,78,0
+Jetpur,FunCinemasBalajiCineplexJetpur,360370,Gujarati,15:40,Box,250₹,8,8
+Jetpur,FunCinemasBalajiCineplexJetpur,360370,Gujarati,15:40,Executive,180₹,39,33
+Jetpur,FunCinemasBalajiCineplexJetpur,360370,Gujarati,15:40,Upper,160₹,78,0
+Jetpur,FunCinemasBalajiCineplexJetpur,360370,Gujarati,18:40,Box,250₹,8,0
+Jetpur,FunCinemasBalajiCineplexJetpur,360370,Gujarati,18:40,Executive,180₹,39,0
+Jetpur,FunCinemasBalajiCineplexJetpur,360370,Gujarati,18:40,Upper,160₹,78,0
+Mahuva,CineArcMultiplexMahuva,364290,Gujarati,18:45,Gold,150₹,65,0
+Mahuva,CineArcMultiplexMahuva,364290,Gujarati,18:45,Silver,130₹,170,0
+Ahmedabad,1NewfangledMiniplexMondealRetailPark,380059,Gujarati,21:45,CoupleSeat,600₹,20,0
