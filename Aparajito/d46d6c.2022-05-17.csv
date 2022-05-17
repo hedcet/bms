@@ -1,0 +1,16 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kolkata,PriyaCinemaRashbehariAvenue,700029,Bengali,16:10,Rear,112₹,341,0
+Kolkata,PriyaCinemaRashbehariAvenue,700029,Bengali,16:10,Box,170₹,12,12
+Kolkata,PriyaCinemaRashbehariAvenue,700029,Bengali,16:10,Recliners,270₹,17,0
+Kolkata,PriyaCinemaRashbehariAvenue,700029,Bengali,16:10,Classic,190₹,76,0
+Kolkata,PriyaCinemaRashbehariAvenue,700029,Bengali,16:10,Balcony,170₹,104,0
+Kolkata,AjantaCinemaBehala,700038,Bengali,16:10,Balcony,150₹,58,0
+Agartala,SsrRupasiCinemaAgartala,799001,Bengali,17:10,GoldClass,150₹,20,0
+Kolkata,AtindraCinemaKolkata,700120,Bengali,17:45,RedLounger,250₹,18,0
+Kolkata,AtindraCinemaKolkata,700120,Bengali,17:45,Delux,200₹,144,0
+Kolkata,AtindraCinemaKolkata,700120,Bengali,17:45,Recliner,300₹,16,0
+Chennai,PvrAmpaMallNelsonManickamRoad,600029,Bengali,19:00,Classic,63₹,17,0
+Chennai,PvrAmpaMallNelsonManickamRoad,600029,Bengali,19:00,Prime,175₹,118,0
+Kolkata,StarTheatreKolkata,700006,Bengali,20:40,FrontStall,115₹,84,0
+Kolkata,StarTheatreKolkata,700006,Bengali,20:40,RearStall,125₹,234,0
+Kolkata,StarTheatreKolkata,700006,Bengali,20:40,Balcony,115₹,192,6
