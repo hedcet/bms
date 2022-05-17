@@ -1,0 +1,16 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Chennai,PvrVrChennaiAnnaNagar,600040,English,13:25,Classic,66₹,24,0
+Chennai,PvrVrChennaiAnnaNagar,600040,English,13:25,Prime,211₹,112,14
+Chennai,SpiPalazzoTheForumVijayaMallVadapalani,600026,English,15:35,Budget,66₹,26,0
+Chennai,SpiPalazzoTheForumVijayaMallVadapalani,600026,English,15:35,Elite,211₹,182,0
+Chennai,SpiSathyamCinemasRoyapettahChennai,600014,English,16:15,Budget,66₹,12,12
+Chennai,SpiSathyamCinemasRoyapettahChennai,600014,English,16:15,Elite,211₹,72,0
+Chennai,AgsCinemasVillivakkam,600049,English,16:20,Diamond,165₹,147,34
+Chennai,AgsCinemasVillivakkam,600049,English,16:20,Pearl,65₹,17,17
+Chennai,AgsCinemasOmrNavlur,603103,English,16:30,Diamond,165₹,302,35
+Chennai,AgsCinemasOmrNavlur,603103,English,16:30,Pearl,65₹,34,34
+Chennai,AgsCinemasMaduravoyal,600095,English,16:45,Diamond,165₹,205,0
+Chennai,PvrAmpaMallNelsonManickamRoad,600029,English,16:50,Classic,66₹,17,0
+Chennai,PvrAmpaMallNelsonManickamRoad,600029,English,16:50,Prime,211₹,116,0
+Chennai,PvrVrChennaiAnnaNagar,600040,English,17:15,Classic,66₹,16,0
+Chennai,PvrVrChennaiAnnaNagar,600040,English,17:15,Prime,211₹,110,14
