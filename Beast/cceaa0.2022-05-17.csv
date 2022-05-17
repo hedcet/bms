@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Salem,ArrsMultiplexSalem,636701,Tamil,11:00,FirstClass,150₹,197,17
+Salem,ArrsMultiplexSalem,636701,Tamil,11:00,SecondClass,120₹,158,0
+Salem,ArrsMultiplexSalem,636701,Tamil,14:30,FirstClass,150₹,197,0
+Salem,ArrsMultiplexSalem,636701,Tamil,14:30,SecondClass,120₹,158,0
+Pondicherry,PvrTheCinemaProvidencePondicherry,605001,Tamil,14:45,Elite,150₹,167,31
+Pondicherry,PvrTheCinemaProvidencePondicherry,605001,Tamil,14:45,Premium,110₹,62,0
+Chennai,PvrVrChennaiAnnaNagar,600040,Tamil,15:25,Classic,60₹,34,0
+Chennai,PvrVrChennaiAnnaNagar,600040,Tamil,15:25,Prime,190₹,142,18
+Chennai,PvrSklsGalaxyMallRedHillsChennai,600052,Tamil,15:40,Classic,60₹,16,13
+Chennai,PvrSklsGalaxyMallRedHillsChennai,600052,Tamil,15:40,Prime,165₹,81,10
+Chennai,SpiPalazzoTheForumVijayaMallVadapalani,600026,Tamil,19:00,Budget,60₹,28,0
+Chennai,SpiPalazzoTheForumVijayaMallVadapalani,600026,Tamil,19:00,Elite,190₹,170,0
