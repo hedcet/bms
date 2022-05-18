@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Anchal,VarshaTheatreAnchal,691306,Malayalam,18:15,FamilyCircle,129₹,137,0
+Anchal,VarshaTheatreAnchal,691306,Malayalam,18:15,GeneralCircle,129₹,332,0
+Chennai,PvrVrChennaiAnnaNagar,600040,Malayalam,18:30,Classic,63₹,24,0
+Chennai,PvrVrChennaiAnnaNagar,600040,Malayalam,18:30,Prime,202₹,112,15
