@@ -1,0 +1,17 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Amravati,FunCinemasPrabhatCineplexAmravati,444602,Marathi,12:15,Diamond,150₹,139,0
+Amravati,FunCinemasPrabhatCineplexAmravati,444602,Marathi,12:15,Gold,100₹,347,0
+Amravati,FunCinemasPrabhatCineplexAmravati,444602,Marathi,15:15,Diamond,150₹,139,0
+Amravati,FunCinemasPrabhatCineplexAmravati,444602,Marathi,15:15,Gold,100₹,347,0
+Amravati,PrabhatTalkiesAmravati,444602,Marathi,15:15,Diamond,150₹,139,0
+Amravati,PrabhatTalkiesAmravati,444602,Marathi,15:15,Gold,100₹,347,0
+Yavatmal,FunCinemasSarojTalkiesYavatmal,445001,Marathi,15:15,Balcony,100₹,158,0
+Yavatmal,FunCinemasSarojTalkiesYavatmal,445001,Marathi,15:15,UpperClass,70₹,129,0
+Yavatmal,FunCinemasSarojTalkiesYavatmal,445001,Marathi,15:15,LowerClass,70₹,397,0
+Amravati,PrabhatTalkiesAmravati,444602,Marathi,18:15,Diamond,150₹,139,0
+Amravati,PrabhatTalkiesAmravati,444602,Marathi,18:15,Gold,100₹,347,100
+Akola,NewRegalCinemaAkola,444001,Marathi,18:15,Balcony,100₹,145,0
+Akola,NewRegalCinemaAkola,444001,Marathi,18:15,ReserveClass,60₹,343,0
+Kolhapur,RoyalCinemaKolhapur,416002,Marathi,18:30,Balcony,80₹,75,0
+Kolhapur,RoyalCinemaKolhapur,416002,Marathi,18:30,DressCircle,70₹,85,0
+Kolhapur,RoyalCinemaKolhapur,416002,Marathi,18:30,Stall,60₹,85,0
