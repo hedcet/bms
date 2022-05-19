@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+NationalCapitalRegionNcr,PvrVegasDwarka,110078,English,13:15,Classic,235₹,36,2
+NationalCapitalRegionNcr,PvrVegasDwarka,110078,English,13:15,Prime,250₹,21,4
+NationalCapitalRegionNcr,PvrVegasDwarka,110078,English,13:15,Recliner,275₹,8,4
+NationalCapitalRegionNcr,PvrLogixNoida,201301,English,14:10,Classic,275₹,49,26
+Mumbai,MetroInoxCinemasMarineLines,400020,English,14:50,Kiddles,250₹,45,29
+Hyderabad,PvrNextGalleriaMallPanjagutta,500082,English,16:25,Classic,200₹,54,47
+NationalCapitalRegionNcr,PvrAmbienceGoldGurgaon,122001,English,16:40,Platinum,500₹,28,0
+NationalCapitalRegionNcr,PvrAmbienceGoldGurgaon,122001,English,16:40,PlatinumSuperior,500₹,16,12
