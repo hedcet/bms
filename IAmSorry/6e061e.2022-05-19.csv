@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Mumbai,MovietimeCubicMallChembur,400074,Marathi,15:15,Silver,150₹,84,9
+Pune,LaxmiCineplexNarayangaon,410504,Marathi,18:00,Gold,99₹,75,0
+Nanded,LibertyCinemaNanded,431604,Marathi,18:00,Gold,60₹,321,0
+Nanded,LibertyCinemaNanded,431604,Marathi,18:00,Silver,60₹,321,0
+Khed,CityPrideAnnand,415709,Marathi,18:30,Gold,120₹,238,0
+Khed,CityPrideAnnand,415709,Marathi,18:30,Silver,100₹,82,0
+Pune,AshokTheatrePimpri,411017,Marathi,21:15,Balcony,100₹,225,0
+Pune,AshokTheatrePimpri,411017,Marathi,21:15,Reserved,80₹,459,0
