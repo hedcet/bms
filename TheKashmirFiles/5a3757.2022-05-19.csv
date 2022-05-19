@@ -1,0 +1,14 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+NationalCapitalRegionNcr,DhishoomCinemasMallFiftyOneGurgaon,122018,Hindi,13:20,Platinum,276₹,35,0
+NationalCapitalRegionNcr,DhishoomCinemasMallFiftyOneGurgaon,122018,Hindi,13:20,PlatinumSuperior,276₹,15,0
+Khachrod,AshokTalkiesKhachrod,456224,Hindi,15:00,Gold,100₹,14,0
+Khachrod,AshokTalkiesKhachrod,456224,Hindi,15:00,Silver,60₹,14,0
+Mumbai,MetroInoxCinemasMarineLines,400020,Hindi,16:00,Insignia,600₹,47,6
+NationalCapitalRegionNcr,DhishoomCinemasMallFiftyOneGurugram,122018,Hindi,16:30,Platinum,276₹,35,0
+NationalCapitalRegionNcr,DhishoomCinemasMallFiftyOneGurugram,122018,Hindi,16:30,PlatinumSuperior,276₹,15,0
+Khachrod,AshokTalkiesKhachrod,456224,Hindi,18:00,Gold,100₹,14,0
+Khachrod,AshokTalkiesKhachrod,456224,Hindi,18:00,Silver,60₹,14,0
+Patna,KrishnaTalkiesPatna,800008,Hindi,20:00,DressCircle,100₹,35,0
+Patna,KrishnaTalkiesPatna,800008,Hindi,20:00,RearStall,70₹,74,0
+Khachrod,AshokTalkiesKhachrod,456224,Hindi,21:00,Gold,100₹,14,0
+Khachrod,AshokTalkiesKhachrod,456224,Hindi,21:00,Silver,60₹,14,0
