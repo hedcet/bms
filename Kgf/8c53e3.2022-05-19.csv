@@ -1,0 +1,4 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Chirala,SangamTheatreChirala,523157,Telugu,14:30,FirstClass,110₹,100,3
+Chirala,SangamTheatreChirala,523157,Telugu,18:30,FirstClass,110₹,100,0
+Chirala,SangamTheatreChirala,523157,Telugu,21:45,FirstClass,110₹,100,0
