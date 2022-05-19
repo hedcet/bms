@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Jamkhed,ShriGorobaKumbharChitraMandirCinemaJamkhed,413201,Marathi,15:00,Diamond,130₹,140,6
+Jamkhed,ShriGorobaKumbharChitraMandirCinemaJamkhed,413201,Marathi,15:00,Golden,100₹,202,0
+Beed,CarnivalAshaCineplexBeed,431122,Marathi,18:15,Deluxe,150₹,92,0
+Beed,CarnivalAshaCineplexBeed,431122,Marathi,18:15,Economy,130₹,112,0
