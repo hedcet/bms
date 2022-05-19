@@ -1,0 +1,7 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kolkata,NandanKolkata,700020,Bengali,14:00,FrontStall,30₹,111,15
+Kolkata,NandanKolkata,700020,Bengali,14:00,RearStall,50₹,451,55
+Kolkata,NandanKolkata,700020,Bengali,14:00,Balcony,70₹,369,44
+Kolkata,PvrDiamondPlazaJessoreKolkata,700055,Bengali,14:10,Classic,140₹,100,36
+Kolkata,PvrDiamondPlazaJessoreKolkata,700055,Bengali,14:10,Prime,200₹,11,9
+Kolkata,PvrDiamondPlazaJessoreKolkata,700055,Bengali,14:10,Recliner,360₹,12,0
