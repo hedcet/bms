@@ -1,0 +1,7 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,SharadaCinemasACSPRoad,560002,Kannada,16:30,Gold,150₹,159,36
+Bengaluru,SharadaCinemasACSPRoad,560002,Kannada,16:30,Silver,120₹,315,72
+Bengaluru,SharadaCinemasACSPRoad,560002,Kannada,19:30,Gold,150₹,159,36
+Bengaluru,SharadaCinemasACSPRoad,560002,Kannada,19:30,Silver,120₹,315,72
+Bengaluru,PvrTheCinemaGtWorldBengaluru,560023,Kannada,21:50,Classic,170₹,179,40
+Bengaluru,PvrTheCinemaGtWorldBengaluru,560023,Kannada,21:50,Recliner,280₹,16,6
