@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Ooty,TheAssemblyRoomsOoty,643001,Tamil,14:30,LeftBox,100₹,10,0
+Ooty,TheAssemblyRoomsOoty,643001,Tamil,14:30,RightBox,100₹,10,2
+Ooty,TheAssemblyRoomsOoty,643001,Tamil,14:30,FirstClass,80₹,120,7
+Ooty,TheAssemblyRoomsOoty,643001,Tamil,14:30,SecondClass,80₹,204,2
+Ooty,TheAssemblyRoomsOoty,643001,Tamil,18:00,LeftBox,100₹,10,0
+Ooty,TheAssemblyRoomsOoty,643001,Tamil,18:00,RightBox,100₹,10,0
+Ooty,TheAssemblyRoomsOoty,643001,Tamil,18:00,FirstClass,80₹,120,0
+Ooty,TheAssemblyRoomsOoty,643001,Tamil,18:00,SecondClass,80₹,204,0
