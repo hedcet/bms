@@ -1,0 +1,6 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,19:00,Classic,236₹,128,48
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,19:00,Prime,236₹,100,80
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,19:00,Recliner,500₹,17,8
+MysuruMysore,DrcCinemasBmHabitatMall,570012,Kannada,19:30,Premium,180₹,182,0
+MysuruMysore,DrcCinemasBmHabitatMall,570012,Kannada,19:30,Luxury,200₹,18,2
