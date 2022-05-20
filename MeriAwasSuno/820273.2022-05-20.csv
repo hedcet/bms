@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Trivandrum,CarnivalGreenfieldTrivandrum,695581,Malayalam,11:15,ExecutiveOffline,140₹,132,16
+Kochi,PvrLuluKochi,682024,Malayalam,13:30,Classic,140₹,54,0
+Kochi,PvrLuluKochi,682024,Malayalam,13:30,ClassicPlus,160₹,108,7
+Kochi,PvrLuluKochi,682024,Malayalam,13:30,Prime,190₹,125,18
+Kochi,PvrLuluKochi,682024,Malayalam,13:30,Recliner,350₹,14,0
+Kochi,AashirvadCineplexxPerumbavoor,683549,Malayalam,14:00,Platinum,155₹,11,11
+Kochi,AashirvadCineplexxPerumbavoor,683549,Malayalam,14:00,Gold,129₹,155,0
+Thrissur,InoxSobhaCityMall,680553,Malayalam,16:20,RoyalRecliner,350₹,10,4
+Thrissur,InoxSobhaCityMall,680553,Malayalam,16:20,Club,190₹,155,0
+Thrissur,InoxSobhaCityMall,680553,Malayalam,16:20,Royal,190₹,32,14
+Thrissur,InoxSobhaCityMall,680553,Malayalam,16:20,Executive,130₹,26,0
+Trivandrum,CarnivalMallOfTravancoreRedCarpet,695024,Malayalam,22:15,PremiumLounge,300₹,65,12
