@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,NavrangTheatreRajajiNagar,560021,Kannada,10:15,Balcony,150₹,256,5
+Bengaluru,NavrangTheatreRajajiNagar,560021,Kannada,10:15,Second,110₹,475,0
+MysuruMysore,MysuruVisionCinemasBehindGrsFantasyPark,570016,Kannada,10:30,Premier,150₹,206,0
+MysuruMysore,DrcCinemasBmHabitatMall,570012,Kannada,10:45,Premium,150₹,182,8
+MysuruMysore,DrcCinemasBmHabitatMall,570012,Kannada,10:45,Luxury,200₹,19,0
+Bengaluru,GopalanMallSirsiCircle,560026,Kannada,11:40,Gold,236₹,265,4
+Bengaluru,CinepolisBinnypetMall,560023,Kannada,18:35,Executive,180₹,65,0
+Bengaluru,CinepolisBinnypetMall,560023,Kannada,18:35,Premium,180₹,29,0
