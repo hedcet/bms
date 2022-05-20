@@ -1,0 +1,6 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Mumbai,CinepolisVivianaMallThane,400606,Marathi,16:10,Normal,200₹,27,0
+Mumbai,CinepolisVivianaMallThane,400606,Marathi,16:10,Executive,220₹,104,1
+Mumbai,CinepolisVivianaMallThane,400606,Marathi,16:10,Premium,240₹,46,16
+Pune,CityPrideKothrud,411038,Marathi,17:45,RoyalGold,230₹,149,73
+Pune,CityPrideKothrud,411038,Marathi,17:45,RoyalSilver,200₹,22,0
