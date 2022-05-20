@@ -1,0 +1,12 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Anand,ShaanCinema9ScreenMultiplexAnand,388120,Hindi,12:30,Recliner,350₹,13,0
+Anand,ShaanCinema9ScreenMultiplexAnand,388120,Hindi,12:30,Sofa,250₹,28,0
+Anand,ShaanCinema9ScreenMultiplexAnand,388120,Hindi,12:30,Platinum,130₹,66,0
+Anand,ShaanCinema9ScreenMultiplexAnand,388120,Hindi,12:30,Gold,110₹,45,0
+Gandhidham,VinayCinemaAdipur,370205,Hindi,17:46,Platinum,150₹,51,16
+Gandhidham,VinayCinemaAdipur,370205,Hindi,17:46,Diamond,130₹,108,8
+Gandhidham,VinayCinemaAdipur,370205,Hindi,17:46,Gold,100₹,77,0
+Gandhidham,VinayCinemaAdipur,370205,Hindi,17:46,Silver,100₹,41,0
+Anand,InfinityCinemasAnand,388001,Hindi,19:30,Recliner,250₹,19,0
+Anand,InfinityCinemasAnand,388001,Hindi,19:30,Platinum,150₹,50,0
+Anand,InfinityCinemasAnand,388001,Hindi,19:30,Gold,110₹,60,0
