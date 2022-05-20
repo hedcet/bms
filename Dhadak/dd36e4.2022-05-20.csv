@@ -1,0 +1,17 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,PvrTheForumMallKoramangala,560095,Hindi,09:20,Classic,200₹,147,0
+Bengaluru,PvrTheForumMallKoramangala,560095,Hindi,09:20,Recliner,350₹,12,0
+Satna,ImusicaEntertainmentsSatna,485001,Hindi,10:00,Gold,90₹,38,0
+Satna,ImusicaEntertainmentsSatna,485001,Hindi,10:00,RedCarpet,110₹,112,0
+Satna,ImusicaEntertainmentsSatna,485001,Hindi,10:00,Royal,250₹,11,0
+Satna,ImusicaEntertainmentsSatna,485001,Hindi,12:00,Gold,110₹,42,2
+Satna,ImusicaEntertainmentsSatna,485001,Hindi,12:00,RedCarpet,140₹,98,0
+Satna,ImusicaEntertainmentsSatna,485001,Hindi,12:00,Royal,280₹,8,0
+Satna,ImusicaEntertainmentsSatna,485001,Hindi,14:30,Gold,140₹,42,0
+Satna,ImusicaEntertainmentsSatna,485001,Hindi,14:30,RedCarpet,170₹,98,0
+Satna,ImusicaEntertainmentsSatna,485001,Hindi,14:30,Royal,300₹,8,0
+Satna,ImusicaEntertainmentsSatna,485001,Hindi,19:45,Gold,140₹,42,0
+Satna,ImusicaEntertainmentsSatna,485001,Hindi,19:45,RedCarpet,170₹,98,0
+Satna,ImusicaEntertainmentsSatna,485001,Hindi,19:45,Royal,300₹,8,0
+Bengaluru,PvrTheForumMallKoramangala,560095,Hindi,22:00,Classic,236₹,177,22
+Bengaluru,PvrTheForumMallKoramangala,560095,Hindi,22:00,Lounger,236₹,11,0
