@@ -1,0 +1,6 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Ludhiana,CineSquareCinemasRoyaltonCityDoraha,141421,Punjabi,16:30,RoyalClass,190₹,42,0
+Amritsar,InoxVrAmbarsarAmritsar,143001,Punjabi,17:25,Normal,170₹,165,12
+Amritsar,CinepolisMallOfAmritsar,143006,Punjabi,17:30,Normal,200₹,39,0
+Amritsar,CinepolisMallOfAmritsar,143006,Punjabi,17:30,Executive,210₹,52,19
+Amritsar,CinepolisMallOfAmritsar,143006,Punjabi,17:30,Vip,350₹,11,0
