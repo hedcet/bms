@@ -1,0 +1,10 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+MangaluruMangalore,BharathCinemasMangalore,575013,Kannada,11:00,Gold,200₹,38,0
+MangaluruMangalore,BharathCinemasMangalore,575013,Kannada,11:00,Silver,180₹,20,0
+MangaluruMangalore,BharathCinemasMangalore,575013,Kannada,11:00,Special,150₹,7,0
+Kundapura,BharathCinemasKundapura,576222,Kannada,16:15,Gold,112₹,40,4
+Kundapura,BharathCinemasKundapura,576222,Kannada,16:15,Silver,112₹,41,0
+Kundapura,BharathCinemasKundapura,576222,Kannada,16:15,Special,112₹,48,0
+Manipal,BharathCinemasManipal,576104,Kannada,16:30,Vip,112₹,12,10
+Manipal,BharathCinemasManipal,576104,Kannada,16:30,Gold,112₹,56,20
+Manipal,BharathCinemasManipal,576104,Kannada,16:30,Silver,112₹,66,0
