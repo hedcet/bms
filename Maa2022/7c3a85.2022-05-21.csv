@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Amritsar,PvrSctAmritsar,143001,Punjabi,14:30,Classic,190₹,103,0
+Amritsar,PvrSctAmritsar,143001,Punjabi,14:30,Prime,200₹,45,0
+Amritsar,PvrSctAmritsar,143001,Punjabi,14:30,Recliner,400₹,11,0
+Chandigarh,PvrVrPunjabMallMohali,140301,Punjabi,17:10,Classic,290₹,84,8
+Chandigarh,PvrVrPunjabMallMohali,140301,Punjabi,17:10,Prime,320₹,38,5
+Amritsar,CinepolisMallOfAmritsar,143006,Punjabi,17:30,Normal,200₹,39,0
+Amritsar,CinepolisMallOfAmritsar,143006,Punjabi,17:30,Executive,210₹,52,13
+Amritsar,CinepolisMallOfAmritsar,143006,Punjabi,17:30,Vip,350₹,11,0
