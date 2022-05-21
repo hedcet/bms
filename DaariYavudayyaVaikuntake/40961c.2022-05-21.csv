@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,10:00,Classic,150₹,220,0
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,10:00,Prime,190₹,104,0
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,10:00,Recliner,350₹,27,0
+Bengaluru,InoxMantriSquareMalleshwaram,560052,Kannada,10:45,Club,170₹,225,16
+Bengaluru,BalajiDigital2KCinemaTavarekere,560081,Kannada,13:00,DiamondClass,150₹,163,0
+Bengaluru,BalajiDigital2KCinemaTavarekere,560081,Kannada,13:00,GoldClass,120₹,262,0
+Bengaluru,GopalanMallSirsiCircle,560026,Kannada,16:15,Gold,236₹,179,0
+Bengaluru,GopalanMallSirsiCircle,560026,Kannada,16:15,Recliner,400₹,18,0
