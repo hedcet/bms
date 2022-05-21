@@ -1,0 +1,16 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Aurangabad,MohanNovaCinemazAurangabad,431001,Marathi,11:45,Platinum,120₹,58,0
+Aurangabad,MohanNovaCinemazAurangabad,431001,Marathi,11:45,Gold,120₹,57,0
+Aurangabad,MohanNovaCinemazAurangabad,431001,Marathi,11:45,Silver,120₹,56,0
+Aurangabad,KhinvasaraCineplexApsaraCinemaAurangabad,431001,Marathi,12:00,Diamond,150₹,140,0
+Nanded,LibertyCinemaNanded,431604,Marathi,12:00,Gold,60₹,323,0
+Nanded,LibertyCinemaNanded,431604,Marathi,12:00,Silver,60₹,323,0
+Pune,AbhiruchiCityPrideSinhagadRoad,411041,Marathi,12:15,RoyalSofa,200₹,12,1
+Pune,AbhiruchiCityPrideSinhagadRoad,411041,Marathi,12:15,RoyalGold,180₹,123,24
+Pune,AbhiruchiCityPrideSinhagadRoad,411041,Marathi,12:15,RoyalSilver,160₹,30,0
+Pune,InoxElproCitySquareChinchwad,411033,Marathi,12:20,Royale,210₹,53,8
+Pune,InoxElproCitySquareChinchwad,411033,Marathi,12:20,Club,190₹,78,0
+Pune,InoxElproCitySquareChinchwad,411033,Marathi,12:20,Executive,170₹,26,0
+Satara,7StarCinemaSatara,415001,Marathi,16:00,Gold,250₹,108,0
+Pune,InoxJaiGaneshAkurdi,411035,Marathi,17:15,Silver,220₹,57,11
+Pune,InoxJaiGaneshAkurdi,411035,Marathi,17:15,Premiere,200₹,91,2
