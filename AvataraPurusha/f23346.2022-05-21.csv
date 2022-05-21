@@ -1,0 +1,8 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,PrasannaDigital4KCinemaMagadiRoad,560023,Kannada,13:30,Gold,110₹,249,1
+Bengaluru,PrasannaDigital4KCinemaMagadiRoad,560023,Kannada,13:30,Silver,100₹,670,80
+Bengaluru,PrasannaDigital4KCinemaMagadiRoad,560023,Kannada,16:15,Gold,110₹,319,72
+Bengaluru,PrasannaDigital4KCinemaMagadiRoad,560023,Kannada,16:15,Silver,100₹,748,117
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,21:50,Classic,240₹,128,0
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,21:50,Prime,260₹,80,0
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,21:50,Recliner,470₹,17,0
