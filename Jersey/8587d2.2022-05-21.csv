@@ -1,0 +1,16 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Mumbai,InoxRCityGhatkopar,400086,Hindi,08:55,Insignia,300₹,42,0
+Pune,InoxAmanoraTownCentreHadapsar,411028,Hindi,09:00,Royale,240₹,14,8
+Pune,InoxAmanoraTownCentreHadapsar,411028,Hindi,09:00,Club,150₹,240,9
+Pune,InoxAmanoraTownCentreHadapsar,411028,Hindi,09:00,Executive,150₹,32,0
+Mumbai,MetroInoxCinemasMarineLines,400020,Hindi,09:45,Insignia,300₹,47,5
+Mumbai,InoxMegaplexInorbitMallMalad,400064,Hindi,10:00,Insignia,300₹,34,0
+NationalCapitalRegionNcr,PvrPromenadeVasantKunj,110070,Hindi,11:05,Classic,320₹,50,0
+NationalCapitalRegionNcr,PvrPromenadeVasantKunj,110070,Hindi,11:05,Prime,350₹,34,0
+Mumbai,InoxLaserplexCr2NarimanPoint,400021,Hindi,11:15,Royale,170₹,93,11
+Mumbai,InoxLaserplexCr2NarimanPoint,400021,Hindi,11:15,Club,150₹,160,0
+Indore,InoxTreasureIslandNextMallRegalSquare,452001,Hindi,11:35,Club,112₹,196,12
+Indore,InoxTreasureIslandNextMallRegalSquare,452001,Hindi,11:35,Executive,90₹,42,0
+Lucknow,InoxPhoenixPalassioMallLucknow,226010,Hindi,12:25,Royale,230₹,59,10
+Lucknow,InoxPhoenixPalassioMallLucknow,226010,Hindi,12:25,Club,210₹,54,0
+Lucknow,InoxPhoenixPalassioMallLucknow,226010,Hindi,12:25,Executive,200₹,20,0
