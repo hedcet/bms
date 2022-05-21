@@ -1,0 +1,6 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+NationalCapitalRegionNcr,InoxWorldMarkGurugram,122001,English,12:00,RoyalRecliner,550₹,10,0
+NationalCapitalRegionNcr,InoxWorldMarkGurugram,122001,English,12:00,Royal,300₹,64,13
+NationalCapitalRegionNcr,InoxWorldMarkGurugram,122001,English,12:00,Club,280₹,65,0
+NationalCapitalRegionNcr,InoxWorldMarkGurugram,122001,English,12:00,Executive,260₹,26,0
+NationalCapitalRegionNcr,PvrLogixNoida,201301,English,21:55,Classic,350₹,78,0
