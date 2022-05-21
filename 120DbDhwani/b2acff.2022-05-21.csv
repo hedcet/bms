@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Narsipatnam,PvrSreeKanyaNarsipatnam,531116,Telugu,12:10,Classic,60₹,42,0
+Narsipatnam,PvrSreeKanyaNarsipatnam,531116,Telugu,12:10,ClassicPlus,150₹,252,21
+Hyderabad,PvrForumSujanaMallKukatpallyHyderabad,500072,Telugu,17:35,Classic,150₹,135,30
+Hyderabad,PvrForumSujanaMallKukatpallyHyderabad,500072,Telugu,17:35,Recliner,350₹,9,9
