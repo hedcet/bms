@@ -1,0 +1,6 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kochi,PadmaCinemaKochi,682011,Malayalam,15:15,Platinum,150₹,178,16
+Kochi,PvrLuluKochi,682024,Malayalam,16:10,Classic,140₹,39,0
+Kochi,PvrLuluKochi,682024,Malayalam,16:10,ClassicPlus,160₹,91,0
+Kochi,PvrLuluKochi,682024,Malayalam,16:10,Prime,190₹,64,16
+Kochi,PvrLuluKochi,682024,Malayalam,16:10,Recliner,350₹,9,0
