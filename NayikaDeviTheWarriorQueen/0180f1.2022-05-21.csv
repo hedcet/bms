@@ -1,0 +1,12 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Surat,PvrRahulRajSurat,395007,Gujarati,09:45,Classic,120₹,30,0
+Surat,PvrRahulRajSurat,395007,Gujarati,09:45,ClassicPlus,130₹,30,0
+Surat,PvrRahulRajSurat,395007,Gujarati,09:45,Prime,140₹,87,11
+Surat,PvrRahulRajSurat,395007,Gujarati,09:45,Recliner,280₹,24,5
+Ahmedabad,AbMiniplexShivranjiniCrossRoadSatellite,380013,Gujarati,11:50,Sofa,130₹,12,0
+Ahmedabad,AbMiniplexShivranjiniCrossRoadSatellite,380013,Gujarati,11:50,ReclinerBed,160₹,6,0
+Ahmedabad,MirajCityPulseAhmedabad,380001,Gujarati,14:15,Gold,180₹,24,0
+Ahmedabad,RajhansCinemasVastral,382418,Gujarati,17:30,Executive,210₹,140,12
+Ahmedabad,RajhansCinemasVastral,382418,Gujarati,17:30,Royal,190₹,52,0
+Ahmedabad,RajhansCinemasVastral,382418,Gujarati,17:30,Marvel,170₹,26,0
+Ahmedabad,AbMiniplexShivranjiniCrossRoadSatellite,380013,Gujarati,20:30,Executive,110₹,54,0
