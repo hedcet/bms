@@ -1,0 +1,14 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,PvrVegaCityBannerghattaRoad,560076,Kannada,14:05,Classic,220₹,118,11
+Bengaluru,PvrTheCinemaGtWorldBengaluru,560023,Kannada,16:05,Classic,180₹,228,18
+Bengaluru,PvrTheCinemaGtWorldBengaluru,560023,Kannada,16:05,Recliner,320₹,12,7
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,16:30,Classic,210₹,128,0
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,16:30,Prime,230₹,100,20
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,16:30,Recliner,400₹,14,0
+Bengaluru,GopalanMallSirsiCircle,560026,Kannada,17:15,Gold,236₹,278,5
+Bengaluru,PvrMsrElementsMallTanisandhraMainRoad,560077,Kannada,21:40,Classic,240₹,96,16
+Bengaluru,PvrMsrElementsMallTanisandhraMainRoad,560077,Kannada,21:40,Prime,260₹,19,0
+Bengaluru,PvrMsrElementsMallTanisandhraMainRoad,560077,Kannada,21:40,Recliner,470₹,11,0
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,21:50,Classic,240₹,140,0
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,21:50,Prime,260₹,120,24
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,21:50,Recliner,470₹,33,9
