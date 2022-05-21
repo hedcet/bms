@@ -1,0 +1,16 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Rahimatpur,PrabhatCinemaRahimatpur,415511,Marathi,12:00,Gold,100₹,150,0
+Sangli,AurumCinemasCentre1MallSangli,416416,Marathi,12:00,Gold,150₹,108,0
+Sangli,AurumCinemasCentre1MallSangli,416416,Marathi,12:00,Silver,120₹,24,0
+Mumbai,MovietimeTheHubGoregaon,400063,Marathi,12:30,Mhraja,150₹,44,6
+Pune,CinepolisSeasonsMallPune,411028,Marathi,12:50,Normal,180₹,29,0
+Pune,CinepolisSeasonsMallPune,411028,Marathi,12:50,Executive,180₹,98,19
+Pune,CinepolisSeasonsMallPune,411028,Marathi,12:50,Premium,200₹,34,0
+Pune,CinepolisWestendMallAundhPune,411007,Marathi,13:50,Normal,200₹,21,2
+Pune,CinepolisWestendMallAundhPune,411007,Marathi,13:50,Executive,200₹,73,11
+Pune,CinepolisWestendMallAundhPune,411007,Marathi,13:50,Premium,200₹,36,1
+Pune,CityPrideKothrud,411038,Marathi,14:00,RoyalGold,230₹,149,0
+Pune,CityPrideKothrud,411038,Marathi,14:00,RoyalSilver,200₹,22,0
+Pune,AbhiruchiCityPrideSinhagadRoad,411041,Marathi,20:15,RoyalSofa,250₹,12,0
+Pune,AbhiruchiCityPrideSinhagadRoad,411041,Marathi,20:15,RoyalGold,230₹,123,4
+Pune,AbhiruchiCityPrideSinhagadRoad,411041,Marathi,20:15,RoyalSilver,200₹,30,0
