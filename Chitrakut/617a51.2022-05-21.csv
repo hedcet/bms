@@ -1,0 +1,17 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Mumbai,MovietimeTheHubGoregaon,400063,Hindi,10:00,Mhraja,130₹,44,8
+Pune,PvrPhoenixMarketCityPune,411014,Hindi,10:30,Classic,150₹,52,0
+Pune,PvrPhoenixMarketCityPune,411014,Hindi,10:30,Prime,150₹,119,16
+Pune,PvrPhoenixMarketCityPune,411014,Hindi,10:30,PrimePlus,220₹,10,4
+Bengaluru,InoxGarudaMallMagrathRoad,560025,Hindi,12:40,RoyaleRecliners,380₹,9,0
+Bengaluru,InoxGarudaMallMagrathRoad,560025,Hindi,12:40,Club,230₹,60,0
+Bengaluru,InoxGarudaMallMagrathRoad,560025,Hindi,12:40,Executive,220₹,90,0
+Surat,PvrRahulRajSurat,395007,Hindi,12:45,Classic,130₹,30,0
+Surat,PvrRahulRajSurat,395007,Hindi,12:45,ClassicPlus,140₹,30,0
+Surat,PvrRahulRajSurat,395007,Hindi,12:45,Prime,150₹,87,11
+Surat,PvrRahulRajSurat,395007,Hindi,12:45,Recliner,320₹,24,5
+Mumbai,InoxMegaplexInorbitMallMalad,400064,Hindi,13:20,Insignia,450₹,38,6
+Hyderabad,PvrNextGalleriaMallPanjagutta,500082,Hindi,14:10,Classic,200₹,144,12
+Lucknow,InoxCrownMallLucknow,226028,Hindi,19:45,Club,190₹,52,0
+Lucknow,InoxCrownMallLucknow,226028,Hindi,19:45,Royale,190₹,48,0
+Lucknow,InoxCrownMallLucknow,226028,Hindi,19:45,Executive,150₹,24,0
