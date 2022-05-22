@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kochi,PvrOberonMallKochi,682024,Malayalam,10:20,Classic,120₹,36,0
+Kochi,PvrOberonMallKochi,682024,Malayalam,10:20,ClassicPlus,140₹,81,16
+Trivandrum,JvCinemasKattakkada,695572,Malayalam,11:30,Daimond,270₹,12,0
+Trivandrum,JvCinemasKattakkada,695572,Malayalam,11:30,Platinum,130₹,156,0
+Kochi,PvrLuluKochi,682024,Malayalam,13:50,Classic,140₹,39,0
+Kochi,PvrLuluKochi,682024,Malayalam,13:50,ClassicPlus,160₹,91,0
+Kochi,PvrLuluKochi,682024,Malayalam,13:50,Prime,190₹,68,17
+Kochi,PvrLuluKochi,682024,Malayalam,13:50,Recliner,350₹,10,0
+Trivandrum,JvCinemasKattakkada,695572,Malayalam,14:30,Daimond,270₹,12,0
+Trivandrum,JvCinemasKattakkada,695572,Malayalam,14:30,Platinum,130₹,156,0
+Trivandrum,JvCinemasKattakkada,695572,Malayalam,18:30,Daimond,270₹,12,0
+Trivandrum,JvCinemasKattakkada,695572,Malayalam,18:30,Platinum,130₹,156,0
