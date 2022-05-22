@@ -1,0 +1,16 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kochi,PvrLuluKochi,682024,Malayalam,10:05,Classic,110₹,54,0
+Kochi,PvrLuluKochi,682024,Malayalam,10:05,ClassicPlus,140₹,108,1
+Kochi,PvrLuluKochi,682024,Malayalam,10:05,Prime,160₹,125,21
+Kochi,PvrLuluKochi,682024,Malayalam,10:05,Recliner,290₹,14,0
+Kochi,PvrOberonMallKochi,682024,Malayalam,13:40,Classic,120₹,36,0
+Kochi,PvrOberonMallKochi,682024,Malayalam,13:40,ClassicPlus,150₹,141,18
+Bengaluru,PvrGoldVegaCityBannerghattaRoad,560076,Malayalam,18:05,Gold,750₹,22,0
+Bengaluru,PvrGoldVegaCityBannerghattaRoad,560076,Malayalam,18:05,GoldPrime,850₹,8,0
+Kochi,PvrLuluKochi,682024,Malayalam,18:55,Classic,140₹,54,0
+Kochi,PvrLuluKochi,682024,Malayalam,18:55,ClassicPlus,160₹,108,1
+Kochi,PvrLuluKochi,682024,Malayalam,18:55,Prime,190₹,125,16
+Kochi,PvrLuluKochi,682024,Malayalam,18:55,Recliner,350₹,14,0
+Kollam,PranavamCinemasACDts4KKollam,691001,Malayalam,21:15,UpperCircle,150₹,187,0
+Trivandrum,NewTheatre4KRgbLaserDolbyAtmosTrivandrum,695001,Malayalam,21:30,RoyalCircle,250₹,100,9
+Trivandrum,NewTheatre4KRgbLaserDolbyAtmosTrivandrum,695001,Malayalam,21:30,FamilyCircle,150₹,349,0
