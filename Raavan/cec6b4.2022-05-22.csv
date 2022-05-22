@@ -1,0 +1,14 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kolkata,PrachiCinemaKolkata,700014,Bengali,12:30,Balcony,150₹,50,0
+Kolkata,PrachiCinemaKolkata,700014,Bengali,12:30,FrontStall,100₹,63,0
+Krishnanagar,SangeetaTalkiesKrishnanagar,741101,Bengali,13:00,Balcony,50₹,33,0
+Krishnanagar,SangeetaTalkiesKrishnanagar,741101,Bengali,13:00,FirstClass,30₹,30,0
+AurangabadWestBengal,ShyamalTalkiesAurangabadWB,742201,Bengali,14:00,Balcony,50₹,10,0
+AurangabadWestBengal,ShyamalTalkiesAurangabadWB,742201,Bengali,14:00,RearStall,30₹,10,0
+DakshinBarasat,MahamayaTalkiesDakshinBarasat,743372,Bengali,16:00,GoldClass,100₹,89,0
+DakshinBarasat,MahamayaTalkiesDakshinBarasat,743372,Bengali,16:00,SilverClass,70₹,312,0
+Kolkata,PvrDiamondPlazaJessoreKolkata,700055,Bengali,16:35,Classic,220₹,100,20
+Kolkata,PvrDiamondPlazaJessoreKolkata,700055,Bengali,16:35,Prime,260₹,11,1
+Kolkata,PvrDiamondPlazaJessoreKolkata,700055,Bengali,16:35,Recliner,430₹,12,3
+AurangabadWestBengal,ShyamalTalkiesAurangabadWB,742201,Bengali,20:00,Balcony,50₹,10,0
+AurangabadWestBengal,ShyamalTalkiesAurangabadWB,742201,Bengali,20:00,RearStall,30₹,10,0
