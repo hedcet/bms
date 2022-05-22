@@ -1,0 +1,15 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kashipur,SuncityCinemaKashipur,244713,Hindi,11:40,Platinum,200₹,16,0
+Kashipur,SuncityCinemaKashipur,244713,Hindi,11:40,Gold,150₹,52,0
+Kashipur,SuncityCinemaKashipur,244713,Hindi,11:40,Silver,100₹,115,0
+Mumbai,G7MultiplexBandraW,400050,Hindi,12:45,Special,170₹,38,10
+Mumbai,G7MultiplexBandraW,400050,Hindi,12:45,DressCircle,170₹,9,0
+Kashipur,SuncityCinemaKashipur,244713,Hindi,14:20,Platinum,200₹,16,0
+Kashipur,SuncityCinemaKashipur,244713,Hindi,14:20,Gold,150₹,52,0
+Kashipur,SuncityCinemaKashipur,244713,Hindi,14:20,Silver,100₹,115,0
+Kashipur,SuncityCinemaKashipur,244713,Hindi,17:00,Platinum,200₹,16,0
+Kashipur,SuncityCinemaKashipur,244713,Hindi,17:00,Gold,150₹,52,0
+Kashipur,SuncityCinemaKashipur,244713,Hindi,17:00,Silver,100₹,115,0
+Kashipur,SuncityCinemaKashipur,244713,Hindi,19:40,Platinum,200₹,16,0
+Kashipur,SuncityCinemaKashipur,244713,Hindi,19:40,Gold,150₹,52,0
+Kashipur,SuncityCinemaKashipur,244713,Hindi,19:40,Silver,100₹,115,0
