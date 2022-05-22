@@ -1,0 +1,8 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,PvrTheCinemaGtWorldBengaluru,560023,Kannada,09:45,Classic,170₹,164,0
+Bengaluru,PvrTheCinemaGtWorldBengaluru,560023,Kannada,09:45,Recliner,300₹,10,0
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,10:25,Classic,170₹,180,30
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,10:25,Prime,190₹,96,0
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,10:25,Recliner,350₹,27,0
+VijayapuraBijapur,AmirTalkiesVijayapuraBijapur,586101,Kannada,12:00,Balcony,150₹,96,0
+VijayapuraBijapur,AmirTalkiesVijayapuraBijapur,586101,Kannada,12:00,InterClass,100₹,555,0
