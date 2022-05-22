@@ -1,0 +1,7 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Hyderabad,AsianCineSquareMultiplexUppal,500039,Telugu,13:50,Sofa,250₹,2,2
+Hyderabad,AsianCineSquareMultiplexUppal,500039,Telugu,13:50,Gold,200₹,144,35
+Hyderabad,AsianMuktaCinemasA2MjrSquareNarapally,500088,Telugu,16:50,Recliners,250₹,24,0
+Hyderabad,AsianMuktaCinemasA2MjrSquareNarapally,500088,Telugu,16:50,Couples,250₹,40,0
+Hyderabad,AsianMuktaCinemasA2MjrSquareNarapally,500088,Telugu,16:50,Gold,200₹,370,112
+Hyderabad,AsianMuktaCinemasA2MjrSquareNarapally,500088,Telugu,16:50,Loungers,200₹,13,0
