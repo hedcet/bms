@@ -1,0 +1,17 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+MangaluruMangalore,BharathCinemasMangalore,575013,Tulu,13:15,Recliner,500₹,25,0
+MangaluruMangalore,BharathCinemasMangalore,575013,Tulu,13:15,Gold,200₹,171,0
+MangaluruMangalore,BharathCinemasMangalore,575013,Tulu,13:15,Silver,180₹,146,0
+MangaluruMangalore,BharathCinemasMangalore,575013,Tulu,13:15,Special,150₹,91,0
+MangaluruMangalore,BharathCinemasMangalore,575013,Tulu,16:15,Recliner,500₹,25,0
+MangaluruMangalore,BharathCinemasMangalore,575013,Tulu,16:15,Gold,200₹,171,115
+MangaluruMangalore,BharathCinemasMangalore,575013,Tulu,16:15,Silver,180₹,146,2
+MangaluruMangalore,BharathCinemasMangalore,575013,Tulu,16:15,Special,150₹,91,0
+MangaluruMangalore,BharathCinemasMangalore,575013,Tulu,19:15,Recliner,500₹,25,0
+MangaluruMangalore,BharathCinemasMangalore,575013,Tulu,19:15,Gold,200₹,171,0
+MangaluruMangalore,BharathCinemasMangalore,575013,Tulu,19:15,Silver,180₹,146,0
+MangaluruMangalore,BharathCinemasMangalore,575013,Tulu,19:15,Special,150₹,91,0
+MangaluruMangalore,BharathCinemasMangalore,575013,Tulu,22:00,Recliner,500₹,25,0
+MangaluruMangalore,BharathCinemasMangalore,575013,Tulu,22:00,Gold,200₹,171,0
+MangaluruMangalore,BharathCinemasMangalore,575013,Tulu,22:00,Silver,180₹,146,0
+MangaluruMangalore,BharathCinemasMangalore,575013,Tulu,22:00,Special,150₹,91,0
