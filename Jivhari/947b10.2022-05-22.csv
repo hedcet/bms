@@ -1,0 +1,15 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Pune,PvrCityOneMallPimpri,411018,Marathi,12:00,Classic,150₹,40,0
+Pune,PvrCityOneMallPimpri,411018,Marathi,12:00,Prime,170₹,125,15
+Pune,PvrCityOneMallPimpri,411018,Marathi,12:00,Recliner,250₹,12,1
+Aurangabad,KhinvasaraCineplexApsaraCinemaAurangabad,431001,Marathi,12:00,Diamond,150₹,140,0
+Nanded,LibertyCinemaNanded,431604,Marathi,12:00,Gold,60₹,323,0
+Nanded,LibertyCinemaNanded,431604,Marathi,12:00,Silver,60₹,323,0
+Pune,AbhiruchiCityPrideSinhagadRoad,411041,Marathi,12:15,RoyalSofa,200₹,12,0
+Pune,AbhiruchiCityPrideSinhagadRoad,411041,Marathi,12:15,RoyalGold,180₹,123,24
+Pune,AbhiruchiCityPrideSinhagadRoad,411041,Marathi,12:15,RoyalSilver,160₹,30,0
+Pune,InoxElproCitySquareChinchwad,411033,Marathi,12:20,Royale,210₹,45,0
+Pune,InoxElproCitySquareChinchwad,411033,Marathi,12:20,Club,190₹,78,0
+Pune,InoxElproCitySquareChinchwad,411033,Marathi,12:20,Executive,170₹,26,0
+Pune,InoxJaiGaneshAkurdi,411035,Marathi,17:15,Silver,220₹,57,11
+Pune,InoxJaiGaneshAkurdi,411035,Marathi,17:15,Premiere,200₹,91,2
