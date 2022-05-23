@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Trivandrum,JvCinemasKattakkada,695572,Malayalam,11:15,Executive,130₹,376,42
+Trivandrum,JvCinemasKattakkada,695572,Malayalam,11:15,Gold,130₹,223,0
+Trivandrum,JvCinemasKattakkada,695572,Malayalam,14:15,Executive,130₹,376,0
+Trivandrum,JvCinemasKattakkada,695572,Malayalam,14:15,Gold,130₹,223,0
+Trivandrum,JvCinemasKattakkada,695572,Malayalam,18:15,Executive,130₹,376,42
+Trivandrum,JvCinemasKattakkada,695572,Malayalam,18:15,Gold,130₹,223,0
+Trivandrum,JvCinemasKattakkada,695572,Malayalam,21:15,Executive,130₹,376,0
+Trivandrum,JvCinemasKattakkada,695572,Malayalam,21:15,Gold,130₹,223,0
