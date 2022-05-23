@@ -1,0 +1,7 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Chennai,SpiEscapeExpressAvenueMallRoyapettah,600014,English,13:00,Budget,66₹,11,11
+Chennai,SpiEscapeExpressAvenueMallRoyapettah,600014,English,13:00,Elite,211₹,99,27
+Chennai,SpiSathyamCinemasRoyapettahChennai,600014,English,16:55,Budget,66₹,12,6
+Chennai,SpiSathyamCinemasRoyapettahChennai,600014,English,16:55,Elite,211₹,72,0
+Chennai,PvrVrChennaiAnnaNagar,600040,English,17:00,Classic,66₹,24,0
+Chennai,PvrVrChennaiAnnaNagar,600040,English,17:00,Prime,211₹,112,12
