@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Trivandrum,StarCinemaVarkkala,695141,Malayalam,11:00,SpecialClass,130₹,236,0
+Chennai,PvrVrChennaiAnnaNagar,600040,Malayalam,15:55,Classic,63₹,16,0
+Chennai,PvrVrChennaiAnnaNagar,600040,Malayalam,15:55,Prime,202₹,110,14
+Trivandrum,StarCinemaVarkkala,695141,Malayalam,18:30,SpecialClass,130₹,236,0
