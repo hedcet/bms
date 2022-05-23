@@ -1,0 +1,7 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,PrasannaDigital4KCinemaMagadiRoad,560023,Kannada,13:30,Gold,110₹,249,1
+Bengaluru,PrasannaDigital4KCinemaMagadiRoad,560023,Kannada,13:30,Silver,100₹,670,80
+Bengaluru,PrasannaDigital4KCinemaMagadiRoad,560023,Kannada,16:15,Gold,110₹,249,0
+Bengaluru,PrasannaDigital4KCinemaMagadiRoad,560023,Kannada,16:15,Silver,100₹,670,0
+Bengaluru,PrasannaDigital4KCinemaMagadiRoad,560023,Kannada,19:00,Gold,110₹,249,1
+Bengaluru,PrasannaDigital4KCinemaMagadiRoad,560023,Kannada,19:00,Silver,100₹,670,80
