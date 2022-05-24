@@ -1,0 +1,11 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kolkata,EloraMultiplexChampahati,743330,Bengali,10:45,Gold,100₹,30,0
+Kolkata,EloraMultiplexChampahati,743330,Bengali,10:45,Silver,70₹,95,0
+Kolkata,PrachiCinemaKolkata,700014,Bengali,12:30,Balcony,150₹,50,0
+Kolkata,PrachiCinemaKolkata,700014,Bengali,12:30,FrontStall,100₹,63,0
+Krishnanagar,SangeetaTalkiesKrishnanagar,741101,Bengali,13:00,Balcony,50₹,33,0
+Krishnanagar,SangeetaTalkiesKrishnanagar,741101,Bengali,13:00,FirstClass,30₹,30,0
+AurangabadWestBengal,ShyamalTalkiesAurangabadWB,742201,Bengali,14:00,Balcony,50₹,10,0
+AurangabadWestBengal,ShyamalTalkiesAurangabadWB,742201,Bengali,14:00,RearStall,30₹,10,0
+Ranaghat,RanaghatTalkiesNadia,741201,Bengali,19:00,1stClass,30₹,720,0
+Ranaghat,RanaghatTalkiesNadia,741201,Bengali,19:00,Balcony,50₹,130,12
