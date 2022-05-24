@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Trivandrum,StarCinemaVarkkala,695141,Malayalam,11:00,SpecialClass,130₹,236,0
+Trivandrum,StarCinemaVarkkala,695141,Malayalam,18:30,SpecialClass,130₹,236,0
+Chennai,SpiEscapeExpressAvenueMallRoyapettah,600014,Malayalam,19:00,Budget,63₹,11,11
+Chennai,SpiEscapeExpressAvenueMallRoyapettah,600014,Malayalam,19:00,Elite,202₹,99,27
