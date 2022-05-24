@@ -1,0 +1,17 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Hyderabad,AnjaliMovieMaxSecunderabad,500003,Telugu,11:15,Balcony,150₹,48,0
+Hyderabad,AnjaliMovieMaxSecunderabad,500003,Telugu,11:15,LowerBalcony,100₹,301,0
+Hyderabad,AnjaliMovieMaxSecunderabad,500003,Telugu,11:15,ThirdClass,50₹,164,0
+Hyderabad,AnjaliMovieMaxSecunderabad,500003,Telugu,14:15,Balcony,150₹,48,0
+Hyderabad,AnjaliMovieMaxSecunderabad,500003,Telugu,14:15,LowerBalcony,100₹,301,0
+Hyderabad,AnjaliMovieMaxSecunderabad,500003,Telugu,14:15,ThirdClass,50₹,164,0
+Guntur,SriSaraswathiPicturePalaceGuntur,522001,Telugu,14:30,FirstClass,110₹,352,0
+Guntur,SriSaraswathiPicturePalaceGuntur,522001,Telugu,14:30,SecondClass,80₹,133,0
+Guntur,SriSaraswathiPicturePalaceGuntur,522001,Telugu,18:00,FirstClass,110₹,352,23
+Guntur,SriSaraswathiPicturePalaceGuntur,522001,Telugu,18:00,SecondClass,80₹,133,0
+Hyderabad,AnjaliMovieMaxSecunderabad,500003,Telugu,18:15,Balcony,150₹,48,0
+Hyderabad,AnjaliMovieMaxSecunderabad,500003,Telugu,18:15,LowerBalcony,100₹,301,0
+Hyderabad,AnjaliMovieMaxSecunderabad,500003,Telugu,18:15,ThirdClass,50₹,164,0
+Hyderabad,AnjaliMovieMaxSecunderabad,500003,Telugu,21:15,Balcony,150₹,48,0
+Hyderabad,AnjaliMovieMaxSecunderabad,500003,Telugu,21:15,LowerBalcony,100₹,301,0
+Hyderabad,AnjaliMovieMaxSecunderabad,500003,Telugu,21:15,ThirdClass,50₹,164,0
