@@ -1,0 +1,6 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Ahmedabad,2NewfangledMiniplexMoteraAhmedabad,380005,Hindi,10:30,CoupleSeat,400₹,11,3
+Chennai,SpiSathyamCinemasRoyapettahChennai,600014,Hindi,19:05,Budget,63₹,12,8
+Chennai,SpiSathyamCinemasRoyapettahChennai,600014,Hindi,19:05,Elite,175₹,72,0
+Chennai,PvrVrChennaiAnnaNagar,600040,Hindi,21:45,Classic,63₹,34,0
+Chennai,PvrVrChennaiAnnaNagar,600040,Hindi,21:45,Prime,202₹,142,18
