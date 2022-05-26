@@ -1,0 +1,11 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Ahmedabad,2NewfangledMiniplexMoteraAhmedabad,380005,Hindi,08:00,CoupleSeat,300₹,11,3
+Ahmedabad,1NewfangledMiniplexMondealRetailPark,380059,Hindi,11:15,CoupleSeat,600₹,20,0
+Jaipur,GolchaCinemaJaipur,302003,Hindi,15:30,RoyalBox,200₹,94,22
+Jaipur,GolchaCinemaJaipur,302003,Hindi,15:30,Excutive,150₹,160,24
+Ahmedabad,1NewfangledMiniplexMondealRetailPark,380059,Hindi,17:45,CoupleSeat,600₹,20,0
+Anand,DiyaCinemaAnand,388001,Hindi,18:00,Recliner,250₹,9,0
+Anand,DiyaCinemaAnand,388001,Hindi,18:00,Sofa,250₹,28,0
+Anand,DiyaCinemaAnand,388001,Hindi,18:00,Platinum,140₹,77,0
+Anand,DiyaCinemaAnand,388001,Hindi,18:00,Gold,120₹,39,0
+Ahmedabad,1NewfangledMiniplexMondealRetailPark,380059,Hindi,20:15,CoupleSeat,600₹,20,0
