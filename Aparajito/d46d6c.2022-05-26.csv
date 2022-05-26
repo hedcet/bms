@@ -1,0 +1,16 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kolkata,AjantaCinemaBehala,700038,Bengali,13:00,Balcony,150₹,95,0
+Kolkata,AjantaCinemaBehala,700038,Bengali,13:00,Recliners,200₹,4,0
+Kolkata,StarTheatreKolkata,700006,Bengali,13:30,FrontStall,115₹,84,0
+Kolkata,StarTheatreKolkata,700006,Bengali,13:30,RearStall,125₹,234,3
+Kolkata,StarTheatreKolkata,700006,Bengali,13:30,Balcony,115₹,192,6
+Kharagpur,BombayCineplexKharagpur,721301,Bengali,14:10,Silver,150₹,57,0
+Kharagpur,BombayCineplexKharagpur,721301,Bengali,14:10,Gold,150₹,174,2
+CoochBehar,NewCinemaCoochBehar,736101,Bengali,15:45,Balcony,80₹,59,0
+Kolkata,BasusreeCinemaKolkata,700026,Bengali,16:50,Balcony,100₹,199,0
+Kolkata,BasusreeCinemaKolkata,700026,Bengali,16:50,RearStall,70₹,300,0
+Dharmanagar,SsrCinemasDharmanagar,799250,Bengali,17:05,Gold,150₹,116,0
+Kolkata,AjantaCinemaBehala,700038,Bengali,18:10,Balcony,150₹,58,0
+Kolkata,StarTheatreKolkata,700006,Bengali,21:00,FrontStall,115₹,84,0
+Kolkata,StarTheatreKolkata,700006,Bengali,21:00,RearStall,125₹,234,2
+Kolkata,StarTheatreKolkata,700006,Bengali,21:00,Balcony,115₹,192,6
