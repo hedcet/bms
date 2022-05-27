@@ -1,0 +1,6 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Amritsar,PvrSctAmritsar,143001,Punjabi,10:05,Classic,140₹,12,0
+Amritsar,PvrSctAmritsar,143001,Punjabi,10:05,Prime,140₹,40,0
+Ludhiana,CineSquareCinemasRoyaltonCityDoraha,141421,Punjabi,16:30,RoyalClass,190₹,42,9
+Chandigarh,PvrElanteChandigarh,160002,Punjabi,17:45,Classic,230₹,153,28
+Chandigarh,PvrElanteChandigarh,160002,Punjabi,17:45,Recliner,650₹,13,0
