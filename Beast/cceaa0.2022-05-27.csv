@@ -1,0 +1,11 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Guntur,SriGaneshMahalGuntur,522001,Telugu,11:15,FirstClass,50₹,40,2
+Guntur,SriGaneshMahalGuntur,522001,Telugu,14:30,FirstClass,50₹,40,0
+Jayamkondacholapuram,SanmugaTalkiesACAndimadam,621801,Tamil,14:30,Platinum,100₹,374,43
+Jayamkondacholapuram,SanmugaTalkiesACAndimadam,621801,Tamil,14:30,Gold,100₹,28,0
+Chennai,PvrVrChennaiAnnaNagar,600040,Tamil,15:05,Classic,60₹,16,16
+Chennai,PvrVrChennaiAnnaNagar,600040,Tamil,15:05,Prime,190₹,110,11
+Guntur,SriGaneshMahalGuntur,522001,Telugu,18:15,FirstClass,50₹,40,0
+Guntur,SriGaneshMahalGuntur,522001,Telugu,21:30,FirstClass,50₹,40,0
+Jayamkondacholapuram,SanmugaTalkiesACAndimadam,621801,Tamil,22:15,Platinum,100₹,374,40
+Jayamkondacholapuram,SanmugaTalkiesACAndimadam,621801,Tamil,22:15,Gold,100₹,28,0
