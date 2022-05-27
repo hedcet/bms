@@ -1,0 +1,11 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Mumbai,MovietimeTheHubGoregaon,400063,Marathi,12:00,Gold,130₹,196,19
+Dhule,BigCinemasManoharDhule,424001,Marathi,12:15,Balcony,150₹,85,0
+Dhule,BigCinemasManoharDhule,424001,Marathi,12:15,Platinum,112₹,166,0
+Dhule,BigCinemasManoharDhule,424001,Marathi,12:15,Gold,100₹,231,0
+Dhule,BigCinemasManoharDhule,424001,Marathi,12:15,Silver,90₹,179,0
+Pune,BollywoodMultiplexKharadi,411014,Marathi,14:00,Gold,160₹,62,15
+Pune,BollywoodMultiplexKharadi,411014,Marathi,14:00,Silver,140₹,10,2
+Pune,AbhiruchiCityPrideSinhagadRoad,411041,Marathi,14:30,RoyalSofa,250₹,18,2
+Pune,AbhiruchiCityPrideSinhagadRoad,411041,Marathi,14:30,RoyalGold,230₹,129,36
+Pune,AbhiruchiCityPrideSinhagadRoad,411041,Marathi,14:30,RoyalSilver,200₹,36,0
