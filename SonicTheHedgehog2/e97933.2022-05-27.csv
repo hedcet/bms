@@ -1,0 +1,4 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+NationalCapitalRegionNcr,PvrLogixNoida,201301,English,11:00,Classic,220₹,38,0
+Mumbai,MetroInoxCinemasMarineLines,400020,English,11:10,Kiddles,190₹,36,5
+Hyderabad,PvrNextGalleriaMallPanjagutta,500082,English,16:30,Classic,200₹,54,47
