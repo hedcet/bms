@@ -1,0 +1,11 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Chotila,JollyEnjoyMultiplexChotila,363520,Gujarati,12:30,Platinum,220₹,99,0
+Chotila,JollyEnjoyMultiplexChotila,363520,Gujarati,12:30,Gold,180₹,76,0
+Ahmedabad,19CinemaSanandAhmedabad,382110,Gujarati,18:50,Platinum,100₹,42,0
+Ahmedabad,19CinemaSanandAhmedabad,382110,Gujarati,18:50,Gold,100₹,24,0
+Ahmedabad,19CinemaSanandAhmedabad,382110,Gujarati,18:50,Silver,100₹,24,22
+Chotila,JollyEnjoyMultiplexChotila,363520,Gujarati,21:30,Platinum,220₹,99,4
+Chotila,JollyEnjoyMultiplexChotila,363520,Gujarati,21:30,Gold,180₹,76,0
+Ahmedabad,19CinemaSanandAhmedabad,382110,Gujarati,21:30,Platinum,100₹,42,0
+Ahmedabad,19CinemaSanandAhmedabad,382110,Gujarati,21:30,Gold,100₹,24,0
+Ahmedabad,19CinemaSanandAhmedabad,382110,Gujarati,21:30,Silver,100₹,2,0
