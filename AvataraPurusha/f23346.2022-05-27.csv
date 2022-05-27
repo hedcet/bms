@@ -1,0 +1,14 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,MuktaA2CinemasVaishnaviVaibhaviUttarahalli,560061,Kannada,10:15,Premium,130₹,139,0
+Bengaluru,MuktaA2CinemasVaishnaviVaibhaviUttarahalli,560061,Kannada,10:15,Gold,112₹,192,0
+Bengaluru,MuktaA2CinemasVaishnaviVaibhaviUttarahalli,560061,Kannada,10:15,Silver,112₹,104,0
+Kundapura,BharathCinemasKundapura,576222,Kannada,13:30,Vip,400₹,12,0
+Kundapura,BharathCinemasKundapura,576222,Kannada,13:30,Gold,200₹,36,4
+Kundapura,BharathCinemasKundapura,576222,Kannada,13:30,Silver,180₹,41,0
+Kundapura,BharathCinemasKundapura,576222,Kannada,13:30,Special,150₹,48,0
+MysuruMysore,MysuruVisionCinemasBehindGrsFantasyPark,570016,Kannada,13:40,Premier,150₹,206,6
+Bengaluru,PrasannaDigital4KCinemaMagadiRoad,560023,Kannada,16:15,Gold,110₹,249,7
+Bengaluru,PrasannaDigital4KCinemaMagadiRoad,560023,Kannada,16:15,Silver,100₹,670,80
+Bengaluru,CinepolisBinnypetMall,560023,Kannada,16:35,Normal,150₹,9,0
+Bengaluru,CinepolisBinnypetMall,560023,Kannada,16:35,Executive,150₹,81,19
+Bengaluru,CinepolisBinnypetMall,560023,Kannada,16:35,Premium,150₹,35,6
