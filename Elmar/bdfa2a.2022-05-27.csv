@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Chengannur,CCinemasChengannur,689121,Malayalam,11:30,Chirry,150₹,101,8
+Thodupuzha,SilverHillsCinemasThodupuzha,685584,Malayalam,11:30,Silver,150₹,80,41
+Alappuzha,EvmGrandCinemaCherthala,688524,Malayalam,11:30,Platinum,160₹,22,10
+Pathanamthitta,DhanyaRemyaPathanamthitta,689645,Malayalam,18:15,RemyaCircle,135₹,197,22
