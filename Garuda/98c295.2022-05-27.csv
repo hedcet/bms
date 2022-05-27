@@ -1,0 +1,7 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,VinayakaMultiplexScreen2MysuruRoad,560018,Kannada,10:45,GoldClass,100₹,81,0
+Bengaluru,EshwariDigital4KCinemaBanashankari,560085,Kannada,10:45,Balcony,110₹,300,0
+Bengaluru,EshwariDigital4KCinemaBanashankari,560085,Kannada,10:45,Stall,100₹,552,0
+Bengaluru,VinayakaCinemasScreen2MysoreRoad,560018,Kannada,13:45,GoldClass,100₹,81,0
+Bengaluru,RobinTheater4KDolbyAtmosKengeriUpanagara,560060,Kannada,19:15,Gold,150₹,194,4
+Bengaluru,RobinTheater4KDolbyAtmosKengeriUpanagara,560060,Kannada,19:15,Silver,100₹,490,0
