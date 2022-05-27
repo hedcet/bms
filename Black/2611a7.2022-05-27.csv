@@ -1,0 +1,11 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Paralakhemundi,NatarajTheaterParalakhemundi,761200,Telugu,14:00,Box,100₹,56,0
+Paralakhemundi,NatarajTheaterParalakhemundi,761200,Telugu,14:00,FirstClass,100₹,60,0
+Manuguru,SeetaramaCinemasManuguru,507117,Telugu,14:00,Platinum,110₹,359,136
+Paralakhemundi,NatarajTheaterParalakhemundi,761200,Telugu,17:00,Box,100₹,56,0
+Paralakhemundi,NatarajTheaterParalakhemundi,761200,Telugu,17:00,FirstClass,100₹,60,0
+Manuguru,SeetaramaCinemasManuguru,507117,Telugu,18:00,Platinum,110₹,359,0
+Paralakhemundi,NatarajTheaterParalakhemundi,761200,Telugu,20:30,Box,100₹,56,0
+Paralakhemundi,NatarajTheaterParalakhemundi,761200,Telugu,20:30,FirstClass,100₹,60,0
+Manuguru,SeetaramaCinemasManuguru,507117,Telugu,21:00,Platinum,110₹,359,136
+Mandapeta,VpcSriKrishnaCinemaxMandapeta,533308,Telugu,21:15,FirstClass,110₹,313,84
