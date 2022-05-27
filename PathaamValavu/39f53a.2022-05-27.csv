@@ -1,0 +1,17 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Thrissur,InoxSobhaCityMall,680553,Malayalam,11:00,RoyalRecliner,270₹,10,0
+Thrissur,InoxSobhaCityMall,680553,Malayalam,11:00,Royal,170₹,28,19
+Thrissur,InoxSobhaCityMall,680553,Malayalam,11:00,Club,140₹,66,0
+Thrissur,InoxSobhaCityMall,680553,Malayalam,11:00,Executive,110₹,20,0
+Kochi,PvrOberonMallKochi,682024,Malayalam,13:25,Classic,120₹,36,0
+Kochi,PvrOberonMallKochi,682024,Malayalam,13:25,ClassicPlus,150₹,81,18
+Trivandrum,JvCinemasKattakkada,695572,Malayalam,18:30,Daimond,270₹,12,0
+Trivandrum,JvCinemasKattakkada,695572,Malayalam,18:30,Platinum,130₹,156,0
+Kottayam,UgmCinemas4KDolbyAtmosEttumanoor,686631,Malayalam,19:45,Platinum,250₹,16,0
+Kottayam,UgmCinemas4KDolbyAtmosEttumanoor,686631,Malayalam,19:45,Gold,150₹,165,6
+Trivandrum,JvCinemasKattakkada,695572,Malayalam,21:30,Daimond,270₹,12,0
+Trivandrum,JvCinemasKattakkada,695572,Malayalam,21:30,Platinum,130₹,156,0
+Kochi,PvrLuluKochi,682024,Malayalam,22:15,Classic,140₹,39,0
+Kochi,PvrLuluKochi,682024,Malayalam,22:15,ClassicPlus,160₹,91,38
+Kochi,PvrLuluKochi,682024,Malayalam,22:15,Prime,190₹,68,35
+Kochi,PvrLuluKochi,682024,Malayalam,22:15,Recliner,350₹,10,7
