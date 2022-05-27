@@ -1,0 +1,8 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Ramnagar,KSeraSeraMiniplexRamnagar,244715,Hindi,01:00,Gold,150₹,62,0
+Ramnagar,KSeraSeraMiniplexRamnagar,244715,Hindi,01:00,Silver,112₹,12,0
+NationalCapitalRegionNcr,PvrGaurCityGreaterNoida,201301,Hindi,10:05,Classic,190₹,87,0
+NationalCapitalRegionNcr,PvrGaurCityGreaterNoida,201301,Hindi,10:05,Prime,215₹,13,0
+NationalCapitalRegionNcr,PvrPacificDwarka,110077,Hindi,15:20,Classic,270₹,44,16
+NationalCapitalRegionNcr,PvrPacificDwarka,110077,Hindi,15:20,Prime,350₹,18,0
+NationalCapitalRegionNcr,ApsaraCinemaGhaziabad,201006,Hindi,17:05,Gold,110₹,146,0
