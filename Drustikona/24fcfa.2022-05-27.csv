@@ -1,0 +1,8 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Cuttack,InoxCuttackSgblSquareMall,753009,Oriya,15:25,RoyalRecliner,330₹,16,8
+Cuttack,InoxCuttackSgblSquareMall,753009,Oriya,15:25,Royal,230₹,72,10
+Cuttack,InoxCuttackSgblSquareMall,753009,Oriya,15:25,Club,210₹,88,0
+Cuttack,InoxCuttackSgblSquareMall,753009,Oriya,15:25,Executive,160₹,28,2
+Bhubaneswar,InoxDnRegaliaMall,751019,Oriya,17:35,Royal,270₹,69,10
+Bhubaneswar,InoxDnRegaliaMall,751019,Oriya,17:35,Club,240₹,50,0
+Bhubaneswar,InoxDnRegaliaMall,751019,Oriya,17:35,Executive,220₹,20,0
