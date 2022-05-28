@@ -1,0 +1,7 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+NationalCapitalRegionNcr,PvrLogixNoida,201301,Hindi,09:55,Classic,290₹,87,4
+NationalCapitalRegionNcr,PvrGaurCityGreaterNoida,201301,Hindi,10:05,Classic,190₹,101,2
+NationalCapitalRegionNcr,PvrGaurCityGreaterNoida,201301,Hindi,10:05,Prime,215₹,13,0
+NationalCapitalRegionNcr,PvrPacificDwarka,110077,Hindi,15:20,Classic,270₹,44,11
+NationalCapitalRegionNcr,PvrPacificDwarka,110077,Hindi,15:20,Prime,350₹,18,13
+NationalCapitalRegionNcr,ApsaraCinemaGhaziabad,201006,Hindi,17:05,Gold,110₹,146,0
