@@ -1,0 +1,14 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Ahmedabad,WideAngleAhmedabad,380015,Gujarati,09:00,Silver,150₹,76,22
+Ahmedabad,WideAngleAhmedabad,380015,Gujarati,09:00,Gold,150₹,104,43
+Ankleshwar,RaginiMultiplexAnkleshwar,393002,Gujarati,10:00,Gold,110₹,254,0
+Vadodara,MirajCinemasSwcMall,390012,Gujarati,12:20,Special,140₹,39,0
+Vadodara,MirajCinemasSwcMall,390012,Gujarati,12:20,Executive,140₹,150,0
+Vadodara,MirajCinemasSwcMall,390012,Gujarati,12:20,Gold,280₹,13,0
+Ahmedabad,PSquareMovieplexGotaAhmedabad,382481,Gujarati,14:30,Platinum,300₹,15,0
+Ahmedabad,PSquareMovieplexGotaAhmedabad,382481,Gujarati,14:30,Gold,250₹,60,0
+Ahmedabad,PSquareMovieplexGotaAhmedabad,382481,Gujarati,14:30,Silver,200₹,48,0
+Ahmedabad,CityGoldAshramRoad,380009,Gujarati,15:15,Executive,200₹,221,0
+Ahmedabad,CityGoldSatelliteAhmedabad,380015,Gujarati,17:20,Executive,200₹,124,0
+Surat,TimeCinemaGalaxyCirclePalSurat,394510,Gujarati,17:40,Gold,220₹,24,0
+Ahmedabad,TimeCinemaCgRoadAhmedabad,380006,Gujarati,17:45,Gold,270₹,24,0
