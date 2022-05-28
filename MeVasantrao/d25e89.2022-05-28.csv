@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Pune,CityPrideKothrud,411038,Marathi,17:45,RoyalGold,250₹,149,115
+Pune,CityPrideKothrud,411038,Marathi,17:45,RoyalSilver,230₹,22,0
+Nagpur,SudamaTheatreDharampeth,440010,Marathi,18:30,Balcony,150₹,104,0
+Nagpur,SudamaTheatreDharampeth,440010,Marathi,18:30,DressCircle,100₹,165,0
+Nagpur,SudamaTheatreDharampeth,440010,Marathi,18:30,ReserveClass,80₹,294,2
+Nagpur,SudamaTheatreDharampeth,440010,Marathi,21:30,Balcony,150₹,104,0
+Nagpur,SudamaTheatreDharampeth,440010,Marathi,21:30,DressCircle,100₹,165,0
+Nagpur,SudamaTheatreDharampeth,440010,Marathi,21:30,ReserveClass,80₹,294,0
