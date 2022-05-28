@@ -1,0 +1,17 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Vijayawada,KapardhiTheatreACDtsVijayawada,520003,Telugu,11:30,Balcony,112₹,240,0
+Vijayawada,KapardhiTheatreACDtsVijayawada,520003,Telugu,11:30,FirstClass,100₹,68,0
+Vijayawada,KapardhiTheatreACDtsVijayawada,520003,Telugu,11:30,SecondClass,78₹,28,0
+Vijayawada,KapardhiTheatreACDtsVijayawada,520003,Telugu,11:30,ThirdClass,78₹,97,0
+Vijayawada,KapardhiTheatreACDtsVijayawada,520003,Telugu,14:30,Balcony,112₹,240,3
+Vijayawada,KapardhiTheatreACDtsVijayawada,520003,Telugu,14:30,FirstClass,100₹,68,0
+Vijayawada,KapardhiTheatreACDtsVijayawada,520003,Telugu,14:30,SecondClass,78₹,28,0
+Vijayawada,KapardhiTheatreACDtsVijayawada,520003,Telugu,14:30,ThirdClass,78₹,97,0
+Vijayawada,KapardhiTheatreACDtsVijayawada,520003,Telugu,18:30,Balcony,112₹,240,9
+Vijayawada,KapardhiTheatreACDtsVijayawada,520003,Telugu,18:30,FirstClass,100₹,68,5
+Vijayawada,KapardhiTheatreACDtsVijayawada,520003,Telugu,18:30,SecondClass,78₹,28,0
+Vijayawada,KapardhiTheatreACDtsVijayawada,520003,Telugu,18:30,ThirdClass,78₹,97,18
+Vijayawada,KapardhiTheatreACDtsVijayawada,520003,Telugu,21:30,Balcony,112₹,240,0
+Vijayawada,KapardhiTheatreACDtsVijayawada,520003,Telugu,21:30,FirstClass,100₹,68,0
+Vijayawada,KapardhiTheatreACDtsVijayawada,520003,Telugu,21:30,SecondClass,78₹,28,0
+Vijayawada,KapardhiTheatreACDtsVijayawada,520003,Telugu,21:30,ThirdClass,78₹,97,0
