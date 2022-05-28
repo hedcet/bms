@@ -1,0 +1,4 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Thodupuzha,SilverHillsCinemasThodupuzha,685584,Malayalam,16:45,Gold,270₹,16,0
+Thodupuzha,SilverHillsCinemasThodupuzha,685584,Malayalam,16:45,Silver,150₹,224,10
+Kottayam,AnaswaraTheatreKottayam,686001,Malayalam,21:00,GrandCircle,110₹,356,10
