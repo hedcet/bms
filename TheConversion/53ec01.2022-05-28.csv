@@ -1,0 +1,8 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+NationalCapitalRegionNcr,MirajCinemasWsmGhaziabad,201007,Hindi,17:15,Executive,190₹,128,1
+NationalCapitalRegionNcr,MirajCinemasWsmGhaziabad,201007,Hindi,17:15,Platinum,210₹,153,0
+NationalCapitalRegionNcr,MirajCinemasWsmGhaziabad,201007,Hindi,17:15,Gold,230₹,9,0
+Udaipur,PvrCelebrationMallUdaipur,313001,Hindi,18:25,Classic,110₹,52,0
+Udaipur,PvrCelebrationMallUdaipur,313001,Hindi,18:25,Prime,130₹,156,0
+Udaipur,PvrCelebrationMallUdaipur,313001,Hindi,18:25,PrimePlus,160₹,26,0
+Udaipur,PvrCelebrationMallUdaipur,313001,Hindi,18:25,Recliner,250₹,12,10
