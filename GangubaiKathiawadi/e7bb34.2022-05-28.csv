@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Anand,KalpanaCinemaAnand,388001,Hindi,12:30,Box,200₹,8,0
+Anand,KalpanaCinemaAnand,388001,Hindi,12:30,Balcony,130₹,101,0
+Anand,KalpanaCinemaAnand,388001,Hindi,12:30,Executive,100₹,106,2
+Anand,KalpanaCinemaAnand,388001,Hindi,15:30,Box,200₹,8,0
+Anand,KalpanaCinemaAnand,388001,Hindi,15:30,Balcony,130₹,101,0
+Anand,KalpanaCinemaAnand,388001,Hindi,15:30,Executive,100₹,106,0
+Anand,KalpanaCinemaAnand,388001,Hindi,18:30,Box,200₹,8,0
+Anand,KalpanaCinemaAnand,388001,Hindi,18:30,Balcony,130₹,101,0
+Anand,KalpanaCinemaAnand,388001,Hindi,18:30,Executive,100₹,106,0
+Anand,KalpanaCinemaAnand,388001,Hindi,21:30,Box,200₹,8,0
+Anand,KalpanaCinemaAnand,388001,Hindi,21:30,Balcony,130₹,101,0
+Anand,KalpanaCinemaAnand,388001,Hindi,21:30,Executive,100₹,106,0
