@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Srivilliputhur,DeivamTheatreSrivilliputhur,626125,Tamil,10:30,FirstClass,60₹,254,0
+Srivilliputhur,DeivamTheatreSrivilliputhur,626125,Tamil,10:30,SecondClass,60₹,234,234
+Srivilliputhur,DeivamTheatreSrivilliputhur,626125,Tamil,14:30,FirstClass,60₹,254,0
+Srivilliputhur,DeivamTheatreSrivilliputhur,626125,Tamil,14:30,SecondClass,60₹,254,0
+Srivilliputhur,DeivamTheatreSrivilliputhur,626125,Tamil,18:30,FirstClass,60₹,254,0
+Srivilliputhur,DeivamTheatreSrivilliputhur,626125,Tamil,18:30,SecondClass,60₹,254,0
+Srivilliputhur,DeivamTheatreSrivilliputhur,626125,Tamil,22:30,FirstClass,60₹,254,0
+Srivilliputhur,DeivamTheatreSrivilliputhur,626125,Tamil,22:30,SecondClass,60₹,254,0
