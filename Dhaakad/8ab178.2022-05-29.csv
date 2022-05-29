@@ -1,0 +1,12 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+NationalCapitalRegionNcr,ApsaraCinemaGhaziabad,201006,Hindi,09:00,Gold,110₹,146,0
+NationalCapitalRegionNcr,PvrLogixNoida,201301,Hindi,09:55,Classic,300₹,87,2
+NationalCapitalRegionNcr,PvrGaurCityGreaterNoida,201301,Hindi,10:05,Classic,190₹,101,14
+NationalCapitalRegionNcr,PvrGaurCityGreaterNoida,201301,Hindi,10:05,Prime,215₹,13,0
+Lucknow,CinepolisOneAwadhCentreLucknow,226010,Hindi,12:00,Normal,150₹,25,0
+Lucknow,CinepolisOneAwadhCentreLucknow,226010,Hindi,12:00,Executive,150₹,68,0
+Lucknow,CinepolisOneAwadhCentreLucknow,226010,Hindi,12:00,Premium,150₹,48,13
+Lucknow,CinepolisOneAwadhCentreLucknow,226010,Hindi,12:00,Vip,450₹,16,6
+NationalCapitalRegionNcr,PvrPacificDwarka,110077,Hindi,15:20,Classic,270₹,33,0
+NationalCapitalRegionNcr,PvrPacificDwarka,110077,Hindi,15:20,Prime,350₹,18,0
+NationalCapitalRegionNcr,ApsaraCinemaGhaziabad,201006,Hindi,17:05,Gold,110₹,146,1
