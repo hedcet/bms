@@ -1,0 +1,17 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kolkata,BijoliCinemaKolkata,700025,Bengali,12:00,Balcony,120₹,107,4
+Berachampa,BanirupaCinemaBerachampa,743424,Bengali,12:00,AcClass,90₹,50,0
+Berachampa,BanirupaCinemaBerachampa,743424,Bengali,12:00,UpperStall,60₹,50,0
+Berachampa,BanirupaCinemaBerachampa,743424,Bengali,12:00,LowerStall,50₹,100,0
+Kolkata,MinarCinemaKolkata,700004,Bengali,12:00,Balcony,120₹,86,0
+Chanchal,PuspaCinemaHallChanchal,732123,Bengali,13:00,PuspaCircle,100₹,5,0
+Chanchal,PuspaCinemaHallChanchal,732123,Bengali,13:00,FirstClass,50₹,10,0
+Berachampa,BanirupaCinemaBerachampa,743424,Bengali,14:45,AcClass,90₹,50,0
+Berachampa,BanirupaCinemaBerachampa,743424,Bengali,14:45,UpperStall,60₹,50,0
+Berachampa,BanirupaCinemaBerachampa,743424,Bengali,14:45,LowerStall,50₹,100,0
+Chanchal,PuspaCinemaHallChanchal,732123,Bengali,16:00,PuspaCircle,100₹,5,0
+Chanchal,PuspaCinemaHallChanchal,732123,Bengali,16:00,FirstClass,50₹,10,0
+Durgapur,DurgapurCinemaDurgapur,713216,Bengali,18:00,DressCircle,70₹,31,0
+Durgapur,DurgapurCinemaDurgapur,713216,Bengali,18:00,RearStall,50₹,32,0
+Chanchal,PuspaCinemaHallChanchal,732123,Bengali,19:00,PuspaCircle,100₹,5,0
+Chanchal,PuspaCinemaHallChanchal,732123,Bengali,19:00,FirstClass,50₹,10,0
