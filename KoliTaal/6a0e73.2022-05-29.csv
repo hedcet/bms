@@ -1,0 +1,15 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Manipal,BharathCinemasManipal,576104,Kannada,10:00,Vip,300₹,12,0
+Manipal,BharathCinemasManipal,576104,Kannada,10:00,Gold,180₹,56,22
+Manipal,BharathCinemasManipal,576104,Kannada,10:00,Silver,150₹,66,0
+Bengaluru,PvrVegaCityBannerghattaRoad,560076,Kannada,11:20,Classic,200₹,86,29
+Bengaluru,PvrVegaCityBannerghattaRoad,560076,Kannada,11:20,Recliner,350₹,9,3
+Shivamogga,BharathCinemasShivamogga,577201,Kannada,12:45,Gold,200₹,86,0
+Shivamogga,BharathCinemasShivamogga,577201,Kannada,12:45,Silver,150₹,40,0
+Shivamogga,BharathCinemasShivamogga,577201,Kannada,12:45,Special,150₹,30,0
+Kundapura,BharathCinemasKundapura,576222,Kannada,15:15,Gold,200₹,40,4
+Kundapura,BharathCinemasKundapura,576222,Kannada,15:15,Silver,180₹,41,2
+Kundapura,BharathCinemasKundapura,576222,Kannada,15:15,Special,150₹,48,0
+Kundapura,BharathCinemasKundapura,576222,Kannada,19:45,Gold,200₹,40,4
+Kundapura,BharathCinemasKundapura,576222,Kannada,19:45,Silver,180₹,41,7
+Kundapura,BharathCinemasKundapura,576222,Kannada,19:45,Special,150₹,48,0
