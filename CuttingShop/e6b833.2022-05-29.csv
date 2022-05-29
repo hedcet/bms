@@ -1,0 +1,6 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Karkala,PlanetCinemaACDigitalKarkala,574104,Kannada,10:00,Balcony,120₹,28,24
+Bengaluru,InoxMantriSquareMalleshwaram,560052,Kannada,10:40,Royal,320₹,14,5
+Bengaluru,InoxMantriSquareMalleshwaram,560052,Kannada,10:40,Club,170₹,272,42
+Bengaluru,InoxMantriSquareMalleshwaram,560052,Kannada,12:55,Royal,380₹,12,8
+Bengaluru,InoxMantriSquareMalleshwaram,560052,Kannada,12:55,Club,230₹,286,18
