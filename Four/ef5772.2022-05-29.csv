@@ -1,0 +1,4 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kochi,SangeetaCinemaKochi,680018,Malayalam,09:50,BlueCircle,150₹,187,19
+Palakkad,SreeDeviDurgaVCinemasPalakkad,678001,Malayalam,18:00,Standard,140₹,126,0
+Chengannur,CCinemasChengannur,689121,Malayalam,18:45,Chirry,150₹,101,13
