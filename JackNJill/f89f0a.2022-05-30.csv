@@ -1,0 +1,17 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Trivandrum,AjantaTheatre4KWideTrivandrum,695036,Malayalam,11:15,Premium,150₹,264,0
+Trivandrum,AjantaTheatre4KWideTrivandrum,695036,Malayalam,11:15,Royale,250₹,22,0
+Trivandrum,AjantaTheatre4KWideTrivandrum,695036,Malayalam,11:15,GrandB,350₹,6,0
+Trivandrum,AjantaTheatre4KWideTrivandrum,695036,Malayalam,11:15,GrandA,350₹,6,0
+Trivandrum,AjantaTheatre4KWideTrivandrum,695036,Malayalam,14:30,Premium,150₹,264,0
+Trivandrum,AjantaTheatre4KWideTrivandrum,695036,Malayalam,14:30,Royale,250₹,22,2
+Trivandrum,AjantaTheatre4KWideTrivandrum,695036,Malayalam,14:30,GrandB,350₹,6,0
+Trivandrum,AjantaTheatre4KWideTrivandrum,695036,Malayalam,14:30,GrandA,350₹,6,2
+Trivandrum,AjantaTheatre4KWideTrivandrum,695036,Malayalam,18:30,Premium,150₹,264,0
+Trivandrum,AjantaTheatre4KWideTrivandrum,695036,Malayalam,18:30,Royale,250₹,22,0
+Trivandrum,AjantaTheatre4KWideTrivandrum,695036,Malayalam,18:30,GrandB,350₹,6,0
+Trivandrum,AjantaTheatre4KWideTrivandrum,695036,Malayalam,18:30,GrandA,350₹,6,0
+Trivandrum,AjantaTheatre4KWideTrivandrum,695036,Malayalam,21:30,Premium,150₹,264,0
+Trivandrum,AjantaTheatre4KWideTrivandrum,695036,Malayalam,21:30,Royale,250₹,22,0
+Trivandrum,AjantaTheatre4KWideTrivandrum,695036,Malayalam,21:30,GrandB,350₹,6,0
+Trivandrum,AjantaTheatre4KWideTrivandrum,695036,Malayalam,21:30,GrandA,350₹,6,0
