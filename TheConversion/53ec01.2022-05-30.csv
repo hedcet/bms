@@ -1,0 +1,7 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bhopal,DdxMultiplexBhopal,462042,Hindi,11:30,Box,150₹,8,0
+Bhopal,DdxMultiplexBhopal,462042,Hindi,11:30,Gold,100₹,89,5
+Udaipur,PvrCelebrationMallUdaipur,313001,Hindi,16:20,Classic,110₹,46,0
+Udaipur,PvrCelebrationMallUdaipur,313001,Hindi,16:20,Prime,130₹,195,0
+Udaipur,PvrCelebrationMallUdaipur,313001,Hindi,16:20,PrimePlus,160₹,48,15
+Udaipur,PvrCelebrationMallUdaipur,313001,Hindi,16:20,Recliner,250₹,10,10
