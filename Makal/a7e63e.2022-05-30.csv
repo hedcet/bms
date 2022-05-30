@@ -1,0 +1,11 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kollam,RevathyCinemaxParippally,695603,Malayalam,14:45,Platinum,200₹,28,0
+Kollam,RevathyCinemaxParippally,695603,Malayalam,14:45,Gold,150₹,181,0
+Alakode,AlakodeFilmCity4KDolbyAtmos,670571,Malayalam,15:30,Chandra,129₹,151,0
+Kottayam,AnaswaraTheatreKottayam,686001,Malayalam,18:00,GrandCircle,110₹,356,10
+Kollam,RevathyCinemaxParippally,695603,Malayalam,18:15,Platinum,200₹,28,0
+Kollam,RevathyCinemaxParippally,695603,Malayalam,18:15,Gold,150₹,181,0
+Thrissur,InoxSobhaCityMall,680553,Malayalam,19:20,RoyalRecliner,290₹,10,0
+Thrissur,InoxSobhaCityMall,680553,Malayalam,19:20,Club,170₹,155,0
+Thrissur,InoxSobhaCityMall,680553,Malayalam,19:20,Royal,170₹,20,0
+Thrissur,InoxSobhaCityMall,680553,Malayalam,19:20,Executive,130₹,26,0
