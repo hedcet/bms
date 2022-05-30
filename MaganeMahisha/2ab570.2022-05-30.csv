@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Moodbidri,AmarashreeTalkiesMoodbidri,574227,Tulu,15:30,Balcony,120₹,84,2
+Moodbidri,AmarashreeTalkiesMoodbidri,574227,Tulu,15:30,FirstClass,100₹,90,0
+MangaluruMangalore,BharathCinemasMangalore,575013,Tulu,16:30,Gold,200₹,41,0
+MangaluruMangalore,BharathCinemasMangalore,575013,Tulu,16:30,Silver,180₹,33,3
+MangaluruMangalore,BharathCinemasMangalore,575013,Tulu,16:30,Special,150₹,11,0
+MangaluruMangalore,PvrForumFizaMallPandeshwar,575001,Tulu,19:10,Classic,150₹,79,18
+MangaluruMangalore,CinepolisCityCentreMallMangaluru,122002,Tulu,22:00,Platinum,150₹,50,0
+MangaluruMangalore,CinepolisCityCentreMallMangaluru,122002,Tulu,22:00,Vip,200₹,17,0
