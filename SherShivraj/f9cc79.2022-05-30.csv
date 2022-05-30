@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Mumbai,MovietimeTheHubGoregaon,400063,Marathi,11:30,Gold,120₹,196,20
+Pune,AbhiruchiCityPrideSinhagadRoad,411041,Marathi,14:30,RoyalSofa,230₹,18,4
+Pune,AbhiruchiCityPrideSinhagadRoad,411041,Marathi,14:30,RoyalGold,200₹,129,40
+Pune,AbhiruchiCityPrideSinhagadRoad,411041,Marathi,14:30,RoyalSilver,180₹,36,0
