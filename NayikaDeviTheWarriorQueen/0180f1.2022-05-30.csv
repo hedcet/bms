@@ -1,0 +1,16 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Chotila,JollyEnjoyMultiplexChotila,363520,Gujarati,12:30,Platinum,220₹,99,0
+Chotila,JollyEnjoyMultiplexChotila,363520,Gujarati,12:30,Gold,180₹,76,0
+Ahmedabad,PvrMoteraAhmedabad,380005,Gujarati,13:30,Classic,180₹,42,42
+Ahmedabad,PvrMoteraAhmedabad,380005,Gujarati,13:30,Prime,180₹,210,158
+Surat,InoxDrWorldSurat,395010,Gujarati,20:30,Club,90₹,128,128
+Surat,InoxDrWorldSurat,395010,Gujarati,20:30,Executive,90₹,32,16
+Surat,InoxDrWorldSurat,395010,Gujarati,20:30,Royal,90₹,52,52
+Chotila,JollyEnjoyMultiplexChotila,363520,Gujarati,21:30,Platinum,220₹,99,0
+Chotila,JollyEnjoyMultiplexChotila,363520,Gujarati,21:30,Gold,180₹,76,0
+Surat,InoxDrWorldSurat,395010,Gujarati,21:45,Club,90₹,96,96
+Surat,InoxDrWorldSurat,395010,Gujarati,21:45,Executive,90₹,32,16
+Surat,InoxDrWorldSurat,395010,Gujarati,21:45,Royal,90₹,56,56
+Surat,InoxDrWorldSurat,395010,Gujarati,22:00,Club,90₹,63,63
+Surat,InoxDrWorldSurat,395010,Gujarati,22:00,Executive,90₹,46,23
+Surat,InoxDrWorldSurat,395010,Gujarati,22:00,Royal,90₹,77,77
