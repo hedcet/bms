@@ -1,0 +1,8 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bellary,UmaTheatreBellary,583101,Kannada,11:00,GoldClass,100₹,245,60
+Bellary,UmaTheatreBellary,583101,Kannada,14:00,GoldClass,100₹,245,60
+KalaburagiGulbarga,ShettysMultiplexGulbarga,585101,Kannada,14:15,Platinum,150₹,119,0
+KalaburagiGulbarga,ShettysMultiplexGulbarga,585101,Kannada,14:15,Gold,100₹,119,0
+KalaburagiGulbarga,ShettysMultiplexGulbarga,585101,Kannada,14:15,Silver,80₹,119,0
+Bellary,UmaTheatreBellary,583101,Kannada,17:00,GoldClass,100₹,245,60
+Bellary,UmaTheatreBellary,583101,Kannada,20:15,GoldClass,100₹,245,60
