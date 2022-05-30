@@ -1,0 +1,6 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Chandigarh,PvrElanteChandigarh,160002,Punjabi,12:45,Classic,180₹,157,8
+Chandigarh,PvrElanteChandigarh,160002,Punjabi,12:45,Recliner,550₹,26,0
+NationalCapitalRegionNcr,PvrPacificSubhashNagarDelhi,110018,Punjabi,16:25,Prime,380₹,68,2
+NationalCapitalRegionNcr,PvrPacificSubhashNagarDelhi,110018,Punjabi,16:25,Classic,340₹,52,0
+NationalCapitalRegionNcr,PvrVegasDwarka,110078,Punjabi,17:25,Classic,300₹,76,0
