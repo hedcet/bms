@@ -1,0 +1,17 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,VinayakaCinemasScreen1MysoreRoad,560018,Kannada,10:45,Diamond,120₹,181,0
+Bengaluru,VinayakaCinemasScreen1MysoreRoad,560018,Kannada,10:45,GoldClass,100₹,210,0
+Shikaripur,JayashreeTheatreShikaripura,577427,Kannada,11:00,Balcony,150₹,30,0
+Shikaripur,JayashreeTheatreShikaripura,577427,Kannada,11:00,FirstClass,100₹,150,0
+Bengaluru,NavrangTheatreRajajiNagar,560021,Kannada,13:15,Balcony,150₹,256,1
+Bengaluru,NavrangTheatreRajajiNagar,560021,Kannada,13:15,Second,110₹,475,0
+Bengaluru,KamakyaCinemaBanashankari,560085,Kannada,13:30,Balcony,110₹,338,0
+Bengaluru,KamakyaCinemaBanashankari,560085,Kannada,13:30,Stall,100₹,333,0
+Shikaripur,JayashreeTheatreShikaripura,577427,Kannada,14:00,Balcony,150₹,30,0
+Shikaripur,JayashreeTheatreShikaripura,577427,Kannada,14:00,FirstClass,100₹,150,0
+Shikaripur,JayashreeTheatreShikaripura,577427,Kannada,18:00,Balcony,150₹,30,0
+Shikaripur,JayashreeTheatreShikaripura,577427,Kannada,18:00,FirstClass,100₹,150,0
+Shikaripur,JayashreeTheatreShikaripura,577427,Kannada,21:00,Balcony,150₹,30,0
+Shikaripur,JayashreeTheatreShikaripura,577427,Kannada,21:00,FirstClass,100₹,150,0
+Bengaluru,VinayakaCinemasScreen1MysoreRoad,560018,Kannada,22:00,Diamond,120₹,181,0
+Bengaluru,VinayakaCinemasScreen1MysoreRoad,560018,Kannada,22:00,GoldClass,100₹,210,0
