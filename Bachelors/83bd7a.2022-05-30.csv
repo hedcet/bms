@@ -1,0 +1,10 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kasaragod,MagicFramesMehboobTheatreComplexKasaragod,671121,Malayalam,10:30,Executive,129₹,222,0
+Kozhinjampara,GeethaCinemaxKozhinjampara,678555,Malayalam,11:00,Golden,110₹,231,0
+Kochi,SangeetaCinemaKochi,680018,Malayalam,12:00,BlueCircle,150₹,187,38
+Kasaragod,MagicFramesMehboobTheatreComplexKasaragod,671121,Malayalam,13:30,Executive,129₹,222,0
+Kochi,MajesticTheatreNarakkal,682505,Malayalam,15:00,Elite,125₹,159,5
+Kochi,MajesticTheatreNarakkal,682505,Malayalam,15:00,Premium,100₹,16,0
+Angamaly,JmMoviesJoshMallMookkannoorAngamaly,683577,Malayalam,16:00,Gold,130₹,120,5
+Angamaly,JmMoviesJoshMallMookkannoorAngamaly,683577,Malayalam,16:00,Platinum,160₹,16,5
+Kozhinjampara,GeethaCinemaxKozhinjampara,678555,Malayalam,18:00,Golden,110₹,231,0
