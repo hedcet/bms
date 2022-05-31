@@ -1,0 +1,8 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Chennai,AgsCinemasOmrNavlur,603103,Tamil,10:10,Diamond,150₹,302,0
+Chennai,AgsCinemasOmrNavlur,603103,Tamil,10:10,Pearl,60₹,34,34
+Chennai,LuxeCinemasChennai,600042,Tamil,12:15,Elite2D,165₹,126,14
+Chennai,LuxeCinemasChennai,600042,Tamil,12:15,Budget,60₹,14,0
+Chennai,SreeLakshmibalaMoviepark4K3DDolby712Padi,600050,Tamil,14:30,FirstClass,80₹,189,0
+Chennai,AgsCinemasMaduravoyal,600095,Tamil,18:45,Diamond,150₹,205,0
+Chennai,AgsCinemasTNagar,600017,Tamil,22:10,Diamond,150₹,175,0
