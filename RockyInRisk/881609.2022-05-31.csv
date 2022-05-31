@@ -1,0 +1,15 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bhavnagar,TheEntertainmentParkBhavnagar,364001,Gujarati,10:15,Royal,249₹,22,0
+Vadodara,PvrNilamberTriumphVadodara,390007,Gujarati,13:15,Classic,150₹,33,0
+Vadodara,PvrNilamberTriumphVadodara,390007,Gujarati,13:15,Prime,150₹,134,15
+Vadodara,PvrNilamberTriumphVadodara,390007,Gujarati,13:15,Recliner,300₹,7,0
+Anand,ShaanCinema9ScreenMultiplexAnand,388120,Gujarati,17:15,Recliner,350₹,13,0
+Anand,ShaanCinema9ScreenMultiplexAnand,388120,Gujarati,17:15,Sofa,250₹,28,0
+Anand,ShaanCinema9ScreenMultiplexAnand,388120,Gujarati,17:15,Platinum,130₹,66,0
+Anand,ShaanCinema9ScreenMultiplexAnand,388120,Gujarati,17:15,Gold,110₹,45,0
+Vadodara,PvrEvaMallVadodara,390011,Gujarati,18:15,Classic,150₹,63,0
+Vadodara,PvrEvaMallVadodara,390011,Gujarati,18:15,Prime,150₹,63,0
+Vadodara,PvrEvaMallVadodara,390011,Gujarati,18:15,PrimePlus,150₹,105,21
+Vadodara,PvrEvaMallVadodara,390011,Gujarati,18:15,Recliner,300₹,14,0
+Kim,KdLaxmiMultiplexDolby71KimSurat,394110,Gujarati,18:30,Platinum,150₹,35,0
+Kim,KdLaxmiMultiplexDolby71KimSurat,394110,Gujarati,18:30,Gold,130₹,16,0
