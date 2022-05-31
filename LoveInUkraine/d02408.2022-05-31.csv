@@ -1,0 +1,16 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kadi,CityGoldKadi,382715,Hindi,09:30,Box,160₹,16,0
+Kadi,CityGoldKadi,382715,Hindi,09:30,Gold,140₹,140,0
+Kadi,CityGoldKadi,382715,Hindi,09:30,Silver,140₹,34,0
+Palampur,YaashitaaMultiplexPalampur,176061,Hindi,15:30,Platinum,200₹,34,0
+Palampur,YaashitaaMultiplexPalampur,176061,Hindi,15:30,Gold,150₹,48,0
+Palampur,YaashitaaMultiplexPalampur,176061,Hindi,15:30,Silver,150₹,24,0
+NationalCapitalRegionNcr,PristineMallOldSrsSec31Faridabad,121001,Hindi,15:35,Platinum,130₹,94,28
+NationalCapitalRegionNcr,PristineMallOldSrsSec31Faridabad,121001,Hindi,15:35,Gold,100₹,39,13
+NationalCapitalRegionNcr,PristineMallOldSrsSec31Faridabad,121001,Hindi,15:35,Silver,80₹,26,13
+NationalCapitalRegionNcr,CinepolisAiriaMallSohnaRoadGurgaon,122103,Hindi,18:40,Normal,200₹,21,0
+NationalCapitalRegionNcr,CinepolisAiriaMallSohnaRoadGurgaon,122103,Hindi,18:40,Executive,220₹,50,0
+NationalCapitalRegionNcr,CinepolisAiriaMallSohnaRoadGurgaon,122103,Hindi,18:40,Premium,240₹,17,0
+NationalCapitalRegionNcr,CinepolisAiriaMallSohnaRoadGurgaon,122103,Hindi,18:40,Vip,350₹,8,0
+NationalCapitalRegionNcr,GaganCinemaDelhi,110093,Hindi,21:30,Balcony,120₹,66,0
+NationalCapitalRegionNcr,GaganCinemaDelhi,110093,Hindi,21:30,DressCircle,110₹,63,0
