@@ -1,0 +1,10 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Pune,InoxAmanoraTownCentreHadapsar,411028,Marathi,12:10,Royale,190₹,3,0
+Pune,InoxAmanoraTownCentreHadapsar,411028,Marathi,12:10,Club,112₹,109,0
+Pune,InoxAmanoraTownCentreHadapsar,411028,Marathi,12:10,Executive,112₹,21,0
+Nashik,CinemaxCityCenterNashik,422009,Marathi,13:00,Classic,120₹,34,0
+Nashik,CinemaxCityCenterNashik,422009,Marathi,13:00,Prime,140₹,135,20
+Nashik,CinemaxCityCenterNashik,422009,Marathi,13:00,Recliner,260₹,33,21
+Pune,CinepolisSeasonsMallPune,411028,Marathi,19:00,Normal,200₹,29,0
+Pune,CinepolisSeasonsMallPune,411028,Marathi,19:00,Executive,220₹,98,19
+Pune,CinepolisSeasonsMallPune,411028,Marathi,19:00,Premium,220₹,34,0
