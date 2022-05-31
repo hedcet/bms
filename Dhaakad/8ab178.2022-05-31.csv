@@ -1,0 +1,4 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+NationalCapitalRegionNcr,PvrLogixNoida,201301,Hindi,10:15,Classic,190₹,76,0
+NationalCapitalRegionNcr,PvrPacificDwarka,110077,Hindi,15:20,Classic,260₹,44,11
+NationalCapitalRegionNcr,PvrPacificDwarka,110077,Hindi,15:20,Prime,300₹,18,0
