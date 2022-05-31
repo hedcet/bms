@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bellary,UmaTheatreBellary,583101,Kannada,11:00,GoldClass,100₹,245,60
+Bellary,UmaTheatreBellary,583101,Kannada,14:00,GoldClass,100₹,245,60
+Bellary,UmaTheatreBellary,583101,Kannada,17:00,GoldClass,100₹,245,60
+Bellary,UmaTheatreBellary,583101,Kannada,20:15,GoldClass,100₹,245,60
