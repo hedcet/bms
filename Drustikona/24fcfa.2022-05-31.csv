@@ -1,0 +1,15 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Rourkela,PvrForumRourkela,769004,Oriya,14:10,Classic,130₹,28,0
+Rourkela,PvrForumRourkela,769004,Oriya,14:10,Prime,150₹,98,14
+Rourkela,PvrForumRourkela,769004,Oriya,14:10,PrimePlus,200₹,13,0
+Cuttack,InoxCuttackSgblSquareMall,753009,Oriya,15:25,RoyalRecliner,260₹,8,0
+Cuttack,InoxCuttackSgblSquareMall,753009,Oriya,15:25,Club,160₹,88,0
+Cuttack,InoxCuttackSgblSquareMall,753009,Oriya,15:25,Executive,160₹,28,0
+Cuttack,InoxCuttackSgblSquareMall,753009,Oriya,15:25,Royal,160₹,62,0
+Bhubaneswar,InoxDnRegaliaMall,751019,Oriya,17:35,Club,150₹,50,0
+Bhubaneswar,InoxDnRegaliaMall,751019,Oriya,17:35,Executive,150₹,20,0
+Bhubaneswar,InoxDnRegaliaMall,751019,Oriya,17:35,Royal,150₹,59,0
+Bhubaneswar,CinepolisEsplanadeBhubaneswar,751007,Oriya,19:50,Normal,120₹,28,0
+Bhubaneswar,CinepolisEsplanadeBhubaneswar,751007,Oriya,19:50,Executive,130₹,42,0
+Bhubaneswar,CinepolisEsplanadeBhubaneswar,751007,Oriya,19:50,Premium,140₹,51,6
+Bhubaneswar,CinepolisEsplanadeBhubaneswar,751007,Oriya,19:50,Vip,400₹,11,0
