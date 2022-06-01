@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Goa,ZSquareCineNiagaraCurchoremGoa,403706,Hindi,12:30,Golden,150₹,28,0
+Goa,ZSquareCineNiagaraCurchoremGoa,403706,Hindi,12:30,Silver,125₹,72,0
+Kadi,CityGoldKadi,382715,Hindi,15:15,Box,160₹,16,0
+Kadi,CityGoldKadi,382715,Hindi,15:15,Gold,140₹,140,0
+Kadi,CityGoldKadi,382715,Hindi,15:15,Silver,140₹,34,0
+Mumbai,G7MultiplexBandraW,400050,Hindi,19:30,Special,170₹,36,0
+Mumbai,G7MultiplexBandraW,400050,Hindi,19:30,DressCircle,170₹,10,0
+Mumbai,MovietimeTheHubGoregaon,400063,Hindi,19:30,Mhraja,130₹,44,13
+Ramnagar,KSeraSeraMiniplexRamnagar,244715,Hindi,21:30,Gold,150₹,62,0
+Ramnagar,KSeraSeraMiniplexRamnagar,244715,Hindi,21:30,Silver,112₹,12,0
+NationalCapitalRegionNcr,PvrVegasDwarka,110078,Hindi,22:45,Classic,300₹,108,0
+NationalCapitalRegionNcr,PvrVegasDwarka,110078,Hindi,22:45,Prime,350₹,88,14
