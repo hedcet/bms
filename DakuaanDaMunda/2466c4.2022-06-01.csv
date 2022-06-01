@@ -1,0 +1,12 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Dinanagar,OneCinemasDinanagar,143531,Punjabi,10:00,Gold,100₹,204,0
+Dinanagar,OneCinemasDinanagar,143531,Punjabi,10:00,Silver,100₹,204,0
+Dinanagar,OneCinemasDinanagar,143531,Punjabi,13:00,Gold,100₹,204,0
+Dinanagar,OneCinemasDinanagar,143531,Punjabi,13:00,Silver,100₹,204,0
+Dinanagar,OneCinemasDinanagar,143531,Punjabi,16:00,Gold,100₹,204,0
+Dinanagar,OneCinemasDinanagar,143531,Punjabi,16:00,Silver,100₹,204,0
+Dinanagar,OneCinemasDinanagar,143531,Punjabi,19:00,Gold,100₹,204,0
+Dinanagar,OneCinemasDinanagar,143531,Punjabi,19:00,Silver,100₹,204,0
+Karnal,MovietimeKarnal,132001,Punjabi,22:05,Gold,200₹,98,9
+Karnal,MovietimeKarnal,132001,Punjabi,22:05,Silver,200₹,44,0
+Karnal,MovietimeKarnal,132001,Punjabi,22:05,Normal,200₹,42,0
