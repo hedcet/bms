@@ -1,0 +1,17 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kochi,PvrLuluKochi,682024,Malayalam,16:05,Classic,140₹,39,0
+Kochi,PvrLuluKochi,682024,Malayalam,16:05,ClassicPlus,160₹,91,0
+Kochi,PvrLuluKochi,682024,Malayalam,16:05,Prime,190₹,68,17
+Kochi,PvrLuluKochi,682024,Malayalam,16:05,Recliner,350₹,10,0
+Anchal,VarshaRoyalSuiteAnchal,691306,Malayalam,18:15,FamilyCircle,129₹,108,0
+Anchal,VarshaRoyalSuiteAnchal,691306,Malayalam,18:15,GeneralCircle,129₹,156,0
+Alappuzha,PankajTheatreAlappy,688007,Malayalam,18:15,Balcony,150₹,339,0
+Alappuzha,PankajTheatreAlappy,688007,Malayalam,18:15,RoseCircle,129₹,180,0
+Thrissur,InoxSobhaCityMall,680553,Malayalam,19:25,RoyalRecliner,290₹,10,0
+Thrissur,InoxSobhaCityMall,680553,Malayalam,19:25,Club,170₹,66,0
+Thrissur,InoxSobhaCityMall,680553,Malayalam,19:25,Royal,170₹,13,0
+Thrissur,InoxSobhaCityMall,680553,Malayalam,19:25,Executive,130₹,22,0
+Trivandrum,NewTheatre4KRgbLaserDolbyAtmosTrivandrum,695001,Malayalam,21:30,RoyalCircle,250₹,100,9
+Trivandrum,NewTheatre4KRgbLaserDolbyAtmosTrivandrum,695001,Malayalam,21:30,FamilyCircle,150₹,349,0
+Chennai,PvrVrChennaiAnnaNagar,600040,Malayalam,22:10,Classic,63₹,24,0
+Chennai,PvrVrChennaiAnnaNagar,600040,Malayalam,22:10,Prime,202₹,112,12
