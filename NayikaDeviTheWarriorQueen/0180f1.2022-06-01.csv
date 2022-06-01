@@ -1,0 +1,14 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Chotila,JollyEnjoyMultiplexChotila,363520,Gujarati,12:30,Platinum,220₹,99,0
+Chotila,JollyEnjoyMultiplexChotila,363520,Gujarati,12:30,Gold,180₹,76,0
+Surat,InoxDrWorldSurat,395010,Gujarati,20:30,Club,90₹,128,128
+Surat,InoxDrWorldSurat,395010,Gujarati,20:30,Executive,90₹,32,16
+Surat,InoxDrWorldSurat,395010,Gujarati,20:30,Royal,90₹,62,62
+Chotila,JollyEnjoyMultiplexChotila,363520,Gujarati,21:30,Platinum,220₹,99,0
+Chotila,JollyEnjoyMultiplexChotila,363520,Gujarati,21:30,Gold,180₹,76,0
+Surat,InoxDrWorldSurat,395010,Gujarati,21:45,Club,90₹,96,96
+Surat,InoxDrWorldSurat,395010,Gujarati,21:45,Executive,90₹,32,16
+Surat,InoxDrWorldSurat,395010,Gujarati,21:45,Royal,90₹,62,62
+Surat,RajhansMultiplexAdajanSurat,395009,Gujarati,21:45,Box,140₹,14,14
+Surat,RajhansMultiplexAdajanSurat,395009,Gujarati,21:45,Recliner,140₹,25,25
+Surat,RajhansMultiplexAdajanSurat,395009,Gujarati,21:45,SofaClass,140₹,444,418
