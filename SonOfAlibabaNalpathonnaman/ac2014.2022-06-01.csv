@@ -1,0 +1,11 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kochi,PvrLuluKochi,682024,Malayalam,10:10,Classic,110₹,39,0
+Kochi,PvrLuluKochi,682024,Malayalam,10:10,ClassicPlus,140₹,91,0
+Kochi,PvrLuluKochi,682024,Malayalam,10:10,Prime,160₹,68,17
+Kochi,PvrLuluKochi,682024,Malayalam,10:10,Recliner,290₹,10,0
+Anchal,VarshaRoyalSuiteAnchal,691306,Malayalam,11:00,FamilyCircle,129₹,108,0
+Anchal,VarshaRoyalSuiteAnchal,691306,Malayalam,11:00,GeneralCircle,129₹,156,0
+Kalady,JmMoviesJoshMallMookkannoor,683577,Malayalam,13:30,Gold,130₹,120,5
+Kalady,JmMoviesJoshMallMookkannoor,683577,Malayalam,13:30,Platinum,160₹,16,5
+Trivandrum,LeninCinemas4K3DDolbyAtmosKsfdcTrivandrum,695014,Malayalam,18:30,Platinum,150₹,22,0
+Trivandrum,LeninCinemas4K3DDolbyAtmosKsfdcTrivandrum,695014,Malayalam,18:30,Gold,129₹,144,0
