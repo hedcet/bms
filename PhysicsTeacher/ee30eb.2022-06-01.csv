@@ -1,0 +1,6 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,PvrVegaCityBannerghattaRoad,560076,Kannada,10:55,Classic,150₹,118,11
+Bengaluru,GopalanCinemasArcadeMallMysoreRoad,560098,Kannada,12:30,Gold,200₹,332,0
+Bengaluru,GopalanCinemasArcadeMallMysoreRoad,560098,Kannada,12:30,Sofa,200₹,21,0
+MysuruMysore,DrcCinemasBmHabitatMall,570012,Kannada,13:50,Premium,160₹,182,0
+MysuruMysore,DrcCinemasBmHabitatMall,570012,Kannada,13:50,Luxury,200₹,18,0
