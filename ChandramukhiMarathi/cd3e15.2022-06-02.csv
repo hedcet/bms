@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Pune,InoxAmanoraTownCentreHadapsar,411028,Marathi,12:10,Royale,190₹,3,0
+Pune,InoxAmanoraTownCentreHadapsar,411028,Marathi,12:10,Club,112₹,109,0
+Pune,InoxAmanoraTownCentreHadapsar,411028,Marathi,12:10,Executive,112₹,21,0
+Nashik,CinemaxCityCenterNashik,422009,Marathi,13:00,Classic,120₹,34,0
+Nashik,CinemaxCityCenterNashik,422009,Marathi,13:00,Prime,140₹,135,8
+Nashik,CinemaxCityCenterNashik,422009,Marathi,13:00,Recliner,260₹,33,9
+Pune,BollywoodMultiplexKharadi,411014,Marathi,14:30,Gold,140₹,62,4
+Pune,BollywoodMultiplexKharadi,411014,Marathi,14:30,Silver,110₹,10,0
+Pune,CityPrideKothrud,411038,Marathi,17:15,RoyalGold,230₹,149,48
+Pune,CityPrideKothrud,411038,Marathi,17:15,RoyalSilver,200₹,22,0
+Mumbai,G7MultiplexBandraW,400050,Marathi,18:30,Special,170₹,38,10
+Mumbai,G7MultiplexBandraW,400050,Marathi,18:30,DressCircle,170₹,9,8
