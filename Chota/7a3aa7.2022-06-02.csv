@@ -1,0 +1,8 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Perambalur,SwamyTheatre2KPerambalur,621212,Tamil,11:00,FirstClass,100₹,255,0
+Chennai,GowriCinemas4KPonneri,601204,Tamil,11:30,Balcony,80₹,80,4
+Chennai,GowriCinemas4KPonneri,601204,Tamil,11:30,FirstClass,80₹,500,0
+Perambalur,SwamyTheatre2KPerambalur,621212,Tamil,14:00,FirstClass,100₹,255,0
+Perambalur,SwamyTheatre2KPerambalur,621212,Tamil,18:00,FirstClass,100₹,255,0
+Chennai,SreeLakshmibalaMoviepark4K3DDolby712Padi,600050,Tamil,21:30,FirstClass,80₹,189,0
+Perambalur,SwamyTheatre2KPerambalur,621212,Tamil,22:00,FirstClass,100₹,255,0
