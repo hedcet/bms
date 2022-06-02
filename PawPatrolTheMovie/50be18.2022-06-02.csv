@@ -1,0 +1,16 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Mumbai,InoxMegaplexInorbitMallMalad,400064,English,09:45,Kiddles,130₹,53,3
+NationalCapitalRegionNcr,CinepolisAiriaMallSohnaRoadGurgaon,122103,English,12:55,Normal,160₹,22,0
+NationalCapitalRegionNcr,CinepolisAiriaMallSohnaRoadGurgaon,122103,English,12:55,DoubleSofa,200₹,24,0
+NationalCapitalRegionNcr,CinepolisAiriaMallSohnaRoadGurgaon,122103,English,12:55,Lounger,180₹,8,0
+Chennai,SpiEscapeExpressAvenueMallRoyapettah,600014,English,13:20,Budget,66₹,11,11
+Chennai,SpiEscapeExpressAvenueMallRoyapettah,600014,English,13:20,Elite,211₹,99,37
+NationalCapitalRegionNcr,PvrLogixNoida,201301,English,13:45,Classic,275₹,38,0
+Chennai,PvrVrChennaiAnnaNagar,600040,English,16:40,Classic,66₹,24,0
+Chennai,PvrVrChennaiAnnaNagar,600040,English,16:40,Prime,211₹,112,12
+NationalCapitalRegionNcr,CinepolisAiriaMallSohnaRoadGurgaon,122103,English,17:15,Normal,200₹,22,0
+NationalCapitalRegionNcr,CinepolisAiriaMallSohnaRoadGurgaon,122103,English,17:15,DoubleSofa,240₹,24,0
+NationalCapitalRegionNcr,CinepolisAiriaMallSohnaRoadGurgaon,122103,English,17:15,Lounger,220₹,8,0
+NationalCapitalRegionNcr,PvrLogixNoida,201301,English,18:10,Classic,275₹,38,0
+Bengaluru,PvrPhoenixMarketcityMallWhitefieldRoad,560048,English,19:35,Classic,190₹,104,0
+Bengaluru,PvrPhoenixMarketcityMallWhitefieldRoad,560048,English,19:35,Recliner,290₹,8,0
