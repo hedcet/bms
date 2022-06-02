@@ -1,0 +1,6 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kochi,SangeetaCinemaKochi,680018,Malayalam,12:00,BlueCircle,150₹,187,18
+Kochi,MajesticTheatreNarakkal,682505,Malayalam,15:00,Elite,125₹,159,0
+Kochi,MajesticTheatreNarakkal,682505,Malayalam,15:00,Premium,100₹,16,0
+Kalady,JmMoviesJoshMallMookkannoor,683577,Malayalam,16:00,Gold,130₹,120,5
+Kalady,JmMoviesJoshMallMookkannoor,683577,Malayalam,16:00,Platinum,160₹,16,5
