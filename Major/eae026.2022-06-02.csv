@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Gudivada,AbrCinemasTheNextGudivada,521301,Telugu,21:30,Diamond,147₹,164,155
+Gudivada,AbrCinemasTheNextGudivada,521301,Telugu,21:30,Platinum,147₹,35,8
+Gudivada,AbrCinemasTheNextGudivada,521301,Telugu,21:30,Executive,147₹,14,0
+Gudivada,AbrCinemasTheNextGudivada,521301,Telugu,21:30,Loungers,147₹,8,8
+Bengaluru,PvrVrBengaluruWhitefieldRoad,560048,Telugu,21:45,Classic,236₹,207,147
+Bengaluru,PvrVrBengaluruWhitefieldRoad,560048,Telugu,21:45,Prime,236₹,75,75
+Bengaluru,PvrVrBengaluruWhitefieldRoad,560048,Telugu,21:45,Recliner,500₹,22,21
+Warangal,AsianGeminiTheatreWarangal,506002,Telugu,21:45,Silver,110₹,51,17
+Warangal,AsianGeminiTheatreWarangal,506002,Telugu,21:45,Platinum,150₹,280,276
+VizagVisakhapatnam,CinepolisSreekanyaCineglitzMadhurawada,530048,Telugu,22:10,Normal,177₹,38,38
+VizagVisakhapatnam,CinepolisSreekanyaCineglitzMadhurawada,530048,Telugu,22:10,Executive,177₹,144,141
+Warangal,PvrMaddoxWarangal,506001,Telugu,22:55,Classic,195₹,97,95
