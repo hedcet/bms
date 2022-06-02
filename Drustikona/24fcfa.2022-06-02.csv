@@ -1,0 +1,8 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Rourkela,PvrForumMallRourkela,769004,Oriya,14:10,Classic,130₹,28,0
+Rourkela,PvrForumMallRourkela,769004,Oriya,14:10,Prime,150₹,98,14
+Rourkela,PvrForumMallRourkela,769004,Oriya,14:10,PrimePlus,200₹,13,0
+Bhubaneswar,CinepolisEsplanadeBhubaneswar,751007,Oriya,19:50,Normal,120₹,28,0
+Bhubaneswar,CinepolisEsplanadeBhubaneswar,751007,Oriya,19:50,Executive,130₹,42,0
+Bhubaneswar,CinepolisEsplanadeBhubaneswar,751007,Oriya,19:50,Premium,140₹,51,4
+Bhubaneswar,CinepolisEsplanadeBhubaneswar,751007,Oriya,19:50,Vip,400₹,11,0
