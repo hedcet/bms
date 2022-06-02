@@ -1,0 +1,15 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Mumbai,MirajFunFiestaCinemasNallasopara,401203,Hindi,11:00,Gold,150₹,81,0
+Mumbai,MirajFunFiestaCinemasNallasopara,401203,Hindi,11:00,Platinum,150₹,80,0
+Mumbai,MirajFunFiestaCinemasNallasopara,401203,Hindi,11:00,Silver,150₹,54,0
+Goa,ZSquareCineNiagaraCurchoremGoa,403706,Hindi,12:30,Golden,150₹,28,0
+Goa,ZSquareCineNiagaraCurchoremGoa,403706,Hindi,12:30,Silver,125₹,72,0
+Kadi,CityGoldKadi,382715,Hindi,15:15,Box,160₹,16,0
+Kadi,CityGoldKadi,382715,Hindi,15:15,Gold,140₹,140,0
+Kadi,CityGoldKadi,382715,Hindi,15:15,Silver,140₹,34,0
+Mehsana,WideAngleMehsana,384002,Hindi,18:15,Gold,200₹,10,0
+Mehsana,WideAngleMehsana,384002,Hindi,18:15,Platinum,250₹,10,0
+Mumbai,G7MultiplexBandraW,400050,Hindi,19:30,Special,170₹,36,2
+Mumbai,G7MultiplexBandraW,400050,Hindi,19:30,DressCircle,170₹,10,0
+Ramnagar,KSeraSeraMiniplexRamnagar,244715,Hindi,21:30,Gold,150₹,62,0
+Ramnagar,KSeraSeraMiniplexRamnagar,244715,Hindi,21:30,Silver,112₹,12,0
