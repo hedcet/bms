@@ -1,0 +1,17 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kolkata,NavinaCinemaTollygunge,700033,Bengali,13:40,PremiumStall,100₹,486,12
+Kolkata,NavinaCinemaTollygunge,700033,Bengali,13:40,DressCircle,150₹,95,13
+Kolkata,NavinaCinemaTollygunge,700033,Bengali,13:40,Balcony,130₹,228,12
+Kolkata,AsokaCinemaBehala,700034,Bengali,15:40,Stall,100₹,410,2
+Kolkata,AsokaCinemaBehala,700034,Bengali,15:40,DressCircle,130₹,189,3
+Kolkata,AtindraCinemaBarrackpore,700120,Bengali,16:00,RedLounger,250₹,18,0
+Kolkata,AtindraCinemaBarrackpore,700120,Bengali,16:00,Delux,200₹,144,0
+Kolkata,AtindraCinemaBarrackpore,700120,Bengali,16:00,Recliner,300₹,16,0
+Kolkata,BioscopeAxisMallRajarhat,700156,Bengali,16:15,Silver,180₹,28,0
+Kolkata,BioscopeAxisMallRajarhat,700156,Bengali,16:15,Gold,180₹,84,0
+Kolkata,BioscopeAxisMallRajarhat,700156,Bengali,16:15,Platinum,180₹,41,0
+Kolkata,PriyaCinemaRashbehariAvenue,700029,Bengali,19:15,Rear,112₹,341,13
+Kolkata,PriyaCinemaRashbehariAvenue,700029,Bengali,19:15,Box,170₹,12,12
+Kolkata,PriyaCinemaRashbehariAvenue,700029,Bengali,19:15,Recliners,270₹,17,0
+Kolkata,PriyaCinemaRashbehariAvenue,700029,Bengali,19:15,Classic,190₹,76,9
+Kolkata,PriyaCinemaRashbehariAvenue,700029,Bengali,19:15,Balcony,170₹,104,26
