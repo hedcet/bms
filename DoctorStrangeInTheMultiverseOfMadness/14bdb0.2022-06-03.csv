@@ -1,0 +1,12 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Vadodara,InoxTakshGalaxyMallWaghodia,390019,Hindi,09:10,Club,190₹,60,0
+Vadodara,InoxTakshGalaxyMallWaghodia,390019,Hindi,09:10,Executive,190₹,20,0
+Vadodara,InoxTakshGalaxyMallWaghodia,390019,Hindi,09:10,Royal,190₹,62,0
+MangaluruMangalore,BharathCinemasMangalore,575013,English,11:00,3DGoldPackage180,180₹,43,5
+MangaluruMangalore,BharathCinemasMangalore,575013,English,11:00,3DSilverPackage180,180₹,20,0
+MangaluruMangalore,BharathCinemasMangalore,575013,English,11:00,N3DSpecialPackage180,180₹,7,0
+Chennai,SpiEscapeExpressAvenueMallRoyapettah,600014,English,13:25,3DBudget,101₹,11,11
+Chennai,SpiEscapeExpressAvenueMallRoyapettah,600014,English,13:25,3DElite,246₹,99,31
+Bengaluru,PvrMsrElementsMallTanisandhraMainRoad,560077,English,19:30,3DClassic,230₹,75,0
+Bengaluru,PvrMsrElementsMallTanisandhraMainRoad,560077,English,19:30,3DPrime,250₹,19,0
+Bengaluru,PvrMsrElementsMallTanisandhraMainRoad,560077,English,19:30,3DRecliner,440₹,11,0
