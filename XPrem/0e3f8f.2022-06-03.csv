@@ -1,0 +1,6 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kolkata,AtindraCinemaKolkata,700120,Bengali,12:45,Premium,150₹,138,6
+Kolkata,AtindraCinemaKolkata,700120,Bengali,12:45,SuperPremium,250₹,20,0
+Kolkata,InoxSwabhumiMaulanaAzadSarani,700054,Bengali,17:25,Royal,250₹,24,8
+Kolkata,InoxSwabhumiMaulanaAzadSarani,700054,Bengali,17:25,Club,210₹,116,0
+Kolkata,InoxSwabhumiMaulanaAzadSarani,700054,Bengali,17:25,Executive,180₹,33,0
