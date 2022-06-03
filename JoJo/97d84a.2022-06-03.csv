@@ -1,0 +1,6 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,SangeetTheatreShivajiNagar,560051,Malayalam,13:30,BalconyClass,120₹,154,0
+Kayamkulam,SvCinemasKayamkulam,690502,Malayalam,13:30,Standard,150₹,94,0
+Kayamkulam,SvCinemasKayamkulam,690502,Malayalam,19:00,Standard,150₹,94,0
+Pandalam,ThrilokCinemasPandalam,689501,Malayalam,19:00,ExecutiveClass,160₹,10,10
+Pandalam,ThrilokCinemasPandalam,689501,Malayalam,19:00,ExecutiveClass1,150₹,84,40
