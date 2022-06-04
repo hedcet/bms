@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Madurai,AnnamalaiCinemasAC4KMadurai,625001,Tamil,10:30,FirstClass,155₹,74,0
+Madurai,AnnamalaiCinemasAC4KMadurai,625001,Tamil,10:30,SecondClass,119₹,77,0
+Chennai,SpiS2PeramburSpectrumMallPerambur,600011,Tamil,12:10,Budget,60₹,23,15
+Chennai,SpiS2PeramburSpectrumMallPerambur,600011,Tamil,12:10,Elite,179₹,196,19
+Chennai,SpiEscapeExpressAvenueMallRoyapettah,600014,Tamil,12:30,Budget,60₹,11,11
+Chennai,SpiEscapeExpressAvenueMallRoyapettah,600014,Tamil,12:30,Elite,190₹,99,27
+Madurai,AnnamalaiCinemasAC4KMadurai,625001,Tamil,14:30,FirstClass,155₹,74,0
+Madurai,AnnamalaiCinemasAC4KMadurai,625001,Tamil,14:30,SecondClass,119₹,77,0
+Pondicherry,PvrTheCinemaProvidencePondicherry,605001,Tamil,14:40,Elite,150₹,172,27
+Pondicherry,PvrTheCinemaProvidencePondicherry,605001,Tamil,14:40,Premium,110₹,59,0
+Madurai,AnnamalaiCinemasAC4KMadurai,625001,Tamil,18:30,FirstClass,155₹,74,0
+Madurai,AnnamalaiCinemasAC4KMadurai,625001,Tamil,18:30,SecondClass,119₹,77,0
