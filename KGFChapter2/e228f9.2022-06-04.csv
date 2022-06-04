@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Davanagere,AshokaTalkiesDavanagere,577001,Kannada,14:00,Balcony,200₹,279,0
+Davanagere,AshokaTalkiesDavanagere,577001,Kannada,14:00,GoldClass,250₹,30,0
+Davanagere,AshokaTalkiesDavanagere,577001,Kannada,14:00,FirstClass,150₹,472,0
+Chennai,SpiEscapeExpressAvenueMallRoyapettah,600014,Tamil,15:40,Budget,60₹,11,11
+Chennai,SpiEscapeExpressAvenueMallRoyapettah,600014,Tamil,15:40,Elite,190₹,99,32
+Mehsana,WideAngleMehsana,384002,Hindi,15:45,Platinum,250₹,10,0
+Davanagere,AshokaTalkiesDavanagere,577001,Kannada,17:45,Balcony,200₹,279,0
+Davanagere,AshokaTalkiesDavanagere,577001,Kannada,17:45,GoldClass,250₹,30,0
+Davanagere,AshokaTalkiesDavanagere,577001,Kannada,17:45,FirstClass,150₹,472,0
+Davanagere,AshokaTalkiesDavanagere,577001,Kannada,21:00,Balcony,200₹,279,0
+Davanagere,AshokaTalkiesDavanagere,577001,Kannada,21:00,GoldClass,250₹,30,0
+Davanagere,AshokaTalkiesDavanagere,577001,Kannada,21:00,FirstClass,150₹,472,0
