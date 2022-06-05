@@ -1,0 +1,8 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kolkata,AtindraCinemaBarrackpore,700120,Bengali,14:45,Premium,200₹,138,2
+Kolkata,AtindraCinemaBarrackpore,700120,Bengali,14:45,SuperPremium,300₹,20,0
+Kolkata,PriyaCinemaRashbehariAvenue,700029,Bengali,16:45,Rear,112₹,341,85
+Kolkata,PriyaCinemaRashbehariAvenue,700029,Bengali,16:45,Box,170₹,12,12
+Kolkata,PriyaCinemaRashbehariAvenue,700029,Bengali,16:45,Recliners,270₹,17,15
+Kolkata,PriyaCinemaRashbehariAvenue,700029,Bengali,16:45,Classic,190₹,76,31
+Kolkata,PriyaCinemaRashbehariAvenue,700029,Bengali,16:45,Balcony,170₹,104,40
