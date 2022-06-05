@@ -1,0 +1,6 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Chennai,SpiEscapeExpressAvenueMallRoyapettah,600014,English,13:25,3DBudget,101₹,11,11
+Chennai,SpiEscapeExpressAvenueMallRoyapettah,600014,English,13:25,3DElite,246₹,99,34
+Bengaluru,PvrMsrElementsMallTanisandhraMainRoad,560077,English,19:30,3DClassic,280₹,75,0
+Bengaluru,PvrMsrElementsMallTanisandhraMainRoad,560077,English,19:30,3DPrime,300₹,19,2
+Bengaluru,PvrMsrElementsMallTanisandhraMainRoad,560077,English,19:30,3DRecliner,510₹,11,0
