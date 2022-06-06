@@ -1,0 +1,14 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Guwahati,InoxAurusGuwahati,781006,Assamese,19:10,Insignia,370₹,43,36
+Guwahati,PvrCityCentreGuwahati,781005,Assamese,19:30,Classic,200₹,44,0
+Guwahati,PvrCityCentreGuwahati,781005,Assamese,19:30,Prime,220₹,107,44
+Guwahati,PvrCityCentreGuwahati,781005,Assamese,19:30,PrimePlus,240₹,14,12
+Guwahati,AnuradhaCineplexGuwahati,781021,Assamese,20:00,Silver,150₹,62,3
+Guwahati,AnuradhaCineplexGuwahati,781021,Assamese,20:00,Gold,200₹,170,8
+Guwahati,AnuradhaCineplexGuwahati,781021,Assamese,20:00,Platinum,250₹,158,10
+Guwahati,AnuradhaCineplexGuwahati,781021,Assamese,20:00,Diamond,400₹,16,0
+Guwahati,AnuradhaCineplexGuwahati,781021,Assamese,20:00,Box2,300₹,22,0
+Guwahati,AnuradhaCineplexGuwahati,781021,Assamese,20:00,Box1,300₹,10,6
+Guwahati,MatrixCinemasMatrixMallBeltolaGuwahati,781028,Assamese,21:00,Gold,400₹,42,0
+Guwahati,MatrixCinemasMatrixMallBeltolaGuwahati,781028,Assamese,21:00,Club,200₹,52,28
+Guwahati,MatrixCinemasMatrixMallBeltolaGuwahati,781028,Assamese,21:00,Executive,150₹,13,0
