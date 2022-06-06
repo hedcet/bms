@@ -1,0 +1,7 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Thrissur,InoxSobhaCityMall,680553,Malayalam,19:45,RoyalRecliner,290₹,10,0
+Thrissur,InoxSobhaCityMall,680553,Malayalam,19:45,Club,170₹,63,0
+Thrissur,InoxSobhaCityMall,680553,Malayalam,19:45,Royal,170₹,28,17
+Thrissur,InoxSobhaCityMall,680553,Malayalam,19:45,Executive,130₹,22,0
+Kanhangad,VinayakaTheatreComplexKanhangad,671315,Malayalam,20:00,ParadiseBalcony,140₹,208,0
+Kanhangad,VinayakaTheatreComplexKanhangad,671315,Malayalam,20:00,ParadiseFirstClass,129₹,285,0
