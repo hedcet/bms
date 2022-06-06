@@ -1,0 +1,6 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+NationalCapitalRegionNcr,CinepolisAiriaMallSohnaRoadGurgaon,122103,English,18:20,Normal,240₹,30,0
+NationalCapitalRegionNcr,CinepolisAiriaMallSohnaRoadGurgaon,122103,English,18:20,DoubleSofa,280₹,24,0
+NationalCapitalRegionNcr,CinepolisAiriaMallSohnaRoadGurgaon,122103,English,18:20,Lounger,260₹,8,0
+Bengaluru,PvrPhoenixMarketcityMallWhitefieldRoad,560048,English,18:50,Classic,190₹,120,2
+Bengaluru,PvrPhoenixMarketcityMallWhitefieldRoad,560048,English,18:50,Recliner,290₹,8,0
