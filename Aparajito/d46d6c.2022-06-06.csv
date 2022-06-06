@@ -1,0 +1,8 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+DakshinBarasat,MahamayaTalkiesDakshinBarasat,743372,Bengali,16:00,GoldClass,100₹,89,0
+DakshinBarasat,MahamayaTalkiesDakshinBarasat,743372,Bengali,16:00,SilverClass,70₹,312,0
+Kolkata,PriyaCinemaRashbehariAvenue,700029,Bengali,16:45,Rear,112₹,341,0
+Kolkata,PriyaCinemaRashbehariAvenue,700029,Bengali,16:45,Box,170₹,12,12
+Kolkata,PriyaCinemaRashbehariAvenue,700029,Bengali,16:45,Recliners,270₹,17,0
+Kolkata,PriyaCinemaRashbehariAvenue,700029,Bengali,16:45,Classic,190₹,76,50
+Kolkata,PriyaCinemaRashbehariAvenue,700029,Bengali,16:45,Balcony,170₹,104,3
