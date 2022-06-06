@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kolkata,RadhaStudioTollygunge,700033,Bengali,19:00,Silver,30₹,146,132
+Kolkata,MirajCinemasNewtownKolkata,700156,Bengali,19:00,Recliner,250₹,47,10
+Kolkata,MirajCinemasNewtownKolkata,700156,Bengali,19:00,Executive,150₹,85,0
+Kolkata,MirajCinemasNewtownKolkata,700156,Bengali,19:00,Special,130₹,59,0
+Kolkata,InoxCityCentreIiRajarhat,700157,Bengali,19:30,Club,160₹,245,32
+Kolkata,InoxCityCentreIiRajarhat,700157,Bengali,19:30,Executive,140₹,42,0
+Kolkata,InoxSouthCityKolkata,700068,Bengali,20:40,Silver,200₹,167,52
+Kolkata,InoxSouthCityKolkata,700068,Bengali,20:40,Premier,180₹,34,0
+Kolkata,CinepolisLakeMallKolkata,700026,Bengali,20:45,Normal,170₹,40,3
+Kolkata,CinepolisLakeMallKolkata,700026,Bengali,20:45,Executive,170₹,188,24
+Kolkata,CinepolisLakeMallKolkata,700026,Bengali,20:45,Premium,170₹,47,34
+Kolkata,CinepolisLakeMallKolkata,700026,Bengali,20:45,Vip,350₹,12,6
