@@ -1,0 +1,10 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Raipur,InoxAmbujaCityCentreRaipur,492007,Chattisgarhi,19:30,RoyalRecliner,250₹,18,4
+Raipur,InoxAmbujaCityCentreRaipur,492007,Chattisgarhi,19:30,Royal,140₹,34,17
+Raipur,InoxAmbujaCityCentreRaipur,492007,Chattisgarhi,19:30,Club,100₹,132,51
+Raipur,InoxAmbujaCityCentreRaipur,492007,Chattisgarhi,19:30,Executive,90₹,28,0
+Raipur,MirajCinemasNavaRaipurAtalNagar,492101,Chattisgarhi,20:20,Special,110₹,26,0
+Raipur,MirajCinemasNavaRaipurAtalNagar,492101,Chattisgarhi,20:20,Executive,130₹,76,0
+Raipur,MirajCinemasNavaRaipurAtalNagar,492101,Chattisgarhi,20:20,Club,230₹,11,0
+Champa,PadminiMultiplexChampa,495671,Chattisgarhi,21:30,Royal,120₹,11,0
+Champa,PadminiMultiplexChampa,495671,Chattisgarhi,21:30,Classic,100₹,16,0
