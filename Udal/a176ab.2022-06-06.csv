@@ -1,0 +1,17 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kannur,LittleKavithaKannur,670001,Malayalam,20:30,Jasmine,110₹,303,0
+Kochi,KairaliSreeTheaterNorthParvur,683513,Malayalam,21:00,Platinum,105₹,249,0
+Mukkam,PeeCeeTheatreMukkam,673602,Malayalam,21:00,FirstClass,110₹,139,19
+Pattambi,KrishnaCineplexAC2K3DDolbyAtmosPattambi,679303,Malayalam,21:00,StarCircle,110₹,123,6
+Trivandrum,LeninCinemas4K3DDolbyAtmosKsfdcTrivandrum,695014,Malayalam,21:00,Platinum,150₹,22,6
+Trivandrum,LeninCinemas4K3DDolbyAtmosKsfdcTrivandrum,695014,Malayalam,21:00,Gold,129₹,144,0
+Thodupuzha,SilverHillsCinemasThodupuzha,685584,Malayalam,21:30,Silver,130₹,80,0
+Kochi,PvrOberonMallKochi,682024,Malayalam,22:15,Classic,129₹,54,0
+Kochi,PvrOberonMallKochi,682024,Malayalam,22:15,ClassicPlus,160₹,104,28
+Trivandrum,CarnivalGreenfieldTrivandrum,695581,Malayalam,22:20,ExecutiveOffline,160₹,145,15
+Thrissur,InoxSobhaCityMall,680553,Malayalam,22:40,RoyalRecliner,290₹,10,0
+Thrissur,InoxSobhaCityMall,680553,Malayalam,22:40,Club,170₹,63,10
+Thrissur,InoxSobhaCityMall,680553,Malayalam,22:40,Royal,170₹,28,17
+Thrissur,InoxSobhaCityMall,680553,Malayalam,22:40,Executive,130₹,20,0
+Trivandrum,LeninCinemas4K3DDolbyAtmosKsfdcTrivandrum,695014,Malayalam,23:15,Platinum,150₹,22,0
+Trivandrum,LeninCinemas4K3DDolbyAtmosKsfdcTrivandrum,695014,Malayalam,23:15,Gold,129₹,144,0
