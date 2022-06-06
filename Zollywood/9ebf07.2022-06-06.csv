@@ -1,0 +1,6 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Mumbai,CinepolisVivianaMallThane,400606,Marathi,20:25,Normal,180₹,24,0
+Mumbai,CinepolisVivianaMallThane,400606,Marathi,20:25,Executive,200₹,72,0
+Mumbai,CinepolisVivianaMallThane,400606,Marathi,20:25,Premium,220₹,12,12
+Wani,DeeptiSkyCinexWani,445304,Marathi,23:00,SilverClass,70₹,20,0
+Wani,DeeptiSkyCinexWani,445304,Marathi,23:00,Balcony,100₹,20,0
