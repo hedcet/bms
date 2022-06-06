@@ -1,0 +1,17 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Nandikotkur,SriKrishnaCinemasNandikotkur,518401,Telugu,18:10,Platinum,70₹,190,0
+Nandikotkur,SriKrishnaCinemasNandikotkur,518401,Telugu,18:10,Gold,50₹,116,0
+VizagVisakhapatnam,SukanyaComplexVizag,530027,Telugu,20:45,Sofa,145₹,26,2
+VizagVisakhapatnam,SukanyaComplexVizag,530027,Telugu,20:45,Balcony,145₹,239,0
+VizagVisakhapatnam,SukanyaComplexVizag,530027,Telugu,20:45,FirstClass,100₹,122,0
+Ajmer,PlazaCinemaAjmer,305001,Hindi,21:00,Balcony,70₹,100,0
+Ajmer,PlazaCinemaAjmer,305001,Hindi,21:00,DressCircle,60₹,100,0
+Ajmer,PlazaCinemaAjmer,305001,Hindi,21:00,Janta,50₹,50,0
+Guntur,VenkataKrishnaTheatreGuntur,522001,Telugu,21:15,FirstClass,100₹,236,0
+Guntur,VenkataKrishnaTheatreGuntur,522001,Telugu,21:15,SecondClass,60₹,59,0
+Guntur,VenkataKrishnaTheatreGuntur,522001,Telugu,21:15,ThirdClass,40₹,68,0
+Mandapeta,VpcSriKrishnaCinemaxMandapeta,533308,Telugu,21:15,FirstClass,110₹,144,16
+Kadapa,ThaharTheaterKadapa,516001,Telugu,21:30,Sofa,100₹,46,0
+Kadapa,ThaharTheaterKadapa,516001,Telugu,21:30,FirstClass,100₹,191,0
+Nandikotkur,SriKrishnaCinemasNandikotkur,518401,Telugu,21:35,Platinum,70₹,190,0
+Nandikotkur,SriKrishnaCinemasNandikotkur,518401,Telugu,21:35,Gold,50₹,116,0
