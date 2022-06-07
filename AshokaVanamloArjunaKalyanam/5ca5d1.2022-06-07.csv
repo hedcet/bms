@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Eluru,AmbicaMiniEluru,534001,Telugu,11:00,FirstClass,150₹,57,0
+Vizianagaram,AdityaTheatreACDtsVizianagaram,535001,Telugu,11:00,FirstClass,112₹,305,0
+Vizianagaram,AdityaTheatreACDtsVizianagaram,535001,Telugu,11:00,SecondClass,78₹,107,0
+Eluru,AmbicaMiniEluru,534001,Telugu,14:30,FirstClass,150₹,57,0
+Vizianagaram,AdityaTheatreACDtsVizianagaram,535001,Telugu,14:30,FirstClass,112₹,353,60
+Vizianagaram,AdityaTheatreACDtsVizianagaram,535001,Telugu,14:30,SecondClass,78₹,138,36
+Eluru,AmbicaMiniEluru,534001,Telugu,18:30,FirstClass,150₹,57,0
+Vizianagaram,AdityaTheatreACDtsVizianagaram,535001,Telugu,18:30,FirstClass,112₹,353,60
+Vizianagaram,AdityaTheatreACDtsVizianagaram,535001,Telugu,18:30,SecondClass,78₹,138,36
+Eluru,AmbicaMiniEluru,534001,Telugu,21:30,FirstClass,150₹,57,0
+Vizianagaram,AdityaTheatreACDtsVizianagaram,535001,Telugu,21:30,FirstClass,112₹,305,0
+Vizianagaram,AdityaTheatreACDtsVizianagaram,535001,Telugu,21:30,SecondClass,78₹,107,0
