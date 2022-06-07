@@ -1,0 +1,11 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kanhangad,VinayakaTheaterComplex2KACDolby71,671315,Malayalam,14:30,ParadiseBalcony,140₹,208,0
+Kanhangad,VinayakaTheaterComplex2KACDolby71,671315,Malayalam,14:30,ParadiseFirstClass,129₹,285,0
+Kanhangad,VinayakaTheaterComplex2KACDolby71,671315,Malayalam,17:30,ParadiseBalcony,140₹,208,0
+Kanhangad,VinayakaTheaterComplex2KACDolby71,671315,Malayalam,17:30,ParadiseFirstClass,129₹,285,0
+Thrissur,InoxSobhaCityMall,680553,Malayalam,19:45,RoyalRecliner,290₹,10,0
+Thrissur,InoxSobhaCityMall,680553,Malayalam,19:45,Club,170₹,63,2
+Thrissur,InoxSobhaCityMall,680553,Malayalam,19:45,Royal,170₹,16,0
+Thrissur,InoxSobhaCityMall,680553,Malayalam,19:45,Executive,130₹,22,0
+Kanhangad,VinayakaTheatreComplexKanhangad,671315,Malayalam,20:00,ParadiseBalcony,140₹,208,0
+Kanhangad,VinayakaTheatreComplexKanhangad,671315,Malayalam,20:00,ParadiseFirstClass,129₹,285,0
