@@ -1,0 +1,6 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+MangaluruMangalore,BharathCinemasMangalore,575013,Tulu,14:00,Gold,200₹,47,6
+MangaluruMangalore,BharathCinemasMangalore,575013,Tulu,14:00,Silver,180₹,33,0
+MangaluruMangalore,BharathCinemasMangalore,575013,Tulu,14:00,Special,150₹,11,0
+MangaluruMangalore,CinepolisCityCentreMallMangaluru,122002,Tulu,15:50,Platinum,150₹,50,0
+MangaluruMangalore,CinepolisCityCentreMallMangaluru,122002,Tulu,15:50,Vip,200₹,17,0
