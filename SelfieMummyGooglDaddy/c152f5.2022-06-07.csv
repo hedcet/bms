@@ -1,0 +1,8 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,GopalanCinemasArcadeMallMysoreRoad,560098,Kannada,14:45,Gold,200₹,332,0
+Bengaluru,GopalanCinemasArcadeMallMysoreRoad,560098,Kannada,14:45,Sofa,200₹,21,4
+Bengaluru,CinepolisBinnypetMall,560023,Kannada,16:05,Normal,150₹,10,0
+Bengaluru,CinepolisBinnypetMall,560023,Kannada,16:05,Executive,150₹,82,0
+Bengaluru,CinepolisBinnypetMall,560023,Kannada,16:05,Premium,150₹,34,2
+Bengaluru,InoxMantriSquareMalleshwaram,560052,Kannada,19:50,Royal,250₹,9,0
+Bengaluru,InoxMantriSquareMalleshwaram,560052,Kannada,19:50,Club,160₹,295,0
