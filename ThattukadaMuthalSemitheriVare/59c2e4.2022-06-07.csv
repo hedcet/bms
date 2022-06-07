@@ -1,0 +1,15 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Angamaly,JmMoviesJoshMallMookkannoorAngamaly,683577,Malayalam,10:30,Gold,130₹,120,5
+Angamaly,JmMoviesJoshMallMookkannoorAngamaly,683577,Malayalam,10:30,Platinum,160₹,16,5
+Kasaragod,CineKrishna4KKasaragod,671123,Malayalam,10:30,FirstClass,129₹,144,0
+Kasaragod,CineKrishna4KKasaragod,671123,Malayalam,10:30,Sofa,200₹,8,0
+Kochi,SangeetaCinemaKochi,680018,Malayalam,12:00,BlueCircle,150₹,187,18
+Kozhikode,AashirvadCineplexxKozhikode,673001,Malayalam,14:00,Platinum,220₹,10,0
+Kozhikode,AashirvadCineplexxKozhikode,673001,Malayalam,14:00,Gold,200₹,10,0
+Trivandrum,CarnivalMallOfTravancoreTrivandrum,695024,Malayalam,16:20,Silver,190₹,103,6
+Trivandrum,CarnivalMallOfTravancoreTrivandrum,695024,Malayalam,16:20,ExecutiveOffline,160₹,72,0
+Trivandrum,CarnivalMallOfTravancoreTrivandrum,695024,Malayalam,16:20,NormalOffline,100₹,18,0
+Kasaragod,CineKrishna4KKasaragod,671123,Malayalam,16:30,FirstClass,129₹,144,0
+Kasaragod,CineKrishna4KKasaragod,671123,Malayalam,16:30,Sofa,200₹,8,0
+Chengannur,CCinemasChengannur,689121,Malayalam,18:30,Chimmy,150₹,135,11
+Kottayam,DhanyaRemyaKottayam,686001,Malayalam,21:00,Dhanya,135₹,465,0
