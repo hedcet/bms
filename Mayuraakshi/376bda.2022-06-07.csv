@@ -1,0 +1,17 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Anakapalle,RajaPicturePalaceAnakapalle,531001,Telugu,11:00,FirstClass,147₹,470,120
+Anakapalle,RajaPicturePalaceAnakapalle,531001,Telugu,11:00,SecondClass,70₹,159,0
+Hyderabad,Saptagiri70Mm4KDolbyDigitalRtcXRoads,500020,Telugu,11:00,Balcony,150₹,230,0
+Hyderabad,Saptagiri70Mm4KDolbyDigitalRtcXRoads,500020,Telugu,11:00,FirstClass,100₹,294,0
+Hyderabad,Saptagiri70Mm4KDolbyDigitalRtcXRoads,500020,Telugu,14:00,Balcony,150₹,230,0
+Hyderabad,Saptagiri70Mm4KDolbyDigitalRtcXRoads,500020,Telugu,14:00,FirstClass,100₹,294,0
+VizagVisakhapatnam,InoxVizagChitralayaMall,530020,Telugu,15:55,Executive,177₹,124,0
+Hyderabad,Saptagiri70Mm4KDolbyDigitalRtcXRoads,500020,Telugu,18:00,Balcony,150₹,230,0
+Hyderabad,Saptagiri70Mm4KDolbyDigitalRtcXRoads,500020,Telugu,18:00,FirstClass,100₹,294,0
+Anakapalle,RajaPicturePalaceAnakapalle,531001,Telugu,18:30,FirstClass,147₹,470,120
+Anakapalle,RajaPicturePalaceAnakapalle,531001,Telugu,18:30,SecondClass,70₹,159,0
+Hyderabad,Saptagiri70Mm4KDolbyDigitalRtcXRoads,500020,Telugu,21:00,Balcony,150₹,230,0
+Hyderabad,Saptagiri70Mm4KDolbyDigitalRtcXRoads,500020,Telugu,21:00,FirstClass,100₹,294,0
+Anakapalle,RajaPicturePalaceAnakapalle,531001,Telugu,21:45,FirstClass,147₹,470,120
+Anakapalle,RajaPicturePalaceAnakapalle,531001,Telugu,21:45,SecondClass,70₹,159,0
+Kakinada,InoxSrmtMallKakinada,533005,Telugu,22:30,Executive,112₹,146,15
