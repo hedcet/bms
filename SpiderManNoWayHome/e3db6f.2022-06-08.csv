@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+NationalCapitalRegionNcr,PvrVegasDwarka,110078,Hindi,18:20,Classic,250₹,36,0
+NationalCapitalRegionNcr,PvrVegasDwarka,110078,Hindi,18:20,Prime,300₹,14,0
+NationalCapitalRegionNcr,PvrVegasDwarka,110078,Hindi,18:20,Recliner,350₹,8,0
+Hyderabad,PvrNextGalleriaMallPanjagutta,500082,English,22:05,Classic,200₹,54,14
