@@ -1,0 +1,17 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Tumsar,SmileMultiplexTumsar,441912,Marathi,11:45,Platinum,150₹,32,0
+Tumsar,SmileMultiplexTumsar,441912,Marathi,11:45,Gold,120₹,30,0
+Tumsar,SmileMultiplexTumsar,441912,Marathi,11:45,Silver,100₹,30,0
+Akola,NewRegalCinemaAkola,444001,Marathi,12:15,Balcony,100₹,145,0
+Akola,NewRegalCinemaAkola,444001,Marathi,12:15,ReserveClass,60₹,343,0
+Nagpur,AlankarCinemaNagpur,440002,Marathi,12:30,Balcony,120₹,159,0
+Nagpur,AlankarCinemaNagpur,440002,Marathi,12:30,FirstBalcony,80₹,285,0
+Mumbai,MovietimeTheHubGoregaon,400063,Marathi,12:35,Mhraja,110₹,44,10
+Nagpur,AlankarCinemaNagpur,440002,Marathi,15:30,Balcony,120₹,159,2
+Nagpur,AlankarCinemaNagpur,440002,Marathi,15:30,FirstBalcony,80₹,285,0
+Pusad,VijayTalkiesPusad,445204,Marathi,18:00,Platinum,120₹,4,0
+Pusad,VijayTalkiesPusad,445204,Marathi,18:00,Gold,100₹,15,0
+Pusad,VijayTalkiesPusad,445204,Marathi,18:00,Silver,80₹,80,0
+Kolhapur,RoyalCinemaKolhapur,416002,Marathi,18:30,Balcony,80₹,75,0
+Kolhapur,RoyalCinemaKolhapur,416002,Marathi,18:30,DressCircle,70₹,85,0
+Kolhapur,RoyalCinemaKolhapur,416002,Marathi,18:30,Stall,60₹,85,0
