@@ -1,0 +1,10 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Pune,AbhiruchiCityPrideSinhagadRoad,411041,Marathi,13:15,RoyalSofa,200₹,18,0
+Pune,AbhiruchiCityPrideSinhagadRoad,411041,Marathi,13:15,RoyalGold,180₹,129,36
+Pune,AbhiruchiCityPrideSinhagadRoad,411041,Marathi,13:15,RoyalSilver,160₹,36,0
+Pune,CityPrideKothrud,411038,Marathi,15:30,RoyalGold,230₹,149,14
+Pune,CityPrideKothrud,411038,Marathi,15:30,RoyalSilver,200₹,22,0
+Mumbai,MovietimeTheHubGoregaon,400063,Marathi,19:00,Gold,130₹,196,21
+Pune,PvrPhoenixMarketCityPune,411014,Marathi,22:45,Classic,200₹,52,1
+Pune,PvrPhoenixMarketCityPune,411014,Marathi,22:45,Prime,250₹,119,38
+Pune,PvrPhoenixMarketCityPune,411014,Marathi,22:45,PrimePlus,290₹,10,8
