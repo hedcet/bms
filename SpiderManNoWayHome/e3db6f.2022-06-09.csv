@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+NationalCapitalRegionNcr,PvrVegasDwarka,110078,Hindi,18:20,Classic,250₹,36,0
+NationalCapitalRegionNcr,PvrVegasDwarka,110078,Hindi,18:20,Prime,300₹,14,0
+NationalCapitalRegionNcr,PvrVegasDwarka,110078,Hindi,18:20,Recliner,350₹,8,0
+Burhanpur,StarCinemasBurhanpur,450331,Hindi,22:00,3DPremium,160₹,54,18
+Burhanpur,StarCinemasBurhanpur,450331,Hindi,22:00,3DRoyale,210₹,126,46
+Burhanpur,StarCinemasBurhanpur,450331,Hindi,22:00,3DLuxury,330₹,14,0
+Hyderabad,PvrNextGalleriaMallPanjagutta,500082,English,22:05,Classic,200₹,54,16
+NationalCapitalRegionNcr,PvrLogixNoida,201301,English,23:00,Classic,315₹,38,0
