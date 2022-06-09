@@ -1,0 +1,12 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kolkata,InoxSouthCityKolkata,700068,Bengali,15:40,Silver,200₹,167,36
+Kolkata,InoxSouthCityKolkata,700068,Bengali,15:40,Premier,180₹,34,0
+Kolkata,RadhaStudioTollygunge,700033,Bengali,19:00,Silver,30₹,146,81
+Kolkata,InoxHilandPark,700020,Bengali,19:30,Royal,300₹,16,4
+Kolkata,InoxHilandPark,700020,Bengali,19:30,Premier,140₹,36,0
+Kolkata,InoxHilandPark,700020,Bengali,19:30,Silver,140₹,155,70
+Kolkata,InoxSouthCityKolkata,700068,Bengali,20:50,Silver,200₹,167,55
+Kolkata,InoxSouthCityKolkata,700068,Bengali,20:50,Premier,180₹,34,5
+Kolkata,StarTheatreKolkata,700006,Bengali,20:50,FrontStall,115₹,84,0
+Kolkata,StarTheatreKolkata,700006,Bengali,20:50,RearStall,125₹,234,4
+Kolkata,StarTheatreKolkata,700006,Bengali,20:50,Balcony,115₹,192,13
