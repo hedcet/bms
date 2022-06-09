@@ -1,0 +1,6 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,CinepolisSjrCentralMallArekereBannergatta,560076,Kannada,16:20,Normal,150₹,28,0
+Bengaluru,CinepolisSjrCentralMallArekereBannergatta,560076,Kannada,16:20,Executive,150₹,59,0
+Bengaluru,CinepolisSjrCentralMallArekereBannergatta,560076,Kannada,16:20,Premium,150₹,51,13
+Bengaluru,CinepolisSjrCentralMallArekereBannergatta,560076,Kannada,16:20,Vip,300₹,12,0
+Bengaluru,InoxMantriSquareMalleshwaram,560052,Kannada,16:40,Club,160₹,223,21
