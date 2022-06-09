@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+NationalCapitalRegionNcr,CinepolisAiriaMallSohnaRoadGurgaon,122103,English,12:20,Normal,160₹,22,0
+NationalCapitalRegionNcr,CinepolisAiriaMallSohnaRoadGurgaon,122103,English,12:20,DoubleSofa,200₹,24,0
+NationalCapitalRegionNcr,CinepolisAiriaMallSohnaRoadGurgaon,122103,English,12:20,Lounger,180₹,8,0
+Mumbai,MetroInoxCinemasMarineLines,400020,English,13:15,Kiddles,210₹,36,0
+Bengaluru,PvrVegaCityBannerghattaRoad,560076,English,13:45,Classic,150₹,77,18
+NationalCapitalRegionNcr,CinepolisAiriaMallSohnaRoadGurgaon,122103,English,15:00,Normal,160₹,22,0
+NationalCapitalRegionNcr,CinepolisAiriaMallSohnaRoadGurgaon,122103,English,15:00,DoubleSofa,200₹,24,0
+NationalCapitalRegionNcr,CinepolisAiriaMallSohnaRoadGurgaon,122103,English,15:00,Lounger,180₹,8,0
+Bengaluru,PvrPhoenixMarketcityMallWhitefieldRoad,560048,English,18:50,Classic,190₹,120,16
+Bengaluru,PvrPhoenixMarketcityMallWhitefieldRoad,560048,English,18:50,Recliner,290₹,8,0
+Chennai,PvrVrChennaiAnnaNagar,600040,English,19:40,Classic,66₹,16,0
+Chennai,PvrVrChennaiAnnaNagar,600040,English,19:40,Prime,211₹,110,21
