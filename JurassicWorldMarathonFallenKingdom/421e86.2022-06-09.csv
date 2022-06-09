@@ -1,0 +1,8 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,PvrVegaCityBannerghattaRoad,560076,English,16:35,3DClassic,152₹,77,16
+NationalCapitalRegionNcr,PvrLogixNoida,201301,English,20:20,Classic,315₹,38,7
+Bengaluru,PvrPhoenixMarketcityMallWhitefieldRoad,560048,English,21:00,3DClassic,190₹,120,0
+Bengaluru,PvrPhoenixMarketcityMallWhitefieldRoad,560048,English,21:00,3DRecliner,190₹,8,4
+NationalCapitalRegionNcr,PvrVegasDwarka,110078,English,21:35,Classic,200₹,36,0
+NationalCapitalRegionNcr,PvrVegasDwarka,110078,English,21:35,Prime,250₹,14,0
+NationalCapitalRegionNcr,PvrVegasDwarka,110078,English,21:35,Recliner,300₹,8,0
