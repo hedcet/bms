@@ -1,0 +1,11 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+NationalCapitalRegionNcr,PvrAmbienceGurgaon,122001,English,10:00,ClassicNormal,200₹,84,0
+NationalCapitalRegionNcr,PvrAmbienceGurgaon,122001,English,10:00,Prime,250₹,38,0
+Bengaluru,PvrPhoenixMarketcityMallWhitefieldRoad,560048,English,13:40,3DClassic,210₹,120,16
+Bengaluru,PvrPhoenixMarketcityMallWhitefieldRoad,560048,English,13:40,3DRecliner,290₹,8,0
+Mumbai,MetroInoxCinemasMarineLines,400020,English,15:15,Kiddles,300₹,36,0
+Mumbai,InoxRCityGhatkopar,400086,English,16:50,RoyalRecliner,330₹,14,9
+Mumbai,InoxRCityGhatkopar,400086,English,16:50,Royal,210₹,48,15
+Mumbai,InoxRCityGhatkopar,400086,English,16:50,Club,200₹,65,0
+Mumbai,InoxRCityGhatkopar,400086,English,16:50,Executive,180₹,35,0
+Mumbai,InoxMegaplexInorbitMallMalad,400064,English,17:05,Kiddles,260₹,57,8
