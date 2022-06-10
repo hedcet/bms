@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kanpur,SaraswatiTalkiesShuklagunj,209861,Hindi,12:00,Balcony,90₹,48,6
+Kanpur,SaraswatiTalkiesShuklagunj,209861,Hindi,12:00,Family,60₹,72,0
+Kanpur,SaraswatiTalkiesShuklagunj,209861,Hindi,15:00,Balcony,90₹,48,8
+Kanpur,SaraswatiTalkiesShuklagunj,209861,Hindi,15:00,Family,60₹,72,0
+Kanpur,SaraswatiTalkiesShuklagunj,209861,Hindi,18:00,Balcony,90₹,48,3
+Kanpur,SaraswatiTalkiesShuklagunj,209861,Hindi,18:00,Family,60₹,72,0
+Kanpur,SaraswatiTalkiesShuklagunj,209861,Hindi,21:00,Balcony,90₹,48,0
+Kanpur,SaraswatiTalkiesShuklagunj,209861,Hindi,21:00,Family,60₹,72,0
