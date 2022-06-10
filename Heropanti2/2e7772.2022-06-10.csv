@@ -1,0 +1,15 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Shikaripur,JayashreeTheatreShikaripura,577427,Hindi,11:00,Balcony,150₹,30,0
+Shikaripur,JayashreeTheatreShikaripura,577427,Hindi,11:00,FirstClass,100₹,150,0
+Agra,RajeevCinemaAgra,282010,Hindi,12:15,Balcony,40₹,56,0
+Agra,RajeevCinemaAgra,282010,Hindi,12:15,DressCircle,20₹,60,0
+Shikaripur,JayashreeTheatreShikaripura,577427,Hindi,14:00,Balcony,150₹,30,0
+Shikaripur,JayashreeTheatreShikaripura,577427,Hindi,14:00,FirstClass,100₹,150,0
+Agra,RajeevCinemaAgra,282010,Hindi,15:15,Balcony,40₹,56,0
+Agra,RajeevCinemaAgra,282010,Hindi,15:15,DressCircle,20₹,60,0
+Shikaripur,JayashreeTheatreShikaripura,577427,Hindi,18:00,Balcony,150₹,30,0
+Shikaripur,JayashreeTheatreShikaripura,577427,Hindi,18:00,FirstClass,100₹,150,0
+Agra,RajeevCinemaAgra,282010,Hindi,18:15,Balcony,40₹,56,3
+Agra,RajeevCinemaAgra,282010,Hindi,18:15,DressCircle,20₹,60,0
+Shikaripur,JayashreeTheatreShikaripura,577427,Hindi,21:00,Balcony,150₹,30,0
+Shikaripur,JayashreeTheatreShikaripura,577427,Hindi,21:00,FirstClass,100₹,150,0
