@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Burhanpur,StarCinemasBurhanpur,450331,Hindi,15:30,3DPremium,180₹,54,18
+Burhanpur,StarCinemasBurhanpur,450331,Hindi,15:30,3DRoyale,210₹,126,46
+Burhanpur,StarCinemasBurhanpur,450331,Hindi,15:30,3DLuxury,330₹,14,2
+NationalCapitalRegionNcr,PvrVegasDwarka,110078,Hindi,18:00,Classic,350₹,36,0
+NationalCapitalRegionNcr,PvrVegasDwarka,110078,Hindi,18:00,Prime,400₹,21,7
+NationalCapitalRegionNcr,PvrVegasDwarka,110078,Hindi,18:00,Recliner,450₹,8,0
+Burhanpur,StarCinemasBurhanpur,450331,Hindi,18:30,3DPremium,180₹,54,18
+Burhanpur,StarCinemasBurhanpur,450331,Hindi,18:30,3DRoyale,210₹,126,36
+Burhanpur,StarCinemasBurhanpur,450331,Hindi,18:30,3DLuxury,330₹,14,0
+Burhanpur,StarCinemasBurhanpur,450331,Hindi,21:30,3DPremium,180₹,54,18
+Burhanpur,StarCinemasBurhanpur,450331,Hindi,21:30,3DRoyale,210₹,126,36
+Burhanpur,StarCinemasBurhanpur,450331,Hindi,21:30,3DLuxury,330₹,14,0
