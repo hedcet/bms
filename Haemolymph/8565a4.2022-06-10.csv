@@ -1,0 +1,8 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bhadrak,MadhabCinemaHallBhadrak,756113,Hindi,10:00,Box,150₹,15,0
+Bhadrak,MadhabCinemaHallBhadrak,756113,Hindi,10:00,Balcony,90₹,40,0
+Bhadrak,MadhabCinemaHallBhadrak,756113,Hindi,10:00,Special,50₹,53,0
+Aurangabad,MohanNovaCinemazAurangabad,431001,Hindi,14:00,Platinum,150₹,58,0
+Aurangabad,MohanNovaCinemazAurangabad,431001,Hindi,14:00,Gold,150₹,57,0
+Aurangabad,MohanNovaCinemazAurangabad,431001,Hindi,14:00,Silver,150₹,56,0
+Mumbai,MovietimeTheHubGoregaon,400063,Hindi,23:00,Mhraja,200₹,44,6
