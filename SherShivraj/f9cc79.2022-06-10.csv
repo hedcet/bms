@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Pimpalner,PvCinemaPimpalner,424306,Marathi,15:00,Platinum,150₹,60,0
+Pimpalner,PvCinemaPimpalner,424306,Marathi,15:00,Gold,100₹,48,0
+Pimpalner,PvCinemaPimpalner,424306,Marathi,21:00,Platinum,150₹,60,4
+Pimpalner,PvCinemaPimpalner,424306,Marathi,21:00,Gold,100₹,48,0
