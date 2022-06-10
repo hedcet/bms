@@ -1,0 +1,12 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kochi,PvrLuluKochi,682024,Malayalam,13:10,Classic,140₹,39,0
+Kochi,PvrLuluKochi,682024,Malayalam,13:10,ClassicPlus,180₹,91,0
+Kochi,PvrLuluKochi,682024,Malayalam,13:10,Prime,200₹,68,17
+Kochi,PvrLuluKochi,682024,Malayalam,13:10,Recliner,350₹,10,1
+Kozhinjampara,RavirajComplexACKozhinjampara,678555,Malayalam,18:00,Balcony,250₹,15,7
+Kozhinjampara,RavirajComplexACKozhinjampara,678555,Malayalam,18:00,FirstClass,110₹,215,127
+Alakode,AlakodeFilmCity4KDolbyAtmos,670571,Malayalam,18:30,Chandra,129₹,151,72
+Thodupuzha,SilverHillsCinemasThodupuzha,685584,Malayalam,18:45,Silver,150₹,172,17
+Kozhinjampara,RavirajComplexACKozhinjampara,678555,Malayalam,21:00,Balcony,250₹,15,7
+Kozhinjampara,RavirajComplexACKozhinjampara,678555,Malayalam,21:00,FirstClass,110₹,215,127
+Thodupuzha,SilverHillsCinemasThodupuzha,685584,Malayalam,21:45,Silver,150₹,172,4
