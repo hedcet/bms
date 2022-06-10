@@ -1,0 +1,14 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kota,MayurCinemaKota,324001,Hindi,12:15,RoyalClass,80₹,15,0
+Kota,MayurCinemaKota,324001,Hindi,12:15,GoldClass,70₹,200,0
+Kota,MayurCinemaKota,324001,Hindi,12:15,SilverClass,60₹,60,0
+Kota,MayurCinemaKota,324001,Hindi,15:15,RoyalClass,80₹,15,0
+Kota,MayurCinemaKota,324001,Hindi,15:15,GoldClass,70₹,200,0
+Kota,MayurCinemaKota,324001,Hindi,15:15,SilverClass,60₹,60,0
+Kota,MayurCinemaKota,324001,Hindi,18:15,RoyalClass,80₹,15,0
+Kota,MayurCinemaKota,324001,Hindi,18:15,GoldClass,70₹,200,0
+Kota,MayurCinemaKota,324001,Hindi,18:15,SilverClass,60₹,60,0
+Kota,MayurCinemaKota,324001,Hindi,21:15,RoyalClass,80₹,15,0
+Kota,MayurCinemaKota,324001,Hindi,21:15,GoldClass,70₹,200,0
+Kota,MayurCinemaKota,324001,Hindi,21:15,SilverClass,60₹,60,0
+NationalCapitalRegionNcr,PvrLogixNoida,201301,Hindi,22:55,Classic,320₹,76,2
