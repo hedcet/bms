@@ -1,0 +1,17 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+VijayapuraBijapur,AmirTalkiesVijayapuraBijapur,586101,Kannada,12:00,Balcony,150₹,96,0
+VijayapuraBijapur,AmirTalkiesVijayapuraBijapur,586101,Kannada,12:00,InterClass,100₹,555,1
+MysuruMysore,DrcCinemasBmHabitatMall,570012,Kannada,12:45,Premium,160₹,182,1
+MysuruMysore,DrcCinemasBmHabitatMall,570012,Kannada,12:45,Luxury,200₹,19,0
+VijayapuraBijapur,AmirTalkiesVijayapuraBijapur,586101,Kannada,15:00,Balcony,150₹,96,0
+VijayapuraBijapur,AmirTalkiesVijayapuraBijapur,586101,Kannada,15:00,InterClass,100₹,555,0
+Bengaluru,GopalanCinemasArcadeMallMysoreRoad,560098,Kannada,15:45,Gold,236₹,292,0
+Bengaluru,GopalanCinemasArcadeMallMysoreRoad,560098,Kannada,15:45,Recliner,350₹,19,0
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,15:55,Classic,170₹,128,0
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,15:55,Prime,190₹,100,20
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,15:55,Recliner,350₹,17,0
+TumakuruTumkur,InoxSMallTumakuru,572106,Kannada,16:15,Club,190₹,64,8
+TumakuruTumkur,InoxSMallTumakuru,572106,Kannada,16:15,Executive,170₹,76,0
+KalaburagiGulbarga,ShettysMultiplexGulbarga,585101,Kannada,18:00,Platinum,150₹,119,0
+KalaburagiGulbarga,ShettysMultiplexGulbarga,585101,Kannada,18:00,Gold,100₹,119,0
+KalaburagiGulbarga,ShettysMultiplexGulbarga,585101,Kannada,18:00,Silver,80₹,119,0
