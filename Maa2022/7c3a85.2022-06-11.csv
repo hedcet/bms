@@ -1,0 +1,15 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Nawanshahr,KSeraSeraNawanshahar,144514,Punjabi,13:00,Gold,140₹,30,0
+Nawanshahr,KSeraSeraNawanshahar,144514,Punjabi,13:00,Silver,100₹,10,0
+Nawanshahr,KSeraSeraNawanshahar,144514,Punjabi,13:00,Platinum,150₹,36,0
+Firozpur,SilverbirdCinemaFirozpur,152001,Punjabi,13:25,Gold,100₹,56,0
+Nawanshahr,SutlejPalacePictureNawanshahr,144514,Punjabi,14:30,Gold,170₹,36,0
+Nawanshahr,SutlejPalacePictureNawanshahr,144514,Punjabi,14:30,Silver,140₹,85,1
+Nawanshahr,SutlejPalacePictureNawanshahr,144514,Punjabi,14:30,Seasonal,100₹,17,0
+Faridkot,GillPlazaMultiplexFaridkot,151203,Punjabi,18:00,Box,300₹,107,0
+Faridkot,GillPlazaMultiplexFaridkot,151203,Punjabi,18:00,Platinum,200₹,107,0
+Faridkot,GillPlazaMultiplexFaridkot,151203,Punjabi,18:00,Gold,170₹,107,0
+Firozpur,SilverbirdCinemaFirozpur,152001,Punjabi,18:35,Gold,100₹,56,4
+Nawanshahr,SutlejPalacePictureNawanshahr,144514,Punjabi,18:45,Gold,170₹,36,0
+Nawanshahr,SutlejPalacePictureNawanshahr,144514,Punjabi,18:45,Silver,140₹,85,0
+Nawanshahr,SutlejPalacePictureNawanshahr,144514,Punjabi,18:45,Seasonal,100₹,17,0
