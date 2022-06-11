@@ -1,0 +1,11 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kolkata,AjantaCinemaBehala,700038,Bengali,13:00,Balcony,150₹,82,4
+Krishnanagar,SangeetaTalkiesKrishnanagar,741101,Bengali,13:30,Balcony,50₹,33,0
+Krishnanagar,SangeetaTalkiesKrishnanagar,741101,Bengali,13:30,FirstClass,30₹,30,0
+Ranaghat,RanaghatTalkiesNadia,741201,Bengali,13:30,1stClass,30₹,720,0
+Ranaghat,RanaghatTalkiesNadia,741201,Bengali,13:30,Balcony,50₹,130,12
+Arambagh,SudhanilCinemaArambagh,712601,Bengali,15:00,Balcony,40₹,30,0
+Arambagh,SudhanilCinemaArambagh,712601,Bengali,15:00,RearStall,30₹,21,0
+Kolkata,NandanKolkata,700020,Bengali,17:30,Normal,30₹,165,84
+Arambagh,SudhanilCinemaArambagh,712601,Bengali,18:00,Balcony,40₹,30,0
+Arambagh,SudhanilCinemaArambagh,712601,Bengali,18:00,RearStall,30₹,21,0
