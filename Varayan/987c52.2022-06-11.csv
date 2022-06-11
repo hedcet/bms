@@ -1,0 +1,17 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kochi,PvrLuluKochi,682024,Malayalam,13:10,Classic,140₹,39,0
+Kochi,PvrLuluKochi,682024,Malayalam,13:10,ClassicPlus,180₹,91,7
+Kochi,PvrLuluKochi,682024,Malayalam,13:10,Prime,200₹,68,33
+Kochi,PvrLuluKochi,682024,Malayalam,13:10,Recliner,350₹,10,0
+Alakode,AlakodeFilmCity4KDolbyAtmos,670571,Malayalam,13:15,Chandra,129₹,151,16
+Kozhinjampara,RavirajComplexACKozhinjampara,678555,Malayalam,14:00,Balcony,250₹,15,7
+Kozhinjampara,RavirajComplexACKozhinjampara,678555,Malayalam,14:00,FirstClass,110₹,215,127
+Kanichar,DevCinemasKanichar,670674,Malayalam,16:15,Screen3,130₹,152,43
+Kozhinjampara,RavirajComplexACKozhinjampara,678555,Malayalam,18:00,Balcony,250₹,15,7
+Kozhinjampara,RavirajComplexACKozhinjampara,678555,Malayalam,18:00,FirstClass,110₹,215,127
+Ulikkal,SjGCinemasUlikkal,670705,Malayalam,18:15,Standard,130₹,140,127
+Alakode,AlakodeFilmCity4KDolbyAtmos,670571,Malayalam,18:30,Chandra,129₹,151,73
+Thodupuzha,SilverHillsCinemasThodupuzha,685584,Malayalam,18:45,Silver,150₹,172,7
+Kozhinjampara,RavirajComplexACKozhinjampara,678555,Malayalam,21:00,Balcony,250₹,15,7
+Kozhinjampara,RavirajComplexACKozhinjampara,678555,Malayalam,21:00,FirstClass,110₹,215,127
+Thodupuzha,SilverHillsCinemasThodupuzha,685584,Malayalam,21:45,Silver,150₹,172,5
