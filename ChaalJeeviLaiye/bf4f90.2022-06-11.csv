@@ -1,0 +1,8 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kosamba,CoconutSalimCinemaKosamba,394120,Gujarati,12:15,Gold,50₹,85,0
+Surat,TimeCinemaGalaxyCirclePalSurat,394510,Gujarati,14:00,Gold,190₹,24,0
+Ahmedabad,TimeCinemaCgRoadAhmedabad,380006,Gujarati,18:45,Gold,270₹,24,13
+Ahmedabad,RevolutionMultiplexCtmAhmedabad,380026,Gujarati,21:20,PlatinumClass,180₹,15,7
+Ahmedabad,RevolutionMultiplexCtmAhmedabad,380026,Gujarati,21:20,GoldenClass,160₹,40,3
+Ahmedabad,RevolutionMultiplexCtmAhmedabad,380026,Gujarati,21:20,SilverClass,140₹,20,0
+Surat,TimeCinemaGalaxyCirclePalSurat,394510,Gujarati,22:45,Gold,210₹,24,8
