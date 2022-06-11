@@ -1,0 +1,11 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Narasannapeta,SreeDeviPicturePalaceNarasannapeta,532421,Telugu,10:15,Premium,100₹,115,0
+Narasannapeta,SreeDeviPicturePalaceNarasannapeta,532421,Telugu,10:15,NonPremium2Cl,80₹,115,0
+Narasannapeta,SreeDeviPicturePalaceNarasannapeta,532421,Telugu,14:15,Premium,100₹,115,0
+Narasannapeta,SreeDeviPicturePalaceNarasannapeta,532421,Telugu,14:15,NonPremium2Cl,80₹,115,0
+Ongole,G2VTheatersRaviPriyaMallOngole,523001,Telugu,16:50,PlatinumRecliner,295₹,10,5
+Ongole,G2VTheatersRaviPriyaMallOngole,523001,Telugu,16:50,Gold,177₹,219,32
+Narasannapeta,SreeDeviPicturePalaceNarasannapeta,532421,Telugu,18:00,Premium,100₹,115,0
+Narasannapeta,SreeDeviPicturePalaceNarasannapeta,532421,Telugu,18:00,NonPremium2Cl,80₹,115,0
+Narasannapeta,SreeDeviPicturePalaceNarasannapeta,532421,Telugu,21:30,Premium,100₹,115,0
+Narasannapeta,SreeDeviPicturePalaceNarasannapeta,532421,Telugu,21:30,NonPremium2Cl,80₹,115,0
