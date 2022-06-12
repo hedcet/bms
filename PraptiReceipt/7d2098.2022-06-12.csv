@@ -1,0 +1,15 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kolkata,PriyaCinemaRashbehariAvenue,700029,Bengali,12:00,Rear,112₹,341,0
+Kolkata,PriyaCinemaRashbehariAvenue,700029,Bengali,12:00,Box,170₹,12,12
+Kolkata,PriyaCinemaRashbehariAvenue,700029,Bengali,12:00,Recliners,270₹,17,0
+Kolkata,PriyaCinemaRashbehariAvenue,700029,Bengali,12:00,Classic,190₹,76,0
+Kolkata,PriyaCinemaRashbehariAvenue,700029,Bengali,12:00,Balcony,170₹,104,0
+Durgapur,SvfCinemasRajSammiloneeAnuradhaCinemaBenacity,713213,Bengali,12:55,Silver,100₹,33,0
+Durgapur,SvfCinemasRajSammiloneeAnuradhaCinemaBenacity,713213,Bengali,12:55,Gold,140₹,36,0
+Durgapur,SvfCinemasRajSammiloneeAnuradhaCinemaBenacity,713213,Bengali,12:55,Platinum,140₹,40,2
+Kolkata,JayaCinemasCityMallBarasat,700124,Bengali,13:00,DressCircle,130₹,182,14
+Kolkata,JayaCinemasCityMallBarasat,700124,Bengali,13:00,RearStall,100₹,28,0
+Haldia,SvfCinemasHaldia,721657,Bengali,13:05,Silver,100₹,42,0
+Haldia,SvfCinemasHaldia,721657,Bengali,13:05,Gold,150₹,73,0
+Haldia,SvfCinemasHaldia,721657,Bengali,13:05,Platinum,170₹,87,0
+Ranaghat,SurendraCinemaRanaghat,741201,Bengali,13:30,Balocny,50₹,69,0
