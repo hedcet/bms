@@ -1,0 +1,15 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Mumbai,G7MultiplexBandraW,400050,Hindi,12:30,Special,170₹,38,29
+Mumbai,G7MultiplexBandraW,400050,Hindi,12:30,DressCircle,170₹,9,6
+Mumbai,CinepolisFunRepublicMallAndheriW,400053,Hindi,15:45,Normal,250₹,32,0
+Mumbai,CinepolisFunRepublicMallAndheriW,400053,Hindi,15:45,Executive,250₹,95,0
+Mumbai,CinepolisFunRepublicMallAndheriW,400053,Hindi,15:45,Premium,250₹,32,6
+Mumbai,CinepolisFunRepublicMallAndheriW,400053,Hindi,15:45,Platinum,250₹,25,11
+Pune,CinepolisSeasonsMallPune,411028,Hindi,16:30,Normal,230₹,17,0
+Pune,CinepolisSeasonsMallPune,411028,Hindi,16:30,Executive,230₹,49,10
+Pune,CinepolisSeasonsMallPune,411028,Hindi,16:30,Premium,250₹,22,6
+Mumbai,MovieMaxSion,400022,Hindi,17:10,Classic,180₹,45,0
+Mumbai,MovieMaxSion,400022,Hindi,17:10,Prime,200₹,93,3
+Mumbai,MovieMaxSion,400022,Hindi,17:10,PrimePlus,250₹,6,2
+NationalCapitalRegionNcr,PvrPromenadeVasantKunj,110070,Hindi,17:40,Classic,450₹,50,38
+NationalCapitalRegionNcr,PvrPromenadeVasantKunj,110070,Hindi,17:40,Prime,450₹,44,44
