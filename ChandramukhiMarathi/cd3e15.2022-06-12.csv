@@ -1,0 +1,17 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Mumbai,MovietimeTheHubGoregaon,400063,Marathi,12:15,Mhraja,150₹,44,13
+Pune,AbhiruchiCityPrideSinhagadRoad,411041,Marathi,13:15,RoyalSofa,230₹,18,0
+Pune,AbhiruchiCityPrideSinhagadRoad,411041,Marathi,13:15,RoyalGold,200₹,129,36
+Pune,AbhiruchiCityPrideSinhagadRoad,411041,Marathi,13:15,RoyalSilver,180₹,36,0
+Pune,CinepolisSeasonsMallPune,411028,Marathi,13:20,Normal,180₹,27,0
+Pune,CinepolisSeasonsMallPune,411028,Marathi,13:20,Executive,180₹,92,20
+Pune,CinepolisSeasonsMallPune,411028,Marathi,13:20,Premium,200₹,33,2
+Mumbai,CinepolisSeawoodsGrandCentralNaviMumbai,400706,Marathi,13:20,Normal,180₹,30,0
+Mumbai,CinepolisSeawoodsGrandCentralNaviMumbai,400706,Marathi,13:20,Executive,200₹,86,5
+Mumbai,CinepolisSeawoodsGrandCentralNaviMumbai,400706,Marathi,13:20,Premium,220₹,76,7
+Mumbai,CinepolisSeawoodsGrandCentralNaviMumbai,400706,Marathi,13:20,Vip,420₹,14,0
+Pune,CityPrideKothrud,411038,Marathi,13:45,RoyalSofa,280₹,13,4
+Pune,CityPrideKothrud,411038,Marathi,13:45,RoyalGold,230₹,76,34
+Pune,CityPrideKothrud,411038,Marathi,13:45,RoyalSilver,200₹,22,0
+Mumbai,G7MultiplexBandraW,400050,Marathi,18:30,Special,170₹,38,11
+Mumbai,G7MultiplexBandraW,400050,Marathi,18:30,DressCircle,170₹,9,2
