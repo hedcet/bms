@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bhubaneswar,CinepolisEsplanadeBhubaneswar,751007,Oriya,16:50,Normal,170₹,23,0
+Bhubaneswar,CinepolisEsplanadeBhubaneswar,751007,Oriya,16:50,Executive,190₹,52,0
+Bhubaneswar,CinepolisEsplanadeBhubaneswar,751007,Oriya,16:50,Premium,210₹,48,4
+Bhubaneswar,CinepolisEsplanadeBhubaneswar,751007,Oriya,16:50,Vip,500₹,10,0
