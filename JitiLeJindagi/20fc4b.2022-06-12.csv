@@ -1,0 +1,14 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Ahmedabad,WideAngleAhmedabad,380015,Gujarati,09:00,Gold,110₹,10,0
+Ahmedabad,MuktaA2CinemasGulmoharParkMallSatelliteRd,380015,Gujarati,15:01,Gold,112₹,77,0
+Ahmedabad,MuktaA2CinemasGulmoharParkMallSatelliteRd,380015,Gujarati,15:01,Premium,112₹,25,0
+Ahmedabad,PSquareMovieplexGotaAhmedabad,382481,Gujarati,19:30,Platinum,300₹,15,0
+Ahmedabad,PSquareMovieplexGotaAhmedabad,382481,Gujarati,19:30,Gold,250₹,60,0
+Ahmedabad,PSquareMovieplexGotaAhmedabad,382481,Gujarati,19:30,Silver,200₹,48,0
+Anand,ShaanCinema9ScreenMultiplexAnand,388120,Gujarati,21:00,Recliner,350₹,13,0
+Anand,ShaanCinema9ScreenMultiplexAnand,388120,Gujarati,21:00,Sofa,80₹,28,0
+Anand,ShaanCinema9ScreenMultiplexAnand,388120,Gujarati,21:00,Gold,80₹,45,0
+Anand,ShaanCinema9ScreenMultiplexAnand,388120,Gujarati,21:00,Platinum,70₹,66,0
+Ahmedabad,WideAngleAhmedabad,380015,Gujarati,21:00,Silver,140₹,10,0
+Ahmedabad,DeviMultiplexNaroda,382330,Gujarati,21:00,Platinum,110₹,42,32
+Ahmedabad,DeviMultiplexNaroda,382330,Gujarati,21:00,Gold,110₹,98,98
