@@ -1,0 +1,7 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bargarh,DeepaliCinemaxBargarh,768028,Hindi,09:15,Arena,150₹,52,0
+Bargarh,DeepaliCinemaxBargarh,768028,Hindi,09:15,Classic,100₹,33,0
+Aurangabad,MohanNovaCinemazAurangabad,431001,Hindi,14:00,Platinum,150₹,58,0
+Aurangabad,MohanNovaCinemazAurangabad,431001,Hindi,14:00,Gold,150₹,57,0
+Aurangabad,MohanNovaCinemazAurangabad,431001,Hindi,14:00,Silver,150₹,57,0
+Mumbai,MovietimeTheHubGoregaon,400063,Hindi,23:00,Mhraja,200₹,44,6
