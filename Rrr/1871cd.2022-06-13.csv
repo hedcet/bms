@@ -1,0 +1,11 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Eluru,SaiBalajiComplexEluru,534001,Telugu,11:15,1FirstClass,150₹,155,0
+Eluru,SaiBalajiComplexEluru,534001,Telugu,11:15,2SecondClass,100₹,155,0
+Chennai,PvrVrChennaiAnnaNagar,600040,Tamil,11:40,Classic,60₹,34,0
+Chennai,PvrVrChennaiAnnaNagar,600040,Tamil,11:40,Prime,190₹,142,18
+Eluru,SaiBalajiComplexEluru,534001,Telugu,14:30,1FirstClass,150₹,155,0
+Eluru,SaiBalajiComplexEluru,534001,Telugu,14:30,2SecondClass,100₹,155,0
+Eluru,SaiBalajiComplexEluru,534001,Telugu,18:15,1FirstClass,150₹,155,0
+Eluru,SaiBalajiComplexEluru,534001,Telugu,18:15,2SecondClass,100₹,155,0
+Eluru,SaiBalajiComplexEluru,534001,Telugu,21:30,1FirstClass,150₹,155,0
+Eluru,SaiBalajiComplexEluru,534001,Telugu,21:30,2SecondClass,100₹,155,0
