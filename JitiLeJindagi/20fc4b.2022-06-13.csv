@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Anand,ShaanCinema9ScreenMultiplexAnand,388120,Gujarati,21:00,Recliner,350₹,13,0
+Anand,ShaanCinema9ScreenMultiplexAnand,388120,Gujarati,21:00,Sofa,80₹,28,28
+Anand,ShaanCinema9ScreenMultiplexAnand,388120,Gujarati,21:00,Gold,80₹,45,8
+Anand,ShaanCinema9ScreenMultiplexAnand,388120,Gujarati,21:00,Platinum,70₹,66,66
+Ahmedabad,WideAngleAhmedabad,380015,Gujarati,21:00,Silver,140₹,10,0
+Ahmedabad,WideAngleAhmedabad,380015,Gujarati,21:00,Gold,140₹,10,0
+Ahmedabad,DeviMultiplexNaroda,382330,Gujarati,21:00,Platinum,110₹,42,32
+Ahmedabad,DeviMultiplexNaroda,382330,Gujarati,21:00,Gold,110₹,98,98
