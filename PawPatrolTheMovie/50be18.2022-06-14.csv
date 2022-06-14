@@ -1,0 +1,8 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,PvrVegaCityBannerghattaRoad,560076,English,10:50,Classic,112₹,62,0
+NationalCapitalRegionNcr,PvrLogixNoida,201301,English,14:40,Classic,275₹,49,24
+Bengaluru,PvrPhoenixMarketcityMallWhitefieldRoad,560048,English,17:00,Classic,170₹,120,24
+Bengaluru,PvrPhoenixMarketcityMallWhitefieldRoad,560048,English,17:00,Recliner,250₹,8,2
+Chennai,PvrVrChennaiAnnaNagar,600040,English,19:40,Classic,66₹,16,16
+Chennai,PvrVrChennaiAnnaNagar,600040,English,19:40,Prime,211₹,110,32
+Bengaluru,PvrTheForumMallKoramangala,560095,English,20:05,Classic,180₹,103,21
