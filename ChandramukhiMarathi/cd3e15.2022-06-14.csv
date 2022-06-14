@@ -1,0 +1,7 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Pune,AbhiruchiCityPrideSinhagadRoad,411041,Marathi,13:15,RoyalSofa,200₹,18,0
+Pune,AbhiruchiCityPrideSinhagadRoad,411041,Marathi,13:15,RoyalGold,180₹,129,40
+Pune,AbhiruchiCityPrideSinhagadRoad,411041,Marathi,13:15,RoyalSilver,160₹,36,0
+Pune,CityPrideKothrud,411038,Marathi,13:45,RoyalSofa,280₹,13,4
+Pune,CityPrideKothrud,411038,Marathi,13:45,RoyalGold,230₹,76,9
+Pune,CityPrideKothrud,411038,Marathi,13:45,RoyalSilver,200₹,22,1
