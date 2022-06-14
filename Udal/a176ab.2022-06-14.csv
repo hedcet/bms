@@ -1,0 +1,15 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Chennai,SpiEscapeExpressAvenueMallRoyapettah,600014,Malayalam,13:15,Budget,63₹,11,11
+Chennai,SpiEscapeExpressAvenueMallRoyapettah,600014,Malayalam,13:15,Elite,202₹,99,27
+NationalCapitalRegionNcr,PvrLogixNoida,201301,Malayalam,16:50,Classic,250₹,87,2
+Hyderabad,PvrIrrumManzilHyderabad,500082,Malayalam,16:55,Classic,200₹,94,14
+Hyderabad,PvrIrrumManzilHyderabad,500082,Malayalam,16:55,Recliner,300₹,10,0
+Mukkam,PeeCeeTheatreMukkam,673602,Malayalam,18:00,FirstClass,110₹,124,0
+Bengaluru,BalajiDigital2KCinemaTavarekere,560081,Malayalam,19:00,DiamondClass,150₹,163,2
+Bengaluru,BalajiDigital2KCinemaTavarekere,560081,Malayalam,19:00,GoldClass,120₹,262,0
+Mumbai,CinepolisSeawoodsGrandCentralNaviMumbai,400706,Malayalam,19:15,Normal,200₹,32,0
+Mumbai,CinepolisSeawoodsGrandCentralNaviMumbai,400706,Malayalam,19:15,Executive,220₹,91,0
+Mumbai,CinepolisSeawoodsGrandCentralNaviMumbai,400706,Malayalam,19:15,Premium,240₹,80,0
+Mumbai,CinepolisSeawoodsGrandCentralNaviMumbai,400706,Malayalam,19:15,Vip,440₹,14,0
+Mukkam,PeeCeeTheatreMukkam,673602,Malayalam,21:00,FirstClass,110₹,124,0
+Bengaluru,GopalanMiniplexSignatureMallOldMadrasRoad,560093,Malayalam,22:00,Gold,220₹,65,5
