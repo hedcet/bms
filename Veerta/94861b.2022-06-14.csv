@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Agra,ShantiCinemaAgra,282002,Hindi,18:15,Balcony,60₹,214,1
+Agra,ShantiCinemaAgra,282002,Hindi,18:15,DressCircle,30₹,612,0
+Agra,ShantiCinemaAgra,282002,Hindi,21:15,Balcony,60₹,214,0
+Agra,ShantiCinemaAgra,282002,Hindi,21:15,DressCircle,30₹,612,0
