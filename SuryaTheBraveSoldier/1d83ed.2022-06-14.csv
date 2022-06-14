@@ -1,0 +1,15 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+CoochBehar,BhavaniCinemaCoochBehar,736101,Hindi,10:15,SpecialClass1,100₹,102,0
+CoochBehar,BhavaniCinemaCoochBehar,736101,Hindi,10:15,SpecialClass2,100₹,28,0
+Kanpur,DeliteBigScreenCinemaKanpur,208004,Hindi,12:30,Balcony,80₹,60,0
+Kanpur,DeliteBigScreenCinemaKanpur,208004,Hindi,12:30,Family,60₹,72,0
+CoochBehar,BhavaniCinemaCoochBehar,736101,Hindi,13:00,SpecialClass1,100₹,102,0
+CoochBehar,BhavaniCinemaCoochBehar,736101,Hindi,13:00,SpecialClass2,100₹,28,0
+Kanpur,DeliteBigScreenCinemaKanpur,208004,Hindi,15:30,Balcony,80₹,60,0
+Kanpur,DeliteBigScreenCinemaKanpur,208004,Hindi,15:30,Family,60₹,72,0
+Kanpur,DeliteBigScreenCinemaKanpur,208004,Hindi,18:30,Balcony,80₹,60,0
+Kanpur,DeliteBigScreenCinemaKanpur,208004,Hindi,18:30,Family,60₹,72,0
+Jalgaon,AshokCinemaJalgaon,425001,Hindi,21:00,Balcony,100₹,189,32
+Jalgaon,AshokCinemaJalgaon,425001,Hindi,21:00,FClass,50₹,562,50
+Kanpur,DeliteBigScreenCinemaKanpur,208004,Hindi,21:30,Balcony,80₹,60,0
+Kanpur,DeliteBigScreenCinemaKanpur,208004,Hindi,21:30,Family,60₹,72,0
