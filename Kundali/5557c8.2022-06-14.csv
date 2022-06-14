@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kadi,CityGoldKadi,382715,Gujarati,15:15,Box,160₹,10,0
+Kadi,CityGoldKadi,382715,Gujarati,15:15,Gold,140₹,140,0
+Kadi,CityGoldKadi,382715,Gujarati,15:15,Silver,140₹,34,0
+Ahmedabad,AbMiniplexShivranjiniCrossRoadSatellite,380013,Gujarati,19:20,Sofa,150₹,12,0
+Ahmedabad,AbMiniplexShivranjiniCrossRoadSatellite,380013,Gujarati,19:20,ReclinerBed,180₹,6,3
+Ahmedabad,19CinemaSouthBopalAhmedabad,380058,Gujarati,19:25,Platinum,80₹,18,4
+Ahmedabad,19CinemaSouthBopalAhmedabad,380058,Gujarati,19:25,Gold,80₹,32,0
+Ahmedabad,19CinemaSouthBopalAhmedabad,380058,Gujarati,19:25,Silver,80₹,16,2
