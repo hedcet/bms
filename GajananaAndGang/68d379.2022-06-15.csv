@@ -1,0 +1,15 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,PvrTheCinemaGtWorldBengaluru,560023,Kannada,09:50,Classic,112₹,179,15
+Bengaluru,PvrTheCinemaGtWorldBengaluru,560023,Kannada,09:50,Recliner,230₹,16,6
+Chamarajnagar,ShreeBhramarambaCineplexChamarajnagar,571313,Kannada,10:00,BalconyClass,100₹,44,0
+Chamarajnagar,ShreeBhramarambaCineplexChamarajnagar,571313,Kannada,10:00,SecondClass,80₹,56,0
+Bengaluru,VeereshCinemasMagadiRoad,560079,Kannada,10:00,Balcony,110₹,270,0
+Chamarajnagar,ShreeBhramarambaCineplexChamarajnagar,571313,Kannada,13:00,BalconyClass,100₹,44,0
+Chamarajnagar,ShreeBhramarambaCineplexChamarajnagar,571313,Kannada,13:00,SecondClass,80₹,56,0
+Bengaluru,VeereshCinemasMagadiRoad,560079,Kannada,13:00,Balcony,110₹,270,0
+Chamarajnagar,ShreeBhramarambaCineplexChamarajnagar,571313,Kannada,16:00,BalconyClass,100₹,44,0
+Chamarajnagar,ShreeBhramarambaCineplexChamarajnagar,571313,Kannada,16:00,SecondClass,80₹,56,0
+Bengaluru,VeereshCinemasMagadiRoad,560079,Kannada,16:00,Balcony,110₹,270,1
+Chamarajnagar,ShreeBhramarambaCineplexChamarajnagar,571313,Kannada,19:00,BalconyClass,100₹,44,0
+Chamarajnagar,ShreeBhramarambaCineplexChamarajnagar,571313,Kannada,19:00,SecondClass,80₹,56,0
+Bengaluru,VeereshCinemasMagadiRoad,560079,Kannada,19:00,Balcony,110₹,270,0
