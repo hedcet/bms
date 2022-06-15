@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Ahmedabad,19CinemaGodrejGardenCityAhmedabad,382470,Gujarati,10:00,Sofa,100₹,25,0
+Kadi,CityGoldKadi,382715,Gujarati,15:15,Box,160₹,10,0
+Kadi,CityGoldKadi,382715,Gujarati,15:15,Gold,140₹,140,0
+Kadi,CityGoldKadi,382715,Gujarati,15:15,Silver,140₹,34,0
+Anand,InfinityCinemasAnand,388001,Gujarati,18:15,Recliner,250₹,19,0
+Anand,InfinityCinemasAnand,388001,Gujarati,18:15,Platinum,150₹,50,0
+Anand,InfinityCinemasAnand,388001,Gujarati,18:15,Gold,110₹,60,0
+Ahmedabad,AbMiniplexShivranjiniCrossRoadSatellite,380013,Gujarati,19:00,Sofa,150₹,12,0
+Ahmedabad,AbMiniplexShivranjiniCrossRoadSatellite,380013,Gujarati,19:00,ReclinerBed,180₹,6,0
+Ahmedabad,19CinemaSouthBopalAhmedabad,380058,Gujarati,19:25,Platinum,80₹,18,4
+Ahmedabad,19CinemaSouthBopalAhmedabad,380058,Gujarati,19:25,Gold,80₹,32,0
+Ahmedabad,19CinemaSouthBopalAhmedabad,380058,Gujarati,19:25,Silver,80₹,16,2
