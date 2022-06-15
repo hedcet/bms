@@ -1,0 +1,7 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Mullanpur,4GNovaCinemazMullanpur,141101,Punjabi,12:10,Platinum,160₹,100,0
+Mullanpur,4GNovaCinemazMullanpur,141101,Punjabi,12:10,Gold,110₹,60,0
+Mullanpur,4GNovaCinemazMullanpur,141101,Punjabi,12:10,Silver,110₹,60,0
+Nakodar,KcAnandMiniplexNakodar,144040,Punjabi,17:30,Gold,230₹,90,0
+Nakodar,KcAnandMiniplexNakodar,144040,Punjabi,17:30,Silver,200₹,60,1
+Moga,NeelamNovaCinemazMoga,142001,Punjabi,21:30,Gold,200₹,122,0
