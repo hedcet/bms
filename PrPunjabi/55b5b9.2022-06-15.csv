@@ -1,0 +1,8 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kotkapura,FunPlazaKotkapura,151204,Punjabi,14:00,Platinum,300₹,16,0
+Kotkapura,FunPlazaKotkapura,151204,Punjabi,14:00,Royal,220₹,24,0
+Kotkapura,FunPlazaKotkapura,151204,Punjabi,14:00,Executive,170₹,191,34
+Ludhiana,PvrPavilionLudhiana,141001,Punjabi,17:00,Classic,190₹,77,18
+Kotkapura,FunPlazaKotkapura,151204,Punjabi,18:30,Platinum,300₹,16,0
+Kotkapura,FunPlazaKotkapura,151204,Punjabi,18:30,Royal,220₹,21,2
+Kotkapura,FunPlazaKotkapura,151204,Punjabi,18:30,Executive,170₹,168,30
