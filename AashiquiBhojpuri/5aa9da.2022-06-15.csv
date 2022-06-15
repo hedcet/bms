@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Ajmer,PlazaCinemaAjmer,305001,Bhojpuri,12:00,Balcony,70₹,100,0
+Ajmer,PlazaCinemaAjmer,305001,Bhojpuri,12:00,DressCircle,60₹,100,0
+Ajmer,PlazaCinemaAjmer,305001,Bhojpuri,12:00,Janta,50₹,50,0
+Ajmer,PlazaCinemaAjmer,305001,Bhojpuri,15:00,Balcony,70₹,100,0
+Ajmer,PlazaCinemaAjmer,305001,Bhojpuri,15:00,DressCircle,60₹,100,0
+Ajmer,PlazaCinemaAjmer,305001,Bhojpuri,15:00,Janta,50₹,50,0
+Ajmer,PlazaCinemaAjmer,305001,Bhojpuri,18:00,Balcony,70₹,100,9
+Ajmer,PlazaCinemaAjmer,305001,Bhojpuri,18:00,DressCircle,60₹,100,0
+Ajmer,PlazaCinemaAjmer,305001,Bhojpuri,18:00,Janta,50₹,50,0
+Ajmer,PlazaCinemaAjmer,305001,Bhojpuri,21:00,Balcony,70₹,100,0
+Ajmer,PlazaCinemaAjmer,305001,Bhojpuri,21:00,DressCircle,60₹,100,0
+Ajmer,PlazaCinemaAjmer,305001,Bhojpuri,21:00,Janta,50₹,50,0
