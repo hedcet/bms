@@ -1,0 +1,7 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Mumbai,InoxInsigniaAtAtriaMallWorli,400018,English,10:10,Insignia,400₹,34,9
+Mumbai,InoxMegaplexInorbitMallMalad,400064,English,11:35,Kiddles,150₹,57,4
+Bengaluru,PvrTheForumMallKoramangala,560095,English,11:45,3DClassic,122₹,103,22
+Mumbai,MetroInoxCinemasMarineLines,400020,English,13:05,Kiddles,250₹,36,0
+Hyderabad,PvrNextGalleriaMallPanjagutta,500082,English,19:45,Classic,200₹,54,16
+NationalCapitalRegionNcr,PvrLogixNoida,201301,English,19:55,Classic,315₹,38,13
