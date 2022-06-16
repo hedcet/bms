@@ -1,0 +1,12 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Vadakara,One2OnePlusFilmCity2K3DDolbyAtmosACVada,673101,Malayalam,10:30,Screen2,129₹,164,0
+Kochi,SavitaCinemaKochi,680018,Malayalam,10:30,Deluxe,150₹,555,34
+Kasaragod,MagicFramesMehboobTheatreComplexKasaragod,671121,Malayalam,10:30,Executive,129₹,175,0
+Kochi,SavitaCinemaKochi,680018,Malayalam,12:00,Deluxe,150₹,555,34
+Vadakara,One2OnePlusFilmCity2K3DDolbyAtmosACVada,673101,Malayalam,13:30,Screen2,129₹,164,0
+Kasaragod,MagicFramesMehboobTheatreComplexKasaragod,671121,Malayalam,13:30,Executive,129₹,175,0
+Trivandrum,CarnivalGreenfieldTrivandrum,695581,Malayalam,15:05,ExecutiveOffline,160₹,119,0
+Vadakara,One2OnePlusFilmCity2K3DDolbyAtmosACVada,673101,Malayalam,16:30,Screen2,129₹,164,0
+Karunagapally,CarnivalHJComplex,690518,Malayalam,16:45,ClassicOffline,110₹,118,15
+Kozhikode,RegalCinemaKozhikode,673005,Malayalam,17:00,FirstClassSc3,200₹,158,0
+Vadakara,One2OnePlusFilmCity2K3DDolbyAtmosACVada,673101,Malayalam,19:30,Screen2,129₹,164,0
