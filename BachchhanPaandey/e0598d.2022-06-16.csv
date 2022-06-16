@@ -1,0 +1,17 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Gotegaon,AlkaTalkiesGotegaon,487118,Hindi,12:00,FamilyClass,70₹,20,0
+Gotegaon,AlkaTalkiesGotegaon,487118,Hindi,12:00,Balcony,70₹,20,0
+BalodaBazar,ShivaBollywoodTheatreBalodaBazar,493332,Hindi,12:00,Balcony,100₹,36,0
+BalodaBazar,ShivaBollywoodTheatreBalodaBazar,493332,Hindi,12:00,Silver,80₹,50,0
+Gotegaon,AlkaTalkiesGotegaon,487118,Hindi,15:00,FamilyClass,70₹,20,0
+Gotegaon,AlkaTalkiesGotegaon,487118,Hindi,15:00,Balcony,70₹,20,0
+BalodaBazar,ShivaBollywoodTheatreBalodaBazar,493332,Hindi,15:00,Balcony,100₹,36,0
+BalodaBazar,ShivaBollywoodTheatreBalodaBazar,493332,Hindi,15:00,Silver,80₹,50,0
+Gotegaon,AlkaTalkiesGotegaon,487118,Hindi,18:00,FamilyClass,70₹,20,0
+Gotegaon,AlkaTalkiesGotegaon,487118,Hindi,18:00,Balcony,70₹,20,0
+BalodaBazar,ShivaBollywoodTheatreBalodaBazar,493332,Hindi,18:00,Balcony,100₹,36,0
+BalodaBazar,ShivaBollywoodTheatreBalodaBazar,493332,Hindi,18:00,Silver,80₹,50,0
+Gotegaon,AlkaTalkiesGotegaon,487118,Hindi,21:00,FamilyClass,70₹,20,0
+Gotegaon,AlkaTalkiesGotegaon,487118,Hindi,21:00,Balcony,70₹,20,0
+BalodaBazar,ShivaBollywoodTheatreBalodaBazar,493332,Hindi,21:00,Balcony,100₹,36,2
+BalodaBazar,ShivaBollywoodTheatreBalodaBazar,493332,Hindi,21:00,Silver,80₹,50,0
