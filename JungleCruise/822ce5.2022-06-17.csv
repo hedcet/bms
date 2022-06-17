@@ -1,0 +1,6 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Gandhidham,VinayCinemaAdipur,370205,Hindi,13:01,Vip,300₹,24,6
+Gandhidham,VinayCinemaAdipur,370205,Hindi,13:01,Platinum,180₹,62,6
+Gandhidham,VinayCinemaAdipur,370205,Hindi,13:01,Diamond,140₹,124,9
+Gandhidham,VinayCinemaAdipur,370205,Hindi,13:01,Gold,140₹,111,0
+Gandhidham,VinayCinemaAdipur,370205,Hindi,13:01,Silver,140₹,54,0
