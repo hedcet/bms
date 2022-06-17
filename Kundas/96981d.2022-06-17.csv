@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Vaniyambadi,SangamTheatreVaniyambadi,635751,Tamil,11:00,FirstClass,80₹,316,0
+Chennai,KasiTalkiesDolbyAtmosAshokNagar,600083,Tamil,11:10,SuperPremium,195₹,19,0
+Chennai,KasiTalkiesDolbyAtmosAshokNagar,600083,Tamil,11:10,Premium,170₹,89,25
+Chennai,KasiTalkiesDolbyAtmosAshokNagar,600083,Tamil,11:10,Elite,120₹,60,25
+Chennai,KasiTalkiesDolbyAtmosAshokNagar,600083,Tamil,11:10,Economy,64₹,10,0
+Vaniyambadi,SangamTheatreVaniyambadi,635751,Tamil,14:00,FirstClass,80₹,316,0
+Chennai,SreeLakshmibalaMoviepark4K3DDolby712Padi,600050,Tamil,14:30,FirstClass,80₹,189,0
+Trichy,ArunaTheatreTrichy,620017,Tamil,14:30,FirstClass,50₹,378,0
+Vaniyambadi,SangamTheatreVaniyambadi,635751,Tamil,18:00,FirstClass,80₹,316,0
+Trichy,ArunaTheatreTrichy,620017,Tamil,18:30,FirstClass,50₹,378,0
+Vaniyambadi,SangamTheatreVaniyambadi,635751,Tamil,21:00,FirstClass,80₹,316,0
+Trichy,ArunaTheatreTrichy,620017,Tamil,22:15,FirstClass,50₹,378,0
