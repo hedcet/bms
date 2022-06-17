@@ -1,0 +1,8 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Ahmedabad,MuktaA2CinemasGulmoharParkMallSatelliteRd,380015,Gujarati,15:30,Gold,112₹,77,0
+Ahmedabad,MuktaA2CinemasGulmoharParkMallSatelliteRd,380015,Gujarati,15:30,Premium,112₹,25,0
+Hyderabad,PrasadsHyderabad,500063,Gujarati,20:30,Executive,200₹,224,69
+Ahmedabad,WideAngleAhmedabad,380015,Gujarati,20:30,Gold,140₹,10,0
+Ahmedabad,RevolutionMultiplexCtmAhmedabad,380026,Gujarati,21:00,PlatinumClass,112₹,15,0
+Ahmedabad,RevolutionMultiplexCtmAhmedabad,380026,Gujarati,21:00,GoldenClass,112₹,40,0
+Ahmedabad,RevolutionMultiplexCtmAhmedabad,380026,Gujarati,21:00,SilverClass,112₹,20,0
