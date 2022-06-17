@@ -1,0 +1,6 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Rajkot,InoxRajkotRWorld,360001,Gujarati,16:20,Gold,140₹,141,54
+Rajkot,InoxRajkotRWorld,360001,Gujarati,16:20,Silver,140₹,41,1
+Junagadh,SurajCineplexJunagadh,362001,Gujarati,18:30,Sofa,180₹,20,0
+Junagadh,SurajCineplexJunagadh,362001,Gujarati,18:30,Executive,160₹,70,0
+Ahmedabad,CityGoldSatelliteAhmedabad,380015,Gujarati,19:50,Executive,200₹,123,25
