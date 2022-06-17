@@ -1,0 +1,17 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kaveripattinam,KarthikeyanTheatreKaveripattinam,635112,Tamil,10:30,Box,40₹,70,0
+Kaveripattinam,KarthikeyanTheatreKaveripattinam,635112,Tamil,10:30,SecondClass,40₹,70,0
+Raghopur,JaiRajanCinemaRaghopur,852111,Hindi,12:00,DressCircle,70₹,21,0
+Raghopur,JaiRajanCinemaRaghopur,852111,Hindi,12:00,AcClass,100₹,8,0
+Kaveripattinam,KarthikeyanTheatreKaveripattinam,635112,Tamil,14:15,Box,40₹,70,0
+Kaveripattinam,KarthikeyanTheatreKaveripattinam,635112,Tamil,14:15,SecondClass,40₹,70,0
+Raghopur,JaiRajanCinemaRaghopur,852111,Hindi,15:00,DressCircle,70₹,21,0
+Raghopur,JaiRajanCinemaRaghopur,852111,Hindi,15:00,AcClass,100₹,8,0
+Raghopur,JaiRajanCinemaRaghopur,852111,Hindi,18:00,DressCircle,70₹,21,0
+Raghopur,JaiRajanCinemaRaghopur,852111,Hindi,18:00,AcClass,100₹,8,0
+Kaveripattinam,KarthikeyanTheatreKaveripattinam,635112,Tamil,18:30,Box,40₹,70,0
+Kaveripattinam,KarthikeyanTheatreKaveripattinam,635112,Tamil,18:30,SecondClass,40₹,70,0
+Jaipur,GolchaCinemaJaipur,302003,Hindi,21:00,RoyalBox,200₹,94,26
+Jaipur,GolchaCinemaJaipur,302003,Hindi,21:00,Excutive,150₹,160,24
+Kaveripattinam,KarthikeyanTheatreKaveripattinam,635112,Tamil,21:30,Box,40₹,70,0
+Kaveripattinam,KarthikeyanTheatreKaveripattinam,635112,Tamil,21:30,SecondClass,40₹,70,0
