@@ -1,0 +1,8 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Mumbai,MetroInoxCinemasMarineLines,400020,English,08:50,Kiddles,160₹,36,3
+Mumbai,PvrLuxePhoenixPalladiumLowerParelMumbai,400013,English,10:45,Prime,350₹,20,3
+Mumbai,PvrLuxePhoenixPalladiumLowerParelMumbai,400013,English,10:45,PrimePlus,350₹,42,10
+Mumbai,InoxMegaplexInorbitMallMalad,400064,English,13:10,Kiddles,220₹,57,4
+NationalCapitalRegionNcr,PvrVegasDwarka,110078,English,17:20,Classic,350₹,36,0
+NationalCapitalRegionNcr,PvrVegasDwarka,110078,English,17:20,Prime,400₹,21,7
+NationalCapitalRegionNcr,PvrVegasDwarka,110078,English,17:20,Recliner,450₹,8,6
