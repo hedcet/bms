@@ -1,0 +1,4 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kolkata,NandanKolkata,700020,Bengali,12:15,FrontStall,30₹,111,8
+Kolkata,NandanKolkata,700020,Bengali,12:15,RearStall,50₹,451,80
+Kolkata,NandanKolkata,700020,Bengali,12:15,Balcony,70₹,369,44
