@@ -1,0 +1,11 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Hyderabad,SapnaCinemasAbids,500001,Telugu,11:30,GoldClass,150₹,189,4
+Hyderabad,SapnaCinemasAbids,500001,Telugu,11:30,Silver,100₹,132,0
+KovurNellore,MythiliTheatreKovur,524137,Telugu,11:30,FirstClass,100₹,168,24
+KovurNellore,MythiliTheatreKovur,524137,Telugu,11:30,SecondClass,100₹,81,0
+KovurNellore,MythiliTheatreKovur,524137,Telugu,14:30,FirstClass,100₹,168,24
+KovurNellore,MythiliTheatreKovur,524137,Telugu,14:30,SecondClass,100₹,81,0
+KovurNellore,MythiliTheatreKovur,524137,Telugu,18:30,FirstClass,100₹,225,0
+KovurNellore,MythiliTheatreKovur,524137,Telugu,18:30,SecondClass,100₹,225,0
+KovurNellore,MythiliTheatreKovur,524137,Telugu,21:30,FirstClass,100₹,225,0
+KovurNellore,MythiliTheatreKovur,524137,Telugu,21:30,SecondClass,100₹,225,0
