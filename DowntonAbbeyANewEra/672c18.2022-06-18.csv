@@ -1,0 +1,16 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Mumbai,PvrDynamixJuhu,400049,English,12:30,Prime,260₹,72,16
+Mumbai,PvrDynamixJuhu,400049,English,12:30,Classic,230₹,40,0
+Mumbai,InoxMegaplexInorbitMallMalad,400064,English,14:00,Insignia,450₹,38,13
+Mumbai,PvrLuxePhoenixPalladiumLowerParelMumbai,400013,English,14:30,Prime,700₹,12,1
+Mumbai,PvrLuxePhoenixPalladiumLowerParelMumbai,400013,English,14:30,PrimePlus,700₹,30,15
+Mumbai,InoxLaserplexCr2NarimanPoint,400021,English,16:00,Insignia,950₹,70,8
+NationalCapitalRegionNcr,PvrPromenadeVasantKunj,110070,English,17:15,Classic,420₹,150,19
+NationalCapitalRegionNcr,PvrPromenadeVasantKunj,110070,English,17:15,Prime,450₹,44,34
+Mumbai,InoxInsigniaAtAtriaMallWorli,400018,English,19:10,Insignia,"1,100₹",30,19
+NationalCapitalRegionNcr,PvrAmbienceGurgaon,122001,English,19:15,ClassicNormal,400₹,84,6
+NationalCapitalRegionNcr,PvrAmbienceGurgaon,122001,English,19:15,Prime,500₹,68,20
+NationalCapitalRegionNcr,DelhiPvrDirectorSCutAmbienceMall,110070,English,20:05,Platinum,"1,300₹",19,3
+NationalCapitalRegionNcr,DelhiPvrDirectorSCutAmbienceMall,110070,English,20:05,PlatinumSuperior,"1,500₹",6,3
+NationalCapitalRegionNcr,PvrSelectCityWalkGoldDelhi,110017,English,20:45,Platinum,500₹,24,2
+NationalCapitalRegionNcr,PvrSelectCityWalkGoldDelhi,110017,English,20:45,PlatinumSuperior,500₹,16,14
