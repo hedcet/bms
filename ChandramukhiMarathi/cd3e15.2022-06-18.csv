@@ -1,0 +1,7 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Pune,CityPrideKothrud,411038,Marathi,12:30,RoyalGold,180₹,149,37
+Pune,CityPrideKothrud,411038,Marathi,12:30,RoyalSilver,160₹,22,0
+Nagothane,SaiChitramandirNagothane,402106,Marathi,15:00,Gold,130₹,20,2
+Nagothane,SaiChitramandirNagothane,402106,Marathi,15:00,Silver,100₹,112,0
+Nagothane,SaiChitramandirNagothane,402106,Marathi,21:30,Gold,130₹,20,0
+Nagothane,SaiChitramandirNagothane,402106,Marathi,21:30,Silver,100₹,112,0
