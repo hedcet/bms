@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Mumbai,G7MultiplexBandraW,400050,Hindi,12:30,Special,170₹,36,9
+Mumbai,G7MultiplexBandraW,400050,Hindi,12:30,DressCircle,170₹,10,1
+Mumbai,MarathaMandirMumbaiCentral,400008,Hindi,15:30,Balcony,170₹,294,43
+Mumbai,MarathaMandirMumbaiCentral,400008,Hindi,15:30,DressCircle,140₹,813,0
