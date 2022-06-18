@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Sarsiwa,MarkoCineplexSarsiwa,493559,Hindi,12:00,Platinum,150₹,35,0
+Sarsiwa,MarkoCineplexSarsiwa,493559,Hindi,12:00,Diamond,100₹,120,0
+Sarsiwa,MarkoCineplexSarsiwa,493559,Hindi,12:00,Gold,80₹,60,0
+Sarsiwa,MarkoCineplexSarsiwa,493559,Hindi,15:00,Platinum,150₹,35,0
+Sarsiwa,MarkoCineplexSarsiwa,493559,Hindi,15:00,Diamond,100₹,120,15
+Sarsiwa,MarkoCineplexSarsiwa,493559,Hindi,15:00,Gold,80₹,60,3
+Sarsiwa,MarkoCineplexSarsiwa,493559,Hindi,18:00,Platinum,150₹,35,0
+Sarsiwa,MarkoCineplexSarsiwa,493559,Hindi,18:00,Diamond,100₹,120,0
+Sarsiwa,MarkoCineplexSarsiwa,493559,Hindi,18:00,Gold,80₹,60,0
+Sarsiwa,MarkoCineplexSarsiwa,493559,Hindi,21:00,Platinum,150₹,35,0
+Sarsiwa,MarkoCineplexSarsiwa,493559,Hindi,21:00,Diamond,100₹,120,0
+Sarsiwa,MarkoCineplexSarsiwa,493559,Hindi,21:00,Gold,80₹,60,0
