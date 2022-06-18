@@ -1,0 +1,10 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,AbhinayTheatre4KACGandhinagar,560009,Kannada,10:30,Balcony,150₹,369,57
+Bengaluru,AbhinayTheatre4KACGandhinagar,560009,Kannada,10:30,MiniBalcony,120₹,146,0
+Bengaluru,AbhinayTheatre4KACGandhinagar,560009,Kannada,10:30,SecondClass,100₹,480,56
+Shivamogga,ManjunathaDigital2KCinemaShivamogga,577202,Kannada,14:00,Balcony,150₹,122,0
+Shivamogga,ManjunathaDigital2KCinemaShivamogga,577202,Kannada,14:00,FirstClass,100₹,93,0
+Shivamogga,ManjunathaDigital2KCinemaShivamogga,577202,Kannada,17:45,Balcony,150₹,122,0
+Shivamogga,ManjunathaDigital2KCinemaShivamogga,577202,Kannada,17:45,FirstClass,100₹,93,0
+Shivamogga,ManjunathaDigital2KCinemaShivamogga,577202,Kannada,21:00,Balcony,150₹,122,0
+Shivamogga,ManjunathaDigital2KCinemaShivamogga,577202,Kannada,21:00,FirstClass,100₹,93,0
