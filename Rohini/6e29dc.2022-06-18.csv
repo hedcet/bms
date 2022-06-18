@@ -1,0 +1,6 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Memari,KristiCinemaMemari,713146,Bengali,11:00,LowerStall,60₹,448,0
+Memari,KristiCinemaMemari,713146,Bengali,11:00,UpperStall,80₹,324,0
+Kolkata,NazrultirthaCinemaScreen3Kolkata,700156,Bengali,17:25,Gold,130₹,30,1
+Kolkata,NazrultirthaCinemaScreen3Kolkata,700156,Bengali,17:25,Recliner,150₹,8,0
+Kolkata,NazrultirthaCinemaScreen3Kolkata,700156,Bengali,17:25,Sofa,130₹,12,0
