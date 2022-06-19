@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Hyderabad,MirajCinemasShaliniShivaniHyderabad,500036,Telugu,11:10,Executive,200₹,94,23
+Kakinada,InoxSrmtMallKakinada,533005,Telugu,11:10,Executive,112₹,146,20
+Hyderabad,InoxGsmMallHyderabad,500049,Telugu,13:30,Royal,350₹,8,0
+Hyderabad,InoxGsmMallHyderabad,500049,Telugu,13:30,Executive,200₹,136,0
+Hyderabad,PvrForumSujanaMallKukatpallyHyderabad,500072,Telugu,13:55,Classic,200₹,135,30
+Hyderabad,PvrForumSujanaMallKukatpallyHyderabad,500072,Telugu,13:55,Recliner,350₹,9,9
+VizagVisakhapatnam,InoxVizagChitralayaMall,530020,Telugu,16:35,Executive,177₹,116,0
+Kakinada,InoxSrmtMallKakinada,533005,Telugu,16:45,Executive,112₹,146,16
