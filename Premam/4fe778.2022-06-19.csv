@@ -1,0 +1,6 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Athagarh,GaneshTalkiesAthagarh,754029,Oriya,15:05,Gold,100₹,99,0
+Bhubaneswar,CinepolisEsplanadeBhubaneswar,751007,Oriya,15:40,Normal,200₹,23,2
+Bhubaneswar,CinepolisEsplanadeBhubaneswar,751007,Oriya,15:40,Executive,220₹,52,25
+Bhubaneswar,CinepolisEsplanadeBhubaneswar,751007,Oriya,15:40,Premium,240₹,48,27
+Bhubaneswar,CinepolisEsplanadeBhubaneswar,751007,Oriya,15:40,Vip,500₹,10,0
