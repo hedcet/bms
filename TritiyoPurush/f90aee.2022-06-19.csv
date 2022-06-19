@@ -1,0 +1,6 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kolkata,InoxSouthCityKolkata,700068,Bengali,14:10,Rr,450₹,16,0
+Kolkata,InoxSouthCityKolkata,700068,Bengali,14:10,Silver,290₹,165,14
+Kolkata,InoxSouthCityKolkata,700068,Bengali,14:10,Premier,270₹,32,0
+Balurghat,KalyaniCinemaBalurghat,733101,Bengali,15:30,Balcony,80₹,204,0
+Kolkata,NandanKolkata,700020,Bengali,18:45,Normal,30₹,165,18
