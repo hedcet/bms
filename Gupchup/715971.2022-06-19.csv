@@ -1,0 +1,15 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Muniguda,PadmalayaTheatreMuniguda,765020,Oriya,11:15,Sofa,240₹,10,0
+Muniguda,PadmalayaTheatreMuniguda,765020,Oriya,11:15,Vip,100₹,108,0
+Muniguda,PadmalayaTheatreMuniguda,765020,Oriya,11:15,Balcony,90₹,171,0
+Athagarh,GaneshTalkiesAthagarh,754029,Oriya,12:00,Balcony,70₹,113,0
+JajpurRoad,SaraswatiMultiplexJajpurRoad,755019,Oriya,12:15,VipNew,150₹,40,2
+JajpurRoad,SaraswatiMultiplexJajpurRoad,755019,Oriya,12:15,Diamond,120₹,23,0
+Bhubaneswar,SwatiCineplexDolbyAtmosBhubaneshwar,751001,Oriya,12:50,LuxuriousRecliner,300₹,32,1
+Bhubaneswar,SwatiCineplexDolbyAtmosBhubaneshwar,751001,Oriya,12:50,SofaSlider,250₹,76,0
+Bhubaneswar,SwatiCineplexDolbyAtmosBhubaneshwar,751001,Oriya,12:50,Diamond,200₹,192,0
+Bhubaneswar,SwatiCineplexDolbyAtmosBhubaneshwar,751001,Oriya,12:50,Gold,150₹,75,0
+BerhampurOdisha,GautamCinemaACDolbyDigital2KBerhampur,760001,Oriya,15:00,BalconyClass,100₹,180,2
+BerhampurOdisha,GautamCinemaACDolbyDigital2KBerhampur,760001,Oriya,15:00,ExecutiveClass,150₹,36,0
+BerhampurOdisha,GautamCinemaACDolbyDigital2KBerhampur,760001,Oriya,15:00,RearStall,70₹,270,0
+Rayagada,SriRamaTalkiesRayagada,765001,Oriya,17:30,Balcony,100₹,92,0
