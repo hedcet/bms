@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Trichy,BhelecCinemaACDolby71Trichy,620022,Tamil,07:50,FamilyLounge,125₹,18,15
+Trichy,BhelecCinemaACDolby71Trichy,620022,Tamil,07:50,CouplesLounge,125₹,40,40
+Trichy,BhelecCinemaACDolby71Trichy,620022,Tamil,07:50,PoshElite,125₹,327,296
+Trichy,BhelecCinemaACDolby71Trichy,620022,Tamil,07:50,Premium,125₹,60,0
+Sathyamangalam,VeerasCinemasSathyamangalam,638402,Tamil,11:00,1FirstClass,80₹,115,0
+Sathyamangalam,VeerasCinemasSathyamangalam,638402,Tamil,11:00,2SecondClass,80₹,115,0
+Sathyamangalam,VeerasCinemasSathyamangalam,638402,Tamil,14:15,1FirstClass,80₹,115,0
+Sathyamangalam,VeerasCinemasSathyamangalam,638402,Tamil,14:15,2SecondClass,80₹,115,0
+Sathyamangalam,VeerasCinemasSathyamangalam,638402,Tamil,18:15,1FirstClass,80₹,115,0
+Sathyamangalam,VeerasCinemasSathyamangalam,638402,Tamil,18:15,2SecondClass,80₹,115,0
+Sathyamangalam,VeerasCinemasSathyamangalam,638402,Tamil,22:00,1FirstClass,80₹,115,0
+Sathyamangalam,VeerasCinemasSathyamangalam,638402,Tamil,22:00,2SecondClass,80₹,115,0
