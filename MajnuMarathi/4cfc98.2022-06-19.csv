@@ -1,0 +1,4 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Mumbai,PvrOrionMallPanvel,410206,Marathi,19:30,Classic,210₹,28,0
+Mumbai,PvrOrionMallPanvel,410206,Marathi,19:30,Prime,230₹,115,25
+Mumbai,PvrOrionMallPanvel,410206,Marathi,19:30,PrimePlus,260₹,34,0
