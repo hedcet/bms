@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Perambalur,SwamyTheatre2KPerambalur,621212,Tamil,11:00,FirstClass,100₹,270,15
+Perambalur,SwamyTheatre2KPerambalur,621212,Tamil,14:00,FirstClass,100₹,255,0
+Perambalur,SwamyTheatre2KPerambalur,621212,Tamil,18:00,FirstClass,100₹,255,0
+Perambalur,SwamyTheatre2KPerambalur,621212,Tamil,22:00,FirstClass,100₹,255,0
