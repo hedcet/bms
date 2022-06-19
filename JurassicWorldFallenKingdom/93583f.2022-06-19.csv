@@ -1,0 +1,7 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Lucknow,ShubhamCinemaLucknow,226001,Hindi,10:00,Firstclass,50₹,92,0
+Lucknow,ShubhamCinemaLucknow,226001,Hindi,10:00,Stall,70₹,345,1
+Lucknow,ShubhamCinemaLucknow,226001,Hindi,10:00,Balcony,90₹,224,0
+Lucknow,ShubhamCinemaLucknow,226001,Hindi,21:30,Firstclass,60₹,92,0
+Lucknow,ShubhamCinemaLucknow,226001,Hindi,21:30,Stall,90₹,345,0
+Lucknow,ShubhamCinemaLucknow,226001,Hindi,21:30,Balcony,110₹,224,0
