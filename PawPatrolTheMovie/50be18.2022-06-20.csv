@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Mumbai,MetroInoxCinemasMarineLines,400020,English,10:40,Royale,140₹,81,0
+Mumbai,MetroInoxCinemasMarineLines,400020,English,10:40,Club,112₹,127,0
+Mumbai,MetroInoxCinemasMarineLines,400020,English,10:40,Executive,112₹,30,0
+Mumbai,MetroInoxCinemasMarineLines,400020,English,15:10,Kiddles,250₹,45,9
