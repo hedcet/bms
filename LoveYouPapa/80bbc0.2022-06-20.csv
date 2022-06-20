@@ -1,0 +1,11 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Ahmedabad,CityGoldSatelliteAhmedabad,380015,Gujarati,17:15,Executive,180₹,124,26
+Anand,ShaanCinema9ScreenMultiplexAnand,388120,Gujarati,18:00,Recliner,350₹,13,0
+Anand,ShaanCinema9ScreenMultiplexAnand,388120,Gujarati,18:00,Sofa,250₹,28,0
+Anand,ShaanCinema9ScreenMultiplexAnand,388120,Gujarati,18:00,Platinum,130₹,66,0
+Anand,ShaanCinema9ScreenMultiplexAnand,388120,Gujarati,18:00,Gold,110₹,45,0
+Kadi,CityGoldKadi,382715,Gujarati,18:30,Box,160₹,16,0
+Kadi,CityGoldKadi,382715,Gujarati,18:30,Gold,140₹,140,0
+Kadi,CityGoldKadi,382715,Gujarati,18:30,Silver,140₹,34,0
+Bhavnagar,Top3MultiplexBhavnagar,364002,Gujarati,22:30,Gold,130₹,68,0
+Bhavnagar,Top3MultiplexBhavnagar,364002,Gujarati,22:30,Silver,110₹,56,0
