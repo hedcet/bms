@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Mumbai,MetroInoxCinemasMarineLines,400020,Gujarati,19:25,Kiddles,260₹,45,9
+Mumbai,GoldCinemaDadarE,400014,Gujarati,22:00,Balcony,100₹,15,15
+Mumbai,GoldCinemaDadarE,400014,Gujarati,22:00,Gold,100₹,178,178
+Mumbai,GoldCinemaDadarE,400014,Gujarati,22:00,Executive,100₹,52,12
