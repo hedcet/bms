@@ -1,0 +1,4 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Mumbai,GoldCinemaDadarE,400014,Gujarati,22:00,Balcony,100₹,15,15
+Mumbai,GoldCinemaDadarE,400014,Gujarati,22:00,Gold,100₹,178,178
+Mumbai,GoldCinemaDadarE,400014,Gujarati,22:00,Executive,100₹,52,7
