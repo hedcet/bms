@@ -1,0 +1,16 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Changanassery,DhanyaRemyaChanganassery,686101,Malayalam,11:00,Remya,135₹,196,0
+Pathanamthitta,DhanyaRemyaPathanamthitta,689645,Malayalam,11:00,RemyaCircle,135₹,197,0
+Haripad,SnTheatreHaripad,690514,Malayalam,11:15,Screen1,110₹,175,0
+Mananthavady,VeenaTheatreMananthavady,670645,Malayalam,11:30,Diamond,100₹,122,0
+Mananthavady,VeenaTheatreMananthavady,670645,Malayalam,11:30,Gold,80₹,336,0
+Changanassery,DhanyaRemyaChanganassery,686101,Malayalam,14:00,Remya,135₹,196,0
+Pathanamthitta,DhanyaRemyaPathanamthitta,689645,Malayalam,14:00,RemyaCircle,135₹,197,54
+Mananthavady,VeenaTheatreMananthavady,670645,Malayalam,14:30,Diamond,100₹,122,0
+Mananthavady,VeenaTheatreMananthavady,670645,Malayalam,14:30,Gold,80₹,336,0
+Mananthavady,VeenaTheatreMananthavady,670645,Malayalam,17:30,Diamond,100₹,122,0
+Mananthavady,VeenaTheatreMananthavady,670645,Malayalam,17:30,Gold,80₹,336,0
+Changanassery,DhanyaRemyaChanganassery,686101,Malayalam,18:00,Remya,135₹,196,0
+Haripad,SnTheatreHaripad,690514,Malayalam,18:15,Screen1,110₹,175,0
+Mananthavady,VeenaTheatreMananthavady,670645,Malayalam,20:30,Diamond,100₹,122,0
+Mananthavady,VeenaTheatreMananthavady,670645,Malayalam,20:30,Gold,80₹,336,0
