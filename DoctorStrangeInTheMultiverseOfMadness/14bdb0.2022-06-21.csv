@@ -1,0 +1,14 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+NationalCapitalRegionNcr,PvrLogixNoida,201301,English,09:10,Classic,230₹,106,0
+NationalCapitalRegionNcr,PvrSelectCityWalkGoldDelhi,110017,English,12:20,Platinum,800₹,24,0
+NationalCapitalRegionNcr,PvrSelectCityWalkGoldDelhi,110017,English,12:20,DboxPlatinum,"1,200₹",10,3
+Surat,InoxVrMallSurat,395007,Hindi,12:35,RoyalRecliner,320₹,18,6
+Surat,InoxVrMallSurat,395007,Hindi,12:35,Royal,200₹,60,6
+Surat,InoxVrMallSurat,395007,Hindi,12:35,Club,180₹,102,0
+Surat,InoxVrMallSurat,395007,Hindi,12:35,Executive,150₹,34,0
+NationalCapitalRegionNcr,PvrLogixNoida,201301,English,14:50,Classic,255₹,106,0
+NationalCapitalRegionNcr,GurugramPvrDirectorSCutAmbienceMall,122001,English,16:50,Platinum,800₹,54,10
+NationalCapitalRegionNcr,GurugramPvrDirectorSCutAmbienceMall,122001,English,16:50,PlatinumSuperior,800₹,17,9
+NationalCapitalRegionNcr,PvrLogixNoida,201301,English,20:25,Classic,300₹,106,0
+NationalCapitalRegionNcr,GurugramPvrDirectorSCutAmbienceMall,122001,English,22:50,Platinum,"1,100₹",44,0
+NationalCapitalRegionNcr,GurugramPvrDirectorSCutAmbienceMall,122001,English,22:50,PlatinumSuperior,"1,300₹",8,0
