@@ -1,0 +1,6 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kumbakonam,BaranikaTheatreKumbakonam,612001,Tamil,08:30,BoxA,127₹,29,0
+Kumbakonam,BaranikaTheatreKumbakonam,612001,Tamil,08:30,BoxB,127₹,30,0
+Kumbakonam,BaranikaTheatreKumbakonam,612001,Tamil,08:30,Balcony,120₹,182,58
+Kumbakonam,BaranikaTheatreKumbakonam,612001,Tamil,08:30,LowClass,100₹,413,4
+Trivandrum,ImpBigScreen2K3DDolbyAtmos,629194,Tamil,19:00,UniqueCircle,70₹,370,2
