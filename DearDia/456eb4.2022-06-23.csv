@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kannauj,NarayanMiniplexKannauj,209725,Hindi,12:15,Gold,110₹,133,0
+Kannauj,NarayanMiniplexKannauj,209725,Hindi,12:15,Silver,110₹,102,0
+Kannauj,NarayanMiniplexKannauj,209725,Hindi,15:15,Gold,110₹,133,3
+Kannauj,NarayanMiniplexKannauj,209725,Hindi,15:15,Silver,110₹,102,0
+Kannauj,NarayanMiniplexKannauj,209725,Hindi,18:15,Gold,110₹,133,0
+Kannauj,NarayanMiniplexKannauj,209725,Hindi,18:15,Silver,110₹,102,0
+Kannauj,NarayanMiniplexKannauj,209725,Hindi,21:15,Gold,110₹,133,0
+Kannauj,NarayanMiniplexKannauj,209725,Hindi,21:15,Silver,110₹,102,0
