@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Changanassery,DhanyaRemyaChanganassery,686101,Malayalam,11:00,Remya,135₹,196,0
+Haripad,SnTheatreHaripad,690514,Malayalam,11:15,Screen1,110₹,175,0
+Changanassery,DhanyaRemyaChanganassery,686101,Malayalam,14:00,Remya,135₹,196,0
+Pathanamthitta,DhanyaRemyaPathanamthitta,689645,Malayalam,14:00,RemyaCircle,135₹,197,54
+Karunagapally,CarnivalHJComplex,690518,Malayalam,15:00,ClassicOffline,100₹,194,0
+Trivandrum,CarnivalGreenfieldTrivandrum,695581,Malayalam,16:10,ExecutiveOffline,160₹,132,3
+Kodungallur,CarnivalMughalMall,680664,Malayalam,16:15,ExecutiveOffline,140₹,166,0
+Irinjalakuda,ChembakasseryCinemasIrinjalakuda,680121,Malayalam,16:45,RoyalCircle,129₹,270,0
+Changanassery,DhanyaRemyaChanganassery,686101,Malayalam,18:00,Remya,135₹,196,0
+Haripad,SnTheatreHaripad,690514,Malayalam,18:15,Screen1,110₹,175,0
+Changaramkulam,MarsCinemas4KDolbyAtmosChangaramkulam,679591,Malayalam,19:00,Executive,250₹,12,0
+Changaramkulam,MarsCinemas4KDolbyAtmosChangaramkulam,679591,Malayalam,19:00,Platinum,150₹,124,0
