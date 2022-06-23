@@ -1,0 +1,4 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Gorakhpur,AdCinemasGorakhpur,273001,Hindi,18:30,Gold,150₹,20,0
+Gorakhpur,AdCinemasGorakhpur,273001,Hindi,18:30,Diamond,170₹,23,0
+Gorakhpur,AdCinemasGorakhpur,273001,Hindi,18:30,Platinum,190₹,64,31
