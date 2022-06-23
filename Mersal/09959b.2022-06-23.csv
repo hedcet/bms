@@ -1,0 +1,11 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Sathyamangalam,VeerasCinemasSathyamangalam,638402,Tamil,11:00,1FirstClass,80₹,115,0
+Sathyamangalam,VeerasCinemasSathyamangalam,638402,Tamil,11:00,2SecondClass,80₹,115,0
+Sathyamangalam,VeerasCinemasSathyamangalam,638402,Tamil,14:15,1FirstClass,80₹,115,0
+Sathyamangalam,VeerasCinemasSathyamangalam,638402,Tamil,14:15,2SecondClass,80₹,115,0
+Sathyamangalam,VeerasCinemasSathyamangalam,638402,Tamil,18:15,1FirstClass,80₹,115,0
+Sathyamangalam,VeerasCinemasSathyamangalam,638402,Tamil,18:15,2SecondClass,80₹,115,0
+Tirupur,MgbGrandCinemas3DACDddsTirupur,641601,Tamil,22:00,Elite,100₹,208,0
+Tirupur,MgbGrandCinemas3DACDddsTirupur,641601,Tamil,22:00,Quartz,100₹,182,0
+Sathyamangalam,VeerasCinemasSathyamangalam,638402,Tamil,22:00,1FirstClass,80₹,115,0
+Sathyamangalam,VeerasCinemasSathyamangalam,638402,Tamil,22:00,2SecondClass,80₹,200,200
