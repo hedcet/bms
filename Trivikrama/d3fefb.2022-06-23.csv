@@ -1,0 +1,6 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,GopalanCinemasArcadeMallMysoreRoad,560098,Kannada,21:45,Gold,236₹,292,183
+Bengaluru,GopalanCinemasArcadeMallMysoreRoad,560098,Kannada,21:45,Recliner,350₹,19,12
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,21:45,Classic,236₹,108,81
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,21:45,Prime,236₹,108,108
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,21:45,Recliner,500₹,16,16
