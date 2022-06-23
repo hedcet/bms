@@ -1,0 +1,8 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Theni,TheatreFathumaTheni,625531,Tamil,10:30,FirstClass,120₹,368,18
+Theni,TheatreFathumaTheni,625531,Tamil,14:30,FirstClass,120₹,368,18
+Chennai,PvrVrChennaiAnnaNagar,600040,Tamil,15:25,Classic,60₹,34,34
+Chennai,PvrVrChennaiAnnaNagar,600040,Tamil,15:25,Prime,190₹,142,38
+Madurai,RamTheatreMadurai,625009,Tamil,18:15,Balcony,80₹,242,0
+Theni,TheatreFathumaTheni,625531,Tamil,18:30,FirstClass,120₹,368,0
+Theni,TheatreFathumaTheni,625531,Tamil,22:30,FirstClass,120₹,368,18
