@@ -1,0 +1,6 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Nedumkandam,GCinemaxMultiplex,685553,Malayalam,14:30,Audi1,140₹,240,0
+Alakode,AlakodeFilmCity4KDolbyAtmos,670571,Malayalam,18:00,Chandra,129₹,151,28
+Kanichar,DevCinemasKanichar,670674,Malayalam,18:30,Screen2,130₹,189,0
+Thodupuzha,SilverHillsCinemasThodupuzha,685584,Malayalam,19:00,Silver,130₹,172,0
+Nedumkandam,GCinemaxMultiplex,685553,Malayalam,21:30,Audi3,140₹,165,0
