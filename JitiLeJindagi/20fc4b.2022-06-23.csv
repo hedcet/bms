@@ -1,0 +1,6 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Ahmedabad,WideAngleAhmedabad,380015,Gujarati,20:15,Silver,130₹,76,27
+Ahmedabad,WideAngleAhmedabad,380015,Gujarati,20:15,Gold,130₹,10,0
+Ahmedabad,RevolutionMultiplexCtmAhmedabad,380026,Gujarati,21:00,PlatinumClass,112₹,15,0
+Ahmedabad,RevolutionMultiplexCtmAhmedabad,380026,Gujarati,21:00,GoldenClass,112₹,40,40
+Ahmedabad,RevolutionMultiplexCtmAhmedabad,380026,Gujarati,21:00,SilverClass,112₹,20,20
