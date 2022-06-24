@@ -1,0 +1,10 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bathinda,FunCinemasMittalCityMallBathinda,132103,English,17:00,Normal,320₹,80,0
+Bathinda,FunCinemasMittalCityMallBathinda,132103,English,17:00,Executive,330₹,120,0
+Bathinda,FunCinemasMittalCityMallBathinda,132103,English,17:00,Premium,340₹,184,10
+Bathinda,FunCinemasMittalCityMallBathinda,132103,Hindi,19:40,Normal,320₹,80,0
+Bathinda,FunCinemasMittalCityMallBathinda,132103,Hindi,19:40,Executive,330₹,120,0
+Bathinda,FunCinemasMittalCityMallBathinda,132103,Hindi,19:40,Premium,340₹,184,10
+Bathinda,FunCinemasMittalCityMallBathinda,132103,Hindi,22:20,Normal,320₹,80,0
+Bathinda,FunCinemasMittalCityMallBathinda,132103,Hindi,22:20,Executive,330₹,120,0
+Bathinda,FunCinemasMittalCityMallBathinda,132103,Hindi,22:20,Premium,340₹,184,10
