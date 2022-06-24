@@ -1,0 +1,11 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Coimbatore,InoxProzoneMallCoimbatore,641035,Tamil,11:40,Club,190₹,135,16
+Coimbatore,InoxProzoneMallCoimbatore,641035,Tamil,11:40,Executive,60₹,19,1
+Chennai,SpiPalazzoTheForumVijayaMallVadapalani,600026,Tamil,12:15,Budget,60₹,27,27
+Chennai,SpiPalazzoTheForumVijayaMallVadapalani,600026,Tamil,12:15,Elite,190₹,210,70
+Chennai,PvrVrChennaiAnnaNagar,600040,Tamil,15:00,Classic,60₹,30,30
+Chennai,PvrVrChennaiAnnaNagar,600040,Tamil,15:00,Prime,190₹,158,69
+Tirupur,SriSakthiCinemasUnionMillRoadTirupur,641601,Tamil,15:40,Diamond,190₹,16,5
+Tirupur,SriSakthiCinemasUnionMillRoadTirupur,641601,Tamil,15:40,Platinum,165₹,26,1
+Tirupur,SriSakthiCinemasUnionMillRoadTirupur,641601,Tamil,15:40,Gold,130₹,86,6
+Tirupur,SriSakthiCinemasUnionMillRoadTirupur,641601,Tamil,15:40,Silver,80₹,17,3
