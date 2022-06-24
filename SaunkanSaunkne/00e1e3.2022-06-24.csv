@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Una,RajhansCinemasMrcMagnumMallIsbtUna,174303,Punjabi,18:00,Executive,180₹,164,0
+Una,RajhansCinemasMrcMagnumMallIsbtUna,174303,Punjabi,18:00,Royal,160₹,48,0
+Una,RajhansCinemasMrcMagnumMallIsbtUna,174303,Punjabi,18:00,Marvel,140₹,32,0
+Jalandhar,PvrFriendsJalandhar,144001,Punjabi,18:20,Classic,99₹,33,17
+Jalandhar,PvrFriendsJalandhar,144001,Punjabi,18:20,Prime,99₹,55,41
+Chandigarh,PvrVrPunjabMallMohali,140301,Punjabi,18:35,Classic,99₹,105,3
+Chandigarh,PvrVrPunjabMallMohali,140301,Punjabi,18:35,Prime,99₹,42,18
+Ludhiana,PvrPavilionLudhiana,141001,Punjabi,22:35,Classic,99₹,77,20
