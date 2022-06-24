@@ -1,0 +1,15 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Mumbai,CinepolisVivianaMallThane,400606,Marathi,13:30,Normal,210₹,24,0
+Mumbai,CinepolisVivianaMallThane,400606,Marathi,13:30,Executive,230₹,72,3
+Mumbai,CinepolisVivianaMallThane,400606,Marathi,13:30,Premium,250₹,12,12
+Pune,AbhiruchiCityPrideSinhagadRoad,411041,Marathi,15:45,RoyalSofa,230₹,12,3
+Pune,AbhiruchiCityPrideSinhagadRoad,411041,Marathi,15:45,RoyalGold,200₹,123,24
+Pune,AbhiruchiCityPrideSinhagadRoad,411041,Marathi,15:45,RoyalSilver,180₹,30,0
+Pune,CityPrideRDeccan,411004,Marathi,15:45,RoyalSofa,250₹,17,0
+Pune,CityPrideRDeccan,411004,Marathi,15:45,RoyalGold,230₹,60,14
+Pune,CityPrideRDeccan,411004,Marathi,15:45,RoyalSilver,200₹,24,0
+Pune,CinepolisNexusWestendMallAundhPune,411007,Marathi,15:50,Normal,280₹,25,2
+Pune,CinepolisNexusWestendMallAundhPune,411007,Marathi,15:50,Executive,280₹,55,13
+Pune,CinepolisNexusWestendMallAundhPune,411007,Marathi,15:50,Premium,280₹,48,5
+Pune,CityPrideKothrud,411038,Marathi,18:45,RoyalGold,230₹,149,35
+Pune,CityPrideKothrud,411038,Marathi,18:45,RoyalSilver,200₹,22,0
