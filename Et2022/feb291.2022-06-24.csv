@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Indapur,KesharCinemaIndapur,413106,Hindi,12:00,Diamond,100₹,143,0
+Indapur,KesharCinemaIndapur,413106,Hindi,12:00,Gold,100₹,57,0
+Indapur,KesharCinemaIndapur,413106,Hindi,15:00,Diamond,100₹,143,0
+Indapur,KesharCinemaIndapur,413106,Hindi,15:00,Gold,100₹,57,0
+Indapur,KesharCinemaIndapur,413106,Hindi,15:00,Diamond,100₹,143,6
+Indapur,KesharCinemaIndapur,413106,Hindi,15:00,Gold,100₹,57,0
+Indapur,KesharCinemaIndapur,413106,Hindi,18:00,Diamond,100₹,143,0
+Indapur,KesharCinemaIndapur,413106,Hindi,18:00,Gold,100₹,57,0
+Indapur,KesharCinemaIndapur,413106,Hindi,18:00,Diamond,100₹,143,2
+Indapur,KesharCinemaIndapur,413106,Hindi,18:00,Gold,100₹,57,0
+Indapur,KesharCinemaIndapur,413106,Hindi,21:00,Diamond,100₹,143,10
+Indapur,KesharCinemaIndapur,413106,Hindi,21:00,Gold,100₹,57,0
