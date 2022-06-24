@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Jamnagar,AmberCinemaJamnagar,361008,Hindi,12:30,Balcony,80₹,128,0
+Balurghat,SatyajitManchaBalurghat,733101,Hindi,15:30,Balcony,100₹,40,2
+Balurghat,SatyajitManchaBalurghat,733101,Hindi,15:30,RearStall,50₹,655,0
+Jamnagar,AmberCinemaJamnagar,361008,Hindi,15:30,Balcony,80₹,128,0
+Balurghat,SatyajitManchaBalurghat,733101,Hindi,18:30,Balcony,100₹,40,2
+Balurghat,SatyajitManchaBalurghat,733101,Hindi,18:30,RearStall,50₹,655,0
+Jamnagar,AmberCinemaJamnagar,361008,Hindi,18:30,Balcony,80₹,128,0
+Jamnagar,AmberCinemaJamnagar,361008,Hindi,21:30,Balcony,80₹,128,0
