@@ -1,0 +1,7 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Mumbai,G7MultiplexBandraW,400050,Hindi,12:30,Special,170₹,38,18
+Mumbai,G7MultiplexBandraW,400050,Hindi,12:30,DressCircle,170₹,9,6
+Bhopal,PvrAuraMallBhopal,462039,Hindi,16:30,Classic,130₹,63,0
+Bhopal,PvrAuraMallBhopal,462039,Hindi,16:30,Prime,130₹,207,74
+Bhopal,PvrAuraMallBhopal,462039,Hindi,16:30,Recliner,300₹,11,0
+Hyderabad,PvrNextGalleriaMallPanjagutta,500082,Hindi,16:40,Classic,200₹,152,32
