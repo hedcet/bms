@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Pune,LaxmiCineplexNarayangaon,410504,Marathi,18:00,Platinum,140₹,24,0
+Pune,LaxmiCineplexNarayangaon,410504,Marathi,18:00,Gold,99₹,120,0
+Akluj,ShriramCinemaAkluj,413101,Marathi,18:00,Balcony,170₹,214,18
+Akluj,ShriramCinemaAkluj,413101,Marathi,18:00,DressCircle,100₹,411,61
