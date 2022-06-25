@@ -1,0 +1,6 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Mumbai,MetroInoxCinemasMarineLines,400020,English,14:35,Kiddles,360₹,45,28
+Mumbai,InoxMegaplexInorbitMallMalad,400064,English,18:00,Kiddles,300₹,57,7
+NationalCapitalRegionNcr,PvrVegasDwarka,110078,English,18:15,Classic,320₹,36,0
+NationalCapitalRegionNcr,PvrVegasDwarka,110078,English,18:15,Prime,370₹,14,0
+NationalCapitalRegionNcr,PvrVegasDwarka,110078,English,18:15,Recliner,420₹,8,0
