@@ -1,0 +1,8 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+VizagVisakhapatnam,MouryaTheaterACDtsGopalapatnam,530027,Telugu,10:30,Balcony,145₹,147,0
+RajamahendravaramRajahmundry,SuryaMiniRajahmundry,533103,Telugu,11:15,FirstClass,112₹,162,0
+RajamahendravaramRajahmundry,SuryaMiniRajahmundry,533103,Telugu,11:15,SecondClass,75₹,71,0
+VizagVisakhapatnam,MouryaTheaterACDtsGopalapatnam,530027,Telugu,14:00,Balcony,145₹,147,3
+VizagVisakhapatnam,MouryaTheaterACDtsGopalapatnam,530027,Telugu,17:45,Balcony,145₹,147,0
+RajamahendravaramRajahmundry,Suryamini2KDolbyAtmosRajahmundry,533103,Telugu,18:15,FirstClass,112₹,162,0
+RajamahendravaramRajahmundry,Suryamini2KDolbyAtmosRajahmundry,533103,Telugu,18:15,SecondClass,75₹,71,0
