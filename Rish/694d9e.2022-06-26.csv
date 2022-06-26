@@ -1,0 +1,8 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+NationalCapitalRegionNcr,PvrLogixNoida,201301,Bengali,16:25,Classic,345₹,76,0
+Kolkata,PvrDiamondPlazaJessoreKolkata,700055,Bengali,17:25,Classic,250₹,100,21
+Kolkata,PvrDiamondPlazaJessoreKolkata,700055,Bengali,17:25,Prime,300₹,11,0
+Kolkata,PvrDiamondPlazaJessoreKolkata,700055,Bengali,17:25,Recliner,470₹,12,0
+Kolkata,NazrultirthaCinemaScreen3Kolkata,700156,Bengali,19:00,Gold,150₹,30,2
+Kolkata,NazrultirthaCinemaScreen3Kolkata,700156,Bengali,19:00,Recliner,170₹,8,0
+Kolkata,NazrultirthaCinemaScreen3Kolkata,700156,Bengali,19:00,Sofa,150₹,12,0
