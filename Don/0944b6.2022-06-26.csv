@@ -1,0 +1,8 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Chennai,CinepolisBsrMallOmrThoraipakkam,600097,Tamil,12:30,Normal,60₹,17,17
+Chennai,CinepolisBsrMallOmrThoraipakkam,600097,Tamil,12:30,Executive,190₹,152,52
+Chennai,SpiEscapeExpressAvenueMallRoyapettah,600014,Tamil,13:00,Budget,60₹,11,10
+Chennai,SpiEscapeExpressAvenueMallRoyapettah,600014,Tamil,13:00,Elite,190₹,99,63
+Coimbatore,FunCinemasFunRepublicMallCoimbatore,641004,Tamil,13:00,Normal,60₹,17,17
+Coimbatore,FunCinemasFunRepublicMallCoimbatore,641004,Tamil,13:00,Executive,190₹,142,43
+Chennai,MayajaalMultiplexEcrChennai,603112,Tamil,15:05,FirstClass,190₹,137,10
