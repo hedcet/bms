@@ -1,0 +1,6 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Rayagada,SriRamaTalkiesRayagada,765001,Oriya,10:30,Balcony,100₹,92,0
+Cuttack,BrundabanTalkiesCuttack,753001,Oriya,12:15,Balcony,140₹,219,0
+Cuttack,BrundabanTalkiesCuttack,753001,Oriya,12:15,Box,160₹,8,0
+Cuttack,BrundabanTalkiesCuttack,753001,Oriya,12:15,SpecialClass,110₹,194,0
+Rayagada,SriRamaTalkiesRayagada,765001,Oriya,14:00,Balcony,100₹,92,2
