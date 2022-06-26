@@ -1,0 +1,6 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Ahmedabad,CityGoldAshramRoad,380009,Gujarati,17:45,Executive,200₹,130,0
+Ahmedabad,RajhansCinemasVastral,382418,Gujarati,19:45,Recliner,400₹,17,6
+Ahmedabad,RajhansCinemasVastral,382418,Gujarati,19:45,Executive,220₹,103,6
+Ahmedabad,RajhansCinemasVastral,382418,Gujarati,19:45,Royal,200₹,28,0
+Ahmedabad,RajhansCinemasVastral,382418,Gujarati,19:45,Marvel,180₹,24,0
