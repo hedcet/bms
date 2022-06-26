@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Samsi,PawanTalkiesSamsi,732139,Bengali,12:30,DressCircle,90₹,24,0
+Samsi,PawanTalkiesSamsi,732139,Bengali,12:30,Balcony,60₹,140,0
+Samsi,PawanTalkiesSamsi,732139,Bengali,15:30,DressCircle,90₹,24,0
+Samsi,PawanTalkiesSamsi,732139,Bengali,15:30,Balcony,60₹,140,0
+Ranaghat,RanaghatTalkiesNadia,741201,Bengali,16:30,1stClass,30₹,720,0
+Ranaghat,RanaghatTalkiesNadia,741201,Bengali,16:30,Balcony,50₹,130,12
+Samsi,PawanTalkiesSamsi,732139,Bengali,18:30,DressCircle,90₹,24,0
+Samsi,PawanTalkiesSamsi,732139,Bengali,18:30,Balcony,60₹,140,0
+AshoknagarWestBengal,NatarajCinemaAshoknagar,743222,Bengali,18:45,FirstClass,30₹,50,0
+Kolkata,PvrDiamondPlazaJessoreKolkata,700055,Bengali,19:55,Classic,99₹,100,20
+Kolkata,PvrDiamondPlazaJessoreKolkata,700055,Bengali,19:55,Prime,99₹,11,0
+Kolkata,PvrDiamondPlazaJessoreKolkata,700055,Bengali,19:55,Recliner,149₹,12,0
