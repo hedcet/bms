@@ -1,0 +1,11 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Mumbai,CinemaStarHighStreetMallThane,400601,Marathi,09:20,Normal,130₹,208,0
+Mumbai,InoxKorumMallEasternExpressHighwayThane,400606,Marathi,12:15,Royal,300₹,18,5
+Mumbai,InoxKorumMallEasternExpressHighwayThane,400606,Marathi,12:15,Club,200₹,131,21
+Mumbai,InoxKorumMallEasternExpressHighwayThane,400606,Marathi,12:15,Executive,180₹,51,0
+Mumbai,CinepolisSeawoodsGrandCentralNaviMumbai,400706,Marathi,12:55,Normal,160₹,49,49
+Mumbai,CinepolisSeawoodsGrandCentralNaviMumbai,400706,Marathi,12:55,Executive,180₹,94,5
+Mumbai,CinepolisSeawoodsGrandCentralNaviMumbai,400706,Marathi,12:55,Premium,200₹,80,9
+Mumbai,CinepolisSeawoodsGrandCentralNaviMumbai,400706,Marathi,12:55,Vip,300₹,14,2
+Mumbai,CinepolisVipVivianaMallThane,400606,Marathi,13:10,Vip,500₹,76,8
+Mumbai,CinemaStarHighStreetMallThane,400601,Marathi,19:15,Normal,160₹,208,2
