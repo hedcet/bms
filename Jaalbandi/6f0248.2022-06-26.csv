@@ -1,0 +1,16 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Lakshmikantapur,SreeLakshmiTalkiesLakshmikantapur,743345,Bengali,12:00,GoldCoupleSeats,200₹,40,0
+Lakshmikantapur,SreeLakshmiTalkiesLakshmikantapur,743345,Bengali,12:00,Silver,70₹,60,0
+Kolkata,BijoliCinemaKolkata,700025,Bengali,12:00,Balcony,100₹,107,1
+Kolkata,ChhabigharCinemaKolkata,700009,Bengali,12:00,Balcony,100₹,80,0
+Dubrajpur,BinapaniTalkiesDubrajpur,731132,Bengali,13:00,Balcony,40₹,20,0
+Dubrajpur,BinapaniTalkiesDubrajpur,731132,Bengali,13:00,RearStall,30₹,20,0
+Lakshmikantapur,SreeLakshmiTalkiesLakshmikantapur,743345,Bengali,15:00,GoldCoupleSeats,200₹,40,0
+Lakshmikantapur,SreeLakshmiTalkiesLakshmikantapur,743345,Bengali,15:00,Silver,70₹,60,0
+Dubrajpur,BinapaniTalkiesDubrajpur,731132,Bengali,16:00,Balcony,40₹,20,0
+Dubrajpur,BinapaniTalkiesDubrajpur,731132,Bengali,16:00,RearStall,30₹,20,0
+AshoknagarWestBengal,NatarajCinemaAshoknagar,743222,Bengali,16:15,FirstClass,30₹,50,0
+Lakshmikantapur,SreeLakshmiTalkiesLakshmikantapur,743345,Bengali,17:30,GoldCoupleSeats,200₹,40,0
+Lakshmikantapur,SreeLakshmiTalkiesLakshmikantapur,743345,Bengali,17:30,Silver,70₹,60,0
+Dubrajpur,BinapaniTalkiesDubrajpur,731132,Bengali,19:00,Balcony,40₹,20,0
+Dubrajpur,BinapaniTalkiesDubrajpur,731132,Bengali,19:00,RearStall,30₹,20,0
