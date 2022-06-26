@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Raipur,PvrMagnetoMallRaipur,492001,Chattisgarhi,13:15,Classic,93₹,38,0
+Raipur,PvrMagnetoMallRaipur,492001,Chattisgarhi,13:15,Prime,93₹,192,22
+Raipur,PvrMagnetoMallRaipur,492001,Chattisgarhi,13:15,Recliner,137₹,22,0
+Bhilai,MirajCinemasBhilai,490006,Chattisgarhi,18:15,Special,120₹,42,0
+Bhilai,MirajCinemasBhilai,490006,Chattisgarhi,18:15,Executive,120₹,109,0
+Korba,NiharikaCinemasKorba,495677,Chattisgarhi,21:25,Silver,50₹,20,0
+Korba,NiharikaCinemasKorba,495677,Chattisgarhi,21:25,Gold,100₹,88,0
+Korba,NiharikaCinemasKorba,495677,Chattisgarhi,21:25,Platinum,150₹,41,0
