@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,SavithaTheatre2KDolbyACMalleshwaram,560003,Kannada,14:00,Platinum,150₹,27,1
+Bengaluru,SavithaTheatre2KDolbyACMalleshwaram,560003,Kannada,14:00,Gold,120₹,248,0
+Bengaluru,SavithaTheatre2KDolbyACMalleshwaram,560003,Kannada,20:00,Platinum,150₹,27,0
+Bengaluru,SavithaTheatre2KDolbyACMalleshwaram,560003,Kannada,20:00,Gold,120₹,248,0
