@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Hyderabad,PvrIconHitechMadhapurHyderabad,500081,Telugu,13:25,Classic,200₹,143,14
+Hyderabad,PvrAtriumGachibowliHyderabad,500032,Telugu,16:55,Classic,200₹,113,13
+Hyderabad,PvrAtriumGachibowliHyderabad,500032,Telugu,16:55,Recliner,350₹,12,0
+Chennai,PvrHeritageRslEcrChennai,600119,Telugu,18:35,Classic,63₹,11,11
+Chennai,PvrHeritageRslEcrChennai,600119,Telugu,18:35,Prime,202₹,99,13
+Hyderabad,PvrInorbitCyberabad,500081,Telugu,20:15,Classic,200₹,161,14
+Hyderabad,PvrMallapurHyderabad,500076,Telugu,22:25,Classic,200₹,196,14
+Hyderabad,PvrPrestonPrimeGachibowliHyderabad,500081,Telugu,22:25,Classic,200₹,217,36
