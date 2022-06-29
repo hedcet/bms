@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+NationalCapitalRegionNcr,PvrSelectCityWalkDelhi,110017,French,16:45,LoungerNormal,350₹,11,0
+NationalCapitalRegionNcr,PvrSelectCityWalkDelhi,110017,French,16:45,ClassicNormal,300₹,107,0
+NationalCapitalRegionNcr,PvrSelectCityWalkDelhi,110017,French,16:45,Prime,350₹,111,0
+NationalCapitalRegionNcr,PvrSelectCityWalkDelhi,110017,French,16:45,ReclinersNormal,800₹,17,0
+Pondicherry,PvrTheCinemaProvidencePondicherry,605001,French,18:55,Elite,150₹,167,27
+Pondicherry,PvrTheCinemaProvidencePondicherry,605001,French,18:55,Premium,110₹,62,0
+Chennai,SpiEscapeExpressAvenueMallRoyapettah,600014,French,19:00,Budget,66₹,11,11
+Chennai,SpiEscapeExpressAvenueMallRoyapettah,600014,French,19:00,Elite,211₹,99,27
+Chennai,SpiPalazzoTheForumVijayaMallVadapalani,600026,French,19:55,Imax,360₹,346,0
+NationalCapitalRegionNcr,PvrAmbienceGurgaon,122001,French,20:20,ClassicImax,350₹,136,0
+NationalCapitalRegionNcr,PvrAmbienceGurgaon,122001,French,20:20,PrimeImax,400₹,86,0
+NationalCapitalRegionNcr,PvrAmbienceGurgaon,122001,French,20:20,Lounger,400₹,9,0
