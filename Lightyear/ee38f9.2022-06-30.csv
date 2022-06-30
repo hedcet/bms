@@ -1,0 +1,4 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+NationalCapitalRegionNcr,PvrVegasDwarka,110078,English,12:45,Classic,190₹,36,2
+NationalCapitalRegionNcr,PvrVegasDwarka,110078,English,12:45,Prime,215₹,21,9
+NationalCapitalRegionNcr,PvrVegasDwarka,110078,English,12:45,Recliner,240₹,8,4
