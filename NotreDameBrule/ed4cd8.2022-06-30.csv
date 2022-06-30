@@ -1,0 +1,4 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Pune,PvrPhoenixMarketCityPune,411014,French,17:15,Classic,150₹,52,0
+Pune,PvrPhoenixMarketCityPune,411014,French,17:15,Prime,150₹,119,9
+Pune,PvrPhoenixMarketCityPune,411014,French,17:15,PrimePlus,250₹,10,0
