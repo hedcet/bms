@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Raipur,MirajCinemasNavaRaipurAtalNagar,492101,Chattisgarhi,16:20,Special,103₹,28,0
+Raipur,MirajCinemasNavaRaipurAtalNagar,492101,Chattisgarhi,16:20,Club,209₹,4,0
+Raipur,MirajCinemasNavaRaipurAtalNagar,492101,Chattisgarhi,16:20,Executive,118₹,81,0
+Raipur,MirajCinemasNavaRaipurAtalNagar,492101,Chattisgarhi,16:20,Gold,300₹,4,0
+Bhilai,MirajCinemasBhilai,490006,Chattisgarhi,18:15,Special,75₹,42,0
+Bhilai,MirajCinemasBhilai,490006,Chattisgarhi,18:15,Executive,75₹,109,6
+Bilaspur,City36CinemasBilaspur,495001,Chattisgarhi,18:30,Premium,99₹,45,0
+Bilaspur,City36CinemasBilaspur,495001,Chattisgarhi,18:30,Gold,99₹,183,12
+Bilaspur,City36CinemasBilaspur,495001,Chattisgarhi,18:30,Recliner,200₹,19,10
+Korba,NiharikaCinemasKorba,495677,Chattisgarhi,21:25,Silver,50₹,20,0
+Korba,NiharikaCinemasKorba,495677,Chattisgarhi,21:25,Gold,100₹,88,0
+Korba,NiharikaCinemasKorba,495677,Chattisgarhi,21:25,Platinum,150₹,41,0
