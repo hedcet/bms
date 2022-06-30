@@ -1,0 +1,14 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kalyani,VidyasagarManchKalyani,741235,Bengali,13:15,SpecialStall,100₹,8,0
+Kalyani,VidyasagarManchKalyani,741235,Bengali,13:15,RearStall,100₹,199,0
+Kalyani,VidyasagarManchKalyani,741235,Bengali,13:15,FrontStall,100₹,238,0
+Asansol,CarnivalSentrumMall,713341,Bengali,14:20,Gold,110₹,43,2
+Asansol,CarnivalSentrumMall,713341,Bengali,14:20,Silver,110₹,150,2
+Asansol,CarnivalSentrumMall,713341,Bengali,14:20,Premium,110₹,63,0
+Kolkata,NandanKolkata,700020,Bengali,16:35,Normal,30₹,165,4
+Kolkata,StarTheatreKolkata,700006,Bengali,18:20,FrontStall,115₹,84,0
+Kolkata,StarTheatreKolkata,700006,Bengali,18:20,RearStall,125₹,234,0
+Kolkata,StarTheatreKolkata,700006,Bengali,18:20,Balcony,115₹,192,8
+Kalyani,VidyasagarManchKalyani,741235,Bengali,18:30,SpecialStall,100₹,8,0
+Kalyani,VidyasagarManchKalyani,741235,Bengali,18:30,RearStall,100₹,199,0
+Kalyani,VidyasagarManchKalyani,741235,Bengali,18:30,FrontStall,100₹,238,0
