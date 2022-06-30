@@ -1,0 +1,12 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Pune,CityPrideRDeccan,411004,Marathi,15:45,RoyalSofa,200₹,17,1
+Pune,CityPrideRDeccan,411004,Marathi,15:45,RoyalGold,180₹,60,0
+Pune,CityPrideRDeccan,411004,Marathi,15:45,RoyalSilver,160₹,24,0
+Pune,AbhiruchiCityPrideSinhagadRoad,411041,Marathi,15:45,RoyalSofa,200₹,12,0
+Pune,AbhiruchiCityPrideSinhagadRoad,411041,Marathi,15:45,RoyalGold,180₹,123,24
+Pune,AbhiruchiCityPrideSinhagadRoad,411041,Marathi,15:45,RoyalSilver,160₹,30,0
+Pune,CinepolisWestendMallAundhPune,411007,Marathi,15:50,Normal,250₹,25,2
+Pune,CinepolisWestendMallAundhPune,411007,Marathi,15:50,Executive,250₹,55,13
+Pune,CinepolisWestendMallAundhPune,411007,Marathi,15:50,Premium,250₹,48,5
+Pune,CityPrideKothrud,411038,Marathi,18:45,RoyalGold,200₹,149,33
+Pune,CityPrideKothrud,411038,Marathi,18:45,RoyalSilver,180₹,22,0
