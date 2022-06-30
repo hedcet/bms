@@ -1,0 +1,4 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Ahmedabad,DeviMultiplexNaroda,382330,Gujarati,19:30,Platinum,110₹,40,0
+Ahmedabad,DeviMultiplexNaroda,382330,Gujarati,19:30,Gold,110₹,112,0
+Ahmedabad,CityGoldAshramRoad,380009,Gujarati,20:00,Executive,200₹,130,20
