@@ -1,0 +1,7 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Hyderabad,PvrNextGalleriaMallPanjagutta,500082,Hindi,16:25,Classic,200₹,152,71
+Bhopal,PvrAuraMallBhopal,462039,Hindi,16:30,Classic,130₹,63,0
+Bhopal,PvrAuraMallBhopal,462039,Hindi,16:30,Prime,130₹,207,13
+Bhopal,PvrAuraMallBhopal,462039,Hindi,16:30,Recliner,260₹,11,0
+NationalCapitalRegionNcr,PvrPromenadeVasantKunj,110070,Hindi,17:20,Classic,149₹,50,10
+NationalCapitalRegionNcr,PvrPromenadeVasantKunj,110070,Hindi,17:20,Prime,199₹,34,16
