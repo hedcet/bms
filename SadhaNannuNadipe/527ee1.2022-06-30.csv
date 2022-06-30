@@ -1,0 +1,8 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+VizagVisakhapatnam,CinepolisSreekanyaCineglitzMadhurawada,530048,Telugu,16:45,Normal,177₹,20,0
+VizagVisakhapatnam,CinepolisSreekanyaCineglitzMadhurawada,530048,Telugu,16:45,Executive,177₹,149,13
+Vijayawada,CinepolisPvpSquareMallVijayawada,520010,Telugu,17:10,Normal,177₹,224,23
+Gudivada,AbrCinemasTheNextGudivada,521301,Telugu,21:30,Diamond,112₹,161,0
+Gudivada,AbrCinemasTheNextGudivada,521301,Telugu,21:30,Platinum,112₹,35,0
+Gudivada,AbrCinemasTheNextGudivada,521301,Telugu,21:30,Executive,112₹,14,0
+Gudivada,AbrCinemasTheNextGudivada,521301,Telugu,21:30,Loungers,112₹,8,0
