@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kolkata,NazrultirthaCinemaKolkata,700156,Bengali,18:00,Silver,130₹,26,0
+Kolkata,NazrultirthaCinemaKolkata,700156,Bengali,18:00,Gold,150₹,65,2
+Kolkata,PvrDiamondPlazaJessoreKolkata,700055,Bengali,19:35,Classic,160₹,210,0
+Kolkata,PvrDiamondPlazaJessoreKolkata,700055,Bengali,19:35,Prime,220₹,11,0
+Kolkata,PvrDiamondPlazaJessoreKolkata,700055,Bengali,19:35,Recliner,420₹,12,3
+Kolkata,NandanKolkata,700020,Bengali,19:45,FrontStall,30₹,111,1
+Kolkata,NandanKolkata,700020,Bengali,19:45,RearStall,50₹,451,4
+Kolkata,NandanKolkata,700020,Bengali,19:45,Balcony,70₹,369,13
