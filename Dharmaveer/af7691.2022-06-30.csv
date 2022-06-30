@@ -1,0 +1,14 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Pune,ViluxTalkiesKhadki,411003,Marathi,15:15,Gold,100₹,224,0
+Pune,ViluxTalkiesKhadki,411003,Marathi,15:15,Silver,100₹,58,0
+Pune,ViluxTalkiesKhadki,411003,Marathi,18:15,Gold,100₹,224,0
+Pune,ViluxTalkiesKhadki,411003,Marathi,18:15,Silver,100₹,58,0
+Mumbai,CinepolisVivianaMallThane,400606,Marathi,19:05,Normal,200₹,27,0
+Mumbai,CinepolisVivianaMallThane,400606,Marathi,19:05,Executive,220₹,106,7
+Mumbai,CinepolisVivianaMallThane,400606,Marathi,19:05,Premium,240₹,46,21
+Pune,ViluxTalkiesKhadki,411003,Marathi,21:30,Gold,100₹,224,0
+Pune,ViluxTalkiesKhadki,411003,Marathi,21:30,Silver,100₹,58,0
+Mumbai,CinepolisSeawoodsGrandCentralNaviMumbai,400706,Marathi,21:40,Normal,180₹,49,49
+Mumbai,CinepolisSeawoodsGrandCentralNaviMumbai,400706,Marathi,21:40,Executive,200₹,94,7
+Mumbai,CinepolisSeawoodsGrandCentralNaviMumbai,400706,Marathi,21:40,Premium,220₹,80,5
+Mumbai,CinepolisSeawoodsGrandCentralNaviMumbai,400706,Marathi,21:40,Vip,420₹,14,0
