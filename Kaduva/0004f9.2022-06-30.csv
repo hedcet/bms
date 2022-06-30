@@ -1,0 +1,15 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Puthoor,ChellamTheatrePuthoor,691507,Malayalam,08:00,Balcony,150₹,648,0
+Puthoor,ChellamTheatrePuthoor,691507,Malayalam,08:00,Reserved,125₹,648,0
+Pathanamthitta,TrinityMovieMaxPathanamthitta,689645,Malayalam,11:15,Balcony,150₹,150,24
+Pathanamthitta,TrinityMovieMaxPathanamthitta,689645,Malayalam,11:15,Special,130₹,100,2
+Wadakkancherry,NewRagam3D2KDolbyAtmosWadakkancherry,680590,Malayalam,11:15,Standard,129₹,363,0
+Pathanamthitta,TrinityMovieMaxPathanamthitta,689645,Malayalam,14:15,Balcony,150₹,150,11
+Pathanamthitta,TrinityMovieMaxPathanamthitta,689645,Malayalam,14:15,Special,130₹,100,0
+Wadakkancherry,NewRagam3D2KDolbyAtmosWadakkancherry,680590,Malayalam,14:30,Standard,129₹,363,0
+Wadakkancherry,NewRagam3D2KDolbyAtmosWadakkancherry,680590,Malayalam,18:00,Standard,129₹,363,20
+Pathanamthitta,TrinityMovieMaxPathanamthitta,689645,Malayalam,18:15,Balcony,150₹,150,31
+Pathanamthitta,TrinityMovieMaxPathanamthitta,689645,Malayalam,18:15,Special,130₹,100,3
+Pathanamthitta,TrinityMovieMaxPathanamthitta,689645,Malayalam,21:15,Balcony,150₹,150,29
+Pathanamthitta,TrinityMovieMaxPathanamthitta,689645,Malayalam,21:15,Special,130₹,100,0
+Wadakkancherry,NewRagam3D2KDolbyAtmosWadakkancherry,680590,Malayalam,21:30,Standard,129₹,363,25
