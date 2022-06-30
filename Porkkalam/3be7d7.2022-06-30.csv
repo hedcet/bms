@@ -1,0 +1,6 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Pathanamthitta,DhanyaRemyaPathanamthitta,689645,Malayalam,14:00,RemyaCircle,135₹,197,54
+Alappuzha,EvmGrandCinemaCherthala,688524,Malayalam,14:30,Platinum,160₹,22,0
+Haripad,SnTheatreHaripad,690514,Malayalam,14:30,Screen1,110₹,175,0
+Karunagapally,CarnivalHJComplex,690518,Malayalam,15:00,ClassicOffline,100₹,118,15
+Kochi,SangeetaCinemaKochi,680018,Malayalam,21:00,BlueCircle,150₹,187,18
