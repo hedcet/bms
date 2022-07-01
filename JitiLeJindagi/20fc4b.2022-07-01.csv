@@ -1,0 +1,6 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Ahmedabad,MuktaA2CinemasRajyashSouthVasnaAhmedabad,380007,Gujarati,20:30,PremiumSofa,150₹,17,0
+Ahmedabad,MuktaA2CinemasRajyashSouthVasnaAhmedabad,380007,Gujarati,20:30,Gold,130₹,87,0
+Ahmedabad,MuktaA2CinemasRajyashSouthVasnaAhmedabad,380007,Gujarati,20:30,Silver,130₹,36,0
+Ahmedabad,DeviMultiplexNaroda,382330,Gujarati,21:00,Platinum,110₹,42,30
+Ahmedabad,DeviMultiplexNaroda,382330,Gujarati,21:00,Gold,110₹,98,30
