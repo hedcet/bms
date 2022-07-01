@@ -1,0 +1,16 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Akaltara,DlMultiplexAkaltara,495552,Chattisgarhi,15:00,Royal,200₹,9,0
+Akaltara,DlMultiplexAkaltara,495552,Chattisgarhi,15:00,Diamond,150₹,20,0
+Akaltara,DlMultiplexAkaltara,495552,Chattisgarhi,15:00,Gold,120₹,20,0
+Akaltara,DlMultiplexAkaltara,495552,Chattisgarhi,15:00,Silver,80₹,20,0
+Bilaspur,City36CinemasBilaspur,495001,Chattisgarhi,15:15,Premium,100₹,45,30
+Bilaspur,City36CinemasBilaspur,495001,Chattisgarhi,15:15,Gold,150₹,183,10
+Bilaspur,City36CinemasBilaspur,495001,Chattisgarhi,15:15,Recliner,300₹,19,10
+Akaltara,DlMultiplexAkaltara,495552,Chattisgarhi,18:00,Royal,200₹,9,0
+Akaltara,DlMultiplexAkaltara,495552,Chattisgarhi,18:00,Diamond,150₹,20,0
+Akaltara,DlMultiplexAkaltara,495552,Chattisgarhi,18:00,Gold,120₹,20,0
+Akaltara,DlMultiplexAkaltara,495552,Chattisgarhi,18:00,Silver,80₹,20,0
+Akaltara,DlMultiplexAkaltara,495552,Chattisgarhi,21:00,Royal,200₹,9,0
+Akaltara,DlMultiplexAkaltara,495552,Chattisgarhi,21:00,Diamond,150₹,20,0
+Akaltara,DlMultiplexAkaltara,495552,Chattisgarhi,21:00,Gold,120₹,20,0
+Akaltara,DlMultiplexAkaltara,495552,Chattisgarhi,21:00,Silver,80₹,20,0
