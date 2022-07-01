@@ -1,0 +1,17 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+PrayagrajAllahabad,StarworldCinemasMutthiganjPrayagraj,211003,Hindi,10:30,Silver,100₹,100,0
+PrayagrajAllahabad,StarworldCinemasMutthiganjPrayagraj,211003,Hindi,10:30,Gold,100₹,240,12
+PrayagrajAllahabad,StarworldCinemasMutthiganjPrayagraj,211003,Hindi,10:30,Platinum,100₹,161,11
+PrayagrajAllahabad,StarworldCinemasMutthiganjPrayagraj,211003,Hindi,10:30,PlatinumXlSeats,100₹,48,0
+Mathura,RoopamStarworldMathura,281003,Hindi,10:30,Prime,200₹,144,0
+Mathura,RoopamStarworldMathura,281003,Hindi,10:30,Platinum,180₹,78,0
+Saharanpur,CineluvKalpanaCinemaSaharanpur,247001,Hindi,12:50,Silver,150₹,114,23
+Saharanpur,CineluvKalpanaCinemaSaharanpur,247001,Hindi,12:50,Gold,150₹,60,15
+Saharanpur,CineluvKalpanaCinemaSaharanpur,247001,Hindi,12:50,Platinum,200₹,66,10
+Mughalsarai,IpCinemasIpMughalMultiplex,232101,Hindi,13:45,Silver,150₹,105,4
+Mughalsarai,IpCinemasIpMughalMultiplex,232101,Hindi,13:45,Gold,200₹,200,7
+Mughalsarai,IpCinemasIpMughalMultiplex,232101,Hindi,13:45,Diamond,250₹,10,0
+Dhampur,SheelaTalkiesDhampur,246761,Hindi,18:00,Balcony,150₹,54,0
+Dhampur,SheelaTalkiesDhampur,246761,Hindi,21:00,Balcony,150₹,54,0
+Padrauna,QualityStarworldPadrauna,274304,Hindi,21:25,PlatinumXl,400₹,10,0
+Padrauna,QualityStarworldPadrauna,274304,Hindi,21:25,PlatinumXl,200₹,89,0
