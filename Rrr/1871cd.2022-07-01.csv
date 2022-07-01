@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Nawada,NatrajPicturePalaceNawada,805110,Hindi,17:00,VipClass,150₹,42,0
+Nawada,NatrajPicturePalaceNawada,805110,Hindi,20:00,VipClass,150₹,42,0
+Jaipur,GolchaCinemaJaipur,302003,Hindi,21:00,RoyalBox,200₹,94,22
+Jaipur,GolchaCinemaJaipur,302003,Hindi,21:00,Excutive,150₹,160,24
