@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Vijayawada,SwarnaMultiplexVijayawada,520002,Telugu,11:30,Premium,112₹,291,21
+Vijayawada,SwarnaMultiplexVijayawada,520002,Telugu,11:30,Economy,78₹,109,23
+Vijayawada,SwarnaMultiplexVijayawada,520002,Telugu,18:30,Premium,112₹,291,21
+Vijayawada,SwarnaMultiplexVijayawada,520002,Telugu,18:30,Economy,78₹,109,23
