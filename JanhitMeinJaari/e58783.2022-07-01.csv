@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+NationalCapitalRegionNcr,PvrVegasDwarka,110078,Hindi,10:40,Classic,149₹,112,0
+NationalCapitalRegionNcr,PvrVegasDwarka,110078,Hindi,10:40,Prime,149₹,52,16
+Mumbai,InoxMegaplexInorbitMallMalad,400064,Hindi,12:30,Insignia,450₹,46,6
+NationalCapitalRegionNcr,PvrLogixNoida,201301,Hindi,22:50,Classic,320₹,78,0
