@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Parbhani,PritiCinemaParbhani,431401,Hindi,15:15,Platinum,100₹,133,0
+Parbhani,PritiCinemaParbhani,431401,Hindi,15:15,Gold,80₹,98,0
+Parbhani,PritiCinemaParbhani,431401,Hindi,15:15,Silver,60₹,178,0
+Parbhani,PritiCinemaParbhani,431401,Hindi,15:15,King,120₹,76,0
+Parbhani,PritiCinemaParbhani,431401,Hindi,18:15,Platinum,100₹,133,0
+Parbhani,PritiCinemaParbhani,431401,Hindi,18:15,Gold,80₹,98,0
+Parbhani,PritiCinemaParbhani,431401,Hindi,18:15,Silver,60₹,178,0
+Parbhani,PritiCinemaParbhani,431401,Hindi,18:15,King,120₹,76,0
+Parbhani,PritiCinemaParbhani,431401,Hindi,21:15,Platinum,100₹,133,0
+Parbhani,PritiCinemaParbhani,431401,Hindi,21:15,Gold,80₹,98,0
+Parbhani,PritiCinemaParbhani,431401,Hindi,21:15,Silver,60₹,178,1
+Parbhani,PritiCinemaParbhani,431401,Hindi,21:15,King,120₹,76,0
