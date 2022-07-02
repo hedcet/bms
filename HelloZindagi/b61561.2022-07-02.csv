@@ -1,0 +1,10 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bhavnagar,Top3MultiplexBhavnagar,364002,Gujarati,09:00,Sofa,120₹,46,0
+Bhavnagar,Top3MultiplexBhavnagar,364002,Gujarati,09:00,Gold,80₹,108,0
+Bhavnagar,Top3MultiplexBhavnagar,364002,Gujarati,09:00,Silver,80₹,270,0
+Bhavnagar,Top3MultiplexBhavnagar,364002,Gujarati,10:00,Gold,120₹,230,0
+Bhavnagar,Top3MultiplexBhavnagar,364002,Gujarati,10:00,Silver,100₹,270,0
+Gandhinagar,CinemaxSumanGandhinagar,382011,Gujarati,19:15,Classic,150₹,43,0
+Gandhinagar,CinemaxSumanGandhinagar,382011,Gujarati,19:15,ClassicPlus,150₹,47,0
+Gandhinagar,CinemaxSumanGandhinagar,382011,Gujarati,19:15,Prime,150₹,100,37
+Gandhinagar,CinemaxSumanGandhinagar,382011,Gujarati,19:15,Recliner,250₹,23,1
