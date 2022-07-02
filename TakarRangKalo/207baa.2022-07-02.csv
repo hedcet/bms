@@ -1,0 +1,7 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Arambagh,SudhanilCinemaArambagh,712601,Bengali,12:00,Balcony,40₹,30,0
+Arambagh,SudhanilCinemaArambagh,712601,Bengali,12:00,RearStall,30₹,21,0
+Arambagh,SudhanilCinemaArambagh,712601,Bengali,15:00,Balcony,40₹,30,2
+Arambagh,SudhanilCinemaArambagh,712601,Bengali,15:00,RearStall,30₹,21,0
+Arambagh,SudhanilCinemaArambagh,712601,Bengali,18:00,Balcony,40₹,30,0
+Arambagh,SudhanilCinemaArambagh,712601,Bengali,18:00,RearStall,30₹,21,0
