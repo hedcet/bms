@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Pathanamthitta,TrinityMovieMaxPathanamthitta,689645,Malayalam,11:15,Balcony,150₹,150,0
+Pathanamthitta,TrinityMovieMaxPathanamthitta,689645,Malayalam,11:15,Special,130₹,100,0
+Pathanamthitta,TrinityMovieMaxPathanamthitta,689645,Malayalam,14:15,Balcony,150₹,150,3
+Pathanamthitta,TrinityMovieMaxPathanamthitta,689645,Malayalam,14:15,Special,130₹,100,2
+Pathanamthitta,TrinityMovieMaxPathanamthitta,689645,Malayalam,18:15,Balcony,150₹,150,0
+Pathanamthitta,TrinityMovieMaxPathanamthitta,689645,Malayalam,18:15,Special,130₹,100,0
+Pathanamthitta,TrinityMovieMaxPathanamthitta,689645,Malayalam,21:15,Balcony,150₹,150,0
+Pathanamthitta,TrinityMovieMaxPathanamthitta,689645,Malayalam,21:15,Special,130₹,100,0
