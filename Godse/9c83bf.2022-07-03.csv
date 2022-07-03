@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+VizagVisakhapatnam,TataPicturePalaceACDtsThagarapuvalasa,531162,Telugu,10:45,Premium,145₹,382,0
+VizagVisakhapatnam,TataPicturePalaceACDtsThagarapuvalasa,531162,Telugu,10:45,NonPremium,100₹,146,4
+VizagVisakhapatnam,TataPicturePalaceACDtsThagarapuvalasa,531162,Telugu,14:30,Premium,145₹,382,9
+VizagVisakhapatnam,TataPicturePalaceACDtsThagarapuvalasa,531162,Telugu,14:30,NonPremium,100₹,146,13
+VizagVisakhapatnam,TataPicturePalaceACDtsThagarapuvalasa,531162,Telugu,18:30,Premium,145₹,382,0
+VizagVisakhapatnam,TataPicturePalaceACDtsThagarapuvalasa,531162,Telugu,18:30,NonPremium,100₹,146,0
+VizagVisakhapatnam,TataPicturePalaceACDtsThagarapuvalasa,531162,Telugu,21:30,Premium,145₹,382,0
+VizagVisakhapatnam,TataPicturePalaceACDtsThagarapuvalasa,531162,Telugu,21:30,NonPremium,100₹,146,0
