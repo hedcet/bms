@@ -1,0 +1,8 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Chennai,SpiEscapeExpressAvenueMallRoyapettah,600014,Tamil,15:45,Budget,60₹,12,12
+Chennai,SpiEscapeExpressAvenueMallRoyapettah,600014,Tamil,15:45,Elite,190₹,108,79
+Chennai,CinepolisBsrMallOmrThoraipakkam,600097,Tamil,18:30,Normal,60₹,17,0
+Chennai,CinepolisBsrMallOmrThoraipakkam,600097,Tamil,18:30,Executive,152₹,124,0
+Mumbai,MovieMaxSion,400022,Tamil,20:00,Classic,200₹,46,0
+Mumbai,MovieMaxSion,400022,Tamil,20:00,Prime,240₹,169,0
+Mumbai,MovieMaxSion,400022,Tamil,20:00,PrimePlus,280₹,12,0
