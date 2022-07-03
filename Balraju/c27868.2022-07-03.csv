@@ -1,0 +1,11 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Hyderabad,AsianLakshmikalaCineprideMoosapet,500018,Telugu,11:30,Platinum,150₹,365,66
+Gudivada,AbrCinemasTheNextGudivada,521301,Telugu,11:30,Diamond,112₹,105,0
+Gudivada,AbrCinemasTheNextGudivada,521301,Telugu,11:30,Platinum,112₹,45,0
+Gudivada,AbrCinemasTheNextGudivada,521301,Telugu,11:30,Executive,112₹,15,0
+Bengaluru,GopalanMiniplexSignatureMallOldMadrasRoad,560093,Telugu,13:50,Gold,250₹,65,0
+Bengaluru,GopalanMallSirsiCircle,560026,Telugu,14:10,Gold,236₹,179,0
+Bengaluru,GopalanMallSirsiCircle,560026,Telugu,14:10,Recliner,400₹,18,0
+Gudivada,AbrCinemasTheNextGudivada,521301,Telugu,21:35,Diamond,112₹,105,0
+Gudivada,AbrCinemasTheNextGudivada,521301,Telugu,21:35,Platinum,112₹,45,0
+Gudivada,AbrCinemasTheNextGudivada,521301,Telugu,21:35,Executive,112₹,15,0
