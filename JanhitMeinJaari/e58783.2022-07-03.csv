@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+NationalCapitalRegionNcr,PvrVegasDwarka,110078,Hindi,10:40,Classic,149₹,112,0
+NationalCapitalRegionNcr,PvrVegasDwarka,110078,Hindi,10:40,Prime,149₹,38,0
+Vikasnagar,NewUpasnaCinemaVikasnagarDehradun,248198,Hindi,11:00,Gold,150₹,30,0
+Mumbai,InoxMegaplexInorbitMallMalad,400064,Hindi,12:30,Insignia,450₹,46,6
+Vikasnagar,NewUpasnaCinemaVikasnagarDehradun,248198,Hindi,14:00,Gold,150₹,30,0
+Vikasnagar,NewUpasnaCinemaVikasnagarDehradun,248198,Hindi,17:00,Gold,150₹,30,0
+Vikasnagar,NewUpasnaCinemaVikasnagarDehradun,248198,Hindi,20:00,Gold,150₹,30,0
+NationalCapitalRegionNcr,PvrLogixNoida,201301,Hindi,22:50,Classic,99₹,78,10
