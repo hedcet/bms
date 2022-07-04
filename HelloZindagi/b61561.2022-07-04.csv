@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Gandhinagar,CinemaxSumanGandhinagar,382011,Gujarati,19:40,Classic,110₹,42,2
+Gandhinagar,CinemaxSumanGandhinagar,382011,Gujarati,19:40,ClassicPlus,130₹,47,0
+Gandhinagar,CinemaxSumanGandhinagar,382011,Gujarati,19:40,Prime,150₹,113,0
+Gandhinagar,CinemaxSumanGandhinagar,382011,Gujarati,19:40,Recliner,300₹,22,0
