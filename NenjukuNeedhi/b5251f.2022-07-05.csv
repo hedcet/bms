@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Trichy,PalaceTheatreTiruchirappalli,620008,Tamil,11:15,FirstClass,60₹,249,0
+Trichy,PalaceTheatreTiruchirappalli,620008,Tamil,14:15,FirstClass,60₹,249,0
+Trichy,SriRengarajTalkiesTiruchirappalli,620006,Tamil,14:15,FirstClass,50₹,200,0
+Trichy,ArunaTheatreTrichy,620017,Tamil,14:30,FirstClass,50₹,378,0
+Chennai,PvrVrChennaiAnnaNagar,600040,Tamil,15:55,Classic,60₹,11,11
+Chennai,PvrVrChennaiAnnaNagar,600040,Tamil,15:55,Prime,190₹,102,55
+Trichy,PalaceTheatreTiruchirappalli,620008,Tamil,18:15,FirstClass,60₹,249,0
+Trichy,SriRengarajTalkiesTiruchirappalli,620006,Tamil,18:15,FirstClass,50₹,200,0
+Trichy,ArunaTheatreTrichy,620017,Tamil,18:30,FirstClass,50₹,378,0
+Trichy,PalaceTheatreTiruchirappalli,620008,Tamil,22:00,FirstClass,60₹,249,0
+Trichy,ArunaTheatreTrichy,620017,Tamil,22:15,FirstClass,50₹,378,0
+Trichy,SriRengarajTalkiesTiruchirappalli,620006,Tamil,22:15,FirstClass,50₹,200,0
