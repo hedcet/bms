@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Krishnanagar,SangeetaTalkiesKrishnanagar,741101,Hindi,10:45,Balcony,50₹,33,0
+Krishnanagar,SangeetaTalkiesKrishnanagar,741101,Hindi,10:45,FirstClass,30₹,30,0
+Ranaghat,RanaghatTalkiesNadia,741201,Hindi,11:00,1stClass,30₹,720,0
+Ranaghat,RanaghatTalkiesNadia,741201,Hindi,11:00,Balcony,50₹,130,12
