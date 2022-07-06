@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Nagpur,JayshreeCineplexNagpur,440018,Chattisgarhi,12:30,Balcony,100₹,168,6
+Nagpur,JayshreeCineplexNagpur,440018,Chattisgarhi,12:30,Reserve,70₹,312,13
+Nagpur,JayshreeCineplexNagpur,440018,Chattisgarhi,15:30,Balcony,100₹,168,5
+Nagpur,JayshreeCineplexNagpur,440018,Chattisgarhi,15:30,Reserve,70₹,312,12
+Nagpur,JayshreeCineplexNagpur,440018,Chattisgarhi,18:30,Balcony,100₹,168,9
+Nagpur,JayshreeCineplexNagpur,440018,Chattisgarhi,18:30,Reserve,70₹,312,15
+Nagpur,JayshreeCineplexNagpur,440018,Chattisgarhi,21:30,Balcony,100₹,168,0
+Nagpur,JayshreeCineplexNagpur,440018,Chattisgarhi,21:30,Reserve,70₹,312,0
