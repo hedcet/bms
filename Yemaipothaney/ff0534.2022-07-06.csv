@@ -1,0 +1,14 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Hyderabad,PvrNextGalleriaMallPanjagutta,500082,Telugu,13:10,Classic,200₹,145,18
+VizagVisakhapatnam,InoxVizagChitralayaMall,530020,Telugu,13:25,Executive,177₹,122,10
+VizagVisakhapatnam,MuktaA2CinemasVizagCentralVizag,530002,Telugu,13:30,Gold,177₹,24,0
+VizagVisakhapatnam,MuktaA2CinemasVizagCentralVizag,530002,Telugu,13:30,Premium,177₹,118,0
+Hyderabad,PvrForumSujanaMallKukatpallyHyderabad,500072,Telugu,13:45,Classic,200₹,135,30
+Hyderabad,PvrForumSujanaMallKukatpallyHyderabad,500072,Telugu,13:45,Recliner,350₹,9,2
+Secunderabad,InoxSattvaNecklaceMallKavadiguda,500080,Telugu,14:05,Royal,350₹,14,4
+Secunderabad,InoxSattvaNecklaceMallKavadiguda,500080,Telugu,14:05,Executive,200₹,126,6
+Warangal,PvrMaddoxWarangal,506001,Telugu,14:10,Classic,200₹,97,0
+Kakinada,InoxSrmtMallKakinada,533005,Telugu,15:00,Executive,112₹,146,15
+Hyderabad,InoxGsmMallHyderabad,500049,Telugu,16:10,Royal,350₹,17,5
+Hyderabad,InoxGsmMallHyderabad,500049,Telugu,16:10,Executive,200₹,287,13
+Kurnool,InoxJyotiMallKurnool,518001,Telugu,16:20,Executive,177₹,247,21
