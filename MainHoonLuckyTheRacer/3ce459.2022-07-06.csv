@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kolkata,EloraMultiplexChampahati,743330,Hindi,12:00,Gold,100₹,20,0
+Kolkata,EloraMultiplexChampahati,743330,Hindi,12:00,Silver,70₹,132,0
+DakshinBarasat,MahamayaTalkiesDakshinBarasat,743372,Hindi,13:00,GoldClass,100₹,89,6
+DakshinBarasat,MahamayaTalkiesDakshinBarasat,743372,Hindi,13:00,SilverClass,70₹,312,1
+Kolkata,EloraMultiplexChampahati,743330,Hindi,15:00,Gold,100₹,20,0
+Kolkata,EloraMultiplexChampahati,743330,Hindi,15:00,Silver,70₹,132,0
+DakshinBarasat,MahamayaTalkiesDakshinBarasat,743372,Hindi,16:00,GoldClass,100₹,89,0
+DakshinBarasat,MahamayaTalkiesDakshinBarasat,743372,Hindi,16:00,SilverClass,70₹,312,0
+Kolkata,EloraMultiplexChampahati,743330,Hindi,18:00,Gold,100₹,20,0
+Kolkata,EloraMultiplexChampahati,743330,Hindi,18:00,Silver,70₹,132,0
+DakshinBarasat,MahamayaTalkiesDakshinBarasat,743372,Hindi,18:45,GoldClass,100₹,89,0
+DakshinBarasat,MahamayaTalkiesDakshinBarasat,743372,Hindi,18:45,SilverClass,70₹,312,2
