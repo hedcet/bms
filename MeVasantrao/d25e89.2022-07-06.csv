@@ -1,0 +1,4 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Pune,CityPrideKothrud,411038,Marathi,16:30,RoyalSofa,280₹,13,13
+Pune,CityPrideKothrud,411038,Marathi,16:30,RoyalGold,230₹,76,13
+Pune,CityPrideKothrud,411038,Marathi,16:30,RoyalSilver,200₹,22,0
