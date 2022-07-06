@@ -1,0 +1,4 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kolkata,NandanKolkata,700020,Bengali,15:35,Normal,30₹,165,15
+Kolkata,NazrultirthaCinemaKolkata,700156,Bengali,18:10,Silver,130₹,26,0
+Kolkata,NazrultirthaCinemaKolkata,700156,Bengali,18:10,Gold,150₹,65,6
