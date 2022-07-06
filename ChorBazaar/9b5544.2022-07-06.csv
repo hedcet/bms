@@ -1,0 +1,16 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Eluru,VMaxAC2KDolbyEluru,534001,Telugu,11:00,Recliner,250₹,25,25
+Eluru,VMaxAC2KDolbyEluru,534001,Telugu,11:00,1stClass,150₹,173,109
+Mandapeta,VpcSriKrishnaCinemaxMandapeta,533308,Telugu,11:30,FirstClass,110₹,144,16
+Mandapeta,VpcSriKrishnaCinemaxMandapeta,533308,Telugu,14:30,FirstClass,110₹,144,16
+Eluru,VMaxAC2KDolbyEluru,534001,Telugu,14:30,Recliner,250₹,25,25
+Eluru,VMaxAC2KDolbyEluru,534001,Telugu,14:30,1stClass,150₹,173,109
+Amalapuram,SekharCinemasAmalapuram,533201,Telugu,14:30,Platinum,110₹,200,0
+Mandapeta,VpcSriKrishnaCinemaxMandapeta,533308,Telugu,18:15,FirstClass,110₹,144,16
+Eluru,VMaxAC2KDolbyEluru,534001,Telugu,18:30,Recliner,250₹,25,25
+Eluru,VMaxAC2KDolbyEluru,534001,Telugu,18:30,1stClass,150₹,173,109
+Amalapuram,SekharCinemasAmalapuram,533201,Telugu,18:30,Platinum,110₹,200,0
+Mandapeta,VpcSriKrishnaCinemaxMandapeta,533308,Telugu,21:15,FirstClass,110₹,144,16
+Eluru,VMaxAC2KDolbyEluru,534001,Telugu,21:30,Recliner,250₹,25,22
+Eluru,VMaxAC2KDolbyEluru,534001,Telugu,21:30,1stClass,150₹,173,107
+Amalapuram,SekharCinemasAmalapuram,533201,Telugu,21:30,Platinum,110₹,200,114
