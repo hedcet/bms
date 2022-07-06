@@ -1,0 +1,16 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+BalodaBazar,ShivaBollywoodTheatreBalodaBazar,493332,Chattisgarhi,12:00,Balcony,90₹,36,0
+BalodaBazar,ShivaBollywoodTheatreBalodaBazar,493332,Chattisgarhi,12:00,Silver,70₹,50,0
+BalodaBazar,ShivaBollywoodTheatreBalodaBazar,493332,Chattisgarhi,15:00,Balcony,90₹,36,0
+BalodaBazar,ShivaBollywoodTheatreBalodaBazar,493332,Chattisgarhi,15:00,Silver,70₹,50,0
+Raipur,MirajCinemasNavaRaipurAtalNagar,492101,Chattisgarhi,16:20,Special,103₹,28,0
+Raipur,MirajCinemasNavaRaipurAtalNagar,492101,Chattisgarhi,16:20,Club,209₹,4,0
+Raipur,MirajCinemasNavaRaipurAtalNagar,492101,Chattisgarhi,16:20,Executive,118₹,81,0
+Raipur,MirajCinemasNavaRaipurAtalNagar,492101,Chattisgarhi,16:20,Gold,300₹,4,0
+BalodaBazar,ShivaBollywoodTheatreBalodaBazar,493332,Chattisgarhi,18:00,Balcony,90₹,36,0
+BalodaBazar,ShivaBollywoodTheatreBalodaBazar,493332,Chattisgarhi,18:00,Silver,70₹,50,0
+Raipur,ColorsCinemasRaipur,492001,Chattisgarhi,18:35,Lounge,185₹,26,10
+Raipur,ColorsCinemasRaipur,492001,Chattisgarhi,18:35,Club,105₹,112,15
+Raipur,ColorsCinemasRaipur,492001,Chattisgarhi,18:35,Premium,105₹,100,0
+BalodaBazar,ShivaBollywoodTheatreBalodaBazar,493332,Chattisgarhi,21:00,Balcony,90₹,36,0
+BalodaBazar,ShivaBollywoodTheatreBalodaBazar,493332,Chattisgarhi,21:00,Silver,70₹,50,0
