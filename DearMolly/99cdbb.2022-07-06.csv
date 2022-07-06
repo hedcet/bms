@@ -1,0 +1,14 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Mumbai,CinepolisSeawoodsGrandCentralNaviMumbai,400706,Marathi,13:55,Normal,150₹,49,10
+Mumbai,CinepolisSeawoodsGrandCentralNaviMumbai,400706,Marathi,13:55,Executive,170₹,74,5
+Mumbai,CinepolisSeawoodsGrandCentralNaviMumbai,400706,Marathi,13:55,Premium,190₹,60,5
+Mumbai,CinepolisSeawoodsGrandCentralNaviMumbai,400706,Marathi,13:55,Vip,300₹,14,1
+Pune,InoxAmanoraTownCentreHadapsar,411028,Hindi,14:15,Royale,220₹,5,4
+Pune,InoxAmanoraTownCentreHadapsar,411028,Hindi,14:15,Club,140₹,119,10
+Pune,InoxAmanoraTownCentreHadapsar,411028,Hindi,14:15,Executive,140₹,21,0
+Mumbai,InoxMegaplexInorbitMallMalad,400064,English,14:55,Insignia,400₹,38,14
+Pune,CinepolisNexusWestendMallAundhPune,411007,English,18:50,Normal,250₹,25,0
+Pune,CinepolisNexusWestendMallAundhPune,411007,English,18:50,Executive,250₹,42,0
+Pune,CinepolisNexusWestendMallAundhPune,411007,English,18:50,Premium,250₹,47,0
+Nagpur,PvrEmpressNagpur,440017,Hindi,19:45,Classic,90₹,26,0
+Nagpur,PvrEmpressNagpur,440017,Hindi,19:45,Prime,110₹,95,13
