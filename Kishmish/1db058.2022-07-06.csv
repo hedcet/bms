@@ -1,0 +1,6 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kolkata,IndiraCinemaKolkata,700025,Bengali,13:00,Balcony,90₹,119,5
+Lakshmikantapur,SreeLakshmiTalkiesLakshmikantapur,743345,Bengali,13:30,GoldCoupleSeats,100₹,30,2
+Lakshmikantapur,SreeLakshmiTalkiesLakshmikantapur,743345,Bengali,13:30,Silver,70₹,84,0
+Lakshmikantapur,SreeLakshmiTalkiesLakshmikantapur,743345,Bengali,16:00,GoldCoupleSeats,100₹,30,0
+Lakshmikantapur,SreeLakshmiTalkiesLakshmikantapur,743345,Bengali,16:00,Silver,70₹,84,0
