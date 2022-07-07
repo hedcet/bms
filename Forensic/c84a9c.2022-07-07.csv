@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Saharanpur,CineluvCinemaSaharanpur,247001,Hindi,10:00,Silver,150₹,114,23
+Saharanpur,CineluvCinemaSaharanpur,247001,Hindi,10:00,Gold,150₹,60,15
+Saharanpur,CineluvCinemaSaharanpur,247001,Hindi,10:00,Platinum,200₹,66,10
+Dhampur,SheelaTalkiesDhampur,246761,Hindi,12:00,Balcony,150₹,54,0
+Dhampur,SheelaTalkiesDhampur,246761,Hindi,15:00,Balcony,150₹,54,0
+Dhampur,SheelaTalkiesDhampur,246761,Hindi,18:00,Balcony,150₹,54,0
+Dhampur,SheelaTalkiesDhampur,246761,Hindi,21:00,Balcony,150₹,54,0
+Padrauna,QualityStarworldPadrauna,274304,Hindi,21:25,PlatinumXl,180₹,117,105
