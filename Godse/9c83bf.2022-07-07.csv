@@ -1,0 +1,17 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+VizagVisakhapatnam,MSTataPicturePalaceACDtsThagarapuvalasa,531162,Telugu,10:45,Premium,145₹,382,0
+VizagVisakhapatnam,MSTataPicturePalaceACDtsThagarapuvalasa,531162,Telugu,10:45,NonPremium,100₹,146,0
+Buchireddypalem,NaazCinemasBuchireddypalem,524305,Telugu,11:45,FirstClass,80₹,106,0
+Buchireddypalem,NaazCinemasBuchireddypalem,524305,Telugu,11:45,GrSecondClass,80₹,106,0
+VizagVisakhapatnam,MSTataPicturePalaceACDtsThagarapuvalasa,531162,Telugu,14:30,Premium,145₹,382,0
+VizagVisakhapatnam,MSTataPicturePalaceACDtsThagarapuvalasa,531162,Telugu,14:30,NonPremium,100₹,146,0
+Buchireddypalem,NaazCinemasBuchireddypalem,524305,Telugu,14:45,FirstClass,80₹,106,0
+Buchireddypalem,NaazCinemasBuchireddypalem,524305,Telugu,14:45,GrSecondClass,80₹,106,0
+VizagVisakhapatnam,MSTataPicturePalaceACDtsThagarapuvalasa,531162,Telugu,18:30,Premium,145₹,382,3
+VizagVisakhapatnam,MSTataPicturePalaceACDtsThagarapuvalasa,531162,Telugu,18:30,NonPremium,100₹,146,0
+Buchireddypalem,NaazCinemasBuchireddypalem,524305,Telugu,18:45,FirstClass,80₹,106,0
+Buchireddypalem,NaazCinemasBuchireddypalem,524305,Telugu,18:45,GrSecondClass,80₹,106,0
+VizagVisakhapatnam,TataPicturePalaceACDtsThagarapuvalasa,531162,Telugu,21:30,Premium,145₹,382,0
+VizagVisakhapatnam,TataPicturePalaceACDtsThagarapuvalasa,531162,Telugu,21:30,NonPremium,100₹,146,0
+Buchireddypalem,NaazCinemasBuchireddypalem,524305,Telugu,21:45,FirstClass,80₹,106,0
+Buchireddypalem,NaazCinemasBuchireddypalem,524305,Telugu,21:45,GrSecondClass,80₹,106,0
