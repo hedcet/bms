@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Vaniyambadi,SangamTheatreVaniyambadi,635751,Tamil,11:00,FirstClass,80₹,316,0
+Chennai,PvrHeritageRslEcrChennai,600119,Tamil,12:55,Classic,60₹,11,11
+Chennai,PvrHeritageRslEcrChennai,600119,Tamil,12:55,Prime,190₹,99,1
+Vaniyambadi,SangamTheatreVaniyambadi,635751,Tamil,14:00,FirstClass,80₹,316,0
+Madurai,RamTheatreMadurai,625009,Tamil,14:15,Balcony,80₹,242,0
+Vaniyambadi,SangamTheatreVaniyambadi,635751,Tamil,18:00,FirstClass,80₹,316,0
+Madurai,RamTheatreMadurai,625009,Tamil,18:15,Balcony,80₹,242,0
+Vaniyambadi,SangamTheatreVaniyambadi,635751,Tamil,21:00,FirstClass,80₹,316,0
