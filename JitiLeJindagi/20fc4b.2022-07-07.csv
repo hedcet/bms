@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Ahmedabad,WideAngleAhmedabad,380015,Gujarati,19:30,Silver,150₹,10,0
+Ahmedabad,WideAngleAhmedabad,380015,Gujarati,19:30,Gold,150₹,10,0
+Ahmedabad,DeviMultiplexNaroda,382330,Gujarati,21:00,Platinum,110₹,42,30
+Ahmedabad,DeviMultiplexNaroda,382330,Gujarati,21:00,Gold,110₹,98,30
