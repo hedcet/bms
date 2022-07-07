@@ -1,0 +1,12 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Trivandrum,SuryaMultiplex4KDolbyAtmosNedumangad,695541,Malayalam,11:00,Platinum,250₹,14,0
+Trivandrum,SuryaMultiplex4KDolbyAtmosNedumangad,695541,Malayalam,11:00,Gold,130₹,131,0
+Kochi,SangeetaCinemaKochi,680018,Malayalam,12:00,BlueCircle,150₹,187,18
+Trivandrum,LeninCinemas4K3DDolbyAtmosKsfdcTrivandrum,695014,Malayalam,15:00,Platinum,150₹,22,0
+Trivandrum,LeninCinemas4K3DDolbyAtmosKsfdcTrivandrum,695014,Malayalam,15:00,Gold,129₹,144,0
+Kasaragod,CineKrishna4KKasaragod,671123,Malayalam,16:30,FirstClass,129₹,144,0
+Kasaragod,CineKrishna4KKasaragod,671123,Malayalam,16:30,Sofa,200₹,8,0
+Trivandrum,LeninCinemas4K3DDolbyAtmosKsfdcTrivandrum,695014,Malayalam,18:30,Platinum,150₹,22,0
+Trivandrum,LeninCinemas4K3DDolbyAtmosKsfdcTrivandrum,695014,Malayalam,18:30,Gold,129₹,144,0
+Trivandrum,SuryaMultiplex4KDolbyAtmosNedumangad,695541,Malayalam,18:30,Platinum,250₹,14,0
+Trivandrum,SuryaMultiplex4KDolbyAtmosNedumangad,695541,Malayalam,18:30,Gold,130₹,131,0
