@@ -1,0 +1,15 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+BiswanathChariali,PabhoiDigitalCinemaBiswanathChariali,784176,Assamese,14:00,Silver,100₹,59,0
+BiswanathChariali,PabhoiDigitalCinemaBiswanathChariali,784176,Assamese,14:00,Gold,150₹,98,0
+Guwahati,GoldCinemaPaltanBazarGuwahati,781001,Assamese,14:15,Gold,120₹,54,0
+Guwahati,GoldCinemaPaltanBazarGuwahati,781001,Assamese,14:15,Silver,100₹,24,0
+Lakhimpur,BiswaTalkiesLakhimpur,787001,Assamese,14:15,Box1,200₹,10,0
+Lakhimpur,BiswaTalkiesLakhimpur,787001,Assamese,14:15,Box2,200₹,10,0
+Lakhimpur,BiswaTalkiesLakhimpur,787001,Assamese,14:15,GoldPlus,150₹,110,0
+Lakhimpur,BiswaTalkiesLakhimpur,787001,Assamese,14:15,Gold,120₹,32,0
+Lakhimpur,BiswaTalkiesLakhimpur,787001,Assamese,14:15,Silver,100₹,64,0
+Guwahati,PvrCityCentreGuwahati,781005,Assamese,17:20,Classic,99₹,45,0
+Guwahati,PvrCityCentreGuwahati,781005,Assamese,17:20,Prime,99₹,211,44
+Guwahati,PvrCityCentreGuwahati,781005,Assamese,17:20,Recliner,149₹,11,9
+BiswanathChariali,PabhoiDigitalCinemaBiswanathChariali,784176,Assamese,20:00,Silver,100₹,59,0
+BiswanathChariali,PabhoiDigitalCinemaBiswanathChariali,784176,Assamese,20:00,Gold,150₹,98,0
