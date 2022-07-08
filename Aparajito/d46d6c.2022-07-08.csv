@@ -1,0 +1,12 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Arambagh,KarunaCinemaArambagh,712601,Bengali,12:00,LowerStall,35₹,48,0
+Arambagh,KarunaCinemaArambagh,712601,Bengali,12:00,Balcony,40₹,180,0
+Kolkata,InoxSouthCityKolkata,700068,Bengali,13:30,Silver,290₹,166,21
+Kolkata,InoxSouthCityKolkata,700068,Bengali,13:30,Premier,270₹,34,0
+Arambagh,KarunaCinemaArambagh,712601,Bengali,15:00,LowerStall,35₹,48,0
+Arambagh,KarunaCinemaArambagh,712601,Bengali,15:00,Balcony,40₹,180,0
+Kolkata,PvrDiamondPlazaJessoreKolkata,700055,Bengali,15:00,Classic,99₹,210,24
+Kolkata,PvrDiamondPlazaJessoreKolkata,700055,Bengali,15:00,Prime,99₹,11,2
+Kolkata,PvrDiamondPlazaJessoreKolkata,700055,Bengali,15:00,Recliner,149₹,12,2
+Arambagh,KarunaCinemaArambagh,712601,Bengali,18:00,LowerStall,35₹,48,0
+Arambagh,KarunaCinemaArambagh,712601,Bengali,18:00,Balcony,40₹,180,0
