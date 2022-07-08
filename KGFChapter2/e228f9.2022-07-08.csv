@@ -1,0 +1,17 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Dhampur,BansalCineplexDhampur,246761,Hindi,12:00,Diamond,150₹,50,0
+Dhampur,BansalCineplexDhampur,246761,Hindi,15:00,Diamond,150₹,50,0
+Sambhal,TulsiCinemaSambhal,244302,Hindi,15:30,BalconyGold,200₹,24,0
+Sambhal,TulsiCinemaSambhal,244302,Hindi,15:30,BalconyPlatinum,100₹,131,0
+Sambhal,TulsiCinemaSambhal,244302,Hindi,15:30,DcSilver,50₹,208,0
+Beed,CarnivalAshaCineplexBeed,431122,Hindi,17:45,SuperDeluxe,180₹,68,0
+Beed,CarnivalAshaCineplexBeed,431122,Hindi,17:45,Deluxe,150₹,120,0
+Beed,CarnivalAshaCineplexBeed,431122,Hindi,17:45,Economy,130₹,226,0
+Dhampur,BansalCineplexDhampur,246761,Hindi,18:00,Diamond,150₹,50,0
+Beed,CarnivalAshaCineplexBeed,431122,Hindi,21:00,SuperDeluxe,180₹,68,0
+Beed,CarnivalAshaCineplexBeed,431122,Hindi,21:00,Deluxe,150₹,120,0
+Beed,CarnivalAshaCineplexBeed,431122,Hindi,21:00,Economy,130₹,226,0
+Dhampur,BansalCineplexDhampur,246761,Hindi,21:00,Diamond,150₹,50,0
+Sambhal,TulsiCinemaSambhal,244302,Hindi,21:30,BalconyGold,200₹,24,0
+Sambhal,TulsiCinemaSambhal,244302,Hindi,21:30,BalconyPlatinum,100₹,131,4
+Sambhal,TulsiCinemaSambhal,244302,Hindi,21:30,DcSilver,50₹,208,0
