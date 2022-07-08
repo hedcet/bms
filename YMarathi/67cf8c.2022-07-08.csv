@@ -1,0 +1,17 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Pune,AbhiruchiCityPrideSinhagadRoad,411041,Marathi,12:30,RoyalSofa,200₹,12,3
+Pune,AbhiruchiCityPrideSinhagadRoad,411041,Marathi,12:30,RoyalGold,180₹,123,24
+Pune,AbhiruchiCityPrideSinhagadRoad,411041,Marathi,12:30,RoyalSilver,160₹,30,0
+Mumbai,CinepolisVivianaMallThane,400606,Marathi,12:55,Normal,220₹,25,0
+Mumbai,CinepolisVivianaMallThane,400606,Marathi,12:55,Executive,240₹,97,10
+Mumbai,CinepolisVivianaMallThane,400606,Marathi,12:55,Premium,260₹,43,6
+Pune,CityPrideKothrud,411038,Marathi,16:30,RoyalGold,230₹,149,26
+Pune,CityPrideKothrud,411038,Marathi,16:30,RoyalSilver,200₹,22,0
+Ambajogai,ChhotuMaharajCineCafeAmbajogai,431517,Marathi,18:00,Classsique,112₹,18,0
+Ambajogai,ChhotuMaharajCineCafeAmbajogai,431517,Marathi,18:00,Gold,112₹,32,0
+Ambajogai,ChhotuMaharajCineCafeAmbajogai,431517,Marathi,18:00,Platinum,112₹,32,0
+Ambajogai,ChhotuMaharajCineCafeAmbajogai,431517,Marathi,18:00,Premium,112₹,4,0
+Ambajogai,ChhotuMaharajCineCafeAmbajogai,431517,Marathi,21:00,Classsique,112₹,18,0
+Ambajogai,ChhotuMaharajCineCafeAmbajogai,431517,Marathi,21:00,Gold,112₹,32,0
+Ambajogai,ChhotuMaharajCineCafeAmbajogai,431517,Marathi,21:00,Platinum,112₹,32,0
+Ambajogai,ChhotuMaharajCineCafeAmbajogai,431517,Marathi,21:00,Premium,112₹,4,0
