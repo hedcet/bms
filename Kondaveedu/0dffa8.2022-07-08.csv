@@ -1,0 +1,6 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Hyderabad,AsianLakshmikalaCineprideMoosapet,500018,Telugu,11:35,Platinum,150₹,338,89
+Hyderabad,AsianLakshmikalaCineprideMoosapet,500018,Telugu,11:35,Gold,100₹,177,0
+Hyderabad,AsianLakshmikalaCineprideMoosapet,500018,Telugu,11:35,Silver,50₹,135,0
+Narsipatnam,PvrSreeKanyaNarsipatnam,531116,Telugu,13:15,Classic,60₹,29,0
+Narsipatnam,PvrSreeKanyaNarsipatnam,531116,Telugu,13:15,ClassicPlus,150₹,171,19
