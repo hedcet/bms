@@ -1,0 +1,4 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Shivamogga,BharathCinemasShivamogga,577201,Kannada,10:45,Gold,200₹,96,10
+Shivamogga,BharathCinemasShivamogga,577201,Kannada,10:45,Silver,150₹,40,0
+Shivamogga,BharathCinemasShivamogga,577201,Kannada,10:45,Special,150₹,30,0
