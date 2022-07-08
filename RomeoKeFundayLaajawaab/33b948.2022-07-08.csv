@@ -1,0 +1,15 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Akbarpur,KapoorDdCinemasAkbarpur,224122,Hindi,09:45,Diamond,150₹,22,0
+Akbarpur,KapoorDdCinemasAkbarpur,224122,Hindi,09:45,Gold,150₹,114,0
+Palampur,PearlCinemaPalampur,176102,Hindi,15:00,Platinum,220₹,24,0
+Palampur,PearlCinemaPalampur,176102,Hindi,15:00,Gold,160₹,126,0
+Chandigarh,PvrElanteChandigarh,160002,Hindi,15:10,Classic,230₹,153,26
+Chandigarh,PvrElanteChandigarh,160002,Hindi,15:10,Recliner,650₹,13,0
+Lucknow,PvrPhoenixLucknow,226012,Hindi,15:25,Classic,180₹,151,35
+Lucknow,PvrPhoenixLucknow,226012,Hindi,15:25,Prime,230₹,9,9
+Ludhiana,PvrPavilionLudhiana,141001,Hindi,16:10,Classic,200₹,113,0
+Jalandhar,PvrFriendsJalandhar,144001,Hindi,17:05,Classic,165₹,33,0
+Jalandhar,PvrFriendsJalandhar,144001,Hindi,17:05,Prime,200₹,53,40
+Una,RajhansCinemasMrcMagnumMallIsbtUna,174303,Hindi,18:45,Executive,170₹,124,0
+Una,RajhansCinemasMrcMagnumMallIsbtUna,174303,Hindi,18:45,Royal,150₹,32,0
+Una,RajhansCinemasMrcMagnumMallIsbtUna,174303,Hindi,18:45,Marvel,130₹,16,0
