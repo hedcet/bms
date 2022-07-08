@@ -1,0 +1,12 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Pendra,PoojaShreeCineplexPendra,495119,Chattisgarhi,12:00,DiamondClass,150₹,15,0
+Korba,NiharikaCinema2KLaserDolby71SoundKorba,495677,Chattisgarhi,12:35,Silver,50₹,20,0
+Korba,NiharikaCinema2KLaserDolby71SoundKorba,495677,Chattisgarhi,12:35,Gold,100₹,88,0
+Korba,NiharikaCinema2KLaserDolby71SoundKorba,495677,Chattisgarhi,12:35,Platinum,150₹,41,0
+Pendra,PoojaShreeCineplexPendra,495119,Chattisgarhi,15:00,DiamondClass,150₹,15,0
+Korba,NiharikaCinema2KLaserDolby71SoundKorba,495677,Chattisgarhi,15:35,Silver,50₹,20,0
+Korba,NiharikaCinema2KLaserDolby71SoundKorba,495677,Chattisgarhi,15:35,Gold,100₹,88,0
+Korba,NiharikaCinema2KLaserDolby71SoundKorba,495677,Chattisgarhi,15:35,Platinum,150₹,41,0
+Korba,NiharikaCinema2KLaserDolby71SoundKorba,495677,Chattisgarhi,18:35,Silver,50₹,20,0
+Korba,NiharikaCinema2KLaserDolby71SoundKorba,495677,Chattisgarhi,18:35,Gold,100₹,88,0
+Korba,NiharikaCinema2KLaserDolby71SoundKorba,495677,Chattisgarhi,18:35,Platinum,150₹,41,17
