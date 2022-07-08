@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Trivandrum,CarnivalMallOfTravancoreTrivandrum,695024,Malayalam,15:35,Silver,210₹,103,6
+Trivandrum,CarnivalMallOfTravancoreTrivandrum,695024,Malayalam,15:35,ExecutiveOffline,180₹,72,0
+Trivandrum,CarnivalMallOfTravancoreTrivandrum,695024,Malayalam,15:35,NormalOffline,100₹,18,0
+Kochi,SangeetaCinemaKochi,680018,Malayalam,18:00,BlueCircle,150₹,187,18
