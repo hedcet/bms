@@ -1,0 +1,14 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,PvrVegaCityBannerghattaRoad,560076,English,14:00,Classic,200₹,86,15
+Bengaluru,PvrVegaCityBannerghattaRoad,560076,English,14:00,Recliner,350₹,9,0
+Chennai,SpiEscapeExpressAvenueMallRoyapettah,600014,English,17:05,Budget,66₹,11,8
+Chennai,SpiEscapeExpressAvenueMallRoyapettah,600014,English,17:05,Elite,211₹,99,49
+NationalCapitalRegionNcr,PvrLogixNoida,201301,English,17:20,Classic,99₹,78,6
+Bengaluru,PvrPhoenixMarketcityMallWhitefieldRoad,560048,English,19:35,Classic,210₹,72,13
+Bengaluru,PvrPhoenixMarketcityMallWhitefieldRoad,560048,English,19:35,Recliner,400₹,7,0
+Pune,CinepolisSeasonsMallPune,411028,English,19:50,Normal,200₹,23,0
+Pune,CinepolisSeasonsMallPune,411028,English,19:50,Executive,220₹,68,2
+Pune,CinepolisSeasonsMallPune,411028,English,19:50,Premium,220₹,40,5
+Mumbai,CinepolisVivianaMallThane,400606,English,22:00,Normal,220₹,27,0
+Mumbai,CinepolisVivianaMallThane,400606,English,22:00,Executive,240₹,106,3
+Mumbai,CinepolisVivianaMallThane,400606,English,22:00,Premium,260₹,46,28
