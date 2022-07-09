@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Jalgaon,AshokCinemaJalgaon,425001,Hindi,18:00,Balcony,100₹,189,32
+Jalgaon,AshokCinemaJalgaon,425001,Hindi,18:00,FClass,50₹,562,50
+Jalgaon,AshokCinemaJalgaon,425001,Hindi,21:00,Balcony,100₹,189,30
+Jalgaon,AshokCinemaJalgaon,425001,Hindi,21:00,FClass,50₹,562,50
