@@ -1,0 +1,15 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Hyderabad,AmbCinemasGachibowli,500084,Telugu,10:10,Platinum,350₹,52,47
+Bengaluru,SrinivasaTheaterKadugodi,560067,Telugu,10:30,Balcony,120₹,224,0
+Hyderabad,InoxGsmMallHyderabad,500049,Telugu,13:00,Royal,350₹,11,6
+Hyderabad,InoxGsmMallHyderabad,500049,Telugu,13:00,Executive,250₹,81,0
+Hyderabad,PvrIrrumManzilHyderabad,500082,Telugu,13:15,Classic,250₹,158,30
+Hyderabad,PvrIrrumManzilHyderabad,500082,Telugu,13:15,Recliner,350₹,10,2
+Bengaluru,SrinivasaTheaterKadugodi,560067,Telugu,13:30,Balcony,120₹,224,0
+Hyderabad,PvrNextGalleriaMallPanjagutta,500082,Telugu,13:55,Classic,250₹,170,48
+Hyderabad,PvrForumSujanaMallKukatpallyHyderabad,500072,Telugu,16:30,Classic,250₹,244,104
+Hyderabad,PvrForumSujanaMallKukatpallyHyderabad,500072,Telugu,16:30,Recliner,350₹,13,13
+Bengaluru,SrinivasaTheaterKadugodi,560067,Telugu,16:30,Balcony,120₹,224,0
+Guntur,PvrTheCinemaGuntur,522001,Telugu,19:15,Premium,295₹,13,5
+Guntur,PvrTheCinemaGuntur,522001,Telugu,19:15,Deluxe,177₹,146,4
+Bengaluru,SrinivasaTheaterKadugodi,560067,Telugu,19:45,Balcony,120₹,224,0
