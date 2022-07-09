@@ -1,0 +1,14 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,PvrTheCinemaGtWorldBengaluru,560023,Kannada,10:05,Classic,160₹,228,0
+Bengaluru,PvrTheCinemaGtWorldBengaluru,560023,Kannada,10:05,Recliner,280₹,12,3
+Bengaluru,MohanCinemaBarco4KAC71Sunkadakatte,560091,Kannada,10:15,Balcony,150₹,123,0
+Bengaluru,MohanCinemaBarco4KAC71Sunkadakatte,560091,Kannada,10:15,Secondclass,100₹,528,0
+Doddaballapura,SoundaryaMahal4KDolbyAtmosDoddaballapura,561203,Kannada,10:30,Balcony,80₹,67,0
+Doddaballapura,SoundaryaMahal4KDolbyAtmosDoddaballapura,561203,Kannada,10:30,SecondCls,60₹,100,0
+Tiptur,TrimurtiTheatreDolby71LaserProjection,572202,Kannada,11:00,Balcony,100₹,55,0
+Bengaluru,GopalanMallSirsiCircle,560026,Kannada,12:10,Gold,180₹,187,0
+Bengaluru,MohanCinemaBarco4KAC71Sunkadakatte,560091,Kannada,13:15,Balcony,150₹,123,0
+Bengaluru,MohanCinemaBarco4KAC71Sunkadakatte,560091,Kannada,13:15,Secondclass,100₹,528,0
+Doddaballapura,SoundaryaMahal4KDolbyAtmosDoddaballapura,561203,Kannada,13:30,Balcony,80₹,67,0
+Doddaballapura,SoundaryaMahal4KDolbyAtmosDoddaballapura,561203,Kannada,13:30,SecondCls,60₹,100,0
+Tiptur,TrimurtiTheatreDolby71LaserProjection,572202,Kannada,14:00,Balcony,100₹,55,0
