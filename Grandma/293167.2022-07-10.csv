@@ -1,0 +1,15 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Chennai,VvmCinemas3D2KAcDtsPonneriChennai,601204,Tamil,14:30,PlatinumClass,100₹,334,0
+Chennai,VvmCinemas3D2KAcDtsPonneriChennai,601204,Tamil,14:30,FirstClass,100₹,334,0
+Thoothukudi,SathyaTheatreTuticorin,628002,Tamil,14:30,FirstClass,50₹,100,0
+Thoothukudi,SathyaTheatreTuticorin,628002,Tamil,18:30,FirstClass,50₹,100,0
+Chennai,SreeLakshmibalaMoviepark4K3DDolby712Padi,600050,Tamil,18:30,FirstClass,110₹,374,0
+Chennai,VvmCinemas3D2KAcDtsPonneriChennai,601204,Tamil,21:30,PlatinumClass,100₹,334,0
+Chennai,VvmCinemas3D2KAcDtsPonneriChennai,601204,Tamil,21:30,FirstClass,100₹,334,0
+Chennai,LuxeCinemasChennai,600042,Tamil,21:55,Elite2D,190₹,126,67
+Chennai,LuxeCinemasChennai,600042,Tamil,21:55,Budget,60₹,14,4
+Thoothukudi,SathyaTheatreTuticorin,628002,Tamil,22:00,FirstClass,50₹,100,0
+Chennai,AgsCinemasTNagar,600017,Tamil,22:10,Diamond,150₹,197,37
+Chennai,AgsCinemasTNagar,600017,Tamil,22:10,Pearl,60₹,24,12
+Chennai,AgsCinemasOmrNavlur,603103,Tamil,22:30,Diamond,150₹,302,50
+Chennai,AgsCinemasOmrNavlur,603103,Tamil,22:30,Pearl,60₹,34,34
