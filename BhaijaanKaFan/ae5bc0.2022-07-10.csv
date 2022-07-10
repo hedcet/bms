@@ -1,0 +1,7 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Hyderabad,SapnaCinemasAbids,500001,Hindi,14:30,GoldClass,150₹,189,2
+Hyderabad,SapnaCinemasAbids,500001,Hindi,14:30,Silver,100₹,132,0
+Hyderabad,SapnaCinemasAbids,500001,Hindi,18:00,GoldClass,150₹,189,0
+Hyderabad,SapnaCinemasAbids,500001,Hindi,18:00,Silver,100₹,132,0
+Hyderabad,SapnaCinemasAbids,500001,Hindi,21:15,GoldClass,150₹,189,4
+Hyderabad,SapnaCinemasAbids,500001,Hindi,21:15,Silver,100₹,132,0
