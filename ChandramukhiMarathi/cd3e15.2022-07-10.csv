@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kolhapur,ShahuCinemaKolhapur,416002,Marathi,15:30,Balcony,80₹,81,4
+Kolhapur,ShahuCinemaKolhapur,416002,Marathi,15:30,Stall,60₹,112,0
+Kolhapur,ShahuCinemaKolhapur,416002,Marathi,18:15,Balcony,80₹,81,0
+Kolhapur,ShahuCinemaKolhapur,416002,Marathi,18:15,Stall,60₹,112,0
