@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Nindra,SvTalkiesNindra,517591,Telugu,14:30,Platinum,90₹,200,0
+Nindra,SvTalkiesNindra,517591,Telugu,14:30,Gold,70₹,94,0
+Tirupati,KrishnaTejaAirCooledDtsTirupati,517501,Telugu,14:30,Platinum,100₹,616,12
+Tirupati,KrishnaTejaAirCooledDtsTirupati,517501,Telugu,14:30,LowerClass,70₹,212,4
+Nindra,SvTalkiesNindra,517591,Telugu,18:30,Platinum,90₹,200,0
+Nindra,SvTalkiesNindra,517591,Telugu,18:30,Gold,70₹,94,0
+Tirupati,KrishnaTejaAirCooledDtsTirupati,517501,Telugu,18:30,Platinum,100₹,604,0
+Tirupati,KrishnaTejaAirCooledDtsTirupati,517501,Telugu,18:30,LowerClass,70₹,208,0
+Nindra,SvTalkiesNindra,517591,Telugu,21:30,Platinum,90₹,200,0
+Nindra,SvTalkiesNindra,517591,Telugu,21:30,Gold,70₹,94,0
+Tirupati,KrishnaTejaAirCooledDtsTirupati,517501,Telugu,21:30,Platinum,100₹,616,12
+Tirupati,KrishnaTejaAirCooledDtsTirupati,517501,Telugu,21:30,LowerClass,70₹,212,4
