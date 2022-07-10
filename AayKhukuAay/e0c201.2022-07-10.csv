@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kolkata,NandanKolkata,700020,Bengali,15:35,FrontStall,30₹,111,27
+Kolkata,NandanKolkata,700020,Bengali,15:35,RearStall,50₹,451,199
+Kolkata,NandanKolkata,700020,Bengali,15:35,Balcony,70₹,369,219
+Hooghly,MiniSushamaCinemaSheoraphuli,712223,Bengali,16:00,RoyalClass,100₹,86,2
