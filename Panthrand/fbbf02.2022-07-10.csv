@@ -1,0 +1,12 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Pathanamthitta,DhanyaRemyaPathanamthitta,689645,Malayalam,14:00,RemyaCircle,135₹,197,54
+Kottayam,DhanyaRemyaKottayam,686001,Malayalam,14:00,Remya,135₹,251,24
+Pathanamthitta,DhanyaRemyaPathanamthitta,689645,Malayalam,18:00,RemyaCircle,135₹,197,3
+Kochi,PadmaCinemaKochi,682011,Malayalam,18:00,Platinum,150₹,178,67
+Kottayam,DhanyaRemyaKottayam,686001,Malayalam,18:00,Remya,135₹,251,71
+Kochi,PvrLuluKochi,682024,Malayalam,19:15,Classic,140₹,39,0
+Kochi,PvrLuluKochi,682024,Malayalam,19:15,ClassicPlus,160₹,91,21
+Kochi,PvrLuluKochi,682024,Malayalam,19:15,Prime,190₹,64,15
+Kochi,PvrLuluKochi,682024,Malayalam,19:15,Recliner,350₹,9,6
+Pathanamthitta,DhanyaRemyaPathanamthitta,689645,Malayalam,21:00,RemyaCircle,135₹,197,54
+Kottayam,DhanyaRemyaKottayam,686001,Malayalam,21:00,Remya,135₹,251,1
