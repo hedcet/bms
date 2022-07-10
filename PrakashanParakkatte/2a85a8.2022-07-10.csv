@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Trivandrum,NewTheatre4KRgbLaserDolbyAtmosTrivandrum,695001,Malayalam,14:30,Elite,150₹,173,10
+Pathanamthitta,TrinityMovieMaxPathanamthitta,689645,Malayalam,18:15,Special,130₹,110,16
+Trivandrum,NewTheatre4KRgbLaserDolbyAtmosTrivandrum,695001,Malayalam,18:30,Elite,150₹,173,5
+Trivandrum,NewTheatre4KRgbLaserDolbyAtmosTrivandrum,695001,Malayalam,21:30,Elite,150₹,173,15
+Thrissur,InoxSobhaCityMall,680553,Malayalam,22:20,RoyalRecliner,350₹,10,0
+Thrissur,InoxSobhaCityMall,680553,Malayalam,22:20,Club,190₹,63,16
+Thrissur,InoxSobhaCityMall,680553,Malayalam,22:20,Royal,190₹,28,14
+Thrissur,InoxSobhaCityMall,680553,Malayalam,22:20,Executive,130₹,20,0
