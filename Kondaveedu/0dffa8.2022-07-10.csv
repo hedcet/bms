@@ -1,0 +1,4 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Narsipatnam,PvrSreeKanyaNarsipatnam,531116,Telugu,13:15,Classic,60₹,29,0
+Narsipatnam,PvrSreeKanyaNarsipatnam,531116,Telugu,13:15,ClassicPlus,150₹,171,19
+Hyderabad,AsianLakshmikalaCineprideMoosapet,500018,Telugu,18:30,Platinum,150₹,365,126
