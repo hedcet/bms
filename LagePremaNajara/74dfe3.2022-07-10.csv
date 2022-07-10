@@ -1,0 +1,10 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Paralakhemundi,SriLaxmiTalkiesParalakhemundi,761200,Oriya,14:30,Deluxe,80₹,69,0
+BerhampurOdisha,NewPayalCinema71DolbySound2KCentralAc,760001,Oriya,15:00,Balcony1,100₹,35,0
+BerhampurOdisha,NewPayalCinema71DolbySound2KCentralAc,760001,Oriya,15:00,Delux,100₹,105,4
+BerhampurOdisha,NewPayalCinema71DolbySound2KCentralAc,760001,Oriya,15:00,Balcony2,100₹,44,2
+BerhampurOdisha,NewPayalCinema71DolbySound2KCentralAc,760001,Oriya,15:00,FirstClass,70₹,101,0
+Bhubaneswar,CinepolisNexusEsplanadeBhubaneswar,751007,Oriya,15:55,Normal,220₹,23,0
+Bhubaneswar,CinepolisNexusEsplanadeBhubaneswar,751007,Oriya,15:55,Executive,240₹,52,7
+Bhubaneswar,CinepolisNexusEsplanadeBhubaneswar,751007,Oriya,15:55,Premium,260₹,44,7
+Bhubaneswar,CinepolisNexusEsplanadeBhubaneswar,751007,Oriya,15:55,Vip,500₹,9,0
