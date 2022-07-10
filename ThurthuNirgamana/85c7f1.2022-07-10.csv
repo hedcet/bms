@@ -1,0 +1,6 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,18:30,Classic,240₹,108,0
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,18:30,Prime,260₹,108,34
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,18:30,Recliner,470₹,16,5
+Bengaluru,PvrVegaCityBannerghattaRoad,560076,Kannada,19:10,Classic,250₹,86,21
+Bengaluru,PvrVegaCityBannerghattaRoad,560076,Kannada,19:10,Recliner,470₹,9,9
