@@ -1,0 +1,6 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+BiswanathChariali,PabhoiDigitalCinemaBiswanathChariali,784176,Assamese,17:00,Silver,100₹,59,0
+BiswanathChariali,PabhoiDigitalCinemaBiswanathChariali,784176,Assamese,17:00,Gold,150₹,98,0
+Guwahati,PvrCityCentreGuwahati,781005,Assamese,21:20,Classic,99₹,40,0
+Guwahati,PvrCityCentreGuwahati,781005,Assamese,21:20,Prime,99₹,82,16
+Guwahati,PvrCityCentreGuwahati,781005,Assamese,21:20,PrimePlus,99₹,13,10
