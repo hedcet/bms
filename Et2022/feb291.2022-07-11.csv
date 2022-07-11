@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Barshi,AshaTalkiesBarshiMaharashtra,413401,Hindi,12:10,UpperClass,60₹,185,0
+Barshi,AshaTalkiesBarshiMaharashtra,413401,Hindi,12:10,FirstClass,40₹,172,0
+Barshi,AshaTalkiesBarshiMaharashtra,413401,Hindi,12:10,SecondClass,40₹,99,0
+Pune,VikasCinemaManchar,410503,Hindi,15:00,1stClass,100₹,156,2
+Pune,VikasCinemaManchar,410503,Hindi,15:00,2ndClass,80₹,196,0
+Barshi,AshaTalkiesBarshiMaharashtra,413401,Hindi,18:10,UpperClass,60₹,185,0
+Barshi,AshaTalkiesBarshiMaharashtra,413401,Hindi,18:10,FirstClass,40₹,172,0
+Barshi,AshaTalkiesBarshiMaharashtra,413401,Hindi,18:10,SecondClass,40₹,99,0
