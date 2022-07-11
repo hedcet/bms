@@ -1,0 +1,16 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Chennai,RohiniSilverScreensKoyambedu,600107,Tamil,10:00,GoldStar,130₹,171,51
+Rajapalayam,SriBalajiTheatreRajapalayamAC,626117,Tamil,10:15,Box1,100₹,18,0
+Rajapalayam,SriBalajiTheatreRajapalayamAC,626117,Tamil,10:15,Box2,100₹,18,0
+Rajapalayam,SriBalajiTheatreRajapalayamAC,626117,Tamil,14:15,Box1,100₹,18,0
+Rajapalayam,SriBalajiTheatreRajapalayamAC,626117,Tamil,14:15,Box2,100₹,18,0
+Madurai,RamTheatreMadurai,625009,Tamil,14:30,Balcony,80₹,242,0
+Rajapalayam,SriBalajiTheatreRajapalayamAC,626117,Tamil,18:15,Box1,100₹,18,0
+Rajapalayam,SriBalajiTheatreRajapalayamAC,626117,Tamil,18:15,Box2,100₹,18,0
+Madurai,RamTheatreMadurai,625009,Tamil,18:30,Balcony,80₹,242,0
+Madurai,InoxVishaalDeMall,625002,Tamil,18:50,Club,178₹,154,78
+Madurai,InoxVishaalDeMall,625002,Tamil,18:50,Executive,60₹,24,24
+Madurai,RamTheatreMadurai,625009,Tamil,22:00,Balcony,80₹,242,0
+Chennai,SreeLakshmibalaMoviepark4K3DDolby712Padi,600050,Tamil,22:00,FirstClass,110₹,374,0
+Rajapalayam,SriBalajiTheatreRajapalayamAC,626117,Tamil,22:15,Box1,100₹,18,0
+Rajapalayam,SriBalajiTheatreRajapalayamAC,626117,Tamil,22:15,Box2,100₹,18,0
