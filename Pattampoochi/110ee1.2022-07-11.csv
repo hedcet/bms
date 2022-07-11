@@ -1,0 +1,17 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Tirukoilur,EshwariThiraiarangamAC4KDolbyAtmos,605757,Tamil,14:00,PlatinumClass,80₹,378,2
+Madurai,KallanaiCinemaMadurai,625020,Tamil,14:30,DesiCircleAC,100₹,12,2
+Madurai,KallanaiCinemaMadurai,625020,Tamil,14:30,DevaCircleAC,100₹,12,0
+Madurai,KallanaiCinemaMadurai,625020,Tamil,14:30,FirstClass,70₹,128,0
+Madurai,KallanaiCinemaMadurai,625020,Tamil,14:30,SecondClass,70₹,129,0
+Tirukoilur,EshwariThiraiarangamAC4KDolbyAtmos,605757,Tamil,18:00,PlatinumClass,80₹,378,0
+Madurai,KallanaiCinemaMadurai,625020,Tamil,18:30,DesiCircleAC,100₹,12,0
+Madurai,KallanaiCinemaMadurai,625020,Tamil,18:30,DevaCircleAC,100₹,12,0
+Madurai,KallanaiCinemaMadurai,625020,Tamil,18:30,FirstClass,70₹,128,0
+Madurai,KallanaiCinemaMadurai,625020,Tamil,18:30,SecondClass,70₹,129,0
+Madurai,SriLakshmiTheatreThirupparankundram,625005,Tamil,18:30,FirstClass,80₹,208,0
+Madurai,KallanaiCinemaMadurai,625020,Tamil,22:00,DesiCircleAC,100₹,12,0
+Madurai,KallanaiCinemaMadurai,625020,Tamil,22:00,DevaCircleAC,100₹,12,0
+Madurai,KallanaiCinemaMadurai,625020,Tamil,22:00,FirstClass,70₹,128,0
+Madurai,KallanaiCinemaMadurai,625020,Tamil,22:00,SecondClass,70₹,129,0
+Madurai,SriLakshmiTheatreThirupparankundram,625005,Tamil,22:30,FirstClass,80₹,208,0
