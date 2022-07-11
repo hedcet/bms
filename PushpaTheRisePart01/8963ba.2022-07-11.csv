@@ -1,0 +1,17 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Hyderabad,YadagiriTheatreSantoshNagar,500059,Hindi,11:30,Balcony,100₹,317,0
+Hyderabad,YadagiriTheatreSantoshNagar,500059,Hindi,11:30,DressClass,80₹,400,0
+Hyderabad,YadagiriTheatreSantoshNagar,500059,Hindi,11:30,ReservedClass,70₹,119,0
+Hyderabad,YadagiriTheatreSantoshNagar,500059,Hindi,11:30,SecondClass,40₹,216,0
+Hyderabad,YadagiriTheatreSantoshNagar,500059,Hindi,14:30,Balcony,100₹,317,0
+Hyderabad,YadagiriTheatreSantoshNagar,500059,Hindi,14:30,DressClass,80₹,400,0
+Hyderabad,YadagiriTheatreSantoshNagar,500059,Hindi,14:30,ReservedClass,70₹,119,0
+Hyderabad,YadagiriTheatreSantoshNagar,500059,Hindi,14:30,SecondClass,40₹,216,0
+Hyderabad,YadagiriTheatreSantoshNagar,500059,Hindi,18:00,Balcony,100₹,317,0
+Hyderabad,YadagiriTheatreSantoshNagar,500059,Hindi,18:00,DressClass,80₹,400,0
+Hyderabad,YadagiriTheatreSantoshNagar,500059,Hindi,18:00,ReservedClass,70₹,119,0
+Hyderabad,YadagiriTheatreSantoshNagar,500059,Hindi,18:00,SecondClass,40₹,216,0
+Hyderabad,YadagiriTheatreSantoshNagar,500059,Hindi,21:00,Balcony,100₹,317,0
+Hyderabad,YadagiriTheatreSantoshNagar,500059,Hindi,21:00,DressClass,80₹,400,0
+Hyderabad,YadagiriTheatreSantoshNagar,500059,Hindi,21:00,ReservedClass,70₹,119,2
+Hyderabad,YadagiriTheatreSantoshNagar,500059,Hindi,21:00,SecondClass,40₹,216,1
