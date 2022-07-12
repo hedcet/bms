@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Mumbai,MarathaMandirMumbaiCentral,400008,Hindi,11:30,Balcony,40₹,294,45
+Mumbai,MarathaMandirMumbaiCentral,400008,Hindi,11:30,DressCircle,30₹,813,3
+Agra,HeeraTalkiesAgra,282003,Hindi,12:20,Balcony,60₹,753,0
+Agra,HeeraTalkiesAgra,282003,Hindi,12:20,DressCircle,30₹,753,0
+Agra,HeeraTalkiesAgra,282003,Hindi,15:31,Balcony,60₹,455,0
+Agra,HeeraTalkiesAgra,282003,Hindi,15:31,DressCircle,30₹,298,0
+Agra,HeeraTalkiesAgra,282003,Hindi,18:31,Balcony,60₹,753,0
+Agra,HeeraTalkiesAgra,282003,Hindi,18:31,DressCircle,30₹,753,0
