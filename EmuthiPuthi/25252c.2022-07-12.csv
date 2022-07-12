@@ -1,0 +1,10 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Guwahati,PvrCityCentreGuwahati,781005,Assamese,19:00,Classic,99₹,40,0
+Guwahati,PvrCityCentreGuwahati,781005,Assamese,19:00,Prime,99₹,82,36
+Guwahati,PvrCityCentreGuwahati,781005,Assamese,19:00,PrimePlus,99₹,13,13
+Guwahati,AnuradhaCineplexGuwahati,781021,Assamese,20:00,Silver,150₹,62,0
+Guwahati,AnuradhaCineplexGuwahati,781021,Assamese,20:00,Gold,200₹,170,2
+Guwahati,AnuradhaCineplexGuwahati,781021,Assamese,20:00,Platinum,250₹,158,3
+Guwahati,AnuradhaCineplexGuwahati,781021,Assamese,20:00,Diamond,400₹,16,0
+Guwahati,AnuradhaCineplexGuwahati,781021,Assamese,20:00,Box2,300₹,22,0
+Guwahati,AnuradhaCineplexGuwahati,781021,Assamese,20:00,Box1,300₹,10,0
