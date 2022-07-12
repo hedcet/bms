@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Surat,InoxVrMallSurat,395007,English,16:40,RoyalRecliner,370₹,18,6
+Surat,InoxVrMallSurat,395007,English,16:40,Royal,210₹,60,6
+Surat,InoxVrMallSurat,395007,English,16:40,Club,190₹,159,0
+Surat,InoxVrMallSurat,395007,English,16:40,Executive,180₹,34,0
+Surat,InoxVrMallSurat,395007,English,19:20,RoyalRecliner,370₹,18,6
+Surat,InoxVrMallSurat,395007,English,19:20,Royal,210₹,60,6
+Surat,InoxVrMallSurat,395007,English,19:20,Club,190₹,159,0
+Surat,InoxVrMallSurat,395007,English,19:20,Executive,180₹,34,0
+Surat,InoxVrMallSurat,395007,English,22:00,RoyalRecliner,410₹,18,6
+Surat,InoxVrMallSurat,395007,English,22:00,Royal,250₹,60,6
+Surat,InoxVrMallSurat,395007,English,22:00,Club,230₹,159,0
+Surat,InoxVrMallSurat,395007,English,22:00,Executive,210₹,34,0
