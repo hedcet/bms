@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kolkata,JayaCinemasCityMallBarasat,700124,Bengali,13:50,DressCircle,130₹,182,14
+Kolkata,JayaCinemasCityMallBarasat,700124,Bengali,13:50,RearStall,100₹,28,0
+DakshinBarasat,MahamayaTalkiesDakshinBarasat,743372,Bengali,14:00,GoldClass,100₹,68,0
+DakshinBarasat,MahamayaTalkiesDakshinBarasat,743372,Bengali,14:00,SilverClass,70₹,160,0
+Kolkata,NazrultirthaCinemaKolkata,700156,Bengali,16:10,Silver,130₹,26,0
+Kolkata,NazrultirthaCinemaKolkata,700156,Bengali,16:10,Gold,150₹,65,0
+Ranaghat,SurendraCinemaRanaghat,741201,Bengali,16:30,Balocny,50₹,69,7
+Kolkata,NandanKolkata,700020,Bengali,18:00,Normal,30₹,165,7
