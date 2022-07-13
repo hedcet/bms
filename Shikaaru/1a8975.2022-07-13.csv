@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Anakapalle,SriSatyanarayanaPicturePalaceAcDtsAnakapall,531001,Telugu,10:45,FirstClass,147₹,92,0
+Anakapalle,SriSatyanarayanaPicturePalaceAcDtsAnakapall,531001,Telugu,10:45,1stClass,147₹,92,0
+Anakapalle,SriSatyanarayanaPicturePalaceAcDtsAnakapall,531001,Telugu,10:45,2ndClass,100₹,92,0
+Anakapalle,SriSatyanarayanaPicturePalaceAcDtsAnakapall,531001,Telugu,14:15,FirstClass,147₹,206,0
+Anakapalle,SriSatyanarayanaPicturePalaceAcDtsAnakapall,531001,Telugu,14:15,1stClass,147₹,206,0
+Anakapalle,SriSatyanarayanaPicturePalaceAcDtsAnakapall,531001,Telugu,14:15,2ndClass,100₹,206,0
+Anakapalle,SriSatyanarayanaPicturePalaceAcDtsAnakapall,531001,Telugu,18:30,FirstClass,147₹,206,0
+Anakapalle,SriSatyanarayanaPicturePalaceAcDtsAnakapall,531001,Telugu,18:30,1stClass,147₹,206,0
+Anakapalle,SriSatyanarayanaPicturePalaceAcDtsAnakapall,531001,Telugu,18:30,2ndClass,100₹,206,0
+Anakapalle,SriSatyanarayanaPicturePalaceAcDtsAnakapall,531001,Telugu,21:30,FirstClass,147₹,388,182
+Anakapalle,SriSatyanarayanaPicturePalaceAcDtsAnakapall,531001,Telugu,21:30,1stClass,147₹,32,32
+Anakapalle,SriSatyanarayanaPicturePalaceAcDtsAnakapall,531001,Telugu,21:30,2ndClass,100₹,119,119
