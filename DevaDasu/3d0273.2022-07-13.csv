@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kasaragod,MagicFramesMehboobTheatreComplexKasaragod,671121,Tamil,10:30,Executive,110₹,175,0
+Kochi,SavitaCinemaKochi,680018,Tamil,18:00,Deluxe,150₹,555,34
+Kochi,SavitaCinemaKochi,680018,Tamil,21:00,Deluxe,150₹,555,34
+Kasaragod,MagicFramesMehboobTheatreComplexKasaragod,671121,Tamil,22:00,Executive,110₹,175,0
