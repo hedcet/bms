@@ -1,0 +1,16 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kochi,PvrLuluKochi,682024,Malayalam,11:00,Classic,89₹,39,0
+Kochi,PvrLuluKochi,682024,Malayalam,11:00,ClassicPlus,110₹,91,0
+Kochi,PvrLuluKochi,682024,Malayalam,11:00,Prime,125₹,68,17
+Kochi,PvrLuluKochi,682024,Malayalam,11:00,Recliner,240₹,10,0
+Kollam,DhanyaRemyaKollam,691008,Malayalam,11:30,Platinum,135₹,200,0
+Kochi,Kanoos2KRavipuram,682036,Malayalam,12:00,Diamond,110₹,186,0
+Trivandrum,AriesplexSlCinemas,695001,Malayalam,12:30,Executive,110₹,70,0
+Trivandrum,CarnivalGreenfieldTrivandrum,695581,Malayalam,14:00,ExecutiveOffline,140₹,132,14
+Kochi,Kanoos2KRavipuram,682036,Malayalam,15:00,Diamond,110₹,186,0
+Thalayolaparambu,CarnivalThalayolaparambu,686605,Malayalam,15:15,Gold,110₹,144,0
+Kollam,CarnivalKollamRpMall,691001,Malayalam,16:00,PremiumOffline,150₹,96,16
+Trivandrum,AriesplexSlCinemas,695001,Malayalam,17:30,Executive,110₹,70,0
+Angamaly,CarnivalKsrtComplex,683572,Malayalam,17:30,GoldOffline,130₹,203,0
+Kochi,Kanoos2KRavipuram,682036,Malayalam,19:00,Diamond,110₹,186,0
+Kochi,Kanoos2KRavipuram,682036,Malayalam,22:00,Diamond,110₹,186,0
