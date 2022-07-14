@@ -1,0 +1,15 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,PvrTheCinemaGtWorldBengaluru,560023,Kannada,13:00,Classic,112₹,164,0
+Bengaluru,PvrTheCinemaGtWorldBengaluru,560023,Kannada,13:00,Recliner,230₹,10,0
+Bengaluru,GopalanMallSirsiCircle,560026,Kannada,13:00,Gold,180₹,265,4
+Bengaluru,GopalanCinemasArcadeMallMysoreRoad,560098,Kannada,13:00,Gold,220₹,332,23
+Bengaluru,GopalanCinemasArcadeMallMysoreRoad,560098,Kannada,13:00,Sofa,220₹,21,0
+Bengaluru,GopalanGrandMallOldMadrasRoad,560016,Kannada,14:20,Gold,150₹,186,0
+Bengaluru,CinepolisNexusShantiniketanBengaluru,560067,Kannada,14:30,Normal,150₹,24,0
+Bengaluru,CinepolisNexusShantiniketanBengaluru,560067,Kannada,14:30,Executive,170₹,56,0
+Bengaluru,CinepolisNexusShantiniketanBengaluru,560067,Kannada,14:30,Premium,190₹,48,16
+Bengaluru,CinepolisNexusShantiniketanBengaluru,560067,Kannada,14:30,Vip,300₹,10,0
+MysuruMysore,MysuruVisionCinemasBehindGrsFantasyPark,570016,Kannada,18:35,Premier,150₹,187,0
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,22:15,Classic,180₹,128,2
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,22:15,Prime,200₹,100,20
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,22:15,Recliner,300₹,14,7
