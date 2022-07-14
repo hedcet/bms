@@ -1,0 +1,15 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Ajmer,PlazaCinemaAjmer,305001,Hindi,12:00,Balcony,70₹,100,0
+Ajmer,PlazaCinemaAjmer,305001,Hindi,12:00,DressCircle,60₹,100,0
+Ajmer,PlazaCinemaAjmer,305001,Hindi,12:00,Janta,50₹,50,0
+Ajmer,PlazaCinemaAjmer,305001,Hindi,15:00,Balcony,70₹,100,0
+Ajmer,PlazaCinemaAjmer,305001,Hindi,15:00,DressCircle,60₹,100,0
+Ajmer,PlazaCinemaAjmer,305001,Hindi,15:00,Janta,50₹,50,0
+Ajmer,PlazaCinemaAjmer,305001,Hindi,18:00,Balcony,70₹,100,0
+Ajmer,PlazaCinemaAjmer,305001,Hindi,18:00,DressCircle,60₹,100,0
+Ajmer,PlazaCinemaAjmer,305001,Hindi,18:00,Janta,50₹,50,0
+Lucknow,PvrPhoenixLucknow,226012,Hindi,20:55,Classic,99₹,151,22
+Lucknow,PvrPhoenixLucknow,226012,Hindi,20:55,Prime,99₹,9,3
+Ajmer,PlazaCinemaAjmer,305001,Hindi,21:00,Balcony,70₹,100,0
+Ajmer,PlazaCinemaAjmer,305001,Hindi,21:00,DressCircle,60₹,100,0
+Ajmer,PlazaCinemaAjmer,305001,Hindi,21:00,Janta,50₹,50,0
