@@ -1,0 +1,12 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bemetara,RatanTalkiesBemetara,491335,Chattisgarhi,12:00,Gold,50₹,34,0
+BalodaBazar,ShivaBollywoodTheatreBalodaBazar,493332,Chattisgarhi,12:00,Balcony,90₹,36,0
+BalodaBazar,ShivaBollywoodTheatreBalodaBazar,493332,Chattisgarhi,12:00,Silver,70₹,50,0
+Bemetara,RatanTalkiesBemetara,491335,Chattisgarhi,15:00,Gold,50₹,34,4
+BalodaBazar,ShivaBollywoodTheatreBalodaBazar,493332,Chattisgarhi,15:00,Balcony,90₹,36,0
+BalodaBazar,ShivaBollywoodTheatreBalodaBazar,493332,Chattisgarhi,15:00,Silver,70₹,50,0
+Bemetara,RatanTalkiesBemetara,491335,Chattisgarhi,18:00,Gold,50₹,34,0
+BalodaBazar,ShivaBollywoodTheatreBalodaBazar,493332,Chattisgarhi,18:00,Balcony,90₹,36,0
+BalodaBazar,ShivaBollywoodTheatreBalodaBazar,493332,Chattisgarhi,18:00,Silver,70₹,50,0
+BalodaBazar,ShivaBollywoodTheatreBalodaBazar,493332,Chattisgarhi,21:00,Balcony,90₹,36,0
+BalodaBazar,ShivaBollywoodTheatreBalodaBazar,493332,Chattisgarhi,21:00,Silver,70₹,50,0
