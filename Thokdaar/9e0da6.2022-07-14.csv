@@ -1,0 +1,4 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Dehradun,SilverCityMultiplexRajpurRoad,248001,Garhwali,12:45,Silver,100₹,68,24
+Dehradun,SilverCityMultiplexRajpurRoad,248001,Garhwali,12:45,Gold,150₹,137,132
+Dehradun,SilverCityMultiplexRajpurRoad,248001,Garhwali,12:45,Platinum,200₹,15,15
