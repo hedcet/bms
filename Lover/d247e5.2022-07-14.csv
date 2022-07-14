@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Ludhiana,PvrPavilionLudhiana,141001,Punjabi,09:45,Classic,140₹,77,17
+Ludhiana,PvrSilverArcLudhiana,141001,Punjabi,09:55,Classic,140₹,119,24
+Ludhiana,PvrSilverArcLudhiana,141001,Punjabi,09:55,Prime,170₹,18,5
+Amritsar,PvrSctAmritsar,143001,Punjabi,13:05,Classic,160₹,103,0
+Amritsar,PvrSctAmritsar,143001,Punjabi,13:05,Prime,170₹,60,15
+Amritsar,PvrSctAmritsar,143001,Punjabi,13:05,Recliner,330₹,11,0
+Chandigarh,PvrElanteChandigarh,160002,Punjabi,13:50,Classic,180₹,153,36
+Chandigarh,PvrElanteChandigarh,160002,Punjabi,13:50,Recliner,550₹,13,0
