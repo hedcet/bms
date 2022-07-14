@@ -1,0 +1,4 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+PrayagrajAllahabad,MansarovarCinemaPrayagraj,211003,Hindi,12:30,Balcony,80₹,180,0
+PrayagrajAllahabad,MansarovarCinemaPrayagraj,211003,Hindi,15:30,Balcony,80₹,180,1
+PrayagrajAllahabad,MansarovarCinemaPrayagraj,211003,Hindi,18:30,Balcony,80₹,180,0
