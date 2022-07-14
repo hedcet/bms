@@ -1,0 +1,11 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Akbarpur,KapoorDdCinemasAkbarpur,224122,Hindi,09:45,Diamond,150₹,22,0
+Akbarpur,KapoorDdCinemasAkbarpur,224122,Hindi,09:45,Gold,150₹,114,0
+Sultanpur,ShubhamDdPlexSultanpur,228001,Hindi,10:30,Diamond,200₹,28,0
+Sultanpur,ShubhamDdPlexSultanpur,228001,Hindi,10:30,Gold,150₹,168,0
+Lucknow,PvrPhoenixLucknow,226012,Hindi,15:25,Classic,140₹,151,65
+Lucknow,PvrPhoenixLucknow,226012,Hindi,15:25,Prime,190₹,9,3
+Palampur,PearlCinemaPalampur,176102,Hindi,15:40,Platinum,220₹,24,0
+Palampur,PearlCinemaPalampur,176102,Hindi,15:40,Gold,160₹,126,0
+Shimla,AyaanCinemasShimla,171004,Hindi,17:00,Executive,220₹,5,0
+Shimla,AyaanCinemasShimla,171004,Hindi,17:00,Platinum,200₹,135,14
