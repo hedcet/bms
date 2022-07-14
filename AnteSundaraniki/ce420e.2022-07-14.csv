@@ -1,0 +1,8 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,SrinivasaTheaterKadugodi,560067,Telugu,10:30,Balcony,120₹,224,0
+Hyderabad,AmbCinemasGachibowli,500084,Telugu,12:45,Platinum,350₹,10,6
+Hyderabad,AmbCinemasGachibowli,500084,Telugu,12:45,Gold,295₹,138,15
+Hyderabad,AmbCinemasGachibowli,500084,Telugu,12:45,Loungers,295₹,14,0
+Bengaluru,SrinivasaTheaterKadugodi,560067,Telugu,13:30,Balcony,120₹,224,2
+Bengaluru,SrinivasaTheaterKadugodi,560067,Telugu,16:30,Balcony,120₹,224,0
+Bengaluru,SrinivasaTheaterKadugodi,560067,Telugu,19:45,Balcony,120₹,224,0
