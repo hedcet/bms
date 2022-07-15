@@ -1,0 +1,17 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kadapa,ThaharTheaterKadapa,516001,Telugu,11:30,Sofa,100₹,46,0
+Kadapa,ThaharTheaterKadapa,516001,Telugu,11:30,FirstClass,100₹,191,0
+Hyderabad,AmbCinemasGachibowli,500084,Telugu,13:45,Platinum,350₹,52,12
+Kadapa,ThaharTheaterKadapa,516001,Telugu,14:30,Sofa,100₹,46,0
+Kadapa,ThaharTheaterKadapa,516001,Telugu,14:30,FirstClass,100₹,191,0
+Hyderabad,AsianLakshmikalaCineprideMoosapet,500018,Telugu,14:50,Platinum,175₹,365,61
+Hyderabad,AsianCineplanetMultiplexKompally,500014,Telugu,16:50,Gold,200₹,382,192
+Kadapa,ThaharTheaterKadapa,516001,Telugu,18:30,Sofa,100₹,46,0
+Kadapa,ThaharTheaterKadapa,516001,Telugu,18:30,FirstClass,100₹,191,0
+Kadapa,ThaharTheaterKadapa,516001,Telugu,21:30,Sofa,100₹,46,0
+Kadapa,ThaharTheaterKadapa,516001,Telugu,21:30,FirstClass,100₹,191,0
+Hyderabad,AsianLakshmikalaCineprideMoosapet,500018,Telugu,22:00,Platinum,175₹,365,113
+Hyderabad,AsianCineSquareMultiplexUppal,500039,Telugu,22:35,Sofa,250₹,14,0
+Hyderabad,AsianCineSquareMultiplexUppal,500039,Telugu,22:35,Gold,200₹,184,7
+Hyderabad,GprMultiplexNizampetHyderabad,500072,Telugu,22:45,Sofa,250₹,12,12
+Hyderabad,GprMultiplexNizampetHyderabad,500072,Telugu,22:45,Gold,200₹,218,0
