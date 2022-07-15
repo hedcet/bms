@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Paralakhemundi,SriLaxmiTalkiesParalakhemundi,761200,Telugu,10:30,Deluxe,80₹,69,0
+Vijayawada,SivakrishnaCinemasAC2KDtsKondapalli,521228,Telugu,11:15,Prime,100₹,146,5
+Paralakhemundi,SriLaxmiTalkiesParalakhemundi,761200,Telugu,14:15,Deluxe,80₹,69,0
+Vijayawada,SivakrishnaCinemasAC2KDtsKondapalli,521228,Telugu,14:30,Prime,100₹,263,5
+Paralakhemundi,SriLaxmiTalkiesParalakhemundi,761200,Telugu,17:30,Deluxe,80₹,69,0
+Vijayawada,SivakrishnaCinemasAC2KDtsKondapalli,521228,Telugu,18:15,Prime,100₹,146,5
+Paralakhemundi,SriLaxmiTalkiesParalakhemundi,761200,Telugu,20:30,Deluxe,80₹,69,0
+Vijayawada,SivakrishnaCinemasAC2KDtsKondapalli,521228,Telugu,21:30,Prime,100₹,263,5
