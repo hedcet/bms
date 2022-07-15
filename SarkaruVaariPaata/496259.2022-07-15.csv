@@ -1,0 +1,14 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Guntur,VenkataKrishnaTheatreGuntur,522001,Telugu,14:15,FirstClass,100₹,236,0
+Guntur,VenkataKrishnaTheatreGuntur,522001,Telugu,14:15,SecondClass,60₹,59,0
+Guntur,VenkataKrishnaTheatreGuntur,522001,Telugu,14:15,ThirdClass,40₹,68,0
+Rampachodavaram,LalithaTalkies2KACDtsRampachodavaram,533288,Telugu,18:00,FirstClass,100₹,393,38
+Rampachodavaram,LalithaTalkies2KACDtsRampachodavaram,533288,Telugu,18:00,SecondClass,80₹,48,0
+Guntur,VenkataKrishnaTheatreGuntur,522001,Telugu,18:15,FirstClass,100₹,363,0
+Guntur,VenkataKrishnaTheatreGuntur,522001,Telugu,18:15,SecondClass,60₹,363,0
+Guntur,VenkataKrishnaTheatreGuntur,522001,Telugu,18:15,ThirdClass,40₹,363,0
+Guntur,VenkataKrishnaTheatreGuntur,522001,Telugu,21:15,FirstClass,100₹,363,0
+Guntur,VenkataKrishnaTheatreGuntur,522001,Telugu,21:15,SecondClass,60₹,363,0
+Guntur,VenkataKrishnaTheatreGuntur,522001,Telugu,21:15,ThirdClass,40₹,363,0
+Rampachodavaram,LalithaTalkies2KACDtsRampachodavaram,533288,Telugu,21:30,FirstClass,100₹,393,36
+Rampachodavaram,LalithaTalkies2KACDtsRampachodavaram,533288,Telugu,21:30,SecondClass,80₹,48,0
