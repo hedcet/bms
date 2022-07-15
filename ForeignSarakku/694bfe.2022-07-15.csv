@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,VinayakaCinemasScreen2MysoreRoad,560018,Tamil,10:45,GoldClass,100₹,81,0
+Perambalur,SwamyTheatre2KPerambalur,621212,Tamil,11:00,FirstClass,100₹,270,15
+Bengaluru,VinayakaCinemasScreen2MysoreRoad,560018,Tamil,13:45,GoldClass,100₹,81,0
+Perambalur,SwamyTheatre2KPerambalur,621212,Tamil,14:00,FirstClass,100₹,270,15
+Bengaluru,VinayakaCinemasScreen2MysoreRoad,560018,Tamil,16:45,GoldClass,100₹,81,0
+Perambalur,SwamyTheatre2KPerambalur,621212,Tamil,18:00,FirstClass,100₹,255,0
+Bengaluru,VinayakaCinemasScreen2MysoreRoad,560018,Tamil,19:45,GoldClass,100₹,81,0
+Perambalur,SwamyTheatre2KPerambalur,621212,Tamil,22:00,FirstClass,100₹,270,15
