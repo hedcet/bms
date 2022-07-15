@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Arambagh,KarunaCinemaArambagh,712601,Bengali,12:00,LowerStall,35₹,48,0
+Arambagh,KarunaCinemaArambagh,712601,Bengali,12:00,Balcony,40₹,180,0
+Arambagh,KarunaCinemaArambagh,712601,Bengali,15:00,LowerStall,35₹,48,0
+Arambagh,KarunaCinemaArambagh,712601,Bengali,15:00,Balcony,40₹,180,0
+Arambagh,KarunaCinemaArambagh,712601,Bengali,18:00,LowerStall,35₹,48,0
+Arambagh,KarunaCinemaArambagh,712601,Bengali,18:00,Balcony,40₹,180,0
+Howrah,MirajCinemasHowrah,711106,Bengali,18:30,Premium,160₹,136,50
+Howrah,MirajCinemasHowrah,711106,Bengali,18:30,Deluxe,160₹,121,0
