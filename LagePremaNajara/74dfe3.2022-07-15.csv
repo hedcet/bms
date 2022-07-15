@@ -1,0 +1,8 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Baripada,RoxyCinemaBaripadaAC2KDolbyDigital712,757001,Oriya,11:30,DressCircle,120₹,81,0
+Baripada,RoxyCinemaBaripadaAC2KDolbyDigital712,757001,Oriya,11:30,Balcony,100₹,114,0
+Baripada,RoxyCinemaBaripadaAC2KDolbyDigital712,757001,Oriya,11:30,RearClass,70₹,284,2
+Phulbani,ShradhanjaliTalkiesPhulbani,762001,Oriya,14:15,SpecialClass,90₹,91,0
+Phulbani,ShradhanjaliTalkiesPhulbani,762001,Oriya,14:15,FirstClass,70₹,108,0
+Phulbani,ShradhanjaliTalkiesPhulbani,762001,Oriya,18:00,SpecialClass,90₹,91,0
+Phulbani,ShradhanjaliTalkiesPhulbani,762001,Oriya,18:00,FirstClass,70₹,108,0
