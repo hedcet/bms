@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Ranchi,PvrNucleusMallRanchi,834001,Hindi,10:30,Classic,99₹,28,0
+Ranchi,PvrNucleusMallRanchi,834001,Hindi,10:30,ClassicPlus,99₹,114,0
+Ranchi,PvrNucleusMallRanchi,834001,Hindi,10:30,Prime,99₹,63,22
+Ranchi,PvrNucleusMallRanchi,834001,Hindi,10:30,PrimePlus,99₹,18,3
+Guntur,SriGaneshMahalGuntur,522001,Telugu,11:15,FirstClass,50₹,40,0
+Guntur,SriGaneshMahalGuntur,522001,Telugu,14:30,FirstClass,50₹,40,2
+Guntur,SriGaneshMahalGuntur,522001,Telugu,18:15,FirstClass,50₹,40,0
+Guntur,SriGaneshMahalGuntur,522001,Telugu,21:30,FirstClass,50₹,40,0
