@@ -1,0 +1,15 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kundapura,BharathCinemasKundapura,576222,Kannada,10:00,Vip,400₹,12,0
+Kundapura,BharathCinemasKundapura,576222,Kannada,10:00,Gold,200₹,36,4
+Kundapura,BharathCinemasKundapura,576222,Kannada,10:00,Silver,180₹,41,0
+Kundapura,BharathCinemasKundapura,576222,Kannada,10:00,Special,150₹,60,0
+MysuruMysore,DrcCinemasBmHabitatMall,570012,Kannada,10:55,Premium,150₹,182,2
+MysuruMysore,DrcCinemasBmHabitatMall,570012,Kannada,10:55,Luxury,200₹,19,0
+Shivamogga,BharathCinemasShivamogga,577201,Kannada,16:15,Vip,500₹,8,0
+Shivamogga,BharathCinemasShivamogga,577201,Kannada,16:15,Gold,200₹,113,10
+Shivamogga,BharathCinemasShivamogga,577201,Kannada,16:15,Silver,150₹,56,0
+Shivamogga,BharathCinemasShivamogga,577201,Kannada,16:15,Special,150₹,42,0
+MysuruMysore,PvrForumCentreCityMallMysuru,570010,Kannada,18:30,Classic,160₹,152,28
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,22:15,Classic,236₹,128,0
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,22:15,Prime,236₹,100,43
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,22:15,Recliner,450₹,17,4
