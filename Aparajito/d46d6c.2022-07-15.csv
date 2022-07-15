@@ -1,0 +1,16 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Falakata,GouriTalkiesFalakata,735211,Bengali,13:00,BalconyAc,100₹,30,0
+Falakata,GouriTalkiesFalakata,735211,Bengali,13:00,SpecialClass,50₹,100,0
+AshoknagarWestBengal,NatarajCinemaAshoknagar,743222,Bengali,13:15,FirstClass,30₹,50,0
+Falakata,GouriTalkiesFalakata,735211,Bengali,16:00,BalconyAc,100₹,30,0
+Falakata,GouriTalkiesFalakata,735211,Bengali,16:00,SpecialClass,50₹,100,0
+Kolkata,PvrDiamondPlazaJessoreKolkata,700055,Bengali,16:05,Classic,99₹,176,23
+Kolkata,PvrDiamondPlazaJessoreKolkata,700055,Bengali,16:05,Prime,99₹,12,9
+Kolkata,PvrDiamondPlazaJessoreKolkata,700055,Bengali,16:05,Recliner,149₹,14,12
+Kalyani,SreeLakshmiTalkiesKachrapara,743145,Bengali,17:00,Balcony,80₹,150,0
+Kalyani,SreeLakshmiTalkiesKachrapara,743145,Bengali,17:00,SplGold,70₹,95,0
+Kalyani,SreeLakshmiTalkiesKachrapara,743145,Bengali,17:00,RStall,60₹,409,90
+Kolkata,InoxSouthCityKolkata,700068,Bengali,17:20,Silver,250₹,167,19
+Kolkata,InoxSouthCityKolkata,700068,Bengali,17:20,Premier,230₹,34,0
+Falakata,GouriTalkiesFalakata,735211,Bengali,19:00,BalconyAc,100₹,30,0
+Falakata,GouriTalkiesFalakata,735211,Bengali,19:00,SpecialClass,50₹,100,0
