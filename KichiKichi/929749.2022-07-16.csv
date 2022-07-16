@@ -1,0 +1,8 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Trichy,PalaceTheatreTiruchirappalli,620008,Tamil,11:15,FirstClass,60₹,249,0
+Trichy,PalaceTheatreTiruchirappalli,620008,Tamil,14:15,FirstClass,60₹,249,0
+Madurai,RamTheatreMadurai,625009,Tamil,14:30,Balcony,80₹,242,0
+Trichy,PalaceTheatreTiruchirappalli,620008,Tamil,18:15,FirstClass,60₹,249,0
+Madurai,RamTheatreMadurai,625009,Tamil,18:30,Balcony,80₹,242,4
+Madurai,RamTheatreMadurai,625009,Tamil,22:00,Balcony,80₹,242,2
+Trichy,PalaceTheatreTiruchirappalli,620008,Tamil,22:00,FirstClass,60₹,249,0
