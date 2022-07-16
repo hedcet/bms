@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Amravati,EOrbitMultiplexAmravati,444607,Marathi,10:00,Platinum,150₹,293,31
+Kolhapur,RoyalCinemaKolhapur,416002,Marathi,12:30,Balcony,100₹,75,0
+Kolhapur,RoyalCinemaKolhapur,416002,Marathi,12:30,DressCircle,90₹,85,0
+Kolhapur,RoyalCinemaKolhapur,416002,Marathi,12:30,Stall,70₹,85,0
