@@ -1,0 +1,10 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Rajkot,CosmoplexMultiplexRajkot,360001,Hindi,01:30,Crew,240₹,244,74
+Rajkot,CosmoplexMultiplexRajkot,360001,Hindi,01:30,Captain,270₹,174,56
+Rajkot,CosmoplexMultiplexRajkot,360001,Hindi,01:30,Club,320₹,28,6
+Agra,RajeevCinemaAgra,282010,Hindi,12:00,Balcony,40₹,56,0
+Agra,RajeevCinemaAgra,282010,Hindi,12:00,DressCircle,20₹,60,0
+Agra,RajeevCinemaAgra,282010,Hindi,15:00,Balcony,40₹,56,0
+Agra,RajeevCinemaAgra,282010,Hindi,15:00,DressCircle,20₹,60,0
+Agra,RajeevCinemaAgra,282010,Hindi,18:00,Balcony,40₹,56,0
+Agra,RajeevCinemaAgra,282010,Hindi,18:00,DressCircle,20₹,60,0
