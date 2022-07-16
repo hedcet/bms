@@ -1,0 +1,4 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Shillong,BijouCinemaShillong,793001,Khasi,19:15,Balcony,200₹,365,64
+Shillong,BijouCinemaShillong,793001,Khasi,19:15,RearStall,150₹,245,53
+Shillong,BijouCinemaShillong,793001,Khasi,19:15,FrontStall,100₹,319,56
