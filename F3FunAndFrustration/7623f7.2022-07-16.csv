@@ -1,0 +1,14 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Vizianagaram,AdityaTheatreACDtsVizianagaram,535001,Telugu,11:00,FirstClass,112₹,353,60
+Vizianagaram,AdityaTheatreACDtsVizianagaram,535001,Telugu,11:00,SecondClass,78₹,138,36
+VizagVisakhapatnam,HeavenScreen3Gajuwaka,530026,Telugu,11:40,Premium1,145₹,166,13
+VizagVisakhapatnam,HeavenScreen3Gajuwaka,530026,Telugu,11:40,NonPremium,100₹,82,0
+Vizianagaram,AdityaTheatreACDtsVizianagaram,535001,Telugu,14:30,FirstClass,112₹,353,3
+Vizianagaram,AdityaTheatreACDtsVizianagaram,535001,Telugu,14:30,SecondClass,78₹,138,9
+VizagVisakhapatnam,HeavenScreen3Gajuwaka,530026,Telugu,14:40,Premium1,145₹,166,13
+VizagVisakhapatnam,HeavenScreen3Gajuwaka,530026,Telugu,14:40,NonPremium,100₹,82,3
+Vizianagaram,AdityaTheatreACDtsVizianagaram,535001,Telugu,18:30,FirstClass,112₹,353,17
+Vizianagaram,AdityaTheatreACDtsVizianagaram,535001,Telugu,18:30,SecondClass,78₹,138,5
+Hyderabad,TivoliCinemasSecunderabad,500003,Telugu,19:50,Gold,150₹,56,16
+Vizianagaram,AdityaTheatreACDtsVizianagaram,535001,Telugu,21:30,FirstClass,112₹,353,12
+Vizianagaram,AdityaTheatreACDtsVizianagaram,535001,Telugu,21:30,SecondClass,78₹,138,5
