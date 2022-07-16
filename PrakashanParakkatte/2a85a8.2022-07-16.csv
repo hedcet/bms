@@ -1,0 +1,4 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Trivandrum,NewTheatre4KRgbLaserDolbyAtmosTrivandrum,695001,Malayalam,11:30,Elite,150₹,200,16
+Trivandrum,NewTheatre4KRgbLaserDolbyAtmosThampanoor,695001,Malayalam,18:30,Elite,150₹,200,11
+Trivandrum,NewTheatre4KRgbLaserDolbyAtmosThampanoor,695001,Malayalam,21:30,Elite,150₹,200,25
