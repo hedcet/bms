@@ -1,0 +1,16 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Jalandhar,PvrMbdJalandhar,144001,Punjabi,10:05,Classic,99₹,90,0
+Jalandhar,PvrMbdJalandhar,144001,Punjabi,10:05,ClassicPlus,99₹,162,18
+Jalandhar,PvrMbdJalandhar,144001,Punjabi,10:05,Prime,99₹,11,2
+Jalandhar,PvrMbdJalandhar,144001,Punjabi,10:05,Recliner,149₹,11,2
+NationalCapitalRegionNcr,PvrPacificSubhashNagarDelhi,110018,Punjabi,15:10,Recliner,550₹,35,12
+NationalCapitalRegionNcr,PvrPacificSubhashNagarDelhi,110018,Punjabi,15:10,PrimePlus,290₹,39,16
+NationalCapitalRegionNcr,PvrPacificSubhashNagarDelhi,110018,Punjabi,15:10,Prime,290₹,90,13
+NationalCapitalRegionNcr,PvrPacificSubhashNagarDelhi,110018,Punjabi,15:10,Classic,270₹,36,0
+Jalandhar,PvrCuroJalandhar,144022,Punjabi,16:45,Classic,99₹,36,0
+Jalandhar,PvrCuroJalandhar,144022,Punjabi,16:45,ClassicPlus,99₹,36,19
+Jalandhar,PvrCuroJalandhar,144022,Punjabi,16:45,Prime,149₹,33,10
+Ludhiana,PvrPavilionLudhiana,141001,Punjabi,16:55,Classic,99₹,77,25
+NationalCapitalRegionNcr,PvrVegasDwarka,110078,Punjabi,17:45,Classic,199₹,105,10
+NationalCapitalRegionNcr,PvrVegasDwarka,110078,Punjabi,17:45,Prime,250₹,15,0
+NationalCapitalRegionNcr,PvrLogixNoida,201301,Punjabi,22:30,Classic,99₹,84,13
