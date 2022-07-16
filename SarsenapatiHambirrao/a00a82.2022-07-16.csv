@@ -1,0 +1,17 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Pune,InoxElproCitySquareChinchwad,411033,Marathi,13:20,RoyaleRecliners,300₹,27,1
+Pune,InoxElproCitySquareChinchwad,411033,Marathi,13:20,Royale,210₹,91,34
+Pune,InoxElproCitySquareChinchwad,411033,Marathi,13:20,Club,190₹,90,11
+Pune,InoxElproCitySquareChinchwad,411033,Marathi,13:20,Executive,170₹,30,0
+Pune,CarnivalCinemasSpineCityMoshiPradhikaran,412105,Marathi,13:40,SofaOffline,180₹,18,2
+Pune,CarnivalCinemasSpineCityMoshiPradhikaran,412105,Marathi,13:40,PlatinumOffline,160₹,48,26
+Pune,CarnivalCinemasSpineCityMoshiPradhikaran,412105,Marathi,13:40,GoldOffline,140₹,65,3
+Pune,CarnivalCinemasSpineCityMoshiPradhikaran,412105,Marathi,13:40,SilverOffline,120₹,48,5
+Kolhapur,UrmilaChitraMandirKolhapur,416012,Marathi,15:30,Balcony,60₹,179,0
+Kolhapur,UrmilaChitraMandirKolhapur,416012,Marathi,15:30,Stall,50₹,241,0
+Pune,FunTimeMultiplexSinhagadRoad,411041,Marathi,16:20,Gold,200₹,323,8
+Pune,FunTimeMultiplexSinhagadRoad,411041,Marathi,16:20,Silver,200₹,32,0
+Kolhapur,UrmilaChitraMandirKolhapur,416012,Marathi,18:30,Balcony,60₹,179,0
+Kolhapur,UrmilaChitraMandirKolhapur,416012,Marathi,18:30,Stall,50₹,241,0
+Kolhapur,UrmilaChitraMandirKolhapur,416012,Marathi,21:30,Balcony,60₹,179,0
+Kolhapur,UrmilaChitraMandirKolhapur,416012,Marathi,21:30,Stall,50₹,241,0
