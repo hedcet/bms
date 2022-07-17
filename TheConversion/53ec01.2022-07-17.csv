@@ -1,0 +1,4 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Mumbai,MovieMaxCinemaVirarE,401303,Hindi,17:00,Platinum,140₹,7,7
+Mumbai,MovieMaxCinemaVirarE,401303,Hindi,17:00,Gold,140₹,49,49
+Mumbai,MovieMaxCinemaVirarE,401303,Hindi,17:00,Silver,140₹,8,4
