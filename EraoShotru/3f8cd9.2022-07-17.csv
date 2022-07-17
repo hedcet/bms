@@ -1,0 +1,11 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Siliguri,RabindraManchShaktigarhSiliguri,734004,Bengali,12:30,RearStall,50₹,300,0
+Balurghat,SatyajitManchaBalurghat,733101,Bengali,12:30,Balcony,100₹,40,12
+Balurghat,SatyajitManchaBalurghat,733101,Bengali,12:30,RearStall,50₹,655,13
+Siliguri,RabindraManchShaktigarhSiliguri,734004,Bengali,15:15,RearStall,50₹,300,0
+Balurghat,SatyajitManchaBalurghat,733101,Bengali,15:30,Balcony,100₹,40,0
+Balurghat,SatyajitManchaBalurghat,733101,Bengali,15:30,RearStall,50₹,655,0
+Siliguri,RabindraManchShaktigarhSiliguri,734004,Bengali,18:00,RearStall,50₹,300,0
+Balurghat,SatyajitManchaBalurghat,733101,Bengali,18:30,Balcony,100₹,40,0
+Balurghat,SatyajitManchaBalurghat,733101,Bengali,18:30,RearStall,50₹,655,0
+AshoknagarWestBengal,NatarajCinemaAshoknagar,743222,Bengali,18:45,FirstClass,30₹,50,0
