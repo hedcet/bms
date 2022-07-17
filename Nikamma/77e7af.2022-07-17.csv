@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Nagpur,AdarshCineplexSaoner,441107,Hindi,12:00,BalconyClass,100₹,36,0
+Nagpur,AdarshCineplexSaoner,441107,Hindi,12:00,BoxClass,120₹,11,0
+Nagpur,AdarshCineplexSaoner,441107,Hindi,12:00,ReserveClass,80₹,76,0
+Nagpur,AdarshCineplexSaoner,441107,Hindi,15:00,BalconyClass,100₹,36,2
+Nagpur,AdarshCineplexSaoner,441107,Hindi,15:00,BoxClass,120₹,11,0
+Nagpur,AdarshCineplexSaoner,441107,Hindi,15:00,ReserveClass,80₹,76,0
+Nagpur,AdarshCineplexSaoner,441107,Hindi,18:00,BalconyClass,100₹,36,0
+Nagpur,AdarshCineplexSaoner,441107,Hindi,18:00,BoxClass,120₹,11,0
+Nagpur,AdarshCineplexSaoner,441107,Hindi,18:00,ReserveClass,80₹,76,0
+Nagpur,AdarshCineplexSaoner,441107,Hindi,21:00,BalconyClass,100₹,36,0
+Nagpur,AdarshCineplexSaoner,441107,Hindi,21:00,BoxClass,120₹,11,0
+Nagpur,AdarshCineplexSaoner,441107,Hindi,21:00,ReserveClass,80₹,76,0
