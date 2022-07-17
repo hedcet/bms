@@ -1,0 +1,7 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Barshi,ChatrapatiCinemaBarshi,413401,Marathi,12:00,Platinum,250₹,14,0
+Barshi,ChatrapatiCinemaBarshi,413401,Marathi,12:00,Gold,200₹,30,0
+Barshi,ChatrapatiCinemaBarshi,413401,Marathi,12:00,Silver,150₹,143,0
+Barshi,ChatrapatiCinemaBarshi,413401,Marathi,18:00,Platinum,250₹,14,0
+Barshi,ChatrapatiCinemaBarshi,413401,Marathi,18:00,Gold,200₹,30,11
+Barshi,ChatrapatiCinemaBarshi,413401,Marathi,18:00,Silver,150₹,143,0
