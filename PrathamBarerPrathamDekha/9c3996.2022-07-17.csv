@@ -1,0 +1,16 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Siliguri,NewCinemaSiliguri,734001,Bengali,10:45,Sofa,200₹,12,0
+Siliguri,NewCinemaSiliguri,734001,Bengali,10:45,SpecialClass,60₹,28,0
+CoochBehar,NewCinemaCoochBehar,736101,Bengali,13:00,Balcony,80₹,59,0
+Krishnanagar,SangeetaTalkiesKrishnanagar,741101,Bengali,13:00,Balcony,50₹,33,0
+Krishnanagar,SangeetaTalkiesKrishnanagar,741101,Bengali,13:00,FirstClass,30₹,30,0
+Ranaghat,RanaghatTalkiesNadia,741201,Bengali,13:30,1stClass,30₹,720,1
+Ranaghat,RanaghatTalkiesNadia,741201,Bengali,13:30,Balcony,50₹,118,2
+Arambagh,SudhanilCinemaArambagh,712601,Bengali,15:00,Balcony,40₹,30,0
+Arambagh,SudhanilCinemaArambagh,712601,Bengali,15:00,RearStall,30₹,21,0
+Dharmanagar,SsrCinemasDharmanagar,799250,Bengali,16:00,Gold,150₹,116,0
+AshoknagarWestBengal,NatarajCinemaAshoknagar,743222,Bengali,16:15,FirstClass,30₹,50,0
+Kolkata,RupmandirCinemaBelgharia,700056,Bengali,17:00,Gold,80₹,16,0
+Bakhrahat,UmaTalkiesBakhrahat,743377,Bengali,17:20,Balcony,70₹,55,0
+Arambagh,SudhanilCinemaArambagh,712601,Bengali,18:00,Balcony,40₹,30,0
+Arambagh,SudhanilCinemaArambagh,712601,Bengali,18:00,RearStall,30₹,21,0
