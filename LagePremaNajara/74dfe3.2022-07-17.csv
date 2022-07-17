@@ -1,0 +1,14 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Muniguda,PadmalayaTheatreMuniguda,765020,Oriya,11:15,Sofa,240₹,10,0
+Muniguda,PadmalayaTheatreMuniguda,765020,Oriya,11:15,Vip,100₹,108,0
+Muniguda,PadmalayaTheatreMuniguda,765020,Oriya,11:15,Balcony,90₹,171,0
+Baripada,RoxyCinemaBaripadaAC2KDolbyDigital712,757001,Oriya,11:30,DressCircle,120₹,81,0
+Baripada,RoxyCinemaBaripadaAC2KDolbyDigital712,757001,Oriya,11:30,Balcony,100₹,114,3
+Baripada,RoxyCinemaBaripadaAC2KDolbyDigital712,757001,Oriya,11:30,RearClass,70₹,284,2
+Phulbani,ShradhanjaliTalkiesPhulbani,762001,Oriya,14:15,SpecialClass,90₹,91,0
+Phulbani,ShradhanjaliTalkiesPhulbani,762001,Oriya,14:15,FirstClass,70₹,108,0
+Muniguda,PadmalayaTheatreMuniguda,765020,Oriya,14:30,Sofa,240₹,10,0
+Muniguda,PadmalayaTheatreMuniguda,765020,Oriya,14:30,Vip,100₹,108,0
+Muniguda,PadmalayaTheatreMuniguda,765020,Oriya,14:30,Balcony,90₹,171,0
+Phulbani,ShradhanjaliTalkiesPhulbani,762001,Oriya,18:00,SpecialClass,90₹,91,0
+Phulbani,ShradhanjaliTalkiesPhulbani,762001,Oriya,18:00,FirstClass,70₹,108,0
