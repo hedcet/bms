@@ -1,0 +1,7 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Nedumkandam,GCinemaxMultiplex,685553,Malayalam,11:45,Audi2,150₹,155,0
+Kottayam,DhanyaRemyaKottayam,686001,Malayalam,14:00,Remya,135₹,251,0
+Nedumkandam,GCinemaxMultiplex,685553,Malayalam,14:45,Audi2,150₹,155,0
+Kottayam,DhanyaRemyaKottayam,686001,Malayalam,18:00,Remya,135₹,251,11
+Nedumkandam,GCinemaxMultiplex,685553,Malayalam,18:15,Audi2,150₹,155,0
+Nedumkandam,GCinemaxMultiplex,685553,Malayalam,21:15,Audi2,150₹,155,0
