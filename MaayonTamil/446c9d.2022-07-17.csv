@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Tirupati,PalaniTheater2KTirupati,517501,Tamil,11:30,BalconyClass,100₹,476,0
+Tirupati,PalaniTheater2KTirupati,517501,Tamil,11:30,FirstClass,70₹,191,0
+Tirupati,PalaniTheater2KTirupati,517501,Tamil,14:30,BalconyClass,100₹,476,0
+Tirupati,PalaniTheater2KTirupati,517501,Tamil,14:30,FirstClass,70₹,191,0
+Chennai,SpiPalazzoTheForumVijayaMallVadapalani,600026,Tamil,15:45,Budget,60₹,27,27
+Chennai,SpiPalazzoTheForumVijayaMallVadapalani,600026,Tamil,15:45,Elite,190₹,210,189
+Chennai,PvrVrChennaiAnnaNagar,600040,Tamil,15:50,Classic,60₹,11,10
+Chennai,PvrVrChennaiAnnaNagar,600040,Tamil,15:50,Prime,190₹,102,92
+Tirupati,PalaniTheater2KTirupati,517501,Tamil,18:30,BalconyClass,100₹,476,0
+Tirupati,PalaniTheater2KTirupati,517501,Tamil,18:30,FirstClass,70₹,191,0
+Tirupati,PalaniTheater2KTirupati,517501,Tamil,21:45,BalconyClass,100₹,476,0
+Tirupati,PalaniTheater2KTirupati,517501,Tamil,21:45,FirstClass,70₹,191,0
