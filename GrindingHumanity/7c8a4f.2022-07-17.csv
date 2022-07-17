@@ -1,0 +1,4 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Patna,FunCinemasRegentTheatre,800004,Hindi,10:30,Platinum,100₹,400,131
+Patna,FunCinemasRegentTheatre,800004,Hindi,10:30,Gold1Fl,100₹,228,228
+Patna,FunCinemasRegentTheatre,800004,Hindi,10:30,Silver1stFl,100₹,24,24
