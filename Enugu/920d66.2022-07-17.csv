@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kothapeta,RsMiniplexKothapeta,533223,Telugu,11:15,FirstClass,100₹,148,38
+Eluru,SaiBalajiComplexEluru,534001,Telugu,11:15,1FirstClass,150₹,238,136
+Eluru,SaiBalajiComplexEluru,534001,Telugu,11:15,2SecondClass,100₹,103,81
+Kothapeta,RsMiniplexKothapeta,533223,Telugu,14:15,FirstClass,100₹,148,0
+Eluru,SaiBalajiComplexEluru,534001,Telugu,14:30,1FirstClass,150₹,124,0
+Eluru,SaiBalajiComplexEluru,534001,Telugu,14:30,2SecondClass,100₹,124,0
+Kothapeta,RsMiniplexKothapeta,533223,Telugu,18:15,FirstClass,100₹,148,38
+Eluru,SaiBalajiComplexEluru,534001,Telugu,18:30,1FirstClass,150₹,238,136
+Eluru,SaiBalajiComplexEluru,534001,Telugu,18:30,2SecondClass,100₹,103,81
+Kothapeta,RsMiniplexKothapeta,533223,Telugu,21:15,FirstClass,100₹,148,38
+Eluru,SaiBalajiComplexEluru,534001,Telugu,21:30,1FirstClass,150₹,122,0
+Eluru,SaiBalajiComplexEluru,534001,Telugu,21:30,2SecondClass,100₹,122,0
