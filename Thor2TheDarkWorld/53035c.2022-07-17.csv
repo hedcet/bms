@@ -1,0 +1,10 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Pune,InoxJaiGaneshAkurdi,411035,Hindi,10:15,Silver,180₹,218,25
+Pune,InoxJaiGaneshAkurdi,411035,Hindi,10:15,Premiere,150₹,106,1
+Pune,InoxJaiGaneshAkurdi,411035,Hindi,10:15,Red,130₹,48,0
+Pune,InoxJaiGaneshAkurdi,411035,Hindi,13:55,Silver,200₹,57,12
+Pune,InoxJaiGaneshAkurdi,411035,Hindi,13:55,Premiere,180₹,91,1
+Pune,InoxJaiGaneshAkurdi,411035,Hindi,19:40,Silver,240₹,57,12
+Pune,InoxJaiGaneshAkurdi,411035,Hindi,19:40,Premiere,210₹,91,1
+Pune,InoxJaiGaneshAkurdi,411035,Hindi,22:15,Silver,240₹,57,12
+Pune,InoxJaiGaneshAkurdi,411035,Hindi,22:15,Premiere,210₹,91,1
