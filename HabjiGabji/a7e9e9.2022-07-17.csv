@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kolkata,RadhaStudioTollygunge,700033,Bengali,13:00,Silver,30₹,146,32
+Kolkata,NandanKolkata,700020,Bengali,13:00,FrontStall,30₹,111,20
+Kolkata,NandanKolkata,700020,Bengali,13:00,RearStall,50₹,451,91
+Kolkata,NandanKolkata,700020,Bengali,13:00,Balcony,70₹,369,110
+Kolkata,InoxSouthCityKolkata,700068,Bengali,13:35,Silver,250₹,166,36
+Kolkata,InoxSouthCityKolkata,700068,Bengali,13:35,Premier,230₹,34,0
+Kolkata,NazrultirthaCinemaScreen3Kolkata,700156,Bengali,15:00,Gold,130₹,30,19
+Kolkata,NazrultirthaCinemaScreen3Kolkata,700156,Bengali,15:00,Recliner,150₹,8,7
+Kolkata,NazrultirthaCinemaScreen3Kolkata,700156,Bengali,15:00,Sofa,130₹,12,0
+Kolkata,PvrDiamondPlazaJessoreKolkata,700055,Bengali,15:05,Classic,99₹,100,57
+Kolkata,PvrDiamondPlazaJessoreKolkata,700055,Bengali,15:05,Prime,99₹,11,10
+Kolkata,PvrDiamondPlazaJessoreKolkata,700055,Bengali,15:05,Recliner,149₹,12,12
