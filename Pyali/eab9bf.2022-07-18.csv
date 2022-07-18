@@ -1,0 +1,16 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Alappuzha,SeethasTheatreAC2KAlappuzha,688011,Malayalam,11:00,Balcony,129₹,154,0
+Karunagapally,CarnivalHJComplex,690518,Malayalam,13:30,ClassicOffline,100₹,118,1
+Thrissur,InoxSobhaCityMall,680553,Malayalam,14:40,RoyalRecliner,290₹,10,0
+Thrissur,InoxSobhaCityMall,680553,Malayalam,14:40,Club,170₹,63,0
+Thrissur,InoxSobhaCityMall,680553,Malayalam,14:40,Royal,170₹,28,12
+Thrissur,InoxSobhaCityMall,680553,Malayalam,14:40,Executive,130₹,20,0
+Trivandrum,CarnivalMallOfTravancoreRedCarpet,695024,Malayalam,14:45,PremiumLounge,250₹,65,6
+Alappuzha,SeethasTheatreAC2KAlappuzha,688011,Malayalam,15:00,Balcony,129₹,154,0
+Kochi,PadmaCinemaKochi,682011,Malayalam,15:15,Platinum,150₹,178,22
+Palakkad,AromaScreen2Palakkad,678001,Malayalam,18:00,KingCircle,115₹,235,0
+Thodupuzha,AashirvadCineplexxThodupuzha,685584,Malayalam,18:30,Gold,175₹,10,0
+Thodupuzha,AashirvadCineplexxThodupuzha,685584,Malayalam,18:30,Silver,145₹,90,0
+Kozhikode,AashirvadCineplexxKozhikode,673001,Malayalam,18:45,Platinum,220₹,27,0
+Kozhikode,AashirvadCineplexxKozhikode,673001,Malayalam,18:45,Gold,200₹,54,0
+Kochi,VanithaVeneethaCineplexRgbLaser4K3DEdappally,682024,Malayalam,19:00,Screen1,160₹,200,4
