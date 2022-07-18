@@ -1,0 +1,4 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Raipur,ColorsCinemasRaipur,492001,Chattisgarhi,19:15,Lounge,185₹,26,10
+Raipur,ColorsCinemasRaipur,492001,Chattisgarhi,19:15,Club,105₹,112,17
+Raipur,ColorsCinemasRaipur,492001,Chattisgarhi,19:15,Premium,105₹,100,0
