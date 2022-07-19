@@ -1,0 +1,7 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Jaggampeta,JvrCinemasJaggampeta,533435,Telugu,14:00,FirstClass,100₹,334,0
+Jaggampeta,JvrCinemasJaggampeta,533435,Telugu,14:00,SecondClass,100₹,84,0
+Jaggampeta,JvrCinemasJaggampeta,533435,Telugu,18:00,FirstClass,100₹,334,4
+Jaggampeta,JvrCinemasJaggampeta,533435,Telugu,18:00,SecondClass,100₹,84,0
+Jaggampeta,JvrCinemasJaggampeta,533435,Telugu,21:00,FirstClass,100₹,334,0
+Jaggampeta,JvrCinemasJaggampeta,533435,Telugu,21:00,SecondClass,100₹,84,0
