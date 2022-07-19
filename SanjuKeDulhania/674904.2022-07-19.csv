@@ -1,0 +1,15 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Korba,NiharikaCinema2KLaserDolby71SoundKorba,495677,Chattisgarhi,12:30,Silver,50₹,20,0
+Korba,NiharikaCinema2KLaserDolby71SoundKorba,495677,Chattisgarhi,12:30,Gold,100₹,88,0
+Korba,NiharikaCinema2KLaserDolby71SoundKorba,495677,Chattisgarhi,12:30,Platinum,150₹,41,0
+Korba,NiharikaCinema2KLaserDolby71SoundKorba,495677,Chattisgarhi,15:30,Silver,50₹,20,0
+Korba,NiharikaCinema2KLaserDolby71SoundKorba,495677,Chattisgarhi,15:30,Gold,100₹,88,0
+Korba,NiharikaCinema2KLaserDolby71SoundKorba,495677,Chattisgarhi,15:30,Platinum,150₹,41,0
+Raipur,InoxAmbujaCityCentreRaipur,492007,Chattisgarhi,15:30,RoyalRecliner,190₹,19,4
+Raipur,InoxAmbujaCityCentreRaipur,492007,Chattisgarhi,15:30,Royal,100₹,38,6
+Raipur,InoxAmbujaCityCentreRaipur,492007,Chattisgarhi,15:30,Club,80₹,150,3
+Raipur,InoxAmbujaCityCentreRaipur,492007,Chattisgarhi,15:30,Executive,80₹,32,0
+Raipur,MirajCinemasNavaRaipurAtalNagar,492101,Chattisgarhi,16:25,Special,100₹,28,0
+Raipur,MirajCinemasNavaRaipurAtalNagar,492101,Chattisgarhi,16:25,Executive,100₹,81,0
+Raipur,MirajCinemasNavaRaipurAtalNagar,492101,Chattisgarhi,16:25,Club,150₹,4,0
+Raipur,MirajCinemasNavaRaipurAtalNagar,492101,Chattisgarhi,16:25,Gold,250₹,4,0
