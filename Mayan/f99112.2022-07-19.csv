@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Puttur,SdcShanthiTheatrePuttur,517583,Tamil,10:45,Premium,100₹,238,0
+Puttur,SdcShanthiTheatrePuttur,517583,Tamil,10:45,NonPremium,100₹,216,0
+Puttur,SdcShanthiTheatrePuttur,517583,Tamil,14:45,Premium,100₹,238,0
+Puttur,SdcShanthiTheatrePuttur,517583,Tamil,14:45,NonPremium,100₹,216,0
+Puttur,SdcShanthiTheatrePuttur,517583,Tamil,18:45,Premium,100₹,238,0
+Puttur,SdcShanthiTheatrePuttur,517583,Tamil,18:45,NonPremium,100₹,216,0
+Puttur,SdcShanthiTheatrePuttur,517583,Tamil,21:45,Premium,100₹,238,46
+Puttur,SdcShanthiTheatrePuttur,517583,Tamil,21:45,NonPremium,100₹,216,0
