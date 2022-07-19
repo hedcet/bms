@@ -1,0 +1,7 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,VinayakaCinemasScreen2MysoreRoad,560018,Tamil,10:45,GoldClass,100₹,81,0
+Bengaluru,VinayakaCinemasScreen2MysoreRoad,560018,Tamil,13:45,GoldClass,100₹,81,0
+Bengaluru,VinayakaCinemasScreen2MysoreRoad,560018,Tamil,16:45,GoldClass,100₹,81,0
+Madurai,InoxVishaalDeMall,625002,Tamil,18:35,Club,178₹,76,0
+Madurai,InoxVishaalDeMall,625002,Tamil,18:35,Executive,60₹,17,15
+Bengaluru,VinayakaCinemasScreen2MysoreRoad,560018,Tamil,19:45,GoldClass,100₹,81,0
