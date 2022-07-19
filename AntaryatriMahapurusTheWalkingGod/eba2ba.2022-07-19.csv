@@ -1,0 +1,4 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Alwar,GoldCinemaAlwar,301001,Hindi,09:15,Diamond,230₹,35,35
+Alwar,GoldCinemaAlwar,301001,Hindi,09:15,Gold,200₹,120,120
+Alwar,GoldCinemaAlwar,301001,Hindi,09:15,Silver,200₹,20,20
