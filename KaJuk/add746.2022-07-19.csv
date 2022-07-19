@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Shillong,BijouCinemaShillong,793001,Khasi,11:30,Balcony,200₹,365,0
+Shillong,BijouCinemaShillong,793001,Khasi,11:30,RearStall,150₹,245,0
+Shillong,BijouCinemaShillong,793001,Khasi,11:30,FrontStall,100₹,319,0
+Shillong,BijouCinemaShillong,793001,Khasi,14:00,Balcony,200₹,365,0
+Shillong,BijouCinemaShillong,793001,Khasi,14:00,RearStall,150₹,245,0
+Shillong,BijouCinemaShillong,793001,Khasi,14:00,FrontStall,100₹,319,0
+Shillong,BijouCinemaShillong,793001,Khasi,17:00,Balcony,200₹,365,0
+Shillong,BijouCinemaShillong,793001,Khasi,17:00,RearStall,150₹,245,0
+Shillong,BijouCinemaShillong,793001,Khasi,17:00,FrontStall,100₹,319,0
+Shillong,BijouCinemaShillong,793001,Khasi,19:15,Balcony,200₹,365,100
+Shillong,BijouCinemaShillong,793001,Khasi,19:15,RearStall,150₹,245,60
+Shillong,BijouCinemaShillong,793001,Khasi,19:15,FrontStall,100₹,319,34
