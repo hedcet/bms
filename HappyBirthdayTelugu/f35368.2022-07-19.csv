@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Godavarikhani,SrinivasaTheatreGodavarikhani,505209,Telugu,11:30,Balcony,110₹,210,0
+Godavarikhani,SrinivasaTheatreGodavarikhani,505209,Telugu,11:30,DressCircle,80₹,30,0
+Guntur,PvrTheCinemaGuntur,522001,Telugu,13:20,Premium,295₹,12,11
+Guntur,PvrTheCinemaGuntur,522001,Telugu,13:20,Deluxe,177₹,150,4
+Godavarikhani,SrinivasaTheatreGodavarikhani,505209,Telugu,14:30,Balcony,110₹,210,0
+Godavarikhani,SrinivasaTheatreGodavarikhani,505209,Telugu,14:30,DressCircle,80₹,30,0
+Hyderabad,PvrNexusMallKukatpallyHyderabad,500072,Telugu,16:20,Classic,175₹,135,135
+Hyderabad,PvrNexusMallKukatpallyHyderabad,500072,Telugu,16:20,Recliner,250₹,9,9
+Godavarikhani,SrinivasaTheatreGodavarikhani,505209,Telugu,18:30,Balcony,110₹,210,0
+Godavarikhani,SrinivasaTheatreGodavarikhani,505209,Telugu,18:30,DressCircle,80₹,30,0
+Godavarikhani,SrinivasaTheatreGodavarikhani,505209,Telugu,21:30,Balcony,110₹,210,0
+Godavarikhani,SrinivasaTheatreGodavarikhani,505209,Telugu,21:30,DressCircle,80₹,30,0
