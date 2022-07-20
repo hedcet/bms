@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bellary,UmaTheatreBellary,583101,Kannada,11:00,GoldClass,150₹,245,60
+Bengaluru,GopalanCinemasArcadeMallMysoreRoad,560098,Kannada,13:00,Gold,200₹,292,0
+Bengaluru,GopalanCinemasArcadeMallMysoreRoad,560098,Kannada,13:00,Recliner,300₹,19,0
+Bellary,UmaTheatreBellary,583101,Kannada,14:00,GoldClass,150₹,245,60
