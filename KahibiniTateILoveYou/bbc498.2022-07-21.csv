@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bhubaneswar,SwatiCineplexxDolbyAtmos,751001,Oriya,11:00,LuxuriousRecliner,300₹,32,1
+Bhubaneswar,SwatiCineplexxDolbyAtmos,751001,Oriya,11:00,SofaSlider,250₹,76,1
+Bhubaneswar,SwatiCineplexxDolbyAtmos,751001,Oriya,11:00,Diamond,200₹,192,0
+Bhubaneswar,SwatiCineplexxDolbyAtmos,751001,Oriya,11:00,Gold,150₹,75,0
+Kantabanji,AlishanCentralKantabanji,767026,Oriya,14:00,Recliner,400₹,9,0
+Kantabanji,AlishanCentralKantabanji,767026,Oriya,14:00,Preminum,200₹,48,0
+Kantabanji,AlishanCentralKantabanji,767026,Oriya,14:00,Executive,150₹,102,0
+Kantabanji,AlishanCentralKantabanji,767026,Oriya,14:00,Lounger,150₹,10,0
