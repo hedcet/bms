@@ -1,0 +1,12 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kolhapur,UrmilaChitraMandirKolhapur,416012,Marathi,12:30,Balcony,60₹,179,0
+Kolhapur,UrmilaChitraMandirKolhapur,416012,Marathi,12:30,Stall,50₹,241,0
+Kolhapur,UrmilaChitraMandirKolhapur,416012,Marathi,15:30,Balcony,60₹,179,0
+Kolhapur,UrmilaChitraMandirKolhapur,416012,Marathi,15:30,Stall,50₹,241,0
+Kolhapur,UrmilaChitraMandirKolhapur,416012,Marathi,18:30,Balcony,60₹,179,0
+Kolhapur,UrmilaChitraMandirKolhapur,416012,Marathi,18:30,Stall,50₹,241,0
+Mumbai,CinepolisVivianaMallThane,400606,Marathi,19:15,Normal,200₹,31,0
+Mumbai,CinepolisVivianaMallThane,400606,Marathi,19:15,Executive,220₹,104,0
+Mumbai,CinepolisVivianaMallThane,400606,Marathi,19:15,Premium,240₹,52,20
+Kolhapur,UrmilaChitraMandirKolhapur,416012,Marathi,21:30,Balcony,60₹,179,0
+Kolhapur,UrmilaChitraMandirKolhapur,416012,Marathi,21:30,Stall,50₹,241,0
