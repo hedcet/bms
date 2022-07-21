@@ -1,0 +1,8 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kolkata,PadmaCinemaKolkata,700110,Bengali,11:45,Balcony,70₹,96,0
+Jalpaiguri,CinebazzJalpaiguri,735101,Bengali,12:30,Premium,80₹,55,0
+Jalpaiguri,CinebazzJalpaiguri,735101,Bengali,12:30,Regular,80₹,11,0
+Jalpaiguri,CinebazzJalpaiguri,735101,Bengali,15:45,Premium,80₹,55,0
+Jalpaiguri,CinebazzJalpaiguri,735101,Bengali,15:45,Regular,80₹,11,0
+Jalpaiguri,CinebazzJalpaiguri,735101,Bengali,18:45,Premium,80₹,55,1
+Jalpaiguri,CinebazzJalpaiguri,735101,Bengali,18:45,Regular,80₹,11,0
