@@ -1,0 +1,17 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Thrissur,InoxSobhaCityMall,680553,Malayalam,11:00,RoyalRecliner,200₹,10,2
+Thrissur,InoxSobhaCityMall,680553,Malayalam,11:00,Club,130₹,66,2
+Thrissur,InoxSobhaCityMall,680553,Malayalam,11:00,Royal,130₹,28,15
+Thrissur,InoxSobhaCityMall,680553,Malayalam,11:00,Executive,100₹,20,0
+Kochi,PvrLuluKochi,682024,Malayalam,13:30,Classic,110₹,39,1
+Kochi,PvrLuluKochi,682024,Malayalam,13:30,ClassicPlus,140₹,91,10
+Kochi,PvrLuluKochi,682024,Malayalam,13:30,Prime,160₹,64,11
+Kochi,PvrLuluKochi,682024,Malayalam,13:30,Recliner,300₹,9,8
+Thrissur,InoxSobhaCityMall,680553,Malayalam,16:50,RoyalRecliner,290₹,10,0
+Thrissur,InoxSobhaCityMall,680553,Malayalam,16:50,Club,170₹,38,0
+Thrissur,InoxSobhaCityMall,680553,Malayalam,16:50,Royal,170₹,19,6
+Thrissur,InoxSobhaCityMall,680553,Malayalam,16:50,Executive,130₹,16,0
+Thrissur,InoxSobhaCityMall,680553,Malayalam,22:40,RoyalRecliner,290₹,10,0
+Thrissur,InoxSobhaCityMall,680553,Malayalam,22:40,Club,170₹,66,8
+Thrissur,InoxSobhaCityMall,680553,Malayalam,22:40,Royal,170₹,28,21
+Thrissur,InoxSobhaCityMall,680553,Malayalam,22:40,Executive,130₹,20,0
