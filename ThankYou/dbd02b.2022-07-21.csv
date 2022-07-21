@@ -1,0 +1,7 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+VizagVisakhapatnam,Jagadamba4KVizag,530020,Telugu,22:05,1Premium,145₹,276,276
+VizagVisakhapatnam,Jagadamba4KVizag,530020,Telugu,22:05,2Premium,145₹,310,310
+VizagVisakhapatnam,Jagadamba4KVizag,530020,Telugu,22:05,1NonPremium,100₹,217,217
+VizagVisakhapatnam,Jagadamba4KVizag,530020,Telugu,22:05,2NonPremium,100₹,213,213
+Tirupati,NvrSandhyaTheater4KDolbyAtmosTirupati,517501,Telugu,22:30,Diamond,145₹,444,337
+Tirupati,NvrSandhyaTheater4KDolbyAtmosTirupati,517501,Telugu,22:30,Gold,100₹,133,72
