@@ -1,0 +1,14 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kundapura,BharathCinemasKundapura,576222,Kannada,13:00,Gold,100₹,40,4
+Kundapura,BharathCinemasKundapura,576222,Kannada,13:00,Silver,100₹,41,0
+Kundapura,BharathCinemasKundapura,576222,Kannada,13:00,Special,100₹,48,0
+Shivamogga,BharathCinemasShivamogga,577201,Kannada,15:00,Vip,500₹,7,0
+Shivamogga,BharathCinemasShivamogga,577201,Kannada,15:00,Gold,200₹,99,12
+Shivamogga,BharathCinemasShivamogga,577201,Kannada,15:00,Silver,150₹,48,0
+Shivamogga,BharathCinemasShivamogga,577201,Kannada,15:00,Special,150₹,36,0
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,16:00,Classic,170₹,180,9
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,16:00,Prime,190₹,120,11
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,16:00,Recliner,350₹,36,6
+Kundapura,BharathCinemasKundapura,576222,Kannada,17:30,Gold,100₹,40,4
+Kundapura,BharathCinemasKundapura,576222,Kannada,17:30,Silver,100₹,41,0
+Kundapura,BharathCinemasKundapura,576222,Kannada,17:30,Special,100₹,48,0
