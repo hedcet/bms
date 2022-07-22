@@ -1,0 +1,11 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Chennai,RohiniSilverScreensKoyambedu,600107,Tamil,10:20,GoldStar,150₹,315,42
+Coimbatore,SpiTheCinemaBrookefieldsMall,641001,Tamil,12:15,Budget,60₹,19,0
+Coimbatore,SpiTheCinemaBrookefieldsMall,641001,Tamil,12:15,Elite,190₹,165,17
+Coimbatore,KgCinemasCoimbatore,641018,Tamil,13:30,Premium,179₹,95,8
+Coimbatore,KgCinemasCoimbatore,641018,Tamil,13:30,Comfort,148₹,53,6
+Chennai,LuxeCinemasChennai,600042,Tamil,18:20,Elite2D,190₹,190,32
+Chennai,LuxeCinemasChennai,600042,Tamil,18:20,Budget,60₹,34,0
+Chennai,PvrVrChennaiAnnaNagar,600040,Tamil,22:15,Classic,60₹,16,16
+Chennai,PvrVrChennaiAnnaNagar,600040,Tamil,22:15,Prime,165₹,110,30
+Chennai,RohiniSilverScreensKoyambedu,600107,Tamil,23:50,GoldStar,150₹,315,47
