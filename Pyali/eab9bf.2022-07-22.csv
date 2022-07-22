@@ -1,0 +1,12 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Chennai,LuxeCinemasChennai,600042,Malayalam,12:55,Elite2D,202₹,126,7
+Chennai,LuxeCinemasChennai,600042,Malayalam,12:55,Budget,63₹,14,0
+Chennai,MayajaalMultiplexEcrChennai,603112,Malayalam,15:00,FirstClass,202₹,134,0
+Bengaluru,GopalanMiniplexSignatureMallOldMadrasRoad,560093,Malayalam,16:15,Gold,236₹,65,0
+MangaluruMangalore,BharathCinemasMangalore,575013,Malayalam,17:00,Gold,200₹,47,6
+MangaluruMangalore,BharathCinemasMangalore,575013,Malayalam,17:00,Silver,180₹,33,0
+MangaluruMangalore,BharathCinemasMangalore,575013,Malayalam,17:00,Special,150₹,11,0
+Hyderabad,PvrCentralMallPanjagutta,500082,Malayalam,17:10,Classic,150₹,217,19
+Hyderabad,PvrCentralMallPanjagutta,500082,Malayalam,17:10,Recliner,250₹,17,4
+Bengaluru,GalaxyParadiseMiniplexBegurRoad,560068,Malayalam,18:40,Gold,150₹,100,21
+MysuruMysore,MysuruVisionCinemasBehindGrsFantasyPark,570016,Malayalam,21:00,Premier,150₹,206,0
