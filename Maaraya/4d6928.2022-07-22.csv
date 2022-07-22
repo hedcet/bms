@@ -1,0 +1,14 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,GopalanCinemasArcadeMallMysoreRoad,560098,Kannada,12:20,Gold,220₹,332,0
+Bengaluru,GopalanCinemasArcadeMallMysoreRoad,560098,Kannada,12:20,Sofa,220₹,21,0
+MysuruMysore,MysuruVisionCinemasBehindGrsFantasyPark,570016,Kannada,13:40,Premier,150₹,187,0
+MysuruMysore,DrcCinemasBmHabitatMall,570012,Kannada,13:45,Premium,160₹,182,0
+MysuruMysore,DrcCinemasBmHabitatMall,570012,Kannada,13:45,Luxury,200₹,18,0
+Bengaluru,GopalanMallSirsiCircle,560026,Kannada,14:20,Gold,180₹,179,0
+Bengaluru,GopalanMallSirsiCircle,560026,Kannada,14:20,Recliner,280₹,18,0
+Bengaluru,PvrTheCinemaGtWorldBengaluru,560023,Kannada,14:20,Classic,140₹,179,16
+Bengaluru,PvrTheCinemaGtWorldBengaluru,560023,Kannada,14:20,Recliner,280₹,16,0
+Bengaluru,CinepolisBinnypetMall,560023,Kannada,16:20,Executive,170₹,69,0
+Bengaluru,CinepolisBinnypetMall,560023,Kannada,16:20,Premium,170₹,33,4
+Bengaluru,MohanCinemaBarco4KAC71Sunkadakatte,560091,Kannada,19:15,Balcony,150₹,123,0
+Bengaluru,MohanCinemaBarco4KAC71Sunkadakatte,560091,Kannada,19:15,Secondclass,100₹,528,0
