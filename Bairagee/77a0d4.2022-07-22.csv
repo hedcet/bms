@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+MysuruMysore,SangamDigital2KTheatreDolby71Mysuru,570001,Kannada,10:30,Balcony,150₹,261,0
+MysuruMysore,SangamDigital2KTheatreDolby71Mysuru,570001,Kannada,10:30,FirstClass,100₹,662,0
+MysuruMysore,SangamDigital2KTheatreDolby71Mysuru,570001,Kannada,13:30,Balcony,150₹,261,18
+MysuruMysore,SangamDigital2KTheatreDolby71Mysuru,570001,Kannada,13:30,FirstClass,100₹,662,49
+MysuruMysore,SangamDigital2KTheatreDolby71Mysuru,570001,Kannada,16:30,Balcony,150₹,261,0
+MysuruMysore,SangamDigital2KTheatreDolby71Mysuru,570001,Kannada,16:30,FirstClass,100₹,662,1
+MysuruMysore,SangamDigital2KTheatreDolby71Mysuru,570001,Kannada,19:30,Balcony,150₹,261,0
+MysuruMysore,SangamDigital2KTheatreDolby71Mysuru,570001,Kannada,19:30,FirstClass,100₹,662,2
