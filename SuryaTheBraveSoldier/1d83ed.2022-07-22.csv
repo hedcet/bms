@@ -1,0 +1,11 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Siliguri,VishalCinemaSiliguri,734001,Hindi,12:40,DressCircle,100₹,35,0
+Siliguri,VishalCinemaSiliguri,734001,Hindi,12:40,Balcony,70₹,58,0
+Siliguri,BiswadeepTalkiesSiliguri,734001,Hindi,13:15,Balcony,60₹,56,0
+Siliguri,BiswadeepTalkiesSiliguri,734001,Hindi,13:15,Special,40₹,36,0
+Siliguri,VishalCinemaSiliguri,734001,Hindi,16:00,DressCircle,100₹,35,0
+Siliguri,VishalCinemaSiliguri,734001,Hindi,16:00,Balcony,70₹,58,0
+Siliguri,VishalCinemaSiliguri,734001,Hindi,19:00,DressCircle,100₹,35,2
+Siliguri,VishalCinemaSiliguri,734001,Hindi,19:00,Balcony,70₹,58,0
+Siliguri,BiswadeepTalkiesSiliguri,734001,Hindi,19:15,Balcony,60₹,56,0
+Siliguri,BiswadeepTalkiesSiliguri,734001,Hindi,19:15,Special,40₹,36,0
