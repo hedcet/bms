@@ -1,0 +1,12 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Amritsar,InoxVrAmbarsarAmritsar,143001,Punjabi,09:20,Normal,130₹,267,14
+Ludhiana,PvrPavilionLudhiana,141001,Punjabi,11:05,Classic,99₹,64,2
+Jalandhar,PvrCuroJalandhar,144022,Punjabi,12:30,Classic,99₹,27,0
+Jalandhar,PvrCuroJalandhar,144022,Punjabi,12:30,ClassicPlus,99₹,30,5
+Jalandhar,PvrCuroJalandhar,144022,Punjabi,12:30,Prime,149₹,40,0
+Jalandhar,PvrFriendsJalandhar,144001,Punjabi,14:50,Classic,99₹,32,0
+Jalandhar,PvrFriendsJalandhar,144001,Punjabi,14:50,Prime,99₹,56,20
+Jalandhar,PvrFriendsJalandhar,144001,Punjabi,14:50,Recliner,149₹,8,6
+Amritsar,PvrSctAmritsar,143001,Punjabi,22:45,Classic,99₹,103,4
+Amritsar,PvrSctAmritsar,143001,Punjabi,22:45,Prime,99₹,60,22
+Amritsar,PvrSctAmritsar,143001,Punjabi,22:45,Recliner,149₹,11,4
