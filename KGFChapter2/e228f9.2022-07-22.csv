@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Ludhiana,MiniChandCinemaLudhiana,141008,Hindi,10:00,Gold,70₹,71,0
+Jhansi,EliteCinemaJhansi,284001,Hindi,12:00,Balcony,100₹,66,0
+Ludhiana,MiniChandCinemaLudhiana,141008,Hindi,13:00,Gold,70₹,71,0
+Jhansi,EliteCinemaJhansi,284001,Hindi,15:00,Balcony,100₹,66,0
+Ludhiana,MiniChandCinemaLudhiana,141008,Hindi,16:00,Gold,70₹,71,2
+Jhansi,EliteCinemaJhansi,284001,Hindi,18:00,Balcony,100₹,66,2
+Ludhiana,MiniChandCinemaLudhiana,141008,Hindi,19:00,Gold,70₹,71,5
+Jhansi,EliteCinemaJhansi,284001,Hindi,21:15,Balcony,100₹,66,0
