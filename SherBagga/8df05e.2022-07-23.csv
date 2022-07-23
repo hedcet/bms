@@ -1,0 +1,4 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+NationalCapitalRegionNcr,PvrPacificSubhashNagarDelhi,110018,Punjabi,22:50,Prime,199₹,88,75
+NationalCapitalRegionNcr,PvrPacificSubhashNagarDelhi,110018,Punjabi,22:50,Classic,149₹,52,4
+NationalCapitalRegionNcr,PvrLogixNoida,201301,Punjabi,22:50,Classic,99₹,94,2
