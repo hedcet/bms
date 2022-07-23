@@ -1,0 +1,17 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Indore,AastthaCinemaIndore,452011,Hindi,09:00,Balcony,110₹,366,69
+Alwar,GoldCinemaAlwar,301001,Hindi,09:15,Diamond,230₹,35,35
+Alwar,GoldCinemaAlwar,301001,Hindi,09:15,Gold,200₹,120,120
+Alwar,GoldCinemaAlwar,301001,Hindi,09:15,Silver,200₹,20,20
+Kota,InoxAhluwaliasGreatMallKota,324005,Hindi,09:30,Club,200₹,93,0
+Kota,InoxAhluwaliasGreatMallKota,324005,Hindi,09:30,Executive,200₹,45,0
+Kota,InoxAhluwaliasGreatMallKota,324005,Hindi,09:30,Royale,200₹,45,22
+Indore,InoxC21Mall,452010,Hindi,11:40,Normal,200₹,173,29
+Ajmer,InoxCitySquareMallAjmer,305004,Hindi,19:05,Club,250₹,76,6
+Ajmer,InoxCitySquareMallAjmer,305004,Hindi,19:05,Executive,250₹,38,0
+Ajmer,InoxCitySquareMallAjmer,305004,Hindi,19:05,Platinum,250₹,85,62
+Ajmer,InoxCitySquareMallAjmer,305004,Hindi,19:05,Royale,250₹,39,39
+Kota,InoxAhluwaliasGreatMallKota,324005,Hindi,19:25,Club,250₹,93,92
+Kota,InoxAhluwaliasGreatMallKota,324005,Hindi,19:25,Executive,250₹,45,24
+Kota,InoxAhluwaliasGreatMallKota,324005,Hindi,19:25,Royale,250₹,46,46
+Indore,InoxC21Mall,452010,Hindi,19:25,Normal,250₹,171,37
