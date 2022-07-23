@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Parvathipuram,SowndaryaDeluxe2KACParvathipuram,535501,Telugu,10:30,Premium,112₹,438,0
+Anakapalle,SriSatyanarayanaPicturePalaceAcDtsAnakapall,531001,Telugu,11:00,FirstClass,147₹,160,0
+Anakapalle,SriSatyanarayanaPicturePalaceAcDtsAnakapall,531001,Telugu,11:00,FirstClass,147₹,160,0
+Anakapalle,SriSatyanarayanaPicturePalaceAcDtsAnakapall,531001,Telugu,11:00,2ndClass,100₹,160,0
+Srikakulam,MithraMovieMaxSrikakulam,532001,Telugu,11:00,Balcony,147₹,46,0
+Anakapalle,SriSatyanarayanaPicturePalaceAcDtsAnakapall,531001,Telugu,14:30,FirstClass,147₹,160,0
+Anakapalle,SriSatyanarayanaPicturePalaceAcDtsAnakapall,531001,Telugu,14:30,FirstClass,147₹,160,0
+Anakapalle,SriSatyanarayanaPicturePalaceAcDtsAnakapall,531001,Telugu,14:30,2ndClass,100₹,160,0
+Srikakulam,MithraMovieMaxSrikakulam,532001,Telugu,14:30,Balcony,147₹,46,0
+Parvathipuram,SowndaryaDeluxe2KACParvathipuram,535501,Telugu,14:30,Premium,112₹,438,0
+Parvathipuram,SowndaryaDeluxe2KACParvathipuram,535501,Telugu,18:30,Premium,112₹,438,15
+Parvathipuram,SowndaryaDeluxe2KACParvathipuram,535501,Telugu,21:30,Premium,112₹,438,40
