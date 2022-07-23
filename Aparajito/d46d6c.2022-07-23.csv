@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Hooghly,RabindraManchaBhadreswar,712124,Bengali,13:00,Balcony,99₹,50,0
+Hooghly,RabindraManchaBhadreswar,712124,Bengali,13:00,RearStall,50₹,50,0
+Hooghly,RabindraManchaBhadreswar,712124,Bengali,16:00,Balcony,99₹,50,0
+Hooghly,RabindraManchaBhadreswar,712124,Bengali,16:00,RearStall,50₹,50,0
+Kolkata,PvrDiamondPlazaJessoreKolkata,700055,Bengali,16:55,Classic,99₹,210,33
+Kolkata,PvrDiamondPlazaJessoreKolkata,700055,Bengali,16:55,Prime,99₹,11,9
+Kolkata,PvrDiamondPlazaJessoreKolkata,700055,Bengali,16:55,Recliner,149₹,12,9
+Hooghly,RabindraManchaBhadreswar,712124,Bengali,18:30,Balcony,99₹,50,0
+Hooghly,RabindraManchaBhadreswar,712124,Bengali,18:30,RearStall,50₹,50,0
+Kolkata,InoxSouthCityKolkata,700068,Bengali,19:55,Rr,450₹,16,2
+Kolkata,InoxSouthCityKolkata,700068,Bengali,19:55,Silver,250₹,165,30
+Kolkata,InoxSouthCityKolkata,700068,Bengali,19:55,Premier,230₹,32,0
