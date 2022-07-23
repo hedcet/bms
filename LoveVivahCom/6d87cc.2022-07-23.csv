@@ -1,0 +1,11 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Sitamarhi,NutanPicturePalaceSitamarhi,843302,Bhojpuri,12:15,DressCircle,60₹,98,0
+Sitamarhi,NutanPicturePalaceSitamarhi,843302,Bhojpuri,15:15,DressCircle,60₹,98,2
+Jaunpur,RamChitraMandirJaunpur,222001,Bhojpuri,15:15,DiamondAc,100₹,120,0
+Jaunpur,RamChitraMandirJaunpur,222001,Bhojpuri,15:15,GoldNonAc,80₹,160,0
+Sitamarhi,NutanPicturePalaceSitamarhi,843302,Bhojpuri,18:15,DressCircle,60₹,98,0
+Jaunpur,RamChitraMandirJaunpur,222001,Bhojpuri,18:15,DiamondAc,100₹,120,0
+Jaunpur,RamChitraMandirJaunpur,222001,Bhojpuri,18:15,GoldNonAc,80₹,160,0
+Jaunpur,RamChitraMandirJaunpur,222001,Bhojpuri,21:00,DiamondAc,100₹,120,0
+Jaunpur,RamChitraMandirJaunpur,222001,Bhojpuri,21:00,GoldNonAc,80₹,160,0
+Sitamarhi,NutanPicturePalaceSitamarhi,843302,Bhojpuri,21:15,DressCircle,60₹,98,0
