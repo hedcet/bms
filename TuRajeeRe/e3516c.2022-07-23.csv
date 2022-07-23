@@ -1,0 +1,7 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Himmatnagar,McrCinemaHimmatnagar,383001,Gujarati,12:30,Gold,120₹,48,0
+Himmatnagar,McrCinemaHimmatnagar,383001,Gujarati,15:30,Gold,120₹,48,0
+Junagadh,SurajCineplexJunagadh,362001,Gujarati,18:15,Sofa,180₹,20,20
+Junagadh,SurajCineplexJunagadh,362001,Gujarati,18:15,Executive,160₹,70,70
+Himmatnagar,McrCinemaHimmatnagar,383001,Gujarati,18:30,Gold,120₹,48,0
+Himmatnagar,McrCinemaHimmatnagar,383001,Gujarati,21:30,Gold,120₹,48,0
