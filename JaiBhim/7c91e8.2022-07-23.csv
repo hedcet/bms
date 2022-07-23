@@ -1,0 +1,11 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Madurai,MidlaandCinemasAC4KDolbyDigital71Madurai,625016,Tamil,07:00,Balcony,120₹,133,17
+Madurai,MidlaandCinemasAC4KDolbyDigital71Madurai,625016,Tamil,07:00,FirstClass,100₹,157,71
+Madurai,MidlaandCinemasAC4KDolbyDigital71Madurai,625016,Tamil,07:00,SecondClass,100₹,86,86
+Madurai,MidlaandCinemasAC4KDolbyDigital71Madurai,625016,Tamil,07:00,ThirdClass,100₹,43,43
+Chennai,GreenCinemas4KAtmosPlfRadhaTheatrePadi,600050,Tamil,12:00,Diamond,110₹,110,40
+Chennai,GreenCinemas4KAtmosPlfRadhaTheatrePadi,600050,Tamil,12:00,Pearl,110₹,24,0
+Theni,TheatreFathumaTheni,625531,Tamil,18:15,FirstClass,80₹,368,18
+Chennai,GreenCinemas4KAtmosPlfRadhaTheatrePadi,600050,Tamil,18:45,Diamond,110₹,292,49
+Chennai,GreenCinemas4KAtmosPlfRadhaTheatrePadi,600050,Tamil,18:45,Pearl,110₹,66,3
+Theni,TheatreFathumaTheni,625531,Tamil,22:15,FirstClass,80₹,368,18
