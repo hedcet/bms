@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+NationalCapitalRegionNcr,CinepolisDlfAvenueSaket,110017,Hindi,09:20,Normal,150₹,42,42
+NationalCapitalRegionNcr,CinepolisDlfAvenueSaket,110017,Hindi,09:20,Executive,150₹,59,46
+NationalCapitalRegionNcr,CinepolisDlfAvenueSaket,110017,Hindi,09:20,Premium,150₹,45,13
+NationalCapitalRegionNcr,CinepolisDlfAvenueSaket,110017,Hindi,09:20,Vip,300₹,10,2
