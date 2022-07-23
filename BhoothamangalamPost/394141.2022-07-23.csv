@@ -1,0 +1,8 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Chennai,SreeThulasiTheatreThiruvallur,602001,Tamil,11:00,FirstClass,80₹,216,0
+Chennai,SreeThulasiTheatreThiruvallur,602001,Tamil,11:00,SecondClass,80₹,270,0
+Chennai,AgsCinemasMaduravoyal,600095,Tamil,13:00,Diamond,150₹,262,54
+Chennai,AgsCinemasMaduravoyal,600095,Tamil,13:00,Pearl,60₹,31,31
+Madurai,GaneshCinemasMelur,625106,Tamil,14:30,Balcony,100₹,83,0
+Chennai,AgsCinemasVillivakkam,600049,Tamil,15:05,Diamond,150₹,113,0
+Chennai,AgsCinemasVillivakkam,600049,Tamil,15:05,Diamond,150₹,147,17
