@@ -1,0 +1,17 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Dindigul,RajendraCinemas4KDolbyAtmosDindigul,624004,Tamil,08:00,Elite,120₹,114,71
+Dindigul,RajendraCinemas4KDolbyAtmosDindigul,624004,Tamil,08:00,Platinum,100₹,269,241
+Dindigul,RajendraCinemas4KDolbyAtmosDindigul,624004,Tamil,08:00,Diamond,100₹,308,99
+Dindigul,RajendraCinemas4KDolbyAtmosDindigul,624004,Tamil,08:00,Golden,100₹,84,0
+Chennai,GreenCinemas4KAtmosPlfRadhaTheatrePadi,600050,Tamil,08:00,Diamond,110₹,292,90
+Chennai,GreenCinemas4KAtmosPlfRadhaTheatrePadi,600050,Tamil,08:00,Pearl,110₹,66,0
+Chennai,GreenCinemas4KAtmosPlfRadhaTheatrePadi,600050,Tamil,15:15,Diamond,110₹,292,289
+Chennai,GreenCinemas4KAtmosPlfRadhaTheatrePadi,600050,Tamil,15:15,Pearl,110₹,66,38
+Chennai,GreenCinemas4KAtmosPlfRadhaTheatrePadi,600050,Tamil,18:50,Diamond,110₹,292,254
+Chennai,GreenCinemas4KAtmosPlfRadhaTheatrePadi,600050,Tamil,18:50,Pearl,110₹,66,0
+Dindigul,UmaaRajendraCinemas4KDolbyAtmos,624004,Tamil,22:00,Elite,120₹,114,40
+Dindigul,UmaaRajendraCinemas4KDolbyAtmos,624004,Tamil,22:00,Platinum,100₹,269,74
+Dindigul,UmaaRajendraCinemas4KDolbyAtmos,624004,Tamil,22:00,Diamond,100₹,308,0
+Dindigul,UmaaRajendraCinemas4KDolbyAtmos,624004,Tamil,22:00,Golden,100₹,84,0
+Chennai,GreenCinemas4KAtmosPlfRadhaTheatrePadi,600050,Tamil,22:15,Diamond,110₹,292,51
+Chennai,GreenCinemas4KAtmosPlfRadhaTheatrePadi,600050,Tamil,22:15,Pearl,110₹,66,0
