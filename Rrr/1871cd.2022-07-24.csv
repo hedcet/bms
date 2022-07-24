@@ -1,0 +1,11 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Jalgaon,AshokCinemaJalgaon,425001,Hindi,12:00,Balcony,100₹,189,32
+Jalgaon,AshokCinemaJalgaon,425001,Hindi,12:00,FClass,50₹,562,50
+Chandrapur,RajkalaCineplexChandrapur,442403,Hindi,12:15,Platinum,150₹,181,55
+Chandrapur,RajkalaCineplexChandrapur,442403,Hindi,12:15,Gold,100₹,190,48
+Chandrapur,RajkalaCineplexChandrapur,442403,Hindi,15:15,Platinum,150₹,181,55
+Chandrapur,RajkalaCineplexChandrapur,442403,Hindi,15:15,Gold,100₹,190,48
+Chandrapur,RajkalaCineplexChandrapur,442403,Hindi,18:15,Platinum,150₹,181,55
+Chandrapur,RajkalaCineplexChandrapur,442403,Hindi,18:15,Gold,100₹,190,48
+Chandrapur,RajkalaCineplexChandrapur,442403,Hindi,21:15,Platinum,150₹,181,59
+Chandrapur,RajkalaCineplexChandrapur,442403,Hindi,21:15,Gold,100₹,190,51
