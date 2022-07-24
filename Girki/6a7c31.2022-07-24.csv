@@ -1,0 +1,7 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Belur,SriRenukaTalkiesBelur,573115,Kannada,10:00,Balcony,120₹,48,24
+Belur,SriRenukaTalkiesBelur,573115,Kannada,10:00,FirstClass,100₹,310,210
+Belur,SriRenukaTalkiesBelur,573115,Kannada,13:00,Balcony,120₹,124,0
+Belur,SriRenukaTalkiesBelur,573115,Kannada,13:00,FirstClass,100₹,124,0
+Bengaluru,SiddalingeshwaraAC4K3DDolbyDigitalJPNagar,560078,Kannada,16:15,DiamondClass,150₹,245,29
+Bengaluru,SiddalingeshwaraAC4K3DDolbyDigitalJPNagar,560078,Kannada,16:15,Gold,110₹,356,0
