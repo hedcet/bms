@@ -1,0 +1,8 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Chennai,PvrAmpaMallNelsonManickamRoad,600029,Malayalam,11:40,Classic,63₹,17,1
+Chennai,PvrAmpaMallNelsonManickamRoad,600029,Malayalam,11:40,Prime,202₹,130,23
+NationalCapitalRegionNcr,PvrLogixNoida,201301,Malayalam,17:55,Classic,330₹,78,32
+Bengaluru,PvrMsrElementsMallTanisandhraMainRoad,560077,Malayalam,19:30,Classic,240₹,114,7
+Mumbai,PvrOrionMallPanvel,410206,Malayalam,20:45,Classic,210₹,20,0
+Mumbai,PvrOrionMallPanvel,410206,Malayalam,20:45,Prime,230₹,98,18
+Mumbai,PvrOrionMallPanvel,410206,Malayalam,20:45,PrimePlus,260₹,27,12
