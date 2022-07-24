@@ -1,0 +1,7 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Palakkad,SreeDeviDurgaVCinemasPalakkad,678001,Tamil,14:15,GoldCircle,115₹,248,0
+Palakkad,SreeDeviDurgaVCinemasPalakkad,678001,Tamil,14:15,SilverCircle,100₹,310,21
+Palakkad,SreeDeviDurgaVCinemasPalakkad,678001,Tamil,17:45,GoldCircle,115₹,248,0
+Palakkad,SreeDeviDurgaVCinemasPalakkad,678001,Tamil,17:45,SilverCircle,100₹,310,0
+Palakkad,SreeDeviDurgaVCinemasPalakkad,678001,Tamil,21:00,GoldCircle,115₹,248,0
+Palakkad,SreeDeviDurgaVCinemasPalakkad,678001,Tamil,21:00,SilverCircle,100₹,310,0
