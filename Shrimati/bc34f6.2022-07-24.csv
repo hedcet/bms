@@ -1,0 +1,10 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Haldia,SvfCinemasHaldia,721657,Bengali,17:00,Silver,99₹,32,0
+Haldia,SvfCinemasHaldia,721657,Bengali,17:00,Gold,149₹,108,0
+Haldia,SvfCinemasHaldia,721657,Bengali,17:00,Platinum,169₹,146,0
+Kolkata,AtindraCinemaKolkata,700120,Bengali,19:15,Recliner,150₹,74,48
+Kolkata,InoxSouthCityKolkata,700068,Bengali,19:50,Silver,250₹,166,40
+Kolkata,InoxSouthCityKolkata,700068,Bengali,19:50,Premier,230₹,34,0
+Kolkata,SvfCinemasWoodSquareMallNarendrapur,700103,Bengali,20:45,Gold,99₹,36,0
+Kolkata,SvfCinemasWoodSquareMallNarendrapur,700103,Bengali,20:45,Platinum,99₹,85,3
+Kolkata,SvfCinemasWoodSquareMallNarendrapur,700103,Bengali,20:45,Royal,99₹,15,13
