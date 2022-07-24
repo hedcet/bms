@@ -1,0 +1,16 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Berachampa,BanirupaCinemaBerachampa,743424,Bengali,12:00,AcClass,90₹,50,0
+Berachampa,BanirupaCinemaBerachampa,743424,Bengali,12:00,UpperStall,60₹,50,0
+Berachampa,BanirupaCinemaBerachampa,743424,Bengali,12:00,LowerStall,50₹,100,0
+DakshinBarasat,MahamayaTalkiesDakshinBarasat,743372,Bengali,13:00,GoldClass,100₹,89,0
+DakshinBarasat,MahamayaTalkiesDakshinBarasat,743372,Bengali,13:00,SilverClass,70₹,312,0
+Berachampa,BanirupaCinemaBerachampa,743424,Bengali,14:45,AcClass,90₹,50,0
+Berachampa,BanirupaCinemaBerachampa,743424,Bengali,14:45,UpperStall,60₹,50,0
+Berachampa,BanirupaCinemaBerachampa,743424,Bengali,14:45,LowerStall,50₹,100,0
+DakshinBarasat,MahamayaTalkiesDakshinBarasat,743372,Bengali,16:00,GoldClass,100₹,89,2
+DakshinBarasat,MahamayaTalkiesDakshinBarasat,743372,Bengali,16:00,SilverClass,70₹,312,0
+Berachampa,BanirupaCinemaBerachampa,743424,Bengali,17:30,AcClass,90₹,50,0
+Berachampa,BanirupaCinemaBerachampa,743424,Bengali,17:30,UpperStall,60₹,50,0
+Berachampa,BanirupaCinemaBerachampa,743424,Bengali,17:30,LowerStall,50₹,100,0
+DakshinBarasat,MahamayaTalkiesDakshinBarasat,743372,Bengali,18:45,GoldClass,100₹,89,0
+DakshinBarasat,MahamayaTalkiesDakshinBarasat,743372,Bengali,18:45,SilverClass,70₹,312,0
