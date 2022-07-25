@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Siruguppa,RamakrishnaPicturePalaceSiruguppa,583121,Kannada,11:15,Balcony,100₹,243,0
+Siruguppa,RamakrishnaPicturePalaceSiruguppa,583121,Kannada,11:15,2ndClass,70₹,170,0
+Siruguppa,RamakrishnaPicturePalaceSiruguppa,583121,Kannada,14:15,Balcony,100₹,243,0
+Siruguppa,RamakrishnaPicturePalaceSiruguppa,583121,Kannada,14:15,2ndClass,70₹,170,0
+Bengaluru,AkashCinemasLaggere,560058,Kannada,16:30,VipBox,150₹,44,0
+Bengaluru,AkashCinemasLaggere,560058,Kannada,16:30,SilverClass,100₹,390,0
+Siruguppa,RamakrishnaPicturePalaceSiruguppa,583121,Kannada,17:15,Balcony,100₹,243,0
+Siruguppa,RamakrishnaPicturePalaceSiruguppa,583121,Kannada,17:15,2ndClass,70₹,170,0
+Bengaluru,AkashCinemasLaggere,560058,Kannada,19:30,VipBox,150₹,44,0
+Bengaluru,AkashCinemasLaggere,560058,Kannada,19:30,SilverClass,100₹,390,0
+Siruguppa,RamakrishnaPicturePalaceSiruguppa,583121,Kannada,20:15,Balcony,100₹,243,0
+Siruguppa,RamakrishnaPicturePalaceSiruguppa,583121,Kannada,20:15,2ndClass,70₹,170,13
