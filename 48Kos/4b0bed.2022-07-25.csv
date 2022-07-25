@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kurukshetra,DivineCineplexKurukshetra,136118,Hindi,18:00,Silver,130₹,55,0
+Kurukshetra,DivineCineplexKurukshetra,136118,Hindi,18:00,Gold,130₹,111,23
+Kurukshetra,DivineCineplexKurukshetra,136118,Hindi,18:00,Diamond,150₹,63,19
+Kurukshetra,DivineCineplexKurukshetra,136118,Hindi,18:00,Recliner,400₹,15,0
