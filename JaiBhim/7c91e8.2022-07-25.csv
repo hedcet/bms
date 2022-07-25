@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Theni,TheatreFathumaTheni,625531,Tamil,18:15,FirstClass,80₹,368,18
+Chennai,GreenCinemas4KAtmosRadhaTheatrePadi,600050,Tamil,19:00,Diamond,110₹,110,24
+Chennai,GreenCinemas4KAtmosRadhaTheatrePadi,600050,Tamil,19:00,Pearl,110₹,24,0
+Theni,TheatreFathumaTheni,625531,Tamil,22:15,FirstClass,80₹,368,18
