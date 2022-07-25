@@ -1,0 +1,11 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,GopalanMallSirsiCircle,560026,Kannada,11:15,Gold,160₹,179,0
+Bengaluru,GopalanMallSirsiCircle,560026,Kannada,11:15,Recliner,260₹,18,0
+Bengaluru,GopalanCinemasArcadeMallMysoreRoad,560098,Kannada,12:20,Gold,200₹,332,0
+Bengaluru,GopalanCinemasArcadeMallMysoreRoad,560098,Kannada,12:20,Sofa,200₹,21,0
+Bengaluru,PvrTheCinemaGtWorldBengaluru,560023,Kannada,14:20,Classic,112₹,179,11
+Bengaluru,PvrTheCinemaGtWorldBengaluru,560023,Kannada,14:20,Recliner,230₹,16,1
+Bengaluru,CinepolisBinnypetMall,560023,Kannada,15:35,Executive,110₹,69,0
+Bengaluru,CinepolisBinnypetMall,560023,Kannada,15:35,Premium,110₹,29,0
+Bengaluru,MohanCinemaBarco4KAC71Sunkadakatte,560091,Kannada,19:15,Balcony,150₹,123,0
+Bengaluru,MohanCinemaBarco4KAC71Sunkadakatte,560091,Kannada,19:15,Secondclass,100₹,528,0
