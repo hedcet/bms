@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bhavnagar,Top3MultiplexBhavnagar,364002,Gujarati,13:00,Gold,120₹,70,0
+Bhavnagar,Top3MultiplexBhavnagar,364002,Gujarati,13:00,Silver,100₹,54,0
+Rajkot,CosmoplexMultiplexRajkot,360001,Gujarati,13:45,Crew,170₹,10,0
+Himmatnagar,McrCinemaHimmatnagar,383001,Gujarati,15:30,Gold,120₹,48,0
+Bhavnagar,Top3MultiplexBhavnagar,364002,Gujarati,16:30,Gold,120₹,68,68
+Bhavnagar,Top3MultiplexBhavnagar,364002,Gujarati,16:30,Silver,100₹,56,56
+Himmatnagar,McrCinemaHimmatnagar,383001,Gujarati,18:30,Gold,120₹,48,0
+Bhavnagar,Top3MultiplexBhavnagar,364002,Gujarati,19:15,Gold,130₹,70,0
+Bhavnagar,Top3MultiplexBhavnagar,364002,Gujarati,19:15,Silver,110₹,54,0
+Mumbai,MovieMaxSion,400022,Gujarati,21:45,Classic,200₹,46,6
+Mumbai,MovieMaxSion,400022,Gujarati,21:45,Prime,220₹,169,169
+Mumbai,MovieMaxSion,400022,Gujarati,21:45,PrimePlus,250₹,12,2
