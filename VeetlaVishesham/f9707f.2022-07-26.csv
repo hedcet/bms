@@ -1,0 +1,7 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Chennai,PvrAmpaMallNelsonManickamRoad,600029,Tamil,12:00,Classic,60₹,17,11
+Chennai,PvrAmpaMallNelsonManickamRoad,600029,Tamil,12:00,Prime,165₹,130,13
+Chennai,PvrVrChennaiAnnaNagar,600040,Tamil,15:35,Classic,60₹,16,16
+Chennai,PvrVrChennaiAnnaNagar,600040,Tamil,15:35,Prime,165₹,110,42
+Chennai,SpiEscapeExpressAvenueMallRoyapettah,600014,Tamil,18:45,Budget,60₹,11,11
+Chennai,SpiEscapeExpressAvenueMallRoyapettah,600014,Tamil,18:45,Elite,165₹,99,10
