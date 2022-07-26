@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,GopalanMiniplexSignatureMallOldMadrasRoad,560093,Malayalam,16:15,Gold,170₹,65,0
+Hyderabad,PvrCentralMallPanjagutta,500082,Malayalam,17:10,Classic,150₹,217,22
+Hyderabad,PvrCentralMallPanjagutta,500082,Malayalam,17:10,Recliner,250₹,17,6
+MysuruMysore,MysuruVisionCinemasBehindGrsFantasyPark,570016,Malayalam,19:00,Premier,150₹,286,2
