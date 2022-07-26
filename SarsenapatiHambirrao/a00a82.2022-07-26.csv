@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Pune,FunTimeMultiplexSinhagadRoad,411041,Marathi,11:00,Gold,160₹,323,6
+Pune,FunTimeMultiplexSinhagadRoad,411041,Marathi,11:00,Silver,160₹,32,0
+Pune,FunTimeMultiplexSinhagadRoad,411041,Marathi,20:30,Gold,200₹,323,12
+Pune,FunTimeMultiplexSinhagadRoad,411041,Marathi,20:30,Silver,200₹,32,0
