@@ -1,0 +1,10 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Vijayawada,InoxLeplIconPatamata,520010,Telugu,10:40,Royal,295₹,12,5
+Vijayawada,InoxLeplIconPatamata,520010,Telugu,10:40,Club,177₹,213,13
+Kodad,KrishnaPriyaTheatreKodad,508206,Telugu,11:15,Balcony,100₹,120,0
+Hyderabad,PvrForumSujanaMallKukatpallyHyderabad,500072,Telugu,11:25,Classic,150₹,135,30
+Hyderabad,PvrForumSujanaMallKukatpallyHyderabad,500072,Telugu,11:25,Recliner,250₹,9,0
+Kodad,KrishnaPriyaTheatreKodad,508206,Telugu,14:15,Balcony,100₹,120,0
+Kurnool,InoxJyotiMallKurnool,518001,Telugu,14:40,Executive,177₹,247,21
+Kodad,KrishnaPriyaTheatreKodad,508206,Telugu,18:15,Balcony,100₹,120,0
+Kodad,KrishnaPriyaTheatreKodad,508206,Telugu,21:15,Balcony,100₹,120,0
