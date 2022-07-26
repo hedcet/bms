@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Chennai,GreenCinemas4KAtmosRadhaTheatrePadi,600050,Tamil,11:45,Diamond,110₹,292,59
+Chennai,GreenCinemas4KAtmosRadhaTheatrePadi,600050,Tamil,11:45,Pearl,110₹,66,0
+Chennai,GreenCinemas4KAtmosPlfRadhaTheatrePadi,600050,Tamil,15:15,Diamond,110₹,292,97
+Chennai,GreenCinemas4KAtmosPlfRadhaTheatrePadi,600050,Tamil,15:15,Pearl,110₹,66,0
+Chennai,GreenCinemas4KAtmosPlfRadhaTheatrePadi,600050,Tamil,18:45,Diamond,110₹,292,64
+Chennai,GreenCinemas4KAtmosPlfRadhaTheatrePadi,600050,Tamil,18:45,Pearl,110₹,66,0
+Chennai,GreenCinemas4KAtmosRadhaTheatrePadi,600050,Tamil,22:15,Diamond,110₹,292,64
+Chennai,GreenCinemas4KAtmosRadhaTheatrePadi,600050,Tamil,22:15,Pearl,110₹,66,0
