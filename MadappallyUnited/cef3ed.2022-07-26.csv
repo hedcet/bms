@@ -1,0 +1,6 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Mumbai,PvrOrionMallPanvel,410206,Malayalam,17:45,Classic,130₹,20,0
+Mumbai,PvrOrionMallPanvel,410206,Malayalam,17:45,Prime,150₹,98,14
+Mumbai,PvrOrionMallPanvel,410206,Malayalam,17:45,PrimePlus,170₹,27,0
+NationalCapitalRegionNcr,PvrLogixNoida,201301,Malayalam,17:55,Classic,225₹,78,0
+Bengaluru,PvrMsrElementsMallTanisandhraMainRoad,560077,Malayalam,19:30,Classic,170₹,114,0
