@@ -1,0 +1,17 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Chikkaballapur,BalajiTalkiesChikkaballapura,562101,Kannada,10:00,Balcony,120₹,171,0
+Bengaluru,SlnTheatreHesaraghattaDolby71Atmos,562123,Kannada,11:00,Balcony,100₹,66,0
+Chikkaballapur,BalajiTalkiesChikkaballapura,562101,Kannada,13:00,Balcony,120₹,171,0
+Bengaluru,PrasannaDigital4KCinemaMagadiRoad,560023,Kannada,13:30,Gold,110₹,249,4
+Bengaluru,PrasannaDigital4KCinemaMagadiRoad,560023,Kannada,13:30,Silver,100₹,670,84
+Bengaluru,SlnTheatreHesaraghattaDolby71Atmos,562123,Kannada,14:00,Balcony,100₹,66,0
+Chikkaballapur,BalajiTalkiesChikkaballapura,562101,Kannada,16:00,Balcony,120₹,171,0
+Udupi,DianaTheatreUdupi,576101,Kannada,16:30,FirstClass,70₹,100,0
+Bengaluru,PrasannaDigital4KCinemaMagadiRoad,560023,Kannada,16:30,Gold,110₹,249,4
+Bengaluru,PrasannaDigital4KCinemaMagadiRoad,560023,Kannada,16:30,Silver,100₹,670,81
+Bengaluru,SlnTheatreDolby71Hesaraghatta,562123,Kannada,18:00,Balcony,100₹,66,0
+Chikkaballapur,BalajiTalkiesChikkaballapura,562101,Kannada,19:00,Balcony,120₹,171,0
+Udupi,DianaTheatreUdupi,576101,Kannada,19:30,FirstClass,70₹,100,0
+Bengaluru,PrasannaDigital4KCinemaMagadiRoad,560023,Kannada,19:30,Gold,110₹,249,1
+Bengaluru,PrasannaDigital4KCinemaMagadiRoad,560023,Kannada,19:30,Silver,100₹,670,80
+Bengaluru,SlnTheatreHesaraghattaDolby71Atmos,562123,Kannada,21:00,Balcony,100₹,66,0
