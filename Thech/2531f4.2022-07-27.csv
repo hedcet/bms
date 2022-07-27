@@ -1,0 +1,12 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Parbhani,NareshCineplexParbhani,431401,Marathi,12:00,Star,150₹,125,0
+Parbhani,NareshCineplexParbhani,431401,Marathi,12:00,Gold,120₹,96,0
+Parbhani,NareshCineplexParbhani,431401,Marathi,12:00,Silver,90₹,96,0
+Parbhani,ESquareAnusayaParbhani,431401,Marathi,14:10,Box,100₹,36,0
+Parbhani,ESquareAnusayaParbhani,431401,Marathi,14:10,Platinum,100₹,52,0
+Parbhani,ESquareAnusayaParbhani,431401,Marathi,14:10,Gold,100₹,80,0
+Parbhani,ESquareAnusayaParbhani,431401,Marathi,14:10,Silver,100₹,78,0
+Parbhani,ESquareAnusayaParbhani,431401,Marathi,15:35,Box,100₹,36,2
+Parbhani,ESquareAnusayaParbhani,431401,Marathi,15:35,Platinum,100₹,52,0
+Parbhani,ESquareAnusayaParbhani,431401,Marathi,15:35,Gold,100₹,80,0
+Parbhani,ESquareAnusayaParbhani,431401,Marathi,15:35,Silver,100₹,78,0
