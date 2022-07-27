@@ -1,0 +1,12 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kolkata,NandanKolkata,700020,Bengali,15:30,FrontStall,30₹,111,11
+Kolkata,NandanKolkata,700020,Bengali,15:30,RearStall,50₹,451,44
+Kolkata,NandanKolkata,700020,Bengali,15:30,Balcony,70₹,369,28
+Kolkata,AtindraCinemaBarrackpore,700120,Bengali,19:15,Recliner,150₹,74,0
+Kolkata,InoxSouthCityKolkata,700068,Bengali,19:50,Silver,200₹,166,10
+Kolkata,InoxSouthCityKolkata,700068,Bengali,19:50,Premier,180₹,34,0
+Kolkata,InoxSouthCityKolkata,700068,Bengali,19:50,Premier,112₹,34,0
+Kolkata,InoxSouthCityKolkata,700068,Bengali,19:50,Silver,112₹,166,23
+Kolkata,SvfCinemasWoodSquareMallNarendrapur,700103,Bengali,20:45,Gold,99₹,36,0
+Kolkata,SvfCinemasWoodSquareMallNarendrapur,700103,Bengali,20:45,Platinum,99₹,85,0
+Kolkata,SvfCinemasWoodSquareMallNarendrapur,700103,Bengali,20:45,Royal,149₹,15,1
