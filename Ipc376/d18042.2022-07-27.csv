@@ -1,0 +1,10 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Vellore,SathuvachariSrinivasaCinemasPksAc4KDolby71,632009,Tamil,11:30,Couple,130₹,20,0
+Vellore,SathuvachariSrinivasaCinemasPksAc4KDolby71,632009,Tamil,11:30,FirstClass,110₹,354,0
+Vellore,SathuvachariSrinivasaCinemasPksAc4KDolby71,632009,Tamil,11:30,SecondClass,110₹,46,0
+Vellore,SathuvachariSrinivasaCinemasPksAc4KDolby71,632009,Tamil,15:00,Couple,130₹,20,0
+Vellore,SathuvachariSrinivasaCinemasPksAc4KDolby71,632009,Tamil,15:00,FirstClass,110₹,354,2
+Vellore,SathuvachariSrinivasaCinemasPksAc4KDolby71,632009,Tamil,15:00,SecondClass,110₹,46,0
+Vellore,SathuvachariSrinivasaCinemasPksAc4KDolby71,632009,Tamil,22:00,Couple,130₹,20,0
+Vellore,SathuvachariSrinivasaCinemasPksAc4KDolby71,632009,Tamil,22:00,FirstClass,110₹,354,0
+Vellore,SathuvachariSrinivasaCinemasPksAc4KDolby71,632009,Tamil,22:00,SecondClass,110₹,46,0
