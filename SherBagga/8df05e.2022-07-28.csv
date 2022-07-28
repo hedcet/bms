@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+NationalCapitalRegionNcr,PvrPacificSubhashNagarDelhi,110018,Punjabi,13:10,Recliner,299₹,20,12
+NationalCapitalRegionNcr,PvrPacificSubhashNagarDelhi,110018,Punjabi,13:10,PrimePlus,199₹,42,21
+NationalCapitalRegionNcr,PvrPacificSubhashNagarDelhi,110018,Punjabi,13:10,Prime,199₹,111,2
+NationalCapitalRegionNcr,PvrPacificSubhashNagarDelhi,110018,Punjabi,13:10,Classic,149₹,36,0
