@@ -1,0 +1,7 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kolkata,NandanKolkata,700020,Bengali,15:30,FrontStall,30₹,111,21
+Kolkata,NandanKolkata,700020,Bengali,15:30,RearStall,50₹,451,91
+Kolkata,NandanKolkata,700020,Bengali,15:30,Balcony,70₹,369,79
+Kolkata,AtindraCinemaBarrackpore,700120,Bengali,19:15,Recliner,150₹,74,2
+Kolkata,InoxSouthCityKolkata,700068,Bengali,19:50,Premier,112₹,34,0
+Kolkata,InoxSouthCityKolkata,700068,Bengali,19:50,Silver,112₹,166,19
