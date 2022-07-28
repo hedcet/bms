@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kanpur,NoveltyCinemaKanpur,208001,Hindi,12:30,Silver,40₹,32,8
+Kanpur,NoveltyCinemaKanpur,208001,Hindi,12:30,Gold,70₹,182,26
+Kanpur,NoveltyCinemaKanpur,208001,Hindi,15:30,Silver,40₹,32,0
+Kanpur,NoveltyCinemaKanpur,208001,Hindi,15:30,Gold,70₹,182,26
+Kanpur,NoveltyCinemaKanpur,208001,Hindi,18:30,Silver,40₹,32,0
+Kanpur,NoveltyCinemaKanpur,208001,Hindi,18:30,Gold,70₹,182,26
+Kanpur,NoveltyCinemaKanpur,208001,Hindi,21:30,Silver,40₹,32,0
+Kanpur,NoveltyCinemaKanpur,208001,Hindi,21:30,Gold,70₹,182,26
