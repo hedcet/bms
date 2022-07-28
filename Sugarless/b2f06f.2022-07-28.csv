@@ -1,0 +1,11 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Moodbidri,AmarashreeTalkiesMoodbidri,574227,Kannada,10:00,Balcony,120₹,84,0
+Moodbidri,AmarashreeTalkiesMoodbidri,574227,Kannada,10:00,FirstClass,100₹,90,0
+Bengaluru,InoxMantriSquareMalleshwaram,560052,Kannada,12:25,Royal,250₹,17,8
+Bengaluru,InoxMantriSquareMalleshwaram,560052,Kannada,12:25,Club,160₹,315,19
+Karkala,PlanetCinemaACDigitalKarkala,574104,Kannada,13:00,Balcony,120₹,28,0
+Baindur,ShankarCinemaBaindur,576214,Kannada,14:00,Balcony,100₹,57,0
+Baindur,ShankarCinemaBaindur,576214,Kannada,18:00,Balcony,100₹,57,0
+Baindur,ShankarCinemaBaindur,576214,Kannada,21:00,Balcony,100₹,57,0
+Moodbidri,AmarashreeTalkiesMoodbidri,574227,Kannada,21:00,Balcony,120₹,84,0
+Moodbidri,AmarashreeTalkiesMoodbidri,574227,Kannada,21:00,FirstClass,100₹,90,0
