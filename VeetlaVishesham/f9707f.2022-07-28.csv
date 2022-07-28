@@ -1,0 +1,7 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Chennai,PvrHeritageRslEcrChennai,600119,Tamil,16:15,Classic,60₹,11,11
+Chennai,PvrHeritageRslEcrChennai,600119,Tamil,16:15,Prime,165₹,98,5
+Chennai,PvrVrChennaiAnnaNagar,600040,Tamil,16:45,Classic,60₹,16,16
+Chennai,PvrVrChennaiAnnaNagar,600040,Tamil,16:45,Prime,165₹,110,33
+Chennai,SpiEscapeExpressAvenueMallRoyapettah,600014,Tamil,19:05,Budget,60₹,11,11
+Chennai,SpiEscapeExpressAvenueMallRoyapettah,600014,Tamil,19:05,Elite,165₹,99,15
