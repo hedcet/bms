@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Coimbatore,SpiTheCinemaBrookefieldsMall,641001,Tamil,12:25,Budget,60₹,19,0
+Coimbatore,SpiTheCinemaBrookefieldsMall,641001,Tamil,12:25,Elite,190₹,165,8
+Coimbatore,KgCinemasCoimbatore,641018,Tamil,13:30,Premium,179₹,95,9
+Coimbatore,KgCinemasCoimbatore,641018,Tamil,13:30,Comfort,148₹,53,3
+Chennai,LuxeCinemasChennai,600042,Tamil,19:30,Elite2D,190₹,180,12
+Chennai,LuxeCinemasChennai,600042,Tamil,19:30,Budget,60₹,20,4
+Chennai,PvrVrChennaiAnnaNagar,600040,Tamil,22:30,Classic,60₹,16,16
+Chennai,PvrVrChennaiAnnaNagar,600040,Tamil,22:30,Prime,165₹,110,34
