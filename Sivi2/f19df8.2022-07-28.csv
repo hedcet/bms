@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Chennai,AgsCinemasOmrNavlur,603103,Tamil,10:20,Diamond,150₹,360,10
+Chennai,AgsCinemasOmrNavlur,603103,Tamil,10:20,Pearl,60₹,41,31
+Chennai,AgsCinemasMaduravoyal,600095,Tamil,12:00,Diamond,150₹,205,0
+Chennai,AgsCinemasVillivakkam,600049,Tamil,12:00,Diamond,150₹,113,0
+Trichy,ArunaTheatreTrichy,620017,Tamil,18:30,FirstClass,50₹,378,0
+Chennai,AgsCinemasTNagar,600017,Tamil,22:10,Diamond,150₹,197,22
+Chennai,AgsCinemasTNagar,600017,Tamil,22:10,Pearl,60₹,24,24
+Trichy,ArunaTheatreTrichy,620017,Tamil,22:15,FirstClass,50₹,378,0
