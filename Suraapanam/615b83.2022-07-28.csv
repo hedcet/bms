@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Manuguru,SeetaramaCinemasManuguru,507117,Telugu,11:00,Platinum,100₹,359,136
+Manuguru,SeetaramaCinemasManuguru,507117,Telugu,11:00,Silver,100₹,53,0
+Manuguru,SeetaramaCinemasManuguru,507117,Telugu,14:00,Platinum,100₹,359,0
+Manuguru,SeetaramaCinemasManuguru,507117,Telugu,14:00,Silver,100₹,53,0
+Manuguru,SeetaramaCinemasManuguru,507117,Telugu,18:00,Platinum,100₹,359,0
+Manuguru,SeetaramaCinemasManuguru,507117,Telugu,18:00,Silver,100₹,53,0
+Manuguru,SeetaramaCinemasManuguru,507117,Telugu,21:00,Platinum,100₹,359,0
+Manuguru,SeetaramaCinemasManuguru,507117,Telugu,21:00,Silver,100₹,53,0
