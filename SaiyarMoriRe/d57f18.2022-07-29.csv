@@ -1,0 +1,11 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bhavnagar,Top3MultiplexBhavnagar,364002,Gujarati,01:30,Gold,120₹,230,48
+Bhavnagar,Top3MultiplexBhavnagar,364002,Gujarati,01:30,Silver,100₹,270,20
+Vadodara,PvrTransCubeVadodara,390005,Gujarati,12:15,Classic,150₹,34,0
+Vadodara,PvrTransCubeVadodara,390005,Gujarati,12:15,Prime,150₹,100,16
+Vadodara,PvrTransCubeVadodara,390005,Gujarati,12:15,Recliner,300₹,8,0
+Bhavnagar,Top3MultiplexBhavnagar,364002,Gujarati,13:00,Gold,120₹,70,0
+Bhavnagar,Top3MultiplexBhavnagar,364002,Gujarati,13:00,Silver,100₹,54,0
+Ahmedabad,CityGoldBapunagar,380018,Gujarati,16:00,Executive,100₹,92,0
+Bhavnagar,Top3MultiplexBhavnagar,364002,Gujarati,22:15,Gold,140₹,68,17
+Bhavnagar,Top3MultiplexBhavnagar,364002,Gujarati,22:15,Silver,120₹,56,0
