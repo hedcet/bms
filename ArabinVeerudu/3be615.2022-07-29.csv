@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Eluru,SaiBalajiComplexEluru,534001,Telugu,11:15,1FirstClass,150₹,266,152
+Eluru,SaiBalajiComplexEluru,534001,Telugu,11:15,2SecondClass,100₹,103,81
+Eluru,SaiBalajiComplexEluru,534001,Telugu,14:30,1FirstClass,150₹,136,0
+Eluru,SaiBalajiComplexEluru,534001,Telugu,14:30,2SecondClass,100₹,136,0
+Eluru,SaiBalajiComplexEluru,534001,Telugu,18:30,1FirstClass,150₹,136,0
+Eluru,SaiBalajiComplexEluru,534001,Telugu,18:30,2SecondClass,100₹,136,0
+Eluru,SaiBalajiComplexEluru,534001,Telugu,21:30,1FirstClass,150₹,136,0
+Eluru,SaiBalajiComplexEluru,534001,Telugu,21:30,2SecondClass,100₹,136,0
