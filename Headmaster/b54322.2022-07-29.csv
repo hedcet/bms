@@ -1,0 +1,16 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kochi,SangeetaCinemaKochi,680018,Malayalam,10:30,BlueCircle,150₹,187,19
+Vadakara,One2OnePlusFilmCity2K3DDolbyAtmosACVada,673101,Malayalam,13:30,Screen2,129₹,164,0
+Alappuzha,KairaliSreeTheaterAlappuzha,688011,Malayalam,14:30,Platinum,125₹,156,0
+Alappuzha,CherthalaKairaliSreeTheatre,688524,Malayalam,14:30,Platinum,125₹,178,0
+Trivandrum,KairaliSreeNilaRgbLaser4KDolbyAtmos,695014,Malayalam,14:30,Platinum,125₹,175,5
+Trivandrum,SuryaParadiseNedumangad,695541,Malayalam,14:30,Concord,110₹,444,26
+Palakkad,KairaliSreeTheatreChittur,678101,Malayalam,14:30,Platinum,105₹,94,0
+Thrissur,KairaliSreeTheaterThrissur,680001,Malayalam,15:00,Platinum,129₹,108,0
+Thrissur,KairaliSreeTheaterThrissur,680001,Malayalam,15:00,Gold,105₹,194,0
+Trivandrum,SuryaParadiseNedumangad,695541,Malayalam,18:15,Concord,110₹,444,26
+Trivandrum,KairaliSreeNilaRgbLaser4KDolbyAtmos,695014,Malayalam,18:30,Platinum,125₹,175,0
+Kollam,GmaxCinemasKollam,691001,Malayalam,18:45,Green,160₹,86,7
+Kasaragod,CineKrishna4KKasaragod,671123,Malayalam,19:30,FirstClass,129₹,144,0
+Kasaragod,CineKrishna4KKasaragod,671123,Malayalam,19:30,Sofa,200₹,8,0
+Trivandrum,SuryaParadiseNedumangad,695541,Malayalam,21:30,Concord,110₹,444,26
