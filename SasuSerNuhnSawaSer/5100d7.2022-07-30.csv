@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kota,MayurCinemaKota,324001,Sindhi,12:00,GoldClass,70₹,200,0
+Kota,MayurCinemaKota,324001,Sindhi,12:00,SilverClass,70₹,60,0
+Kota,MayurCinemaKota,324001,Sindhi,15:00,GoldClass,70₹,200,0
+Kota,MayurCinemaKota,324001,Sindhi,15:00,SilverClass,70₹,60,0
+Kota,MayurCinemaKota,324001,Sindhi,18:00,GoldClass,70₹,200,0
+Kota,MayurCinemaKota,324001,Sindhi,18:00,SilverClass,70₹,60,0
+Kota,MayurCinemaKota,324001,Sindhi,21:00,GoldClass,70₹,200,4
+Kota,MayurCinemaKota,324001,Sindhi,21:00,SilverClass,70₹,60,0
