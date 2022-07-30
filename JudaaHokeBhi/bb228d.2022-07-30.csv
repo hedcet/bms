@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Sagar,CineCitySagar,470004,Hindi,11:30,Balcony,90₹,29,0
+Kolkata,RupmandirCinemaBelgharia,700056,Hindi,12:00,Platinum100100,200₹,8,1
+Kolkata,RupmandirCinemaBelgharia,700056,Hindi,12:00,Gold,80₹,16,0
+Hooghly,RabindraManchaBhadreswar,712124,Hindi,13:00,Balcony,99₹,50,0
+Hooghly,RabindraManchaBhadreswar,712124,Hindi,13:00,RearStall,50₹,50,0
+Sagar,CineCitySagar,470004,Hindi,14:30,Balcony,90₹,29,0
+Hooghly,RabindraManchaBhadreswar,712124,Hindi,16:00,Balcony,99₹,50,0
+Hooghly,RabindraManchaBhadreswar,712124,Hindi,16:00,RearStall,50₹,50,0
+Sagar,CineCitySagar,470004,Hindi,17:30,Balcony,90₹,29,0
+Hooghly,RabindraManchaBhadreswar,712124,Hindi,18:30,Balcony,99₹,50,0
+Hooghly,RabindraManchaBhadreswar,712124,Hindi,18:30,RearStall,50₹,50,0
+Sagar,CineCitySagar,470004,Hindi,20:30,Balcony,90₹,29,0
