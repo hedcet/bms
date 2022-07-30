@@ -1,0 +1,15 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Angamaly,CarnivalKsrtComplex,683572,Malayalam,10:15,GoldOffline,130₹,202,27
+Kasaragod,MagicFramesMehboobTheatreComplexKasaragod,671121,Malayalam,10:30,Executive,129₹,222,0
+Thalayolaparambu,CarnivalThalayolaparambu,686605,Malayalam,10:30,Gold,110₹,144,6
+Trivandrum,CarnivalGreenfieldTrivandrum,695581,Malayalam,11:00,ExecutiveOffline,140₹,132,14
+Kollam,GmaxCinemasKollam,691001,Malayalam,12:00,Green,160₹,86,7
+Kochi,SangeetaCinemaKochi,680018,Malayalam,15:00,BlueCircle,150₹,187,19
+Trivandrum,CarnivalMallOfTravancoreTrivandrum,695024,Malayalam,16:30,Silver,210₹,97,10
+Trivandrum,CarnivalMallOfTravancoreTrivandrum,695024,Malayalam,16:30,ExecutiveOffline,180₹,193,0
+Trivandrum,CarnivalMallOfTravancoreTrivandrum,695024,Malayalam,16:30,NormalOffline,100₹,17,0
+Trivandrum,AriesplexSlCinemas,695001,Malayalam,17:15,Executive,110₹,70,0
+Kollam,GMax4KUtsavKollam,691001,Malayalam,19:00,Gold,160₹,256,0
+Kollam,GMax4KUtsavKollam,691001,Malayalam,19:00,Executive,140₹,313,0
+Karunagapally,CarnivalHJComplex,690518,Malayalam,19:30,ClassicOffline,170₹,118,0
+Kasaragod,MagicFramesMehboobTheatreComplexKasaragod,671121,Malayalam,22:15,Executive,129₹,222,0
