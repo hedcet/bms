@@ -1,0 +1,7 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Trichy,PalaceTheatreTiruchirappalli,620008,Tamil,11:15,FirstClass,60₹,249,0
+Trichy,PalaceTheatreTiruchirappalli,620008,Tamil,14:15,FirstClass,60₹,249,0
+Chennai,PvrVrChennaiAnnaNagar,600040,Tamil,16:30,Classic,60₹,34,27
+Chennai,PvrVrChennaiAnnaNagar,600040,Tamil,16:30,Prime,179₹,142,133
+Trichy,PalaceTheatreTiruchirappalli,620008,Tamil,18:15,FirstClass,60₹,249,0
+Trichy,PalaceTheatreTiruchirappalli,620008,Tamil,22:00,FirstClass,60₹,249,0
