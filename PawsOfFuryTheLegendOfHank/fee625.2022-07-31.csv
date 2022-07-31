@@ -1,0 +1,16 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Pune,InoxBundGardenRoad,411001,English,09:00,Royale,250₹,32,19
+Goa,InoxPorvorimGoa,403521,English,09:35,RoyalRecliner,270₹,13,0
+Goa,InoxPorvorimGoa,403521,English,09:35,Royal,150₹,63,7
+Goa,InoxPorvorimGoa,403521,English,09:35,Club,140₹,110,0
+Goa,InoxPorvorimGoa,403521,English,09:35,Executive,140₹,32,0
+Mumbai,InoxInsigniaAtAtriaMallWorli,400018,English,10:15,Insignia,450₹,30,10
+Mumbai,InoxRCityGhatkopar,400086,English,11:15,Insignia,350₹,46,32
+NationalCapitalRegionNcr,PvrVegasDwarka,110078,English,12:00,Classic,175₹,36,0
+NationalCapitalRegionNcr,PvrVegasDwarka,110078,English,12:00,Prime,200₹,14,0
+NationalCapitalRegionNcr,PvrVegasDwarka,110078,English,12:00,Recliner,250₹,8,5
+NationalCapitalRegionNcr,PvrAmbienceGurgaon,122001,English,16:20,ClassicNormal,200₹,84,0
+NationalCapitalRegionNcr,PvrAmbienceGurgaon,122001,English,16:20,Prime,200₹,68,39
+NationalCapitalRegionNcr,CinepolisAiriaMallSohnaRoadGurgaon,122103,English,17:20,Normal,220₹,22,0
+NationalCapitalRegionNcr,CinepolisAiriaMallSohnaRoadGurgaon,122103,English,17:20,DoubleSofa,260₹,24,0
+NationalCapitalRegionNcr,CinepolisAiriaMallSohnaRoadGurgaon,122103,English,17:20,Lounger,240₹,8,0
