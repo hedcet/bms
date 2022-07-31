@@ -1,0 +1,14 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,AnupamaTheatreAC4KDolbyGandhinagar,560009,Kannada,10:30,Balcony,150₹,247,0
+Bengaluru,AnupamaTheatreAC4KDolbyGandhinagar,560009,Kannada,10:30,MiddleClass,120₹,480,0
+Bengaluru,CinepolisSjrCentralMallArekereBannergatta,560076,Kannada,13:10,Normal,200₹,30,0
+Bengaluru,CinepolisSjrCentralMallArekereBannergatta,560076,Kannada,13:10,Executive,200₹,62,0
+Bengaluru,CinepolisSjrCentralMallArekereBannergatta,560076,Kannada,13:10,Premium,200₹,44,0
+Bengaluru,CinepolisSjrCentralMallArekereBannergatta,560076,Kannada,13:10,Vip,400₹,12,0
+Bengaluru,InoxCentralJpNagarMantriJunction,560069,Kannada,13:15,Royal,400₹,14,4
+Bengaluru,InoxCentralJpNagarMantriJunction,560069,Kannada,13:15,Club,290₹,237,18
+Jigani,AnupamaTheatre4KDolbyGandhinagar,560009,Kannada,13:30,Balcony,150₹,247,91
+Jigani,AnupamaTheatre4KDolbyGandhinagar,560009,Kannada,13:30,MiddleClass,120₹,480,304
+Bengaluru,InoxMantriSquareMalleshwaram,560052,Kannada,13:45,Club,290₹,225,31
+Bengaluru,GopalanCinemasArcadeMallMysoreRoad,560098,Kannada,14:15,Gold,230₹,292,10
+Bengaluru,GopalanCinemasArcadeMallMysoreRoad,560098,Kannada,14:15,Recliner,330₹,19,0
