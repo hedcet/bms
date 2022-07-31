@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Jigani,AnupamaTheatre4KDolbyGandhinagar,560009,Kannada,16:30,Balcony,150₹,247,4
+Jigani,AnupamaTheatre4KDolbyGandhinagar,560009,Kannada,16:30,MiddleClass,120₹,480,0
+Jigani,AnupamaTheatre4KDolbyGandhinagar,560009,Kannada,19:30,Balcony,150₹,247,0
+Jigani,AnupamaTheatre4KDolbyGandhinagar,560009,Kannada,19:30,MiddleClass,120₹,480,0
