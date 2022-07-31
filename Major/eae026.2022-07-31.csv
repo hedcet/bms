@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Tanuku,LakshmiComplexMainTanuku,534211,Telugu,11:00,LowerBalcony,112₹,171,0
+Tanuku,LakshmiComplexTanuku,534211,Telugu,14:15,LowerBalcony,112₹,171,2
+Tanuku,LakshmiComplexTanuku,534211,Telugu,18:15,LowerBalcony,112₹,171,0
+Tanuku,LakshmiComplexMainTanuku,534211,Telugu,21:15,LowerBalcony,112₹,171,0
