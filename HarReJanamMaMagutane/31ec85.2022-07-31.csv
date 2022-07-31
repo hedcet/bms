@@ -1,0 +1,16 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Mahemdavad,RevolutionMultiplexMahemdavad,387130,Gujarati,12:15,Royal,200₹,20,0
+Mahemdavad,RevolutionMultiplexMahemdavad,387130,Gujarati,12:15,Platinum,160₹,36,0
+Mahemdavad,RevolutionMultiplexMahemdavad,387130,Gujarati,12:15,Golden,140₹,36,0
+Mahemdavad,RevolutionMultiplexMahemdavad,387130,Gujarati,12:15,Silver,120₹,33,0
+Ahmedabad,RevolutionMultiplexCtmAhmedabad,380026,Gujarati,12:20,PlatinumClass,180₹,15,0
+Ahmedabad,RevolutionMultiplexCtmAhmedabad,380026,Gujarati,12:20,GoldenClass,160₹,40,0
+Ahmedabad,RevolutionMultiplexCtmAhmedabad,380026,Gujarati,12:20,SilverClass,140₹,20,0
+Ahmedabad,RevolutionMultiplexCtmAhmedabad,380026,Gujarati,15:30,SofaClass,250₹,16,16
+Ahmedabad,RevolutionMultiplexCtmAhmedabad,380026,Gujarati,15:30,PlatinumClass,180₹,40,40
+Ahmedabad,RevolutionMultiplexCtmAhmedabad,380026,Gujarati,15:30,GoldenClass,160₹,50,50
+Ahmedabad,RevolutionMultiplexCtmAhmedabad,380026,Gujarati,15:30,SilverClass,140₹,19,19
+Mahemdavad,RevolutionMultiplexMahemdavad,387130,Gujarati,18:30,Royal,200₹,20,0
+Mahemdavad,RevolutionMultiplexMahemdavad,387130,Gujarati,18:30,Platinum,160₹,36,0
+Mahemdavad,RevolutionMultiplexMahemdavad,387130,Gujarati,18:30,Golden,140₹,36,0
+Mahemdavad,RevolutionMultiplexMahemdavad,387130,Gujarati,18:30,Silver,120₹,33,0
