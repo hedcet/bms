@@ -1,0 +1,15 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Ahmedabad,CityGoldBopal,380058,Gujarati,15:00,Executive,200₹,115,0
+Ahmedabad,CityGoldAshramRoad,380009,Gujarati,19:00,Executive,180₹,130,29
+Ahmedabad,CityGoldBapunagar,380018,Gujarati,19:00,Executive,140₹,92,0
+Ahmedabad,WideAngleAhmedabad,380015,Gujarati,19:15,Silver,180₹,76,0
+Ahmedabad,WideAngleAhmedabad,380015,Gujarati,19:15,Gold,180₹,104,47
+Ahmedabad,MuktaA2CinemasGulmoharParkMallSatelliteRd,380015,Gujarati,19:30,Lounge,170₹,76,0
+Ahmedabad,CityGoldBopal,380058,Gujarati,19:30,Executive,200₹,115,0
+Ahmedabad,CityGoldSatelliteAhmedabad,380015,Gujarati,19:50,Executive,200₹,123,0
+Ahmedabad,SbMultiplexAgoraMall,382424,Gujarati,20:00,Elite,150₹,34,4
+Ahmedabad,SbMultiplexAgoraMall,382424,Gujarati,20:00,Classic,150₹,160,0
+Ahmedabad,SbMultiplexAgoraMall,382424,Gujarati,20:00,Standard,150₹,32,0
+Ahmedabad,MuktaA2CinemasRajyashSouthVasnaAhmedabad,380007,Gujarati,20:15,Gold,140₹,87,0
+Ahmedabad,MuktaA2CinemasRajyashSouthVasnaAhmedabad,380007,Gujarati,20:15,PremiumSofa,140₹,17,0
+Ahmedabad,MuktaA2CinemasRajyashSouthVasnaAhmedabad,380007,Gujarati,20:15,Silver,140₹,36,0
