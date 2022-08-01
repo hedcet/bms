@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Patiala,PvrVrcPatiala,147001,Punjabi,10:05,Classic,99₹,22,0
+Patiala,PvrVrcPatiala,147001,Punjabi,10:05,Prime,99₹,94,0
+Patiala,MovieMaxOmaxeMallPatialaSrsEarlier,147001,Punjabi,10:30,Platinum,110₹,207,23
+Patiala,MovieMaxOmaxeMallPatialaSrsEarlier,147001,Punjabi,10:30,Gold,100₹,46,0
+Chandigarh,PvrElanteChandigarh,160002,Punjabi,10:45,Classic,130₹,153,15
+Chandigarh,PvrElanteChandigarh,160002,Punjabi,10:45,Recliner,300₹,13,0
+Rohtak,RnCinemasRohtak,124001,Punjabi,14:45,Silver,120₹,68,26
+Rohtak,RnCinemasRohtak,124001,Punjabi,14:45,Gold,400₹,4,1
+Rohtak,RnCinemasRohtak,124001,Punjabi,17:15,Silver,120₹,68,22
+Rohtak,RnCinemasRohtak,124001,Punjabi,17:15,Gold,400₹,4,0
+Rohtak,RnCinemasRohtak,124001,Punjabi,19:45,Silver,120₹,68,22
+Rohtak,RnCinemasRohtak,124001,Punjabi,19:45,Gold,400₹,4,0
