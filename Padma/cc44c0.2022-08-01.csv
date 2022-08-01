@@ -1,0 +1,12 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Trivandrum,CarnivalArtechCentralMallTrivandrum,695035,Malayalam,11:00,SilverOffline,150₹,147,16
+Trivandrum,CarnivalArtechCentralMallTrivandrum,695035,Malayalam,11:00,ExecutiveOffline,100₹,26,0
+Kozhikode,AashirvadCineplexxKozhikode,673001,Malayalam,15:15,Platinum,220₹,27,0
+Kozhikode,AashirvadCineplexxKozhikode,673001,Malayalam,15:15,Gold,200₹,54,0
+Kochi,PadmaCinemaKochi,682011,Malayalam,18:30,Platinum,150₹,178,17
+Thrissur,InoxSobhaCityMall,680553,Malayalam,19:05,RoyalRecliner,290₹,10,0
+Thrissur,InoxSobhaCityMall,680553,Malayalam,19:05,Club,170₹,37,0
+Thrissur,InoxSobhaCityMall,680553,Malayalam,19:05,Royal,170₹,19,9
+Thrissur,InoxSobhaCityMall,680553,Malayalam,19:05,Executive,130₹,16,0
+Trivandrum,CarnivalArtechCentralMallTrivandrum,695035,Malayalam,19:30,SilverOffline,150₹,147,20
+Trivandrum,CarnivalArtechCentralMallTrivandrum,695035,Malayalam,19:30,ExecutiveOffline,100₹,26,0
