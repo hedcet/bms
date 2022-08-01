@@ -1,0 +1,16 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Vadodara,PvrTransCubeVadodara,390005,Gujarati,12:15,Classic,100₹,34,4
+Vadodara,PvrTransCubeVadodara,390005,Gujarati,12:15,Prime,100₹,100,17
+Vadodara,PvrTransCubeVadodara,390005,Gujarati,12:15,Recliner,300₹,8,0
+Bhavnagar,Top3MultiplexBhavnagar,364002,Gujarati,13:00,Gold,110₹,70,0
+Bhavnagar,Top3MultiplexBhavnagar,364002,Gujarati,13:00,Silver,90₹,54,0
+Ahmedabad,CityGoldBapunagar,380018,Gujarati,17:00,Executive,100₹,108,2
+Bhavnagar,TheEntertainmentParkBhavnagar,364001,Gujarati,19:00,Royal,219₹,14,1
+Bhavnagar,TheEntertainmentParkBhavnagar,364001,Gujarati,19:00,Platinum,149₹,34,5
+Bhavnagar,TheEntertainmentParkBhavnagar,364001,Gujarati,19:00,Gold,119₹,156,0
+Bhavnagar,TheEntertainmentParkBhavnagar,364001,Gujarati,19:00,Silver,119₹,34,0
+Rajkot,CosmoplexMultiplexRajkot,360001,Gujarati,20:00,Club,200₹,65,41
+Ahmedabad,19CinemaSouthBopalAhmedabad,380058,Gujarati,22:00,Sofa,150₹,8,0
+Ahmedabad,19CinemaSouthBopalAhmedabad,380058,Gujarati,22:00,ReclinerBed,180₹,12,2
+Bhavnagar,Top3MultiplexBhavnagar,364002,Gujarati,22:15,Gold,140₹,68,0
+Bhavnagar,Top3MultiplexBhavnagar,364002,Gujarati,22:15,Silver,120₹,56,3
