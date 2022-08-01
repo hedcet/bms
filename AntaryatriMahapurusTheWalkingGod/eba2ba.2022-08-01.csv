@@ -1,0 +1,12 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Alwar,GoldCinemaAlwar,301001,Hindi,09:15,Diamond,250₹,35,0
+Alwar,GoldCinemaAlwar,301001,Hindi,09:15,Gold,250₹,120,0
+Alwar,GoldCinemaAlwar,301001,Hindi,09:15,Silver,250₹,20,0
+Indore,InoxC21Mall,452010,Hindi,09:30,Normal,200₹,171,12
+Indore,InoxC21Mall,452010,Hindi,19:00,Normal,250₹,174,20
+Indore,CineSquareCinemasAirportRoadIndore,452005,Hindi,19:00,Premium,200₹,26,6
+Indore,CineSquareCinemasAirportRoadIndore,452005,Hindi,19:00,Royal,200₹,104,57
+Indore,CineSquareCinemasAirportRoadIndore,452005,Hindi,19:00,Luxury,250₹,5,0
+Kota,InoxAhluwaliasGreatMallKota,324005,Hindi,19:10,Club,250₹,93,0
+Kota,InoxAhluwaliasGreatMallKota,324005,Hindi,19:10,Executive,250₹,45,0
+Kota,InoxAhluwaliasGreatMallKota,324005,Hindi,19:10,Royale,250₹,46,24
