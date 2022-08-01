@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+MangaluruMangalore,BharathCinemasMangalore,575013,Tulu,12:45,Gold,180₹,47,6
+MangaluruMangalore,BharathCinemasMangalore,575013,Tulu,12:45,Silver,180₹,33,0
+MangaluruMangalore,BharathCinemasMangalore,575013,Tulu,12:45,Special,150₹,11,0
+Manipal,BharathCinemasManipal,576104,Tulu,13:30,Gold,150₹,69,9
+Manipal,BharathCinemasManipal,576104,Tulu,13:30,Silver,150₹,48,0
+MangaluruMangalore,PvrNexusMallPandeshwarMangalore,575001,Tulu,15:35,Classic,150₹,79,0
+MangaluruMangalore,CineGalaxySurathkalMangalore,575014,Tulu,16:00,Gold,99₹,17,0
+MangaluruMangalore,CineGalaxySurathkalMangalore,575014,Tulu,16:00,Prime,99₹,64,0
+MangaluruMangalore,CineGalaxySurathkalMangalore,575014,Tulu,16:00,Classic,99₹,48,0
+MangaluruMangalore,BharathCinemasMangalore,575013,Tulu,19:00,Gold,180₹,142,13
+MangaluruMangalore,BharathCinemasMangalore,575013,Tulu,19:00,Silver,180₹,78,0
+MangaluruMangalore,BharathCinemasMangalore,575013,Tulu,19:00,Special,150₹,19,0
