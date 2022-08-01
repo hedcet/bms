@@ -1,0 +1,11 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kochi,SangeetaCinemaKochi,680018,Malayalam,10:30,BlueCircle,150₹,187,18
+Alappuzha,KairaliSreeTheaterAlappuzha,688011,Malayalam,14:30,Platinum,125₹,156,0
+Palakkad,KairaliSreeTheatreChittur,678101,Malayalam,14:30,Platinum,105₹,94,0
+Alappuzha,CherthalaKairaliSreeTheatre,688524,Malayalam,14:30,Platinum,125₹,178,0
+Trivandrum,KairaliSreeNilaRgbLaser4KDolbyAtmos,695014,Malayalam,14:30,Platinum,125₹,175,7
+Kochi,SangeetaCinemaKochi,680018,Malayalam,15:00,BlueCircle,150₹,187,26
+Thrissur,KairaliSreeTheaterThrissur,680001,Malayalam,15:00,Platinum,129₹,108,7
+Thrissur,KairaliSreeTheaterThrissur,680001,Malayalam,15:00,Gold,105₹,194,0
+Kochi,SangeetaCinemaKochi,680018,Malayalam,18:00,BlueCircle,150₹,187,23
+Trivandrum,KairaliSreeNilaRgbLaser4KDolbyAtmos,695014,Malayalam,18:30,Platinum,125₹,175,0
