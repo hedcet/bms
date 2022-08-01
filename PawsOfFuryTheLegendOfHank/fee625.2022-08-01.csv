@@ -1,0 +1,16 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Goa,InoxPorvorimGoa,403521,English,09:35,RoyalRecliner,200₹,13,0
+Goa,InoxPorvorimGoa,403521,English,09:35,Club,112₹,110,0
+Goa,InoxPorvorimGoa,403521,English,09:35,Executive,112₹,34,0
+Goa,InoxPorvorimGoa,403521,English,09:35,Royal,112₹,63,7
+Mumbai,InoxInsigniaAtAtriaMallWorli,400018,English,10:15,Insignia,300₹,30,4
+NationalCapitalRegionNcr,PvrVegasDwarka,110078,English,12:45,Classic,175₹,36,0
+NationalCapitalRegionNcr,PvrVegasDwarka,110078,English,12:45,Prime,200₹,21,0
+NationalCapitalRegionNcr,PvrVegasDwarka,110078,English,12:45,Recliner,250₹,8,2
+Mumbai,InoxMegaplexInorbitMallMalad,400064,English,13:00,Kiddles,150₹,57,4
+NationalCapitalRegionNcr,CinepolisAiriaMallSohnaRoadGurgaon,122103,English,14:50,Normal,125₹,30,0
+NationalCapitalRegionNcr,CinepolisAiriaMallSohnaRoadGurgaon,122103,English,14:50,DoubleSofa,125₹,24,0
+NationalCapitalRegionNcr,CinepolisAiriaMallSohnaRoadGurgaon,122103,English,14:50,Lounger,125₹,8,0
+NationalCapitalRegionNcr,PvrAmbienceGurgaon,122001,English,16:20,ClassicNormal,200₹,84,0
+NationalCapitalRegionNcr,PvrAmbienceGurgaon,122001,English,16:20,Prime,200₹,68,0
+NationalCapitalRegionNcr,PvrLogixNoida,201301,English,20:20,Classic,250₹,49,0
