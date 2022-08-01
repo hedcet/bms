@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kochi,Kanoos2KRavipuram,682036,Tamil,12:00,Diamond,110₹,186,0
+Kochi,Kanoos2KRavipuram,682036,Tamil,15:00,Diamond,110₹,186,0
+Chennai,PvrAmpaMallNelsonManickamRoad,600029,Tamil,15:55,Classic,60₹,17,17
+Chennai,PvrAmpaMallNelsonManickamRoad,600029,Tamil,15:55,Prime,179₹,130,14
+Kochi,Kanoos2KRavipuram,682036,Tamil,19:00,Diamond,110₹,186,0
+Chennai,SpiPalazzoNexusVijayaMallVadapalaniChennai,600026,Tamil,21:55,Budget,60₹,27,27
+Chennai,SpiPalazzoNexusVijayaMallVadapalaniChennai,600026,Tamil,21:55,Elite,165₹,210,18
+Kochi,Kanoos2KRavipuram,682036,Tamil,22:00,Diamond,110₹,186,0
