@@ -1,0 +1,12 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,CinepolisNexusShantiniketanBengaluru,560067,English,12:55,Normal,200₹,67,3
+Bengaluru,CinepolisNexusShantiniketanBengaluru,560067,English,12:55,DoubleSofa,200₹,24,2
+Bengaluru,CinepolisNexusShantiniketanBengaluru,560067,English,12:55,Lounger,200₹,9,0
+Bengaluru,CinepolisNexusShantiniketanBengaluru,560067,English,12:55,SingleSofa,200₹,6,0
+Bengaluru,CinepolisNexusShantiniketanBengaluru,560067,English,18:35,Normal,200₹,57,0
+Bengaluru,CinepolisNexusShantiniketanBengaluru,560067,English,18:35,DoubleSofa,200₹,24,3
+Bengaluru,CinepolisNexusShantiniketanBengaluru,560067,English,18:35,Lounger,200₹,9,0
+Bengaluru,CinepolisNexusShantiniketanBengaluru,560067,English,18:35,SingleSofa,200₹,6,0
+Lucknow,InoxMegaplexPhoenixPalassioMall,226010,English,20:40,Club,150₹,32,0
+Lucknow,InoxMegaplexPhoenixPalassioMall,226010,English,20:40,Executive,150₹,14,0
+Lucknow,InoxMegaplexPhoenixPalassioMall,226010,English,20:40,Royale,150₹,30,12
