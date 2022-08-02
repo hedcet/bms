@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Darjeeling,InoxRinkMall,734101,Nepali,11:05,Box,100₹,8,4
+Darjeeling,InoxRinkMall,734101,Nepali,11:05,Economy,100₹,53,0
+Darjeeling,InoxRinkMall,734101,Nepali,11:05,Executive,100₹,160,0
+Darjeeling,InoxRinkMall,734101,Nepali,11:05,Royal,100₹,63,12
