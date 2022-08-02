@@ -1,0 +1,12 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,GoverdhanTheatreYeshwantpur,560022,Kannada,10:00,BalconyClass,100₹,112,0
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,10:00,Classic,112₹,128,0
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,10:00,Prime,150₹,80,0
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,10:00,Recliner,220₹,13,2
+Bengaluru,SriGurusiddeshwara2KChitraMandiraThippasandra,560062,Kannada,10:30,GoldClass,100₹,149,0
+Bengaluru,SriGurusiddeshwara2KChitraMandiraThippasandra,560062,Kannada,10:30,SilverClass,80₹,200,0
+Bengaluru,GopalanMiniplexSignatureMallOldMadrasRoad,560093,Kannada,12:45,Gold,150₹,65,0
+HubballiHubli,CinepolisUrbanOasisMallHubli,580030,Kannada,12:50,Normal,150₹,38,0
+HubballiHubli,CinepolisUrbanOasisMallHubli,580030,Kannada,12:50,Executive,150₹,100,0
+HubballiHubli,CinepolisUrbanOasisMallHubli,580030,Kannada,12:50,Premium,150₹,61,12
+Bengaluru,GoverdhanTheatreYeshwantpur,560022,Kannada,13:00,BalconyClass,100₹,112,0
