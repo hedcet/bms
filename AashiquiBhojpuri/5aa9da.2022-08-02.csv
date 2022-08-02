@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Jaunpur,RamChitraMandirJaunpur,222001,Bhojpuri,12:15,DiamondAc,100₹,120,0
+Jaunpur,RamChitraMandirJaunpur,222001,Bhojpuri,12:15,GoldNonAc,80₹,160,0
+Jaunpur,RamChitraMandirJaunpur,222001,Bhojpuri,15:15,DiamondAc,100₹,120,0
+Jaunpur,RamChitraMandirJaunpur,222001,Bhojpuri,15:15,GoldNonAc,80₹,160,0
+Jaunpur,RamChitraMandirJaunpur,222001,Bhojpuri,18:15,DiamondAc,100₹,120,0
+Jaunpur,RamChitraMandirJaunpur,222001,Bhojpuri,18:15,GoldNonAc,80₹,160,0
+Jaunpur,RamChitraMandirJaunpur,222001,Bhojpuri,21:00,DiamondAc,100₹,120,2
+Jaunpur,RamChitraMandirJaunpur,222001,Bhojpuri,21:00,GoldNonAc,80₹,160,0
