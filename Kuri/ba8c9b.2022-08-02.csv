@@ -1,0 +1,7 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Thalayolaparambu,CarnivalThalayolaparambu,686605,Malayalam,12:00,Gold,110₹,144,6
+Trivandrum,CarnivalGreenfieldTrivandrum,695581,Malayalam,13:45,ExecutiveOffline,140₹,132,14
+Kochi,SangeetaCinemaKochi,680018,Malayalam,15:00,BlueCircle,150₹,187,18
+Kollam,Gmax4KUtsavAradhanaComplex,691001,Malayalam,19:00,Gold,160₹,256,0
+Kollam,Gmax4KUtsavAradhanaComplex,691001,Malayalam,19:00,Executive,140₹,313,2
+Karunagapally,CarnivalHJComplex,690518,Malayalam,19:30,ClassicOffline,110₹,118,2
