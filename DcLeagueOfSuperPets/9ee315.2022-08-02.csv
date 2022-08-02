@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,CinepolisForumShantiniketanBengaluru,560067,English,12:55,Normal,200₹,57,0
+Bengaluru,CinepolisForumShantiniketanBengaluru,560067,English,12:55,DoubleSofa,200₹,24,0
+Bengaluru,CinepolisForumShantiniketanBengaluru,560067,English,12:55,Lounger,200₹,9,0
+Bengaluru,CinepolisForumShantiniketanBengaluru,560067,English,12:55,SingleSofa,200₹,6,0
+Bengaluru,CinepolisForumShantiniketanBengaluru,560067,English,18:35,Normal,200₹,57,0
+Bengaluru,CinepolisForumShantiniketanBengaluru,560067,English,18:35,DoubleSofa,200₹,24,4
+Bengaluru,CinepolisForumShantiniketanBengaluru,560067,English,18:35,Lounger,200₹,9,0
+Bengaluru,CinepolisForumShantiniketanBengaluru,560067,English,18:35,SingleSofa,200₹,6,0
