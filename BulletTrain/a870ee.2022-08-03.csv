@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Mumbai,CinepolisFunRepublicMallAndheriW,400053,English,19:05,Normal,150₹,32,0
+Mumbai,CinepolisFunRepublicMallAndheriW,400053,English,19:05,Executive,150₹,96,1
+Mumbai,CinepolisFunRepublicMallAndheriW,400053,English,19:05,Premium,150₹,50,18
+Mumbai,CinepolisFunRepublicMallAndheriW,400053,English,19:05,Platinum,150₹,22,1
