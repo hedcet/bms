@@ -1,0 +1,10 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Ongole,GorantlaCinemasOngole,523001,Telugu,11:30,GoldenRecliners,295₹,15,0
+Ongole,GorantlaCinemasOngole,523001,Telugu,11:30,RoyalClass,177₹,305,18
+Ongole,GorantlaCinemasOngole,523001,Telugu,11:30,ExecutiveClass,80₹,40,0
+Ongole,GorantlaCinemasOngole,523001,Telugu,14:40,GoldenRecliners,295₹,15,0
+Ongole,GorantlaCinemasOngole,523001,Telugu,14:40,RoyalClass,177₹,305,18
+Ongole,GorantlaCinemasOngole,523001,Telugu,14:40,ExecutiveClass,80₹,40,0
+Ongole,GorantlaCinemasOngole,523001,Telugu,18:30,GoldenRecliners,295₹,15,0
+Ongole,GorantlaCinemasOngole,523001,Telugu,18:30,RoyalClass,177₹,305,18
+Ongole,GorantlaCinemasOngole,523001,Telugu,18:30,ExecutiveClass,80₹,40,0
