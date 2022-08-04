@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Thrissur,InoxSobhaCityMall,680553,Malayalam,21:50,RoyalRecliner,290₹,10,0
+Thrissur,InoxSobhaCityMall,680553,Malayalam,21:50,Club,170₹,66,0
+Thrissur,InoxSobhaCityMall,680553,Malayalam,21:50,Royal,170₹,28,22
+Thrissur,InoxSobhaCityMall,680553,Malayalam,21:50,Executive,130₹,22,0
