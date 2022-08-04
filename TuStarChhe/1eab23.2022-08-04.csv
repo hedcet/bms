@@ -1,0 +1,7 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Ahmedabad,CityGoldAshramRoad,380009,Gujarati,19:00,Executive,150₹,130,0
+Ahmedabad,CityGoldAshramRoad,380009,Gujarati,19:00,Executive,150₹,221,0
+Ahmedabad,CityGoldBapunagar,380018,Gujarati,19:00,Executive,100₹,92,0
+Ahmedabad,CityGoldBopal,380058,Gujarati,19:30,Executive,150₹,115,24
+Ahmedabad,MuktaA2CinemasGulmoharParkMallSatelliteRd,380015,Gujarati,19:30,Lounge,130₹,76,0
+Ahmedabad,CityGoldSatelliteAhmedabad,380015,Gujarati,19:50,Executive,200₹,123,0
