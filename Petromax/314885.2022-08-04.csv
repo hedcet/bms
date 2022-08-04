@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,AnupamaTheatreAC4KDolbyGandhinagar,560009,Kannada,16:30,Balcony,150₹,247,0
+Bengaluru,AnupamaTheatreAC4KDolbyGandhinagar,560009,Kannada,16:30,MiddleClass,120₹,480,1
+Jigani,AnupamaTheatre4KDolbyGandhinagar,560009,Kannada,19:30,Balcony,150₹,247,1
+Jigani,AnupamaTheatre4KDolbyGandhinagar,560009,Kannada,19:30,MiddleClass,120₹,480,0
