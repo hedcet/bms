@@ -1,0 +1,7 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,AnupamaTheatreAC4KDolbyGandhinagar,560009,Kannada,10:30,Balcony,150₹,247,0
+Bengaluru,AnupamaTheatreAC4KDolbyGandhinagar,560009,Kannada,10:30,MiddleClass,120₹,480,0
+Bengaluru,GopalanCinemasArcadeMallMysoreRoad,560098,Kannada,10:30,Gold,200₹,332,0
+Bengaluru,GopalanCinemasArcadeMallMysoreRoad,560098,Kannada,10:30,Sofa,200₹,21,0
+Jigani,AnupamaTheatre4KDolbyGandhinagar,560009,Kannada,13:30,Balcony,150₹,247,5
+Jigani,AnupamaTheatre4KDolbyGandhinagar,560009,Kannada,13:30,MiddleClass,120₹,480,18
