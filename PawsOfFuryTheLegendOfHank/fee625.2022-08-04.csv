@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Mumbai,InoxInsigniaAtAtriaMallWorli,400018,English,10:05,Insignia,300₹,30,4
+NationalCapitalRegionNcr,PvrVegasDwarka,110078,English,11:45,Classic,175₹,36,0
+NationalCapitalRegionNcr,PvrVegasDwarka,110078,English,11:45,Prime,200₹,14,0
+NationalCapitalRegionNcr,PvrVegasDwarka,110078,English,11:45,Recliner,250₹,8,0
+Mumbai,InoxMegaplexInorbitMallMalad,400064,English,12:00,Kiddles,150₹,57,4
+NationalCapitalRegionNcr,CinepolisAiriaMallSohnaRoadGurgaon,122103,English,14:10,Normal,125₹,22,0
+NationalCapitalRegionNcr,CinepolisAiriaMallSohnaRoadGurgaon,122103,English,14:10,DoubleSofa,125₹,24,0
+NationalCapitalRegionNcr,CinepolisAiriaMallSohnaRoadGurgaon,122103,English,14:10,Lounger,125₹,8,0
