@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kochi,PadmaCinemaKochi,682011,Malayalam,15:15,Platinum,150₹,178,18
+Kozhikode,AashirvadCineplexxKozhikode,673001,Malayalam,16:30,Platinum,220₹,10,0
+Kozhikode,AashirvadCineplexxKozhikode,673001,Malayalam,16:30,Gold,200₹,10,0
+Kochi,PadmaCinemaKochi,682011,Malayalam,18:15,Platinum,150₹,178,16
