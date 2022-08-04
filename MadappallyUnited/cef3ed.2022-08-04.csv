@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Dehradun,PvrPacificDehradun,248006,Malayalam,18:00,Classic,190₹,24,0
+Dehradun,PvrPacificDehradun,248006,Malayalam,18:00,Prime,230₹,72,0
+Dehradun,PvrPacificDehradun,248006,Malayalam,18:15,Classic,190₹,24,0
+Dehradun,PvrPacificDehradun,248006,Malayalam,18:15,Prime,230₹,72,9
