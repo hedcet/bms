@@ -1,0 +1,16 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Chennai,AgsCinemasMaduravoyal,600095,Tamil,12:30,Diamond,150₹,205,0
+Madurai,KallanaiCinemaMadurai,625020,Tamil,14:30,DesiCircleAC,100₹,12,0
+Madurai,KallanaiCinemaMadurai,625020,Tamil,14:30,DevaCircleAC,100₹,12,2
+Madurai,KallanaiCinemaMadurai,625020,Tamil,14:30,FirstClass,70₹,128,4
+Madurai,KallanaiCinemaMadurai,625020,Tamil,14:30,SecondClass,70₹,129,0
+Chennai,AgsCinemasVillivakkam,600049,Tamil,15:20,Diamond,150₹,147,34
+Chennai,AgsCinemasVillivakkam,600049,Tamil,15:20,Pearl,60₹,17,17
+Madurai,KallanaiCinemaMadurai,625020,Tamil,18:30,DesiCircleAC,100₹,12,0
+Madurai,KallanaiCinemaMadurai,625020,Tamil,18:30,DevaCircleAC,100₹,12,2
+Madurai,KallanaiCinemaMadurai,625020,Tamil,18:30,FirstClass,70₹,128,0
+Madurai,KallanaiCinemaMadurai,625020,Tamil,18:30,SecondClass,70₹,129,0
+Madurai,KallanaiCinemaMadurai,625020,Tamil,22:00,DesiCircleAC,100₹,12,0
+Madurai,KallanaiCinemaMadurai,625020,Tamil,22:00,DevaCircleAC,100₹,12,0
+Madurai,KallanaiCinemaMadurai,625020,Tamil,22:00,FirstClass,70₹,128,0
+Madurai,KallanaiCinemaMadurai,625020,Tamil,22:00,SecondClass,70₹,129,0
