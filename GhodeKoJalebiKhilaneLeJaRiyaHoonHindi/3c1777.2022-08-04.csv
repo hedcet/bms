@@ -1,0 +1,4 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kolkata,PvrManiSquareMallKolkata,700054,Hindi,17:05,Classic,99₹,45,0
+Kolkata,PvrManiSquareMallKolkata,700054,Hindi,17:05,Prime,99₹,97,32
+Kolkata,PvrManiSquareMallKolkata,700054,Hindi,17:05,Recliner,149₹,21,6
