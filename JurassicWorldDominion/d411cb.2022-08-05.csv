@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Hyderabad,PvrIrrumManzilHyderabad,500082,English,18:35,3DClassic,180₹,158,35
+Hyderabad,PvrIrrumManzilHyderabad,500082,English,18:35,3DRecliner,280₹,10,2
+Hyderabad,PvrNextGalleriaMallPanjagutta,500082,English,21:30,Classic,150₹,54,23
+NationalCapitalRegionNcr,PvrLogixNoida,201301,English,23:00,Classic,310₹,49,0
