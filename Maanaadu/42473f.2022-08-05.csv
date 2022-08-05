@@ -1,0 +1,17 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Chennai,KcKrishnaveniCinemasRg3LaserDolbyatmosTnagar,600017,Tamil,12:20,BoxA,150₹,14,14
+Chennai,KcKrishnaveniCinemasRg3LaserDolbyatmosTnagar,600017,Tamil,12:20,BoxB,150₹,7,7
+Chennai,KcKrishnaveniCinemasRg3LaserDolbyatmosTnagar,600017,Tamil,12:20,Elite,110₹,422,26
+Chennai,KcKrishnaveniCinemasRg3LaserDolbyatmosTnagar,600017,Tamil,12:20,Premium,60₹,44,0
+Chennai,KcKrishnaveniCinemasRg3LaserDolbyatmosTnagar,600017,Tamil,16:45,BoxA,150₹,14,14
+Chennai,KcKrishnaveniCinemasRg3LaserDolbyatmosTnagar,600017,Tamil,16:45,BoxB,150₹,7,7
+Chennai,KcKrishnaveniCinemasRg3LaserDolbyatmosTnagar,600017,Tamil,16:45,Elite,110₹,422,29
+Chennai,KcKrishnaveniCinemasRg3LaserDolbyatmosTnagar,600017,Tamil,16:45,Premium,60₹,44,0
+Chennai,KcKrishnaveniCinemasRg3LaserDolbyatmosTnagar,600017,Tamil,19:45,BoxA,150₹,14,14
+Chennai,KcKrishnaveniCinemasRg3LaserDolbyatmosTnagar,600017,Tamil,19:45,BoxB,150₹,7,7
+Chennai,KcKrishnaveniCinemasRg3LaserDolbyatmosTnagar,600017,Tamil,19:45,Elite,110₹,422,27
+Chennai,KcKrishnaveniCinemasRg3LaserDolbyatmosTnagar,600017,Tamil,19:45,Premium,60₹,44,0
+Chennai,KcKrishnaveniCinemasRg3LaserDolbyatmosTnagar,600017,Tamil,22:30,BoxA,150₹,14,14
+Chennai,KcKrishnaveniCinemasRg3LaserDolbyatmosTnagar,600017,Tamil,22:30,BoxB,150₹,7,7
+Chennai,KcKrishnaveniCinemasRg3LaserDolbyatmosTnagar,600017,Tamil,22:30,Elite,110₹,422,26
+Chennai,KcKrishnaveniCinemasRg3LaserDolbyatmosTnagar,600017,Tamil,22:30,Premium,60₹,44,0
