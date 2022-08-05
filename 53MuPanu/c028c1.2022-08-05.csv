@@ -1,0 +1,14 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Ahmedabad,PvrAcropolisAhmedabad,380052,Gujarati,13:15,Classic,150₹,39,0
+Ahmedabad,PvrAcropolisAhmedabad,380052,Gujarati,13:15,Prime,150₹,65,0
+Ahmedabad,PvrAcropolisAhmedabad,380052,Gujarati,13:15,PrimePlus,200₹,66,1
+Ahmedabad,PvrAcropolisAhmedabad,380052,Gujarati,13:15,Recliner,450₹,9,0
+Rajkot,RajshriCinemaRajkot,360001,Gujarati,16:00,Balcony,160₹,208,0
+Rajkot,RajshriCinemaRajkot,360001,Gujarati,16:00,Upper,130₹,550,0
+Ahmedabad,AppleMultiplexManinagarAhmedabad,380002,Gujarati,16:15,UpperSofa,130₹,7,0
+Ahmedabad,AppleMultiplexManinagarAhmedabad,380002,Gujarati,16:15,Platinum,130₹,104,0
+Ahmedabad,AppleMultiplexManinagarAhmedabad,380002,Gujarati,16:15,LowerSofa,130₹,9,0
+Ahmedabad,CityGoldSatelliteAhmedabad,380015,Gujarati,17:15,Executive,200₹,123,25
+Rajkot,RajshriCinemaRajkot,360001,Gujarati,19:00,Balcony,160₹,208,0
+Rajkot,RajshriCinemaRajkot,360001,Gujarati,19:00,Upper,130₹,550,2
+Ahmedabad,MirajCityPulseAhmedabad,380001,Gujarati,19:30,Gold,180₹,24,0
