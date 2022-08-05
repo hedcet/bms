@@ -1,0 +1,8 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Goalpara,KalpanaCinemaGoalpara,783101,Bengali,11:00,Balcony,120₹,26,0
+Goalpara,KalpanaCinemaGoalpara,783101,Bengali,11:00,SpecialClass,80₹,38,0
+Goalpara,KalpanaCinemaGoalpara,783101,Bengali,14:00,Balcony,120₹,26,0
+Goalpara,KalpanaCinemaGoalpara,783101,Bengali,14:00,SpecialClass,80₹,38,0
+Kolkata,IndiraCinemaKolkata,700025,Bengali,17:00,Balcony,90₹,119,7
+Goalpara,KalpanaCinemaGoalpara,783101,Bengali,19:30,Balcony,120₹,26,0
+Goalpara,KalpanaCinemaGoalpara,783101,Bengali,19:30,SpecialClass,80₹,38,0
