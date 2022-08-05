@@ -1,0 +1,17 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+VizagVisakhapatnam,SaratTheater4KDolbyAtmosVizag,530016,Telugu,11:00,BoxA,145₹,24,6
+VizagVisakhapatnam,SaratTheater4KDolbyAtmosVizag,530016,Telugu,11:00,BoxB,145₹,24,5
+VizagVisakhapatnam,SaratTheater4KDolbyAtmosVizag,530016,Telugu,11:00,Premium,145₹,572,28
+VizagVisakhapatnam,SaratTheater4KDolbyAtmosVizag,530016,Telugu,11:00,NonPremium,100₹,208,2
+VizagVisakhapatnam,SaratTheater4KDolbyAtmosVizag,530016,Telugu,14:30,BoxA,145₹,24,9
+VizagVisakhapatnam,SaratTheater4KDolbyAtmosVizag,530016,Telugu,14:30,BoxB,145₹,24,5
+VizagVisakhapatnam,SaratTheater4KDolbyAtmosVizag,530016,Telugu,14:30,Premium,145₹,572,40
+VizagVisakhapatnam,SaratTheater4KDolbyAtmosVizag,530016,Telugu,14:30,NonPremium,100₹,208,14
+VizagVisakhapatnam,SaratTheater4KDolbyAtmosVizag,530016,Telugu,18:30,BoxA,145₹,24,6
+VizagVisakhapatnam,SaratTheater4KDolbyAtmosVizag,530016,Telugu,18:30,BoxB,145₹,24,5
+VizagVisakhapatnam,SaratTheater4KDolbyAtmosVizag,530016,Telugu,18:30,Premium,145₹,572,28
+VizagVisakhapatnam,SaratTheater4KDolbyAtmosVizag,530016,Telugu,18:30,NonPremium,100₹,208,2
+VizagVisakhapatnam,SaratTheater4KDolbyAtmosVizag,530016,Telugu,22:00,BoxA,145₹,24,6
+VizagVisakhapatnam,SaratTheater4KDolbyAtmosVizag,530016,Telugu,22:00,BoxB,145₹,24,5
+VizagVisakhapatnam,SaratTheater4KDolbyAtmosVizag,530016,Telugu,22:00,Premium,145₹,572,38
+VizagVisakhapatnam,SaratTheater4KDolbyAtmosVizag,530016,Telugu,22:00,NonPremium,100₹,208,13
