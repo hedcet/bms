@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Nandigama,VijayaTheaterNandigama,521185,Telugu,11:15,Premium,100₹,204,60
+Nandigama,VijayaTheaterNandigama,521185,Telugu,14:15,Premium,100₹,204,0
+Nandigama,VijayaTheaterNandigama,521185,Telugu,18:15,Premium,100₹,204,60
+Nandigama,VijayaTheaterNandigama,521185,Telugu,21:15,Premium,100₹,204,60
