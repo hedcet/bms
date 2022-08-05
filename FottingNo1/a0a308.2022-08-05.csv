@@ -1,0 +1,8 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Goa,InoxPorvorimGoa,403521,Konkani,18:00,RoyalRecliner,410₹,13,0
+Goa,InoxPorvorimGoa,403521,Konkani,18:00,Royal,230₹,66,7
+Goa,InoxPorvorimGoa,403521,Konkani,18:00,Club,220₹,116,2
+Goa,InoxPorvorimGoa,403521,Konkani,18:00,Executive,200₹,36,0
+Goa,InoxOsiaGWingMargaoGoa,403601,Konkani,18:00,Royale,210₹,62,13
+Goa,InoxOsiaGWingMargaoGoa,403601,Konkani,18:00,Club,200₹,136,10
+Goa,InoxOsiaGWingMargaoGoa,403601,Konkani,18:00,Executive,180₹,28,0
