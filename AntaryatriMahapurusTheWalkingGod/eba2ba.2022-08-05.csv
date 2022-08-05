@@ -1,0 +1,14 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Indore,InoxC21Mall,452010,Hindi,11:55,Normal,200₹,171,10
+Bhilwara,InoxCityCentreMallBhilwara,311001,Hindi,19:00,Club,200₹,190,190
+Bhilwara,InoxCityCentreMallBhilwara,311001,Hindi,19:00,Executive,200₹,63,43
+Bhilwara,InoxCityCentreMallBhilwara,311001,Hindi,19:00,Royale,200₹,68,68
+Gwalior,InoxDbMallGwalior,474002,Hindi,19:15,Royale,250₹,66,66
+Gwalior,InoxDbMallGwalior,474002,Hindi,19:15,Club,240₹,55,55
+Gwalior,InoxDbMallGwalior,474002,Hindi,19:15,Executive,200₹,22,12
+Kota,InoxAhluwaliasGreatMallKota,324005,Hindi,19:25,Club,250₹,93,0
+Kota,InoxAhluwaliasGreatMallKota,324005,Hindi,19:25,Executive,250₹,45,0
+Kota,InoxAhluwaliasGreatMallKota,324005,Hindi,19:25,Royale,250₹,46,8
+Ajmer,MayaMandirMultiplexDolbyAtmosSoundAjmer,305501,Hindi,19:30,Club,112₹,20,2
+Ajmer,MayaMandirMultiplexDolbyAtmosSoundAjmer,305501,Hindi,19:30,Premium,100₹,24,5
+Ajmer,MayaMandirMultiplexDolbyAtmosSoundAjmer,305501,Hindi,19:30,Classic,100₹,24,0
