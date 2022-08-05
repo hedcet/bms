@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,VinayakaCinemasScreen2MysoreRoad,560018,Kannada,10:30,GoldClass,100₹,81,5
+Bengaluru,VinayakaCinemasScreen2MysoreRoad,560018,Kannada,13:30,GoldClass,100₹,81,0
+Bengaluru,VinayakaMultiplexScreen2MysuruRoad,560018,Kannada,16:30,GoldClass,100₹,81,0
+Bengaluru,VinayakaMultiplexScreen2MysuruRoad,560018,Kannada,19:30,GoldClass,100₹,81,0
