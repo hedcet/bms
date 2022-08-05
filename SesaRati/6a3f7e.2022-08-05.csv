@@ -1,0 +1,11 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Muniguda,PadmalayaTheatreMuniguda,765020,Oriya,11:15,Sofa,200₹,10,0
+Muniguda,PadmalayaTheatreMuniguda,765020,Oriya,11:15,Vip,70₹,108,0
+Muniguda,PadmalayaTheatreMuniguda,765020,Oriya,11:15,Balcony,60₹,171,0
+Bhubaneswar,CinepolisEsplanadeBhubaneswar,751007,Oriya,13:05,Normal,140₹,24,0
+Bhubaneswar,CinepolisEsplanadeBhubaneswar,751007,Oriya,13:05,Executive,150₹,51,0
+Bhubaneswar,CinepolisEsplanadeBhubaneswar,751007,Oriya,13:05,Premium,160₹,45,4
+Bhubaneswar,CinepolisEsplanadeBhubaneswar,751007,Oriya,13:05,Vip,400₹,11,0
+Muniguda,PadmalayaTheatreMuniguda,765020,Oriya,14:30,Sofa,200₹,10,0
+Muniguda,PadmalayaTheatreMuniguda,765020,Oriya,14:30,Vip,70₹,108,0
+Muniguda,PadmalayaTheatreMuniguda,765020,Oriya,14:30,Balcony,60₹,171,0
