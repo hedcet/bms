@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kalyani,VidyasagarManchKalyani,741235,Bengali,16:00,SpecialStall,150₹,8,0
+Kalyani,VidyasagarManchKalyani,741235,Bengali,16:00,RearStallSpecialClass,125₹,11,0
+Kalyani,VidyasagarManchKalyani,741235,Bengali,16:00,RearStall,80₹,188,0
+Kalyani,VidyasagarManchKalyani,741235,Bengali,16:00,FrontStall,80₹,238,0
+Ranaghat,SurendraCinemaRanaghat,741201,Bengali,16:30,Balocny,50₹,69,0
+Kolkata,AtindraCinemaKolkata,700120,Bengali,17:00,Premium,150₹,138,2
+Kolkata,AtindraCinemaKolkata,700120,Bengali,17:00,SuperPremium,250₹,20,1
+Kolkata,RadhaStudioTollygunge,700033,Bengali,19:00,Silver,30₹,146,2
