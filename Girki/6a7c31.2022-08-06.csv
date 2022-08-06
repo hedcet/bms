@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Shivamogga,VeerabhadreshwaraTalkiesShivamogga,577201,Kannada,11:00,Balcony,150₹,223,0
+Shivamogga,VeerabhadreshwaraTalkiesShivamogga,577201,Kannada,11:00,1stClass,100₹,650,0
+Shivamogga,VeerabhadreshwaraTalkiesShivamogga,577201,Kannada,14:00,Balcony,150₹,223,6
+Shivamogga,VeerabhadreshwaraTalkiesShivamogga,577201,Kannada,14:00,1stClass,100₹,650,6
+Shivamogga,VeerabhadreshwaraTalkiesShivamogga,577201,Kannada,18:00,Balcony,150₹,223,0
+Shivamogga,VeerabhadreshwaraTalkiesShivamogga,577201,Kannada,18:00,1stClass,100₹,650,0
+Shivamogga,VeerabhadreshwaraTalkiesShivamogga,577201,Kannada,21:00,Balcony,150₹,223,0
+Shivamogga,VeerabhadreshwaraTalkiesShivamogga,577201,Kannada,21:00,1stClass,100₹,650,0
