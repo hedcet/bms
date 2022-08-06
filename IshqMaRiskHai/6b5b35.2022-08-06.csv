@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Raipur,ShyamTalkiesRaipur,492001,Chattisgarhi,12:00,Balcony,100₹,60,0
+Bilaspur,ShivTalkiesBilaspur,495001,Chattisgarhi,12:15,Balcony,100₹,371,0
+Bilaspur,ShivTalkiesBilaspur,495001,Chattisgarhi,12:15,Reserve,60₹,609,0
+Raipur,ShyamTalkiesRaipur,492001,Chattisgarhi,15:00,Balcony,100₹,60,0
+Bilaspur,ShivTalkiesBilaspur,495001,Chattisgarhi,15:15,Balcony,100₹,371,0
+Bilaspur,ShivTalkiesBilaspur,495001,Chattisgarhi,15:15,Reserve,60₹,609,0
+Raipur,ShyamTalkiesRaipur,492001,Chattisgarhi,18:00,Balcony,100₹,60,2
+Bilaspur,ShivTalkiesBilaspur,495001,Chattisgarhi,18:15,Balcony,100₹,371,0
+Bilaspur,ShivTalkiesBilaspur,495001,Chattisgarhi,18:15,Reserve,60₹,609,0
+Raipur,ShyamTalkiesRaipur,492001,Chattisgarhi,21:00,Balcony,100₹,60,0
+Bilaspur,ShivTalkiesBilaspur,495001,Chattisgarhi,21:15,Balcony,100₹,371,0
+Bilaspur,ShivTalkiesBilaspur,495001,Chattisgarhi,21:15,Reserve,60₹,609,0
