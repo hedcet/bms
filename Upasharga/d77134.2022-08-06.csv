@@ -1,0 +1,16 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Guwahati,GoldCinemaPaltanBazarGuwahati,781001,Assamese,11:00,Gold,120₹,54,8
+Guwahati,GoldCinemaPaltanBazarGuwahati,781001,Assamese,11:00,Silver,100₹,24,0
+Guwahati,CinepolisCentralMallGuwahati,781005,Assamese,12:00,Normal,130₹,24,0
+Guwahati,CinepolisCentralMallGuwahati,781005,Assamese,12:00,Executive,150₹,116,0
+Guwahati,CinepolisCentralMallGuwahati,781005,Assamese,12:00,Premium,170₹,56,15
+Guwahati,CinepolisCentralMallGuwahati,781005,Assamese,12:00,Vip,350₹,4,0
+Guwahati,GoldCinemaPaltanBazarGuwahati,781001,Assamese,17:00,Gold,120₹,54,8
+Guwahati,GoldCinemaPaltanBazarGuwahati,781001,Assamese,17:00,Silver,100₹,24,0
+Mangaldoi,FunCinemasDreamTheatreMangaldoi,784125,Assamese,18:30,Silver,70₹,38,3
+Mangaldoi,FunCinemasDreamTheatreMangaldoi,784125,Assamese,18:30,Gold,100₹,90,7
+Mangaldoi,FunCinemasDreamTheatreMangaldoi,784125,Assamese,18:30,Diamond,150₹,56,4
+Mangaldoi,FunCinemasDreamTheatreMangaldoi,784125,Assamese,18:30,Recliner,250₹,10,5
+Guwahati,PvrCityCentreGuwahati,781005,Assamese,21:05,Classic,210₹,40,0
+Guwahati,PvrCityCentreGuwahati,781005,Assamese,21:05,Prime,230₹,82,9
+Guwahati,PvrCityCentreGuwahati,781005,Assamese,21:05,PrimePlus,270₹,13,4
