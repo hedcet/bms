@@ -1,0 +1,7 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Mumbai,MaxusCinemasBorivaliW,400092,Hindi,15:00,Sofa,112₹,19,0
+Mumbai,MaxusCinemasBorivaliW,400092,Hindi,15:00,PremiumPlus,112₹,128,0
+Mumbai,MaxusCinemasBorivaliW,400092,Hindi,15:00,Premium,112₹,36,0
+Mumbai,MaxusCinemasBorivaliW,400092,Hindi,19:00,Sofa,112₹,19,19
+Mumbai,MaxusCinemasBorivaliW,400092,Hindi,19:00,PremiumPlus,112₹,126,58
+Mumbai,MaxusCinemasBorivaliW,400092,Hindi,19:00,Premium,112₹,36,0
