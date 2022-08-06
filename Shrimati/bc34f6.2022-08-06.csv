@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Ranchi,PvrNucleusMallRanchi,834001,Bengali,19:20,Classic,200₹,28,0
+Ranchi,PvrNucleusMallRanchi,834001,Bengali,19:20,ClassicPlus,200₹,98,56
+Ranchi,PvrNucleusMallRanchi,834001,Bengali,19:20,Prime,200₹,72,72
+Ranchi,PvrNucleusMallRanchi,834001,Bengali,19:20,PrimePlus,200₹,15,15
