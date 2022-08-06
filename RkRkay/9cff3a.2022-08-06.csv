@@ -1,0 +1,4 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Mumbai,MovieMaxSion,400022,Hindi,14:35,Classic,180₹,46,0
+Mumbai,MovieMaxSion,400022,Hindi,14:35,Prime,200₹,169,7
+Mumbai,MovieMaxSion,400022,Hindi,14:35,PrimePlus,230₹,12,0
