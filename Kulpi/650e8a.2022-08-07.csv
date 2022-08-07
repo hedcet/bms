@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+DakshinBarasat,MahamayaTalkiesDakshinBarasat,743372,Bengali,11:00,GoldClass,100₹,68,6
+DakshinBarasat,MahamayaTalkiesDakshinBarasat,743372,Bengali,11:00,SilverClass,70₹,160,8
+Kolkata,PrachiCinemaKolkata,700014,Bengali,13:00,Balcony,150₹,50,0
+Kolkata,PrachiCinemaKolkata,700014,Bengali,13:00,FrontStall,100₹,42,0
+Kolkata,AjantaCinemaBehala,700038,Bengali,14:00,Balcony,150₹,82,2
+Kolkata,NandanKolkata,700020,Bengali,14:00,Normal,30₹,165,28
+Kolkata,RupmandirCinemaBelgharia,700056,Bengali,14:30,Gold,80₹,16,0
+Memari,KristiCinemaMemari,713146,Bengali,15:30,LowerStall,60₹,448,7
+Memari,KristiCinemaMemari,713146,Bengali,15:30,UpperStall,80₹,324,0
+Kolkata,BasusreeCinemaKolkata,700026,Bengali,16:00,RearStall,70₹,700,6
+Kolkata,BasusreeCinemaKolkata,700026,Bengali,16:00,Balcony,100₹,320,9
+AshoknagarWestBengal,NatarajCinemaAshoknagar,743222,Bengali,19:00,FirstClass,30₹,50,0
