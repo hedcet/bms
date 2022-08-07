@@ -1,0 +1,12 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Muniguda,PadmalayaTheatreMuniguda,765020,Oriya,11:15,Sofa,200₹,10,0
+Muniguda,PadmalayaTheatreMuniguda,765020,Oriya,11:15,Vip,70₹,108,0
+Muniguda,PadmalayaTheatreMuniguda,765020,Oriya,11:15,Balcony,60₹,171,0
+Cuttack,SangamCineplexCuttack,753009,Oriya,12:00,Elite,110₹,138,2
+Bhubaneswar,CinepolisEsplanadeBhubaneswar,751007,Oriya,13:05,Normal,160₹,24,0
+Bhubaneswar,CinepolisEsplanadeBhubaneswar,751007,Oriya,13:05,Executive,180₹,51,6
+Bhubaneswar,CinepolisEsplanadeBhubaneswar,751007,Oriya,13:05,Premium,200₹,45,4
+Bhubaneswar,CinepolisEsplanadeBhubaneswar,751007,Oriya,13:05,Vip,500₹,11,2
+Muniguda,PadmalayaTheatreMuniguda,765020,Oriya,14:30,Sofa,200₹,10,0
+Muniguda,PadmalayaTheatreMuniguda,765020,Oriya,14:30,Vip,70₹,108,0
+Muniguda,PadmalayaTheatreMuniguda,765020,Oriya,14:30,Balcony,60₹,171,0
