@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Nagpur,JayshreeCineplexNagpur,440018,Marathi,08:45,Balcony,50₹,168,168
+Nagpur,JayshreeCineplexNagpur,440018,Marathi,08:45,Reserve,40₹,312,312
+Kolhapur,ShahuCinemaKolhapur,416002,Marathi,11:00,Balcony,80₹,81,0
+Kolhapur,ShahuCinemaKolhapur,416002,Marathi,11:00,Stall,60₹,112,0
+Aurangabad,MohanNovaCinemazAurangabad,431001,Marathi,12:00,Platinum,150₹,54,0
+Aurangabad,MohanNovaCinemazAurangabad,431001,Marathi,12:00,Gold,150₹,52,0
+Aurangabad,MohanNovaCinemazAurangabad,431001,Marathi,12:00,Silver,150₹,39,0
+Pune,VaibhavChitramandirHadapsar,411028,Marathi,12:30,Gold,120₹,337,0
+Pune,VaibhavChitramandirHadapsar,411028,Marathi,12:30,Silver,100₹,73,0
+Pune,ViluxTalkiesKhadki,411003,Marathi,18:30,Gold,100₹,224,0
+Pune,ViluxTalkiesKhadki,411003,Marathi,18:30,Silver,100₹,58,0
+Baramati,TaraCinemaBaramati,413102,Marathi,18:30,Gold,120₹,150,0
