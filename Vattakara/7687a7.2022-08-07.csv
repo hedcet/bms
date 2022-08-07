@@ -1,0 +1,6 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Chennai,AgsCinemasVillivakkam,600049,Tamil,11:00,Diamond,150₹,113,0
+Trichy,StarTheatreACDtsTrichy,620008,Tamil,11:15,Firstclass,120₹,280,0
+Chennai,AgsCinemasOmrNavlur,603103,Tamil,15:10,Diamond,150₹,302,10
+Chennai,AgsCinemasOmrNavlur,603103,Tamil,15:10,Pearl,60₹,34,29
+Chennai,RohiniSilverScreensKoyambedu,600107,Tamil,15:15,GoldStar,150₹,120,52
