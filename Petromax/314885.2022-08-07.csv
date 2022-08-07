@@ -1,0 +1,15 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,SriGurusiddeshwara2KChitraMandiraThippasandra,560062,Kannada,10:30,GoldClass,100₹,149,0
+Bengaluru,SriGurusiddeshwara2KChitraMandiraThippasandra,560062,Kannada,10:30,SilverClass,80₹,200,0
+Bengaluru,SriGurusiddeshwara2KChitraMandiraThippasandra,560062,Kannada,13:30,GoldClass,100₹,149,2
+Bengaluru,SriGurusiddeshwara2KChitraMandiraThippasandra,560062,Kannada,13:30,SilverClass,80₹,200,0
+Bengaluru,SriGurusiddeshwara2KChitraMandiraThippasandra,560062,Kannada,16:30,GoldClass,100₹,149,0
+Bengaluru,SriGurusiddeshwara2KChitraMandiraThippasandra,560062,Kannada,16:30,SilverClass,80₹,200,0
+TumakuruTumkur,MaruthiDigital4KCinemasBHRoadTumakuru,572101,Kannada,17:00,Balcony,100₹,235,121
+TumakuruTumkur,MaruthiDigital4KCinemasBHRoadTumakuru,572101,Kannada,17:00,MiniBalcony,90₹,140,84
+TumakuruTumkur,MaruthiDigital4KCinemasBHRoadTumakuru,572101,Kannada,17:00,SecondClass,80₹,450,336
+Bengaluru,SriGurusiddeshwara2KChitraMandiraThippasandra,560062,Kannada,19:30,GoldClass,100₹,149,0
+Bengaluru,SriGurusiddeshwara2KChitraMandiraThippasandra,560062,Kannada,19:30,SilverClass,80₹,200,0
+TumakuruTumkur,MaruthiDigital4KCinemasBHRoadTumakuru,572101,Kannada,20:30,Balcony,100₹,235,112
+TumakuruTumkur,MaruthiDigital4KCinemasBHRoadTumakuru,572101,Kannada,20:30,MiniBalcony,90₹,140,84
+TumakuruTumkur,MaruthiDigital4KCinemasBHRoadTumakuru,572101,Kannada,20:30,SecondClass,80₹,450,336
