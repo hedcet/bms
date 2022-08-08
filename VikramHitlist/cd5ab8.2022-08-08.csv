@@ -1,0 +1,10 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Amalapuram,SriGanapathiPicturePalaceAmalapuram,533201,Telugu,11:30,FirstClass,70₹,116,0
+Amalapuram,SriGanapathiPicturePalaceAmalapuram,533201,Telugu,11:30,SecondClass,50₹,116,0
+Amalapuram,SriGanapathiPicturePalaceAmalapuram,533201,Telugu,11:30,ThirdClass,30₹,116,0
+Amalapuram,SriGanapathiPicturePalaceAmalapuram,533201,Telugu,14:30,FirstClass,70₹,378,262
+Amalapuram,SriGanapathiPicturePalaceAmalapuram,533201,Telugu,14:30,SecondClass,50₹,63,63
+Amalapuram,SriGanapathiPicturePalaceAmalapuram,533201,Telugu,14:30,ThirdClass,30₹,81,81
+Amalapuram,SriGanapathiPicturePalaceAmalapuram,533201,Telugu,18:30,FirstClass,70₹,378,262
+Amalapuram,SriGanapathiPicturePalaceAmalapuram,533201,Telugu,18:30,SecondClass,50₹,63,63
+Amalapuram,SriGanapathiPicturePalaceAmalapuram,533201,Telugu,18:30,ThirdClass,30₹,81,81
