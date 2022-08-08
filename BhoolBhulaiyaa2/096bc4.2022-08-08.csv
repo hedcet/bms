@@ -1,0 +1,17 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bareilly,PrabhaTheatreBareilly,243001,Hindi,12:15,Elite,150₹,96,0
+Bareilly,PrabhaTheatreBareilly,243001,Hindi,12:15,Executive,70₹,68,2
+Kanpur,DeliteBigScreenCinemaKanpur,208004,Hindi,12:30,Balcony,80₹,60,0
+Kanpur,DeliteBigScreenCinemaKanpur,208004,Hindi,12:30,Family,60₹,72,0
+Bareilly,PrabhaTheatreBareilly,243001,Hindi,15:15,Elite,150₹,96,0
+Bareilly,PrabhaTheatreBareilly,243001,Hindi,15:15,Executive,70₹,68,0
+Kanpur,DeliteBigScreenCinemaKanpur,208004,Hindi,15:30,Balcony,80₹,60,0
+Kanpur,DeliteBigScreenCinemaKanpur,208004,Hindi,15:30,Family,60₹,72,0
+Bareilly,PrabhaTheatreBareilly,243001,Hindi,18:15,Elite,150₹,96,0
+Bareilly,PrabhaTheatreBareilly,243001,Hindi,18:15,Executive,70₹,68,0
+Kanpur,DeliteBigScreenCinemaKanpur,208004,Hindi,18:30,Balcony,80₹,60,0
+Kanpur,DeliteBigScreenCinemaKanpur,208004,Hindi,18:30,Family,60₹,72,0
+Bareilly,PrabhaTheatreBareilly,243001,Hindi,21:15,Elite,150₹,96,7
+Bareilly,PrabhaTheatreBareilly,243001,Hindi,21:15,Executive,70₹,68,0
+Kanpur,DeliteBigScreenCinemaKanpur,208004,Hindi,21:15,Balcony,80₹,60,0
+Kanpur,DeliteBigScreenCinemaKanpur,208004,Hindi,21:15,Family,60₹,72,0
