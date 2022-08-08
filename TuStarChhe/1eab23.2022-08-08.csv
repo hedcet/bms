@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Ahmedabad,CityGoldAshramRoad,380009,Gujarati,15:00,Executive,140₹,130,100
+Ahmedabad,SbMultiplexAgoraMall,382424,Gujarati,20:00,Elite,270₹,34,0
+Ahmedabad,SbMultiplexAgoraMall,382424,Gujarati,20:00,Classic,150₹,160,0
+Ahmedabad,SbMultiplexAgoraMall,382424,Gujarati,20:00,Standard,90₹,32,0
