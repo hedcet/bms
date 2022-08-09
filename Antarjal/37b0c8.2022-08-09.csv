@@ -1,0 +1,10 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bakhrahat,UmaTalkiesBakhrahat,743377,Bengali,15:00,Balcony,70₹,55,0
+Kolkata,StarTheatreKolkata,700006,Bengali,16:00,FrontStall,115₹,84,1
+Kolkata,StarTheatreKolkata,700006,Bengali,16:00,RearStall,125₹,234,2
+Kolkata,StarTheatreKolkata,700006,Bengali,16:00,Balcony,115₹,192,10
+Habra,RupkathaCinemaHabra,743268,Bengali,16:15,ExecutiveAcSofaSeats,180₹,12,0
+Habra,RupkathaCinemaHabra,743268,Bengali,16:15,DressCircle,140₹,12,0
+Habra,RupkathaCinemaHabra,743268,Bengali,16:15,StandardAc,100₹,40,0
+Habra,RupkathaCinemaHabra,743268,Bengali,16:15,General,60₹,100,0
+Kolkata,NandanKolkata,700020,Bengali,18:00,Normal,30₹,165,27
