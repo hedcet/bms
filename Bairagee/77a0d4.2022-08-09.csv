@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Davanagere,GeetanjaliTheatreDavangere,577001,Kannada,11:00,Balcony,150₹,128,2
+Davanagere,GeetanjaliTheatreDavangere,577001,Kannada,11:00,FirstClass,100₹,511,0
+Davanagere,GeetanjaliTheatreDavangere,577001,Kannada,14:00,Balcony,150₹,128,0
+Davanagere,GeetanjaliTheatreDavangere,577001,Kannada,14:00,FirstClass,100₹,511,0
+Davanagere,GeetanjaliTheatreDavangere,577001,Kannada,18:00,Balcony,150₹,128,0
+Davanagere,GeetanjaliTheatreDavangere,577001,Kannada,18:00,FirstClass,100₹,511,0
+Davanagere,GeetanjaliTheatreDavangere,577001,Kannada,21:00,Balcony,150₹,128,0
+Davanagere,GeetanjaliTheatreDavangere,577001,Kannada,21:00,FirstClass,100₹,511,0
