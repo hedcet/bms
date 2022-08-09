@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Hyderabad,MahalaxmiComplexKothapetaHyderabad,500035,Telugu,08:05,Box,150₹,16,16
+Hyderabad,MahalaxmiComplexKothapetaHyderabad,500035,Telugu,08:05,Balcony,150₹,467,467
+Hyderabad,MahalaxmiComplexKothapetaHyderabad,500035,Telugu,08:05,FirstClass,110₹,84,84
+Hyderabad,MahalaxmiComplexKothapetaHyderabad,500035,Telugu,08:05,SecondClass,50₹,106,106
+Hyderabad,PrasadsHyderabad,500063,Telugu,11:30,Executive,200₹,364,359
+Hyderabad,PrasadsMultiplexHyderabad,500063,Telugu,11:45,Executive,200₹,224,194
+Chennai,GkCinemasRgbLaserSrl4DPorur,600116,Telugu,18:30,Lounge1,120₹,25,1
+Chennai,GkCinemasRgbLaserSrl4DPorur,600116,Telugu,18:30,Lounge2,120₹,14,0
+Chennai,GkCinemasRgbLaserSrl4DPorur,600116,Telugu,18:30,SignatureClass,120₹,311,26
+Khammam,AdityaTheater70MmAirCooledKhammam,507001,Telugu,21:30,MaharajaCircle,110₹,492,284
+Khammam,AdityaTheater70MmAirCooledKhammam,507001,Telugu,21:30,DressCircle,80₹,150,17
+Khammam,AdityaTheater70MmAirCooledKhammam,507001,Telugu,21:30,FirstClass,50₹,186,40
