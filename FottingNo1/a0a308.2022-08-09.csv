@@ -1,0 +1,16 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Goa,InoxPorvorimGoa,403521,Konkani,18:00,RoyalRecliner,300₹,13,0
+Goa,InoxPorvorimGoa,403521,Konkani,18:00,Club,150₹,116,0
+Goa,InoxPorvorimGoa,403521,Konkani,18:00,Executive,150₹,36,0
+Goa,InoxPorvorimGoa,403521,Konkani,18:00,Royal,150₹,66,7
+Goa,InoxOsiaGWingMargaoGoa,403601,Konkani,18:00,Club,150₹,136,12
+Goa,InoxOsiaGWingMargaoGoa,403601,Konkani,18:00,Executive,150₹,28,0
+Goa,InoxOsiaGWingMargaoGoa,403601,Konkani,18:00,Royale,150₹,62,9
+Goa,InoxOldGmcDbRoadPanaji,403001,Konkani,19:20,RoyalRecliners,340₹,23,0
+Goa,InoxOldGmcDbRoadPanaji,403001,Konkani,19:20,Royal,210₹,96,14
+Goa,InoxOldGmcDbRoadPanaji,403001,Konkani,19:20,Club,190₹,126,0
+Goa,InoxOldGmcDbRoadPanaji,403001,Konkani,19:20,Executive,170₹,42,0
+Goa,InoxOldGmcDbRoadPanaji,403001,Konkani,19:20,RoyalRecliners,300₹,23,5
+Goa,InoxOldGmcDbRoadPanaji,403001,Konkani,19:20,Club,150₹,126,0
+Goa,InoxOldGmcDbRoadPanaji,403001,Konkani,19:20,Executive,150₹,42,0
+Goa,InoxOldGmcDbRoadPanaji,403001,Konkani,19:20,Royal,150₹,96,20
