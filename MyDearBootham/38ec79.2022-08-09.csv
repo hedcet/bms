@@ -1,0 +1,7 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Tirupur,SriSakthiCinemasUnionMillRoadTirupur,641601,Tamil,15:30,Diamond,190₹,16,7
+Tirupur,SriSakthiCinemasUnionMillRoadTirupur,641601,Tamil,15:30,Platinum,165₹,26,20
+Tirupur,SriSakthiCinemasUnionMillRoadTirupur,641601,Tamil,15:30,Gold,130₹,86,23
+Tirupur,SriSakthiCinemasUnionMillRoadTirupur,641601,Tamil,15:30,Silver,80₹,17,4
+Chennai,RohiniSilverScreensKoyambedu,600107,Tamil,16:15,GoldStar,130₹,336,56
+Chennai,RohiniSilverScreensKoyambedu,600107,Tamil,19:00,GoldStar,130₹,336,36
