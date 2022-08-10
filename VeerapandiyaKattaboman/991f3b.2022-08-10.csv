@@ -1,0 +1,14 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Chennai,KcKrishnaveniCinemasRg3LaserDolbyatmosTnagar,600017,Tamil,12:00,BoxA,1₹,14,14
+Chennai,KcKrishnaveniCinemasRg3LaserDolbyatmosTnagar,600017,Tamil,12:00,BoxB,1₹,7,7
+Chennai,KcKrishnaveniCinemasRg3LaserDolbyatmosTnagar,600017,Tamil,12:00,Elite,1₹,422,176
+Chennai,KcKrishnaveniCinemasRg3LaserDolbyatmosTnagar,600017,Tamil,12:00,Premium,1₹,44,22
+Chennai,VigneshwaraTheatreRgbLaserPoonamallee,600123,Tamil,12:00,Firstclass,1₹,550,40
+Chennai,KumaranTheatreProva4KDolbyAtmosMadipakkam,600091,Tamil,12:00,Balcony,1₹,162,152
+Chennai,KumaranTheatreProva4KDolbyAtmosMadipakkam,600091,Tamil,12:00,FirstClass,1₹,624,409
+Chennai,JanathaTheatre2KAcDtsPallavaram,600043,Tamil,12:00,Balcony,1₹,138,38
+Chennai,JanathaTheatre2KAcDtsPallavaram,600043,Tamil,12:00,FirstClass,1₹,358,40
+Chennai,KasiTalkiesDolbyAtmosAshokNagar,600083,Tamil,12:10,SuperPremium,1₹,27,27
+Chennai,KasiTalkiesDolbyAtmosAshokNagar,600083,Tamil,12:10,Premium,1₹,104,110
+Chennai,KasiTalkiesDolbyAtmosAshokNagar,600083,Tamil,12:10,Elite,1₹,60,60
+Chennai,KasiTalkiesDolbyAtmosAshokNagar,600083,Tamil,12:10,Economy,1₹,15,15
