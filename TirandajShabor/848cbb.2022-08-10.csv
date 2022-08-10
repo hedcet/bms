@@ -1,0 +1,10 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+AshoknagarWestBengal,NatarajCinemaAshoknagar,743222,Bengali,13:15,FirstClass,30₹,50,0
+Kalyani,VidyasagarManchKalyani,741235,Bengali,13:30,SpecialStall,150₹,8,0
+Kalyani,VidyasagarManchKalyani,741235,Bengali,13:30,RearStallSpecialClass,125₹,11,0
+Kalyani,VidyasagarManchKalyani,741235,Bengali,13:30,RearStall,80₹,188,5
+Kalyani,VidyasagarManchKalyani,741235,Bengali,13:30,FrontStall,80₹,238,0
+Kalyani,VidyasagarManchKalyani,741235,Bengali,18:00,SpecialStall,150₹,8,0
+Kalyani,VidyasagarManchKalyani,741235,Bengali,18:00,RearStallSpecialClass,125₹,11,4
+Kalyani,VidyasagarManchKalyani,741235,Bengali,18:00,RearStall,80₹,188,0
+Kalyani,VidyasagarManchKalyani,741235,Bengali,18:00,FrontStall,80₹,238,0
