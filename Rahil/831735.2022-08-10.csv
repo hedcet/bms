@@ -1,0 +1,17 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Ahmedabad,RupamArthCineplexSanand,382110,Gujarati,12:00,Gold,100₹,79,0
+Ahmedabad,RupamArthCineplexSanand,382110,Gujarati,12:00,Silver,100₹,46,0
+Ahmedabad,RupamArthCineplexSanand,382110,Gujarati,12:30,Gold,40₹,74,0
+Ahmedabad,RupamArthCineplexSanand,382110,Gujarati,12:30,Silver,40₹,35,0
+Ahmedabad,RupamArthCineplexSanand,382110,Gujarati,15:00,Gold,100₹,79,0
+Ahmedabad,RupamArthCineplexSanand,382110,Gujarati,15:00,Silver,100₹,46,0
+Ahmedabad,RupamArthCineplexSanand,382110,Gujarati,15:30,Gold,40₹,74,56
+Ahmedabad,RupamArthCineplexSanand,382110,Gujarati,15:30,Silver,40₹,35,0
+Ahmedabad,RupamArthCineplexSanand,382110,Gujarati,18:00,Gold,100₹,79,0
+Ahmedabad,RupamArthCineplexSanand,382110,Gujarati,18:00,Silver,100₹,46,0
+Ahmedabad,RupamArthCineplexSanand,382110,Gujarati,18:30,Gold,40₹,74,0
+Ahmedabad,RupamArthCineplexSanand,382110,Gujarati,18:30,Silver,40₹,51,0
+Ahmedabad,RupamArthCineplexSanand,382110,Gujarati,21:00,Gold,100₹,79,0
+Ahmedabad,RupamArthCineplexSanand,382110,Gujarati,21:00,Silver,100₹,46,0
+Ahmedabad,RupamArthCineplexSanand,382110,Gujarati,21:30,Gold,40₹,74,0
+Ahmedabad,RupamArthCineplexSanand,382110,Gujarati,21:30,Silver,40₹,35,1
