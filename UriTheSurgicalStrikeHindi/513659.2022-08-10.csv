@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Ahmedabad,WideAngleAhmedabad,380015,Hindi,14:45,Silver,110₹,10,0
+Ahmedabad,WideAngleAhmedabad,380015,Hindi,14:45,Gold,110₹,10,0
+Ahmedabad,WideAngleAhmedabad,380015,Hindi,21:45,Silver,110₹,76,0
+Ahmedabad,WideAngleAhmedabad,380015,Hindi,21:45,Gold,110₹,104,47
