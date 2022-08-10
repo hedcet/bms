@@ -1,0 +1,8 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Indore,PvrTreasureIslandMallIndore,452001,Hindi,18:10,Classic,160₹,26,0
+Indore,PvrTreasureIslandMallIndore,452001,Hindi,18:10,Prime,160₹,46,19
+Indore,PvrTreasureIslandMallIndore,452001,Hindi,18:10,Recliner,350₹,8,4
+Hyderabad,PvrIrrumManzilHyderabad,500082,English,18:35,3DClassic,180₹,158,32
+Hyderabad,PvrIrrumManzilHyderabad,500082,English,18:35,3DRecliner,280₹,10,0
+Hyderabad,PvrNextGalleriaMallPanjagutta,500082,English,21:30,Classic,150₹,54,26
+NationalCapitalRegionNcr,PvrLogixNoida,201301,English,23:00,Classic,290₹,40,2
