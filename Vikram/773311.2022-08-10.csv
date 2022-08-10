@@ -1,0 +1,17 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Coimbatore,KgCinemasCoimbatore,641018,Tamil,10:15,Premium,179₹,95,2
+Coimbatore,KgCinemasCoimbatore,641018,Tamil,10:15,Comfort,148₹,53,0
+Trichy,LaCinemaSonaMinaRgbLaserTrichy,620001,Tamil,11:10,Posh,140₹,154,12
+Chennai,SpiEscapeExpressAvenueMallRoyapettah,600014,Tamil,12:15,Budget,60₹,11,11
+Chennai,SpiEscapeExpressAvenueMallRoyapettah,600014,Tamil,12:15,Elite,179₹,99,43
+Chennai,PvrVrChennaiAnnaNagar,600040,Tamil,12:45,Classic,60₹,16,16
+Chennai,PvrVrChennaiAnnaNagar,600040,Tamil,12:45,Prime,179₹,110,28
+Dharmapuri,DmaxDncTheatresDharmapuri,636701,Tamil,14:40,Couple,150₹,24,2
+Dharmapuri,DmaxDncTheatresDharmapuri,636701,Tamil,14:40,Premium,120₹,68,0
+Trichy,LaCinemaSonaMinaRgbLaserTrichy,620001,Tamil,14:50,Posh,140₹,154,7
+Chennai,SpiPalazzoNexusVijayaMallVadapalaniChennai,600026,Tamil,18:15,Budget,60₹,28,28
+Chennai,SpiPalazzoNexusVijayaMallVadapalaniChennai,600026,Tamil,18:15,Elite,190₹,216,43
+Coimbatore,KgCinemasCoimbatore,641018,Tamil,18:45,Premium,179₹,95,0
+Coimbatore,KgCinemasCoimbatore,641018,Tamil,18:45,Comfort,148₹,53,0
+Coimbatore,InoxProzoneMallCoimbatore,641035,Tamil,18:50,Club,152₹,151,22
+Coimbatore,InoxProzoneMallCoimbatore,641035,Tamil,18:50,Executive,60₹,14,0
