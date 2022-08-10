@@ -1,0 +1,14 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kasaragod,MagicFramesMehboobTheatreComplexKasaragod,671121,Malayalam,10:30,Executive,129₹,121,0
+Thodupuzha,SilverHillsCinemasThodupuzha,685584,Malayalam,11:45,Silver,130₹,80,0
+Kochi,SangeetaCinemaKochi,680018,Malayalam,12:00,BlueCircle,150₹,187,38
+Thalayolaparambu,CarnivalThalayolaparambu,686605,Malayalam,12:45,Gold,110₹,144,0
+Trivandrum,CarnivalMallOfTravancoreTrivandrum,695024,Malayalam,12:45,PremiumOffline,300₹,50,8
+Trivandrum,CarnivalMallOfTravancoreTrivandrum,695024,Malayalam,12:45,ExecutiveOffline,180₹,102,10
+Trivandrum,CarnivalMallOfTravancoreTrivandrum,695024,Malayalam,12:45,NormalOffline,100₹,17,0
+Irinjalakuda,MasMoviesIrinjalakuda,680121,Malayalam,15:00,Silver,130₹,207,25
+Karunagapally,CarnivalHJComplex,690518,Malayalam,15:30,ClassicOffline,100₹,118,0
+Vadakara,One2OnePlusFilmCity2K3DDolbyAtmosACVada,673101,Malayalam,16:30,Screen2,129₹,164,0
+Kodungallur,CarnivalMughalMall,680664,Malayalam,16:30,ExecutiveOffline,140₹,172,0
+Kodungallur,CarnivalMughalMall,680664,Malayalam,16:30,Vip,250₹,10,0
+Angamaly,CarnivalKsrtComplex,683572,Malayalam,16:45,GoldOffline,130₹,202,27
