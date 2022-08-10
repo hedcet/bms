@@ -1,0 +1,10 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Chennai,AgsCinemasVillivakkam,600049,Tamil,13:30,Diamond,150₹,147,14
+Chennai,AgsCinemasVillivakkam,600049,Tamil,13:30,Pearl,60₹,17,0
+Chennai,SpiEscapeExpressAvenueMallRoyapettah,600014,Tamil,15:50,Budget,60₹,11,11
+Chennai,SpiEscapeExpressAvenueMallRoyapettah,600014,Tamil,15:50,Elite,165₹,99,13
+Chennai,SpiPalazzoNexusVijayaMallVadapalaniChennai,600026,Tamil,15:50,Budget,60₹,34,30
+Chennai,SpiPalazzoNexusVijayaMallVadapalaniChennai,600026,Tamil,15:50,Elite,165₹,277,33
+Chennai,PvrVrChennaiAnnaNagar,600040,Tamil,22:35,Classic,60₹,16,16
+Chennai,PvrVrChennaiAnnaNagar,600040,Tamil,22:35,Prime,165₹,110,11
+Chennai,RohiniSilverScreensKoyambedu,600107,Tamil,23:01,GoldStar,130₹,315,35
