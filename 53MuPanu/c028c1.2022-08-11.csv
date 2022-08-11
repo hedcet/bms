@@ -1,0 +1,7 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Ahmedabad,CineworldNarodaAhmedabad,382330,Gujarati,12:15,Platinum,300₹,14,0
+Ahmedabad,CineworldNarodaAhmedabad,382330,Gujarati,12:15,Gold,100₹,37,0
+Ahmedabad,CineworldNarodaAhmedabad,382330,Gujarati,12:15,Silver,100₹,9,0
+Ahmedabad,CineworldNarodaAhmedabad,382330,Gujarati,18:15,Platinum,300₹,13,2
+Ahmedabad,CineworldNarodaAhmedabad,382330,Gujarati,18:15,Gold,100₹,37,2
+Ahmedabad,CineworldNarodaAhmedabad,382330,Gujarati,18:15,Silver,100₹,9,9
