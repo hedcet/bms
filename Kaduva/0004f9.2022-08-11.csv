@@ -1,0 +1,14 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Trivandrum,NewTheatre4KRgbLaserDolbyAtmosThampanoor,695001,Malayalam,11:15,Elite,150₹,200,0
+Thalayolaparambu,CarnivalThalayolaparambu,686605,Malayalam,12:45,Gold,110₹,204,8
+Thrissur,InoxSobhaCityMall,680553,Malayalam,13:35,RoyalRecliner,290₹,10,0
+Thrissur,InoxSobhaCityMall,680553,Malayalam,13:35,Club,170₹,37,0
+Thrissur,InoxSobhaCityMall,680553,Malayalam,13:35,Royal,170₹,19,3
+Thrissur,InoxSobhaCityMall,680553,Malayalam,13:35,Executive,130₹,16,0
+Trivandrum,NewTheatre4KRgbLaserDolbyAtmosThampanoor,695001,Malayalam,14:30,Elite,150₹,200,0
+Kochi,PvrLuluKochi,682024,Malayalam,16:20,Classic,110₹,39,0
+Kochi,PvrLuluKochi,682024,Malayalam,16:20,ClassicPlus,140₹,91,0
+Kochi,PvrLuluKochi,682024,Malayalam,16:20,Prime,160₹,64,20
+Kochi,PvrLuluKochi,682024,Malayalam,16:20,Recliner,300₹,9,0
+Trivandrum,NewTheatre4KRgbLaserDolbyAtmosThampanoor,695001,Malayalam,18:15,Elite,150₹,200,0
+Trivandrum,NewTheatre4KRgbLaserDolbyAtmosThampanoor,695001,Malayalam,21:45,Elite,150₹,200,0
