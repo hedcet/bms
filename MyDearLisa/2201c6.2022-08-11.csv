@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Chennai,RohiniSilverScreensKoyambedu,600107,Tamil,10:00,GoldStar,130₹,315,36
+Srivaikuntam,ChandraTheatreSrivaikuntam,628801,Tamil,14:30,FirstClass,40₹,86,0
+Srivaikuntam,ChandraTheatreSrivaikuntam,628801,Tamil,14:30,SecondClass,20₹,86,0
+Srivaikuntam,ChandraTheatreSrivaikuntam,628801,Tamil,18:30,FirstClass,40₹,86,0
+Srivaikuntam,ChandraTheatreSrivaikuntam,628801,Tamil,18:30,SecondClass,20₹,86,0
+Srivaikuntam,ChandraTheatreSrivaikuntam,628801,Tamil,22:00,FirstClass,40₹,86,0
+Srivaikuntam,ChandraTheatreSrivaikuntam,628801,Tamil,22:00,SecondClass,20₹,86,0
+Chennai,AgsCinemasVillivakkam,600049,Tamil,22:10,Diamond,150₹,113,0
