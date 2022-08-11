@@ -1,0 +1,14 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kasaragod,CineKrishna4KKasaragod,671123,Malayalam,10:30,FirstClass,129₹,144,0
+Kasaragod,CineKrishna4KKasaragod,671123,Malayalam,10:30,Sofa,200₹,8,0
+Pathanamthitta,UpasanaTheatreRanni,689672,Malayalam,11:00,GoldClass,110₹,240,2
+Pathanamthitta,UpasanaTheatreRanni,689672,Malayalam,14:30,GoldClass,110₹,238,0
+Pulpally,PentaCinemasPulpally,673579,Malayalam,14:45,GoldClass,110₹,120,2
+Kollam,GmaxCinemasKollam,691001,Malayalam,17:00,Green,160₹,86,9
+Kannur,LittleKavithaKannur,670001,Malayalam,17:30,Jasmine,110₹,303,0
+Pulpally,PentaCinemasPulpally,673579,Malayalam,17:45,GoldClass,110₹,120,2
+Kasaragod,CineKrishna4KKasaragod,671123,Malayalam,19:30,FirstClass,129₹,144,0
+Kasaragod,CineKrishna4KKasaragod,671123,Malayalam,19:30,Sofa,200₹,8,0
+Kannur,LittleKavithaKannur,670001,Malayalam,20:30,Jasmine,110₹,303,0
+Pulpally,PentaCinemasPulpally,673579,Malayalam,20:45,GoldClass,110₹,120,2
+Mukkam,PeeCeeTheatreMukkam,673602,Malayalam,21:15,FirstClass,110₹,124,0
