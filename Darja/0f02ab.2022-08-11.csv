@@ -1,0 +1,17 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Vizianagaram,SriKrishnaCinemaACDolby712KVizianagaram,535001,Telugu,11:00,Premium,112₹,520,56
+Vizianagaram,SriKrishnaCinemaACDolby712KVizianagaram,535001,Telugu,11:00,NonPremium,78₹,159,33
+Devarakonda,VenkateswaraAC2KDolbyDtsDevarakonda,508248,Telugu,11:30,FirstClass,110₹,341,0
+Devarakonda,VenkateswaraAC2KDolbyDtsDevarakonda,508248,Telugu,11:30,SecondClass,80₹,177,0
+Vizianagaram,SriKrishnaCinemaACDolby712KVizianagaram,535001,Telugu,14:30,Premium,112₹,520,56
+Vizianagaram,SriKrishnaCinemaACDolby712KVizianagaram,535001,Telugu,14:30,NonPremium,78₹,159,33
+Devarakonda,VenkateswaraAC2KDolbyDtsDevarakonda,508248,Telugu,14:30,FirstClass,110₹,341,0
+Devarakonda,VenkateswaraAC2KDolbyDtsDevarakonda,508248,Telugu,14:30,SecondClass,80₹,177,0
+Vizianagaram,SriKrishnaCinemaACDolby712KVizianagaram,535001,Telugu,18:30,Premium,112₹,520,56
+Vizianagaram,SriKrishnaCinemaACDolby712KVizianagaram,535001,Telugu,18:30,NonPremium,78₹,159,33
+Devarakonda,VenkateswaraAC2KDolbyDtsDevarakonda,508248,Telugu,18:30,FirstClass,110₹,341,0
+Devarakonda,VenkateswaraAC2KDolbyDtsDevarakonda,508248,Telugu,18:30,SecondClass,80₹,177,0
+Devarakonda,VenkateswaraAC2KDolbyDtsDevarakonda,508248,Telugu,21:30,FirstClass,110₹,341,0
+Devarakonda,VenkateswaraAC2KDolbyDtsDevarakonda,508248,Telugu,21:30,SecondClass,80₹,177,0
+Vizianagaram,SriKrishnaCinemaACDolby712KVizianagaram,535001,Telugu,21:45,Premium,112₹,520,2
+Vizianagaram,SriKrishnaCinemaACDolby712KVizianagaram,535001,Telugu,21:45,NonPremium,78₹,159,2
