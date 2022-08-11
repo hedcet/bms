@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kochi,SangeetaCinemaKochi,680018,Malayalam,12:00,BlueCircle,150₹,187,18
+Irinjalakuda,MasMoviesIrinjalakuda,680121,Malayalam,15:00,Silver,130₹,207,0
+Kodungallur,CarnivalMughalMall,680664,Malayalam,16:30,ExecutiveOffline,140₹,172,16
+Kodungallur,CarnivalMughalMall,680664,Malayalam,16:30,Vip,250₹,10,5
