@@ -1,0 +1,12 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Memari,KristiCinemaMemari,713146,Bengali,11:00,LowerStall,60₹,448,0
+Memari,KristiCinemaMemari,713146,Bengali,11:00,UpperStall,80₹,324,0
+Hooghly,RabindraManchaBhadreswar,712124,Bengali,13:00,Balcony,99₹,50,0
+Hooghly,RabindraManchaBhadreswar,712124,Bengali,13:00,RearStall,50₹,50,0
+Hooghly,RabindraManchaBhadreswar,712124,Bengali,16:00,Balcony,99₹,50,0
+Hooghly,RabindraManchaBhadreswar,712124,Bengali,16:00,RearStall,50₹,50,0
+Kolkata,NazrultirthaCinemaScreen3Kolkata,700156,Bengali,17:00,Gold,130₹,30,0
+Kolkata,NazrultirthaCinemaScreen3Kolkata,700156,Bengali,17:00,Recliner,150₹,8,2
+Kolkata,NazrultirthaCinemaScreen3Kolkata,700156,Bengali,17:00,Sofa,130₹,12,0
+Hooghly,RabindraManchaBhadreswar,712124,Bengali,18:30,Balcony,99₹,50,0
+Hooghly,RabindraManchaBhadreswar,712124,Bengali,18:30,RearStall,50₹,50,0
