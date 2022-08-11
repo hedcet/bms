@@ -1,0 +1,7 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bhilwara,InoxCityCentreMallBhilwara,311001,Hindi,13:10,Club,200₹,65,5
+Bhilwara,InoxCityCentreMallBhilwara,311001,Hindi,13:10,Executive,200₹,33,4
+Bhilwara,InoxCityCentreMallBhilwara,311001,Hindi,13:10,Royale,200₹,27,5
+Gwalior,InoxDbMallGwalior,474002,Hindi,13:15,Royale,230₹,66,14
+Gwalior,InoxDbMallGwalior,474002,Hindi,13:15,Club,220₹,55,8
+Gwalior,InoxDbMallGwalior,474002,Hindi,13:15,Executive,190₹,22,0
