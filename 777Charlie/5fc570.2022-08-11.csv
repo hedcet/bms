@@ -1,0 +1,10 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Chickmagaluru,NagalakshmiTheatreChickmagaluru,577101,Kannada,10:30,GoldClass,150₹,64,0
+Chickmagaluru,NagalakshmiTheatreChickmagaluru,577101,Kannada,10:30,SilverClass,120₹,120,0
+VijayapuraBijapur,DreamlandTheatreVijayapuraBijapur,586101,Kannada,12:00,Balcony,150₹,66,0
+VijayapuraBijapur,DreamlandTheatreVijayapuraBijapur,586101,Kannada,12:00,Comfort,110₹,110,0
+VijayapuraBijapur,DreamlandTheatreVijayapuraBijapur,586101,Kannada,15:00,Balcony,150₹,66,0
+VijayapuraBijapur,DreamlandTheatreVijayapuraBijapur,586101,Kannada,15:00,Comfort,110₹,110,0
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,21:45,Classic,166₹,128,0
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,21:45,Prime,184₹,100,23
+Bengaluru,PvrOrionMallDrRajkumarRoad,560055,Kannada,21:45,Recliner,277₹,14,4
