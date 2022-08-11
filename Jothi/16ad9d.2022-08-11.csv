@@ -1,0 +1,15 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Cuddalore,VelmuruganTheatreCuddalore,607002,Tamil,11:00,MaharajaClass,130₹,610,0
+Cuddalore,VelmuruganTheatreCuddalore,607002,Tamil,11:00,1FirstClass,130₹,610,0
+Cuddalore,VelmuruganTheatreCuddalore,607002,Tamil,11:00,2SecondClass,100₹,610,0
+Cuddalore,VelmuruganTheatreCuddalore,607002,Tamil,11:00,3ThirdClass,55₹,610,0
+Chennai,RohiniSilverScreensKoyambedu,600107,Tamil,12:45,GoldStar,130₹,120,16
+Chennai,RohiniSilverScreensKoyambedu,600107,Tamil,12:45,GoldStar,130₹,120,14
+Chennai,RohiniSilverScreensKoyambedu,600107,Tamil,13:00,GoldStar,130₹,120,16
+Cuddalore,VelmuruganTheatreCuddalore,607002,Tamil,18:15,MaharajaClass,130₹,612,0
+Cuddalore,VelmuruganTheatreCuddalore,607002,Tamil,18:15,1FirstClass,130₹,612,0
+Cuddalore,VelmuruganTheatreCuddalore,607002,Tamil,18:15,2SecondClass,100₹,612,0
+Cuddalore,VelmuruganTheatreCuddalore,607002,Tamil,18:15,3ThirdClass,55₹,612,0
+Chennai,RohiniSilverScreensKoyambedu,600107,Tamil,21:00,GoldStar,130₹,120,14
+Chennai,RohiniSilverScreensKoyambedu,600107,Tamil,21:00,GoldStar,130₹,120,20
+Chennai,RohiniSilverScreensKoyambedu,600107,Tamil,23:45,GoldStar,130₹,120,16
