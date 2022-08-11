@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kolkata,NandanKolkata,700020,Bengali,14:00,Normal,30₹,165,28
+Memari,KristiCinemaMemari,713146,Bengali,15:30,LowerStall,60₹,448,0
+Memari,KristiCinemaMemari,713146,Bengali,15:30,UpperStall,80₹,324,0
+AshoknagarWestBengal,NatarajCinemaAshoknagar,743222,Bengali,19:00,FirstClass,30₹,50,0
