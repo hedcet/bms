@@ -1,0 +1,10 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Chennai,LuxeCinemasChennai,600042,Tamil,11:30,Elite2D,190₹,180,12
+Chennai,LuxeCinemasChennai,600042,Tamil,11:30,Budget,60₹,20,5
+Chennai,PvrVrChennaiAnnaNagar,600040,Tamil,13:10,Classic,60₹,34,34
+Chennai,PvrVrChennaiAnnaNagar,600040,Tamil,13:10,Prime,165₹,142,42
+Chennai,PvrHeritageRslEcrChennai,600119,Tamil,15:45,Classic,60₹,15,15
+Chennai,PvrHeritageRslEcrChennai,600119,Tamil,15:45,Prime,165₹,118,13
+Chennai,SpiPalazzoTheForumVijayaMallVadapalani,600026,Tamil,18:45,Budget,60₹,26,20
+Chennai,SpiPalazzoTheForumVijayaMallVadapalani,600026,Tamil,18:45,Elite,165₹,230,48
+Chennai,RohiniSilverScreensKoyambedu,600107,Tamil,23:45,GoldStar,130₹,272,36
