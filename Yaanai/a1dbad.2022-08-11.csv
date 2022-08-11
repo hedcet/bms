@@ -1,0 +1,17 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Trichy,PalaceTheatreTiruchirappalli,620008,Tamil,11:15,FirstClass,60₹,249,0
+Trichy,SriRengarajTalkiesTiruchirappalli,620006,Tamil,14:15,FirstClass,50₹,200,0
+Trichy,PalaceTheatreTiruchirappalli,620008,Tamil,14:15,FirstClass,60₹,249,0
+Trichy,ArunaTheatreTrichy,620017,Tamil,14:30,FirstClass,50₹,378,0
+Tirupur,SriSakthiCinemasUnionMillRoadTirupur,641601,Tamil,15:00,Diamond,190₹,22,7
+Tirupur,SriSakthiCinemasUnionMillRoadTirupur,641601,Tamil,15:00,Platinum,165₹,24,0
+Tirupur,SriSakthiCinemasUnionMillRoadTirupur,641601,Tamil,15:00,Gold,130₹,96,0
+Tirupur,SriSakthiCinemasUnionMillRoadTirupur,641601,Tamil,15:00,Silver,80₹,16,0
+Chennai,RohiniSilverScreensKoyambedu,600107,Tamil,16:00,GoldStar,130₹,315,36
+Trichy,SriRengarajTalkiesTiruchirappalli,620006,Tamil,18:15,FirstClass,50₹,200,0
+Trichy,PalaceTheatreTiruchirappalli,620008,Tamil,18:15,FirstClass,60₹,249,0
+Trichy,ArunaTheatreTrichy,620017,Tamil,18:30,FirstClass,50₹,378,0
+Chennai,RohiniSilverScreensKoyambedu,600107,Tamil,19:00,GoldStar,130₹,315,36
+Trichy,PalaceTheatreTiruchirappalli,620008,Tamil,22:00,FirstClass,60₹,249,0
+Trichy,SriRengarajTalkiesTiruchirappalli,620006,Tamil,22:15,FirstClass,50₹,200,0
+Trichy,ArunaTheatreTrichy,620017,Tamil,22:15,FirstClass,50₹,378,0
