@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Sattenapalle,EswarsaiDeluxeAcSattenapalle,522403,Telugu,11:30,Sofa,150₹,414,0
+Sattenapalle,EswarsaiDeluxeAcSattenapalle,522403,Telugu,11:30,FirstClass,100₹,414,0
+Sattenapalle,EswarsaiDeluxeAcSattenapalle,522403,Telugu,11:30,SecondClass,70₹,414,0
+Sattenapalle,EswarsaiDeluxeAcSattenapalle,522403,Telugu,14:30,Sofa,150₹,22,22
+Sattenapalle,EswarsaiDeluxeAcSattenapalle,522403,Telugu,14:30,FirstClass,100₹,330,0
+Sattenapalle,EswarsaiDeluxeAcSattenapalle,522403,Telugu,14:30,SecondClass,70₹,84,0
+Sattenapalle,EswarsaiDeluxeAcSattenapalle,522403,Telugu,18:30,Sofa,150₹,414,0
+Sattenapalle,EswarsaiDeluxeAcSattenapalle,522403,Telugu,18:30,FirstClass,100₹,414,0
+Sattenapalle,EswarsaiDeluxeAcSattenapalle,522403,Telugu,18:30,SecondClass,70₹,414,0
+Sattenapalle,EswarsaiDeluxeAcSattenapalle,522403,Telugu,21:30,Sofa,150₹,22,22
+Sattenapalle,EswarsaiDeluxeAcSattenapalle,522403,Telugu,21:30,FirstClass,100₹,330,0
+Sattenapalle,EswarsaiDeluxeAcSattenapalle,522403,Telugu,21:30,SecondClass,70₹,84,0
