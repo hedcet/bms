@@ -1,0 +1,16 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Nandigama,VijayaTheaterNandigama,521185,Telugu,11:15,Premium,100₹,204,63
+Nandigama,VijayaTheaterNandigama,521185,Telugu,14:15,Premium,100₹,204,0
+Chennai,CinepolisBsrMallOmrThoraipakkam,600097,Telugu,15:45,Normal,63₹,17,4
+Chennai,CinepolisBsrMallOmrThoraipakkam,600097,Telugu,15:45,Executive,162₹,124,2
+NationalCapitalRegionNcr,CinepolisAiriaMallSohnaRoadGurgaon,122103,Telugu,16:05,Normal,200₹,41,0
+NationalCapitalRegionNcr,CinepolisAiriaMallSohnaRoadGurgaon,122103,Telugu,16:05,Executive,220₹,105,0
+NationalCapitalRegionNcr,CinepolisAiriaMallSohnaRoadGurgaon,122103,Telugu,16:05,Premium,240₹,55,40
+NationalCapitalRegionNcr,CinepolisAiriaMallSohnaRoadGurgaon,122103,Telugu,16:05,Vip,500₹,13,13
+TumakuruTumkur,InoxSMallTumakuru,572106,Telugu,16:45,Insignia,400₹,33,10
+Nandigama,VijayaTheaterNandigama,521185,Telugu,18:15,Premium,100₹,204,0
+NationalCapitalRegionNcr,InoxAiplJoyStreetGurgaon,122018,Telugu,19:10,Club,200₹,40,0
+NationalCapitalRegionNcr,InoxAiplJoyStreetGurgaon,122018,Telugu,19:10,Royale,200₹,48,8
+Nandigama,VijayaTheaterNandigama,521185,Telugu,21:15,Premium,100₹,204,0
+Chennai,CinepolisBsrMallOmrThoraipakkam,600097,Telugu,22:25,Normal,63₹,17,9
+Chennai,CinepolisBsrMallOmrThoraipakkam,600097,Telugu,22:25,Executive,162₹,124,2
