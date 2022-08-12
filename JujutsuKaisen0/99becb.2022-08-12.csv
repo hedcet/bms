@@ -1,0 +1,6 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Mumbai,InoxMegaplexInorbitMallMalad,400064,Japanese,09:00,Insignia,300₹,38,6
+Hyderabad,PvrNextGalleriaMallPanjagutta,500082,Japanese,11:45,Classic,150₹,54,15
+Bengaluru,PvrPhoenixMarketcityMallWhitefieldRoad,560048,Japanese,11:45,Classic,170₹,120,16
+Bengaluru,PvrPhoenixMarketcityMallWhitefieldRoad,560048,Japanese,11:45,Recliner,280₹,8,0
+NationalCapitalRegionNcr,PvrLogixNoida,201301,Japanese,16:00,Classic,270₹,40,8
