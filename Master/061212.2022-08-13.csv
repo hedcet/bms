@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+BelagaviBelgaum,SantoshTheatreBelagavi,590001,Kannada,12:00,Balcony,80₹,112,0
+BelagaviBelgaum,SantoshTheatreBelagavi,590001,Kannada,12:00,Stall,70₹,118,0
+BelagaviBelgaum,SantoshTheatreBelagavi,590001,Kannada,15:00,Balcony,80₹,112,0
+BelagaviBelgaum,SantoshTheatreBelagavi,590001,Kannada,15:00,Stall,70₹,118,0
+BelagaviBelgaum,SantoshTheatreBelagavi,590001,Kannada,18:00,Balcony,80₹,112,2
+BelagaviBelgaum,SantoshTheatreBelagavi,590001,Kannada,18:00,Stall,70₹,118,0
+BelagaviBelgaum,SantoshTheatreBelagavi,590001,Kannada,21:00,Balcony,80₹,112,0
+BelagaviBelgaum,SantoshTheatreBelagavi,590001,Kannada,21:00,Stall,70₹,118,0
