@@ -1,0 +1,4 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Himmatnagar,NewStarCityMultiplexHimmatnagar,383001,Gujarati,18:45,Platinum,200₹,26,0
+Himmatnagar,NewStarCityMultiplexHimmatnagar,383001,Gujarati,18:45,Gold,150₹,182,1
+Himmatnagar,NewStarCityMultiplexHimmatnagar,383001,Gujarati,18:45,Silver,100₹,60,0
