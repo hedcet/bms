@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+MangaluruMangalore,PvrNexusMallPandeshwarMangalore,575001,Tulu,12:10,Classic,150₹,79,16
+MangaluruMangalore,BharathCinemasMangalore,575013,Tulu,19:30,Gold,200₹,142,42
+MangaluruMangalore,BharathCinemasMangalore,575013,Tulu,19:30,Silver,180₹,78,2
+MangaluruMangalore,BharathCinemasMangalore,575013,Tulu,19:30,Special,150₹,19,0
