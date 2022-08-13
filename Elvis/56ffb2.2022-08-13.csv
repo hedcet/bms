@@ -1,0 +1,10 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+NationalCapitalRegionNcr,PvrLogixNoida,201301,English,12:05,Classic,99₹,87,14
+Mumbai,MaisonPvrTheLoftLuxeJioWorldDriveBkc,400051,English,15:30,Platinum,700₹,33,10
+NationalCapitalRegionNcr,PvrAmbienceGoldGurgaon,122001,English,21:30,Platinum,400₹,28,0
+NationalCapitalRegionNcr,PvrAmbienceGoldGurgaon,122001,English,21:30,PlatinumSuperior,400₹,8,0
+Mumbai,PvrLuxePhoenixPalladiumLowerParelMumbai,400013,English,21:40,Prime,"1,050₹",12,0
+Mumbai,PvrLuxePhoenixPalladiumLowerParelMumbai,400013,English,21:40,PrimePlus,"1,050₹",30,15
+NationalCapitalRegionNcr,PvrPromenadeVasantKunj,110070,English,22:15,Classic,200₹,50,8
+NationalCapitalRegionNcr,PvrPromenadeVasantKunj,110070,English,22:15,Prime,250₹,44,25
+Mumbai,InoxInsigniaAtAtriaMallWorli,400018,English,22:40,Insignia,"1,100₹",34,6
