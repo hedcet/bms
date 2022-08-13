@@ -1,0 +1,6 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Chennai,LuxeCinemasChennai,600042,Tamil,10:30,Elite2D,190₹,134,37
+Chennai,LuxeCinemasChennai,600042,Tamil,10:30,Budget,60₹,24,0
+Madurai,RamTheatreMadurai,625009,Tamil,14:30,Balcony,80₹,242,0
+Madurai,RamTheatreMadurai,625009,Tamil,18:30,Balcony,80₹,242,0
+Madurai,RamTheatreMadurai,625009,Tamil,22:00,Balcony,80₹,242,0
