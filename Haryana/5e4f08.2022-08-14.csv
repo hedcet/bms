@@ -1,0 +1,6 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Rohtak,RnCinemasRohtak,124001,Hindi,17:30,Silver,120₹,68,35
+Rohtak,RnCinemasRohtak,124001,Hindi,17:30,Gold,400₹,4,0
+Pune,CinepolisSeasonsMallPune,411028,Hindi,17:45,Normal,200₹,27,1
+Pune,CinepolisSeasonsMallPune,411028,Hindi,17:45,Executive,220₹,92,33
+Pune,CinepolisSeasonsMallPune,411028,Hindi,17:45,Premium,220₹,33,24
