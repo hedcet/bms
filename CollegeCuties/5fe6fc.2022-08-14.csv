@@ -1,0 +1,16 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Alappuzha,PanCinemasAlappuzha,688006,Malayalam,09:10,Platinum,230₹,28,0
+Alappuzha,PanCinemasAlappuzha,688006,Malayalam,09:10,Gold,130₹,265,24
+Angamaly,CarnivalKsrtComplex,683572,Malayalam,09:45,GoldOffline,130₹,202,27
+Kochi,MajesticTheatreNarakkal,682505,Malayalam,10:30,Elite,125₹,143,0
+Kochi,MajesticTheatreNarakkal,682505,Malayalam,10:30,Premium,100₹,20,20
+Kochi,MajesticTheatreNarakkal,682505,Malayalam,10:30,Executive,170₹,12,0
+Kasaragod,CineKrishna4KKasaragod,671123,Malayalam,10:30,FirstClass,129₹,144,0
+Kasaragod,CineKrishna4KKasaragod,671123,Malayalam,10:30,Sofa,200₹,8,0
+Thalayolaparambu,CarnivalThalayolaparambu,686605,Malayalam,13:00,Gold,110₹,144,1
+Trivandrum,CarnivalGreenfieldTrivandrum,695581,Malayalam,13:00,ExecutiveOffline,160₹,119,25
+Trivandrum,CarnivalMallOfTravancoreRedCarpet,695024,Malayalam,13:20,PremiumLounge,250₹,65,6
+Vadakara,One2OnePlusFilmCity2K3DDolbyAtmosACVada,673101,Malayalam,13:30,Screen2,129₹,164,0
+Alappuzha,ParadiseCinemaCherthala,688524,Malayalam,14:45,Gold,130₹,204,0
+Kochi,SangeetaCinemaKochi,680018,Malayalam,15:00,BlueCircle,150₹,187,18
+Karunagapally,CarnivalHJComplex,690518,Malayalam,16:15,ClassicOffline,170₹,118,0
