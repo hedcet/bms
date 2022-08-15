@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kochi,PvrLuluKochi,682024,Malayalam,12:25,Classic,140₹,39,0
+Kochi,PvrLuluKochi,682024,Malayalam,12:25,ClassicPlus,160₹,91,7
+Kochi,PvrLuluKochi,682024,Malayalam,12:25,Prime,190₹,68,5
+Kochi,PvrLuluKochi,682024,Malayalam,12:25,Recliner,350₹,10,9
