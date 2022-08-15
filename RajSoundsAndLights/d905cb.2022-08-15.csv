@@ -1,0 +1,8 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Manipal,BharathCinemasManipal,576104,Tulu,11:00,Gold,180₹,69,7
+Manipal,BharathCinemasManipal,576104,Tulu,11:00,Silver,150₹,48,0
+MangaluruMangalore,PvrForumFizaMallPandeshwar,575001,Tulu,12:10,Classic,150₹,79,31
+MangaluruMangalore,BharathCinemasMangalore,575013,Tulu,19:45,Recliner,400₹,21,6
+MangaluruMangalore,BharathCinemasMangalore,575013,Tulu,19:45,Gold,200₹,146,59
+MangaluruMangalore,BharathCinemasMangalore,575013,Tulu,19:45,Silver,180₹,64,13
+MangaluruMangalore,BharathCinemasMangalore,575013,Tulu,19:45,Special,150₹,50,0
