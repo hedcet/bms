@@ -1,0 +1,4 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Madurai,RamTheatreMadurai,625009,Tamil,14:30,Balcony,80₹,242,0
+Madurai,RamTheatreMadurai,625009,Tamil,18:30,Balcony,80₹,242,0
+Madurai,RamTheatreMadurai,625009,Tamil,22:00,Balcony,80₹,242,2
