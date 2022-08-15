@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,CinepolisNexusShantiniketanBengaluru,560067,English,17:20,Normal,200₹,69,49
+Bengaluru,CinepolisNexusShantiniketanBengaluru,560067,English,17:20,DoubleSofa,250₹,24,22
+Bengaluru,CinepolisNexusShantiniketanBengaluru,560067,English,17:20,Lounger,280₹,9,3
+Bengaluru,CinepolisNexusShantiniketanBengaluru,560067,English,17:20,SingleSofa,300₹,6,6
