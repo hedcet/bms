@@ -1,0 +1,8 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Alappuzha,PanCinemasAlappuzha,688006,Malayalam,09:10,Platinum,230₹,28,0
+Alappuzha,PanCinemasAlappuzha,688006,Malayalam,09:10,Gold,130₹,265,22
+Angamaly,CarnivalKsrtComplex,683572,Malayalam,09:45,GoldOffline,110₹,202,27
+Thalayolaparambu,CarnivalThalayolaparambu,686605,Malayalam,13:00,Gold,110₹,144,0
+Vadakara,One2OnePlusFilmCity2K3DDolbyAtmosACVada,673101,Malayalam,13:30,Screen2,129₹,164,0
+Kochi,SangeetaCinemaKochi,680018,Malayalam,15:00,BlueCircle,150₹,187,18
+Karunagapally,CarnivalHJComplex,690518,Malayalam,16:15,ClassicOffline,170₹,118,0
