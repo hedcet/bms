@@ -1,0 +1,15 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Hyderabad,PvrForumSujanaMallKukatpallyHyderabad,500072,Telugu,10:10,Classic,150₹,135,53
+Hyderabad,PvrForumSujanaMallKukatpallyHyderabad,500072,Telugu,10:10,Recliner,250₹,9,7
+Mandapeta,VpcSriKrishnaCinemaxMandapeta,533308,Telugu,11:30,FirstClass,110₹,144,0
+Mandapeta,VpcSriKrishnaCinemaxMandapeta,533308,Telugu,11:30,SecondClass,70₹,16,0
+VizagVisakhapatnam,SatyamTheatreGopalapatnam,530027,Telugu,14:00,Balcony,112₹,207,0
+VizagVisakhapatnam,SatyamTheatreGopalapatnam,530027,Telugu,14:00,FirstClass,112₹,69,0
+Mandapeta,VpcSriKrishnaCinemaxMandapeta,533308,Telugu,14:30,FirstClass,110₹,144,0
+Mandapeta,VpcSriKrishnaCinemaxMandapeta,533308,Telugu,14:30,SecondClass,70₹,16,0
+Mandapeta,VpcSriKrishnaCinemaxMandapeta,533308,Telugu,18:00,FirstClass,110₹,144,0
+Mandapeta,VpcSriKrishnaCinemaxMandapeta,533308,Telugu,18:00,SecondClass,70₹,16,0
+VizagVisakhapatnam,SatyamTheatreGopalapatnam,530027,Telugu,18:00,Balcony,112₹,207,0
+VizagVisakhapatnam,SatyamTheatreGopalapatnam,530027,Telugu,18:00,FirstClass,112₹,69,0
+Mandapeta,VpcSriKrishnaCinemaxMandapeta,533308,Telugu,21:00,FirstClass,110₹,144,16
+Mandapeta,VpcSriKrishnaCinemaxMandapeta,533308,Telugu,21:00,SecondClass,70₹,16,0
