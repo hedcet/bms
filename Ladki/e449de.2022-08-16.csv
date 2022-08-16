@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Mananthavady,VeenaTheatreMananthavady,670645,Tamil,11:30,Diamond,100₹,122,0
+Mananthavady,VeenaTheatreMananthavady,670645,Tamil,11:30,Gold,80₹,336,0
+Mananthavady,VeenaTheatreMananthavady,670645,Tamil,14:30,Diamond,100₹,122,4
+Mananthavady,VeenaTheatreMananthavady,670645,Tamil,14:30,Gold,80₹,336,0
+Mananthavady,VeenaTheatreMananthavady,670645,Tamil,17:30,Diamond,100₹,122,0
+Mananthavady,VeenaTheatreMananthavady,670645,Tamil,17:30,Gold,80₹,336,0
+Mananthavady,VeenaTheatreMananthavady,670645,Tamil,20:30,Diamond,100₹,122,0
+Mananthavady,VeenaTheatreMananthavady,670645,Tamil,20:30,Gold,80₹,336,0
