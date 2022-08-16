@@ -1,0 +1,6 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kolkata,RdbCinemasSaltLakeKolkata,700091,Bengali,14:25,Plat,100₹,325,27
+Kolkata,RdbCinemasSaltLakeKolkata,700091,Bengali,14:25,Gold,100₹,98,0
+Kolkata,RdbCinemasSaltLakeKolkata,700091,Bengali,14:25,PlatinumPlus,160₹,30,4
+Kolkata,RdbCinemasSaltLakeKolkata,700091,Bengali,17:25,Plat,100₹,232,27
+Kolkata,RdbCinemasSaltLakeKolkata,700091,Bengali,17:25,Gold,100₹,64,0
