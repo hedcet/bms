@@ -1,0 +1,11 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Krishnagiri,SriMuruganTheatreKrishnagiri,635001,Tamil,10:00,FirstClass,30₹,250,0
+Krishnagiri,SriMuruganTheatreKrishnagiri,635001,Tamil,14:00,FirstClass,30₹,250,0
+Chennai,LuxeCinemasChennai,600042,Tamil,15:25,Elite2D,190₹,134,10
+Chennai,LuxeCinemasChennai,600042,Tamil,15:25,Budget,60₹,24,4
+Chennai,PvrVrChennaiAnnaNagar,600040,Tamil,15:55,Classic,60₹,11,11
+Chennai,PvrVrChennaiAnnaNagar,600040,Tamil,15:55,Prime,165₹,102,61
+Chennai,CinepolisBsrMallOmrThoraipakkam,600097,Tamil,16:30,Normal,60₹,17,1
+Chennai,CinepolisBsrMallOmrThoraipakkam,600097,Tamil,16:30,Executive,152₹,158,40
+Krishnagiri,SriMuruganTheatreKrishnagiri,635001,Tamil,18:00,FirstClass,30₹,250,0
+Krishnagiri,SriMuruganTheatreKrishnagiri,635001,Tamil,22:00,FirstClass,30₹,250,0
