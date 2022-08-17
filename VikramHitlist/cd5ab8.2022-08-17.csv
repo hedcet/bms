@@ -1,0 +1,7 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kakinada,MayuriAcDtsKakinada,533001,Telugu,14:30,Premium,112₹,401,0
+Kakinada,MayuriAcDtsKakinada,533001,Telugu,14:30,NonPremium,75₹,401,0
+Kakinada,MayuriAcDtsKakinada,533001,Telugu,18:30,Premium,112₹,351,0
+Kakinada,MayuriAcDtsKakinada,533001,Telugu,18:30,NonPremium,75₹,118,18
+Kakinada,MayuriAcDtsKakinada,533001,Telugu,21:30,Premium,112₹,351,0
+Kakinada,MayuriAcDtsKakinada,533001,Telugu,21:30,NonPremium,75₹,118,18
