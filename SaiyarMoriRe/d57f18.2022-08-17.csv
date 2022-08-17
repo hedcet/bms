@@ -1,0 +1,12 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bhavnagar,Top3MultiplexBhavnagar,364002,Gujarati,19:15,Gold,120₹,70,0
+Bhavnagar,Top3MultiplexBhavnagar,364002,Gujarati,19:15,Silver,100₹,54,0
+Bhavnagar,Top3MultiplexBhavnagar,364002,Gujarati,19:30,Gold,120₹,70,0
+Bhavnagar,Top3MultiplexBhavnagar,364002,Gujarati,19:30,Silver,100₹,54,0
+Rajkot,CosmoplexMultiplexRajkot,360001,Gujarati,19:45,Crew,230₹,268,133
+Bhavnagar,Top3MultiplexBhavnagar,364002,Gujarati,22:30,Gold,150₹,70,0
+Bhavnagar,Top3MultiplexBhavnagar,364002,Gujarati,22:30,Silver,120₹,54,0
+Bhavnagar,Top3MultiplexBhavnagar,364002,Gujarati,22:30,Gold,150₹,230,34
+Bhavnagar,Top3MultiplexBhavnagar,364002,Gujarati,22:30,Silver,120₹,270,0
+Bhavnagar,Top3MultiplexBhavnagar,364002,Gujarati,22:30,Gold,150₹,70,0
+Bhavnagar,Top3MultiplexBhavnagar,364002,Gujarati,22:30,Silver,120₹,54,0
