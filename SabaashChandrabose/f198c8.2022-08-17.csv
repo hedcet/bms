@@ -1,0 +1,10 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kanhangad,VinayakaTheaterComplex2KACDolby71,671315,Malayalam,10:30,ParadiseBalcony,140₹,208,0
+Kanhangad,VinayakaTheaterComplex2KACDolby71,671315,Malayalam,10:30,ParadiseFirstClass,129₹,285,0
+Kottayam,DhanyaRemyaKottayam,686001,Malayalam,11:00,Remya,135₹,251,0
+Kollam,GmaxCinemasKollam,691001,Malayalam,11:30,Green,160₹,86,7
+Kochi,Kanoos2KRavipuram,682036,Malayalam,12:00,Diamond,110₹,186,0
+Kochi,PvrLuluKochi,682024,Malayalam,19:30,Classic,110₹,39,2
+Kochi,PvrLuluKochi,682024,Malayalam,19:30,ClassicPlus,140₹,91,15
+Kochi,PvrLuluKochi,682024,Malayalam,19:30,Prime,160₹,64,19
+Kochi,PvrLuluKochi,682024,Malayalam,19:30,Recliner,300₹,9,3
