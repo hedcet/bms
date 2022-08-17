@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Chennai,PvrVrChennaiAnnaNagar,600040,Tamil,22:25,Classic,60₹,16,16
+Chennai,PvrVrChennaiAnnaNagar,600040,Tamil,22:25,Prime,165₹,110,25
+Chennai,SpiEscapeExpressAvenueMallRoyapettah,600014,Tamil,22:35,Budget,60₹,11,2
+Chennai,SpiEscapeExpressAvenueMallRoyapettah,600014,Tamil,22:35,Elite,165₹,99,41
