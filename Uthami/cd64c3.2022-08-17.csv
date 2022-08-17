@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Palakkad,NewAromaTheatrePalakkad,678001,Malayalam,09:00,PlatinumCircle,115₹,200,0
+Palakkad,NewAromaTheatrePalakkad,678001,Malayalam,09:00,DiamondCircle,100₹,229,0
+Trivandrum,KairaliSreeNilaRgbLaser4KDolbyAtmos,695014,Malayalam,11:30,Platinum,125₹,175,0
+Kochi,SangeetaCinemaKochi,680018,Malayalam,18:00,BlueCircle,150₹,187,18
