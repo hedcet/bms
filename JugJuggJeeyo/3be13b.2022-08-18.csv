@@ -1,0 +1,12 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Mumbai,PvrDynamixJuhu,400049,Hindi,17:30,Prime,200₹,219,25
+Mumbai,PvrDynamixJuhu,400049,Hindi,17:30,Classic,170₹,84,0
+NationalCapitalRegionNcr,PvrPromenadeVasantKunj,110070,Hindi,18:45,Classic,149₹,50,0
+NationalCapitalRegionNcr,PvrPromenadeVasantKunj,110070,Hindi,18:45,Prime,199₹,34,5
+NationalCapitalRegionNcr,PvrVegasDwarka,110078,Hindi,21:10,Classic,199₹,105,0
+NationalCapitalRegionNcr,PvrVegasDwarka,110078,Hindi,21:10,Prime,199₹,15,0
+NationalCapitalRegionNcr,PvrVegasDwarka,110078,Hindi,21:10,Classic,149₹,120,15
+NationalCapitalRegionNcr,PvrVegasDwarka,110078,Hindi,21:10,Prime,149₹,15,9
+NationalCapitalRegionNcr,PvrLogixNoida,201301,Hindi,21:25,Classic,99₹,84,8
+Lucknow,PvrSaharaganjMallLucknow,226001,Hindi,22:55,Classic,99₹,171,0
+Lucknow,PvrSaharaganjMallLucknow,226001,Hindi,22:55,Recliner,149₹,12,2
