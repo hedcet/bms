@@ -1,0 +1,11 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Coimbatore,KgCinemasCoimbatore,641018,Tamil,10:15,Premium,190₹,95,2
+Coimbatore,KgCinemasCoimbatore,641018,Tamil,10:15,Comfort,148₹,53,0
+Chennai,PvrVrChennaiAnnaNagar,600040,Tamil,11:40,Classic,60₹,16,16
+Chennai,PvrVrChennaiAnnaNagar,600040,Tamil,11:40,Prime,179₹,110,27
+Chennai,SpiPalazzoTheForumVijayaMallVadapalani,600026,Tamil,11:50,Budget,60₹,26,26
+Chennai,SpiPalazzoTheForumVijayaMallVadapalani,600026,Tamil,11:50,Elite,179₹,219,43
+Chennai,SpiEscapeExpressAvenueMallRoyapettah,600014,Tamil,12:15,Budget,60₹,11,11
+Chennai,SpiEscapeExpressAvenueMallRoyapettah,600014,Tamil,12:15,Elite,165₹,99,40
+Dharmapuri,DmaxDncTheatresDharmapuri,636701,Tamil,14:35,Couple,150₹,24,0
+Dharmapuri,DmaxDncTheatresDharmapuri,636701,Tamil,14:35,Premium,120₹,68,0
