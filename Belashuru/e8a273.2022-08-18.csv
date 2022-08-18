@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kolkata,LaliCinemaBarasat,700125,Bengali,11:30,DressCircle,110₹,6,0
+Kolkata,LaliCinemaBarasat,700125,Bengali,11:30,Balcony,70₹,27,0
+Kolkata,LaliCinemaBarasat,700125,Bengali,11:30,DiamondAc,150₹,14,0
+Kolkata,LaliCinemaBarasat,700125,Bengali,11:30,RearStall,50₹,54,0
+Kolkata,NazrultirthaCinemaKolkata,700156,Bengali,13:20,Silver,130₹,26,1
+Kolkata,NazrultirthaCinemaKolkata,700156,Bengali,13:20,Gold,150₹,65,2
+Kolkata,PvrDiamondPlazaJessoreKolkata,700055,Bengali,14:05,Classic,99₹,100,100
+Kolkata,PvrDiamondPlazaJessoreKolkata,700055,Bengali,14:05,Prime,99₹,11,11
+Kolkata,PvrDiamondPlazaJessoreKolkata,700055,Bengali,14:05,Recliner,149₹,12,9
+Kolkata,InoxHilandPark,700020,Bengali,15:10,Royal,300₹,22,2
+Kolkata,InoxHilandPark,700020,Bengali,15:10,Premier,140₹,55,0
+Kolkata,InoxHilandPark,700020,Bengali,15:10,Silver,140₹,210,21
