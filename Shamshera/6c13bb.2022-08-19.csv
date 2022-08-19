@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kota,SsfNatrajCinemaKota,324002,Hindi,12:00,Platinum,150₹,40,0
+Kota,SsfNatrajCinemaKota,324002,Hindi,12:00,Gold,120₹,81,0
+Kota,SsfNatrajCinemaKota,324002,Hindi,12:00,Silver,100₹,53,0
+Kota,SsfNatrajCinemaKota,324002,Hindi,15:15,Platinum,150₹,40,0
+Kota,SsfNatrajCinemaKota,324002,Hindi,15:15,Gold,120₹,81,0
+Kota,SsfNatrajCinemaKota,324002,Hindi,15:15,Silver,100₹,53,0
+Kota,SsfNatrajCinemaKota,324002,Hindi,18:15,Platinum,150₹,40,0
+Kota,SsfNatrajCinemaKota,324002,Hindi,18:15,Gold,120₹,81,0
+Kota,SsfNatrajCinemaKota,324002,Hindi,18:15,Silver,100₹,53,0
+Kota,SsfNatrajCinemaKota,324002,Hindi,21:15,Platinum,150₹,40,0
+Kota,SsfNatrajCinemaKota,324002,Hindi,21:15,Gold,120₹,81,6
+Kota,SsfNatrajCinemaKota,324002,Hindi,21:15,Silver,100₹,53,0
