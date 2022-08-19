@@ -1,0 +1,16 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kozhinjampara,VrindavanTheatreKozhinjampara,678555,Malayalam,09:00,Box,120₹,181,0
+Kozhinjampara,VrindavanTheatreKozhinjampara,678555,Malayalam,09:00,Platinum,110₹,181,0
+Mayannur,DreamaxCinemas2K3D71DolbySurroundMayannur,679106,Malayalam,09:00,FirtsClass,120₹,114,0
+Payyanur,ShanthiCinemasPayyanur,670307,Malayalam,09:00,Platinum,130₹,443,46
+Pulpally,PentaCinemasPulpally,673579,Malayalam,09:30,GoldClass,110₹,120,2
+Kochi,SangeetaCinemaKochi,680018,Malayalam,10:00,BlueCircle,150₹,187,22
+Mananthavady,VarnaTheatreMananthavady,670645,Malayalam,10:00,Diamond,120₹,224,0
+Thodupuzha,SilverHillsCinemasThodupuzha,685584,Malayalam,10:00,Silver,150₹,172,0
+Kochi,PvrLuluKochi,682024,Malayalam,10:20,Classic,110₹,39,0
+Kochi,PvrLuluKochi,682024,Malayalam,10:20,ClassicPlus,140₹,91,2
+Kochi,PvrLuluKochi,682024,Malayalam,10:20,Prime,160₹,64,20
+Kochi,PvrLuluKochi,682024,Malayalam,10:20,Recliner,300₹,9,0
+Kanhangad,VinayakaTheatreComplexKanhangad,671315,Malayalam,10:30,NewVinayaka1FirstClass,140₹,258,0
+Kollam,GmaxCinemasKollam,691001,Malayalam,16:00,Blue,180₹,170,0
+Trivandrum,CarnivalMallOfTravancoreRedCarpet,695024,Malayalam,17:00,PremiumLounge,300₹,65,8
