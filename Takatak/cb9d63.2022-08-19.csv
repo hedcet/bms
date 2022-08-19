@@ -1,0 +1,6 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Nashik,CinemaxRegimentalPlazaNashik,422101,Marathi,10:00,Prime,80₹,93,3
+Nashik,CinemaxRegimentalPlazaNashik,422101,Marathi,10:00,PrimePlus,120₹,23,0
+Nashik,CinemaxRegimentalPlazaNashik,422101,Marathi,13:30,Classic,90₹,75,0
+Nashik,CinemaxRegimentalPlazaNashik,422101,Marathi,13:30,Prime,90₹,190,0
+Nashik,CinemaxRegimentalPlazaNashik,422101,Marathi,13:30,PrimePlus,130₹,50,0
