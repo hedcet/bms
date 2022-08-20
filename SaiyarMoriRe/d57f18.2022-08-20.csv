@@ -1,0 +1,7 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bhavnagar,Top3MultiplexBhavnagar,364002,Gujarati,16:00,Gold,120₹,70,5
+Bhavnagar,Top3MultiplexBhavnagar,364002,Gujarati,16:00,Silver,100₹,54,0
+Bhavnagar,Top3MultiplexBhavnagar,364002,Gujarati,19:15,Gold,120₹,70,0
+Bhavnagar,Top3MultiplexBhavnagar,364002,Gujarati,19:15,Silver,100₹,54,0
+Bhavnagar,Top3MultiplexBhavnagar,364002,Gujarati,22:30,Gold,150₹,70,0
+Bhavnagar,Top3MultiplexBhavnagar,364002,Gujarati,22:30,Silver,120₹,54,6
