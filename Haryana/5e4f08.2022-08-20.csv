@@ -1,0 +1,12 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+NationalCapitalRegionNcr,CarnivalRahejaMallGurgaon,122001,Hindi,13:00,PremiumOffline,200₹,16,0
+NationalCapitalRegionNcr,CarnivalRahejaMallGurgaon,122001,Hindi,13:00,Classic,200₹,40,0
+NationalCapitalRegionNcr,CarnivalRahejaMallGurgaon,122001,Hindi,13:00,Standard,200₹,40,0
+Hisar,SuncityCinemaHisar,125001,Hindi,15:50,Platinum,180₹,11,0
+Hisar,SuncityCinemaHisar,125001,Hindi,15:50,Gold,180₹,138,0
+Hisar,SuncityCinemaHisar,125001,Hindi,15:50,Silver,150₹,56,0
+Rohtak,RnCinemasRohtak,124001,Hindi,17:50,Silver,120₹,68,25
+Rohtak,RnCinemasRohtak,124001,Hindi,17:50,Gold,400₹,4,0
+NationalCapitalRegionNcr,CarnivalRahejaMallGurgaon,122001,Hindi,20:15,PremiumOffline,200₹,16,0
+NationalCapitalRegionNcr,CarnivalRahejaMallGurgaon,122001,Hindi,20:15,Classic,200₹,40,10
+NationalCapitalRegionNcr,CarnivalRahejaMallGurgaon,122001,Hindi,20:15,Standard,200₹,40,0
