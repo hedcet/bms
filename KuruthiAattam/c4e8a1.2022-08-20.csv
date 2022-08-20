@@ -1,0 +1,17 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kanchipuram,ArunaCinemasRgbLaser4KAcDolbyAtmos,631501,Tamil,11:00,Platinum,120₹,206,0
+Kanchipuram,ArunaCinemasRgbLaser4KAcDolbyAtmos,631501,Tamil,11:00,Diamond,120₹,206,0
+Salem,ArrsMultiplexSalem,636701,Tamil,11:00,FirstClass,150₹,197,17
+Salem,ArrsMultiplexSalem,636701,Tamil,11:00,SecondClass,120₹,158,0
+Kanchipuram,ArunaCinemasRgbLaser4KAcDolbyAtmos,631501,Tamil,14:30,Platinum,120₹,206,0
+Kanchipuram,ArunaCinemasRgbLaser4KAcDolbyAtmos,631501,Tamil,14:30,Diamond,120₹,206,0
+Salem,ArrsMultiplexSalem,636701,Tamil,14:30,FirstClass,150₹,197,0
+Salem,ArrsMultiplexSalem,636701,Tamil,14:30,SecondClass,120₹,158,0
+Kanchipuram,ArunaCinemasRgbLaser4KAcDolbyAtmos,631501,Tamil,18:00,Platinum,120₹,206,0
+Kanchipuram,ArunaCinemasRgbLaser4KAcDolbyAtmos,631501,Tamil,18:00,Diamond,120₹,206,0
+Salem,ArrsMultiplexSalem,636701,Tamil,18:30,FirstClass,150₹,197,17
+Salem,ArrsMultiplexSalem,636701,Tamil,18:30,SecondClass,120₹,158,0
+Kanchipuram,ArunaCinemasRgbLaser4KAcDolbyAtmos,631501,Tamil,21:30,Platinum,120₹,206,0
+Kanchipuram,ArunaCinemasRgbLaser4KAcDolbyAtmos,631501,Tamil,21:30,Diamond,120₹,206,0
+Salem,ArrsMultiplexSalem,636701,Tamil,22:15,FirstClass,150₹,197,0
+Salem,ArrsMultiplexSalem,636701,Tamil,22:15,SecondClass,120₹,158,0
