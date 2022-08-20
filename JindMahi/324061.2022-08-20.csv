@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Rohtak,RnCinemasRohtak,124001,Punjabi,12:45,Silver,120₹,68,27
+Rohtak,RnCinemasRohtak,124001,Punjabi,12:45,Gold,400₹,4,0
+Rohtak,RnCinemasRohtak,124001,Punjabi,15:20,Silver,120₹,68,30
+Rohtak,RnCinemasRohtak,124001,Punjabi,15:20,Gold,400₹,4,0
