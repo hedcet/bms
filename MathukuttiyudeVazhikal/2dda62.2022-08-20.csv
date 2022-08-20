@@ -1,0 +1,10 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Pulpally,PentaCinemasPulpally,673579,Malayalam,09:30,GoldClass,110₹,120,2
+Kochi,SangeetaCinemaKochi,680018,Malayalam,10:00,BlueCircle,150₹,187,20
+Mananthavady,VarnaTheatreMananthavady,670645,Malayalam,10:00,Diamond,120₹,224,0
+Kochi,PvrLuluKochi,682024,Malayalam,10:20,Classic,110₹,39,0
+Kochi,PvrLuluKochi,682024,Malayalam,10:20,ClassicPlus,140₹,91,0
+Kochi,PvrLuluKochi,682024,Malayalam,10:20,Prime,160₹,64,0
+Kochi,PvrLuluKochi,682024,Malayalam,10:20,Recliner,300₹,9,0
+Kanhangad,VinayakaTheaterComplex2KACDolby71,671315,Malayalam,10:30,NewVinayaka1FirstClass,140₹,258,0
+Trivandrum,CarnivalMallOfTravancoreRedCarpet,695024,Malayalam,17:00,PremiumLounge,300₹,65,6
