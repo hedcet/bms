@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Chennai,LuxeCinemasChennai,600042,Tamil,11:20,Elite2D,190₹,126,24
+Chennai,LuxeCinemasChennai,600042,Tamil,11:20,Budget,60₹,14,14
+Chennai,PvrVrChennaiAnnaNagar,600040,Tamil,15:55,Classic,60₹,11,11
+Chennai,PvrVrChennaiAnnaNagar,600040,Tamil,15:55,Prime,165₹,102,67
