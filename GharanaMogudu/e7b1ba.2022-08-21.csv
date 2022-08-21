@@ -1,0 +1,13 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Hyderabad,MahalaxmiComplexKothapetaHyderabad,500035,Telugu,08:30,Box,150₹,16,16
+Hyderabad,MahalaxmiComplexKothapetaHyderabad,500035,Telugu,08:30,Balcony,150₹,467,59
+Hyderabad,MahalaxmiComplexKothapetaHyderabad,500035,Telugu,08:30,FirstClass,110₹,84,3
+Hyderabad,MahalaxmiComplexKothapetaHyderabad,500035,Telugu,08:30,SecondClass,50₹,106,12
+Hyderabad,PrasadsHyderabad,500063,Telugu,22:00,Executive,200₹,224,221
+VizagVisakhapatnam,Jagadamba4KVizag,530020,Telugu,22:05,1Premium,145₹,276,111
+VizagVisakhapatnam,Jagadamba4KVizag,530020,Telugu,22:05,2Premium,145₹,310,64
+VizagVisakhapatnam,Jagadamba4KVizag,530020,Telugu,22:05,1NonPremium,100₹,217,95
+VizagVisakhapatnam,Jagadamba4KVizag,530020,Telugu,22:05,2NonPremium,100₹,213,29
+Hyderabad,GprMultiplexNizampetHyderabad,500072,Telugu,22:15,Sofa,250₹,12,12
+Hyderabad,GprMultiplexNizampetHyderabad,500072,Telugu,22:15,Gold,200₹,218,176
+Hyderabad,PrasadsHyderabad,500063,Telugu,22:45,Executive,200₹,364,338
