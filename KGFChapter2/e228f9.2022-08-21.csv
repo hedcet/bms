@@ -1,0 +1,9 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Ramnagar,KSeraSeraMiniplexRamnagar,244715,Hindi,12:00,Gold,99₹,62,13
+Ramnagar,KSeraSeraMiniplexRamnagar,244715,Hindi,12:00,Silver,99₹,12,0
+Ramnagar,KSeraSeraMiniplexRamnagar,244715,Hindi,15:00,Gold,99₹,62,0
+Ramnagar,KSeraSeraMiniplexRamnagar,244715,Hindi,15:00,Silver,99₹,10,0
+Ramnagar,KSeraSeraMiniplexRamnagar,244715,Hindi,18:00,Gold,99₹,62,0
+Ramnagar,KSeraSeraMiniplexRamnagar,244715,Hindi,18:00,Silver,99₹,12,0
+Ramnagar,KSeraSeraMiniplexRamnagar,244715,Hindi,21:00,Gold,99₹,62,0
+Ramnagar,KSeraSeraMiniplexRamnagar,244715,Hindi,21:00,Silver,99₹,10,0
