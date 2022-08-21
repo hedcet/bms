@@ -1,0 +1,16 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kosamba,CoconutSalimCinemaKosamba,394120,Gujarati,09:50,Gold,50₹,85,0
+Kosamba,CoconutSalimCinemaKosamba,394120,Gujarati,09:55,Gold,50₹,85,0
+Rajpipla,CoconutCinemaRajpipla,393145,Gujarati,12:30,Box,60₹,8,0
+Rajpipla,CoconutCinemaRajpipla,393145,Gujarati,12:30,Gold,50₹,135,0
+Rajpipla,CoconutCinemaRajpipla,393145,Gujarati,12:30,Silver,50₹,40,0
+Surat,TimeCinemaGalaxyCirclePalSurat,394510,Gujarati,14:45,Infinity,350₹,6,4
+Nadiad,CoconutViratMultiplexNadiad,387001,Gujarati,15:00,Platinum,100₹,14,0
+Nadiad,CoconutViratMultiplexNadiad,387001,Gujarati,15:00,Gold,80₹,91,0
+Rajpipla,CoconutCinemaRajpipla,393145,Gujarati,15:30,Box,60₹,8,0
+Rajpipla,CoconutCinemaRajpipla,393145,Gujarati,15:30,Gold,50₹,135,0
+Rajpipla,CoconutCinemaRajpipla,393145,Gujarati,15:30,Silver,50₹,40,0
+Ahmedabad,TimeCinemaCgRoadAhmedabad,380006,Gujarati,16:10,Standard,190₹,36,34
+Kosamba,CoconutSalimCinemaKosamba,394120,Gujarati,18:30,Gold,50₹,255,0
+Kosamba,CoconutSalimCinemaKosamba,394120,Gujarati,18:30,Gold,50₹,255,0
+Surat,TimeCinemaGalaxyCirclePalSurat,394510,Gujarati,19:30,InfinitySofa,200₹,12,8
