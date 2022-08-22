@@ -1,0 +1,16 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kolkata,InoxHilandPark,700020,Bengali,12:20,Royal,300₹,22,2
+Kolkata,InoxHilandPark,700020,Bengali,12:20,CoupleSeats,112₹,12,0
+Kolkata,InoxHilandPark,700020,Bengali,12:20,Premier,112₹,53,0
+Kolkata,InoxHilandPark,700020,Bengali,12:20,Silver,112₹,198,12
+Kolkata,NandanKolkata,700020,Bengali,13:30,Normal,30₹,165,50
+Kolkata,NazrultirthaCinemaKolkata,700156,Bengali,15:45,Silver,130₹,26,0
+Kolkata,NazrultirthaCinemaKolkata,700156,Bengali,15:45,Gold,150₹,65,0
+Kolkata,PvrManiSquareMallKolkata,700054,Bengali,16:15,Classic,190₹,45,0
+Kolkata,PvrManiSquareMallKolkata,700054,Bengali,16:15,Prime,230₹,97,16
+Kolkata,PvrManiSquareMallKolkata,700054,Bengali,16:15,Recliner,420₹,21,2
+Kolkata,PvrDiamondPlazaJessoreKolkata,700055,Bengali,17:25,Classic,160₹,80,0
+Kolkata,PvrDiamondPlazaJessoreKolkata,700055,Bengali,17:25,Prime,220₹,11,0
+Kolkata,PvrDiamondPlazaJessoreKolkata,700055,Bengali,17:25,Recliner,420₹,12,0
+Bengaluru,PvrPhoenixMarketcityMallWhitefieldRoad,560048,Bengali,18:50,Classic,190₹,72,9
+Bengaluru,PvrPhoenixMarketcityMallWhitefieldRoad,560048,Bengali,18:50,Recliner,290₹,7,0
