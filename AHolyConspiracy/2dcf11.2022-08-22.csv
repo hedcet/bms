@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kolkata,NandanKolkata,700020,English,15:45,Normal,30₹,165,65
+Kolkata,PvrDiamondPlazaJessoreKolkata,700055,English,16:30,Classic,99₹,176,22
+Kolkata,PvrDiamondPlazaJessoreKolkata,700055,English,16:30,Prime,99₹,12,0
+Kolkata,PvrDiamondPlazaJessoreKolkata,700055,English,16:30,Recliner,149₹,14,3
