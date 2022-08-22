@@ -1,0 +1,16 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Krishnagiri,SriMuruganTheatreKrishnagiri,635001,Tamil,10:00,FirstClass,30₹,250,0
+Karur,LakshmiRaamTheatreKarur,639001,Tamil,11:00,Balcony,80₹,38,0
+Karur,LakshmiRaamTheatreKarur,639001,Tamil,11:00,FirstClass,60₹,41,0
+Krishnagiri,SriMuruganTheatreKrishnagiri,635001,Tamil,14:00,FirstClass,30₹,250,0
+Karur,LakshmiRaamTheatreKarur,639001,Tamil,14:15,Balcony,80₹,38,0
+Karur,LakshmiRaamTheatreKarur,639001,Tamil,14:15,FirstClass,60₹,41,0
+Madurai,RamTheatreMadurai,625009,Tamil,14:30,Balcony,80₹,242,0
+Krishnagiri,SriMuruganTheatreKrishnagiri,635001,Tamil,18:00,FirstClass,30₹,460,210
+Karur,LakshmiRaamTheatreKarur,639001,Tamil,18:15,Balcony,80₹,38,0
+Karur,LakshmiRaamTheatreKarur,639001,Tamil,18:15,FirstClass,60₹,41,0
+Madurai,RamTheatreMadurai,625009,Tamil,18:30,Balcony,80₹,242,0
+Karur,LakshmiRaamTheatreKarur,639001,Tamil,22:00,Balcony,80₹,38,0
+Karur,LakshmiRaamTheatreKarur,639001,Tamil,22:00,FirstClass,60₹,41,0
+Madurai,RamTheatreMadurai,625009,Tamil,22:00,Balcony,80₹,242,0
+Krishnagiri,SriMuruganTheatreKrishnagiri,635001,Tamil,22:00,FirstClass,30₹,250,0
