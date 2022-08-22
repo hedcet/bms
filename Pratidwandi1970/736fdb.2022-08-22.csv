@@ -1,0 +1,6 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kolkata,PriyaCinemaRashbehariAvenue,700029,Bengali,16:00,Rear,50₹,341,0
+Kolkata,PriyaCinemaRashbehariAvenue,700029,Bengali,16:00,Box,100₹,12,12
+Kolkata,PriyaCinemaRashbehariAvenue,700029,Bengali,16:00,Recliners,150₹,17,5
+Kolkata,PriyaCinemaRashbehariAvenue,700029,Bengali,16:00,Classic,100₹,76,3
+Kolkata,PriyaCinemaRashbehariAvenue,700029,Bengali,16:00,Balcony,100₹,104,0
