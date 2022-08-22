@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kochi,SangeetaCinemaKochi,680018,Malayalam,10:00,BlueCircle,150₹,187,18
+Mananthavady,VeenaTheatreMananthavady,670645,Malayalam,10:00,Diamond,100₹,122,0
+Mananthavady,VeenaTheatreMananthavady,670645,Malayalam,10:00,Gold,80₹,336,0
+Kanhangad,VinayakaTheaterComplex2KACDolby71,671315,Malayalam,10:30,NewVinayaka1FirstClass,140₹,258,0
