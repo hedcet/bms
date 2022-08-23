@@ -1,0 +1,7 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Bengaluru,SharadaCinemasACSPRoad,560002,Kannada,10:15,Gold,100₹,159,0
+Bengaluru,SharadaCinemasACSPRoad,560002,Kannada,10:15,Silver,80₹,315,0
+Bengaluru,SharadaCinemasACSPRoad,560002,Kannada,13:15,Gold,100₹,159,0
+Bengaluru,SharadaCinemasACSPRoad,560002,Kannada,13:15,Silver,80₹,315,0
+Bengaluru,SharadaCinemasACSPRoad,560002,Kannada,16:15,Gold,100₹,159,3
+Bengaluru,SharadaCinemasACSPRoad,560002,Kannada,16:15,Silver,80₹,315,0
