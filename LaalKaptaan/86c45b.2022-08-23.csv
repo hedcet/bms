@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Surat,InoxRelianceMallSurat,395002,Hindi,11:40,RoyalRecliner,230₹,13,4
+Surat,InoxRelianceMallSurat,395002,Hindi,11:40,Club,112₹,80,0
+Surat,InoxRelianceMallSurat,395002,Hindi,11:40,Executive,112₹,28,0
+Surat,InoxRelianceMallSurat,395002,Hindi,11:40,Royal,112₹,64,6
