@@ -1,0 +1,6 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kolkata,InoxSouthCityKolkata,700068,Bengali,16:00,Silver,220₹,166,66
+Kolkata,InoxSouthCityKolkata,700068,Bengali,16:00,Premier,200₹,34,6
+Kolkata,InoxHilandPark,700020,Bengali,18:50,Royal,300₹,16,2
+Kolkata,InoxHilandPark,700020,Bengali,18:50,Premier,140₹,36,0
+Kolkata,InoxHilandPark,700020,Bengali,18:50,Silver,140₹,155,16
