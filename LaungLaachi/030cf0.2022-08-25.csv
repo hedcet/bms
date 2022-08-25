@@ -1,0 +1,4 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Panipat,PvrFunCityPanipat,132103,Punjabi,09:50,Classic,110₹,161,0
+Panipat,PvrFunCityPanipat,132103,Punjabi,09:50,Prime,110₹,158,23
+Panipat,PvrFunCityPanipat,132103,Punjabi,09:50,PrimePlus,149₹,15,0
