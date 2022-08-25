@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+NationalCapitalRegionNcr,InoxWorldMarkGurugram,122001,Hindi,20:25,RoyalRecliner,450₹,8,0
+NationalCapitalRegionNcr,InoxWorldMarkGurugram,122001,Hindi,20:25,Royal,240₹,45,10
+NationalCapitalRegionNcr,InoxWorldMarkGurugram,122001,Hindi,20:25,Club,220₹,65,0
+NationalCapitalRegionNcr,InoxWorldMarkGurugram,122001,Hindi,20:25,Executive,200₹,26,0
