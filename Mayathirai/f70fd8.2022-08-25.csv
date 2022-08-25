@@ -1,0 +1,17 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Karur,LakshmiRaamTheatreKarur,639001,Tamil,11:00,Balcony,80₹,38,0
+Karur,LakshmiRaamTheatreKarur,639001,Tamil,11:00,FirstClass,60₹,41,0
+Perambalur,SwamyTheatre2KPerambalur,621212,Tamil,11:00,FirstClass,100₹,270,15
+Karur,LakshmiRaamTheatreKarur,639001,Tamil,14:15,Balcony,80₹,38,0
+Karur,LakshmiRaamTheatreKarur,639001,Tamil,14:15,FirstClass,60₹,41,0
+Perambalur,SwamyTheatre2KPerambalur,621212,Tamil,14:30,FirstClass,100₹,255,0
+Karur,LakshmiRaamTheatreKarur,639001,Tamil,18:15,Balcony,80₹,38,0
+Karur,LakshmiRaamTheatreKarur,639001,Tamil,18:15,FirstClass,60₹,41,0
+Sathyamangalam,VeerasCinemasSathyamangalam,638402,Tamil,18:15,1FirstClass,80₹,120,0
+Sathyamangalam,VeerasCinemasSathyamangalam,638402,Tamil,18:15,2SecondClass,80₹,120,0
+Perambalur,SwamyTheatre2KPerambalur,621212,Tamil,18:30,FirstClass,100₹,255,0
+Karur,LakshmiRaamTheatreKarur,639001,Tamil,22:00,Balcony,80₹,38,0
+Karur,LakshmiRaamTheatreKarur,639001,Tamil,22:00,FirstClass,60₹,41,0
+Sathyamangalam,VeerasCinemasSathyamangalam,638402,Tamil,22:00,1FirstClass,80₹,120,0
+Sathyamangalam,VeerasCinemasSathyamangalam,638402,Tamil,22:00,2SecondClass,80₹,120,0
+Perambalur,SwamyTheatre2KPerambalur,621212,Tamil,22:00,FirstClass,100₹,270,15
