@@ -1,0 +1,7 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Solapur,SrinivasCinematicCinemaSolapur,413005,Telugu,12:30,Platinum,130₹,187,11
+Solapur,SrinivasCinematicCinemaSolapur,413005,Telugu,12:30,Silver,100₹,382,0
+Solapur,SrinivasCinematicCinemaSolapur,413005,Telugu,15:30,Platinum,130₹,187,13
+Solapur,SrinivasCinematicCinemaSolapur,413005,Telugu,15:30,Silver,100₹,382,4
+Solapur,SrinivasCinematicCinemaSolapur,413005,Telugu,18:30,Platinum,130₹,187,11
+Solapur,SrinivasCinematicCinemaSolapur,413005,Telugu,18:30,Silver,100₹,382,0
