@@ -1,0 +1,8 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Udaipur,PvrCelebrationMallUdaipur,313001,English,16:45,Classic,160₹,52,0
+Udaipur,PvrCelebrationMallUdaipur,313001,English,16:45,Prime,170₹,156,2
+Udaipur,PvrCelebrationMallUdaipur,313001,English,16:45,PrimePlus,220₹,39,13
+Udaipur,PvrCelebrationMallUdaipur,313001,English,16:45,Recliner,320₹,12,1
+Kolkata,PvrManiSquareMallKolkata,700054,English,19:55,Classic,230₹,48,0
+Kolkata,PvrManiSquareMallKolkata,700054,English,19:55,Prime,270₹,110,18
+Kolkata,PvrManiSquareMallKolkata,700054,English,19:55,Recliner,540₹,8,0
