@@ -1,0 +1,7 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Surat,RajImperialInoxVarachhaRoadSurat,395006,Gujarati,12:10,Imperial,290₹,11,2
+Surat,RajImperialInoxVarachhaRoadSurat,395006,Gujarati,12:10,Platinum,170₹,42,0
+Surat,RajImperialInoxVarachhaRoadSurat,395006,Gujarati,12:10,Gold,140₹,112,0
+Surat,RajImperialInoxVarachhaRoadSurat,395006,Gujarati,12:10,Silver,112₹,30,0
+Ahmedabad,AppleMultiplexManinagarAhmedabad,380002,Gujarati,15:00,VipRecliner,300₹,30,0
+Ahmedabad,CityGoldSatelliteAhmedabad,380015,Gujarati,20:00,Executive,180₹,124,28
