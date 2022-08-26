@@ -1,0 +1,6 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Hyderabad,PvrNexusMallKukatpallyHyderabad,500072,Telugu,12:00,Classic,150₹,135,0
+Hyderabad,PvrNexusMallKukatpallyHyderabad,500072,Telugu,12:00,Recliner,250₹,9,3
+Kurnool,InoxJyotiMallKurnool,518001,Telugu,12:50,Executive,177₹,247,21
+Kurnool,InoxJyotiMallKurnool,518001,Telugu,18:50,Executive,177₹,247,21
+VizagVisakhapatnam,InoxVizagChitralayaMall,530020,Telugu,19:05,Executive,177₹,134,10
