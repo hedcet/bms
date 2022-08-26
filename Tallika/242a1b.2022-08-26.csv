@@ -1,0 +1,12 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Ahmedabad,19CinemaNarolAhmedabad,382405,Gujarati,19:10,Platinum,140₹,21,0
+Ahmedabad,19CinemaNarolAhmedabad,382405,Gujarati,19:10,Gold,100₹,40,0
+Ahmedabad,19CinemaNarolAhmedabad,382405,Gujarati,19:10,Silver,100₹,16,0
+Ahmedabad,19CinemaSanandAhmedabad,382110,Gujarati,19:25,Platinum,100₹,21,0
+Ahmedabad,19CinemaSanandAhmedabad,382110,Gujarati,19:25,Gold,100₹,48,0
+Ahmedabad,19CinemaSanandAhmedabad,382110,Gujarati,19:25,Silver,100₹,36,0
+Ahmedabad,19CinemaSouthBopalAhmedabad,380058,Gujarati,20:25,Sofa,100₹,8,0
+Ahmedabad,19CinemaSouthBopalAhmedabad,380058,Gujarati,20:25,ReclinerBed,150₹,12,4
+Ahmedabad,AbMiniplexShivranjiniCrossRoadSatellite,380013,Gujarati,20:30,Platinum,150₹,25,0
+Ahmedabad,AbMiniplexShivranjiniCrossRoadSatellite,380013,Gujarati,20:30,Gold,100₹,44,0
+Ahmedabad,AbMiniplexShivranjiniCrossRoadSatellite,380013,Gujarati,20:30,Silver,100₹,22,0
