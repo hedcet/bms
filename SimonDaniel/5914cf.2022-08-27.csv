@@ -1,0 +1,6 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Kochi,SavitaCinemaKochi,680018,Malayalam,10:00,Deluxe,150₹,555,34
+Thrissur,InoxSobhaCityMall,680553,Malayalam,16:20,RoyalRecliner,350₹,10,0
+Thrissur,InoxSobhaCityMall,680553,Malayalam,16:20,Club,190₹,66,3
+Thrissur,InoxSobhaCityMall,680553,Malayalam,16:20,Royal,190₹,13,0
+Thrissur,InoxSobhaCityMall,680553,Malayalam,16:20,Executive,130₹,22,0
