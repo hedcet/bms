@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Rishikesh,RamaPalaceRishikesh,249201,Garhwali,10:30,FirstClass,40₹,168,7
+Rishikesh,RamaPalaceRishikesh,249201,Garhwali,10:30,Silver,75₹,232,232
+Rishikesh,RamaPalaceRishikesh,249201,Garhwali,10:30,Gold,110₹,182,160
+Rishikesh,RamaPalaceRishikesh,249201,Garhwali,10:30,Platinum,180₹,24,18
