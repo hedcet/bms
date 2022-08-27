@@ -1,0 +1,5 @@
+State,City,ZIP,Name,Language,Time,Type,Price,Capacity,Booked
+,Theni,625531,TheatreFathumaTheni,Tamil,10:30,FirstClass,100₹,368,0
+,Theni,625531,TheatreFathumaTheni,Tamil,14:30,FirstClass,100₹,368,0
+,Theni,625531,TheatreFathumaTheni,Tamil,18:30,FirstClass,100₹,368,0
+,Theni,625531,TheatreFathumaTheni,Tamil,22:30,FirstClass,100₹,368,18
