@@ -1,0 +1,5 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+MangaluruMangalore,PvrForumFizaMallPandeshwar,575001,Tulu,15:15,Classic,180₹,79,17
+MangaluruMangalore,BharathCinemasMangalore,575013,Tulu,19:00,Gold,200₹,142,21
+MangaluruMangalore,BharathCinemasMangalore,575013,Tulu,19:00,Silver,180₹,78,11
+MangaluruMangalore,BharathCinemasMangalore,575013,Tulu,19:00,Special,150₹,19,0
