@@ -1,0 +1,17 @@
+State,City,ZIP,Name,Language,Time,Type,Price,Capacity,Booked
+,Mumbai,400606,CinepolisVipVivianaMallThane,Marathi,13:05,Vip,400₹,74,24
+,Pune,411038,CityPrideKothrud,Marathi,13:15,RoyalGold,180₹,270,123
+,Pune,411038,CityPrideKothrud,Marathi,13:15,RoyalSilver,160₹,44,0
+,Pune,411041,AbhiruchiCityPrideSinhagadRoad,Marathi,14:00,RoyalSofa,200₹,12,6
+,Pune,411041,AbhiruchiCityPrideSinhagadRoad,Marathi,14:00,RoyalGold,180₹,123,34
+,Pune,411041,AbhiruchiCityPrideSinhagadRoad,Marathi,14:00,RoyalSilver,160₹,30,0
+,Pune,411038,CityPrideKothrud,Marathi,16:30,RoyalGold,200₹,149,41
+,Pune,411038,CityPrideKothrud,Marathi,16:30,RoyalSilver,180₹,22,0
+,Pune,411037,CityPrideSataraRoad,Marathi,17:15,RoyalGold,200₹,194,32
+,Pune,411037,CityPrideSataraRoad,Marathi,17:15,RoyalSilver,180₹,40,0
+,Pune,411028,CinepolisSeasonsMallPune,Marathi,18:25,Normal,200₹,29,0
+,Pune,411028,CinepolisSeasonsMallPune,Marathi,18:25,Executive,220₹,98,22
+,Pune,411028,CinepolisSeasonsMallPune,Marathi,18:25,Premium,220₹,35,11
+,Pune,411038,CityPrideKothrud,Marathi,19:15,RoyalGold,200₹,270,87
+,Pune,411038,CityPrideKothrud,Marathi,19:15,RoyalSilver,180₹,44,0
+,Mumbai,400063,MovietimeTheHubGoregaon,Marathi,19:45,Mhraja,160₹,44,27
