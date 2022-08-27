@@ -1,0 +1,12 @@
+City,Name,ZIP,Language,Time,Type,Price,Capacity,Booked
+Gudivada,AbrCinemasTheNextGudivada,521301,Telugu,11:30,Diamond,112₹,105,0
+Gudivada,AbrCinemasTheNextGudivada,521301,Telugu,11:30,Platinum,112₹,45,0
+Gudivada,AbrCinemasTheNextGudivada,521301,Telugu,11:30,Executive,112₹,15,0
+Hyderabad,PvrNexusMallKukatpallyHyderabad,500072,Telugu,12:00,Classic,150₹,135,135
+Hyderabad,PvrNexusMallKukatpallyHyderabad,500072,Telugu,12:00,Recliner,250₹,9,9
+Kurnool,InoxJyotiMallKurnool,518001,Telugu,12:50,Executive,177₹,247,21
+VizagVisakhapatnam,InoxVizagChitralayaMall,530020,Telugu,14:20,Executive,177₹,134,10
+Gudivada,AbrCinemasTheNextGudivada,521301,Telugu,18:30,Diamond,112₹,105,0
+Gudivada,AbrCinemasTheNextGudivada,521301,Telugu,18:30,Platinum,112₹,45,0
+Gudivada,AbrCinemasTheNextGudivada,521301,Telugu,18:30,Executive,112₹,15,0
+Kurnool,InoxJyotiMallKurnool,518001,Telugu,18:50,Executive,177₹,247,21
