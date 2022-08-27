@@ -1,0 +1,8 @@
+State,City,ZIP,Name,Language,Time,Type,Price,Capacity,Booked
+TamilNadu,Madurai,625001,CentralCinemaMadurai,Tamil,10:30,FirstClass,40₹,175,0
+TamilNadu,Madurai,625001,CentralCinemaMadurai,Tamil,14:00,FirstClass,40₹,175,0
+,Trichy,620006,SriRengarajTalkiesTiruchirappalli,Tamil,14:15,FirstClass,50₹,200,0
+TamilNadu,Madurai,625001,CentralCinemaMadurai,Tamil,18:00,FirstClass,40₹,175,0
+,Trichy,620006,SriRengarajTalkiesTiruchirappalli,Tamil,18:15,FirstClass,50₹,200,0
+TamilNadu,Madurai,625001,CentralCinemaMadurai,Tamil,22:00,FirstClass,40₹,175,2
+,Trichy,620006,SriRengarajTalkiesTiruchirappalli,Tamil,22:15,FirstClass,50₹,200,0
