@@ -1,0 +1,17 @@
+State,City,ZIP,Name,Language,Time,Type,Price,Capacity,Booked
+,Madanapalle,517325,AsrMovieLandAC2KDolby71Madanapalle,Telugu,11:00,Reserved,60₹,386,6
+,Guntur,522001,VenkataKrishnaTheatreGuntur,Telugu,11:15,FirstClass,100₹,333,0
+,Guntur,522001,VenkataKrishnaTheatreGuntur,Telugu,11:15,SecondClass,60₹,333,0
+,Guntur,522001,VenkataKrishnaTheatreGuntur,Telugu,11:15,ThirdClass,40₹,333,0
+,Madanapalle,517325,AsrMovieLandAC2KDolby71Madanapalle,Telugu,14:15,Reserved,60₹,386,0
+,Guntur,522001,VenkataKrishnaTheatreGuntur,Telugu,14:15,FirstClass,100₹,236,0
+,Guntur,522001,VenkataKrishnaTheatreGuntur,Telugu,14:15,SecondClass,60₹,59,0
+,Guntur,522001,VenkataKrishnaTheatreGuntur,Telugu,14:15,ThirdClass,40₹,68,0
+,Madanapalle,517325,AsrMovieLandAC2KDolby71Madanapalle,Telugu,18:00,Reserved,60₹,386,0
+,Guntur,522001,VenkataKrishnaTheatreGuntur,Telugu,18:15,FirstClass,100₹,236,0
+,Guntur,522001,VenkataKrishnaTheatreGuntur,Telugu,18:15,SecondClass,60₹,59,0
+,Guntur,522001,VenkataKrishnaTheatreGuntur,Telugu,18:15,ThirdClass,40₹,68,0
+,Madanapalle,517325,AsrMovieLandAC2KDolby71Madanapalle,Telugu,21:15,Reserved,60₹,386,0
+,Guntur,522001,VenkataKrishnaTheatreGuntur,Telugu,21:15,FirstClass,100₹,236,4
+,Guntur,522001,VenkataKrishnaTheatreGuntur,Telugu,21:15,SecondClass,60₹,59,0
+,Guntur,522001,VenkataKrishnaTheatreGuntur,Telugu,21:15,ThirdClass,40₹,68,0
