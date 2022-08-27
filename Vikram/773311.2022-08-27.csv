@@ -1,0 +1,16 @@
+State,City,ZIP,Name,Language,Time,Type,Price,Capacity,Booked
+TamilNadu,Chennai,600014,SpiEscapeExpressAvenueMallRoyapettah,Tamil,09:15,Budget,60₹,11,11
+TamilNadu,Chennai,600014,SpiEscapeExpressAvenueMallRoyapettah,Tamil,09:15,Elite,179₹,99,36
+,Coimbatore,641018,KgCinemasCoimbatore,Tamil,10:15,Premium,190₹,95,7
+,Coimbatore,641018,KgCinemasCoimbatore,Tamil,10:15,Comfort,148₹,53,7
+,Trichy,620008,PalaceTheatreTiruchirappalli,Tamil,11:15,FirstClass,60₹,249,0
+TamilNadu,Chennai,600040,PvrVrChennaiAnnaNagar,Tamil,12:10,Classic,60₹,16,16
+TamilNadu,Chennai,600040,PvrVrChennaiAnnaNagar,Tamil,12:10,Prime,190₹,110,50
+,Trichy,620008,PalaceTheatreTiruchirappalli,Tamil,14:15,FirstClass,60₹,249,0
+,Dharmapuri,636701,DmaxDncTheatresDharmapuri,Tamil,14:30,Couple,150₹,24,0
+,Dharmapuri,636701,DmaxDncTheatresDharmapuri,Tamil,14:30,Premium,120₹,68,1
+,Trichy,620017,ArunaTheatreTrichy,Tamil,14:30,FirstClass,50₹,378,0
+,Trichy,620008,PalaceTheatreTiruchirappalli,Tamil,18:15,FirstClass,60₹,249,0
+,Trichy,620017,ArunaTheatreTrichy,Tamil,18:30,FirstClass,50₹,378,0
+,Trichy,620008,PalaceTheatreTiruchirappalli,Tamil,22:00,FirstClass,60₹,249,0
+,Trichy,620017,ArunaTheatreTrichy,Tamil,22:15,FirstClass,50₹,378,0
