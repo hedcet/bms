@@ -1,0 +1,13 @@
+State,City,ZIP,Name,Language,Time,Type,Price,Capacity,Booked
+Chhattisgarh,Balod,491226,VinayTalkiesBalod,Chattisgarhi,12:00,Balcony,90₹,30,0
+Chhattisgarh,Balod,491226,VinayTalkiesBalod,Chattisgarhi,12:00,FirstClass,60₹,200,0
+Chhattisgarh,Balod,491226,VinayTalkiesBalod,Chattisgarhi,15:00,Balcony,90₹,30,0
+Chhattisgarh,Balod,491226,VinayTalkiesBalod,Chattisgarhi,15:00,FirstClass,60₹,200,0
+Chhattisgarh,Korba,495677,NiharikaCinemasKorba,Chattisgarhi,15:30,Silver,50₹,20,1
+Chhattisgarh,Korba,495677,NiharikaCinemasKorba,Chattisgarhi,15:30,Gold,100₹,88,17
+Chhattisgarh,Korba,495677,NiharikaCinemasKorba,Chattisgarhi,15:30,Platinum,150₹,41,0
+Chhattisgarh,Balod,491226,VinayTalkiesBalod,Chattisgarhi,18:00,Balcony,90₹,30,0
+Chhattisgarh,Balod,491226,VinayTalkiesBalod,Chattisgarhi,18:00,FirstClass,60₹,200,0
+Chhattisgarh,Korba,495677,NiharikaCinemasKorba,Chattisgarhi,21:30,Silver,50₹,20,0
+Chhattisgarh,Korba,495677,NiharikaCinemasKorba,Chattisgarhi,21:30,Gold,100₹,88,7
+Chhattisgarh,Korba,495677,NiharikaCinemasKorba,Chattisgarhi,21:30,Platinum,150₹,41,0
