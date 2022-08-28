@@ -1,0 +1,4 @@
+State,City,ZIP,Name,Language,Time,Type,Price,Capacity,Booked
+Karnataka,Bellary,583101,NatrajTheatreBellary,Kannada,11:00,GoldClass,150₹,212,56
+Karnataka,Bellary,583101,NatrajTheatreBellary,Kannada,11:00,SecondClass,100₹,424,112
+Karnataka,Bengaluru,560026,GopalanMallSirsiCircle,Kannada,12:45,Gold,200₹,265,5
