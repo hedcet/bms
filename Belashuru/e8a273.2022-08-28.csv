@@ -1,0 +1,17 @@
+State,City,ZIP,Name,Language,Time,Type,Price,Capacity,Booked
+WestBengal,Kolkata,700055,PvrDiamondPlazaJessoreKolkata,Bengali,11:00,Classic,99₹,210,23
+WestBengal,Kolkata,700055,PvrDiamondPlazaJessoreKolkata,Bengali,11:00,Prime,99₹,11,4
+WestBengal,Kolkata,700055,PvrDiamondPlazaJessoreKolkata,Bengali,11:00,Recliner,149₹,12,7
+WestBengal,Kolkata,700020,InoxHilandPark,Bengali,11:20,Royal,240₹,16,2
+WestBengal,Kolkata,700020,InoxHilandPark,Bengali,11:20,Premier,150₹,36,0
+WestBengal,Kolkata,700020,InoxHilandPark,Bengali,11:20,Silver,150₹,155,12
+WestBengal,Kolkata,700125,LaliCinemaBarasat,Bengali,11:30,DressCircle,110₹,6,0
+WestBengal,Kolkata,700125,LaliCinemaBarasat,Bengali,11:30,Balcony,70₹,27,0
+WestBengal,Kolkata,700125,LaliCinemaBarasat,Bengali,11:30,DiamondAc,150₹,14,0
+WestBengal,Kolkata,700125,LaliCinemaBarasat,Bengali,11:30,RearStall,50₹,54,0
+WestBengal,Kolkata,700156,NazrultirthaCinemaScreen3Kolkata,Bengali,17:00,Gold,130₹,30,17
+WestBengal,Kolkata,700156,NazrultirthaCinemaScreen3Kolkata,Bengali,17:00,Recliner,150₹,8,8
+WestBengal,Kolkata,700156,NazrultirthaCinemaScreen3Kolkata,Bengali,17:00,Sofa,130₹,12,0
+WestBengal,Kalna,713409,SvfCinemasKalna,Bengali,19:50,Silver,69₹,9,9
+WestBengal,Kalna,713409,SvfCinemasKalna,Bengali,19:50,Gold,99₹,36,35
+WestBengal,Kalna,713409,SvfCinemasKalna,Bengali,19:50,Platinum,149₹,36,35
