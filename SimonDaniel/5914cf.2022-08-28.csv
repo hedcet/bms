@@ -1,0 +1,6 @@
+State,City,ZIP,Name,Language,Time,Type,Price,Capacity,Booked
+Kerala,Kochi,680018,SavitaCinemaKochi,Malayalam,10:00,Deluxe,150₹,555,38
+Kerala,Thrissur,680553,InoxSobhaCityMall,Malayalam,16:20,RoyalRecliner,350₹,10,3
+Kerala,Thrissur,680553,InoxSobhaCityMall,Malayalam,16:20,Club,190₹,66,12
+Kerala,Thrissur,680553,InoxSobhaCityMall,Malayalam,16:20,Royal,190₹,28,17
+Kerala,Thrissur,680553,InoxSobhaCityMall,Malayalam,16:20,Executive,130₹,20,0
