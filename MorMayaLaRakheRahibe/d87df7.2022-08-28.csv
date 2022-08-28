@@ -1,0 +1,9 @@
+State,City,ZIP,Name,Language,Time,Type,Price,Capacity,Booked
+Chhattisgarh,Raipur,492001,ShyamTalkiesRaipur,Chattisgarhi,12:00,Balcony,100₹,210,0
+Chhattisgarh,Raipur,492001,ShyamTalkiesRaipur,Chattisgarhi,12:00,LowerClass,70₹,628,0
+Chhattisgarh,Raipur,492001,ShyamTalkiesRaipur,Chattisgarhi,15:00,Balcony,100₹,210,0
+Chhattisgarh,Raipur,492001,ShyamTalkiesRaipur,Chattisgarhi,15:00,LowerClass,70₹,628,0
+Chhattisgarh,Raipur,492001,ShyamTalkiesRaipur,Chattisgarhi,18:00,Balcony,100₹,210,3
+Chhattisgarh,Raipur,492001,ShyamTalkiesRaipur,Chattisgarhi,18:00,LowerClass,70₹,628,0
+Chhattisgarh,Raipur,492001,ShyamTalkiesRaipur,Chattisgarhi,21:00,Balcony,100₹,210,0
+Chhattisgarh,Raipur,492001,ShyamTalkiesRaipur,Chattisgarhi,21:00,LowerClass,70₹,628,0
