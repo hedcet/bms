@@ -1,0 +1,13 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Kerala,Mavelikkara,SandraVallakaliCineComplex,Malayalam,10:30,Platinum,130₹,114,0
+Kerala,Mavelikkara,SandraVallakaliCineComplex,Malayalam,10:30,Gold,110₹,143,4
+Kerala,Kasaragod,MagicFramesMehboobTheatreComplexKasaragod,Malayalam,10:30,Executive,129₹,121,0
+Kerala,Kottayam,DhanyaRemyaKottayam,Malayalam,10:45,Dhanya,135₹,465,5
+Kerala,Changanassery,DhanyaRemyaChanganassery,Malayalam,10:45,Dhanya,135₹,423,2
+Kerala,Pathanamthitta,DhanyaRemyaPathanamthitta,Malayalam,11:00,DhanyaCircle,135₹,422,0
+Kerala,Kollam,DhanyaRemyaKollam,Malayalam,11:00,Daimond,135₹,529,0
+Kerala,Alappuzha,CherthalaKairaliSreeTheatre,Malayalam,14:15,Platinum,125₹,260,3
+Kerala,Kozhikode,AashirvadCineplexxKozhikode,Malayalam,16:45,Platinum,220₹,10,0
+Kerala,Kozhikode,AashirvadCineplexxKozhikode,Malayalam,16:45,Gold,200₹,10,0
+Kerala,Alappuzha,CherthalaKairaliSreeTheatre,Malayalam,18:00,Platinum,125₹,260,0
+Kerala,Thalayolaparambu,CarnivalThalayolaparambu,Malayalam,21:30,Gold,110₹,144,0
