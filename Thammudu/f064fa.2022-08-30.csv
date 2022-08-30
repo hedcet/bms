@@ -1,0 +1,4 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+AndhraPradesh,Hyderabad,PrasadsHyderabad,Telugu,20:00,Gold,250₹,630,149
+AndhraPradesh,Vijayawada,InoxUrvasiComplexGandhiNagar,Telugu,22:30,Club,177₹,235,233
+AndhraPradesh,Hyderabad,PrasadsHyderabad,Telugu,23:00,Gold,250₹,630,88
