@@ -1,0 +1,9 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Assam,Guwahati,CinepolisCentralMallGuwahati,English,17:50,Normal,150₹,24,0
+Assam,Guwahati,CinepolisCentralMallGuwahati,English,17:50,Executive,150₹,116,0
+Assam,Guwahati,CinepolisCentralMallGuwahati,English,17:50,Premium,150₹,42,0
+Assam,Guwahati,CinepolisCentralMallGuwahati,English,17:50,Vip,300₹,4,0
+Maharashtra,Mumbai,CinepolisNexusSeawoodsNaviMumbai,English,20:00,Normal,200₹,32,0
+Maharashtra,Mumbai,CinepolisNexusSeawoodsNaviMumbai,English,20:00,Executive,220₹,70,5
+Maharashtra,Mumbai,CinepolisNexusSeawoodsNaviMumbai,English,20:00,Premium,240₹,57,5
+Maharashtra,Mumbai,CinepolisNexusSeawoodsNaviMumbai,English,20:00,Vip,440₹,14,0
