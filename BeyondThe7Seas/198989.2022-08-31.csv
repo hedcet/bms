@@ -1,0 +1,7 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Kerala,Karunagapally,CarnivalHJComplex,Malayalam,10:00,ClassicOffline,100₹,118,15
+Kerala,Kochi,DharsanaCinemaComplexPiravom,Malayalam,14:00,Platinum,180₹,74,0
+Kerala,Kochi,DharsanaCinemaComplexPiravom,Malayalam,14:00,Gold,150₹,88,0
+Kerala,Kochi,DharsanaCinemaComplexPiravom,Malayalam,14:00,Silver,80₹,22,0
+Kerala,Kozhikode,AashirvadCineplexxKozhikode,Malayalam,15:30,Platinum,220₹,10,0
+Kerala,Kozhikode,AashirvadCineplexxKozhikode,Malayalam,15:30,Gold,200₹,10,0
