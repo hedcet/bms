@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Kottayam,DhanyaRemyaKottayam,Malayalam,10:45,Dhanya,135₹,465,0
+Kerala,Pathanamthitta,DhanyaRemyaPathanamthitta,Malayalam,11:00,DhanyaCircle,135₹,422,0
+Kerala,Kollam,DhanyaRemyaKollam,Malayalam,11:00,Daimond,135₹,529,0
+Kerala,Alappuzha,CherthalaKairaliSreeTheatre,Malayalam,14:15,Platinum,125₹,260,5
+Kerala,Alappuzha,CherthalaKairaliSreeTheatre,Malayalam,18:00,Platinum,125₹,260,5
