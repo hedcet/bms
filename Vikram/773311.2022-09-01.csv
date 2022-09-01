@@ -1,0 +1,16 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Coimbatore,KgCinemasCoimbatore,Tamil,10:15,Premium,179₹,95,2
+TamilNadu,Coimbatore,KgCinemasCoimbatore,Tamil,10:15,Comfort,148₹,53,1
+TamilNadu,Dharmapuri,DmaxDncTheatresDharmapuri,Tamil,10:40,Elite,100₹,13,13
+TamilNadu,Dharmapuri,DmaxDncTheatresDharmapuri,Tamil,10:40,Couple,100₹,24,0
+TamilNadu,Dharmapuri,DmaxDncTheatresDharmapuri,Tamil,10:40,Premium,100₹,68,0
+TamilNadu,Dharmapuri,DmaxDncTheatresDharmapuri,Tamil,10:40,Economy,100₹,10,0
+TamilNadu,Trichy,PalaceTheatreTiruchirappalli,Tamil,11:15,FirstClass,60₹,249,0
+TamilNadu,Trichy,PalaceTheatreTiruchirappalli,Tamil,14:15,FirstClass,60₹,249,0
+TamilNadu,Chennai,PvrVrChennaiAnnaNagar,Tamil,14:25,Classic,60₹,16,16
+TamilNadu,Chennai,PvrVrChennaiAnnaNagar,Tamil,14:25,Prime,179₹,110,27
+TamilNadu,Trichy,ArunaTheatreTrichy,Tamil,14:30,FirstClass,50₹,378,0
+TamilNadu,Trichy,PalaceTheatreTiruchirappalli,Tamil,18:15,FirstClass,60₹,249,0
+TamilNadu,Trichy,ArunaTheatreTrichy,Tamil,18:30,FirstClass,50₹,378,0
+TamilNadu,Trichy,PalaceTheatreTiruchirappalli,Tamil,22:00,FirstClass,60₹,249,0
+TamilNadu,Trichy,ArunaTheatreTrichy,Tamil,22:15,FirstClass,50₹,378,0
