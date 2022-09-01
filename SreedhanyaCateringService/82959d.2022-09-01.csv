@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Pathanamthitta,DhanyaRemyaPathanamthitta,Malayalam,11:00,RemyaCircle,135₹,196,0
+Kerala,Kottayam,DhanyaRemyaKottayam,Malayalam,11:00,Remya,135₹,251,0
+Kerala,Changanassery,DhanyaRemyaChanganassery,Malayalam,11:00,Remya,135₹,196,98
+Kerala,Kollam,DhanyaRemyaKollam,Malayalam,11:00,Platinum,135₹,200,0
+Kerala,Kochi,VanithaVeneethaCineplexRgbLaser4K3DEdappally,Malayalam,12:45,Screen3,160₹,236,40
+Kerala,Kochi,VanithaVeneethaCineplexRgbLaser4K3DEdappally,Malayalam,12:45,Screen3Sofa,220₹,21,0
+Kerala,Karunagapally,CarnivalHJComplex,Malayalam,12:45,ClassicOffline,100₹,118,15
+Kerala,Pathanamthitta,DhanyaRemyaPathanamthitta,Malayalam,14:00,RemyaCircle,135₹,196,0
+Kerala,Kottayam,DhanyaRemyaKottayam,Malayalam,14:00,Remya,135₹,251,0
+Kerala,Changanassery,DhanyaRemyaChanganassery,Malayalam,14:00,Remya,135₹,196,196
+Kerala,Kollam,DhanyaRemyaKollam,Malayalam,14:00,Platinum,135₹,200,0
+Kerala,Trivandrum,CarnivalGreenfieldTrivandrum,Malayalam,16:00,ExecutiveOffline,160₹,119,26
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,16:20,RoyalRecliner,290₹,10,0
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,16:20,Club,170₹,63,0
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,16:20,Royal,170₹,28,12
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,16:20,Executive,130₹,22,0
