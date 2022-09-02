@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Haryana,Chandigarh,CarnivalParasMallZirakpur,Punjabi,11:20,GoldOffline,140₹,153,15
+Haryana,Chandigarh,CarnivalParasMallZirakpur,Punjabi,11:20,SilverOffline,120₹,36,0
+Haryana,Chandigarh,CarnivalParasMallZirakpur,Punjabi,17:15,GoldOffline,140₹,153,0
+Haryana,Chandigarh,CarnivalParasMallZirakpur,Punjabi,17:15,SilverOffline,120₹,36,0
