@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Aswaraopeta,LakshmiSrinivasaTalkiesAswaraopeta,Telugu,08:00,Balcony,150₹,160,53
+AndhraPradesh,RajamahendravaramRajahmundry,MuralikrishnaCinemaAC4K3DDowlaiswaram,Telugu,08:00,Balcony,110₹,321,321
+AndhraPradesh,Hyderabad,PrasadsMultiplexHyderabad,Telugu,08:45,Gold,295₹,630,630
+AndhraPradesh,Hyderabad,PrasadsMultiplexHyderabad,Telugu,11:30,Gold,295₹,630,630
+AndhraPradesh,Nellore,RainCinemaNellore,Telugu,11:30,Premium,150₹,302,63
+AndhraPradesh,Nellore,RainCinemaNellore,Telugu,11:30,Popular,112₹,79,79
+Maharashtra,Nagpur,InoxJaswantTuliMallKampteeRoad,Telugu,17:45,Club,200₹,173,124
+Maharashtra,Nagpur,InoxJaswantTuliMallKampteeRoad,Telugu,17:45,Executive,200₹,49,6
+Maharashtra,Nagpur,InoxJaswantTuliMallKampteeRoad,Telugu,17:45,Royale,200₹,71,61
+AndhraPradesh,Kadapa,RameshTheatreAC4KDolbyAtmosKadapa,Telugu,18:30,Gold,150₹,275,48
+Karnataka,Bengaluru,KinoCinemasSeegehalliKadugodiBengaluru,Telugu,19:00,Gold,200₹,140,121
+Karnataka,Bengaluru,KinoCinemasSeegehalliKadugodiBengaluru,Telugu,19:00,Silver,200₹,28,0
+AndhraPradesh,Vijayawada,G3RajYuvraj4KDolbyAtmosVijayawada,Telugu,19:30,GoldClass,177₹,63,63
+AndhraPradesh,Hyderabad,PrasadsMultiplexHyderabad,Telugu,20:15,Gold,295₹,630,599
+AndhraPradesh,Kadapa,RameshTheatreAC4KDolbyAtmosKadapa,Telugu,21:30,Gold,150₹,275,49
+AndhraPradesh,Hyderabad,PrasadsMultiplexHyderabad,Telugu,23:15,Gold,295₹,630,603
