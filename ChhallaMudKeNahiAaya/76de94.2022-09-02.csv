@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Punjab,Amritsar,InoxVrAmbarsarAmritsar,Punjabi,10:20,Normal,130₹,175,14
+Punjab,Jalandhar,SarbMultiplexJalandhar,Punjabi,12:50,Gold,110₹,10,0
+Haryana,Chandigarh,InoxDhillonPlazaZirakpur,Punjabi,16:10,RoyalRecliner,350₹,8,0
+Haryana,Chandigarh,InoxDhillonPlazaZirakpur,Punjabi,16:10,Club,200₹,95,6
+Haryana,Chandigarh,InoxDhillonPlazaZirakpur,Punjabi,16:10,Royal,200₹,43,11
+Haryana,Chandigarh,InoxDhillonPlazaZirakpur,Punjabi,16:10,Executive,170₹,66,0
+Punjab,Amritsar,InoxVrAmbarsarAmritsar,Punjabi,16:25,Normal,170₹,163,0
+Punjab,Amritsar,InoxVrAmbarsarAmritsar,Punjabi,19:20,Normal,170₹,163,0
+Punjab,Ludhiana,PvrPavilionLudhiana,Punjabi,19:45,Classic,99₹,77,17
+Punjab,Ludhiana,CinepolisMbdNeopolisMallLudhiana,Punjabi,21:10,Premium,100₹,95,0
+Haryana,Chandigarh,PvrElanteChandigarh,Punjabi,21:40,Classic,230₹,138,0
+Haryana,Chandigarh,PvrElanteChandigarh,Punjabi,21:40,Recliner,650₹,13,0
+Haryana,Bathinda,FunCinemasMittalCityMallBathinda,Punjabi,22:10,Normal,200₹,39,1
+Haryana,Bathinda,FunCinemasMittalCityMallBathinda,Punjabi,22:10,Executive,210₹,39,0
+Haryana,Bathinda,FunCinemasMittalCityMallBathinda,Punjabi,22:10,Premium,220₹,70,13
+Punjab,Amritsar,InoxVrAmbarsarAmritsar,Punjabi,22:15,Normal,170₹,175,12
