@@ -1,0 +1,16 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Maharashtra,Umbraj,NovaCinemazUmbraj,Marathi,12:00,Vip,90₹,102,4
+Maharashtra,Umbraj,NovaCinemazUmbraj,Marathi,12:00,Gold,70₹,105,0
+Maharashtra,Umbraj,NovaCinemazUmbraj,Marathi,12:00,Silver,70₹,84,0
+Maharashtra,Pune,AshokTheatrePimpri,Marathi,12:00,Balcony,100₹,225,0
+Maharashtra,Pune,AshokTheatrePimpri,Marathi,12:00,Reserved,80₹,459,0
+Maharashtra,Mumbai,MovietimeTheHubGoregaon,Marathi,12:00,Gold,120₹,196,22
+Maharashtra,Chandrapur,NovaCinemazChandrapur,Marathi,12:30,Balcony,90₹,283,0
+Maharashtra,Chandrapur,NovaCinemazChandrapur,Marathi,12:30,Gold,70₹,250,0
+Maharashtra,Chandrapur,NovaCinemazChandrapur,Marathi,12:30,Silver,70₹,166,0
+Maharashtra,Aurangabad,MohanNovaCinemazAurangabad,Marathi,14:30,Platinum,150₹,54,0
+Maharashtra,Aurangabad,MohanNovaCinemazAurangabad,Marathi,14:30,Gold,150₹,52,0
+Maharashtra,Aurangabad,MohanNovaCinemazAurangabad,Marathi,14:30,Silver,150₹,39,0
+Maharashtra,Chandrapur,NovaCinemazChandrapur,Marathi,18:30,Balcony,90₹,283,0
+Maharashtra,Chandrapur,NovaCinemazChandrapur,Marathi,18:30,Gold,70₹,250,0
+Maharashtra,Chandrapur,NovaCinemazChandrapur,Marathi,18:30,Silver,70₹,166,0
