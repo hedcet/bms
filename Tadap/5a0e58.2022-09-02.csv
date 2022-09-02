@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,Bareilly,PrabhaTheatreBareilly,Hindi,12:15,Elite,150₹,96,0
+UttarPradesh,Bareilly,PrabhaTheatreBareilly,Hindi,12:15,Executive,70₹,68,0
+UttarPradesh,Bareilly,PrabhaTheatreBareilly,Hindi,15:15,Elite,150₹,96,0
+UttarPradesh,Bareilly,PrabhaTheatreBareilly,Hindi,15:15,Executive,70₹,68,0
+UttarPradesh,Bareilly,PrabhaTheatreBareilly,Hindi,18:15,Elite,150₹,96,2
+UttarPradesh,Bareilly,PrabhaTheatreBareilly,Hindi,18:15,Executive,70₹,68,0
+UttarPradesh,Bareilly,PrabhaTheatreBareilly,Hindi,21:15,Elite,150₹,96,0
+UttarPradesh,Bareilly,PrabhaTheatreBareilly,Hindi,21:15,Executive,70₹,68,0
