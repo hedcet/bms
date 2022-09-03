@@ -1,0 +1,14 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,VeereshCinemasMagadiRoad,Kannada,10:15,Balcony,110₹,270,0
+Karnataka,Bengaluru,VrCinemas2KAC71DolbyAtmosMallathalli,Kannada,10:15,Balcony,120₹,240,39
+Karnataka,Bengaluru,VrCinemas2KAC71DolbyAtmosMallathalli,Kannada,10:15,Second,100₹,405,65
+Karnataka,Bengaluru,VrCinemas2KAC71DolbyAtmosMallathalli,Kannada,13:15,Balcony,120₹,240,40
+Karnataka,Bengaluru,VrCinemas2KAC71DolbyAtmosMallathalli,Kannada,13:15,Second,100₹,405,65
+Karnataka,Bengaluru,KamakyaCinemaBanashankari,Kannada,13:30,Balcony,110₹,338,0
+Karnataka,Bengaluru,KamakyaCinemaBanashankari,Kannada,13:30,Stall,100₹,333,0
+Karnataka,Bengaluru,KamakyaCinemaBanashankari,Kannada,16:15,Balcony,110₹,338,0
+Karnataka,Bengaluru,KamakyaCinemaBanashankari,Kannada,16:15,Stall,100₹,333,0
+Karnataka,Bengaluru,VrCinemas2KAC71DolbyAtmosMallathalli,Kannada,16:15,Balcony,120₹,240,39
+Karnataka,Bengaluru,VrCinemas2KAC71DolbyAtmosMallathalli,Kannada,16:15,Second,100₹,405,65
+Karnataka,Bengaluru,VrCinemas2KAC71DolbyAtmosMallathalli,Kannada,19:15,Balcony,120₹,240,40
+Karnataka,Bengaluru,VrCinemas2KAC71DolbyAtmosMallathalli,Kannada,19:15,Second,100₹,405,65
