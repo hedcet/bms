@@ -1,0 +1,16 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Dubrajpur,BinapaniTalkiesDubrajpur,Hindi,13:00,Balcony,40₹,20,0
+WestBengal,Dubrajpur,BinapaniTalkiesDubrajpur,Hindi,13:00,RearStall,30₹,20,0
+WestBengal,AurangabadWestBengal,ShyamalTalkiesAurangabadWB,Hindi,14:00,Balcony,50₹,10,0
+WestBengal,AurangabadWestBengal,ShyamalTalkiesAurangabadWB,Hindi,14:00,RearStall,30₹,10,0
+WestBengal,Dubrajpur,BinapaniTalkiesDubrajpur,Hindi,16:00,Balcony,40₹,20,0
+WestBengal,Dubrajpur,BinapaniTalkiesDubrajpur,Hindi,16:00,RearStall,30₹,20,0
+WestBengal,AurangabadWestBengal,ShyamalTalkiesAurangabadWB,Hindi,17:00,Balcony,50₹,10,0
+WestBengal,AurangabadWestBengal,ShyamalTalkiesAurangabadWB,Hindi,17:00,RearStall,30₹,10,0
+WestBengal,Dubrajpur,BinapaniTalkiesDubrajpur,Hindi,19:00,Balcony,40₹,20,0
+WestBengal,Dubrajpur,BinapaniTalkiesDubrajpur,Hindi,19:00,RearStall,30₹,20,0
+WestBengal,AurangabadWestBengal,ShyamalTalkiesAurangabadWB,Hindi,20:00,Balcony,50₹,10,0
+WestBengal,AurangabadWestBengal,ShyamalTalkiesAurangabadWB,Hindi,20:00,RearStall,30₹,10,0
+MadhyaPradesh,Barwani,MahendraTalkiesBarwani,Hindi,21:00,BalconyClass,80₹,162,0
+MadhyaPradesh,Barwani,MahendraTalkiesBarwani,Hindi,21:00,SecondClass,50₹,360,0
+MadhyaPradesh,Ashta,AnshayChitralayAshta,Hindi,21:15,Platinum,60₹,226,31
