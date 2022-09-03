@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Maharashtra,Mumbai,InoxMegaplexInorbitMallMalad,English,13:05,Insignia,520₹,46,4
+Maharashtra,Mumbai,InoxRCityGhatkopar,English,13:35,Insignia,570₹,46,5
+Maharashtra,Pune,PvrPhoenixMarketCityGoldPune,English,13:45,GoldClassic,450₹,24,8
+Maharashtra,Pune,PvrPhoenixMarketCityGoldPune,English,13:45,GoldPrime,500₹,22,0
+Mizoram,Aizawl,RemphamLyCinemaAizawl,English,17:00,Bronze,300₹,8,0
+Mizoram,Aizawl,RemphamLyCinemaAizawl,English,17:00,Silver,400₹,16,0
+Mizoram,Aizawl,RemphamLyCinemaAizawl,English,17:00,Gold,500₹,16,0
+Mizoram,Aizawl,RemphamLyCinemaAizawl,English,17:00,Couple,600₹,8,0
+Mizoram,Aizawl,RemphamLyCinemaAizawl,English,17:00,Recliner,700₹,4,0
