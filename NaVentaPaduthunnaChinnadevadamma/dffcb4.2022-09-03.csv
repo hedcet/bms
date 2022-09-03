@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Hyderabad,AsianMuktaCinemasA2MjrSquareNarapally,Telugu,10:20,Recliners,200₹,24,0
+AndhraPradesh,Hyderabad,AsianMuktaCinemasA2MjrSquareNarapally,Telugu,10:20,Couples,200₹,40,0
+AndhraPradesh,Hyderabad,AsianMuktaCinemasA2MjrSquareNarapally,Telugu,10:20,Gold,150₹,370,0
+AndhraPradesh,Hyderabad,AsianMuktaCinemasA2MjrSquareNarapally,Telugu,10:20,Loungers,150₹,13,0
+AndhraPradesh,Hyderabad,AsianCineSquareMultiplexUppal,Telugu,16:45,Sofa,180₹,13,13
+AndhraPradesh,Hyderabad,AsianCineSquareMultiplexUppal,Telugu,16:45,Gold,150₹,184,34
