@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Kochi,PvrLuluKochi,Malayalam,13:00,Classic,140₹,39,0
+Kerala,Kochi,PvrLuluKochi,Malayalam,13:00,ClassicPlus,160₹,91,0
+Kerala,Kochi,PvrLuluKochi,Malayalam,13:00,Prime,190₹,64,16
+Kerala,Kochi,PvrLuluKochi,Malayalam,13:00,Recliner,350₹,9,0
