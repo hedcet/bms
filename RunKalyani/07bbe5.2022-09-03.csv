@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Kochi,PvrLuluKochi,Malayalam,10:35,Classic,110₹,39,0
+Kerala,Kochi,PvrLuluKochi,Malayalam,10:35,ClassicPlus,140₹,91,0
+Kerala,Kochi,PvrLuluKochi,Malayalam,10:35,Prime,160₹,68,17
+Kerala,Kochi,PvrLuluKochi,Malayalam,10:35,Recliner,300₹,10,0
+Maharashtra,Mumbai,InoxRaghuleelaMallVashi,Malayalam,13:35,Premier,200₹,85,0
+Maharashtra,Mumbai,InoxRaghuleelaMallVashi,Malayalam,13:35,Silver,200₹,26,2
+Maharashtra,Mumbai,InoxRaghuleelaMallVashi,Malayalam,13:35,Executive,180₹,22,0
+Kerala,Kochi,PvrOberonMallKochi,Malayalam,13:45,Classic,140₹,36,0
+Kerala,Kochi,PvrOberonMallKochi,Malayalam,13:45,ClassicPlus,180₹,81,16
+Maharashtra,Mumbai,PvrMarketCityKurlaPremiere,Malayalam,16:30,3DClassic,230₹,80,0
+Maharashtra,Mumbai,PvrMarketCityKurlaPremiere,Malayalam,16:30,3DPrime,260₹,143,19
+Maharashtra,Mumbai,MovietimeTheHubGoregaon,Malayalam,20:00,Gold,180₹,196,19
