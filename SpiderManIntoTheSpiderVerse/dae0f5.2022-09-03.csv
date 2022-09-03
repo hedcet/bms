@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,Varanasi,IpCinemasIpSigraMallVaranasi,Hindi,10:30,Gold,250₹,69,0
+UttarPradesh,Varanasi,IpCinemasIpSigraMallVaranasi,Hindi,10:30,Silver,200₹,75,0
+UttarPradesh,Varanasi,IpCinemasIpSigraMallVaranasi,Hindi,10:30,Recliner,550₹,10,0
+UttarPradesh,Varanasi,IpCinemasIpSigraMallVaranasi,Hindi,16:00,Gold,250₹,81,12
+UttarPradesh,Varanasi,IpCinemasIpSigraMallVaranasi,Hindi,16:00,Silver,200₹,75,0
+UttarPradesh,Varanasi,IpCinemasIpSigraMallVaranasi,Hindi,16:00,Recliner,550₹,12,2
