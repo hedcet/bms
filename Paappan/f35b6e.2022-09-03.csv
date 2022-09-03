@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Kochi,PvrOberonMallKochi,Malayalam,16:10,Classic,140₹,36,0
+Kerala,Kochi,PvrOberonMallKochi,Malayalam,16:10,ClassicPlus,190₹,81,16
+Gujarat,Vapi,AnantCinemaVapi,Malayalam,18:45,Sofa,200₹,66,0
+Gujarat,Vapi,AnantCinemaVapi,Malayalam,18:45,Lounger,200₹,10,0
