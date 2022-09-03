@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Ahmedabad,RevolutionMultiplexCtmAhmedabad,Gujarati,12:45,PlatinumClass,180₹,15,0
+Gujarat,Ahmedabad,RevolutionMultiplexCtmAhmedabad,Gujarati,12:45,GoldenClass,160₹,40,0
+Gujarat,Ahmedabad,RevolutionMultiplexCtmAhmedabad,Gujarati,12:45,SilverClass,140₹,20,0
+Gujarat,Rajkot,RajshriCinemaRajkot,Gujarati,16:00,Balcony,160₹,208,0
+Gujarat,Rajkot,RajshriCinemaRajkot,Gujarati,16:00,Upper,100₹,550,0
+Gujarat,Vadodara,MovietimeSSquareMallSubhanpuraVadodara,Gujarati,21:30,Recliner,150₹,8,0
+Gujarat,Vadodara,MovietimeSSquareMallSubhanpuraVadodara,Gujarati,21:30,Premium,100₹,120,18
+Gujarat,Vadodara,MovietimeSSquareMallSubhanpuraVadodara,Gujarati,21:30,Executive,100₹,48,0
