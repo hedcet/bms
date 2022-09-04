@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,PrayagrajAllahabad,StarworldCinemasMutthiganjPrayagraj,Telugu,15:30,Platinum,140₹,130,0
+UttarPradesh,PrayagrajAllahabad,StarworldCinemasMutthiganjPrayagraj,Telugu,15:30,PrimeXlSeats,140₹,58,0
+AndhraPradesh,Vijayawada,G3RajYuvraj4KDolbyAtmosVijayawada,Telugu,19:30,GoldClass,177₹,63,12
