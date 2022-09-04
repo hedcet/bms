@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Kochi,ShenoysKochi,Malayalam,12:30,Diamond,220₹,71,0
+Kerala,Kochi,PvrLuluKochi,Malayalam,13:00,Classic,140₹,39,0
+Kerala,Kochi,PvrLuluKochi,Malayalam,13:00,ClassicPlus,160₹,91,19
+Kerala,Kochi,PvrLuluKochi,Malayalam,13:00,Prime,190₹,64,1
+Kerala,Kochi,PvrLuluKochi,Malayalam,13:00,Recliner,350₹,9,0
+Kerala,Kollam,GmaxCinemasJerome,Malayalam,19:00,Green,180₹,86,22
+Kerala,Trivandrum,AriesplexSlCinemas,Malayalam,19:15,Executive,110₹,70,12
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,19:20,RoyalRecliner,350₹,10,1
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,19:20,Club,190₹,66,8
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,19:20,Royal,190₹,28,26
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,19:20,Executive,130₹,22,0
