@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Maharashtra,Pune,CityPrideKothrud,Marathi,13:30,RoyalSofa,230₹,13,8
+Maharashtra,Pune,CityPrideKothrud,Marathi,13:30,RoyalGold,180₹,76,44
+Maharashtra,Pune,CityPrideKothrud,Marathi,13:30,RoyalSilver,160₹,22,0
+Maharashtra,Pune,CityPrideSataraRoad,Marathi,13:30,RoyalGold,180₹,81,13
+Maharashtra,Pune,CityPrideSataraRoad,Marathi,13:30,RoyalSilver,150₹,9,0
+Maharashtra,Ichalkaranji,FortuneCineplexIchalkaranji,Marathi,16:00,Club,110₹,82,0
+Maharashtra,Ichalkaranji,FortuneCineplexIchalkaranji,Marathi,16:00,Gold,110₹,80,0
+Maharashtra,Pune,CinepolisSeasonsMallPune,Marathi,17:15,Normal,200₹,31,0
+Maharashtra,Pune,CinepolisSeasonsMallPune,Marathi,17:15,Executive,220₹,84,0
+Maharashtra,Pune,CinepolisSeasonsMallPune,Marathi,17:15,Premium,220₹,34,10
+Maharashtra,Pune,AbhiruchiCityPrideSinhagadRoad,Marathi,17:30,RoyalSofa,180₹,12,0
+Maharashtra,Pune,AbhiruchiCityPrideSinhagadRoad,Marathi,17:30,RoyalGold,160₹,123,24
+Maharashtra,Pune,AbhiruchiCityPrideSinhagadRoad,Marathi,17:30,RoyalSilver,140₹,30,0
+Maharashtra,Mumbai,CinepolisVipVivianaMallThane,Marathi,19:05,Vip,500₹,74,23
+Maharashtra,Pune,CityPrideKothrud,Marathi,19:30,RoyalGold,180₹,149,28
+Maharashtra,Pune,CityPrideKothrud,Marathi,19:30,RoyalSilver,160₹,22,2
