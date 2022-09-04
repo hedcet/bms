@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Pulpally,PentaCinemasPulpally,Malayalam,11:00,GoldClass,110₹,120,2
+Kerala,Pulpally,PentaCinemasPulpally,Malayalam,14:15,GoldClass,110₹,120,2
+Kerala,Kochi,PvrOberonMallKochi,Malayalam,16:10,Classic,140₹,36,4
+Kerala,Kochi,PvrOberonMallKochi,Malayalam,16:10,ClassicPlus,190₹,81,30
+Kerala,Pulpally,PentaCinemasPulpally,Malayalam,17:30,GoldClass,110₹,120,2
+Kerala,Trivandrum,JvCinemasKattakkada,Malayalam,18:30,Daimond,270₹,12,0
+Kerala,Trivandrum,JvCinemasKattakkada,Malayalam,18:30,Platinum,130₹,156,0
+Gujarat,Vapi,AnantCinemaVapi,Malayalam,18:45,Sofa,200₹,66,20
+Gujarat,Vapi,AnantCinemaVapi,Malayalam,18:45,Lounger,200₹,10,0
+Kerala,Pulpally,PentaCinemasPulpally,Malayalam,20:45,GoldClass,110₹,120,2
+Kerala,Trivandrum,DreamsAttingal,Malayalam,21:25,Recliner,350₹,11,6
+Kerala,Trivandrum,DreamsAttingal,Malayalam,21:25,Sofa,200₹,60,7
+Kerala,Trivandrum,JvCinemasKattakkada,Malayalam,21:30,Daimond,270₹,12,0
+Kerala,Trivandrum,JvCinemasKattakkada,Malayalam,21:30,Platinum,130₹,156,2
