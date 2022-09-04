@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Kochi,PvrLuluKochi,Malayalam,13:15,Classic,140₹,39,0
+Kerala,Kochi,PvrLuluKochi,Malayalam,13:15,ClassicPlus,160₹,91,8
+Kerala,Kochi,PvrLuluKochi,Malayalam,13:15,Prime,190₹,68,6
+Kerala,Kochi,PvrLuluKochi,Malayalam,13:15,Recliner,350₹,10,0
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,14:05,RoyalRecliner,350₹,10,1
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,14:05,Club,190₹,63,0
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,14:05,Royal,190₹,28,12
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,14:05,Executive,130₹,22,0
+UttarPradesh,Aligarh,StarworldCinemasAligarh,Malayalam,19:00,Prime,200₹,72,10
