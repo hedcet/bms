@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,Jhansi,NatarajCinemaJhansi,Hindi,10:00,Executive,230₹,146,0
+UttarPradesh,Jhansi,NatarajCinemaJhansi,Hindi,18:30,Executive,250₹,146,19
+Haryana,NationalCapitalRegionNcr,CinepolisDlfAvenueSaket,English,20:00,Normal,150₹,42,0
+Haryana,NationalCapitalRegionNcr,CinepolisDlfAvenueSaket,English,20:00,Executive,150₹,59,1
+Haryana,NationalCapitalRegionNcr,CinepolisDlfAvenueSaket,English,20:00,Premium,150₹,45,14
+Haryana,NationalCapitalRegionNcr,CinepolisDlfAvenueSaket,English,20:00,Vip,300₹,10,5
+UttarPradesh,Jhansi,NatarajCinemaJhansi,Hindi,21:30,Executive,250₹,146,19
+Gujarat,Ahmedabad,CinepolisNexusAhmedabadOne,English,22:00,Normal,150₹,36,0
+Gujarat,Ahmedabad,CinepolisNexusAhmedabadOne,English,22:00,Executive,150₹,78,0
+Gujarat,Ahmedabad,CinepolisNexusAhmedabadOne,English,22:00,Premium,150₹,60,10
