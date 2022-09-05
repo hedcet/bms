@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Jalpaiguri,CinebazzJalpaiguri,Bengali,13:00,Premium,80₹,55,0
+WestBengal,Jalpaiguri,CinebazzJalpaiguri,Bengali,13:00,Regular,80₹,11,0
+WestBengal,Jalpaiguri,CinebazzJalpaiguri,Bengali,16:00,Premium,80₹,55,2
+WestBengal,Jalpaiguri,CinebazzJalpaiguri,Bengali,16:00,Regular,80₹,11,0
+WestBengal,Jalpaiguri,CinebazzJalpaiguri,Bengali,18:45,Premium,80₹,55,0
+WestBengal,Jalpaiguri,CinebazzJalpaiguri,Bengali,18:45,Regular,80₹,11,0
