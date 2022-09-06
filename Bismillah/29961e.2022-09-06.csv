@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Kolkata,NandanKolkata,Bengali,13:00,FrontStall,30₹,111,23
+WestBengal,Kolkata,NandanKolkata,Bengali,13:00,RearStall,50₹,451,57
+WestBengal,Kolkata,NandanKolkata,Bengali,13:00,Balcony,70₹,369,29
+WestBengal,Kolkata,InoxSouthCityKolkata,Bengali,13:10,Silver,220₹,166,28
+WestBengal,Kolkata,InoxSouthCityKolkata,Bengali,13:10,Premier,200₹,34,0
+WestBengal,Kolkata,InoxCityCentreIiRajarhat,Bengali,14:00,Club,112₹,245,16
+WestBengal,Kolkata,InoxCityCentreIiRajarhat,Bengali,14:00,Executive,112₹,42,0
+WestBengal,Kolkata,CinepolisLakeMallKolkata,Bengali,16:00,Normal,160₹,40,0
+WestBengal,Kolkata,CinepolisLakeMallKolkata,Bengali,16:00,Executive,160₹,188,4
+WestBengal,Kolkata,CinepolisLakeMallKolkata,Bengali,16:00,Premium,160₹,47,28
+WestBengal,Kolkata,CinepolisLakeMallKolkata,Bengali,16:00,Vip,350₹,12,0
