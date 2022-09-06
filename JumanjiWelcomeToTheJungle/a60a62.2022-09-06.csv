@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Rajasthan,Jaipur,CinepolisWorldTradeParkMallJaipur,English,19:15,Normal,150₹,39,0
+Rajasthan,Jaipur,CinepolisWorldTradeParkMallJaipur,English,19:15,Executive,150₹,127,0
+Rajasthan,Jaipur,CinepolisWorldTradeParkMallJaipur,English,19:15,Premium,150₹,43,0
+Rajasthan,Jaipur,CinepolisWorldTradeParkMallJaipur,English,19:15,Vip,300₹,16,3
