@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,DakshinBarasat,MahamayaTalkiesDakshinBarasat,Bhojpuri,13:00,GoldClass,100₹,89,27
+WestBengal,DakshinBarasat,MahamayaTalkiesDakshinBarasat,Bhojpuri,13:00,SilverClass,70₹,312,3
+WestBengal,DakshinBarasat,MahamayaTalkiesDakshinBarasat,Bhojpuri,16:00,GoldClass,100₹,89,4
+WestBengal,DakshinBarasat,MahamayaTalkiesDakshinBarasat,Bhojpuri,16:00,SilverClass,70₹,312,1
+WestBengal,DakshinBarasat,MahamayaTalkiesDakshinBarasat,Bhojpuri,18:45,GoldClass,100₹,89,0
+WestBengal,DakshinBarasat,MahamayaTalkiesDakshinBarasat,Bhojpuri,18:45,SilverClass,70₹,312,0
