@@ -1,0 +1,16 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,Kanpur,SapnaPalaceCinemaKanpur,Hindi,12:00,Gold,100₹,58,0
+UttarPradesh,Kanpur,SapnaPalaceCinemaKanpur,Hindi,12:00,Silver,70₹,34,0
+Bihar,Patna,FunCinemasRegentTheatre,Hindi,15:00,Platinum,160₹,400,62
+Bihar,Patna,FunCinemasRegentTheatre,Hindi,15:00,Gold1Fl,150₹,228,228
+Bihar,Patna,FunCinemasRegentTheatre,Hindi,15:00,Silver1stFl,140₹,24,24
+UttarPradesh,Kanpur,SapnaPalaceCinemaKanpur,Hindi,15:20,Gold,100₹,58,0
+UttarPradesh,Kanpur,SapnaPalaceCinemaKanpur,Hindi,15:20,Silver,70₹,34,0
+UttarPradesh,Kanpur,SapnaPalaceCinemaKanpur,Hindi,18:30,Gold,100₹,58,0
+UttarPradesh,Kanpur,SapnaPalaceCinemaKanpur,Hindi,18:30,Silver,70₹,34,0
+Jharkhand,Jamshedpur,PjpCinepolisJamshedpur,Hindi,21:10,Normal,180₹,28,0
+Jharkhand,Jamshedpur,PjpCinepolisJamshedpur,Hindi,21:10,Executive,200₹,58,0
+Jharkhand,Jamshedpur,PjpCinepolisJamshedpur,Hindi,21:10,Premium,220₹,78,0
+Jharkhand,Jamshedpur,PjpCinepolisJamshedpur,Hindi,21:10,Vip,400₹,12,0
+UttarPradesh,Kanpur,SapnaPalaceCinemaKanpur,Hindi,21:40,Gold,100₹,58,0
+UttarPradesh,Kanpur,SapnaPalaceCinemaKanpur,Hindi,21:40,Silver,70₹,34,0
