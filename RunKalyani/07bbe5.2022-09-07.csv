@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Chennai,PvrAmpaMallNelsonManickamRoad,Malayalam,13:35,Classic,63₹,17,17
+TamilNadu,Chennai,PvrAmpaMallNelsonManickamRoad,Malayalam,13:35,Prime,189₹,130,22
+Maharashtra,Mumbai,InoxRaghuleelaMallVashi,Malayalam,13:35,Premier,150₹,89,4
+Maharashtra,Mumbai,InoxRaghuleelaMallVashi,Malayalam,13:35,Silver,150₹,32,6
+Maharashtra,Mumbai,InoxRaghuleelaMallVashi,Malayalam,13:35,Executive,140₹,22,0
+Maharashtra,Mumbai,PvrMarketCityKurlaPremiere,Malayalam,16:30,Classic,170₹,80,4
+Maharashtra,Mumbai,PvrMarketCityKurlaPremiere,Malayalam,16:30,Prime,190₹,143,19
+Maharashtra,Mumbai,MovietimeTheHubGoregaon,Malayalam,19:30,Gold,110₹,196,25
