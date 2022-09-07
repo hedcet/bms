@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Coimbatore,KgCinemasCoimbatore,Tamil,10:15,Premium,179₹,95,2
+TamilNadu,Coimbatore,KgCinemasCoimbatore,Tamil,10:15,Comfort,148₹,53,5
+TamilNadu,Madurai,CentralCinemaMadurai,Tamil,10:30,FirstClass,40₹,175,0
+TamilNadu,Chennai,PvrVrChennaiAnnaNagar,Tamil,12:40,Classic,60₹,16,12
+TamilNadu,Chennai,PvrVrChennaiAnnaNagar,Tamil,12:40,Prime,179₹,110,19
+TamilNadu,Madurai,CentralCinemaMadurai,Tamil,14:00,FirstClass,40₹,175,0
+TamilNadu,Dharmapuri,DmaxDncTheatresDharmapuri,Tamil,14:30,Elite,100₹,13,0
+TamilNadu,Dharmapuri,DmaxDncTheatresDharmapuri,Tamil,14:30,Couple,100₹,24,2
+TamilNadu,Dharmapuri,DmaxDncTheatresDharmapuri,Tamil,14:30,Premium,100₹,68,12
+TamilNadu,Dharmapuri,DmaxDncTheatresDharmapuri,Tamil,14:30,Economy,100₹,10,0
+TamilNadu,Madurai,CentralCinemaMadurai,Tamil,18:00,FirstClass,40₹,175,0
+TamilNadu,Madurai,CentralCinemaMadurai,Tamil,22:00,FirstClass,40₹,175,0
