@@ -1,0 +1,16 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Assam,Guwahati,CinepolisCentralMallGuwahati,English,12:10,Normal,150₹,24,0
+Assam,Guwahati,CinepolisCentralMallGuwahati,English,12:10,Executive,150₹,116,0
+Assam,Guwahati,CinepolisCentralMallGuwahati,English,12:10,Premium,150₹,56,4
+Assam,Guwahati,CinepolisCentralMallGuwahati,English,12:10,Vip,300₹,4,0
+Maharashtra,Pune,CinepolisNexusWestendMallAundhPune,English,13:10,Normal,150₹,21,2
+Maharashtra,Pune,CinepolisNexusWestendMallAundhPune,English,13:10,Executive,150₹,59,0
+Maharashtra,Pune,CinepolisNexusWestendMallAundhPune,English,13:10,Premium,150₹,45,2
+Karnataka,Bengaluru,CinepolisNexusShantiniketanBengaluru,English,13:15,Normal,150₹,69,1
+Karnataka,Bengaluru,CinepolisNexusShantiniketanBengaluru,English,13:15,DoubleSofa,150₹,24,0
+Karnataka,Bengaluru,CinepolisNexusShantiniketanBengaluru,English,13:15,Lounger,150₹,9,0
+Karnataka,Bengaluru,CinepolisNexusShantiniketanBengaluru,English,13:15,SingleSofa,150₹,6,0
+Maharashtra,Mumbai,CinepolisNexusSeawoodsNaviMumbai,English,13:20,Normal,150₹,42,27
+Maharashtra,Mumbai,CinepolisNexusSeawoodsNaviMumbai,English,13:20,Executive,150₹,66,33
+Maharashtra,Mumbai,CinepolisNexusSeawoodsNaviMumbai,English,13:20,Premium,150₹,54,18
+Maharashtra,Mumbai,CinepolisNexusSeawoodsNaviMumbai,English,13:20,Vip,250₹,14,1
