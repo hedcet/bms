@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Chhattisgarh,Raipur,ShyamTalkiesRaipur,Chattisgarhi,12:00,Balcony,100₹,210,0
+Chhattisgarh,Raipur,ShyamTalkiesRaipur,Chattisgarhi,12:00,LowerClass,70₹,628,0
+Chhattisgarh,Raipur,ShyamTalkiesRaipur,Chattisgarhi,15:00,Balcony,100₹,210,4
+Chhattisgarh,Raipur,ShyamTalkiesRaipur,Chattisgarhi,15:00,LowerClass,70₹,628,0
+Chhattisgarh,Raipur,ShyamTalkiesRaipur,Chattisgarhi,18:00,Balcony,100₹,210,0
+Chhattisgarh,Raipur,ShyamTalkiesRaipur,Chattisgarhi,18:00,LowerClass,70₹,628,0
+Chhattisgarh,Raipur,ShyamTalkiesRaipur,Chattisgarhi,21:00,Balcony,100₹,210,0
+Chhattisgarh,Raipur,ShyamTalkiesRaipur,Chattisgarhi,21:00,LowerClass,70₹,628,0
