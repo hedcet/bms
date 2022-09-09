@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,Kanpur,SaraswatiTalkiesShuklagunj,Hindi,15:00,Balcony,90₹,48,3
+UttarPradesh,Kanpur,SaraswatiTalkiesShuklagunj,Hindi,15:00,Family,60₹,72,0
+UttarPradesh,Kanpur,SaraswatiTalkiesShuklagunj,Hindi,18:00,Balcony,90₹,48,1
+UttarPradesh,Kanpur,SaraswatiTalkiesShuklagunj,Hindi,18:00,Family,60₹,72,0
+UttarPradesh,Kannauj,NarayanMiniplexKannauj,Hindi,18:15,Gold,100₹,133,0
+UttarPradesh,Kannauj,NarayanMiniplexKannauj,Hindi,18:15,Silver,100₹,102,0
+UttarPradesh,Kanpur,SaraswatiTalkiesShuklagunj,Hindi,21:00,Balcony,90₹,48,0
+UttarPradesh,Kanpur,SaraswatiTalkiesShuklagunj,Hindi,21:00,Family,60₹,72,0
+UttarPradesh,Kannauj,NarayanMiniplexKannauj,Hindi,21:15,Gold,100₹,133,0
+UttarPradesh,Kannauj,NarayanMiniplexKannauj,Hindi,21:15,Silver,100₹,102,0
