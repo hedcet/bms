@@ -1,0 +1,16 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,MangaluruMangalore,CinepolisCityCentreMallMangaluru,Tulu,12:45,Platinum,150₹,50,12
+Karnataka,MangaluruMangalore,CinepolisCityCentreMallMangaluru,Tulu,12:45,Vip,200₹,17,13
+Karnataka,MangaluruMangalore,BharathCinemasMangalore,Tulu,15:30,Gold,200₹,47,30
+Karnataka,MangaluruMangalore,BharathCinemasMangalore,Tulu,15:30,Silver,180₹,33,8
+Karnataka,MangaluruMangalore,BharathCinemasMangalore,Tulu,15:30,Special,150₹,11,0
+Karnataka,MangaluruMangalore,CineGalaxySurathkalMangalore,Tulu,16:00,Gold,150₹,18,2
+Karnataka,MangaluruMangalore,CineGalaxySurathkalMangalore,Tulu,16:00,Prime,150₹,64,5
+Karnataka,MangaluruMangalore,CineGalaxySurathkalMangalore,Tulu,16:00,Classic,150₹,42,0
+Karnataka,MangaluruMangalore,PvrNexusMallPandeshwarMangalore,Tulu,18:30,Classic,150₹,79,27
+Karnataka,MangaluruMangalore,CineGalaxySurathkalMangalore,Tulu,18:30,Gold,150₹,18,0
+Karnataka,MangaluruMangalore,CineGalaxySurathkalMangalore,Tulu,18:30,Prime,150₹,64,9
+Karnataka,MangaluruMangalore,CineGalaxySurathkalMangalore,Tulu,18:30,Classic,150₹,42,0
+Karnataka,MangaluruMangalore,BharathCinemasMangalore,Tulu,20:00,Gold,200₹,47,28
+Karnataka,MangaluruMangalore,BharathCinemasMangalore,Tulu,20:00,Silver,180₹,33,4
+Karnataka,MangaluruMangalore,BharathCinemasMangalore,Tulu,20:00,Special,150₹,11,0
