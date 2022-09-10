@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Hyderabad,PvrIrrumManzilHyderabad,Telugu,10:45,Classic,150₹,94,5
+AndhraPradesh,Hyderabad,PvrIrrumManzilHyderabad,Telugu,10:45,Recliner,250₹,10,2
+Karnataka,Gangavati,AmarTalkiesGangavati,Telugu,11:00,BalconyClass,100₹,60,0
+Karnataka,Gangavati,AmarTalkiesGangavati,Telugu,14:00,BalconyClass,100₹,60,0
+Karnataka,Gangavati,AmarTalkiesGangavati,Telugu,18:00,BalconyClass,100₹,60,0
+AndhraPradesh,Nandikotkur,ApsaraTheaterDtsNandikotkur,Telugu,18:30,Gold,70₹,246,0
+AndhraPradesh,Nandikotkur,ApsaraTheaterDtsNandikotkur,Telugu,18:30,Silver,70₹,105,0
+Karnataka,Gangavati,AmarTalkiesGangavati,Telugu,21:00,BalconyClass,100₹,60,0
+AndhraPradesh,Nandikotkur,ApsaraTheaterDtsNandikotkur,Telugu,21:30,Gold,70₹,246,0
+AndhraPradesh,Nandikotkur,ApsaraTheaterDtsNandikotkur,Telugu,21:30,Silver,70₹,105,0
