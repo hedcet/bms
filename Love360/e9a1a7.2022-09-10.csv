@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Shivamogga,BharathCinemasShivamogga,Kannada,10:45,Gold,200₹,96,14
+Karnataka,Shivamogga,BharathCinemasShivamogga,Kannada,10:45,Silver,200₹,40,0
+Karnataka,Shivamogga,BharathCinemasShivamogga,Kannada,10:45,Special,150₹,30,0
+Karnataka,MysuruMysore,InoxMallOfMysuru,Kannada,10:50,Club,160₹,239,26
+Karnataka,Bengaluru,InoxMantriSquareMalleshwaram,Kannada,11:00,Royal,320₹,14,8
+Karnataka,Bengaluru,InoxMantriSquareMalleshwaram,Kannada,11:00,Club,200₹,272,59
+Karnataka,Shivamogga,BharathCinemasShivamogga,Kannada,13:45,Gold,200₹,110,11
+Karnataka,Shivamogga,BharathCinemasShivamogga,Kannada,13:45,Silver,200₹,48,0
+Karnataka,Shivamogga,BharathCinemasShivamogga,Kannada,13:45,Special,150₹,36,2
+Karnataka,Bengaluru,VeereshCinemasMagadiRoad,Kannada,16:10,Balcony,110₹,270,40
+Karnataka,Bengaluru,VeereshCinemasMagadiRoad,Kannada,19:10,Balcony,110₹,270,17
