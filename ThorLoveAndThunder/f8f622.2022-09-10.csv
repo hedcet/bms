@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,NationalCapitalRegionNcr,PvrPacificSubhashNagar4DxDelhi,English,12:15,Classic,340₹,36,0
+UttarPradesh,NationalCapitalRegionNcr,PvrPacificSubhashNagar4DxDelhi,English,12:15,Prime,390₹,72,23
+UttarPradesh,NationalCapitalRegionNcr,PvrLogix4DxNoida,English,17:55,Classic,540₹,92,22
+MadhyaPradesh,Indore,PvrTreasureIslandMallIndore,Hindi,20:35,Classic,250₹,26,2
+MadhyaPradesh,Indore,PvrTreasureIslandMallIndore,Hindi,20:35,Prime,280₹,46,17
+MadhyaPradesh,Indore,PvrTreasureIslandMallIndore,Hindi,20:35,Recliner,500₹,8,4
+UttarPradesh,Lucknow,InoxMegaplexPhoenixPalassioMall,English,22:15,Royale,370₹,53,0
+UttarPradesh,Lucknow,InoxMegaplexPhoenixPalassioMall,English,22:15,Club,350₹,47,3
+UttarPradesh,Lucknow,InoxMegaplexPhoenixPalassioMall,English,22:15,Executive,330₹,24,0
