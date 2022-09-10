@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,VizagVisakhapatnam,SatyamTheatreGopalapatnam,Telugu,10:45,Balcony,112₹,207,0
+AndhraPradesh,VizagVisakhapatnam,SatyamTheatreGopalapatnam,Telugu,10:45,FirstClass,112₹,69,0
+AndhraPradesh,Kakinada,InoxSrmtMallKakinada,Telugu,13:15,Executive,112₹,146,20
+AndhraPradesh,Hyderabad,PvrNextGalleriaMallPanjagutta,Telugu,13:40,Classic,150₹,152,152
+AndhraPradesh,VizagVisakhapatnam,SatyamTheatreGopalapatnam,Telugu,13:45,Balcony,112₹,207,2
+AndhraPradesh,VizagVisakhapatnam,SatyamTheatreGopalapatnam,Telugu,13:45,FirstClass,112₹,69,0
+AndhraPradesh,Hyderabad,PvrNexusMallKukatpallyHyderabad,Telugu,14:40,Classic,150₹,135,7
+AndhraPradesh,Hyderabad,PvrNexusMallKukatpallyHyderabad,Telugu,14:40,Recliner,250₹,9,1
+AndhraPradesh,Hyderabad,InoxGsmMallHyderabad,Telugu,15:00,Royal,250₹,13,6
+AndhraPradesh,Hyderabad,InoxGsmMallHyderabad,Telugu,15:00,Executive,150₹,106,11
+AndhraPradesh,Hyderabad,InoxSattvaNecklaceMallKavadiguda,Telugu,16:50,Royal,250₹,14,4
+AndhraPradesh,Hyderabad,InoxSattvaNecklaceMallKavadiguda,Telugu,16:50,Executive,150₹,126,17
+AndhraPradesh,VizagVisakhapatnam,SatyamTheatreGopalapatnam,Telugu,17:45,Balcony,112₹,207,0
+AndhraPradesh,VizagVisakhapatnam,SatyamTheatreGopalapatnam,Telugu,17:45,FirstClass,112₹,69,0
+AndhraPradesh,VizagVisakhapatnam,SatyamTheatreGopalapatnam,Telugu,20:45,Balcony,112₹,207,0
+AndhraPradesh,VizagVisakhapatnam,SatyamTheatreGopalapatnam,Telugu,20:45,FirstClass,112₹,69,0
