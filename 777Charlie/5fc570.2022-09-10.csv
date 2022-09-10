@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,MysuruMysore,RajkamalDigital2KLaserProjectionMysore,Kannada,10:30,Balcony,150₹,226,0
+Karnataka,MysuruMysore,RajkamalDigital2KLaserProjectionMysore,Kannada,10:30,SecondClass,100₹,656,0
+Karnataka,MysuruMysore,RajkamalDigital2KLaserProjectionMysore,Kannada,13:30,Balcony,150₹,226,1
+Karnataka,MysuruMysore,RajkamalDigital2KLaserProjectionMysore,Kannada,13:30,SecondClass,100₹,656,5
+Karnataka,MysuruMysore,RajkamalDigital2KLaserProjectionMysore,Kannada,16:30,Balcony,150₹,226,0
+Karnataka,MysuruMysore,RajkamalDigital2KLaserProjectionMysore,Kannada,16:30,SecondClass,100₹,656,3
+Karnataka,MysuruMysore,RajkamalDigital2KLaserProjectionMysore,Kannada,19:30,Balcony,150₹,226,14
+Karnataka,MysuruMysore,RajkamalDigital2KLaserProjectionMysore,Kannada,19:30,SecondClass,100₹,656,12
