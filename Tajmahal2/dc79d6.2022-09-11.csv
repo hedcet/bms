@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Jigani,AnupamaTheatre4KDolbyGandhinagar,Kannada,10:30,Balcony,150₹,247,9
+Karnataka,Jigani,AnupamaTheatre4KDolbyGandhinagar,Kannada,10:30,MiddleClass,120₹,480,7
+Karnataka,Jigani,AnupamaTheatre4KDolbyGandhinagar,Kannada,13:30,Balcony,150₹,247,26
+Karnataka,Jigani,AnupamaTheatre4KDolbyGandhinagar,Kannada,13:30,MiddleClass,120₹,480,17
+Karnataka,Jigani,AnupamaTheatre4KDolbyGandhinagar,Kannada,16:30,Balcony,150₹,247,4
+Karnataka,Jigani,AnupamaTheatre4KDolbyGandhinagar,Kannada,16:30,MiddleClass,120₹,480,1
+Karnataka,Jigani,AnupamaTheatre4KDolbyGandhinagar,Kannada,19:30,Balcony,150₹,247,0
+Karnataka,Jigani,AnupamaTheatre4KDolbyGandhinagar,Kannada,19:30,MiddleClass,120₹,480,7
