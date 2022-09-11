@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Haryana,NationalCapitalRegionNcr,PvrLogixNoida,Hindi,16:25,Classic,99₹,89,86
+Haryana,NationalCapitalRegionNcr,PvrGaurCityGreaterNoida,Hindi,16:35,Classic,99₹,101,30
+Haryana,NationalCapitalRegionNcr,PvrGaurCityGreaterNoida,Hindi,16:35,Prime,99₹,13,13
