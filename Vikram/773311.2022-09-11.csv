@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Coimbatore,KgCinemasCoimbatore,Tamil,10:15,Premium,190₹,95,2
+TamilNadu,Coimbatore,KgCinemasCoimbatore,Tamil,10:15,Comfort,148₹,53,0
+TamilNadu,Chennai,PvrVrChennaiAnnaNagar,Tamil,11:30,Classic,60₹,16,16
+TamilNadu,Chennai,PvrVrChennaiAnnaNagar,Tamil,11:30,Prime,179₹,110,100
+TamilNadu,Dharmapuri,DmaxDncTheatresDharmapuri,Tamil,14:30,Elite,100₹,13,13
+TamilNadu,Dharmapuri,DmaxDncTheatresDharmapuri,Tamil,14:30,Couple,100₹,24,16
+TamilNadu,Dharmapuri,DmaxDncTheatresDharmapuri,Tamil,14:30,Premium,100₹,68,39
+TamilNadu,Dharmapuri,DmaxDncTheatresDharmapuri,Tamil,14:30,Economy,100₹,10,0
+TamilNadu,Thoothukudi,SriBalakrishnaTalkiesDolbyAtmos4K,Tamil,18:30,Premium,80₹,251,251
+TamilNadu,Thoothukudi,SriBalakrishnaTalkiesDolbyAtmos4K,Tamil,18:30,Elite,80₹,135,126
+TamilNadu,Thoothukudi,SriBalakrishnaTalkiesDolbyAtmos4K,Tamil,18:30,Budget,80₹,23,21
+TamilNadu,Thoothukudi,SriBalakrishnaTalkiesDolbyAtmos4K,Tamil,22:50,Premium,80₹,128,6
+TamilNadu,Thoothukudi,SriBalakrishnaTalkiesDolbyAtmos4K,Tamil,22:50,Elite,80₹,58,0
+TamilNadu,Thoothukudi,SriBalakrishnaTalkiesDolbyAtmos4K,Tamil,22:50,Budget,80₹,21,0
