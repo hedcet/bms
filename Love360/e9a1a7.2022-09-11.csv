@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,MysuruMysore,RajkamalDigital2KLaserProjectionMysore,Kannada,10:30,Balcony,150₹,226,0
+Karnataka,MysuruMysore,RajkamalDigital2KLaserProjectionMysore,Kannada,10:30,SecondClass,100₹,656,9
+Karnataka,MysuruMysore,InoxMallOfMysuru,Kannada,10:50,Club,160₹,239,42
+Karnataka,Bengaluru,InoxMantriSquareMalleshwaram,Kannada,11:00,Royal,320₹,14,5
+Karnataka,Bengaluru,InoxMantriSquareMalleshwaram,Kannada,11:00,Club,200₹,272,63
+Karnataka,MysuruMysore,RajkamalDigital2KLaserProjectionMysore,Kannada,13:30,Balcony,150₹,226,8
+Karnataka,MysuruMysore,RajkamalDigital2KLaserProjectionMysore,Kannada,13:30,SecondClass,100₹,656,12
+Karnataka,Shivamogga,BharathCinemasShivamogga,Kannada,14:15,Gold,200₹,110,19
+Karnataka,Shivamogga,BharathCinemasShivamogga,Kannada,14:15,Silver,200₹,48,0
+Karnataka,Shivamogga,BharathCinemasShivamogga,Kannada,14:15,Special,150₹,36,1
+Karnataka,Bengaluru,VeereshCinemasMagadiRoad,Kannada,16:10,Balcony,110₹,270,109
+Karnataka,MysuruMysore,RajkamalDigital2KLaserProjectionMysore,Kannada,16:30,Balcony,150₹,226,4
+Karnataka,MysuruMysore,RajkamalDigital2KLaserProjectionMysore,Kannada,16:30,SecondClass,100₹,656,10
+Karnataka,Bengaluru,VeereshCinemasMagadiRoad,Kannada,19:10,Balcony,110₹,270,28
+Karnataka,MysuruMysore,RajkamalDigital2KLaserProjectionMysore,Kannada,19:30,Balcony,150₹,226,4
+Karnataka,MysuruMysore,RajkamalDigital2KLaserProjectionMysore,Kannada,19:30,SecondClass,100₹,656,10
