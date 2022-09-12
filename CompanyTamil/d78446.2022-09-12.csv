@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Chennai,RohiniSilverScreensKoyambedu,Tamil,10:00,GoldStar,130₹,120,16
+Karnataka,Bengaluru,SharadaCinemasACSPRoad,Tamil,10:30,Gold,120₹,159,3
+Karnataka,Bengaluru,SharadaCinemasACSPRoad,Tamil,10:30,Silver,100₹,315,0
+Karnataka,Bengaluru,GopalanMiniplexSignatureMallOldMadrasRoad,Tamil,11:45,Gold,200₹,65,3
+TamilNadu,Chennai,SreeLakshmibalaMoviepark4K3DDolby712Padi,Tamil,12:15,FirstClass,110₹,189,0
+Karnataka,Bengaluru,SharadaCinemasACSPRoad,Tamil,13:15,Gold,120₹,159,0
+Karnataka,Bengaluru,SharadaCinemasACSPRoad,Tamil,13:15,Silver,100₹,315,2
+TamilNadu,Chennai,SreeThulasiTheatreThiruvallur,Tamil,14:30,FirstClass,80₹,216,0
+TamilNadu,Chennai,SreeThulasiTheatreThiruvallur,Tamil,14:30,SecondClass,80₹,270,0
+Karnataka,Bengaluru,VinayakaMultiplexScreen1MysuruRoad,Tamil,16:45,Diamond,120₹,181,0
+Karnataka,Bengaluru,VinayakaMultiplexScreen1MysuruRoad,Tamil,16:45,GoldClass,100₹,210,0
+TamilNadu,Vellore,GalaxyCinemasVellore,Tamil,18:30,Elite,110₹,283,14
+TamilNadu,Chennai,RohiniSilverScreensKoyambedu,Tamil,19:00,GoldStar,130₹,120,23
+TamilNadu,Chennai,WoodlandsComplexChennai,Tamil,22:00,FirstClass,99₹,408,0
+TamilNadu,Chennai,WoodlandsComplexChennai,Tamil,22:00,SecondClass,60₹,51,0
+TamilNadu,Chennai,SreeLakshmibalaMoviepark4K3DDolby712Padi,Tamil,22:00,FirstClass,110₹,189,0
