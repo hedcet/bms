@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,PvrPhoenixMarketcityMallWhitefieldRoad,Marathi,10:15,Classic,112₹,176,2
+Karnataka,Bengaluru,PvrPhoenixMarketcityMallWhitefieldRoad,Marathi,10:15,Prime,140₹,13,0
+Karnataka,Bengaluru,PvrPhoenixMarketcityMallWhitefieldRoad,Marathi,10:15,Recliner,220₹,20,0
+Karnataka,Bengaluru,PvrVegaCityBannerghattaRoad,Marathi,12:30,Classic,150₹,118,15
+Maharashtra,Pune,CityPrideKothrud,Marathi,17:00,RoyalGold,200₹,149,18
+Maharashtra,Pune,CityPrideKothrud,Marathi,17:00,RoyalSilver,180₹,22,2
