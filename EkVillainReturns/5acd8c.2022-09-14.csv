@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,Lucknow,InoxPhoenixPalassioMallLucknow,Hindi,09:00,RoyaleRecliners,300₹,14,6
+UttarPradesh,Lucknow,InoxPhoenixPalassioMallLucknow,Hindi,09:00,Royale,190₹,68,10
+UttarPradesh,Lucknow,InoxPhoenixPalassioMallLucknow,Hindi,09:00,Club,170₹,112,0
+UttarPradesh,Lucknow,InoxPhoenixPalassioMallLucknow,Hindi,09:00,Executive,130₹,26,0
+UttarPradesh,Lucknow,InoxEmeraldMallLucknow,Hindi,10:05,Insignia,300₹,29,6
+UttarPradesh,Dhampur,SheelaTalkiesDhampur,Hindi,12:00,Balcony,100₹,54,2
+UttarPradesh,Dhampur,SheelaTalkiesDhampur,Hindi,15:00,Balcony,100₹,54,0
+UttarPradesh,Dhampur,SheelaTalkiesDhampur,Hindi,18:00,Balcony,100₹,54,0
+UttarPradesh,Dhampur,SheelaTalkiesDhampur,Hindi,21:00,Balcony,100₹,54,0
