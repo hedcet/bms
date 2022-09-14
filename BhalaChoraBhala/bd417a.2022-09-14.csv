@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Nallajerla,SriSrinivasaTheaterACDtsNallajerla,Telugu,11:00,FirstClass,100₹,194,0
+AndhraPradesh,Nallajerla,SriSrinivasaTheaterACDtsNallajerla,Telugu,14:00,FirstClass,100₹,194,2
+AndhraPradesh,Nallajerla,SriSrinivasaTheaterACDtsNallajerla,Telugu,18:00,FirstClass,100₹,194,0
+AndhraPradesh,Nallajerla,SriSrinivasaTheaterACDtsNallajerla,Telugu,21:00,FirstClass,100₹,194,0
