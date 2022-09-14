@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Haryana,NationalCapitalRegionNcr,PvrPacificSubhashNagar4DxDelhi,English,12:15,Classic,290₹,36,2
+Haryana,NationalCapitalRegionNcr,PvrPacificSubhashNagar4DxDelhi,English,12:15,Prime,340₹,72,6
+UttarPradesh,Lucknow,InoxPhoenixPalassioMallLucknow,English,15:40,Royale,310₹,63,10
+UttarPradesh,Lucknow,InoxPhoenixPalassioMallLucknow,English,15:40,Club,290₹,48,1
+UttarPradesh,Lucknow,InoxPhoenixPalassioMallLucknow,English,15:40,Executive,250₹,24,0
+Haryana,NationalCapitalRegionNcr,PvrLogix4DxNoida,English,17:55,Classic,465₹,92,5
