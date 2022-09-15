@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Maharashtra,Mumbai,G7MultiplexBandraW,Hindi,12:15,Special,160₹,36,0
+Maharashtra,Mumbai,G7MultiplexBandraW,Hindi,12:15,DressCircle,160₹,10,2
+WestBengal,Balurghat,KalyaniCinemaBalurghat,Hindi,12:30,Balcony,80₹,204,0
+WestBengal,Kolkata,InoxForumMallElginRoad,Hindi,13:05,DressCircle,170₹,100,9
+WestBengal,Kolkata,InoxForumMallElginRoad,Hindi,13:05,Galleria,170₹,28,0
+WestBengal,Kolkata,InoxForumMallElginRoad,Hindi,13:05,Royal,170₹,43,15
+WestBengal,Balurghat,KalyaniCinemaBalurghat,Hindi,15:30,Balcony,80₹,204,0
+Maharashtra,Mumbai,InoxInsigniaAtAtriaMallWorli,Hindi,16:45,Insignia,700₹,30,5
+Maharashtra,Mumbai,G7MultiplexBandraW,Hindi,18:15,Special,160₹,36,9
+Maharashtra,Mumbai,G7MultiplexBandraW,Hindi,18:15,DressCircle,160₹,10,0
+WestBengal,Balurghat,KalyaniCinemaBalurghat,Hindi,18:30,Balcony,80₹,204,0
