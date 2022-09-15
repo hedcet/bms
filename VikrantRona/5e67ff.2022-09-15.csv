@@ -1,0 +1,14 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Jharkhand,Ranchi,PvrNucleusMallRanchi,Hindi,10:20,Classic,99₹,30,0
+Jharkhand,Ranchi,PvrNucleusMallRanchi,Hindi,10:20,ClassicPlus,99₹,123,19
+Jharkhand,Ranchi,PvrNucleusMallRanchi,Hindi,10:20,Prime,99₹,54,11
+Jharkhand,Ranchi,PvrNucleusMallRanchi,Hindi,10:20,Recliner,149₹,10,7
+WestBengal,Falakata,GouriTalkiesFalakata,Hindi,13:00,BalconyAc,100₹,30,0
+WestBengal,Falakata,GouriTalkiesFalakata,Hindi,13:00,SpecialClass,50₹,100,0
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,15:10,3DClassic,190₹,128,4
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,15:10,3DPrime,210₹,100,7
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,15:10,3DRecliner,290₹,17,4
+WestBengal,Falakata,GouriTalkiesFalakata,Hindi,16:00,BalconyAc,100₹,30,0
+WestBengal,Falakata,GouriTalkiesFalakata,Hindi,16:00,SpecialClass,50₹,100,0
+WestBengal,Falakata,GouriTalkiesFalakata,Hindi,19:00,BalconyAc,100₹,30,0
+WestBengal,Falakata,GouriTalkiesFalakata,Hindi,19:00,SpecialClass,50₹,100,0
