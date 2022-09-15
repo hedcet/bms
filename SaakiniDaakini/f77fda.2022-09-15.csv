@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Hyderabad,AmbCinemasGachibowli,Telugu,19:20,Platinum,350₹,10,10
+AndhraPradesh,Hyderabad,AmbCinemasGachibowli,Telugu,19:20,Gold,295₹,138,138
+AndhraPradesh,Hyderabad,AmbCinemasGachibowli,Telugu,19:20,Loungers,295₹,14,14
