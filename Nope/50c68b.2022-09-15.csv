@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,NationalCapitalRegionNcr,PvrMgf4DxGurgaon,English,12:10,Classic,250₹,84,2
+Maharashtra,Mumbai,PvrIconOberoiMallGoregaonE,English,13:30,Classic,140₹,45,1
+Maharashtra,Mumbai,PvrIconOberoiMallGoregaonE,English,13:30,Prime,160₹,147,10
+Maharashtra,Mumbai,PvrIconOberoiMallGoregaonE,English,13:30,Recliner,250₹,34,2
