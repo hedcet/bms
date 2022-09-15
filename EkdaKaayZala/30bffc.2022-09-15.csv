@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,PvrVegaCityBannerghattaRoad,Marathi,12:30,Classic,150₹,118,8
+Maharashtra,Pune,CityPrideKothrud,Marathi,17:00,RoyalGold,180₹,149,17
+Maharashtra,Pune,CityPrideKothrud,Marathi,17:00,RoyalSilver,160₹,22,0
