@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Coimbatore,KgCinemasCoimbatore,Tamil,10:15,Premium,179₹,95,5
+TamilNadu,Coimbatore,KgCinemasCoimbatore,Tamil,10:15,Comfort,148₹,53,7
+TamilNadu,Dharmapuri,DmaxDncTheatresDharmapuri,Tamil,14:25,Elite,100₹,13,0
+TamilNadu,Dharmapuri,DmaxDncTheatresDharmapuri,Tamil,14:25,Couple,100₹,24,2
+TamilNadu,Dharmapuri,DmaxDncTheatresDharmapuri,Tamil,14:25,Premium,100₹,68,7
+TamilNadu,Dharmapuri,DmaxDncTheatresDharmapuri,Tamil,14:25,Economy,100₹,10,0
