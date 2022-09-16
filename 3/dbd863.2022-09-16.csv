@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Hyderabad,PvrNextGalleriaMallPanjagutta,Telugu,10:25,Classic,150₹,170,67
+AndhraPradesh,Hyderabad,PvrForumSujanaMallKukatpallyHyderabad,Telugu,10:55,Classic,150₹,232,53
+AndhraPradesh,Hyderabad,PvrForumSujanaMallKukatpallyHyderabad,Telugu,10:55,Recliner,250₹,12,8
+AndhraPradesh,Godavarikhani,RajeshTheatreGodavarikhani,Telugu,11:30,Balcony,110₹,419,0
+AndhraPradesh,Godavarikhani,RajeshTheatreGodavarikhani,Telugu,11:30,DressCircle,80₹,118,0
+AndhraPradesh,Godavarikhani,RajeshTheatreGodavarikhani,Telugu,14:30,Balcony,110₹,419,0
+AndhraPradesh,Godavarikhani,RajeshTheatreGodavarikhani,Telugu,14:30,DressCircle,80₹,118,0
+AndhraPradesh,Godavarikhani,RajeshTheatreGodavarikhani,Telugu,18:30,Balcony,110₹,419,0
+AndhraPradesh,Godavarikhani,RajeshTheatreGodavarikhani,Telugu,18:30,DressCircle,80₹,118,0
+AndhraPradesh,Godavarikhani,RajeshTheatreGodavarikhani,Telugu,21:30,Balcony,110₹,419,0
+AndhraPradesh,Godavarikhani,RajeshTheatreGodavarikhani,Telugu,21:30,DressCircle,80₹,118,0
