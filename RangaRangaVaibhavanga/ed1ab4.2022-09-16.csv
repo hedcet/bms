@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Eluru,SriSatyanarayanaCinemasScreen1Eluru,Telugu,11:00,Balcony,150₹,280,36
+AndhraPradesh,VizagVisakhapatnam,MohiniCinemasDolbyAtmosGajuwaka,Telugu,11:30,Premium,145₹,293,12
+AndhraPradesh,VizagVisakhapatnam,MohiniCinemasDolbyAtmosGajuwaka,Telugu,11:30,NonPremium,100₹,132,21
+AndhraPradesh,Eluru,SriSatyanarayanaCinemasScreen1Eluru,Telugu,14:30,Balcony,150₹,280,36
+AndhraPradesh,VizagVisakhapatnam,MohiniCinemasDolbyAtmosGajuwaka,Telugu,14:30,Premium,145₹,293,10
+AndhraPradesh,VizagVisakhapatnam,MohiniCinemasDolbyAtmosGajuwaka,Telugu,14:30,NonPremium,100₹,132,32
+AndhraPradesh,Eluru,SriSatyanarayanaCinemasScreen1Eluru,Telugu,18:15,Balcony,150₹,280,2
+AndhraPradesh,VizagVisakhapatnam,MohiniCinemasDolbyAtmosGajuwaka,Telugu,18:30,Premium,145₹,293,22
+AndhraPradesh,VizagVisakhapatnam,MohiniCinemasDolbyAtmosGajuwaka,Telugu,18:30,NonPremium,100₹,132,13
+AndhraPradesh,Eluru,SriSatyanarayanaCinemasScreen1Eluru,Telugu,21:30,Balcony,150₹,280,41
+AndhraPradesh,VizagVisakhapatnam,MohiniCinemasDolbyAtmosGajuwaka,Telugu,21:30,Premium,145₹,293,4
+AndhraPradesh,VizagVisakhapatnam,MohiniCinemasDolbyAtmosGajuwaka,Telugu,21:30,NonPremium,100₹,132,13
