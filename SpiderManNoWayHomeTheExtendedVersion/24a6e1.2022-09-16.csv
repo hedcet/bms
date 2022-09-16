@@ -1,0 +1,14 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,Pvr4DxOrionMallDrRajkumarRoad,English,11:30,Classic,280₹,96,2
+Maharashtra,Mumbai,InoxMegaplexInorbitMallMalad,English,12:25,Club,320₹,16,0
+Maharashtra,Mumbai,InoxMegaplexInorbitMallMalad,English,12:25,Royal,320₹,64,4
+Karnataka,Bengaluru,Pvr4DxPhoenixMarketcityMallWhitefieldRoad,English,13:25,Classic,330₹,100,0
+Karnataka,Bengaluru,Pvr4DxNexusFormerlyForumKoramangala,English,13:25,4DxClassic,350₹,96,8
+MadhyaPradesh,Indore,PvrTreasureIslandMall4DxIndore,Hindi,15:40,4DxClassic,350₹,48,0
+MadhyaPradesh,Indore,PvrTreasureIslandMall4DxIndore,Hindi,15:40,4DxPrime,350₹,60,22
+UttarPradesh,NationalCapitalRegionNcr,PvrVegas4DxDwarka,Hindi,17:10,Classic,200₹,84,12
+UttarPradesh,NationalCapitalRegionNcr,PvrVegas4DxDwarka,Hindi,17:10,Prime,250₹,24,4
+UttarPradesh,NationalCapitalRegionNcr,PvrMgf4DxGurgaon,English,21:05,Classic,350₹,96,17
+MadhyaPradesh,Indore,PvrTreasureIslandMall4DxIndore,Hindi,21:15,4DxClassic,350₹,48,0
+MadhyaPradesh,Indore,PvrTreasureIslandMall4DxIndore,Hindi,21:15,4DxPrime,350₹,60,18
+Haryana,Chandigarh,Pvr4DxElanteChandigarh,English,21:55,Classic,450₹,108,21
