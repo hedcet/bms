@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Kasaragod,MagicFramesMehboobTheatreComplexKasaragod,Malayalam,10:45,Executive,129₹,351,0
+Kerala,Kochi,CinepolisCentreSquareMallKochi,Malayalam,15:55,Normal,150₹,13,0
+Kerala,Kochi,CinepolisCentreSquareMallKochi,Malayalam,15:55,Executive,170₹,28,4
+Kerala,Kochi,CinepolisCentreSquareMallKochi,Malayalam,15:55,Premium,190₹,65,31
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,16:50,RoyalRecliner,350₹,10,2
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,16:50,Club,190₹,66,0
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,16:50,Royal,190₹,28,18
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,16:50,Executive,130₹,22,2
