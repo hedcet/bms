@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Sikkim,Namchi,ImperialTalkiesNamchi,Nepali,11:30,Platinum,250₹,106,0
+Sikkim,Namchi,ImperialTalkiesNamchi,Nepali,11:30,Gold,200₹,90,0
+WestBengal,Darjeeling,InoxRinkMall,Nepali,14:00,Box,210₹,4,0
+WestBengal,Darjeeling,InoxRinkMall,Nepali,14:00,Royal,170₹,53,0
+WestBengal,Darjeeling,InoxRinkMall,Nepali,14:00,Economy,150₹,53,0
+WestBengal,Darjeeling,InoxRinkMall,Nepali,14:00,Executive,150₹,160,0
+WestBengal,Siliguri,InoxCityCentreSiliguri,Nepali,14:40,Royale,390₹,15,15
+WestBengal,Siliguri,InoxCityCentreSiliguri,Nepali,14:40,Club,280₹,192,26
+WestBengal,Siliguri,InoxCityCentreSiliguri,Nepali,14:40,Executive,250₹,32,0
+WestBengal,Siliguri,CarnivalCinemasSiliguri,Nepali,15:50,Special,180₹,28,0
+WestBengal,Siliguri,CarnivalCinemasSiliguri,Nepali,15:50,Executive,180₹,188,17
