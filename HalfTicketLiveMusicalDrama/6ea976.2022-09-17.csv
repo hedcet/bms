@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,NationalCapitalRegionNcr,PvrCityCentreGurgaon,Hindi,19:00,Classic,999₹,156,59
+UttarPradesh,NationalCapitalRegionNcr,PvrCityCentreGurgaon,Hindi,19:00,Prime,999₹,94,24
+UttarPradesh,NationalCapitalRegionNcr,PvrCityCentreGurgaon,Hindi,19:00,Prime1,499₹,40,36
+UttarPradesh,NationalCapitalRegionNcr,PvrCityCentreGurgaon,Hindi,19:00,Recliner,499₹,20,20
