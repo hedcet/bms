@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Vijayawada,CinepolisPowerOneMallVijayawada,Telugu,14:15,Normal,147₹,24,0
+AndhraPradesh,Vijayawada,CinepolisPowerOneMallVijayawada,Telugu,14:15,Executive,147₹,54,0
+AndhraPradesh,Vijayawada,CinepolisPowerOneMallVijayawada,Telugu,14:15,Premium,147₹,82,41
+AndhraPradesh,Hyderabad,PvrIrrumManzilHyderabad,Telugu,16:50,Classic,150₹,94,36
+AndhraPradesh,Hyderabad,PvrIrrumManzilHyderabad,Telugu,16:50,Recliner,250₹,10,1
