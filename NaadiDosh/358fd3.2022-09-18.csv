@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Surat,RajImperialInoxVarachhaRoadSurat,Gujarati,12:15,Imperial,200₹,15,9
+Gujarat,Surat,RajImperialInoxVarachhaRoadSurat,Gujarati,12:15,Gold,112₹,121,9
+Gujarat,Surat,RajImperialInoxVarachhaRoadSurat,Gujarati,12:15,Platinum,112₹,54,14
+Gujarat,Surat,RajImperialInoxVarachhaRoadSurat,Gujarati,12:15,Silver,112₹,30,0
