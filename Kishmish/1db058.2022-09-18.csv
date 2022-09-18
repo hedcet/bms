@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Kalna,SvfCinemasKalna,Bengali,13:00,Silver,69₹,9,0
+WestBengal,Kalna,SvfCinemasKalna,Bengali,13:00,Gold,99₹,36,8
+WestBengal,Kalna,SvfCinemasKalna,Bengali,13:00,Platinum,149₹,36,11
