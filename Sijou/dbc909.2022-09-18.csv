@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Assam,Kokrajhar,GoldCinemaKokrajhar,Bodo,12:00,Platinum,180₹,60,60
+Assam,Kokrajhar,GoldCinemaKokrajhar,Bodo,12:00,Gold,150₹,84,80
+Assam,Kokrajhar,GoldCinemaKokrajhar,Bodo,12:00,Silver,120₹,42,42
+Assam,Tangla,SayaDigitalCinemaTangla,Bodo,13:00,Silver,70₹,66,66
+Assam,Tangla,SayaDigitalCinemaTangla,Bodo,13:00,Gold,100₹,88,88
+Assam,Tangla,SayaDigitalCinemaTangla,Bodo,13:00,Platinum,150₹,64,64
+Assam,Tangla,SayaDigitalCinemaTangla,Bodo,13:00,Diamond,250₹,12,12
+Assam,Tangla,SayaDigitalCinemaTangla,Bodo,13:00,Cabin,200₹,12,12
+Assam,Kokrajhar,GoldCinemaKokrajhar,Bodo,14:30,Platinum,180₹,60,46
+Assam,Kokrajhar,GoldCinemaKokrajhar,Bodo,14:30,Gold,150₹,84,83
+Assam,Kokrajhar,GoldCinemaKokrajhar,Bodo,14:30,Silver,120₹,42,42
+Assam,Kokrajhar,GoldCinemaKokrajhar,Bodo,17:00,Platinum,180₹,60,60
+Assam,Kokrajhar,GoldCinemaKokrajhar,Bodo,17:00,Gold,150₹,84,80
+Assam,Kokrajhar,GoldCinemaKokrajhar,Bodo,17:00,Silver,120₹,42,42
