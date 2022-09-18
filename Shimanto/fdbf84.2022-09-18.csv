@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Kolkata,AjantaCinemaBehala,Bengali,12:15,Balcony,120₹,82,5
+Tripura,Dharmanagar,SsrCinemasDharmanagar,Bengali,16:00,Gold,150₹,116,0
+Tripura,Agartala,SsrRupasiCinemaAgartala,Bengali,16:20,GoldClass,150₹,19,0
