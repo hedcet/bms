@@ -1,0 +1,14 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Haryana,NationalCapitalRegionNcr,PvrLogixNoida,English,09:50,Classic,300₹,49,10
+Haryana,Chandigarh,Pvr4DxElanteChandigarh,English,11:35,Classic,400₹,108,12
+Gujarat,Surat,PvrRahulRaj4DxSurat,Hindi,12:15,4DxClassic,260₹,24,0
+Gujarat,Surat,PvrRahulRaj4DxSurat,Hindi,12:15,4DxPrime,260₹,60,17
+Maharashtra,Pune,PvrPhoenixMarketCityPune4Dx,English,12:30,4DxClassic,400₹,48,2
+Maharashtra,Pune,PvrPhoenixMarketCityPune4Dx,English,12:30,4DxPrime,450₹,72,29
+Gujarat,Ahmedabad,PvrAcropolis4DxAhmedabad,English,12:45,4DxClassic,199₹,36,0
+Gujarat,Ahmedabad,PvrAcropolis4DxAhmedabad,English,12:45,4DxPrime,199₹,84,40
+Maharashtra,Mumbai,PvrInfinitiMalad4DxMumbai,English,12:45,4DxClassic,270₹,24,0
+Maharashtra,Mumbai,PvrInfinitiMalad4DxMumbai,English,12:45,4DxPrime,290₹,52,50
+Haryana,NationalCapitalRegionNcr,PvrPacificSubhashNagar4DxDelhi,English,16:40,Classic,300₹,36,2
+Haryana,NationalCapitalRegionNcr,PvrPacificSubhashNagar4DxDelhi,English,16:40,Prime,350₹,72,30
+Haryana,NationalCapitalRegionNcr,PvrLogixNoida,English,18:05,Classic,300₹,49,28
