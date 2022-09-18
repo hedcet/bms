@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Ahmedabad,RupamArthCineplexSanand,Gujarati,09:00,Gold,40₹,74,0
+Gujarat,Ahmedabad,RupamArthCineplexSanand,Gujarati,09:00,Silver,40₹,35,0
+Gujarat,Ahmedabad,RupamArthCineplexSanand,Gujarati,12:00,Gold,40₹,74,0
+Gujarat,Ahmedabad,RupamArthCineplexSanand,Gujarati,12:00,Silver,40₹,35,0
+Gujarat,Ahmedabad,RupamArthCineplexSanand,Gujarati,18:00,Gold,40₹,74,74
+Gujarat,Ahmedabad,RupamArthCineplexSanand,Gujarati,18:00,Silver,40₹,35,32
