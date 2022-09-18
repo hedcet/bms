@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Chandigarh,Meerut,RapidCinemaTheMelangeMallMeerut,Hindi,13:30,Gold,250₹,10,0
+Chandigarh,Meerut,RapidCinemaTheMelangeMallMeerut,Hindi,13:30,Silver,250₹,10,0
+Chandigarh,Meerut,RapidCinemaTheMelangeMallMeerut,Hindi,13:30,Diamond,250₹,10,0
+Gujarat,Ahmedabad,CinepolisAhmedabadOne,Hindi,15:30,Normal,200₹,36,36
+Gujarat,Ahmedabad,CinepolisAhmedabadOne,Hindi,15:30,Executive,200₹,78,78
+Gujarat,Ahmedabad,CinepolisAhmedabadOne,Hindi,15:30,Premium,200₹,60,60
+UttarPradesh,Muzaffarnagar,CarnivalAsjGrandPlaza,Hindi,19:00,Premium,190₹,90,0
+UttarPradesh,Muzaffarnagar,CarnivalAsjGrandPlaza,Hindi,19:00,Club,220₹,151,35
+Chandigarh,Meerut,RapidCinemaTheMelangeMallMeerut,Hindi,19:30,Gold,250₹,10,0
+Chandigarh,Meerut,RapidCinemaTheMelangeMallMeerut,Hindi,19:30,Silver,250₹,10,0
+Chandigarh,Meerut,RapidCinemaTheMelangeMallMeerut,Hindi,19:30,Diamond,250₹,10,0
+Gujarat,Ahmedabad,CinepolisNexusAhmedabadOne,Hindi,21:30,Normal,280₹,36,29
+Gujarat,Ahmedabad,CinepolisNexusAhmedabadOne,Hindi,21:30,Executive,280₹,78,78
+Gujarat,Ahmedabad,CinepolisNexusAhmedabadOne,Hindi,21:30,Premium,280₹,55,55
