@@ -1,0 +1,16 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+MadhyaPradesh,Indore,PvrTreasureIslandMall4DxIndore,Hindi,11:00,4DxClassic,200₹,48,0
+MadhyaPradesh,Indore,PvrTreasureIslandMall4DxIndore,Hindi,11:00,4DxPrime,200₹,60,19
+UttarPradesh,NationalCapitalRegionNcr,PvrLogixNoida,English,11:00,Classic,170₹,49,5
+Haryana,Chandigarh,Pvr4DxElanteChandigarh,English,11:35,Classic,350₹,108,18
+Gujarat,Surat,PvrRahulRaj4DxSurat,Hindi,12:15,4DxClassic,210₹,24,0
+Gujarat,Surat,PvrRahulRaj4DxSurat,Hindi,12:15,4DxPrime,210₹,60,9
+Maharashtra,Mumbai,PvrInfinitiMalad4DxMumbai,English,12:45,4DxClassic,220₹,24,0
+Maharashtra,Mumbai,PvrInfinitiMalad4DxMumbai,English,12:45,4DxPrime,240₹,52,8
+Gujarat,Ahmedabad,PvrAcropolis4DxAhmedabad,English,12:45,4DxClassic,199₹,36,0
+Gujarat,Ahmedabad,PvrAcropolis4DxAhmedabad,English,12:45,4DxPrime,199₹,84,5
+Maharashtra,Mumbai,PvrMarketCityKurla4Dx,English,12:45,4DxClassic,300₹,60,0
+Maharashtra,Mumbai,PvrMarketCityKurla4Dx,English,12:45,4DxPrime,350₹,84,20
+UttarPradesh,NationalCapitalRegionNcr,PvrPacificSubhashNagar4DxDelhi,English,16:40,Classic,300₹,36,2
+UttarPradesh,NationalCapitalRegionNcr,PvrPacificSubhashNagar4DxDelhi,English,16:40,Prime,350₹,72,2
+UttarPradesh,NationalCapitalRegionNcr,PvrLogixNoida,English,18:05,Classic,250₹,49,4
