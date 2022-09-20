@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Chennai,AgsCinemasOmrNavlur,Tamil,22:40,Diamond,190₹,302,35
+TamilNadu,Chennai,AgsCinemasOmrNavlur,Tamil,22:40,Pearl,60₹,34,34
+TamilNadu,Chennai,AgsCinemasVillivakkam,Tamil,22:45,Diamond,190₹,113,0
+TamilNadu,Chennai,AgsCinemasTNagar,Tamil,22:55,Diamond,190₹,197,22
+TamilNadu,Chennai,AgsCinemasTNagar,Tamil,22:55,Pearl,60₹,24,24
