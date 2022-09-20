@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Bakhrahat,UmaTalkiesBakhrahat,Hindi,10:00,Balcony,70₹,55,2
+WestBengal,Bakhrahat,UmaTalkiesBakhrahat,Hindi,12:25,Balcony,70₹,55,0
+WestBengal,Balurghat,KalyaniCinemaBalurghat,Hindi,12:30,Balcony,80₹,204,0
+Tripura,Agartala,SsrRupasiCinemaAgartala,Hindi,13:20,GoldClass,150₹,19,0
+WestBengal,Balurghat,KalyaniCinemaBalurghat,Hindi,15:30,Balcony,80₹,204,0
+WestBengal,Balurghat,KalyaniCinemaBalurghat,Hindi,18:30,Balcony,80₹,204,0
