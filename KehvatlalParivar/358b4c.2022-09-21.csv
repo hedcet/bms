@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Nadiad,CoconutViratMultiplexNadiad,Gujarati,15:30,Platinum,120₹,14,0
+Gujarat,Nadiad,CoconutViratMultiplexNadiad,Gujarati,15:30,Gold,100₹,104,10
+Gujarat,Vadodara,MovietimeSSquareMallSubhanpuraVadodara,Gujarati,17:00,Recliner,150₹,8,0
+Gujarat,Vadodara,MovietimeSSquareMallSubhanpuraVadodara,Gujarati,17:00,Premium,100₹,120,2
+Gujarat,Vadodara,MovietimeSSquareMallSubhanpuraVadodara,Gujarati,17:00,Executive,100₹,48,0
+Gujarat,Kosamba,CoconutSalimCinemaKosamba,Gujarati,21:30,Gold,80₹,85,0
