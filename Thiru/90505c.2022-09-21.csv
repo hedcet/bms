@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Mahabubabad,AsianMukundMahabubabad,Telugu,18:30,Balcony,110₹,379,111
+AndhraPradesh,Mahabubabad,AsianMukundMahabubabad,Telugu,18:30,Silver,80₹,86,3
+AndhraPradesh,Mahabubabad,AsianMukundMahabubabad,Telugu,21:30,Balcony,110₹,379,107
+AndhraPradesh,Mahabubabad,AsianMukundMahabubabad,Telugu,21:30,Silver,80₹,86,0
