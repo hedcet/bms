@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Davanagere,MovietimeDavanagere,Kannada,18:45,Gold,180₹,79,0
+Karnataka,Davanagere,MovietimeDavanagere,Kannada,18:45,Premier,150₹,180,0
+Karnataka,Bengaluru,PvrTheCinemaGtWorldBengaluru,Kannada,18:50,Classic,170₹,179,5
+Karnataka,Bengaluru,PvrTheCinemaGtWorldBengaluru,Kannada,18:50,Recliner,280₹,16,4
+Karnataka,Davanagere,MovietimeDavanagere,Kannada,21:30,Gold,180₹,79,0
+Karnataka,Davanagere,MovietimeDavanagere,Kannada,21:30,Premier,150₹,180,5
+Karnataka,TumakuruTumkur,InoxSMallTumakuru,Kannada,22:20,Club,150₹,64,13
+Karnataka,TumakuruTumkur,InoxSMallTumakuru,Kannada,22:20,Executive,150₹,76,0
