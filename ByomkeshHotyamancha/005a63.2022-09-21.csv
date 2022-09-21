@@ -1,0 +1,8 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Kolkata,CinepolisAcropolisMallKolkata,Bengali,15:30,Normal,110₹,34,0
+WestBengal,Kolkata,CinepolisAcropolisMallKolkata,Bengali,15:30,Executive,110₹,134,4
+WestBengal,Kolkata,CinepolisAcropolisMallKolkata,Bengali,15:30,Premium,110₹,77,46
+WestBengal,Kolkata,NandanKolkata,Bengali,18:01,Normal,30₹,165,153
+WestBengal,Kolkata,CinepolisAcropolisMallKolkata,Bengali,18:30,Normal,110₹,22,0
+WestBengal,Kolkata,CinepolisAcropolisMallKolkata,Bengali,18:30,Executive,110₹,64,2
+WestBengal,Kolkata,CinepolisAcropolisMallKolkata,Bengali,18:30,Premium,110₹,20,12
