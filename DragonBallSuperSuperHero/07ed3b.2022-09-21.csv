@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Haryana,NationalCapitalRegionNcr,PvrPacificSubhashNagar4DxDelhi,English,16:40,Classic,250₹,36,0
+Haryana,NationalCapitalRegionNcr,PvrPacificSubhashNagar4DxDelhi,English,16:40,Prime,250₹,72,8
+Haryana,NationalCapitalRegionNcr,PvrLogixNoida,English,18:05,Classic,250₹,49,3
