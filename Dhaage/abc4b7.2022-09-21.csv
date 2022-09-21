@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Chandigarh,Meerut,WaveMeerut,Hindi,16:15,Classic,200₹,182,65
+UttarPradesh,Padrauna,QualityStarworldPadrauna,Hindi,21:15,PlatinumXl,180₹,117,0
+Uttaranchal,Haldwani,WwCinemasWalkwayMallHaldwani,Hindi,22:15,Platinum,300₹,11,0
+Uttaranchal,Haldwani,WwCinemasWalkwayMallHaldwani,Hindi,22:15,Gold,250₹,100,2
