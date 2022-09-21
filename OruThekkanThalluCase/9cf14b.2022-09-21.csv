@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Punalur,CarnivalDMallPunalur,Malayalam,16:00,Silver,130₹,147,21
+Kerala,Punalur,CarnivalDMallPunalur,Malayalam,16:00,Gold,200₹,11,0
+Kerala,Kasaragod,KaveriCinemasACDtsDolbyKarmamthody,Malayalam,16:15,Standard,110₹,145,0
+Kerala,Trivandrum,SuryaMultiplex4KDolbyAtmosNedumangad,Malayalam,18:00,Platinum,250₹,28,0
+Kerala,Trivandrum,SuryaMultiplex4KDolbyAtmosNedumangad,Malayalam,18:00,Gold,130₹,248,0
+Kerala,Pattambi,KrishnaCineplexAC2K3DDolbyAtmosPattambi,Malayalam,18:00,SunCircle,110₹,297,0
+Kerala,Trivandrum,DreamsAttingal,Malayalam,18:30,Recliner,350₹,11,0
+Kerala,Trivandrum,DreamsAttingal,Malayalam,18:30,Sofa,200₹,60,25
+Kerala,Trivandrum,AriesplexSlCinemas,Malayalam,19:00,Gold,250₹,4,4
+Kerala,Trivandrum,AriesplexSlCinemas,Malayalam,19:00,Executive,150₹,139,46
+Kerala,Trivandrum,AriesplexSlCinemas,Malayalam,19:00,Economy,100₹,13,1
+Kerala,Thrissur,SreelakshmiCinemaAmballur4K2KLaserProjection,Malayalam,21:30,Platinum,150₹,277,0
+Kerala,Thodupuzha,SilverHillsCinemasThodupuzha,Malayalam,21:30,Silver,150₹,80,1
+Kerala,Punalur,CarnivalDMallPunalur,Malayalam,21:45,Silver,130₹,140,13
+Kerala,Punalur,CarnivalDMallPunalur,Malayalam,21:45,Gold,200₹,11,0
+Kerala,Shoranur,AnuragCinemaShoranur,Malayalam,22:00,Screen2,110₹,113,0
