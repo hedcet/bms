@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,DakshinBarasat,MahamayaTalkiesDakshinBarasat,Bengali,16:30,GoldClass,100₹,68,10
+WestBengal,DakshinBarasat,MahamayaTalkiesDakshinBarasat,Bengali,16:30,SilverClass,70₹,160,0
+WestBengal,Udaynarayanpur,AnandamoyeeCinemaHallUdaynarayanpur,Bengali,17:30,RearStall,50₹,50,0
+WestBengal,Arambagh,KarunaCinemaArambagh,Bengali,18:00,LowerStall,35₹,48,0
+WestBengal,Arambagh,KarunaCinemaArambagh,Bengali,18:00,Balcony,40₹,180,0
+WestBengal,Krishnanagar,SangeetaTalkiesKrishnanagar,Bengali,19:00,Balcony,50₹,33,0
+WestBengal,Krishnanagar,SangeetaTalkiesKrishnanagar,Bengali,19:00,FirstClass,30₹,30,0
+WestBengal,DakshinBarasat,MahamayaTalkiesDakshinBarasat,Bengali,19:00,GoldClass,100₹,68,0
+WestBengal,DakshinBarasat,MahamayaTalkiesDakshinBarasat,Bengali,19:00,SilverClass,70₹,160,0
