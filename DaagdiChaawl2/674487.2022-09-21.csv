@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Maharashtra,Mumbai,CinepolisSeawoodsGrandCentralNaviMumbai,Marathi,15:45,Normal,180₹,30,0
+Maharashtra,Mumbai,CinepolisSeawoodsGrandCentralNaviMumbai,Marathi,15:45,Executive,200₹,86,0
+Maharashtra,Mumbai,CinepolisSeawoodsGrandCentralNaviMumbai,Marathi,15:45,Premium,220₹,76,11
+Maharashtra,Mumbai,CinepolisSeawoodsGrandCentralNaviMumbai,Marathi,15:45,Vip,420₹,14,0
