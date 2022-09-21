@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Trichy,LaCinemaMarisComplexRgbLaserTrichy,Tamil,18:45,Elite,140₹,58,0
+TamilNadu,Chennai,PvrAmpaMallNelsonManickamRoad,Tamil,22:20,Classic,60₹,17,17
+TamilNadu,Chennai,PvrAmpaMallNelsonManickamRoad,Tamil,22:20,Prime,179₹,130,12
