@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Hyderabad,PvrNextGalleriaMallPanjagutta,Telugu,16:35,Classic,200₹,181,30
+AndhraPradesh,Hyderabad,PvrNextGalleriaMallPanjagutta,Telugu,16:35,Recliner,300₹,9,9
+AndhraPradesh,Gudivada,G3BhaskarTalkiesGudivada,Telugu,18:30,FirstClass,112₹,136,0
+AndhraPradesh,Gudivada,G3BhaskarTalkiesGudivada,Telugu,18:30,SecondClass,90₹,136,0
+AndhraPradesh,Gudivada,G3BhaskarTalkiesGudivada,Telugu,21:30,FirstClass,112₹,100,0
+AndhraPradesh,Gudivada,G3BhaskarTalkiesGudivada,Telugu,21:30,SecondClass,90₹,36,0
