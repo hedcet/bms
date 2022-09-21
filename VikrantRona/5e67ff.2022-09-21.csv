@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,Kanpur,SaraswatiTalkiesShuklagunj,Hindi,18:00,Balcony,90₹,48,0
+UttarPradesh,Kanpur,SaraswatiTalkiesShuklagunj,Hindi,18:00,Family,60₹,72,0
+UttarPradesh,Kanpur,SaraswatiTalkiesShuklagunj,Hindi,21:00,Balcony,90₹,48,5
+UttarPradesh,Kanpur,SaraswatiTalkiesShuklagunj,Hindi,21:00,Family,60₹,72,0
