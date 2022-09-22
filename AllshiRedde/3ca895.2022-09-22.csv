@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Padubidri,BharathCinemasPadubidri,Konkani,17:00,Gold,150₹,67,5
+Karnataka,Padubidri,BharathCinemasPadubidri,Konkani,17:00,Silver,130₹,33,0
+Karnataka,Padubidri,BharathCinemasPadubidri,Konkani,17:00,Special,100₹,11,0
+Karnataka,MangaluruMangalore,BharathCinemasMangalore,Konkani,18:00,Gold,150₹,43,9
+Karnataka,MangaluruMangalore,BharathCinemasMangalore,Konkani,18:00,Silver,150₹,20,0
+Karnataka,MangaluruMangalore,BharathCinemasMangalore,Konkani,18:00,Special,150₹,7,0
