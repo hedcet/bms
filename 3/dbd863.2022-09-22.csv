@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Hyderabad,PvrNextGalleriaMallPanjagutta,Telugu,10:20,Classic,150₹,145,38
+AndhraPradesh,Hyderabad,AsianCineplanetMultiplexKompally,Telugu,10:35,Gold,170₹,382,19
+AndhraPradesh,Hyderabad,AsianCineSquareMultiplexUppal,Telugu,10:40,Sofa,180₹,2,2
+AndhraPradesh,Hyderabad,AsianCineSquareMultiplexUppal,Telugu,10:40,Gold,150₹,144,44
+AndhraPradesh,Hyderabad,AsianLakshmikalaCineprideMoosapet,Telugu,11:20,Platinum,150₹,364,71
+AndhraPradesh,Hyderabad,AmbCinemasGachibowli,Telugu,16:25,Platinum,300₹,10,9
+AndhraPradesh,Hyderabad,AmbCinemasGachibowli,Telugu,16:25,Gold,250₹,138,32
+AndhraPradesh,Hyderabad,AmbCinemasGachibowli,Telugu,16:25,Loungers,250₹,14,0
