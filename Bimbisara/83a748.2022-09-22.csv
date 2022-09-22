@@ -1,0 +1,8 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Mulugu,TirumalaKalamandirMulugu,Telugu,11:00,Balcony,100₹,106,0
+AndhraPradesh,Mulugu,TirumalaKalamandirMulugu,Telugu,14:15,Balcony,100₹,106,0
+AndhraPradesh,Hyderabad,PvrNextGalleriaMallPanjagutta,Telugu,16:35,Classic,200₹,181,28
+AndhraPradesh,Hyderabad,PvrNextGalleriaMallPanjagutta,Telugu,16:35,Recliner,300₹,9,7
+AndhraPradesh,Mulugu,TirumalaKalamandirMulugu,Telugu,18:00,Balcony,100₹,106,0
+AndhraPradesh,Mulugu,TirumalaKalamandirMulugu,Telugu,21:15,Balcony,100₹,106,0
+AndhraPradesh,Hyderabad,BvkMultiplexVijayalakshmiLbNagar,Telugu,22:45,Balcony,200₹,210,19
