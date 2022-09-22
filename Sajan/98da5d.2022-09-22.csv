@@ -1,0 +1,16 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,PrayagrajAllahabad,MansarovarCinemaPrayagraj,Bhojpuri,12:30,Balcony,80₹,180,2
+UttarPradesh,Gorakhpur,UnitedTalkiesGorakhpur,Bhojpuri,12:45,Platinum,100₹,154,0
+UttarPradesh,Gorakhpur,UnitedTalkiesGorakhpur,Bhojpuri,12:45,Diamond,80₹,215,0
+UttarPradesh,Gorakhpur,UnitedTalkiesGorakhpur,Bhojpuri,12:45,Gold,60₹,144,0
+UttarPradesh,Gorakhpur,UnitedTalkiesGorakhpur,Bhojpuri,12:45,Silver,50₹,96,0
+UttarPradesh,PrayagrajAllahabad,MansarovarCinemaPrayagraj,Bhojpuri,15:30,Balcony,80₹,180,0
+UttarPradesh,Gorakhpur,UnitedTalkiesGorakhpur,Bhojpuri,15:45,Platinum,100₹,154,0
+UttarPradesh,Gorakhpur,UnitedTalkiesGorakhpur,Bhojpuri,15:45,Diamond,80₹,215,0
+UttarPradesh,Gorakhpur,UnitedTalkiesGorakhpur,Bhojpuri,15:45,Gold,60₹,144,0
+UttarPradesh,Gorakhpur,UnitedTalkiesGorakhpur,Bhojpuri,15:45,Silver,50₹,96,0
+UttarPradesh,PrayagrajAllahabad,MansarovarCinemaPrayagraj,Bhojpuri,18:30,Balcony,80₹,180,0
+UttarPradesh,Gorakhpur,UnitedTalkiesGorakhpur,Bhojpuri,18:45,Platinum,100₹,154,0
+UttarPradesh,Gorakhpur,UnitedTalkiesGorakhpur,Bhojpuri,18:45,Diamond,80₹,215,0
+UttarPradesh,Gorakhpur,UnitedTalkiesGorakhpur,Bhojpuri,18:45,Gold,60₹,144,0
+UttarPradesh,Gorakhpur,UnitedTalkiesGorakhpur,Bhojpuri,18:45,Silver,50₹,96,0
