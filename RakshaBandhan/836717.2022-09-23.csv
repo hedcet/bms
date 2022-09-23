@@ -1,0 +1,8 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Kolkata,CarnivalSaltLake,Hindi,08:45,Silver,75₹,206,6
+WestBengal,Kolkata,CarnivalSaltLake,Hindi,08:45,Gold,150₹,9,0
+Chhattisgarh,Birra,AabCineplexBirra,Hindi,18:00,Vip,150₹,19,0
+Chhattisgarh,Birra,AabCineplexBirra,Hindi,18:00,Diamond,120₹,60,0
+Chhattisgarh,Birra,AabCineplexBirra,Hindi,18:00,Platinum,100₹,57,0
+Chhattisgarh,Birra,AabCineplexBirra,Hindi,18:00,Gold,90₹,36,0
+Chhattisgarh,Birra,AabCineplexBirra,Hindi,18:00,Silver,70₹,36,0
