@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,GopalanMallSirsiCircle,Kannada,10:30,Gold,75₹,265,34
+Karnataka,Bengaluru,CinepolisBinnypetMall,Kannada,13:40,Executive,75₹,69,52
+Karnataka,Bengaluru,CinepolisBinnypetMall,Kannada,13:40,Premium,75₹,42,37
