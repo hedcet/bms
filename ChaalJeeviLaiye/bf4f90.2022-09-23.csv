@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Surat,TimeCinemaGalaxyCirclePalSurat,Gujarati,10:00,Standard,75₹,24,23
+Gujarat,Rajpipla,CoconutCinemaRajpipla,Gujarati,10:25,Box,75₹,8,8
+Gujarat,Rajpipla,CoconutCinemaRajpipla,Gujarati,10:25,Gold,75₹,135,21
+Gujarat,Rajpipla,CoconutCinemaRajpipla,Gujarati,10:25,Silver,75₹,40,0
+Gujarat,Nadiad,CoconutViratMultiplexNadiad,Gujarati,12:00,Platinum,75₹,14,0
+Gujarat,Nadiad,CoconutViratMultiplexNadiad,Gujarati,12:00,Gold,75₹,104,10
+Gujarat,Surat,TimeCinemaGalaxyCirclePalSurat,Gujarati,13:00,InfinitySofa,260₹,12,0
+Gujarat,Ahmedabad,TimeCinemaCgRoadAhmedabad,Gujarati,13:45,Standard,75₹,60,60
+Gujarat,Kosamba,CoconutSalimCinemaKosamba,Gujarati,15:30,Gold,75₹,255,0
+Gujarat,Surat,TimeCinemaGalaxyCirclePalSurat,Gujarati,17:00,Infinity,350₹,6,0
+Gujarat,Nadiad,CoconutViratMultiplexNadiad,Gujarati,18:30,Platinum,75₹,14,11
+Gujarat,Nadiad,CoconutViratMultiplexNadiad,Gujarati,18:30,Gold,75₹,91,18
