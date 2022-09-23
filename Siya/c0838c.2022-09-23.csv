@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,NationalCapitalRegionNcr,PvrSelectCityWalkDelhi,Hindi,12:00,ClassicNormal,75₹,120,103
+UttarPradesh,NationalCapitalRegionNcr,PvrSelectCityWalkDelhi,Hindi,12:00,ClassicSuperior,75₹,34,34
+UttarPradesh,NationalCapitalRegionNcr,PvrSelectCityWalkDelhi,Hindi,12:00,ReclinersNormal,300₹,10,7
+UttarPradesh,Varanasi,IpCinemasIpSigraMallVaranasi,Hindi,17:00,Recliner,550₹,12,0
+UttarPradesh,Varanasi,IpCinemasIpSigraMallVaranasi,Hindi,17:00,Gold,75₹,81,81
+UttarPradesh,Varanasi,IpCinemasIpSigraMallVaranasi,Hindi,17:00,Silver,75₹,75,75
