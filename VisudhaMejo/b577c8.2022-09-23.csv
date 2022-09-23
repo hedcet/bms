@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,20:00,RoyalRecliner,350₹,10,0
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,20:00,Club,190₹,66,7
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,20:00,Royal,190₹,28,28
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,20:00,Executive,130₹,22,7
+Kerala,Kozhinjampara,RavirajComplexACKozhinjampara,Malayalam,21:00,Balcony,250₹,15,7
+Kerala,Kozhinjampara,RavirajComplexACKozhinjampara,Malayalam,21:00,FirstClass,110₹,215,127
