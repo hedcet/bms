@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Darjeeling,InoxRinkMall,Nepali,13:35,Box,150₹,4,2
+WestBengal,Darjeeling,InoxRinkMall,Nepali,13:35,Economy,75₹,53,0
+WestBengal,Darjeeling,InoxRinkMall,Nepali,13:35,Executive,75₹,160,0
+WestBengal,Darjeeling,InoxRinkMall,Nepali,13:35,Royal,75₹,53,14
