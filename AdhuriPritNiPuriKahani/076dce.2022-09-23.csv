@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Palanpur,CitylightCoconutCinemaPalanpur,Gujarati,12:30,Golden,75₹,238,3
+Gujarat,Palanpur,CitylightCoconutCinemaPalanpur,Gujarati,15:05,Golden,75₹,238,0
+Gujarat,Palanpur,CitylightCoconutCinemaPalanpur,Gujarati,18:30,Golden,75₹,238,0
+Gujarat,Dahegam,FunCinemasRushilCinemaDahegam,Gujarati,21:00,Silver,75₹,198,98
+Gujarat,Palanpur,CitylightCoconutCinemaPalanpur,Gujarati,21:30,Golden,75₹,238,0
