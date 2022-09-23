@@ -1,0 +1,8 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Assam,Jorhat,InoxAbsMallJorhat,Mising,12:25,Royal,250₹,14,0
+Assam,Jorhat,InoxAbsMallJorhat,Mising,12:25,Club,75₹,55,12
+Assam,Jorhat,InoxAbsMallJorhat,Mising,12:25,Executive,75₹,32,0
+Assam,Jorhat,InoxAbsMallJorhat,Mising,12:25,Premier,75₹,32,0
+Assam,Guwahati,PvrCityCentreGuwahati,Mising,17:00,Classic,75₹,40,26
+Assam,Guwahati,PvrCityCentreGuwahati,Mising,17:00,Prime,75₹,82,81
+Assam,Guwahati,PvrCityCentreGuwahati,Mising,17:00,PrimePlus,75₹,13,13
