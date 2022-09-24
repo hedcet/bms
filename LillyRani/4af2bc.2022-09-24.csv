@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Vellore,SathuvachariSrinivasaCinemasPksAc4KDolby71,Tamil,09:00,Couple,130₹,20,0
+TamilNadu,Vellore,SathuvachariSrinivasaCinemasPksAc4KDolby71,Tamil,09:00,FirstClass,110₹,354,0
+TamilNadu,Vellore,SathuvachariSrinivasaCinemasPksAc4KDolby71,Tamil,09:00,SecondClass,110₹,46,0
+TamilNadu,Tirupur,MohanTheatreKunnathur,Tamil,10:00,FirstClass,80₹,91,0
+TamilNadu,Tirupur,MohanTheatreKunnathur,Tamil,10:00,SecondClass,80₹,78,0
+TamilNadu,Chennai,AgsCinemasVillivakkam,Tamil,10:30,Diamond,190₹,147,0
+TamilNadu,Chennai,AgsCinemasVillivakkam,Tamil,10:30,Pearl,60₹,17,17
+TamilNadu,Chennai,MayajaalMultiplexEcrChennai,Tamil,11:50,FirstClass,190₹,134,0
+TamilNadu,Tirupur,MohanTheatreKunnathur,Tamil,14:00,FirstClass,80₹,91,0
+TamilNadu,Tirupur,MohanTheatreKunnathur,Tamil,14:00,SecondClass,80₹,78,0
+TamilNadu,Tirupur,MohanTheatreKunnathur,Tamil,18:00,FirstClass,80₹,91,0
+TamilNadu,Tirupur,MohanTheatreKunnathur,Tamil,18:00,SecondClass,80₹,78,0
+TamilNadu,Tirupur,MohanTheatreKunnathur,Tamil,22:00,FirstClass,80₹,91,0
+TamilNadu,Tirupur,MohanTheatreKunnathur,Tamil,22:00,SecondClass,80₹,78,0
+TamilNadu,Chennai,PvrHeritageRslEcrChennai,Tamil,22:00,Classic,60₹,11,11
+TamilNadu,Chennai,PvrHeritageRslEcrChennai,Tamil,22:00,Prime,190₹,99,0
