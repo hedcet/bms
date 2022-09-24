@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Maharashtra,Nashik,DivyaCinemasNashik,Marathi,11:15,Executive,100₹,98,25
+Maharashtra,Nashik,DivyaCinemasNashik,Marathi,11:15,Gold,100₹,138,4
+Maharashtra,Nashik,DivyaCinemasNashik,Marathi,11:15,Silver,100₹,52,0
+Maharashtra,Chandrapur,RajkalaCineplexChandrapur,Marathi,12:15,Platinum,100₹,181,131
+Maharashtra,Chandrapur,RajkalaCineplexChandrapur,Marathi,12:15,Gold,100₹,190,140
+Maharashtra,Pimpalner,PvCinemaPimpalner,Marathi,15:00,Platinum,100₹,60,0
+Maharashtra,Pimpalner,PvCinemaPimpalner,Marathi,15:00,Gold,70₹,48,0
+Maharashtra,Chandrapur,RajkalaCineplexChandrapur,Marathi,15:15,Platinum,100₹,181,137
+Maharashtra,Chandrapur,RajkalaCineplexChandrapur,Marathi,15:15,Gold,100₹,190,140
+Maharashtra,Pune,CinepolisSeasonsMallPune,Marathi,18:40,Normal,200₹,17,0
+Maharashtra,Pune,CinepolisSeasonsMallPune,Marathi,18:40,Executive,220₹,62,23
+Maharashtra,Pune,CinepolisSeasonsMallPune,Marathi,18:40,Premium,220₹,22,19
+Maharashtra,Pimpalner,PvCinemaPimpalner,Marathi,21:00,Platinum,100₹,60,0
+Maharashtra,Pimpalner,PvCinemaPimpalner,Marathi,21:00,Gold,70₹,48,0
