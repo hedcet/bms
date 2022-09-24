@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Junagadh,SurajCineplexJunagadh,Gujarati,12:30,Gold,180₹,116,0
+Gujarat,Junagadh,SurajCineplexJunagadh,Gujarati,12:30,Silver,160₹,131,0
+Gujarat,Junagadh,SurajCineplexJunagadh,Gujarati,14:35,Gold,180₹,116,116
+Gujarat,Junagadh,SurajCineplexJunagadh,Gujarati,14:35,Silver,160₹,131,131
+Gujarat,Vapi,AnantCinemaVapi,Gujarati,22:00,Sofa,150₹,66,0
+Gujarat,Vapi,AnantCinemaVapi,Gujarati,22:00,Lounger,150₹,10,0
