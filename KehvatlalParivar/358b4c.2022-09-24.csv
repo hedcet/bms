@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Ahmedabad,TimeCinemaCgRoadAhmedabad,Gujarati,13:15,Standard,180₹,60,2
+Gujarat,Ahmedabad,AppleMultiplexManinagarAhmedabad,Gujarati,13:30,UpperSofa,150₹,7,0
+Gujarat,Ahmedabad,AppleMultiplexManinagarAhmedabad,Gujarati,13:30,Platinum,130₹,104,0
+Gujarat,Ahmedabad,AppleMultiplexManinagarAhmedabad,Gujarati,13:30,LowerSofa,130₹,9,0
+Gujarat,Kosamba,CoconutSalimCinemaKosamba,Gujarati,18:30,Gold,80₹,85,0
+Gujarat,Surat,TimeCinemaGalaxyCirclePalSurat,Gujarati,20:35,Standard,160₹,24,1
