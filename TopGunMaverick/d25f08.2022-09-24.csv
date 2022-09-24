@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,Pvr4DxVegaCityBannerghattaRoadBengaluru,English,10:05,Classic,330₹,116,42
+Gujarat,Ahmedabad,TimeCinemaCgRoadAhmedabad,English,12:15,Infinity,"1,050₹",8,0
+Maharashtra,Pune,InoxBundGardenRoad,English,14:15,Royale,350₹,32,17
+Karnataka,Bengaluru,CinepolisForumShantiniketanBengaluru,English,15:55,Normal,400₹,96,94
+Maharashtra,Pune,CinepolisSeasonsMallPune,English,16:40,Normal,400₹,96,58
+Haryana,NationalCapitalRegionNcr,GurugramPvrDirectorSCutAmbienceMall,English,16:45,Platinum,800₹,40,28
+Haryana,NationalCapitalRegionNcr,GurugramPvrDirectorSCutAmbienceMall,English,16:45,PlatinumSuperior,"1,000₹",17,10
+AndhraPradesh,Hyderabad,Pvr4DxIrrumManzilHyderabad,English,19:35,4Dx,350₹,96,80
+Haryana,NationalCapitalRegionNcr,PvrPromenadeVasantKunj,English,20:25,Classic,300₹,50,10
+Haryana,NationalCapitalRegionNcr,PvrPromenadeVasantKunj,English,20:25,Prime,350₹,44,24
+TamilNadu,Chennai,SpiEscapeExpressAvenueMallRoyapettah,English,21:30,Budget,66₹,12,12
+TamilNadu,Chennai,SpiEscapeExpressAvenueMallRoyapettah,English,21:30,Elite,185₹,108,89
+Karnataka,Bengaluru,Pvr4DxPhoenixMarketcityMallWhitefieldRoad,English,21:30,Classic,460₹,100,85
+Gujarat,Ahmedabad,TimeCinemaCgRoadAhmedabad,English,22:00,Standard,180₹,60,5
+Karnataka,Bengaluru,Pvr4DxNexusFormerlyForumKoramangala,English,22:00,4DxClassic,450₹,96,92
+Gujarat,Surat,TimeCinemaGalaxyCirclePalSurat,English,23:00,InfinitySofa,340₹,12,0
