@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Haryana,NationalCapitalRegionNcr,DhishoomCinemasMall51Sector51Gurugram,Hindi,17:10,Platinum,299₹,35,0
+Haryana,NationalCapitalRegionNcr,DhishoomCinemasMall51Sector51Gurugram,Hindi,17:10,PlatinumSuperior,299₹,15,3
+Haryana,NationalCapitalRegionNcr,DhishoomCinemasEntertainlandSector83Gurugram,Hindi,21:55,Silver,149₹,19,0
+Haryana,NationalCapitalRegionNcr,DhishoomCinemasEntertainlandSector83Gurugram,Hindi,21:55,Gold,149₹,49,9
+Haryana,NationalCapitalRegionNcr,DhishoomCinemasEntertainlandSector83Gurugram,Hindi,21:55,Platinum,149₹,20,9
