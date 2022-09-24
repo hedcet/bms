@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Chandigarh,Meerut,RapidCinemaTheMelangeMallMeerut,Hindi,10:30,Gold,200₹,10,0
+Chandigarh,Meerut,RapidCinemaTheMelangeMallMeerut,Hindi,10:30,Silver,200₹,10,0
+Chandigarh,Meerut,RapidCinemaTheMelangeMallMeerut,Hindi,10:30,Diamond,200₹,10,0
+Rajasthan,Jaipur,InoxGtCentralMallJaipur,Hindi,12:30,Royale,240₹,42,17
+Rajasthan,Jaipur,InoxGtCentralMallJaipur,Hindi,12:30,Club,220₹,160,1
+Rajasthan,Jaipur,InoxGtCentralMallJaipur,Hindi,12:30,Executive,200₹,30,8
+Chandigarh,Meerut,RapidCinemaTheMelangeMallMeerut,Hindi,16:30,Gold,200₹,10,0
+Chandigarh,Meerut,RapidCinemaTheMelangeMallMeerut,Hindi,16:30,Silver,200₹,10,0
+Chandigarh,Meerut,RapidCinemaTheMelangeMallMeerut,Hindi,16:30,Diamond,200₹,10,0
+Rajasthan,Jaipur,InoxGtCentralMallJaipur,Hindi,19:05,Royale,260₹,42,12
+Rajasthan,Jaipur,InoxGtCentralMallJaipur,Hindi,19:05,Club,240₹,160,13
+Rajasthan,Jaipur,InoxGtCentralMallJaipur,Hindi,19:05,Executive,220₹,30,8
