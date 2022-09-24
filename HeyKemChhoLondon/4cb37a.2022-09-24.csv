@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Nakhatrana,ShreeDhoramnathMultiplexNakhatrana,Gujarati,15:45,Platinum,140₹,20,0
+Gujarat,Nakhatrana,ShreeDhoramnathMultiplexNakhatrana,Gujarati,15:45,Gold,120₹,56,0
+Gujarat,Nakhatrana,ShreeDhoramnathMultiplexNakhatrana,Gujarati,15:45,Silver,100₹,20,0
+Gujarat,Nakhatrana,ShreeDhoramnathMultiplexNakhatrana,Gujarati,21:45,Platinum,140₹,20,14
+Gujarat,Nakhatrana,ShreeDhoramnathMultiplexNakhatrana,Gujarati,21:45,Gold,120₹,56,0
+Gujarat,Nakhatrana,ShreeDhoramnathMultiplexNakhatrana,Gujarati,21:45,Silver,100₹,20,0
