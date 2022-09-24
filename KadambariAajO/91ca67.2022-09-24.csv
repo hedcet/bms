@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Lakshmikantapur,SreeLakshmiTalkiesLakshmikantapur,Bengali,12:00,GoldCoupleSeats,200₹,40,0
+WestBengal,Lakshmikantapur,SreeLakshmiTalkiesLakshmikantapur,Bengali,12:00,Silver,70₹,60,0
+Assam,Silchar,GoldCinemaSilchar,Bengali,14:30,Gold,250₹,144,0
+Assam,Silchar,GoldCinemaSilchar,Bengali,14:30,Silver,200₹,28,0
+WestBengal,Kolkata,ChhabigharCinemaKolkata,Bengali,14:45,Balcony,80₹,80,0
+WestBengal,Lakshmikantapur,SreeLakshmiTalkiesLakshmikantapur,Bengali,15:00,GoldCoupleSeats,200₹,40,0
+WestBengal,Lakshmikantapur,SreeLakshmiTalkiesLakshmikantapur,Bengali,15:00,Silver,70₹,60,0
+Assam,Silchar,GoldCinemaSilchar,Bengali,17:15,Gold,250₹,144,81
+Assam,Silchar,GoldCinemaSilchar,Bengali,17:15,Silver,200₹,28,0
+WestBengal,Lakshmikantapur,SreeLakshmiTalkiesLakshmikantapur,Bengali,17:30,GoldCoupleSeats,200₹,40,0
+WestBengal,Lakshmikantapur,SreeLakshmiTalkiesLakshmikantapur,Bengali,17:30,Silver,70₹,60,0
+WestBengal,Kolkata,PvrDiamondPlazaJessoreKolkata,Bengali,19:45,Classic,230₹,100,0
+WestBengal,Kolkata,PvrDiamondPlazaJessoreKolkata,Bengali,19:45,Prime,270₹,11,0
+WestBengal,Kolkata,PvrDiamondPlazaJessoreKolkata,Bengali,19:45,Recliner,440₹,12,0
