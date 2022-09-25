@@ -1,0 +1,8 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,NationalCapitalRegionNcr,PvrAmbienceGurgaon,English,09:20,ClassicNormal,200₹,84,3
+UttarPradesh,NationalCapitalRegionNcr,PvrAmbienceGurgaon,English,09:20,Prime,250₹,68,8
+Karnataka,Bengaluru,PvrTheForumMallKoramangala,English,13:15,3DClassic,280₹,103,94
+UttarPradesh,NationalCapitalRegionNcr,CinepolisAiriaMallSohnaRoadGurgaon,English,13:15,Normal,220₹,30,10
+UttarPradesh,NationalCapitalRegionNcr,CinepolisAiriaMallSohnaRoadGurgaon,English,13:15,DoubleSofa,260₹,24,16
+UttarPradesh,NationalCapitalRegionNcr,CinepolisAiriaMallSohnaRoadGurgaon,English,13:15,Lounger,240₹,8,0
+Karnataka,Bengaluru,PvrVegaCityBannerghattaRoad,English,15:10,3DClassic,290₹,77,77
