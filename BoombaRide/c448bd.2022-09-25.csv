@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Assam,Jorhat,InoxAbsMallJorhat,Mising,12:25,Royal,350₹,14,2
+Assam,Jorhat,InoxAbsMallJorhat,Mising,12:25,Club,230₹,55,26
+Assam,Jorhat,InoxAbsMallJorhat,Mising,12:25,Executive,150₹,32,3
+Assam,Jorhat,InoxAbsMallJorhat,Mising,12:25,Premier,120₹,32,0
