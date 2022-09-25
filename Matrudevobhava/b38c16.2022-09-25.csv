@@ -1,0 +1,16 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Narsipatnam,PvrSreeKanyaNarsipatnam,Telugu,10:00,Classic,60₹,42,0
+AndhraPradesh,Narsipatnam,PvrSreeKanyaNarsipatnam,Telugu,10:00,ClassicPlus,150₹,252,0
+AndhraPradesh,Amalapuram,VenkataramaACDts2KAmalapuram,Telugu,11:15,Platinum,110₹,366,38
+AndhraPradesh,Vijayawada,SwarnaMultiplexVijayawada,Telugu,11:30,Premium,110₹,206,22
+AndhraPradesh,Vijayawada,SwarnaMultiplexVijayawada,Telugu,11:30,Economy,78₹,70,21
+AndhraPradesh,Guntur,KrishnaMahalGuntur,Telugu,11:30,Balcony,110₹,630,0
+AndhraPradesh,Guntur,KrishnaMahalGuntur,Telugu,11:30,Sofa,110₹,630,0
+AndhraPradesh,Guntur,KrishnaMahalGuntur,Telugu,11:30,LowerBalcony,110₹,630,0
+AndhraPradesh,Guntur,KrishnaMahalGuntur,Telugu,11:30,Chair,70₹,630,0
+AndhraPradesh,Guntur,KrishnaMahalGuntur,Telugu,11:30,ThirdClass,50₹,630,0
+AndhraPradesh,Amalapuram,VenkataramaACDts2KAmalapuram,Telugu,14:15,Platinum,110₹,366,0
+AndhraPradesh,Hyderabad,PvrForumSujanaMallKukatpallyHyderabad,Telugu,17:10,Classic,150₹,250,45
+AndhraPradesh,Hyderabad,PvrForumSujanaMallKukatpallyHyderabad,Telugu,17:10,Recliner,250₹,12,0
+AndhraPradesh,Amalapuram,VenkataramaACDts2KAmalapuram,Telugu,18:15,Platinum,110₹,366,0
+AndhraPradesh,Amalapuram,VenkataramaACDts2KAmalapuram,Telugu,21:15,Platinum,110₹,366,0
