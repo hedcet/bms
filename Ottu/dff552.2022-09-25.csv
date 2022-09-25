@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Kochi,CinepolisCentreSquareMallKochi,Malayalam,09:45,Normal,140₹,13,0
+Kerala,Kochi,CinepolisCentreSquareMallKochi,Malayalam,09:45,Executive,160₹,28,0
+Kerala,Kochi,CinepolisCentreSquareMallKochi,Malayalam,09:45,Premium,180₹,65,18
+Kerala,Trivandrum,DreamsAttingal,Malayalam,11:25,SpecialClass,130₹,490,11
+Kerala,Trivandrum,DreamsAttingal,Malayalam,14:30,Recliner,350₹,11,0
+Kerala,Trivandrum,DreamsAttingal,Malayalam,14:30,Sofa,200₹,60,0
+Kerala,Trivandrum,CarnivalMallOfTravancoreTrivandrum,Malayalam,19:30,PremiumOffline,300₹,50,8
+Kerala,Trivandrum,CarnivalMallOfTravancoreTrivandrum,Malayalam,19:30,ExecutiveOffline,180₹,102,8
+Kerala,Trivandrum,CarnivalMallOfTravancoreTrivandrum,Malayalam,19:30,NormalOffline,100₹,17,0
+Kerala,Kochi,CentralTalkies2K3DDolbyAtmosThrippunithura,Malayalam,21:30,Gold,160₹,129,0
+Kerala,Kochi,PvrLuluKochi,Malayalam,22:40,Classic,140₹,39,0
+Kerala,Kochi,PvrLuluKochi,Malayalam,22:40,ClassicPlus,160₹,91,2
+Kerala,Kochi,PvrLuluKochi,Malayalam,22:40,Prime,190₹,64,16
+Kerala,Kochi,PvrLuluKochi,Malayalam,22:40,Recliner,350₹,9,0
