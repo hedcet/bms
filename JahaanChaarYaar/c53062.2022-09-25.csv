@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,NationalCapitalRegionNcr,PvrPacificDwarka,Hindi,10:10,Classic,200₹,56,2
+UttarPradesh,NationalCapitalRegionNcr,PvrPacificDwarka,Hindi,10:10,Prime,250₹,25,2
+UttarPradesh,Lucknow,InoxMegaplexEmeraldLucknow,Hindi,12:25,Club,200₹,70,0
+UttarPradesh,Lucknow,InoxMegaplexEmeraldLucknow,Hindi,12:25,Executive,200₹,28,0
+UttarPradesh,Lucknow,InoxMegaplexEmeraldLucknow,Hindi,12:25,Royale,200₹,83,12
+UttarPradesh,NationalCapitalRegionNcr,CinepolisSmartBharatMallFormerlySpiceMall,Hindi,19:30,Premium,200₹,123,14
+UttarPradesh,NationalCapitalRegionNcr,CinepolisSmartBharatMallFormerlySpiceMall,Hindi,19:30,Classic,190₹,75,0
+MadhyaPradesh,Indore,CarnivalMalharMegaMallLoungeClass,Hindi,19:45,Lounge,250₹,40,8
