@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,NationalCapitalRegionNcr,PvrAmbienceGoldGurgaon,English,09:05,Platinum,500₹,28,0
+UttarPradesh,NationalCapitalRegionNcr,PvrAmbienceGoldGurgaon,English,09:05,PlatinumSuperior,500₹,16,0
+Maharashtra,Mumbai,MetroInoxCinemasMarineLines,English,10:00,Kiddles,190₹,45,44
+Maharashtra,Mumbai,PvrInfinitiMalad4DxMumbai,English,11:00,4DxClassic,250₹,24,12
+Maharashtra,Mumbai,PvrInfinitiMalad4DxMumbai,English,11:00,4DxPrime,250₹,52,52
+Maharashtra,Mumbai,MetroInoxCinemasMarineLines,English,12:10,Kiddles,260₹,36,36
+Maharashtra,Mumbai,InoxMegaplexInorbitMallMalad,Hindi,12:40,Royal,350₹,60,47
+Maharashtra,Mumbai,InoxMegaplexInorbitMallMalad,Hindi,12:40,Club,340₹,16,0
+UttarPradesh,NationalCapitalRegionNcr,DhishoomCinemasMall51Sector51Gurugram,English,14:30,Platinum,499₹,21,0
+UttarPradesh,NationalCapitalRegionNcr,DhishoomCinemasMall51Sector51Gurugram,English,14:30,PlatinumSuperior,499₹,15,3
