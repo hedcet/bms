@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Rajasthan,Ajmer,PlazaCinemaAjmer,Hindi,12:00,Balcony,70₹,100,0
+Rajasthan,Ajmer,PlazaCinemaAjmer,Hindi,12:00,DressCircle,60₹,100,0
+Rajasthan,Ajmer,PlazaCinemaAjmer,Hindi,12:00,Janta,50₹,50,0
+Rajasthan,Ajmer,PlazaCinemaAjmer,Hindi,15:00,Balcony,70₹,100,0
+Rajasthan,Ajmer,PlazaCinemaAjmer,Hindi,15:00,DressCircle,60₹,100,0
+Rajasthan,Ajmer,PlazaCinemaAjmer,Hindi,15:00,Janta,50₹,50,0
+Rajasthan,Ajmer,PlazaCinemaAjmer,Hindi,18:00,Balcony,70₹,100,2
+Rajasthan,Ajmer,PlazaCinemaAjmer,Hindi,18:00,DressCircle,60₹,100,0
+Rajasthan,Ajmer,PlazaCinemaAjmer,Hindi,18:00,Janta,50₹,50,0
+Rajasthan,Ajmer,PlazaCinemaAjmer,Hindi,21:00,Balcony,70₹,100,0
+Rajasthan,Ajmer,PlazaCinemaAjmer,Hindi,21:00,DressCircle,60₹,100,0
+Rajasthan,Ajmer,PlazaCinemaAjmer,Hindi,21:00,Janta,50₹,50,0
