@@ -1,0 +1,16 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Vemulawada,ShivaRamaKrishnaTheatreVemulawada,Telugu,11:00,Balcony,100₹,104,0
+AndhraPradesh,Vemulawada,ShivaRamaKrishnaTheatreVemulawada,Telugu,14:00,Balcony,100₹,104,0
+AndhraPradesh,Vemulawada,ShivaRamaKrishnaTheatreVemulawada,Telugu,18:00,Balcony,100₹,104,0
+AndhraPradesh,Tanuku,PratyushaComplexTanuku,Telugu,18:00,Gold,120₹,80,0
+AndhraPradesh,Vijayawada,KapardhiTheatreACDtsVijayawada,Telugu,18:30,Balcony,112₹,240,13
+AndhraPradesh,Vijayawada,KapardhiTheatreACDtsVijayawada,Telugu,18:30,FirstClass,100₹,68,3
+AndhraPradesh,Vijayawada,KapardhiTheatreACDtsVijayawada,Telugu,18:30,SecondClass,78₹,28,0
+AndhraPradesh,Vijayawada,KapardhiTheatreACDtsVijayawada,Telugu,18:30,ThirdClass,78₹,97,12
+AndhraPradesh,Vemulawada,ShivaRamaKrishnaTheatreVemulawada,Telugu,21:00,Balcony,100₹,104,0
+AndhraPradesh,Tanuku,PratyushaComplexTanuku,Telugu,21:00,Gold,120₹,80,0
+AndhraPradesh,Mulugu,TirumalaKalamandirMulugu,Telugu,21:15,Balcony,100₹,106,0
+AndhraPradesh,Vijayawada,KapardhiTheatreACDtsVijayawada,Telugu,21:30,Balcony,112₹,240,26
+AndhraPradesh,Vijayawada,KapardhiTheatreACDtsVijayawada,Telugu,21:30,FirstClass,100₹,68,1
+AndhraPradesh,Vijayawada,KapardhiTheatreACDtsVijayawada,Telugu,21:30,SecondClass,78₹,28,6
+AndhraPradesh,Vijayawada,KapardhiTheatreACDtsVijayawada,Telugu,21:30,ThirdClass,78₹,97,24
