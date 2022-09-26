@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Alappuzha,CherthalaKairaliSreeTheatre,Malayalam,18:00,Platinum,125₹,260,0
+Kerala,Kochi,KairaliSreeTheaterNorthParvur,Malayalam,18:15,Platinum,105₹,195,0
+Kerala,Punalur,CarnivalDMallPunalur,Malayalam,18:35,Silver,130₹,161,16
+Kerala,Punalur,CarnivalDMallPunalur,Malayalam,18:35,Gold,200₹,12,0
+Kerala,Punalur,CarnivalDMallPunalur,Malayalam,18:35,Platinum,290₹,10,0
