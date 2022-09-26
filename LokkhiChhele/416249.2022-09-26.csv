@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Kolkata,NandanKolkata,Bengali,15:30,FrontStall,30₹,111,41
+WestBengal,Kolkata,NandanKolkata,Bengali,15:30,RearStall,50₹,451,91
+WestBengal,Kolkata,NandanKolkata,Bengali,15:30,Balcony,70₹,369,69
+Tripura,Dharmanagar,SsrCinemasDharmanagar,Bengali,16:00,Gold,150₹,116,0
+WestBengal,Hooghly,SvfCinemasKpsMallMilonCinemaChinsurah,Bengali,16:30,Lounger,75₹,11,0
+WestBengal,Hooghly,SvfCinemasKpsMallMilonCinemaChinsurah,Bengali,16:30,Gold,75₹,24,0
+WestBengal,Hooghly,SvfCinemasKpsMallMilonCinemaChinsurah,Bengali,16:30,Platinum,75₹,40,6
+WestBengal,Hooghly,SvfCinemasKpsMallMilonCinemaChinsurah,Bengali,16:30,Sofa,75₹,13,4
+WestBengal,Kolkata,JayaCinemasCityMallBarasat,Bengali,16:40,DressCircle,100₹,182,20
+WestBengal,Kolkata,JayaCinemasCityMallBarasat,Bengali,16:40,RearStall,100₹,28,0
+WestBengal,Kolkata,SvfCinemasWoodSquareMallNarendrapur,Bengali,17:00,Gold,75₹,24,0
+WestBengal,Kolkata,SvfCinemasWoodSquareMallNarendrapur,Bengali,17:00,Platinum,75₹,100,0
+WestBengal,Kolkata,SvfCinemasWoodSquareMallNarendrapur,Bengali,17:00,Royal,150₹,9,3
+WestBengal,Kolkata,RadhaStudioTollygunge,Bengali,18:00,Silver,30₹,146,19
