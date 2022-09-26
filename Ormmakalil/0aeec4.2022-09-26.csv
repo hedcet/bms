@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Kochi,EvmCinemaAC2K3DDolby71Perumbavoor,Malayalam,11:00,Executive1,155₹,23,0
+Kerala,Kochi,EvmCinemaAC2K3DDolby71Perumbavoor,Malayalam,11:00,Executive2,155₹,17,0
+Kerala,Kochi,EvmCinemaAC2K3DDolby71Perumbavoor,Malayalam,11:00,Deluxe,129₹,505,1
+Kerala,Kollam,GmaxCinemasJerome,Malayalam,14:30,Blue,160₹,170,0
+Kerala,Palakkad,KrvMoviesKottayi,Malayalam,14:30,FirstClass,100₹,221,0
+Kerala,Trivandrum,SreeKaleeswarySreeSaraswathy2K3DKaliyikkav,Malayalam,18:15,RoyalCircle,150₹,87,0
+Kerala,Haripad,SnTheatreHaripad,Malayalam,18:15,Screen1,110₹,175,0
+Kerala,Palakkad,KrvMoviesKottayi,Malayalam,18:30,FirstClass,100₹,221,0
+Kerala,Thalayolaparambu,CarnivalThalayolaparambu,Malayalam,18:45,Gold,110₹,144,6
+Kerala,Kollam,GmaxCinemasJerome,Malayalam,20:00,Blue,180₹,170,0
+Kerala,Kochi,CinepolisCentreSquareMallKochi,Malayalam,21:10,Normal,110₹,19,0
+Kerala,Kochi,CinepolisCentreSquareMallKochi,Malayalam,21:10,Executive,140₹,44,3
+Kerala,Kochi,CinepolisCentreSquareMallKochi,Malayalam,21:10,Premium,160₹,43,18
+Kerala,Trivandrum,SuryaMultiplex4KDolbyAtmosNedumangad,Malayalam,21:15,Platinum,250₹,14,0
+Kerala,Trivandrum,SuryaMultiplex4KDolbyAtmosNedumangad,Malayalam,21:15,Gold,130₹,131,0
+Kerala,Palakkad,KrvMoviesKottayi,Malayalam,21:30,FirstClass,100₹,221,0
