@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Orissa,Baripada,RoxyCinemaBaripadaAC2KDolbyDigital712,Odia,11:45,DressCircle,120₹,92,0
+Orissa,Baripada,RoxyCinemaBaripadaAC2KDolbyDigital712,Odia,11:45,Balcony,100₹,114,3
+Orissa,Baripada,RoxyCinemaBaripadaAC2KDolbyDigital712,Odia,11:45,RearClass,70₹,332,2
