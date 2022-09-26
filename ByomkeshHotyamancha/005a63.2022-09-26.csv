@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Kolkata,CinepolisLakeMallKolkata,Bengali,10:05,Normal,100₹,22,0
+WestBengal,Kolkata,CinepolisLakeMallKolkata,Bengali,10:05,Executive,100₹,55,0
+WestBengal,Kolkata,CinepolisLakeMallKolkata,Bengali,10:05,Premium,100₹,32,10
+WestBengal,Kolkata,CarnivalSaltLake,Bengali,16:25,Silver,99₹,166,3
+WestBengal,Kolkata,NandanKolkata,Bengali,18:01,Normal,30₹,165,132
