@@ -1,0 +1,8 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,Lucknow,CinepolisOneAwadhCentreLucknow,Hindi,16:25,Normal,100₹,29,0
+UttarPradesh,Lucknow,CinepolisOneAwadhCentreLucknow,Hindi,16:25,Executive,100₹,96,2
+UttarPradesh,Lucknow,CinepolisOneAwadhCentreLucknow,Hindi,16:25,Premium,100₹,54,0
+UttarPradesh,Lucknow,CinepolisOneAwadhCentreLucknow,Hindi,16:25,Vip,450₹,20,2
+UttarPradesh,NationalCapitalRegionNcr,CinepolisModiMallFormerlySpiceMall,Hindi,19:30,Premium,100₹,123,6
+UttarPradesh,NationalCapitalRegionNcr,CinepolisModiMallFormerlySpiceMall,Hindi,19:30,Classic,100₹,75,0
+MadhyaPradesh,Indore,CarnivalMalharMegaMallLoungeClass,Hindi,19:45,Lounge,200₹,40,10
