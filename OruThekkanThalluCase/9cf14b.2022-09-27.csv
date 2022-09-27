@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Alappuzha,PankajTheatreAlappy,Malayalam,11:30,Balcony,150₹,293,0
+Kerala,Alappuzha,PankajTheatreAlappy,Malayalam,11:30,FirstClass,129₹,180,0
+Kerala,Trivandrum,LeninCinemas4K3DDolbyAtmosKsfdcTrivandrum,Malayalam,18:00,Platinum,150₹,22,0
+Kerala,Trivandrum,LeninCinemas4K3DDolbyAtmosKsfdcTrivandrum,Malayalam,18:00,Gold,129₹,144,0
+Kerala,Kollam,AshokCineHouseParavur,Malayalam,18:30,Balcony,150₹,106,0
+Kerala,Kollam,AshokCineHouseParavur,Malayalam,18:30,Reserved,130₹,269,1
