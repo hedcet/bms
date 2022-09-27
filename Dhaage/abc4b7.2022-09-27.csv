@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Uttaranchal,Rishikesh,RamaPalaceRishikesh,Hindi,10:45,FirstClass,40₹,168,0
+Uttaranchal,Rishikesh,RamaPalaceRishikesh,Hindi,10:45,Silver,75₹,232,0
+Uttaranchal,Rishikesh,RamaPalaceRishikesh,Hindi,10:45,Gold,110₹,182,2
+Uttaranchal,Rishikesh,RamaPalaceRishikesh,Hindi,10:45,Platinum,180₹,24,0
