@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Maharashtra,Nagpur,AmCinemaManishNagarNagpur,Marathi,14:00,Royal,99₹,9,0
+Maharashtra,Nagpur,AmCinemaManishNagarNagpur,Marathi,14:00,Prime,90₹,66,0
+Maharashtra,Nagpur,CinepolisVrMallNagpur,Marathi,16:20,Normal,100₹,20,0
+Maharashtra,Nagpur,CinepolisVrMallNagpur,Marathi,16:20,Executive,100₹,40,19
+Maharashtra,Nagpur,CinepolisVrMallNagpur,Marathi,16:20,Premium,100₹,39,22
+Maharashtra,Nagpur,CinepolisVrMallNagpur,Marathi,16:20,Vip,200₹,8,4
+Maharashtra,Nagpur,AmCinemaManishNagarNagpur,Marathi,16:45,Royal,99₹,9,9
+Maharashtra,Nagpur,AmCinemaManishNagarNagpur,Marathi,16:45,Prime,90₹,66,13
+Maharashtra,Nagpur,CinepolisVrMallNagpur,Marathi,17:05,Normal,100₹,34,0
+Maharashtra,Nagpur,CinepolisVrMallNagpur,Marathi,17:05,Executive,100₹,68,2
+Maharashtra,Nagpur,CinepolisVrMallNagpur,Marathi,17:05,Premium,100₹,60,26
+Maharashtra,Nagpur,CinepolisVrMallNagpur,Marathi,17:05,Vip,200₹,11,3
