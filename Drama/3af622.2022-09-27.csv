@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Salem,ArrsGeethalayaTheatreSalem,Tamil,11:00,FirstClass,100₹,456,2
+TamilNadu,Chennai,PvrHeritageRslEcrChennai,Tamil,13:20,Classic,60₹,11,11
+TamilNadu,Chennai,PvrHeritageRslEcrChennai,Tamil,13:20,Prime,165₹,99,0
+TamilNadu,Salem,ArrsGeethalayaTheatreSalem,Tamil,14:30,FirstClass,100₹,456,2
+TamilNadu,Dindigul,AarthiGrandCineplexDolbyAtmosDindigul,Tamil,14:40,Diamond,120₹,149,0
+TamilNadu,Dindigul,AarthiGrandCineplexDolbyAtmosDindigul,Tamil,14:40,Gold,120₹,45,0
+TamilNadu,Dindigul,AarthiGrandCineplexDolbyAtmosDindigul,Tamil,14:40,Silver,120₹,25,0
+TamilNadu,Chennai,AgsCinemasMaduravoyal,Tamil,15:45,Diamond,190₹,237,34
+TamilNadu,Chennai,AgsCinemasMaduravoyal,Tamil,15:45,Pearl,60₹,24,24
+TamilNadu,Chennai,AgsCinemasVillivakkam,Tamil,16:10,Diamond,190₹,147,0
+TamilNadu,Chennai,AgsCinemasVillivakkam,Tamil,16:10,Pearl,60₹,17,17
+TamilNadu,Kanchipuram,ArunaCinemasRgbLaser4KAcDolbyAtmos,Tamil,18:00,Platinum,120₹,206,0
+TamilNadu,Kanchipuram,ArunaCinemasRgbLaser4KAcDolbyAtmos,Tamil,18:00,Diamond,120₹,206,0
+TamilNadu,Salem,ArrsGeethalayaTheatreSalemOldBusStand,Tamil,18:30,FirstClass,100₹,456,0
+TamilNadu,Chennai,SpiPalazzoNexusVijayaMallVadapalaniChennai,Tamil,22:20,Budget,60₹,26,23
+TamilNadu,Chennai,SpiPalazzoNexusVijayaMallVadapalaniChennai,Tamil,22:20,Elite,165₹,230,17
