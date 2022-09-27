@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Jharkhand,Ranchi,PopkornCinemasGalaxiaMallRanchi,Hindi,15:45,Club,200₹,12,0
+Jharkhand,Ranchi,PopkornCinemasGalaxiaMallRanchi,Hindi,15:45,Premium,110₹,114,19
+Jharkhand,Ranchi,PopkornCinemasGalaxiaMallRanchi,Hindi,15:45,Gold,75₹,78,2
+Jharkhand,Ranchi,PopkornCinemasGalaxiaMallRanchi,Hindi,15:45,Silver,75₹,38,0
