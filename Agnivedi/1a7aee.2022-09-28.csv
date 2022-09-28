@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Jharkhand,Ranchi,SujataPicturePalaceRanchi,Hindi,13:00,Gold,50₹,80,0
+Jharkhand,Ranchi,SujataPicturePalaceRanchi,Hindi,13:00,Premium,75₹,20,12
+Jharkhand,Ranchi,PopkornCinemasGalaxiaMallRanchi,Hindi,15:45,Club,200₹,12,0
+Jharkhand,Ranchi,PopkornCinemasGalaxiaMallRanchi,Hindi,15:45,Premium,110₹,114,10
+Jharkhand,Ranchi,PopkornCinemasGalaxiaMallRanchi,Hindi,15:45,Gold,75₹,78,0
+Jharkhand,Ranchi,PopkornCinemasGalaxiaMallRanchi,Hindi,15:45,Silver,75₹,38,0
+Jharkhand,Ranchi,SujataPicturePalaceRanchi,Hindi,19:00,Gold,50₹,80,0
+Jharkhand,Ranchi,SujataPicturePalaceRanchi,Hindi,19:00,Premium,75₹,20,0
