@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,Atraulia,RdMultiplexAtraulia,Hindi,12:15,Diamond,125₹,24,0
+UttarPradesh,Atraulia,RdMultiplexAtraulia,Hindi,12:15,Gold,75₹,125,7
+UttarPradesh,Atraulia,RdMultiplexAtraulia,Hindi,15:00,Diamond,125₹,24,0
+UttarPradesh,Atraulia,RdMultiplexAtraulia,Hindi,15:00,Gold,75₹,125,0
+UttarPradesh,Atraulia,RdMultiplexAtraulia,Hindi,21:00,Diamond,125₹,24,0
+UttarPradesh,Atraulia,RdMultiplexAtraulia,Hindi,21:00,Gold,75₹,125,0
