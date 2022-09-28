@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Kochi,JMaxByGejoTheatre2KDolby71ACPattimatto,Malayalam,14:30,Platinum,170₹,90,0
+Kerala,Kochi,JMaxByGejoTheatre2KDolby71ACPattimatto,Malayalam,14:30,Gold,150₹,126,0
+Kerala,Kochi,JMaxByGejoTheatre2KDolby71ACPattimatto,Malayalam,14:30,Silver,130₹,18,0
+Kerala,Trivandrum,LeninCinemas4K3DDolbyAtmosKsfdcTrivandrum,Malayalam,18:00,Platinum,150₹,22,0
+Kerala,Trivandrum,LeninCinemas4K3DDolbyAtmosKsfdcTrivandrum,Malayalam,18:00,Gold,129₹,144,0
+Kerala,Kochi,JMaxByGejoTheatre2KDolby71ACPattimatto,Malayalam,21:30,Platinum,170₹,90,0
+Kerala,Kochi,JMaxByGejoTheatre2KDolby71ACPattimatto,Malayalam,21:30,Gold,150₹,126,4
+Kerala,Kochi,JMaxByGejoTheatre2KDolby71ACPattimatto,Malayalam,21:30,Silver,130₹,18,0
