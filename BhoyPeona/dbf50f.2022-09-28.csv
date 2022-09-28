@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Jalpaiguri,SriDayalCinemaHallJalpaiguri,Bengali,13:00,Balcony,50₹,122,0
+WestBengal,Jalpaiguri,SriDayalCinemaHallJalpaiguri,Bengali,16:00,Balcony,50₹,122,3
+WestBengal,Jalpaiguri,SriDayalCinemaHallJalpaiguri,Bengali,19:00,Balcony,50₹,122,0
