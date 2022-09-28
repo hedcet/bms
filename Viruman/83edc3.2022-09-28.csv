@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Rajapalayam,SriBalajiTheatreRajapalayamAC,Tamil,10:15,Box1,100₹,18,0
+TamilNadu,Rajapalayam,SriBalajiTheatreRajapalayamAC,Tamil,10:15,Box2,100₹,18,0
+AndhraPradesh,Puttur,SdcShanthiTheatrePuttur,Tamil,10:45,Premium,100₹,238,0
+AndhraPradesh,Puttur,SdcShanthiTheatrePuttur,Tamil,10:45,NonPremium,100₹,216,0
+TamilNadu,Rajapalayam,SriBalajiTheatreRajapalayamAC,Tamil,14:15,Box1,100₹,18,0
+TamilNadu,Rajapalayam,SriBalajiTheatreRajapalayamAC,Tamil,14:15,Box2,100₹,18,0
+AndhraPradesh,Puttur,SdcShanthiTheatrePuttur,Tamil,14:45,Premium,100₹,238,46
+AndhraPradesh,Puttur,SdcShanthiTheatrePuttur,Tamil,14:45,NonPremium,100₹,216,0
+TamilNadu,Rajapalayam,SriBalajiTheatreRajapalayamAC,Tamil,18:15,Box1,100₹,18,0
+TamilNadu,Rajapalayam,SriBalajiTheatreRajapalayamAC,Tamil,18:15,Box2,100₹,18,0
+AndhraPradesh,Puttur,SdcShanthiTheatrePuttur,Tamil,18:45,Premium,100₹,238,46
+AndhraPradesh,Puttur,SdcShanthiTheatrePuttur,Tamil,18:45,NonPremium,100₹,216,0
+AndhraPradesh,Puttur,SdcShanthiTheatrePuttur,Tamil,21:45,Premium,100₹,238,0
+AndhraPradesh,Puttur,SdcShanthiTheatrePuttur,Tamil,21:45,NonPremium,100₹,216,0
+TamilNadu,Rajapalayam,SriBalajiTheatreRajapalayamAC,Tamil,22:15,Box1,100₹,18,0
+TamilNadu,Rajapalayam,SriBalajiTheatreRajapalayamAC,Tamil,22:15,Box2,100₹,18,0
