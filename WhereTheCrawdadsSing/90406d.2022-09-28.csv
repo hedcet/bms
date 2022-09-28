@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,PvrPhoenixMarketcityMallWhitefieldRoad,English,10:00,Classic,112₹,72,3
+Karnataka,Bengaluru,PvrPhoenixMarketcityMallWhitefieldRoad,English,10:00,Recliner,220₹,7,5
+Gujarat,Ahmedabad,TimeCinemaCgRoadAhmedabad,English,10:00,Standard,210₹,48,0
+Maharashtra,Mumbai,InoxInsigniaAtAtriaMallWorli,English,11:35,Insignia,200₹,30,9
+Haryana,NationalCapitalRegionNcr,PvrDirectorSCutGurugramAmbienceMall,English,14:00,Platinum,500₹,40,0
+Haryana,NationalCapitalRegionNcr,PvrDirectorSCutGurugramAmbienceMall,English,14:00,PlatinumSuperior,500₹,17,2
+Gujarat,Ahmedabad,TimeCinemaCgRoadAhmedabad,English,15:00,Infinity,"1,050₹",8,0
+Haryana,Chandigarh,PvrElanteChandigarh,English,15:10,Classic,180₹,153,6
+Haryana,Chandigarh,PvrElanteChandigarh,English,15:10,Recliner,550₹,13,2
+Gujarat,Ahmedabad,TimeCinemaCgRoadAhmedabad,English,17:35,Infinity,"1,050₹",8,0
+Maharashtra,Mumbai,InoxMegaplexInorbitMallMalad,English,20:00,Insignia,250₹,38,14
+Haryana,NationalCapitalRegionNcr,CinepolisSmartBharatMallFormerlySpiceMall,English,22:10,Premium,100₹,112,0
+Haryana,NationalCapitalRegionNcr,CinepolisSmartBharatMallFormerlySpiceMall,English,22:10,Classic,100₹,75,0
+Haryana,NationalCapitalRegionNcr,PvrPromenadeVasantKunj,English,22:30,Classic,112₹,50,2
+Haryana,NationalCapitalRegionNcr,PvrPromenadeVasantKunj,English,22:30,Prime,112₹,44,25
+Gujarat,Ahmedabad,TimeCinemaCgRoadAhmedabad,English,23:15,Infinity,"1,150₹",8,0
