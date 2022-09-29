@@ -1,0 +1,14 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Manipal,BharathCinemasManipal,Tulu,12:30,Vip,110₹,12,0
+Karnataka,Manipal,BharathCinemasManipal,Tulu,12:30,Gold,70₹,56,7
+Karnataka,Manipal,BharathCinemasManipal,Tulu,12:30,Silver,70₹,66,0
+Karnataka,MangaluruMangalore,PvrNexusMallPandeshwarMangalore,Tulu,13:40,Classic,130₹,79,28
+Karnataka,Padubidri,BharathCinemasPadubidri,Tulu,16:00,Gold,100₹,68,0
+Karnataka,Padubidri,BharathCinemasPadubidri,Tulu,16:00,Silver,100₹,33,0
+Karnataka,Padubidri,BharathCinemasPadubidri,Tulu,16:00,Special,100₹,11,0
+Karnataka,MangaluruMangalore,BharathCinemasMangalore,Tulu,16:45,Gold,100₹,47,4
+Karnataka,MangaluruMangalore,BharathCinemasMangalore,Tulu,16:45,Silver,100₹,33,0
+Karnataka,MangaluruMangalore,BharathCinemasMangalore,Tulu,16:45,Special,100₹,11,0
+Karnataka,MangaluruMangalore,BharathCinemasMangalore,Tulu,20:00,Gold,100₹,43,19
+Karnataka,MangaluruMangalore,BharathCinemasMangalore,Tulu,20:00,Silver,100₹,20,0
+Karnataka,MangaluruMangalore,BharathCinemasMangalore,Tulu,20:00,Special,100₹,7,0
