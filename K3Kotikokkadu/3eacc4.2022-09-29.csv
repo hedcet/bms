@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Yemmiganur,SivaPriyaCinemaYemmiganur,Telugu,11:00,FirstClass,80₹,165,43
+AndhraPradesh,Hyderabad,Saptagiri70Mm4KDolbyDigitalRtcXRoads,Telugu,11:00,Balcony,150₹,230,0
+AndhraPradesh,Hyderabad,Saptagiri70Mm4KDolbyDigitalRtcXRoads,Telugu,11:00,FirstClass,100₹,294,0
+AndhraPradesh,Hyderabad,Saptagiri70Mm4KDolbyDigitalRtcXRoads,Telugu,14:00,Balcony,150₹,230,0
+AndhraPradesh,Hyderabad,Saptagiri70Mm4KDolbyDigitalRtcXRoads,Telugu,14:00,FirstClass,100₹,294,0
+AndhraPradesh,Yemmiganur,SivaPriyaCinemaYemmiganur,Telugu,14:30,FirstClass,80₹,165,41
+AndhraPradesh,Hyderabad,Saptagiri70Mm4KDolbyDigitalRtcXRoads,Telugu,18:00,Balcony,150₹,230,0
+AndhraPradesh,Hyderabad,Saptagiri70Mm4KDolbyDigitalRtcXRoads,Telugu,18:00,FirstClass,100₹,294,0
+AndhraPradesh,Yemmiganur,SivaPriyaCinemaYemmiganur,Telugu,18:30,FirstClass,80₹,165,41
+AndhraPradesh,Hyderabad,Saptagiri70Mm4KDolbyDigitalRtcXRoads,Telugu,21:00,Balcony,150₹,230,0
+AndhraPradesh,Hyderabad,Saptagiri70Mm4KDolbyDigitalRtcXRoads,Telugu,21:00,FirstClass,100₹,294,0
+AndhraPradesh,Yemmiganur,SivaPriyaCinemaYemmiganur,Telugu,21:50,FirstClass,80₹,165,42
