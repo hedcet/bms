@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Rajasthan,Jaipur,InoxGtCentralMallJaipur,Hindi,12:30,Club,100₹,160,12
+Rajasthan,Jaipur,InoxGtCentralMallJaipur,Hindi,12:30,Executive,100₹,30,9
+Rajasthan,Jaipur,InoxGtCentralMallJaipur,Hindi,12:30,Royale,100₹,42,26
+Rajasthan,Jaipur,InoxGtCentralMallJaipur,Hindi,19:05,Club,100₹,160,46
+Rajasthan,Jaipur,InoxGtCentralMallJaipur,Hindi,19:05,Executive,100₹,30,7
+Rajasthan,Jaipur,InoxGtCentralMallJaipur,Hindi,19:05,Royale,100₹,42,36
