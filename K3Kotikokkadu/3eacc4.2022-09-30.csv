@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Puttur,SrinivasaAC4KDolbyAtmosPuttur,Telugu,11:00,Platinum,120₹,147,0
+AndhraPradesh,Puttur,SrinivasaAC4KDolbyAtmosPuttur,Telugu,11:00,Gold,120₹,150,0
+AndhraPradesh,Puttur,SrinivasaAC4KDolbyAtmosPuttur,Telugu,14:30,Platinum,120₹,168,0
+AndhraPradesh,Puttur,SrinivasaAC4KDolbyAtmosPuttur,Telugu,14:30,Gold,120₹,150,0
+AndhraPradesh,Puttur,SrinivasaAC4KDolbyAtmosPuttur,Telugu,18:30,Platinum,120₹,168,2
+AndhraPradesh,Puttur,SrinivasaAC4KDolbyAtmosPuttur,Telugu,18:30,Gold,120₹,150,0
+AndhraPradesh,Puttur,SrinivasaAC4KDolbyAtmosPuttur,Telugu,21:45,Platinum,120₹,147,0
+AndhraPradesh,Puttur,SrinivasaAC4KDolbyAtmosPuttur,Telugu,21:45,Gold,120₹,150,0
