@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,PvrPhoenixMarketcityMallWhitefieldRoad,Tamil,15:35,Classic,190₹,120,4
+Karnataka,Bengaluru,PvrPhoenixMarketcityMallWhitefieldRoad,Tamil,15:35,Recliner,350₹,8,2
+Karnataka,Bengaluru,PvrVegaCityBannerghattaRoad,Tamil,22:05,Classic,236₹,77,20
+TamilNadu,Trichy,ArunaTheatreTrichy,Tamil,22:15,FirstClass,50₹,378,0
+TamilNadu,Trichy,SriRengarajTalkiesTiruchirappalli,Tamil,22:15,FirstClass,50₹,200,0
