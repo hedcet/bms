@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Uttaranchal,Ramnagar,KSeraSeraMiniplexRamnagar,Kumaoni,09:15,Gold,150₹,62,0
+Uttaranchal,Ramnagar,KSeraSeraMiniplexRamnagar,Kumaoni,09:15,Silver,112₹,12,0
+Uttaranchal,Almora,RcmCinemaAlmora,Kumaoni,11:45,Silver,130₹,52,52
+Uttaranchal,Almora,RcmCinemaAlmora,Kumaoni,11:45,Gold,150₹,39,39
+Uttaranchal,Almora,RcmCinemaAlmora,Kumaoni,11:45,Platinum,180₹,23,23
+Uttaranchal,Haldwani,MovieZoneCinemaHaldwaniHalduchourLalkuan,Kumaoni,19:25,Recliner,300₹,4,0
+Uttaranchal,Haldwani,MovieZoneCinemaHaldwaniHalduchourLalkuan,Kumaoni,19:25,Premier,200₹,35,2
+Uttaranchal,Haldwani,MovieZoneCinemaHaldwaniHalduchourLalkuan,Kumaoni,19:25,Standard,150₹,18,0
