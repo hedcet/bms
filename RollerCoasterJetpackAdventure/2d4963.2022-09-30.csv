@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,7DVrVoyageGarudaMall,English,11:30,EntryPass,190₹,8,0
+Karnataka,Bengaluru,7DVrVoyageGarudaMall,English,12:30,EntryPass,190₹,8,0
+Karnataka,Bengaluru,7DVrVoyageGarudaMall,English,13:30,EntryPass,190₹,8,0
+Karnataka,Bengaluru,7DVrVoyageGarudaMall,English,14:30,EntryPass,190₹,8,0
+Karnataka,Bengaluru,7DVrVoyageGarudaMall,English,15:30,EntryPass,190₹,8,0
+UttarPradesh,Varanasi,12DCinemaIpSigraMallVaranasi,English,16:00,Gold,200₹,24,0
+Karnataka,Bengaluru,7DVrVoyageGarudaMall,English,16:30,EntryPass,190₹,8,0
+Karnataka,Bengaluru,7DVrVoyageGarudaMall,English,17:30,EntryPass,190₹,8,0
+Karnataka,Bengaluru,7DVrVoyageGarudaMall,English,19:00,EntryPass,190₹,8,1
+Karnataka,Bengaluru,7DVrVoyageGarudaMall,English,20:00,EntryPass,190₹,8,2
+Karnataka,Bengaluru,7DVrVoyageGarudaMall,English,21:00,EntryPass,190₹,8,0
