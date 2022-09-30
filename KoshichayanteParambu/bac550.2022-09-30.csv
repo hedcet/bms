@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Kollam,GMax4KUtsavKollam,Malayalam,10:30,Royal,150₹,333,20
+Kerala,Kozhikode,AashirvadCineplexxKozhikode,Malayalam,14:15,Platinum,220₹,10,0
+Kerala,Kozhikode,AashirvadCineplexxKozhikode,Malayalam,14:15,Gold,200₹,10,0
+Kerala,Kochi,SangeetaCinemaKochi,Malayalam,15:00,BlueCircle,150₹,187,55
+Kerala,Alappuzha,PanCinemasAlappuzha,Malayalam,16:30,Platinum,230₹,34,0
+Kerala,Alappuzha,PanCinemasAlappuzha,Malayalam,16:30,Gold,170₹,138,30
