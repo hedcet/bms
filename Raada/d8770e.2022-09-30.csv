@@ -1,0 +1,8 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Maharashtra,Parbhani,PritiCinemaParbhani,Marathi,15:15,Platinum,100₹,133,45
+Maharashtra,Parbhani,PritiCinemaParbhani,Marathi,15:15,Gold,80₹,98,40
+Maharashtra,Parbhani,PritiCinemaParbhani,Marathi,15:15,Silver,60₹,178,0
+Maharashtra,Parbhani,PritiCinemaParbhani,Marathi,15:15,King,120₹,76,28
+Maharashtra,Nanded,PvrTreasureBazaarMallNanded,Marathi,16:20,Classic,100₹,70,21
+Maharashtra,Nanded,PvrTreasureBazaarMallNanded,Marathi,16:20,Prime,130₹,100,27
+Maharashtra,Nanded,PvrTreasureBazaarMallNanded,Marathi,16:20,PrimePlus,150₹,81,58
