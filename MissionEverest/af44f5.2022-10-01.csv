@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Kolkata,PvrAvaniKolkata,Bengali,13:00,Classic,210₹,183,2
+WestBengal,Kolkata,PvrAvaniKolkata,Bengali,13:00,Prime,290₹,6,0
+WestBengal,Kolkata,CarnivalSaltLake,Bengali,17:55,Silver,180₹,166,6
+WestBengal,Kolkata,PvrAvaniKolkata,Bengali,18:10,Classic,250₹,183,2
+WestBengal,Kolkata,PvrAvaniKolkata,Bengali,18:10,Prime,330₹,6,4
