@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Kochi,CinepolisCentreSquareMallKochi,Malayalam,11:00,Normal,110₹,13,0
+Kerala,Kochi,CinepolisCentreSquareMallKochi,Malayalam,11:00,Executive,140₹,28,0
+Kerala,Kochi,CinepolisCentreSquareMallKochi,Malayalam,11:00,Premium,160₹,65,16
+Kerala,Trivandrum,SreeKaleeswarySreeSaraswathy2K3DKaliyikkav,Malayalam,11:00,RoyalCircle,150₹,87,0
+Kerala,Trivandrum,SreeKaleeswarySreeSaraswathy2K3DKaliyikkav,Malayalam,14:30,RoyalCircle,150₹,87,0
+Kerala,Trivandrum,SreeKaleeswarySreeSaraswathy2K3DKaliyikkav,Malayalam,18:15,RoyalCircle,150₹,87,0
+Kerala,Kattappana,AiswaryaCinemasKattappana,Malayalam,18:30,Diamond,130₹,172,0
+Kerala,Angamaly,CarnivalKsrtComplex,Malayalam,19:00,GoldOffline,150₹,203,37
+Kerala,Trivandrum,SreeKaleeswarySreeSaraswathy2K3DKaliyikkav,Malayalam,21:30,RoyalCircle,150₹,87,0
