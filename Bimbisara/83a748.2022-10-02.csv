@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Nalgonda,VenkateswaraTheatreNalgonda,Telugu,11:00,Balcony,110₹,541,0
+AndhraPradesh,Nalgonda,VenkateswaraTheatreNalgonda,Telugu,11:00,SecondClass,50₹,541,0
+AndhraPradesh,Nalgonda,VenkateswaraTheatreNalgonda,Telugu,14:00,Balcony,110₹,538,0
+AndhraPradesh,Nalgonda,VenkateswaraTheatreNalgonda,Telugu,14:00,SecondClass,50₹,538,0
+AndhraPradesh,Nalgonda,VenkateswaraTheatreNalgonda,Telugu,18:00,Balcony,110₹,540,0
+AndhraPradesh,Nalgonda,VenkateswaraTheatreNalgonda,Telugu,18:00,SecondClass,50₹,540,0
+AndhraPradesh,Nalgonda,VenkateswaraTheatreNalgonda,Telugu,21:00,Balcony,110₹,541,0
+AndhraPradesh,Nalgonda,VenkateswaraTheatreNalgonda,Telugu,21:00,SecondClass,50₹,541,0
+AndhraPradesh,Hyderabad,SrinivasaTalkiesUppal,Telugu,21:15,Balcony,110₹,248,10
+AndhraPradesh,Hyderabad,SrinivasaTalkiesUppal,Telugu,21:15,LowerBalcony,110₹,206,0
+AndhraPradesh,Hyderabad,SrinivasaTalkiesUppal,Telugu,21:15,FirstClass,80₹,192,10
+AndhraPradesh,Hyderabad,SrinivasaTalkiesUppal,Telugu,21:15,SecondClass,50₹,151,19
+AndhraPradesh,Sompeta,SriSrinivasaMahalSsMaxSompeta,Telugu,21:15,FirstClass,100₹,378,152
+AndhraPradesh,Sompeta,SriSrinivasaMahalSsMaxSompeta,Telugu,21:15,SecondClass,100₹,99,0
