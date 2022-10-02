@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,TumakuruTumkur,InoxSMallTumakuru,Kannada,16:05,Club,220₹,64,48
+Karnataka,TumakuruTumkur,InoxSMallTumakuru,Kannada,16:05,Executive,210₹,76,9
+Karnataka,Bengaluru,PvrTheCinemaGtWorldBengaluru,Kannada,16:05,Classic,200₹,179,147
+Karnataka,Bengaluru,PvrTheCinemaGtWorldBengaluru,Kannada,16:05,Recliner,350₹,16,16
+Karnataka,Bengaluru,PvrMsrElementsMallTanisandhraMainRoad,Kannada,16:05,Classic,240₹,96,26
+Karnataka,Bengaluru,PvrMsrElementsMallTanisandhraMainRoad,Kannada,16:05,Prime,260₹,19,19
+Karnataka,Bengaluru,PvrMsrElementsMallTanisandhraMainRoad,Kannada,16:05,Recliner,420₹,11,0
+Karnataka,MysuruMysore,DrcCinemasBmHabitatMall,Kannada,16:20,Premium,180₹,182,177
+Karnataka,MysuruMysore,DrcCinemasBmHabitatMall,Kannada,16:20,Luxury,200₹,19,19
+Karnataka,Bengaluru,PvrVaishnaviSapphireMallYeshwanthpur,Kannada,18:55,Classic,210₹,85,53
+Karnataka,Bengaluru,PvrVaishnaviSapphireMallYeshwanthpur,Kannada,18:55,Prime,230₹,37,25
+Karnataka,Bengaluru,PvrVaishnaviSapphireMallYeshwanthpur,Kannada,18:55,Recliner,370₹,13,13
