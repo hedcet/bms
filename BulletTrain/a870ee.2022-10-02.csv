@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,NationalCapitalRegionNcr,GurugramPvrDirectorSCutAmbienceMall,English,13:30,Platinum,800₹,32,7
+UttarPradesh,NationalCapitalRegionNcr,GurugramPvrDirectorSCutAmbienceMall,English,13:30,DboxSeats,"1,300₹",16,2
+UttarPradesh,NationalCapitalRegionNcr,GurugramPvrDirectorSCutAmbienceMall,English,13:30,PlatinumSuperior,"1,000₹",8,3
