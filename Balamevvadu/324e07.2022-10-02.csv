@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Kakinada,SatyagouriAC2KDigitalDolbyExKakinada,Telugu,21:30,FirstClass,112₹,324,29
+AndhraPradesh,Kakinada,SatyagouriAC2KDigitalDolbyExKakinada,Telugu,21:30,SecondClass,75₹,121,27
+AndhraPradesh,VizagVisakhapatnam,Ramadevi4KVizag,Telugu,22:00,1Premium,140₹,163,16
+AndhraPradesh,VizagVisakhapatnam,Ramadevi4KVizag,Telugu,22:00,1NonPremium,70₹,39,0
+AndhraPradesh,VizagVisakhapatnam,Ramadevi4KVizag,Telugu,22:00,2NonPremium,70₹,76,4
