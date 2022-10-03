@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Kakinada,SatyagouriAC2KDigitalDolbyExKakinada,Telugu,11:30,FirstClass,112₹,324,22
+AndhraPradesh,Kakinada,SatyagouriAC2KDigitalDolbyExKakinada,Telugu,11:30,SecondClass,75₹,121,28
+AndhraPradesh,Narsipatnam,PvrSreeKanyaNarsipatnam,Telugu,12:30,Classic,60₹,42,0
+AndhraPradesh,Narsipatnam,PvrSreeKanyaNarsipatnam,Telugu,12:30,ClassicPlus,150₹,252,6
+AndhraPradesh,Kakinada,SatyagouriAC2KDigitalDolbyExKakinada,Telugu,14:30,FirstClass,112₹,324,22
+AndhraPradesh,Kakinada,SatyagouriAC2KDigitalDolbyExKakinada,Telugu,14:30,SecondClass,75₹,121,30
+AndhraPradesh,Kakinada,SatyagouriAC2KDigitalDolbyExKakinada,Telugu,18:30,FirstClass,112₹,324,32
+AndhraPradesh,Kakinada,SatyagouriAC2KDigitalDolbyExKakinada,Telugu,18:30,SecondClass,75₹,121,30
+AndhraPradesh,Kakinada,SatyagouriAC2KDigitalDolbyExKakinada,Telugu,21:30,FirstClass,112₹,324,24
+AndhraPradesh,Kakinada,SatyagouriAC2KDigitalDolbyExKakinada,Telugu,21:30,SecondClass,75₹,121,23
