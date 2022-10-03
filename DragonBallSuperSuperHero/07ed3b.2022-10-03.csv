@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,NationalCapitalRegionNcr,PvrLogixNoida,English,14:00,Classic,250₹,49,22
+UttarPradesh,NationalCapitalRegionNcr,PvrPacificSubhashNagar4DxDelhi,English,14:15,Classic,250₹,36,8
+UttarPradesh,NationalCapitalRegionNcr,PvrPacificSubhashNagar4DxDelhi,English,14:15,Prime,300₹,72,5
