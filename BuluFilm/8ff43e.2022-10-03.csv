@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Assam,Guwahati,PragjyotiCinemaGuwahati,Assamese,14:00,GoldCircle,200₹,18,0
+Assam,Guwahati,PragjyotiCinemaGuwahati,Assamese,14:00,SilverClass,175₹,88,0
+Assam,Guwahati,PragjyotiCinemaGuwahati,Assamese,14:00,VipCircle,150₹,119,1
+Assam,Guwahati,PragjyotiCinemaGuwahati,Assamese,17:00,GoldCircle,200₹,18,2
+Assam,Guwahati,PragjyotiCinemaGuwahati,Assamese,17:00,SilverClass,175₹,88,0
+Assam,Guwahati,PragjyotiCinemaGuwahati,Assamese,17:00,VipCircle,150₹,119,6
