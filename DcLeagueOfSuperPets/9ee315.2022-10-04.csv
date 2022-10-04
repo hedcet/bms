@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,NationalCapitalRegionNcr,PvrLogixNoida,English,12:00,Classic,170₹,49,18
+UttarPradesh,NationalCapitalRegionNcr,GurugramPvrDirectorSCutAmbienceMall,English,12:30,Platinum,500₹,45,7
+UttarPradesh,NationalCapitalRegionNcr,GurugramPvrDirectorSCutAmbienceMall,English,12:30,PlatinumSuperior,500₹,16,5
+UttarPradesh,NationalCapitalRegionNcr,PvrVegasDwarka,English,12:30,Classic,275₹,36,36
+UttarPradesh,NationalCapitalRegionNcr,PvrVegasDwarka,English,12:30,Prime,320₹,21,21
+UttarPradesh,NationalCapitalRegionNcr,PvrVegasDwarka,English,12:30,Recliner,320₹,8,8
+Haryana,Chandigarh,Pvr4DxElanteChandigarh,English,13:10,Classic,400₹,108,16
+UttarPradesh,NationalCapitalRegionNcr,PvrMgf4DxGurgaon,English,13:10,Classic,250₹,84,9
+Maharashtra,Mumbai,InoxMegaplexInorbitMallMalad,English,13:40,Club,280₹,16,0
+Maharashtra,Mumbai,InoxMegaplexInorbitMallMalad,English,13:40,Royal,280₹,64,6
+Maharashtra,Mumbai,PvrInfinitiMalad4DxMumbai,English,14:00,4DxClassic,180₹,24,0
+Maharashtra,Mumbai,PvrInfinitiMalad4DxMumbai,English,14:00,4DxPrime,200₹,52,6
+Maharashtra,Mumbai,MetroInoxCinemasMarineLines,English,14:10,Kiddles,210₹,36,8
+AndhraPradesh,Hyderabad,PvrNextGalleriaMallPanjagutta,English,19:20,Classic,150₹,54,40
