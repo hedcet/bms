@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Haryana,Chandigarh,Pvr4DxElanteChandigarh,English,11:00,Classic,350₹,108,2
+UttarPradesh,NationalCapitalRegionNcr,PvrMgf4DxGurgaon,English,11:00,Classic,240₹,96,14
+Karnataka,Bengaluru,PvrVegaCityBannerghattaRoad,English,12:55,3DClassic,280₹,77,74
+UttarPradesh,NationalCapitalRegionNcr,CinepolisAiriaMallSohnaRoadGurgaon,English,13:15,Normal,200₹,30,3
+UttarPradesh,NationalCapitalRegionNcr,CinepolisAiriaMallSohnaRoadGurgaon,English,13:15,DoubleSofa,240₹,24,7
+UttarPradesh,NationalCapitalRegionNcr,CinepolisAiriaMallSohnaRoadGurgaon,English,13:15,Lounger,220₹,8,0
+AndhraPradesh,Hyderabad,PvrNextGalleriaMallPanjagutta,English,13:40,Classic,150₹,54,25
+UttarPradesh,NationalCapitalRegionNcr,PvrLogixNoida,English,16:55,Classic,290₹,49,21
+UttarPradesh,NationalCapitalRegionNcr,PvrVegasDwarka,English,18:35,Classic,275₹,36,5
+UttarPradesh,NationalCapitalRegionNcr,PvrVegasDwarka,English,18:35,Prime,320₹,21,6
+UttarPradesh,NationalCapitalRegionNcr,PvrVegasDwarka,English,18:35,Recliner,320₹,8,8
+Karnataka,Bengaluru,PvrTheForumMallKoramangala,English,20:05,3DClassic,300₹,103,72
