@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,PvrTheForumMallKoramangala,Japanese,15:30,Classic,"1,500₹",225,93
+Karnataka,Bengaluru,PvrTheForumMallKoramangala,Japanese,15:30,Lounger,"1,500₹",12,3
+Karnataka,Bengaluru,PvrTheForumMallKoramangala,Japanese,15:30,Recliner,"2,500₹",16,7
+Maharashtra,Mumbai,PvrCitiMallAndheriW,Japanese,15:30,Classic,"1,500₹",46,8
+Maharashtra,Mumbai,PvrCitiMallAndheriW,Japanese,15:30,Prime,"1,800₹",146,14
+Maharashtra,Mumbai,PvrCitiMallAndheriW,Japanese,15:30,Recliner,"2,500₹",24,7
+Maharashtra,Pune,PvrPhoenixMarketCityPune,Japanese,16:00,Classic,"1,500₹",80,0
+Maharashtra,Pune,PvrPhoenixMarketCityPune,Japanese,16:00,Prime,"1,500₹",129,34
+Maharashtra,Pune,PvrPhoenixMarketCityPune,Japanese,16:00,PrimePlus,"1,700₹",15,10
+Maharashtra,Pune,PvrPhoenixMarketCityPune,Japanese,16:00,Recliner,"2,000₹",12,10
+Maharashtra,Mumbai,PvrIconPhoenixPalladiumLowerParelMumbai,Japanese,17:00,Lounger,"1,500₹",14,1
+Maharashtra,Mumbai,PvrIconPhoenixPalladiumLowerParelMumbai,Japanese,17:00,Classic,"1,500₹",38,1
+Maharashtra,Mumbai,PvrIconPhoenixPalladiumLowerParelMumbai,Japanese,17:00,Prime,"1,500₹",186,34
+Maharashtra,Mumbai,PvrIconPhoenixPalladiumLowerParelMumbai,Japanese,17:00,Recliner,"1,500₹",14,10
