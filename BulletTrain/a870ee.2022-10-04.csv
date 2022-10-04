@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Surat,TimeCinemaGalaxyCirclePalSurat,English,10:15,InfinitySofa,220₹,12,0
+UttarPradesh,NationalCapitalRegionNcr,GurugramPvrDirectorSCutAmbienceMall,English,13:30,Platinum,500₹,32,4
+UttarPradesh,NationalCapitalRegionNcr,GurugramPvrDirectorSCutAmbienceMall,English,13:30,PlatinumSuperior,500₹,8,5
+UttarPradesh,NationalCapitalRegionNcr,GurugramPvrDirectorSCutAmbienceMall,English,13:30,DboxSeats,700₹,16,0
+Gujarat,Ahmedabad,TimeCinemaCgRoadAhmedabad,English,17:15,Infinity,"1,050₹",8,0
+Haryana,Chandigarh,Pvr4DxElanteChandigarh,English,19:00,Classic,400₹,108,26
+UttarPradesh,NationalCapitalRegionNcr,PvrMgf4DxGurgaon,English,19:00,Classic,250₹,84,1
+UttarPradesh,NationalCapitalRegionNcr,PvrPacificSubhashNagar4DxDelhi,English,20:05,Classic,250₹,36,5
+UttarPradesh,NationalCapitalRegionNcr,PvrPacificSubhashNagar4DxDelhi,English,20:05,Prime,300₹,72,5
