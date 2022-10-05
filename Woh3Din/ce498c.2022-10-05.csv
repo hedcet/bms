@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Rajasthan,Jaipur,InoxGtCentralMallJaipur,Hindi,10:25,Royale,260₹,44,10
+Rajasthan,Jaipur,InoxGtCentralMallJaipur,Hindi,10:25,Executive,240₹,20,2
+Gujarat,Siddhpur,MovieHubCityLightCinemaSiddhpur,Hindi,12:00,Gold,140₹,282,0
+Gujarat,Siddhpur,MovieHubCityLightCinemaSiddhpur,Hindi,12:00,Silver,120₹,40,0
+Gujarat,Siddhpur,MovieHubCityLightCinemaSiddhpur,Hindi,21:15,Gold,140₹,282,0
+Gujarat,Siddhpur,MovieHubCityLightCinemaSiddhpur,Hindi,21:15,Silver,120₹,40,0
