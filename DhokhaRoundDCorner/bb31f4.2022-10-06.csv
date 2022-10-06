@@ -1,0 +1,16 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+MadhyaPradesh,Indore,InoxC21Mall,Hindi,09:20,In,220₹,38,2
+MadhyaPradesh,Gwalior,InoxDbMallGwalior,Hindi,09:25,Royale,160₹,99,16
+MadhyaPradesh,Gwalior,InoxDbMallGwalior,Hindi,09:25,Club,150₹,80,1
+MadhyaPradesh,Gwalior,InoxDbMallGwalior,Hindi,09:25,Executive,130₹,24,0
+UttarPradesh,Lucknow,PvrPhoenixLucknow,Hindi,09:30,Classic,99₹,117,15
+UttarPradesh,Lucknow,PvrPhoenixLucknow,Hindi,09:30,Prime,130₹,7,0
+UttarPradesh,PrayagrajAllahabad,PvrVinayakPrayagraj,Hindi,09:30,Classic,112₹,120,11
+UttarPradesh,PrayagrajAllahabad,PvrVinayakPrayagraj,Hindi,09:30,Prime,140₹,72,8
+UttarPradesh,PrayagrajAllahabad,PvrVinayakPrayagraj,Hindi,09:30,Recliner,250₹,11,0
+UttarPradesh,Lucknow,InoxMegaplexPhoenixPalassioMall,Hindi,09:30,RoyaleRecliners,300₹,14,8
+UttarPradesh,Lucknow,InoxMegaplexPhoenixPalassioMall,Hindi,09:30,Royale,170₹,72,10
+UttarPradesh,Lucknow,InoxMegaplexPhoenixPalassioMall,Hindi,09:30,Club,150₹,120,0
+UttarPradesh,Lucknow,InoxMegaplexPhoenixPalassioMall,Hindi,09:30,Executive,130₹,28,0
+UttarPradesh,NationalCapitalRegionNcr,PvrGaurCityGreaterNoida,Hindi,13:25,Classic,160₹,101,14
+UttarPradesh,NationalCapitalRegionNcr,PvrGaurCityGreaterNoida,Hindi,13:25,Prime,190₹,13,8
