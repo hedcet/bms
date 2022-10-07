@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Maharashtra,Mumbai,MaisonPvrTheLoftLuxeJioWorldDriveBkc,English,19:15,Platinum,"1,000₹",33,2
+Karnataka,Bengaluru,PvrVegaCityBannerghattaRoad,English,19:30,Classic,220₹,86,75
+Karnataka,Bengaluru,PvrVegaCityBannerghattaRoad,English,19:30,Recliner,400₹,9,9
+UttarPradesh,NationalCapitalRegionNcr,PvrAmbienceGoldGurgaon,English,20:45,Platinum,700₹,28,9
+UttarPradesh,NationalCapitalRegionNcr,PvrAmbienceGoldGurgaon,English,20:45,PlatinumSuperior,900₹,16,7
+Maharashtra,Pune,PvrIconThePavillionPune,English,22:45,Classic,240₹,28,0
+Maharashtra,Pune,PvrIconThePavillionPune,English,22:45,Prime,270₹,134,33
+Maharashtra,Pune,PvrIconThePavillionPune,English,22:45,Recliner,600₹,8,2
+UttarPradesh,NationalCapitalRegionNcr,PvrLogixNoida,English,22:50,Classic,300₹,89,27
+UttarPradesh,NationalCapitalRegionNcr,PvrSelectCityWalkGoldDelhi,English,22:55,Platinum,700₹,24,6
+UttarPradesh,NationalCapitalRegionNcr,PvrSelectCityWalkGoldDelhi,English,22:55,PlatinumSuperior,900₹,16,6
+Maharashtra,Mumbai,PvrIconOberoiMallGoregaonE,English,22:55,Classic,290₹,45,5
+Maharashtra,Mumbai,PvrIconOberoiMallGoregaonE,English,22:55,Prime,320₹,147,38
+Maharashtra,Mumbai,PvrIconOberoiMallGoregaonE,English,22:55,Recliner,650₹,34,8
+Haryana,Chandigarh,PvrElanteChandigarh,English,23:10,Classic,230₹,153,19
+Haryana,Chandigarh,PvrElanteChandigarh,English,23:10,Recliner,650₹,13,0
