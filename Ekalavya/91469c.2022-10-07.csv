@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Assam,Guwahati,GoldCinemaPaltanBazarGuwahati,Assamese,11:00,Gold,150₹,73,13
+Assam,Guwahati,GoldCinemaPaltanBazarGuwahati,Assamese,11:00,Silver,120₹,31,0
+Assam,Golaghat,GoldCinemaGolaghat,Assamese,11:15,Platinum,150₹,24,24
+Assam,Golaghat,GoldCinemaGolaghat,Assamese,11:15,Gold,130₹,142,142
+Assam,Golaghat,GoldCinemaGolaghat,Assamese,11:15,Silver,100₹,54,54
