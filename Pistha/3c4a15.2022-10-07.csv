@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Salem,AascarsMultiplexSalem,Tamil,08:45,Platinum,120₹,181,13
+TamilNadu,Coimbatore,SrkMirajCinemasCoimbatore,Tamil,12:10,Special,60₹,21,2
+TamilNadu,Coimbatore,SrkMirajCinemasCoimbatore,Tamil,12:10,Executive,190₹,190,2
+TamilNadu,Chennai,ShreeRadhaMoviePark4KDolbyAtmosRedhills,Tamil,15:00,Elite,130₹,438,14
