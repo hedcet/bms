@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Sikkim,Namchi,ImperialTalkiesNamchi,Nepali,11:30,Platinum,250₹,106,0
+Sikkim,Namchi,ImperialTalkiesNamchi,Nepali,11:30,Gold,200₹,90,0
+Sikkim,Namchi,ImperialTalkiesNamchi,Nepali,17:30,Platinum,250₹,106,5
+Sikkim,Namchi,ImperialTalkiesNamchi,Nepali,17:30,Gold,200₹,90,7
+Karnataka,Bengaluru,PvrVegaCityBannerghattaRoad,Nepali,18:45,Classic,220₹,118,11
