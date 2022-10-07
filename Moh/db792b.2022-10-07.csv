@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Haryana,Rohtak,RnCinemasRohtak,Punjabi,10:15,Silver,120₹,68,25
+Haryana,Rohtak,RnCinemasRohtak,Punjabi,10:15,Gold,400₹,4,4
+Punjab,Mukerian,OmjeeTimeCinemasMukerian,Punjabi,12:45,GoldClass,170₹,24,0
+Punjab,Mukerian,OmjeeTimeCinemasMukerian,Punjabi,12:45,SilverClass,150₹,12,0
+Haryana,Rohtak,RnCinemasRohtak,Punjabi,21:45,Silver,120₹,68,20
+Haryana,Rohtak,RnCinemasRohtak,Punjabi,21:45,Gold,400₹,4,0
