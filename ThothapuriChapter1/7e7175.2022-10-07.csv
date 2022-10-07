@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,KamakyaCinemaBanashankari,Kannada,10:45,Balcony,110₹,338,15
+Karnataka,Bengaluru,KamakyaCinemaBanashankari,Kannada,10:45,Stall,100₹,333,17
+Karnataka,Bengaluru,PvrVegaCityBannerghattaRoad,Kannada,12:50,Classic,200₹,118,33
+Karnataka,TumakuruTumkur,MaruthiDigital4KCinemasBHRoadTumakuru,Kannada,13:30,Balcony,150₹,235,125
+Karnataka,TumakuruTumkur,MaruthiDigital4KCinemasBHRoadTumakuru,Kannada,13:30,MiniBalcony,100₹,140,91
+Karnataka,TumakuruTumkur,MaruthiDigital4KCinemasBHRoadTumakuru,Kannada,13:30,SecondClass,80₹,450,336
+Karnataka,Gangavati,AmarTalkiesGangavati,Kannada,14:00,BalconyClass,100₹,60,0
+Karnataka,Bengaluru,KamakyaCinemaBanashankari,Kannada,16:15,Balcony,110₹,338,51
+Karnataka,Bengaluru,KamakyaCinemaBanashankari,Kannada,16:15,Stall,100₹,333,30
+Karnataka,TumakuruTumkur,MaruthiDigital4KCinemasBHRoadTumakuru,Kannada,17:00,Balcony,150₹,235,134
+Karnataka,TumakuruTumkur,MaruthiDigital4KCinemasBHRoadTumakuru,Kannada,17:00,MiniBalcony,100₹,140,107
+Karnataka,TumakuruTumkur,MaruthiDigital4KCinemasBHRoadTumakuru,Kannada,17:00,SecondClass,80₹,450,336
+Karnataka,Gangavati,AmarTalkiesGangavati,Kannada,18:00,BalconyClass,100₹,60,0
+Karnataka,Gangavati,AmarTalkiesGangavati,Kannada,21:00,BalconyClass,100₹,60,0
+Karnataka,Bengaluru,KamakyaCinemaBanashankari,Kannada,21:45,Balcony,110₹,338,105
+Karnataka,Bengaluru,KamakyaCinemaBanashankari,Kannada,21:45,Stall,100₹,333,32
