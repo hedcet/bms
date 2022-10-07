@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Salem,ArrsGeethalayaTheatreSalem,Tamil,11:00,FirstClass,100₹,456,26
+TamilNadu,Coimbatore,SrkMirajCinemasCoimbatore,Tamil,12:25,Special,60₹,21,13
+TamilNadu,Coimbatore,SrkMirajCinemasCoimbatore,Tamil,12:25,Executive,190₹,190,12
+TamilNadu,Salem,ArrsGeethalayaTheatreSalem,Tamil,14:30,FirstClass,100₹,456,13
+TamilNadu,Salem,ArrsMultiplexSalem,Tamil,14:30,FirstClass,150₹,197,24
+TamilNadu,Salem,ArrsMultiplexSalem,Tamil,14:30,SecondClass,120₹,158,5
+TamilNadu,Salem,ArrsGeethalayaTheatreSalem,Tamil,18:30,FirstClass,100₹,456,0
+TamilNadu,Salem,ArrsGeethalayaTheatreSalem,Tamil,22:15,FirstClass,100₹,456,5
+TamilNadu,Chennai,RohiniSilverScreensKoyambedu,Tamil,22:30,GoldStar,160₹,272,80
