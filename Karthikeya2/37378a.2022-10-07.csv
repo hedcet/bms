@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,SharadaCinemasACSPRoad,Telugu,10:15,Gold,120₹,159,36
+Karnataka,Bengaluru,SharadaCinemasACSPRoad,Telugu,10:15,Silver,100₹,315,72
+UttarPradesh,Bareilly,PrabhaTheatreBareilly,Hindi,12:15,Elite,150₹,96,0
+UttarPradesh,Bareilly,PrabhaTheatreBareilly,Hindi,12:15,Executive,70₹,68,0
+Karnataka,Bengaluru,SharadaCinemasACSPRoad,Telugu,13:15,Gold,120₹,159,40
+Karnataka,Bengaluru,SharadaCinemasACSPRoad,Telugu,13:15,Silver,100₹,315,78
+UttarPradesh,Bareilly,PrabhaTheatreBareilly,Hindi,15:15,Elite,150₹,96,0
+UttarPradesh,Bareilly,PrabhaTheatreBareilly,Hindi,15:15,Executive,70₹,68,0
+Karnataka,Bengaluru,SharadaCinemasACSPRoad,Telugu,16:15,Gold,120₹,159,41
+Karnataka,Bengaluru,SharadaCinemasACSPRoad,Telugu,16:15,Silver,100₹,315,73
+UttarPradesh,Bareilly,PrabhaTheatreBareilly,Hindi,18:15,Elite,150₹,96,0
+UttarPradesh,Bareilly,PrabhaTheatreBareilly,Hindi,18:15,Executive,70₹,68,0
+Karnataka,Bengaluru,SharadaCinemasACSPRoad,Telugu,19:15,Gold,120₹,159,38
+Karnataka,Bengaluru,SharadaCinemasACSPRoad,Telugu,19:15,Silver,100₹,315,76
+UttarPradesh,Bareilly,PrabhaTheatreBareilly,Hindi,21:15,Elite,150₹,96,0
+UttarPradesh,Bareilly,PrabhaTheatreBareilly,Hindi,21:15,Executive,70₹,68,0
