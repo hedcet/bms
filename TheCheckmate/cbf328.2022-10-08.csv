@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,PvrTheCinemaGtWorldBengaluru,Kannada,09:45,Classic,160₹,228,25
+Karnataka,Bengaluru,PvrTheCinemaGtWorldBengaluru,Kannada,09:45,Recliner,280₹,12,0
+Karnataka,TumakuruTumkur,InoxSMallTumakuru,Kannada,12:50,Royal,300₹,14,4
+Karnataka,TumakuruTumkur,InoxSMallTumakuru,Kannada,12:50,Club,210₹,120,16
+Karnataka,TumakuruTumkur,InoxSMallTumakuru,Kannada,12:50,Executive,190₹,136,0
+Karnataka,HubballiHubli,CinepolisUrbanOasisMallHubli,Kannada,13:00,Normal,200₹,38,0
+Karnataka,HubballiHubli,CinepolisUrbanOasisMallHubli,Kannada,13:00,Executive,200₹,103,0
+Karnataka,HubballiHubli,CinepolisUrbanOasisMallHubli,Kannada,13:00,Premium,200₹,62,38
+Karnataka,Bengaluru,GopalanCinemasArcadeMallMysoreRoad,Kannada,13:15,Gold,260₹,332,14
+Karnataka,Bengaluru,GopalanCinemasArcadeMallMysoreRoad,Kannada,13:15,Sofa,260₹,21,7
+Karnataka,Bengaluru,CinepolisBinnypetMall,Kannada,15:50,Executive,150₹,69,10
+Karnataka,Bengaluru,CinepolisBinnypetMall,Kannada,15:50,Premium,150₹,42,12
+Karnataka,Bengaluru,GopalanMiniplexSignatureMallOldMadrasRoad,Kannada,16:30,Gold,270₹,65,4
+Karnataka,MysuruMysore,PvrNexusMallCentreCityMysuru,Kannada,22:05,Classic,160₹,134,134
