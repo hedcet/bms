@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,NationalCapitalRegionNcr,PvrAmbienceGoldGurgaon,English,12:35,Platinum,500₹,28,1
+UttarPradesh,NationalCapitalRegionNcr,PvrAmbienceGoldGurgaon,English,12:35,PlatinumSuperior,500₹,16,13
+Karnataka,Bengaluru,Pvr4DxOrionMallDrRajkumarRoad,English,14:00,Classic,380₹,96,30
+Maharashtra,Pune,CinepolisSeasonsMallPune,English,14:25,Normal,350₹,96,53
+Karnataka,Bengaluru,PvrForumMall4DxKoramangala,English,16:35,4DxClassic,400₹,96,95
+Karnataka,Bengaluru,Pvr4DxPhoenixMarketcityMallWhitefieldRoad,English,17:05,Classic,410₹,100,86
+Gujarat,Surat,TimeCinemaGalaxyCirclePalSurat,English,18:00,InfinitySofa,240₹,12,0
+Karnataka,Bengaluru,Pvr4DxVegaCityBannerghattaRoadBengaluru,English,18:55,Classic,410₹,116,72
+Gujarat,Ahmedabad,TimeCinemaCgRoadAhmedabad,English,20:00,Infinity,"1,050₹",8,0
+AndhraPradesh,Hyderabad,Pvr4DxForumSujanaMallKukatpallyHyderabad,English,21:30,4DxClassic,350₹,108,68
+AndhraPradesh,Hyderabad,Pvr4DxIrrumManzilHyderabad,English,22:00,4Dx,350₹,96,64
+UttarPradesh,NationalCapitalRegionNcr,PvrMgf4DxGurgaon,English,22:45,Classic,500₹,96,14
+Haryana,Chandigarh,Pvr4DxElanteChandigarh,English,22:55,Classic,450₹,108,43
+Maharashtra,Mumbai,CinepolisNexusSeawoodsNaviMumbai,English,22:55,Normal,450₹,108,64
