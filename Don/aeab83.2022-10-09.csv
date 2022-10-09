@@ -1,0 +1,16 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Surat,PvrRahulRajSurat,Hindi,15:00,Classic,150₹,30,0
+Gujarat,Surat,PvrRahulRajSurat,Hindi,15:00,ClassicPlus,150₹,30,0
+Gujarat,Surat,PvrRahulRajSurat,Hindi,15:00,Prime,150₹,72,40
+Gujarat,Surat,PvrRahulRajSurat,Hindi,15:00,Recliner,250₹,24,16
+Maharashtra,Mumbai,PvrIconPhoenixPalladiumLowerParelMumbai,Hindi,15:00,Lounger,150₹,10,10
+Maharashtra,Mumbai,PvrIconPhoenixPalladiumLowerParelMumbai,Hindi,15:00,Classic,150₹,39,36
+Maharashtra,Mumbai,PvrIconPhoenixPalladiumLowerParelMumbai,Hindi,15:00,Prime,150₹,68,68
+Maharashtra,Mumbai,PvrIconPhoenixPalladiumLowerParelMumbai,Hindi,15:00,Recliner,300₹,14,12
+UttarPradesh,Lucknow,PvrPhoenixLucknow,Hindi,18:00,Classic,150₹,151,24
+UttarPradesh,Lucknow,PvrPhoenixLucknow,Hindi,18:00,Prime,150₹,9,9
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Hindi,18:30,Classic,150₹,108,108
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Hindi,18:30,Prime,150₹,108,108
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Hindi,18:30,Recliner,250₹,16,16
+Maharashtra,Mumbai,PvrDynamixJuhu,Hindi,22:50,Prime,150₹,216,99
+Maharashtra,Mumbai,PvrDynamixJuhu,Hindi,22:50,Classic,150₹,84,0
