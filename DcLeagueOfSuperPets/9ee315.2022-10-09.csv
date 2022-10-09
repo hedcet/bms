@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,NationalCapitalRegionNcr,PvrAmbienceGoldGurgaon,English,10:10,Platinum,500₹,28,6
+UttarPradesh,NationalCapitalRegionNcr,PvrAmbienceGoldGurgaon,English,10:10,PlatinumSuperior,500₹,16,8
+Maharashtra,Mumbai,InoxInsigniaAtAtriaMallWorli,English,11:10,Insignia,500₹,27,27
+UttarPradesh,NationalCapitalRegionNcr,PvrMgf4DxGurgaon,English,12:35,Classic,500₹,96,13
+Maharashtra,Mumbai,InoxMegaplexInorbitMallMalad,English,14:00,Club,310₹,16,13
+Maharashtra,Mumbai,InoxMegaplexInorbitMallMalad,English,14:00,Royal,310₹,64,64
+UttarPradesh,NationalCapitalRegionNcr,PvrLogixNoida,English,16:30,Classic,320₹,49,32
+AndhraPradesh,Hyderabad,PvrNextGalleriaMallPanjagutta,English,16:40,Classic,150₹,54,52
