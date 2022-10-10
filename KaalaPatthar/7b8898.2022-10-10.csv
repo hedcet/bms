@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Hindi,15:00,Classic,150₹,108,2
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Hindi,15:00,Prime,150₹,108,42
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Hindi,15:00,Recliner,250₹,16,11
+UttarPradesh,PrayagrajAllahabad,PvrVinayakPrayagraj,Hindi,15:00,Classic,150₹,120,0
+UttarPradesh,PrayagrajAllahabad,PvrVinayakPrayagraj,Hindi,15:00,Prime,150₹,72,9
+UttarPradesh,PrayagrajAllahabad,PvrVinayakPrayagraj,Hindi,15:00,Recliner,249₹,11,2
+Maharashtra,Mumbai,PvrOrionMallPanvel,Hindi,19:00,Classic,150₹,20,20
+Maharashtra,Mumbai,PvrOrionMallPanvel,Hindi,19:00,Prime,150₹,98,91
+Maharashtra,Mumbai,PvrOrionMallPanvel,Hindi,19:00,PrimePlus,150₹,27,27
+Maharashtra,Kolhapur,PvrDypCityKolhapur,Hindi,19:00,Classic,150₹,42,0
+Maharashtra,Kolhapur,PvrDypCityKolhapur,Hindi,19:00,Prime,150₹,194,11
