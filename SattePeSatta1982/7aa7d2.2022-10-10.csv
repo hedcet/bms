@@ -1,0 +1,8 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Vadodara,PvrEvaMallVadodara,Hindi,19:00,Classic,150₹,47,0
+Gujarat,Vadodara,PvrEvaMallVadodara,Hindi,19:00,Prime,150₹,64,3
+Gujarat,Vadodara,PvrEvaMallVadodara,Hindi,19:00,PrimePlus,150₹,65,38
+MadhyaPradesh,Indore,PvrTreasureIslandMallIndore,Hindi,19:00,Classic,150₹,38,0
+MadhyaPradesh,Indore,PvrTreasureIslandMallIndore,Hindi,19:00,Prime,150₹,110,46
+Maharashtra,Mumbai,PvrMarketCityKurlaPremiere,Hindi,19:45,Classic,150₹,85,4
+Maharashtra,Mumbai,PvrMarketCityKurlaPremiere,Hindi,19:45,Prime,150₹,155,37
