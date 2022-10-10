@@ -1,0 +1,16 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Trivandrum,CarnivalMallOfTravancoreTrivandrum,Malayalam,10:15,PremiumOffline,250₹,50,8
+Kerala,Trivandrum,CarnivalMallOfTravancoreTrivandrum,Malayalam,10:15,ExecutiveOffline,160₹,102,4
+Kerala,Trivandrum,CarnivalMallOfTravancoreTrivandrum,Malayalam,10:15,NormalOffline,100₹,17,0
+Kerala,Kollam,Gmax4KUtsavAradhanaComplex,Malayalam,11:30,Gold,160₹,256,256
+Kerala,Kollam,Gmax4KUtsavAradhanaComplex,Malayalam,11:30,Executive,140₹,313,0
+Kerala,Trivandrum,AriesplexSlCinemas,Malayalam,11:30,Executive,110₹,70,0
+Kerala,Kollam,GmaxCinemasJerome,Malayalam,14:00,Red,160₹,279,0
+Kerala,Thodupuzha,AashirvadCineplexxThodupuzha,Malayalam,14:30,Gold,175₹,10,0
+Kerala,Thodupuzha,AashirvadCineplexxThodupuzha,Malayalam,14:30,Silver,145₹,90,0
+Kerala,Trivandrum,CarnivalArtechCentralMallTrivandrum,Malayalam,14:30,GoldOffline,300₹,13,0
+Kerala,Trivandrum,CarnivalArtechCentralMallTrivandrum,Malayalam,14:30,SilverOffline,150₹,167,0
+Kerala,Trivandrum,CarnivalArtechCentralMallTrivandrum,Malayalam,14:30,ExecutiveOffline,100₹,13,0
+Kerala,Karunagapally,CarnivalHJComplex,Malayalam,14:50,ClassicOffline,100₹,118,16
+Kerala,Trivandrum,CarnivalGreenfieldTrivandrum,Malayalam,16:30,ExecutiveOffline,160₹,132,0
+Kerala,Vadakara,CncKeralaCoirBigScreenAC2KDolbyVadakara,Malayalam,16:30,Platinum,129₹,180,0
