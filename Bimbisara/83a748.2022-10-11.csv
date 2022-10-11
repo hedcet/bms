@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Jadcherla,VenkataRamanaTalkiesJadcherla,Telugu,18:15,CoupleSeats,110₹,30,0
+AndhraPradesh,Jadcherla,VenkataRamanaTalkiesJadcherla,Telugu,18:15,Box,110₹,24,0
+AndhraPradesh,Jadcherla,VenkataRamanaTalkiesJadcherla,Telugu,18:15,FirstClass,110₹,212,0
+AndhraPradesh,Guntur,SriGaneshMahalGuntur,Telugu,18:15,FirstClass,50₹,40,0
+AndhraPradesh,Mangalagiri,VijayaDeluxeMangalagiri,Telugu,18:30,PremiumSofa,70₹,80,43
+AndhraPradesh,Mangalagiri,VijayaDeluxeMangalagiri,Telugu,18:30,PremiumBalcony,70₹,168,75
+AndhraPradesh,Mangalagiri,VijayaDeluxeMangalagiri,Telugu,18:30,PremiumFirstClass,70₹,190,58
+AndhraPradesh,Jadcherla,VenkataRamanaTalkiesJadcherla,Telugu,21:15,CoupleSeats,110₹,30,0
+AndhraPradesh,Jadcherla,VenkataRamanaTalkiesJadcherla,Telugu,21:15,Box,110₹,24,0
+AndhraPradesh,Jadcherla,VenkataRamanaTalkiesJadcherla,Telugu,21:15,FirstClass,110₹,212,0
+AndhraPradesh,Guntur,SriGaneshMahalGuntur,Telugu,21:30,FirstClass,50₹,40,0
+AndhraPradesh,Mangalagiri,VijayaDeluxeMangalagiri,Telugu,21:30,PremiumSofa,70₹,80,43
+AndhraPradesh,Mangalagiri,VijayaDeluxeMangalagiri,Telugu,21:30,PremiumBalcony,70₹,168,75
+AndhraPradesh,Mangalagiri,VijayaDeluxeMangalagiri,Telugu,21:30,PremiumFirstClass,70₹,190,58
+AndhraPradesh,Kadapa,SrCinemasKadapa,Telugu,21:30,FirstClass,120₹,340,0
+AndhraPradesh,Kadapa,SrCinemasKadapa,Telugu,21:30,SecondClass,100₹,214,0
