@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+MadhyaPradesh,Indore,PvrTreasureIslandMallIndore,Hindi,15:00,Classic,80₹,38,0
+MadhyaPradesh,Indore,PvrTreasureIslandMallIndore,Hindi,15:00,Prime,80₹,110,82
+UttarPradesh,NationalCapitalRegionNcr,PvrPromenadeVasantKunj,Hindi,15:00,Classic,80₹,96,87
+UttarPradesh,NationalCapitalRegionNcr,PvrPromenadeVasantKunj,Hindi,15:00,Prime,80₹,33,29
+UttarPradesh,Kanpur,PvrDeepKanpur,Hindi,15:00,Classic,80₹,120,0
+UttarPradesh,Kanpur,PvrDeepKanpur,Hindi,15:00,Prime,80₹,72,33
+Chhattisgarh,Raipur,PvrMagnetoMallRaipur,Hindi,18:00,Classic,80₹,38,0
+Chhattisgarh,Raipur,PvrMagnetoMallRaipur,Hindi,18:00,Prime,80₹,192,17
+Chhattisgarh,Raipur,PvrMagnetoMallRaipur,Hindi,18:00,Recliner,149₹,22,15
