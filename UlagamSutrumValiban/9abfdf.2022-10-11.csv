@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Madurai,RamTheatreMadurai,Tamil,14:00,Balcony,80₹,242,0
+TamilNadu,Madurai,RamTheatreMadurai,Tamil,18:00,Balcony,80₹,242,2
+TamilNadu,Madurai,RamTheatreMadurai,Tamil,22:00,Balcony,80₹,242,0
