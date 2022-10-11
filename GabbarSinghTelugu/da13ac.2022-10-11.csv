@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,Thirumala4KDolbyAtmosAgara,Telugu,18:30,PremiumClass,250₹,34,34
+Karnataka,Bengaluru,Thirumala4KDolbyAtmosAgara,Telugu,18:30,GoldClass,200₹,207,207
+Karnataka,Bengaluru,Thirumala4KDolbyAtmosAgara,Telugu,18:30,SilverClass,150₹,434,434
+Karnataka,Bengaluru,SriVinayakaDigital4KCinemaMarathalli,Telugu,19:00,DiamondClass,200₹,255,18
+Karnataka,Bengaluru,SriVinayakaDigital4KCinemaMarathalli,Telugu,19:00,GoldClass,150₹,318,112
+Karnataka,Bengaluru,SriVinayakaDigital4KCinemaMarathalli,Telugu,19:00,SilverClass,120₹,158,41
