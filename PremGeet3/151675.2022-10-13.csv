@@ -1,0 +1,16 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,NationalCapitalRegionNcr,PvrVegasDwarka,Hindi,10:00,Classic,112₹,89,6
+Meghalaya,Shillong,BijouCinemaShillong,Nepali,11:30,Balcony,100₹,365,5
+Meghalaya,Shillong,BijouCinemaShillong,Nepali,11:30,RearStall,80₹,245,0
+Meghalaya,Shillong,BijouCinemaShillong,Nepali,11:30,FrontStall,60₹,319,2
+UttarPradesh,Agra,ChitraCinemaAgra,Hindi,12:15,Balcony,50₹,42,0
+Meghalaya,Shillong,BijouCinemaShillong,Nepali,14:30,Balcony,100₹,365,10
+Meghalaya,Shillong,BijouCinemaShillong,Nepali,14:30,RearStall,80₹,245,0
+Meghalaya,Shillong,BijouCinemaShillong,Nepali,14:30,FrontStall,60₹,319,1
+UttarPradesh,Agra,ChitraCinemaAgra,Hindi,15:15,Balcony,50₹,42,0
+Meghalaya,Shillong,BijouCinemaShillong,Nepali,17:30,Balcony,100₹,365,17
+Meghalaya,Shillong,BijouCinemaShillong,Nepali,17:30,RearStall,80₹,245,1
+Meghalaya,Shillong,BijouCinemaShillong,Nepali,17:30,FrontStall,60₹,319,2
+UttarPradesh,Agra,ChitraCinemaAgra,Hindi,18:15,Balcony,50₹,42,0
+UttarPradesh,Agra,ChitraCinemaAgra,Hindi,21:15,Balcony,50₹,42,0
+UttarPradesh,NationalCapitalRegionNcr,PvrVegasDwarka,Hindi,21:55,Classic,112₹,89,4
