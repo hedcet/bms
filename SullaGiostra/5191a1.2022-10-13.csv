@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Kolkata,NewEmpireCinemaKolkata,Italian,21:00,Stall,1₹,380,16
+WestBengal,Kolkata,NewEmpireCinemaKolkata,Italian,21:00,Box,1₹,42,12
+WestBengal,Kolkata,NewEmpireCinemaKolkata,Italian,21:00,Circle,1₹,171,9
+Karnataka,Bengaluru,PvrPhoenixMarketcityMallWhitefieldRoad,Italian,21:45,Classic,1₹,72,64
+Karnataka,Bengaluru,PvrPhoenixMarketcityMallWhitefieldRoad,Italian,21:45,Recliner,1₹,7,7
