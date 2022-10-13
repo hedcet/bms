@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Hyderabad,ShantiTheatreNarayanaguda,Telugu,11:00,UpperBalcony,110₹,258,0
+AndhraPradesh,Hyderabad,ShantiTheatreNarayanaguda,Telugu,11:00,LowerBalcony,110₹,241,0
+AndhraPradesh,Hyderabad,ShantiTheatreNarayanaguda,Telugu,11:00,SecondClass,80₹,46,0
+AndhraPradesh,Hyderabad,ShantiTheatreNarayanaguda,Telugu,14:00,UpperBalcony,110₹,258,0
+AndhraPradesh,Hyderabad,ShantiTheatreNarayanaguda,Telugu,14:00,LowerBalcony,110₹,241,1
+AndhraPradesh,Hyderabad,ShantiTheatreNarayanaguda,Telugu,14:00,SecondClass,80₹,46,0
+AndhraPradesh,Hyderabad,ShantiTheatreNarayanaguda,Telugu,18:00,UpperBalcony,110₹,258,0
+AndhraPradesh,Hyderabad,ShantiTheatreNarayanaguda,Telugu,18:00,LowerBalcony,110₹,241,0
+AndhraPradesh,Hyderabad,ShantiTheatreNarayanaguda,Telugu,18:00,SecondClass,80₹,46,0
+AndhraPradesh,Hyderabad,ShantiTheatreNarayanaguda,Telugu,21:00,UpperBalcony,110₹,258,0
+AndhraPradesh,Hyderabad,ShantiTheatreNarayanaguda,Telugu,21:00,LowerBalcony,110₹,241,0
+AndhraPradesh,Hyderabad,ShantiTheatreNarayanaguda,Telugu,21:00,SecondClass,80₹,46,0
