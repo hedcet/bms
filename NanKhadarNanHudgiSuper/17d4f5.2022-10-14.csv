@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,MysuruMysore,MysuruVisionCinemasBehindGrsFantasyPark,Kannada,10:00,Premier,150₹,286,0
+Karnataka,Bengaluru,BalajiDigital2KCinemaTavarekere,Kannada,10:30,DiamondClass,150₹,163,2
+Karnataka,Bengaluru,BalajiDigital2KCinemaTavarekere,Kannada,10:30,GoldClass,120₹,262,0
+Karnataka,Bengaluru,GopalanMallSirsiCircle,Kannada,13:30,Gold,236₹,265,4
