@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Orissa,BerhampurOdisha,SivamaxAc71DolbyDigitalBerhampur,Odia,11:45,Balcony,100₹,124,2
+Orissa,BerhampurOdisha,SivamaxAc71DolbyDigitalBerhampur,Odia,11:45,RearStall,70₹,180,0
+Orissa,Cuttack,SangamCineplexCuttack,Odia,12:00,ImperialCouple,300₹,7,0
+Orissa,Cuttack,SangamCineplexCuttack,Odia,12:00,Elite,100₹,126,0
+Orissa,Cuttack,SangamCineplexCuttack,Odia,12:00,Gold,100₹,12,0
+Orissa,Rayagada,SriRamaTalkiesRayagada,Odia,17:30,Balcony,100₹,92,0
