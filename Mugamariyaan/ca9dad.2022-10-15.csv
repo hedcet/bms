@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Chennai,SreeThulasiTheatreThiruvallur,Tamil,10:45,FirstClass,80₹,216,30
+TamilNadu,Chennai,SreeThulasiTheatreThiruvallur,Tamil,10:45,SecondClass,80₹,270,0
+TamilNadu,Chennai,KasiTalkiesDolbyAtmosAshokNagar,Tamil,11:00,SuperPremium,195₹,27,12
+TamilNadu,Chennai,KasiTalkiesDolbyAtmosAshokNagar,Tamil,11:00,Premium,170₹,104,0
+TamilNadu,Chennai,KasiTalkiesDolbyAtmosAshokNagar,Tamil,11:00,Elite,120₹,60,0
+TamilNadu,Chennai,KasiTalkiesDolbyAtmosAshokNagar,Tamil,11:00,Economy,64₹,15,15
+TamilNadu,Chennai,PvrSklsGalaxyMallRedHillsChennai,Tamil,12:00,Classic,60₹,16,16
+TamilNadu,Chennai,PvrSklsGalaxyMallRedHillsChennai,Tamil,12:00,Prime,179₹,81,10
+TamilNadu,Chennai,PvrAmpaMallNelsonManickamRoad,Tamil,13:10,Classic,60₹,17,17
+TamilNadu,Chennai,PvrAmpaMallNelsonManickamRoad,Tamil,13:10,Prime,190₹,130,7
+TamilNadu,Chennai,SreeLakshmibalaMoviepark4K3DDolby712Padi,Tamil,18:45,FirstClass,110₹,189,0
+TamilNadu,Chennai,RohiniSilverScreensKoyambedu,Tamil,19:00,GoldStar,160₹,120,28
+TamilNadu,Coimbatore,KgCinemasCoimbatore,Tamil,19:15,Premium,190₹,95,2
+TamilNadu,Coimbatore,KgCinemasCoimbatore,Tamil,19:15,Comfort,148₹,53,2
