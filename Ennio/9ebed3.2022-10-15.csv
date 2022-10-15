@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,NationalCapitalRegionNcr,PvrEcxChanakyapuriDelhi,Italian,21:30,Classic,1₹,80,80
+UttarPradesh,NationalCapitalRegionNcr,PvrEcxChanakyapuriDelhi,Italian,21:30,Prime,1₹,150,148
+UttarPradesh,NationalCapitalRegionNcr,PvrEcxChanakyapuriDelhi,Italian,21:30,PrimePlus,1₹,41,41
