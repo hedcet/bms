@@ -1,0 +1,8 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,NationalCapitalRegionNcr,PvrSelectCityWalkGoldDelhi,English,14:15,Platinum,900₹,24,24
+UttarPradesh,NationalCapitalRegionNcr,PvrSelectCityWalkGoldDelhi,English,14:15,PlatinumSuperior,"1,000₹",16,16
+AndhraPradesh,Hyderabad,PvrNextGalleriaMallPanjagutta,English,14:30,Classic,150₹,54,40
+UttarPradesh,NationalCapitalRegionNcr,PvrVegasDwarka,English,16:35,Classic,230₹,36,27
+UttarPradesh,NationalCapitalRegionNcr,PvrVegasDwarka,English,16:35,Prime,275₹,21,3
+UttarPradesh,NationalCapitalRegionNcr,PvrVegasDwarka,English,16:35,Recliner,275₹,8,2
+UttarPradesh,NationalCapitalRegionNcr,PvrLogixNoida,English,20:55,Classic,340₹,49,9
