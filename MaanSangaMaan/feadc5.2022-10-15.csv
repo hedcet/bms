@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Siliguri,InoxVegaCircleMallSiliguri,Nepali,12:30,Gold,350₹,31,7
+WestBengal,Siliguri,InoxVegaCircleMallSiliguri,Nepali,12:30,Royal,280₹,126,18
+WestBengal,Siliguri,InoxVegaCircleMallSiliguri,Nepali,12:30,Club,250₹,28,0
+WestBengal,Siliguri,InoxVegaCircleMallSiliguri,Nepali,12:30,Executive,250₹,28,0
+WestBengal,Darjeeling,InoxRinkMall,Nepali,13:45,Executive,170₹,16,14
+WestBengal,Darjeeling,InoxRinkMall,Nepali,13:45,Economy,150₹,82,29
+WestBengal,Darjeeling,InoxRinkMall,Nepali,16:00,Executive,160₹,22,16
+WestBengal,Darjeeling,InoxRinkMall,Nepali,16:00,Economy,140₹,82,14
+WestBengal,Siliguri,InoxCityCentreSiliguri,Nepali,16:45,Royale,350₹,15,7
+WestBengal,Siliguri,InoxCityCentreSiliguri,Nepali,16:45,Club,280₹,192,27
+WestBengal,Siliguri,InoxCityCentreSiliguri,Nepali,16:45,Executive,250₹,32,0
+WestBengal,Kalimpong,DreamTheatreCineplexKalimpong,Nepali,17:00,Platinum,200₹,42,0
