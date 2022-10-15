@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Arambagh,KarunaCinemaArambagh,Bengali,11:00,LowerStall,35₹,48,0
+WestBengal,Arambagh,KarunaCinemaArambagh,Bengali,11:00,Balcony,40₹,180,0
+WestBengal,DakshinBarasat,MahamayaTalkiesDakshinBarasat,Bengali,11:00,GoldClass,100₹,68,15
+WestBengal,DakshinBarasat,MahamayaTalkiesDakshinBarasat,Bengali,11:00,SilverClass,70₹,160,2
+WestBengal,DakshinBarasat,MahamayaTalkiesDakshinBarasat,Bengali,14:00,GoldClass,100₹,68,7
+WestBengal,DakshinBarasat,MahamayaTalkiesDakshinBarasat,Bengali,14:00,SilverClass,70₹,160,0
+WestBengal,Arambagh,KarunaCinemaArambagh,Bengali,16:00,LowerStall,35₹,48,0
+WestBengal,Arambagh,KarunaCinemaArambagh,Bengali,16:00,Balcony,40₹,180,0
+WestBengal,DakshinBarasat,MahamayaTalkiesDakshinBarasat,Bengali,16:30,GoldClass,100₹,68,4
+WestBengal,DakshinBarasat,MahamayaTalkiesDakshinBarasat,Bengali,16:30,SilverClass,70₹,160,12
+WestBengal,DakshinBarasat,MahamayaTalkiesDakshinBarasat,Bengali,19:00,GoldClass,100₹,68,2
+WestBengal,DakshinBarasat,MahamayaTalkiesDakshinBarasat,Bengali,19:00,SilverClass,70₹,160,0
