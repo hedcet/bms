@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Madurai,SakthiCinemasMadurai,Tamil,10:45,FirstClass,80₹,198,43
+TamilNadu,Madurai,SakthiCinemasMadurai,Tamil,14:30,FirstClass,80₹,198,39
+TamilNadu,Madurai,SakthiCinemasMadurai,Tamil,18:30,FirstClass,80₹,198,60
+TamilNadu,Madurai,SakthiCinemasMadurai,Tamil,22:30,FirstClass,80₹,198,37
