@@ -1,0 +1,16 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Orissa,Rayagada,PsrCinemaRayagada,Odia,09:00,Diamond,150₹,20,0
+Orissa,Rayagada,PsrCinemaRayagada,Odia,09:00,Gold,120₹,136,0
+Orissa,Rayagada,PsrCinemaRayagada,Odia,09:00,Silver,100₹,34,0
+Orissa,JajpurRoad,SaraswatiMultiplexJajpurRoad,Odia,09:30,VipNew,150₹,40,0
+Orissa,JajpurRoad,SaraswatiMultiplexJajpurRoad,Odia,09:30,Diamond,120₹,23,0
+Orissa,BerhampurOdisha,GautamCinemaACDolbyDigital2KBerhampur,Odia,09:30,BalconyClass,100₹,180,0
+Orissa,BerhampurOdisha,GautamCinemaACDolbyDigital2KBerhampur,Odia,09:30,ExecutiveClass,150₹,36,0
+Orissa,BerhampurOdisha,GautamCinemaACDolbyDigital2KBerhampur,Odia,09:30,RearStall,70₹,270,0
+Orissa,Bhubaneswar,SwatiCineplexDolbyAtmosBhubaneshwar,Odia,09:40,LuxuriousRecliner,149₹,32,1
+Orissa,Bhubaneswar,SwatiCineplexDolbyAtmosBhubaneshwar,Odia,09:40,SofaSlider,120₹,76,0
+Orissa,Bhubaneswar,SwatiCineplexDolbyAtmosBhubaneshwar,Odia,09:40,Diamond,100₹,192,51
+Orissa,Bhubaneswar,SwatiCineplexDolbyAtmosBhubaneshwar,Odia,09:40,Gold,80₹,75,0
+Orissa,Rourkela,CineplexxRourkela,Odia,10:00,Diamond,150₹,23,0
+Orissa,Rourkela,CineplexxRourkela,Odia,10:00,Gold,150₹,36,0
+Orissa,Rourkela,CineplexxRourkela,Odia,10:00,Silver,150₹,9,0
