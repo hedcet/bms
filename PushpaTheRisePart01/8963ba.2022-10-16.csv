@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Kadapa,SrCinemasKadapa,Telugu,11:30,FirstClass,120₹,340,16
+AndhraPradesh,Kadapa,SrCinemasKadapa,Telugu,11:30,SecondClass,100₹,214,0
+AndhraPradesh,Kadapa,SrCinemasKadapa,Telugu,14:30,FirstClass,120₹,340,17
+AndhraPradesh,Kadapa,SrCinemasKadapa,Telugu,14:30,SecondClass,100₹,214,2
+AndhraPradesh,Kadapa,SrCinemasKadapa,Telugu,18:30,FirstClass,120₹,340,1
+AndhraPradesh,Kadapa,SrCinemasKadapa,Telugu,18:30,SecondClass,100₹,214,4
+AndhraPradesh,Kadapa,SrCinemasKadapa,Telugu,21:30,FirstClass,120₹,340,5
+AndhraPradesh,Kadapa,SrCinemasKadapa,Telugu,21:30,SecondClass,100₹,214,2
