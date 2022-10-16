@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Kochi,MajesticTheatreNarakkal,Malayalam,15:15,Elite,120₹,143,10
+Kerala,Kochi,MajesticTheatreNarakkal,Malayalam,15:15,Premium,100₹,20,20
+Kerala,Kochi,MajesticTheatreNarakkal,Malayalam,15:15,Executive,170₹,12,12
