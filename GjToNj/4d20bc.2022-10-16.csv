@@ -1,0 +1,14 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Ahmedabad,RajhansCinemasVastral,Gujarati,10:45,Recliner,200₹,17,3
+Gujarat,Ahmedabad,RajhansCinemasVastral,Gujarati,10:45,Executive,110₹,103,2
+Gujarat,Ahmedabad,RajhansCinemasVastral,Gujarati,10:45,Royal,100₹,28,0
+Gujarat,Ahmedabad,RajhansCinemasVastral,Gujarati,10:45,Marvel,100₹,24,0
+Gujarat,Surendranagar,ShivMiniplexSurendranagar,Gujarati,19:00,Platinum,100₹,11,11
+Gujarat,Surendranagar,ShivMiniplexSurendranagar,Gujarati,19:00,Gold,100₹,25,25
+Gujarat,Surendranagar,ShivMiniplexSurendranagar,Gujarati,19:00,Silver,80₹,91,91
+Gujarat,Vadodara,RajhansCinemasVadodara,Gujarati,19:00,Platinum,130₹,190,18
+Gujarat,Vadodara,RajhansCinemasVadodara,Gujarati,19:00,Gold,130₹,66,0
+Gujarat,Vadodara,RajhansCinemasVadodara,Gujarati,19:00,Silver,110₹,44,0
+Gujarat,Jamnagar,MehulCinemaxJamnagar,Gujarati,19:15,Pl,350₹,4,0
+Gujarat,Jamnagar,MehulCinemaxJamnagar,Gujarati,19:15,Gl,160₹,149,0
+Gujarat,Jamnagar,MehulCinemaxJamnagar,Gujarati,19:15,Sl,160₹,120,0
