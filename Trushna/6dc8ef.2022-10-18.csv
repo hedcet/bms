@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Orissa,JajpurRoad,SaraswatiMultiplexJajpurRoad,Odia,09:30,VipNew,150₹,40,0
+Orissa,JajpurRoad,SaraswatiMultiplexJajpurRoad,Odia,09:30,Diamond,120₹,23,0
+Orissa,BerhampurOdisha,GautamCinemaACDolbyDigital2KBerhampur,Odia,09:30,BalconyClass,100₹,180,0
+Orissa,BerhampurOdisha,GautamCinemaACDolbyDigital2KBerhampur,Odia,09:30,ExecutiveClass,150₹,36,0
+Orissa,BerhampurOdisha,GautamCinemaACDolbyDigital2KBerhampur,Odia,09:30,RearStall,70₹,270,0
+Orissa,Bhubaneswar,SwatiCineplexxChristie4KDolbyAtmos,Odia,09:40,LuxuriousRecliner,149₹,32,1
+Orissa,Bhubaneswar,SwatiCineplexxChristie4KDolbyAtmos,Odia,09:40,SofaSlider,120₹,76,0
+Orissa,Bhubaneswar,SwatiCineplexxChristie4KDolbyAtmos,Odia,09:40,Diamond,100₹,192,5
+Orissa,Bhubaneswar,SwatiCineplexxChristie4KDolbyAtmos,Odia,09:40,Gold,80₹,75,0
