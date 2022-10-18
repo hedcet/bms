@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,KalaburagiGulbarga,MirajCinemasGulbarga,Kannada,09:30,Special,130₹,80,0
+Karnataka,KalaburagiGulbarga,MirajCinemasGulbarga,Kannada,09:30,Executive,150₹,192,0
+Karnataka,KalaburagiGulbarga,MirajCinemasGulbarga,Kannada,09:30,Gold,300₹,10,1
+Karnataka,Bengaluru,KamakyaCinemaBanashankari,Kannada,10:45,Balcony,110₹,338,0
+Karnataka,Bengaluru,KamakyaCinemaBanashankari,Kannada,10:45,Stall,100₹,333,1
+Karnataka,KalaburagiGulbarga,ShettysMultiplexGulbarga,Kannada,13:30,Platinum,120₹,119,0
+Karnataka,KalaburagiGulbarga,ShettysMultiplexGulbarga,Kannada,13:30,Gold,100₹,119,0
+Karnataka,KalaburagiGulbarga,ShettysMultiplexGulbarga,Kannada,13:30,Silver,80₹,119,0
+Karnataka,MangaluruMangalore,PvrForumFizaMallPandeshwar,Kannada,13:40,Classic,150₹,79,8
+Karnataka,Bengaluru,InoxMantriSquareMalleshwaram,Kannada,16:25,Club,200₹,225,18
+Karnataka,Bengaluru,GopalanCinemasArcadeMallMysoreRoad,Kannada,16:45,Gold,230₹,292,0
+Karnataka,Bengaluru,GopalanCinemasArcadeMallMysoreRoad,Kannada,16:45,Recliner,330₹,19,0
+Karnataka,Bengaluru,PvrTheCinemaGtWorldBengaluru,Kannada,19:40,Classic,170₹,179,108
+Karnataka,Bengaluru,PvrTheCinemaGtWorldBengaluru,Kannada,19:40,Recliner,280₹,16,2
