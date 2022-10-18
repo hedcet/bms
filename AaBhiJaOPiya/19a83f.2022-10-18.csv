@@ -1,0 +1,16 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+MadhyaPradesh,Bhopal,KSeraSeraMiniplexBhopal,Hindi,09:20,Gold,99₹,20,0
+MadhyaPradesh,Bhopal,KSeraSeraMiniplexBhopal,Hindi,09:20,Pr,99₹,13,0
+MadhyaPradesh,Bhopal,KSeraSeraMiniplexBhopal,Hindi,09:20,Silver,99₹,65,0
+Chhattisgarh,Raipur,PvrCityCenterRaipur,Hindi,13:45,Classic,80₹,26,0
+Chhattisgarh,Raipur,PvrCityCenterRaipur,Hindi,13:45,Prime,90₹,145,0
+Uttaranchal,Ramnagar,KSeraSeraMiniplexRamnagar,Hindi,14:30,Gold,150₹,62,0
+Uttaranchal,Ramnagar,KSeraSeraMiniplexRamnagar,Hindi,14:30,Silver,112₹,12,0
+Jharkhand,Ranchi,PvrNucleusMallRanchi,Hindi,17:10,Classic,112₹,30,0
+Jharkhand,Ranchi,PvrNucleusMallRanchi,Hindi,17:10,ClassicPlus,112₹,123,18
+Jharkhand,Ranchi,PvrNucleusMallRanchi,Hindi,17:10,Prime,112₹,54,4
+Jharkhand,Ranchi,PvrNucleusMallRanchi,Hindi,17:10,Recliner,150₹,10,0
+MadhyaPradesh,Indore,PvrTreasureIslandMallIndore,Hindi,18:50,Classic,112₹,38,0
+MadhyaPradesh,Indore,PvrTreasureIslandMallIndore,Hindi,18:50,Prime,112₹,110,5
+Jharkhand,Bokaro,PvrBokaro,Hindi,19:40,Classic,112₹,84,0
+Jharkhand,Bokaro,PvrBokaro,Hindi,19:40,Prime,112₹,109,15
