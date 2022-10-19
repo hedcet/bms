@@ -2,16 +2,16 @@
 
 #### twitter bookmyshow handles
 
-- [@bookMyShowML](https://twitter.com/bookMyshowML) (Malayalam Movies)
-- [@bookMyShowTA](https://twitter.com/bookMyshowTA) (Tamil Movies)
-- [@bookMyShowTE](https://twitter.com/bookMyshowTE) (Telugu Movies)
+- [@bms_ml](https://twitter.com/bms_ml) (Malayalam Movies)
+- [@bms_ta](https://twitter.com/bms_ta) (Tamil Movies)
+- [@bms_te](https://twitter.com/bms_te) (Telugu Movies)
 
 #### twitter paytm-movies handles
 
-- [@paytmML](https://twitter.com/paytmML) (Malayalam Movies)
-- [@paytmTA](https://twitter.com/paytmTA) (Tamil Movies)
-- [@paytmTE](https://twitter.com/paytmTE) (Telugu Movies)
+- [@paytm_ml](https://twitter.com/paytm_ml) (Malayalam Movies)
+- [@paytm_ta](https://twitter.com/paytm_ta) (Tamil Movies)
+- [@paytm_te](https://twitter.com/paytm_te) (Telugu Movies)
 
 #### twitter vox-cinemas handles
 
-- [@voxCinemasML](https://twitter.com/voxCinemasML) (Malayalam Movies)
+- [@vox_ml](https://twitter.com/vox_ml) (Malayalam Movies)
