@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Kolkata,NandanKolkata,Bengali,13:00,Normal,30₹,165,75
+WestBengal,Balurghat,SatyajitManchaBalurghat,Bengali,15:30,Balcony,100₹,40,2
+WestBengal,Balurghat,SatyajitManchaBalurghat,Bengali,15:30,RearStall,60₹,655,0
+WestBengal,Balurghat,SatyajitManchaBalurghat,Bengali,18:30,Balcony,100₹,40,4
+WestBengal,Balurghat,SatyajitManchaBalurghat,Bengali,18:30,RearStall,60₹,655,0
