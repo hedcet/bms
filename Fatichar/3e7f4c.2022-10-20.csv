@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Sikkim,Melli,DazomCinemaMelli,Nepali,11:00,Executive,250₹,64,0
+Sikkim,Melli,DazomCinemaMelli,Nepali,11:00,Rear,200₹,64,0
+Sikkim,Melli,DazomCinemaMelli,Nepali,11:00,Front,150₹,22,0
+Sikkim,Namchi,ImperialTalkiesNamchi,Nepali,11:30,Platinum,250₹,106,0
+Sikkim,Namchi,ImperialTalkiesNamchi,Nepali,11:30,Gold,200₹,90,0
+WestBengal,Kalimpong,DreamTheatreCineplexKalimpong,Nepali,11:30,Platinum,200₹,42,0
+WestBengal,Kalimpong,DreamTheatreCineplexKalimpong,Nepali,14:00,Platinum,200₹,42,1
+WestBengal,Kalimpong,DreamTheatreCineplexKalimpong,Nepali,19:30,Platinum,200₹,42,0
