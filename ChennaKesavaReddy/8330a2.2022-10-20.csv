@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Gudlavalleru,RamaKrishnaTheaterGudlavalleru,Telugu,11:30,Box,100₹,79,0
+AndhraPradesh,Gudlavalleru,RamaKrishnaTheaterGudlavalleru,Telugu,14:30,Box,100₹,79,2
+AndhraPradesh,Gudlavalleru,RamaKrishnaTheaterGudlavalleru,Telugu,18:30,Box,100₹,79,0
+AndhraPradesh,Gudlavalleru,RamaKrishnaTheaterGudlavalleru,Telugu,21:30,Box,100₹,79,0
