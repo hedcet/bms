@@ -1,0 +1,14 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Punjab,Moga,NeelamNovaCinemazMoga,Punjabi,10:00,Gold,100₹,122,0
+Punjab,Moga,NeelamNovaCinemazMoga,Punjabi,12:20,Gold,110₹,122,0
+Punjab,Moga,NeelamNovaCinemazMoga,Punjabi,14:40,Gold,110₹,122,0
+Punjab,Kotkapura,FunPlazaKotkapura,Punjabi,15:00,Platinum,300₹,16,16
+Punjab,Kotkapura,FunPlazaKotkapura,Punjabi,15:00,Royal,220₹,21,21
+Punjab,Kotkapura,FunPlazaKotkapura,Punjabi,15:00,Executive,100₹,168,168
+Punjab,TalwandiBhai,FunCineplexTalwandiBhai,Punjabi,15:00,Royal,80₹,91,13
+Punjab,TalwandiBhai,FunCineplexTalwandiBhai,Punjabi,15:00,Gold,200₹,8,0
+Punjab,Hoshiarpur,AgStarCinemaSailaKhurdHoshiarpur,Punjabi,19:00,VipBox,250₹,8,0
+Punjab,Hoshiarpur,AgStarCinemaSailaKhurdHoshiarpur,Punjabi,19:00,Platinum,200₹,10,0
+Punjab,Hoshiarpur,AgStarCinemaSailaKhurdHoshiarpur,Punjabi,19:00,Diamond,170₹,42,0
+Punjab,Hoshiarpur,AgStarCinemaSailaKhurdHoshiarpur,Punjabi,19:00,Golden,150₹,27,0
+Punjab,Hoshiarpur,AgStarCinemaSailaKhurdHoshiarpur,Punjabi,19:00,Silver,120₹,30,0
