@@ -1,0 +1,16 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Punjab,Barnala,VrcCinemaBarnala,Punjabi,10:00,Platinum,250₹,14,0
+Punjab,Barnala,VrcCinemaBarnala,Punjabi,10:00,Gold,100₹,123,23
+Punjab,Barnala,VrcCinemaBarnala,Punjabi,10:00,Silver,100₹,70,0
+Punjab,Hoshiarpur,ShirazNovaCinemazHoshiarpur,Punjabi,10:15,Diamond,100₹,33,7
+Punjab,Hoshiarpur,ShirazNovaCinemazHoshiarpur,Punjabi,10:15,Gold,100₹,44,0
+Punjab,Hoshiarpur,ShirazNovaCinemazHoshiarpur,Punjabi,10:15,Silver,100₹,22,0
+Punjab,Hoshiarpur,ShirazNovaCinemazHoshiarpur,Punjabi,12:30,Diamond,150₹,33,0
+Punjab,Hoshiarpur,ShirazNovaCinemazHoshiarpur,Punjabi,12:30,Gold,130₹,44,0
+Punjab,Hoshiarpur,ShirazNovaCinemazHoshiarpur,Punjabi,12:30,Silver,130₹,22,0
+Punjab,Nawanshahr,SutlejPalacePictureNawanshahr,Punjabi,15:00,Gold,200₹,43,0
+Punjab,Nawanshahr,SutlejPalacePictureNawanshahr,Punjabi,15:00,Silver,170₹,114,0
+Punjab,Nawanshahr,SutlejPalacePictureNawanshahr,Punjabi,15:00,Seasonal,110₹,16,0
+Punjab,Hoshiarpur,ShirazNovaCinemazHoshiarpur,Punjabi,19:15,Diamond,150₹,33,0
+Punjab,Hoshiarpur,ShirazNovaCinemazHoshiarpur,Punjabi,19:15,Gold,130₹,44,0
+Punjab,Hoshiarpur,ShirazNovaCinemazHoshiarpur,Punjabi,19:15,Silver,130₹,22,0
