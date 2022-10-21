@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Kolkata,LaliCinemaBarasat,Bengali,14:00,DressCircle,110₹,6,0
+WestBengal,Kolkata,LaliCinemaBarasat,Bengali,14:00,Balcony,70₹,27,0
+WestBengal,Kolkata,LaliCinemaBarasat,Bengali,14:00,DiamondAc,150₹,14,0
+WestBengal,Kolkata,LaliCinemaBarasat,Bengali,14:00,RearStall,50₹,54,0
+WestBengal,AshoknagarWestBengal,NatarajCinemaAshoknagar,Bengali,16:15,FirstClass,30₹,50,0
+WestBengal,Kolkata,PvrDiamondPlazaJessoreKolkata,Bengali,17:20,Classic,230₹,100,17
+WestBengal,Kolkata,PvrDiamondPlazaJessoreKolkata,Bengali,17:20,Prime,230₹,11,0
+WestBengal,Kolkata,PvrDiamondPlazaJessoreKolkata,Bengali,17:20,Recliner,450₹,12,3
