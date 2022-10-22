@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,Agra,ShantiCinemaAgra,Hindi,12:15,Balcony,60₹,214,2
+UttarPradesh,Agra,ShantiCinemaAgra,Hindi,12:15,DressCircle,40₹,612,0
+UttarPradesh,Agra,ShantiCinemaAgra,Hindi,15:15,Balcony,60₹,214,0
+UttarPradesh,Agra,ShantiCinemaAgra,Hindi,15:15,DressCircle,40₹,612,0
+UttarPradesh,Agra,ShantiCinemaAgra,Hindi,18:15,Balcony,60₹,214,0
+UttarPradesh,Agra,ShantiCinemaAgra,Hindi,18:15,DressCircle,40₹,612,0
+UttarPradesh,Agra,ShantiCinemaAgra,Hindi,21:15,Balcony,60₹,214,0
+UttarPradesh,Agra,ShantiCinemaAgra,Hindi,21:15,DressCircle,40₹,612,0
