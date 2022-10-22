@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,NationalCapitalRegionNcr,PvrVegasDwarka,English,11:45,Classic,200₹,108,0
+UttarPradesh,NationalCapitalRegionNcr,PvrVegasDwarka,English,11:45,Prime,250₹,88,14
+Maharashtra,Mumbai,InoxMegaplexInorbitMallMalad,English,11:55,Insignia,300₹,34,4
+UttarPradesh,NationalCapitalRegionNcr,PvrVegasDwarka,English,12:20,Classic,250₹,108,2
+UttarPradesh,NationalCapitalRegionNcr,PvrVegasDwarka,English,12:20,Prime,300₹,74,2
