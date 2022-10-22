@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Kochi,PadmaCinemaKochi,Malayalam,12:30,Platinum,150₹,178,0
+Kerala,Trivandrum,CarnivalArtechCentralMallTrivandrum,Malayalam,13:00,SilverOffline,180₹,147,20
+Kerala,Trivandrum,CarnivalArtechCentralMallTrivandrum,Malayalam,13:00,ExecutiveOffline,100₹,26,0
+Kerala,Kochi,PadmaCinemaKochi,Malayalam,18:45,Platinum,150₹,178,37
