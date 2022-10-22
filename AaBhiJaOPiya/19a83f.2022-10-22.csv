@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,Gorakhpur,UnitedTalkiesGorakhpur,Hindi,18:30,Platinum,100₹,154,50
+UttarPradesh,Gorakhpur,UnitedTalkiesGorakhpur,Hindi,18:30,Diamond,80₹,215,0
+UttarPradesh,Gorakhpur,UnitedTalkiesGorakhpur,Hindi,18:30,Gold,60₹,144,1
+UttarPradesh,Gorakhpur,UnitedTalkiesGorakhpur,Hindi,18:30,Silver,50₹,96,3
