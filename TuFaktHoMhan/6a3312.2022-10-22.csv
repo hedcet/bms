@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Maharashtra,Akola,MirajCinemasRadhaKrishnaAkola,Marathi,14:15,Silver,140₹,85,3
+Maharashtra,Akola,MirajCinemasRadhaKrishnaAkola,Marathi,14:15,Gold,160₹,116,17
+Maharashtra,Akola,MirajCinemasRadhaKrishnaAkola,Marathi,14:15,Platinum,250₹,12,5
