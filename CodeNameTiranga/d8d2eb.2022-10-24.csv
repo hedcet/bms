@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,NationalCapitalRegionNcr,PvrLogixNoida,Hindi,10:00,Classic,285₹,89,1
+UttarPradesh,NationalCapitalRegionNcr,PvrPacificDwarka,Hindi,12:00,Classic,180₹,33,0
+UttarPradesh,NationalCapitalRegionNcr,PvrPacificDwarka,Hindi,12:00,Prime,200₹,18,4
+Haryana,Chandigarh,PvrElanteChandigarh,Hindi,12:55,Classic,180₹,153,6
+Haryana,Chandigarh,PvrElanteChandigarh,Hindi,12:55,Recliner,550₹,13,0
+Orissa,Keonjhar,KnoxCinemaKeonjhar,Hindi,14:30,Elite,150₹,85,0
+Orissa,Keonjhar,KnoxCinemaKeonjhar,Hindi,14:30,Superior,130₹,108,0
+Orissa,Keonjhar,KnoxCinemaKeonjhar,Hindi,14:30,Standard,130₹,36,0
+Haryana,Chandigarh,PvrVrPunjabMallMohali,Hindi,16:15,Classic,300₹,84,4
+Haryana,Chandigarh,PvrVrPunjabMallMohali,Hindi,16:15,Prime,330₹,38,0
