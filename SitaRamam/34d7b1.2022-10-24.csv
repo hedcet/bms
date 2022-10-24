@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,NationalCapitalRegionNcr,PvrLogixNoida,Hindi,10:00,Classic,285₹,87,0
+UttarPradesh,NationalCapitalRegionNcr,PvrVegasDwarka,Hindi,10:15,Classic,200₹,112,0
+UttarPradesh,NationalCapitalRegionNcr,PvrVegasDwarka,Hindi,10:15,Prime,250₹,52,2
+Maharashtra,Pune,PvrKumarPacificPune,Hindi,13:15,Classic,170₹,26,0
+Maharashtra,Pune,PvrKumarPacificPune,Hindi,13:15,Prime,170₹,180,41
+Maharashtra,Pune,PvrKumarPacificPune,Hindi,13:15,Recliner,350₹,14,2
+Maharashtra,Nagpur,CinepolisVrMallNagpur,Hindi,13:20,Normal,160₹,34,2
+Maharashtra,Nagpur,CinepolisVrMallNagpur,Hindi,13:20,Executive,180₹,68,0
+Maharashtra,Nagpur,CinepolisVrMallNagpur,Hindi,13:20,Premium,200₹,60,27
+Maharashtra,Nagpur,CinepolisVrMallNagpur,Hindi,13:20,Vip,400₹,11,2
+WestBengal,AurangabadWestBengal,ShyamalTalkiesAurangabadWB,Hindi,14:00,Balcony,50₹,10,0
+WestBengal,AurangabadWestBengal,ShyamalTalkiesAurangabadWB,Hindi,14:00,RearStall,30₹,10,0
+WestBengal,AurangabadWestBengal,ShyamalTalkiesAurangabadWB,Hindi,17:00,Balcony,50₹,10,0
+WestBengal,AurangabadWestBengal,ShyamalTalkiesAurangabadWB,Hindi,17:00,RearStall,30₹,10,0
+WestBengal,AurangabadWestBengal,ShyamalTalkiesAurangabadWB,Hindi,20:00,Balcony,50₹,10,0
+WestBengal,AurangabadWestBengal,ShyamalTalkiesAurangabadWB,Hindi,20:00,RearStall,30₹,10,0
