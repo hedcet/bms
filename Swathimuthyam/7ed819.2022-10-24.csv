@@ -1,0 +1,14 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Vijayawada,SwarnaMultiplexVijayawada,Telugu,11:30,Premium,110₹,242,25
+AndhraPradesh,Vijayawada,SwarnaMultiplexVijayawada,Telugu,11:30,Economy,78₹,80,17
+AndhraPradesh,VizagVisakhapatnam,MohiniCinemasDolbyAtmosGajuwaka,Telugu,14:30,Premium,145₹,222,4
+AndhraPradesh,VizagVisakhapatnam,MohiniCinemasDolbyAtmosGajuwaka,Telugu,14:30,NonPremium,100₹,75,2
+AndhraPradesh,Vijayawada,SwarnaMultiplexVijayawada,Telugu,14:45,Premium,110₹,242,74
+AndhraPradesh,Vijayawada,SwarnaMultiplexVijayawada,Telugu,14:45,Economy,78₹,80,23
+AndhraPradesh,Kakinada,InoxSrmtMallKakinada,Telugu,17:10,Executive,112₹,146,20
+AndhraPradesh,Vijayawada,SwarnaMultiplexVijayawada,Telugu,18:30,Premium,110₹,242,27
+AndhraPradesh,Vijayawada,SwarnaMultiplexVijayawada,Telugu,18:30,Economy,78₹,80,23
+AndhraPradesh,VizagVisakhapatnam,MohiniCinemasDolbyAtmosGajuwaka,Telugu,21:30,Premium,145₹,222,11
+AndhraPradesh,VizagVisakhapatnam,MohiniCinemasDolbyAtmosGajuwaka,Telugu,21:30,NonPremium,100₹,75,3
+AndhraPradesh,Vijayawada,SwarnaMultiplexVijayawada,Telugu,22:00,Premium,110₹,242,24
+AndhraPradesh,Vijayawada,SwarnaMultiplexVijayawada,Telugu,22:00,Economy,78₹,80,17
