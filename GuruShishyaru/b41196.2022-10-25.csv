@@ -1,0 +1,14 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Davanagere,TrishulTheatreDvg4KDolbyAtmosDavanagere,Kannada,11:00,Balcony,150₹,252,4
+Karnataka,Davanagere,TrishulTheatreDvg4KDolbyAtmosDavanagere,Kannada,11:00,SecondClass,100₹,618,0
+Karnataka,Davanagere,TrishulTheatreDvg4KDolbyAtmosDavanagere,Kannada,14:00,Balcony,150₹,252,3
+Karnataka,Davanagere,TrishulTheatreDvg4KDolbyAtmosDavanagere,Kannada,14:00,SecondClass,100₹,618,3
+Karnataka,Dharwad,PadmaTalkiesDharwad,Kannada,15:00,Balcony,150₹,70,0
+Karnataka,Dharwad,PadmaTalkiesDharwad,Kannada,15:00,DressCircle,100₹,90,0
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,15:10,Classic,170₹,128,86
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,15:10,Prime,190₹,100,93
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,15:10,Recliner,350₹,17,9
+Karnataka,Dharwad,PadmaTalkiesDharwad,Kannada,18:00,Balcony,150₹,70,0
+Karnataka,Dharwad,PadmaTalkiesDharwad,Kannada,18:00,DressCircle,100₹,90,0
+Karnataka,Dharwad,PadmaTalkiesDharwad,Kannada,21:00,Balcony,150₹,70,0
+Karnataka,Dharwad,PadmaTalkiesDharwad,Kannada,21:00,DressCircle,100₹,90,0
