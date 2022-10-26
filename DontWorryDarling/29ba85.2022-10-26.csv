@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,NationalCapitalRegionNcr,PvrPromenadeVasantKunj,English,15:10,Classic,480₹,50,0
+UttarPradesh,NationalCapitalRegionNcr,PvrPromenadeVasantKunj,English,15:10,Prime,500₹,44,16
+UttarPradesh,NationalCapitalRegionNcr,PvrAmbienceGoldGurgaon,English,17:05,Platinum,"1,000₹",28,2
+UttarPradesh,NationalCapitalRegionNcr,PvrAmbienceGoldGurgaon,English,17:05,PlatinumSuperior,"1,200₹",16,1
+UttarPradesh,NationalCapitalRegionNcr,PvrLogixNoida,English,23:20,Classic,345₹,89,2
