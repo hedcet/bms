@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Palanpur,CitylightCoconutCinemaPalanpur,Hindi,12:30,Golden,70₹,238,22
+Gujarat,Palanpur,CitylightCoconutCinemaPalanpur,Hindi,15:30,Golden,70₹,238,31
+Gujarat,Palanpur,CitylightCoconutCinemaPalanpur,Hindi,18:30,Golden,70₹,238,10
+Gujarat,Palanpur,CitylightCoconutCinemaPalanpur,Hindi,21:30,Golden,70₹,238,0
