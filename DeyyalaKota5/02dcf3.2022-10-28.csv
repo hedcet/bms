@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,BKothakota,SriVenkateswaraTheaterDolbyDigital,Telugu,11:00,Balcony,70₹,100,0
+AndhraPradesh,Jaggampeta,JvrCinemasJaggampeta,Telugu,14:00,FirstClass,100₹,142,0
+AndhraPradesh,Jaggampeta,JvrCinemasJaggampeta,Telugu,14:00,SecondClass,100₹,58,0
+AndhraPradesh,BKothakota,SriVenkateswaraTheaterDolbyDigital,Telugu,14:30,Balcony,70₹,100,0
+AndhraPradesh,Jaggampeta,JvrCinemasJaggampeta,Telugu,18:00,FirstClass,100₹,142,1
+AndhraPradesh,Jaggampeta,JvrCinemasJaggampeta,Telugu,18:00,SecondClass,100₹,58,0
+AndhraPradesh,BKothakota,SriVenkateswaraTheaterDolbyDigital,Telugu,18:30,Balcony,70₹,100,0
+AndhraPradesh,BKothakota,SriVenkateswaraTheaterDolbyDigital,Telugu,21:00,Balcony,70₹,100,0
+AndhraPradesh,Jaggampeta,JvrCinemasJaggampeta,Telugu,21:00,FirstClass,100₹,142,1
+AndhraPradesh,Jaggampeta,JvrCinemasJaggampeta,Telugu,21:00,SecondClass,100₹,58,0
