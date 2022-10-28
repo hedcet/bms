@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,NationalCapitalRegionNcr,PvrAmbienceGoldGurgaon,English,11:00,Platinum,400₹,28,2
+UttarPradesh,NationalCapitalRegionNcr,PvrAmbienceGoldGurgaon,English,11:00,PlatinumSuperior,400₹,16,2
+UttarPradesh,NationalCapitalRegionNcr,PvrPromenadeVasantKunj,English,14:45,Classic,430₹,50,1
+UttarPradesh,NationalCapitalRegionNcr,PvrPromenadeVasantKunj,English,14:45,Prime,450₹,44,15
