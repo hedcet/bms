@@ -1,0 +1,8 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Kochi,Pvr4DxLuluKochi,English,19:10,Classic,400₹,116,116
+UttarPradesh,NationalCapitalRegionNcr,PvrLogix4DxNoida,English,21:20,Classic,500₹,92,10
+UttarPradesh,NationalCapitalRegionNcr,PvrMgf4DxGurgaon,English,21:50,Classic,450₹,96,6
+Karnataka,Bengaluru,Pvr4DxOrionMallDrRajkumarRoad,English,22:30,Classic,430₹,96,12
+Maharashtra,Mumbai,PvrMarketCityKurla4Dx,English,23:00,4DxClassic,500₹,60,0
+Maharashtra,Mumbai,PvrMarketCityKurla4Dx,English,23:00,4DxPrime,550₹,84,24
+Telangana,Hyderabad,Pvr4DxForumSujanaMallKukatpallyHyderabad,English,23:00,4DxClassic,350₹,108,31
