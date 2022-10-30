@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,NationalCapitalRegionNcr,PvrVegas4DxDwarka,English,21:20,Classic,300₹,84,0
+UttarPradesh,NationalCapitalRegionNcr,PvrVegas4DxDwarka,English,21:20,Prime,300₹,24,2
+Karnataka,Bengaluru,Pvr4DxPhoenixMarketcityMallWhitefieldRoad,English,22:30,Classic,380₹,100,9
+Maharashtra,Pune,PvrPhoenixMarketCityPune4Dx,English,23:05,4DxClassic,550₹,48,48
+Maharashtra,Pune,PvrPhoenixMarketCityPune4Dx,English,23:05,4DxPrime,600₹,72,72
