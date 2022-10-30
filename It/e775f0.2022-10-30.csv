@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,Pvr4DxNexusFormerlyForumKoramangala,English,21:30,4DxClassic,400₹,96,2
+Haryana,Chandigarh,Pvr4DxElanteChandigarh,English,21:50,Classic,450₹,108,16
+MadhyaPradesh,Indore,PvrTreasureIslandMall4DxIndore,English,21:50,4DxClassic,250₹,48,0
+MadhyaPradesh,Indore,PvrTreasureIslandMall4DxIndore,English,21:50,4DxPrime,250₹,60,22
+Karnataka,Bengaluru,Pvr4DxVegaCityBannerghattaRoadBengaluru,English,22:00,Classic,380₹,116,4
+Telangana,Hyderabad,Pvr4DxIrrumManzilHyderabad,English,22:20,4Dx,350₹,96,16
+UttarPradesh,NationalCapitalRegionNcr,PvrPacificSubhashNagar4DxDelhi,English,22:20,Classic,500₹,36,0
+UttarPradesh,NationalCapitalRegionNcr,PvrPacificSubhashNagar4DxDelhi,English,22:20,Prime,520₹,72,0
+Maharashtra,Mumbai,PvrInfinitiMalad4DxMumbai,English,23:05,4DxClassic,280₹,24,0
+Maharashtra,Mumbai,PvrInfinitiMalad4DxMumbai,English,23:05,4DxPrime,300₹,52,6
+Gujarat,Ahmedabad,PvrAcropolis4DxAhmedabad,English,23:05,4DxClassic,249₹,36,0
+Gujarat,Ahmedabad,PvrAcropolis4DxAhmedabad,English,23:05,4DxPrime,249₹,84,11
