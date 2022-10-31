@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Surat,TimeCinemaGalaxyCirclePalSurat,Hindi,10:15,Standard,160₹,48,2
+UttarPradesh,NationalCapitalRegionNcr,PvrVegasDwarka,Hindi,12:15,Classic,250₹,108,6
+UttarPradesh,NationalCapitalRegionNcr,PvrVegasDwarka,Hindi,12:15,Prime,295₹,88,6
+WestBengal,Chanchal,PuspaCinemaHallChanchal,Hindi,13:00,PuspaCircle,100₹,5,0
+WestBengal,Chanchal,PuspaCinemaHallChanchal,Hindi,13:00,FirstClass,50₹,10,0
+Gujarat,Surat,InoxDrWorldSurat,Hindi,14:25,Executive,230₹,105,44
+WestBengal,Kolkata,InoxForumMallElginRoad,Hindi,15:20,DressCircle,210₹,108,8
+WestBengal,Kolkata,InoxForumMallElginRoad,Hindi,15:20,Galleria,210₹,36,0
+WestBengal,Kolkata,InoxForumMallElginRoad,Hindi,15:20,Royal,210₹,44,23
+WestBengal,Chanchal,PuspaCinemaHallChanchal,Hindi,16:00,PuspaCircle,100₹,5,0
+WestBengal,Chanchal,PuspaCinemaHallChanchal,Hindi,16:00,FirstClass,50₹,10,0
+Gujarat,Surat,TimeCinemaGalaxyCirclePalSurat,Hindi,16:00,Standard,200₹,48,0
+Gujarat,Ahmedabad,TimeCinemaCgRoadAhmedabad,Hindi,16:30,Standard,310₹,60,4
+WestBengal,Chanchal,PuspaCinemaHallChanchal,Hindi,19:00,PuspaCircle,100₹,5,0
+WestBengal,Chanchal,PuspaCinemaHallChanchal,Hindi,19:00,FirstClass,50₹,10,0
+Gujarat,Surat,TimeCinemaGalaxyCirclePalSurat,Hindi,21:45,Standard,270₹,48,0
