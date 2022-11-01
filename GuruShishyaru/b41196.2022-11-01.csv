@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Davanagere,TrishulTheatreDvg4KDolbyAtmosDavanagere,Kannada,11:00,Balcony,150₹,252,31
+Karnataka,Davanagere,TrishulTheatreDvg4KDolbyAtmosDavanagere,Kannada,11:00,SecondClass,100₹,618,5
+Karnataka,Davanagere,TrishulTheatreDvg4KDolbyAtmosDavanagere,Kannada,14:00,Balcony,150₹,252,5
+Karnataka,Davanagere,TrishulTheatreDvg4KDolbyAtmosDavanagere,Kannada,14:00,SecondClass,100₹,618,0
+Karnataka,Davanagere,TrishulTheatreDvg4KDolbyAtmosDavanagere,Kannada,18:00,Balcony,150₹,252,9
+Karnataka,Davanagere,TrishulTheatreDvg4KDolbyAtmosDavanagere,Kannada,18:00,SecondClass,100₹,618,5
+Karnataka,Davanagere,TrishulTheatreDvg4KDolbyAtmosDavanagere,Kannada,21:00,Balcony,150₹,252,13
+Karnataka,Davanagere,TrishulTheatreDvg4KDolbyAtmosDavanagere,Kannada,21:00,SecondClass,100₹,618,0
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,22:15,Classic,180₹,108,7
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,22:15,Prime,220₹,108,9
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,22:15,Recliner,400₹,16,2
