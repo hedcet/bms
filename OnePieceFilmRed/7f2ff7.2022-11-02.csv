@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,PvrNexusFormerlyForumKoramangala,Japanese,10:05,Classic,180₹,103,8
+UttarPradesh,NationalCapitalRegionNcr,PvrVegasDwarka,Japanese,11:20,Classic,150₹,36,2
+UttarPradesh,NationalCapitalRegionNcr,PvrVegasDwarka,Japanese,11:20,Prime,150₹,21,7
+UttarPradesh,NationalCapitalRegionNcr,PvrVegasDwarka,Japanese,11:20,Recliner,250₹,8,0
+Maharashtra,Mumbai,PvrInfinitiMalad4DxMumbai,Japanese,12:00,4DxClassic,220₹,24,2
+Maharashtra,Mumbai,PvrInfinitiMalad4DxMumbai,Japanese,12:00,4DxPrime,240₹,52,11
+Maharashtra,Pune,PvrPhoenixMarketCityPune4Dx,Japanese,12:00,4DxClassic,250₹,48,0
+Maharashtra,Pune,PvrPhoenixMarketCityPune4Dx,Japanese,12:00,4DxPrime,250₹,72,16
+UttarPradesh,NationalCapitalRegionNcr,PvrLogixNoida,Japanese,12:00,Classic,250₹,49,3
+Maharashtra,Mumbai,InoxMegaplexInorbitMallMalad,Japanese,13:00,Kiddles,180₹,57,7
+UttarPradesh,NationalCapitalRegionNcr,PvrVegasDwarka,Japanese,16:25,Classic,150₹,36,2
+UttarPradesh,NationalCapitalRegionNcr,PvrVegasDwarka,Japanese,16:25,Prime,150₹,21,0
+UttarPradesh,NationalCapitalRegionNcr,PvrVegasDwarka,Japanese,16:25,Recliner,250₹,8,5
+UttarPradesh,NationalCapitalRegionNcr,PvrVegasDwarka,Japanese,21:10,Classic,150₹,36,2
+UttarPradesh,NationalCapitalRegionNcr,PvrVegasDwarka,Japanese,21:10,Prime,150₹,21,9
+UttarPradesh,NationalCapitalRegionNcr,PvrVegasDwarka,Japanese,21:10,Recliner,250₹,8,2
