@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Ahmedabad,AbMiniplexShivranjiniCrossRoadSatellite,Gujarati,10:20,Sofa,150₹,26,0
+Gujarat,Ahmedabad,AbMiniplexShivranjiniCrossRoadSatellite,Gujarati,10:20,PremiumSofa,150₹,15,0
+Gujarat,Ahmedabad,WideAngleAhmedabad,Gujarati,11:30,Silver,100₹,10,0
+Gujarat,Ahmedabad,WideAngleAhmedabad,Gujarati,11:30,Gold,100₹,10,0
+Gujarat,Nakhatrana,ShreeDhoramnathMultiplexNakhatrana,Gujarati,18:45,Gold,150₹,96,7
