@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Surat,TimeCinemaGalaxyCirclePalSurat,Gujarati,16:30,Infinity,400₹,12,0
+Gujarat,Vadodara,CinemarcNewVipRoad,Gujarati,19:50,Gold,130₹,37,10
+Gujarat,Vadodara,CinemarcNewVipRoad,Gujarati,19:50,Silver,120₹,158,23
+Gujarat,Vadodara,CinemarcNewVipRoad,Gujarati,19:50,Premium,120₹,46,0
+Gujarat,Vadodara,CinemarcNewVipRoad,Gujarati,19:50,Sofa,170₹,35,10
+Gujarat,Vadodara,CinemarcAkotaVadodara,Gujarati,20:00,Silver,120₹,87,49
+Gujarat,Vadodara,CinemarcAkotaVadodara,Gujarati,20:00,Premier,100₹,12,0
+Gujarat,Vadodara,CinemarcAkotaVadodara,Gujarati,20:00,Sofa,120₹,26,22
+Gujarat,Surat,TimeCinemaGalaxyCirclePalSurat,Gujarati,22:00,Infinity,450₹,12,0
