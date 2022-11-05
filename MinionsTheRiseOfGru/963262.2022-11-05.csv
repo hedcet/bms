@@ -1,0 +1,8 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,NationalCapitalRegionNcr,CinepolisAiriaMallSohnaRoadGurgaon,English,14:40,Normal,230₹,30,0
+UttarPradesh,NationalCapitalRegionNcr,CinepolisAiriaMallSohnaRoadGurgaon,English,14:40,DoubleSofa,270₹,24,21
+UttarPradesh,NationalCapitalRegionNcr,CinepolisAiriaMallSohnaRoadGurgaon,English,14:40,Lounger,250₹,8,0
+Telangana,Hyderabad,PvrNextGalleriaMallPanjagutta,English,14:45,Classic,150₹,54,53
+UttarPradesh,NationalCapitalRegionNcr,PvrVegasDwarka,English,19:00,Classic,320₹,36,9
+UttarPradesh,NationalCapitalRegionNcr,PvrVegasDwarka,English,19:00,Prime,415₹,21,7
+UttarPradesh,NationalCapitalRegionNcr,PvrVegasDwarka,English,19:00,Recliner,415₹,8,4
