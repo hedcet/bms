@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,NationalCapitalRegionNcr,PvrSelectCityWalkDelhi,Japanese,19:00,ClassicNormal,1₹,252,109
+UttarPradesh,NationalCapitalRegionNcr,PvrSelectCityWalkDelhi,Japanese,19:00,ClassicSuperior,1₹,81,81
+UttarPradesh,NationalCapitalRegionNcr,PvrSelectCityWalkDelhi,Japanese,19:00,ReclinersNormal,1₹,12,12
