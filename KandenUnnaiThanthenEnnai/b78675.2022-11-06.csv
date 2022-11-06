@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Chennai,GanapathyTheatre2KDtsGummidipoondiChennai,Tamil,09:30,Balcony,120₹,123,0
+TamilNadu,Chennai,GanapathyTheatre2KDtsGummidipoondiChennai,Tamil,09:30,FirstClass,100₹,454,0
+TamilNadu,Chennai,AgsCinemasMaduravoyal,Tamil,09:40,Diamond,190₹,262,85
+TamilNadu,Chennai,AgsCinemasMaduravoyal,Tamil,09:40,Pearl,60₹,31,31
