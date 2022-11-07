@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,NationalCapitalRegionNcr,PvrLogixNoida,English,12:45,Classic,215₹,89,7
+UttarPradesh,NationalCapitalRegionNcr,PvrAmbienceGoldGurgaon,English,15:15,Platinum,500₹,28,0
+UttarPradesh,NationalCapitalRegionNcr,PvrAmbienceGoldGurgaon,English,15:15,PlatinumSuperior,500₹,16,10
+Haryana,Chandigarh,PvrElanteChandigarh,English,18:30,Classic,180₹,138,0
+Haryana,Chandigarh,PvrElanteChandigarh,English,18:30,Recliner,550₹,13,0
