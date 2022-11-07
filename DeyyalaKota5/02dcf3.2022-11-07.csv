@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,VizagVisakhapatnam,GaneshAC2KDolbyTagarapuvalasa,Telugu,10:45,PremiumClass,145₹,387,29
+AndhraPradesh,VizagVisakhapatnam,GaneshAC2KDolbyTagarapuvalasa,Telugu,10:45,NonPremiumClass,100₹,130,33
+AndhraPradesh,VizagVisakhapatnam,GaneshAC2KDolbyTagarapuvalasa,Telugu,14:30,PremiumClass,145₹,387,5
+AndhraPradesh,VizagVisakhapatnam,GaneshAC2KDolbyTagarapuvalasa,Telugu,14:30,NonPremiumClass,100₹,130,6
+AndhraPradesh,VizagVisakhapatnam,GaneshAC2KDolbyTagarapuvalasa,Telugu,18:15,PremiumClass,145₹,387,0
+AndhraPradesh,VizagVisakhapatnam,GaneshAC2KDolbyTagarapuvalasa,Telugu,18:15,NonPremiumClass,100₹,130,0
+AndhraPradesh,VizagVisakhapatnam,GaneshAC2KDolbyTagarapuvalasa,Telugu,21:30,PremiumClass,145₹,387,22
+AndhraPradesh,VizagVisakhapatnam,GaneshAC2KDolbyTagarapuvalasa,Telugu,21:30,NonPremiumClass,100₹,130,26
