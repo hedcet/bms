@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,VizagVisakhapatnam,GaneshAC2KDolbyTagarapuvalasa,Telugu,10:45,PremiumClass,145₹,387,30
+AndhraPradesh,VizagVisakhapatnam,GaneshAC2KDolbyTagarapuvalasa,Telugu,10:45,NonPremiumClass,100₹,130,38
+AndhraPradesh,VizagVisakhapatnam,GaneshAC2KDolbyTagarapuvalasa,Telugu,14:30,PremiumClass,145₹,387,22
+AndhraPradesh,VizagVisakhapatnam,GaneshAC2KDolbyTagarapuvalasa,Telugu,14:30,NonPremiumClass,100₹,130,31
+AndhraPradesh,Vizianagaram,SriKrishnaCinemaACDolby712KVizianagaram,Telugu,14:30,Premium,112₹,520,22
+AndhraPradesh,Vizianagaram,SriKrishnaCinemaACDolby712KVizianagaram,Telugu,14:30,NonPremium,78₹,159,24
+AndhraPradesh,VizagVisakhapatnam,GaneshAC2KDolbyTagarapuvalasa,Telugu,18:15,PremiumClass,145₹,387,0
+AndhraPradesh,VizagVisakhapatnam,GaneshAC2KDolbyTagarapuvalasa,Telugu,18:15,NonPremiumClass,100₹,130,0
+AndhraPradesh,Vizianagaram,SriKrishnaCinemaACDolby712KVizianagaram,Telugu,18:30,Premium,112₹,520,15
+AndhraPradesh,Vizianagaram,SriKrishnaCinemaACDolby712KVizianagaram,Telugu,18:30,NonPremium,78₹,159,27
+AndhraPradesh,VizagVisakhapatnam,GaneshAC2KDolbyTagarapuvalasa,Telugu,21:30,PremiumClass,145₹,387,24
+AndhraPradesh,VizagVisakhapatnam,GaneshAC2KDolbyTagarapuvalasa,Telugu,21:30,NonPremiumClass,100₹,130,26
+AndhraPradesh,Vizianagaram,SriKrishnaCinemaACDolby712KVizianagaram,Telugu,21:45,Premium,112₹,520,0
+AndhraPradesh,Vizianagaram,SriKrishnaCinemaACDolby712KVizianagaram,Telugu,21:45,NonPremium,78₹,159,2
