@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Vadodara,CinemarcAkotaVadodara,Gujarati,14:40,Silver,80₹,87,17
+Gujarat,Vadodara,CinemarcAkotaVadodara,Gujarati,14:40,Premier,80₹,12,0
+Gujarat,Vadodara,CinemarcAkotaVadodara,Gujarati,14:40,Sofa,90₹,25,8
+Gujarat,Vadodara,CinemarcAkotaVadodara,Gujarati,20:00,Silver,110₹,87,14
+Gujarat,Vadodara,CinemarcAkotaVadodara,Gujarati,20:00,Premier,90₹,12,0
+Gujarat,Vadodara,CinemarcAkotaVadodara,Gujarati,20:00,Sofa,110₹,26,24
