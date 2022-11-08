@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Proddatur,ChandPicturePalaceACDtsProddatur,Telugu,11:15,FirstClass,100₹,282,0
+AndhraPradesh,Kadapa,RaviTheaterKadapa,Telugu,11:30,FirstClass,150₹,290,144
+AndhraPradesh,Kadapa,RaviTheaterKadapa,Telugu,11:30,SecondClass,100₹,144,64
+AndhraPradesh,Proddatur,ChandPicturePalaceACDtsProddatur,Telugu,14:15,FirstClass,100₹,282,0
+AndhraPradesh,Kadapa,RaviTheaterKadapa,Telugu,14:30,FirstClass,150₹,290,151
+AndhraPradesh,Kadapa,RaviTheaterKadapa,Telugu,14:30,SecondClass,100₹,144,73
+AndhraPradesh,Proddatur,ChandPicturePalaceACDtsProddatur,Telugu,18:15,FirstClass,100₹,282,0
+AndhraPradesh,Kadapa,RaviTheaterKadapa,Telugu,18:30,FirstClass,150₹,290,150
+AndhraPradesh,Kadapa,RaviTheaterKadapa,Telugu,18:30,SecondClass,100₹,144,55
+AndhraPradesh,Proddatur,ChandPicturePalaceACDtsProddatur,Telugu,21:15,FirstClass,100₹,282,0
+AndhraPradesh,Kadapa,RaviTheaterKadapa,Telugu,21:30,FirstClass,150₹,290,150
+AndhraPradesh,Kadapa,RaviTheaterKadapa,Telugu,21:30,SecondClass,100₹,144,49
