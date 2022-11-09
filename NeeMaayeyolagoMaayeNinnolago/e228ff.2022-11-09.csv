@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,PvrOrionUptownOldMadrasRoadBengaluru,Kannada,10:30,Classic,112₹,128,0
+Karnataka,MysuruMysore,PvrGarudaMallAlbertVictorRoadMysuru,Kannada,13:15,Classic,130₹,119,8
+Karnataka,Bengaluru,GopalanCinemasArcadeMallMysoreRoad,Kannada,13:15,Gold,236₹,332,2
+Karnataka,Bengaluru,GopalanCinemasArcadeMallMysoreRoad,Kannada,13:15,Sofa,236₹,21,12
+Karnataka,MysuruMysore,MysuruVisionCinemasBehindGrsFantasyPark,Kannada,16:20,Premier,150₹,206,0
