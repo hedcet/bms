@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,NationalCapitalRegionNcr,PvrLogixNoida,English,12:45,Classic,215₹,89,19
+UttarPradesh,NationalCapitalRegionNcr,PvrAmbienceGoldGurgaon,English,15:15,Platinum,500₹,28,2
+UttarPradesh,NationalCapitalRegionNcr,PvrAmbienceGoldGurgaon,English,15:15,PlatinumSuperior,500₹,16,10
