@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Godhra,CineSquareCinemasRajaiSquareGodhra,Hindi,13:00,Luxury,350₹,16,0
+Gujarat,Godhra,CineSquareCinemasRajaiSquareGodhra,Hindi,13:00,Royale,220₹,22,10
+Gujarat,Godhra,CineSquareCinemasRajaiSquareGodhra,Hindi,13:00,Premium,170₹,110,22
+Gujarat,Godhra,CineSquareCinemasRajaiSquareGodhra,Hindi,13:00,Gold,150₹,104,26
+Gujarat,Godhra,CineSquareCinemasRajaiSquareGodhra,Hindi,16:00,Luxury,350₹,16,0
+Gujarat,Godhra,CineSquareCinemasRajaiSquareGodhra,Hindi,16:00,Royale,220₹,25,10
+Gujarat,Godhra,CineSquareCinemasRajaiSquareGodhra,Hindi,16:00,Premium,170₹,126,21
+Gujarat,Godhra,CineSquareCinemasRajaiSquareGodhra,Hindi,16:00,Gold,150₹,78,26
+Gujarat,Godhra,CineSquareCinemasRajaiSquareGodhra,Hindi,19:00,Luxury,350₹,16,0
+Gujarat,Godhra,CineSquareCinemasRajaiSquareGodhra,Hindi,19:00,Royale,220₹,22,10
+Gujarat,Godhra,CineSquareCinemasRajaiSquareGodhra,Hindi,19:00,Premium,170₹,110,22
+Gujarat,Godhra,CineSquareCinemasRajaiSquareGodhra,Hindi,19:00,Gold,150₹,104,26
+Gujarat,Godhra,CineSquareCinemasRajaiSquareGodhra,Hindi,21:45,Luxury,350₹,16,0
+Gujarat,Godhra,CineSquareCinemasRajaiSquareGodhra,Hindi,21:45,Royale,220₹,22,10
+Gujarat,Godhra,CineSquareCinemasRajaiSquareGodhra,Hindi,21:45,Premium,170₹,110,22
+Gujarat,Godhra,CineSquareCinemasRajaiSquareGodhra,Hindi,21:45,Gold,150₹,104,26
