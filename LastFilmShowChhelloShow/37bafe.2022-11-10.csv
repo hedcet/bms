@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Ahmedabad,PvrAcropolisAhmedabad,Gujarati,10:30,Classic,90₹,39,0
+Gujarat,Ahmedabad,PvrAcropolisAhmedabad,Gujarati,10:30,Prime,100₹,65,1
+Gujarat,Ahmedabad,PvrAcropolisAhmedabad,Gujarati,10:30,PrimePlus,150₹,66,5
+Gujarat,Ahmedabad,PvrAcropolisAhmedabad,Gujarati,10:30,Recliner,350₹,9,0
+Maharashtra,Mumbai,InoxRCityGhatkopar,Gujarati,11:40,RoyalRecliner,230₹,16,0
+Maharashtra,Mumbai,InoxRCityGhatkopar,Gujarati,11:40,Club,112₹,105,3
+Maharashtra,Mumbai,InoxRCityGhatkopar,Gujarati,11:40,Royal,112₹,60,12
+Maharashtra,Mumbai,InoxRCityGhatkopar,Gujarati,11:40,Executive,90₹,50,0
+Maharashtra,Mumbai,InoxMegaplexInorbitMallMalad,Gujarati,12:40,Kiddles,180₹,57,8
