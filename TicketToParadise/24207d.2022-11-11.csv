@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Maharashtra,Mumbai,MaisonPvrLivingRoomLuxeJioWorldDriveBkc,English,10:40,Luxe,500₹,24,0
+Maharashtra,Mumbai,MaisonPvrLivingRoomLuxeJioWorldDriveBkc,English,10:40,LuxeSuperior,500₹,10,0
+Maharashtra,Pune,InoxBundGardenRoad,English,12:15,Royale,350₹,32,10
+Maharashtra,Mumbai,InoxMegaplexInorbitMallMalad,English,15:00,Insignia,600₹,38,10
+Gujarat,Ahmedabad,TimeCinemaCgRoadAhmedabad,English,17:15,Infinity,"1,150₹",8,0
+Delhi,NationalCapitalRegionNcr,InoxInsigniaAtEpicuriaNehruPlace,English,19:35,Insignia,"1,014₹",41,13
+Maharashtra,Mumbai,InoxLaserplexCr2NarimanPoint,English,19:40,Royale,420₹,93,29
+Maharashtra,Mumbai,InoxLaserplexCr2NarimanPoint,English,19:40,Club,400₹,160,2
+Maharashtra,Mumbai,InoxInsigniaAtAtriaMallWorli,English,20:40,Insignia,"1,000₹",30,18
+Gujarat,Ahmedabad,TimeCinemaCgRoadAhmedabad,English,22:15,Infinity,"1,150₹",8,0
+Delhi,NationalCapitalRegionNcr,PvrDirectorSCutGurugramAmbienceMall,English,22:55,Platinum,"1,000₹",40,40
+Delhi,NationalCapitalRegionNcr,PvrDirectorSCutGurugramAmbienceMall,English,22:55,PlatinumSuperior,"1,200₹",17,17
