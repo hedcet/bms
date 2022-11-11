@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Jalpaiguri,CinebazzJalpaiguri,Hindi,11:45,Premium,100₹,55,0
+WestBengal,Jalpaiguri,CinebazzJalpaiguri,Hindi,11:45,Regular,80₹,11,0
+WestBengal,Siliguri,BiswadeepTalkiesSiliguri,Hindi,13:15,Balcony,60₹,56,0
+WestBengal,Siliguri,BiswadeepTalkiesSiliguri,Hindi,13:15,Special,40₹,36,0
+WestBengal,Siliguri,BiswadeepTalkiesSiliguri,Hindi,16:15,Balcony,60₹,56,0
+WestBengal,Siliguri,BiswadeepTalkiesSiliguri,Hindi,16:15,Special,40₹,36,0
+WestBengal,Jalpaiguri,CinebazzJalpaiguri,Hindi,16:30,Premium,100₹,55,4
+WestBengal,Jalpaiguri,CinebazzJalpaiguri,Hindi,16:30,Regular,80₹,11,0
+WestBengal,Jalpaiguri,CinebazzJalpaiguri,Hindi,19:00,Premium,100₹,55,0
+WestBengal,Jalpaiguri,CinebazzJalpaiguri,Hindi,19:00,Regular,80₹,11,0
+WestBengal,Siliguri,BiswadeepTalkiesSiliguri,Hindi,19:15,Balcony,60₹,56,0
+WestBengal,Siliguri,BiswadeepTalkiesSiliguri,Hindi,19:15,Special,40₹,36,0
