@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,NationalCapitalRegionNcr,ApsaraCinemaGhaziabad,Hindi,09:00,Gold,110₹,146,0
+UttarPradesh,Agra,ShantiCinemaAgra,Hindi,12:30,Balcony,60₹,214,0
+UttarPradesh,Agra,ShantiCinemaAgra,Hindi,12:30,DressCircle,40₹,612,0
+UttarPradesh,Agra,ShantiCinemaAgra,Hindi,15:30,Balcony,60₹,214,0
+UttarPradesh,Agra,ShantiCinemaAgra,Hindi,15:30,DressCircle,40₹,612,0
+Maharashtra,Mumbai,CarnivalMoviestarGoregaon,Hindi,17:00,GoldOffline,130₹,55,16
+Maharashtra,Mumbai,CarnivalMoviestarGoregaon,Hindi,17:00,SilverOffline,100₹,20,17
+UttarPradesh,Agra,ShantiCinemaAgra,Hindi,21:30,Balcony,60₹,214,0
+UttarPradesh,Agra,ShantiCinemaAgra,Hindi,21:30,DressCircle,40₹,612,0
