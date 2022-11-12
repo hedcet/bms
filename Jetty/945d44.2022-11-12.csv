@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Kakinada,SatyagouriAC2KDigitalDolbyExKakinada,Telugu,14:30,FirstClass,112₹,324,100
+AndhraPradesh,Kakinada,SatyagouriAC2KDigitalDolbyExKakinada,Telugu,14:30,SecondClass,75₹,121,31
+AndhraPradesh,Kakinada,SatyagouriAC2KDigitalDolbyExKakinada,Telugu,18:30,FirstClass,112₹,324,24
+AndhraPradesh,Kakinada,SatyagouriAC2KDigitalDolbyExKakinada,Telugu,18:30,SecondClass,75₹,121,43
