@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Maharashtra,Amravati,FunCinemasSarojTalkiesAmravati,Marathi,12:15,Premier,150₹,45,0
+Maharashtra,Amravati,FunCinemasSarojTalkiesAmravati,Marathi,12:15,Economy,80₹,246,0
+Maharashtra,Amravati,FunCinemasSarojTalkiesAmravati,Marathi,15:15,Premier,150₹,45,4
+Maharashtra,Amravati,FunCinemasSarojTalkiesAmravati,Marathi,15:15,Economy,80₹,246,0
