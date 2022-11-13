@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Delhi,NationalCapitalRegionNcr,PvrVegasDwarka,Hindi,13:00,Classic,200₹,89,15
+Bihar,Ghorasahan,AmbikaMultiplexGhorasahan,Hindi,13:00,Black,150₹,54,0
+Bihar,Ghorasahan,AmbikaMultiplexGhorasahan,Hindi,13:00,Red,100₹,18,0
