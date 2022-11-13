@@ -1,0 +1,14 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,Gorakhpur,PvrVenusGorakhpur,Hindi,14:15,Classic,170₹,39,0
+UttarPradesh,Gorakhpur,PvrVenusGorakhpur,Hindi,14:15,ClassicPlus,170₹,90,63
+UttarPradesh,Gorakhpur,PvrVenusGorakhpur,Hindi,14:15,Prime,170₹,31,31
+Maharashtra,Mumbai,InoxMegaplexInorbitMallMalad,Hindi,14:45,Kiddles,220₹,57,33
+Jharkhand,Ranchi,PvrNucleusMallRanchi,Hindi,16:20,Classic,175₹,30,0
+Jharkhand,Ranchi,PvrNucleusMallRanchi,Hindi,16:20,ClassicPlus,195₹,123,0
+Jharkhand,Ranchi,PvrNucleusMallRanchi,Hindi,16:20,Prime,230₹,54,6
+Jharkhand,Ranchi,PvrNucleusMallRanchi,Hindi,16:20,Recliner,475₹,10,0
+Delhi,NationalCapitalRegionNcr,PvrLogixNoida,Hindi,17:20,Classic,320₹,94,1
+Rajasthan,Jaipur,GolchaCinemaJaipur,Hindi,18:15,Excutive,100₹,160,24
+Rajasthan,Jaipur,GolchaCinemaJaipur,Hindi,18:15,RoyalBox,100₹,94,26
+Delhi,NationalCapitalRegionNcr,PvrAmbienceGurgaon,Hindi,19:00,ClassicNormal,150₹,105,44
+Delhi,NationalCapitalRegionNcr,PvrAmbienceGurgaon,Hindi,19:00,Prime,150₹,62,62
