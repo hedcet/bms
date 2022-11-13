@@ -1,4 +1,4 @@
-<img src="https://healthchecks.io/badge/5db5179f-a059-425b-86f2-8fb9c6/rxjUdNU6-2.svg"/>
+<img src="https://healthchecks.io/badge/5db5179f-a059-425b-86f2-8fb9c6/rxjUdNU6.svg"/>
 
 > for daily aggregated results
 
