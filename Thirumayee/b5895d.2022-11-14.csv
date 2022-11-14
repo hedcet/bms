@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Tirupur,SriSakthiCinemasUnionMillRoadTirupur,Tamil,12:30,Diamond,190₹,22,12
+TamilNadu,Tirupur,SriSakthiCinemasUnionMillRoadTirupur,Tamil,12:30,Platinum,165₹,24,3
+TamilNadu,Tirupur,SriSakthiCinemasUnionMillRoadTirupur,Tamil,12:30,Gold,130₹,96,77
+TamilNadu,Tirupur,SriSakthiCinemasUnionMillRoadTirupur,Tamil,12:30,Silver,80₹,16,13
+TamilNadu,Chennai,AgsCinemasVillivakkam,Tamil,13:00,Diamond,190₹,147,0
+TamilNadu,Chennai,AgsCinemasVillivakkam,Tamil,13:00,Pearl,60₹,17,17
