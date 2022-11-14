@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,NationalCapitalRegionNcr,VibhorChitralokPilkhuwa,Hindi,09:15,Box,150₹,7,0
+UttarPradesh,NationalCapitalRegionNcr,VibhorChitralokPilkhuwa,Hindi,09:15,Platinum,100₹,31,0
+Gujarat,Ahmedabad,TimeCinemaCgRoadAhmedabad,Hindi,10:15,Infinity,950₹,8,2
+UttarPradesh,NationalCapitalRegionNcr,VibhorChitralokPilkhuwa,Hindi,12:00,Box,150₹,7,0
+UttarPradesh,NationalCapitalRegionNcr,VibhorChitralokPilkhuwa,Hindi,12:00,Platinum,100₹,31,0
+UttarPradesh,Agra,RajeevCinemaAgra,Hindi,12:00,Balcony,40₹,56,0
+UttarPradesh,Agra,RajeevCinemaAgra,Hindi,12:00,DressCircle,20₹,60,0
+UttarPradesh,NationalCapitalRegionNcr,VibhorChitralokPilkhuwa,Hindi,15:00,Box,150₹,7,0
+UttarPradesh,NationalCapitalRegionNcr,VibhorChitralokPilkhuwa,Hindi,15:00,Platinum,100₹,31,0
+UttarPradesh,Agra,RajeevCinemaAgra,Hindi,15:00,Balcony,40₹,56,0
+UttarPradesh,Agra,RajeevCinemaAgra,Hindi,15:00,DressCircle,20₹,60,0
+UttarPradesh,NationalCapitalRegionNcr,VibhorChitralokPilkhuwa,Hindi,18:00,Box,150₹,7,0
+UttarPradesh,NationalCapitalRegionNcr,VibhorChitralokPilkhuwa,Hindi,18:00,Platinum,100₹,31,0
+UttarPradesh,Agra,RajeevCinemaAgra,Hindi,18:00,Balcony,40₹,56,0
+UttarPradesh,Agra,RajeevCinemaAgra,Hindi,18:00,DressCircle,20₹,60,0
+Gujarat,Ahmedabad,TimeCinemaCgRoadAhmedabad,Hindi,19:30,Infinity,"1,150₹",8,0
