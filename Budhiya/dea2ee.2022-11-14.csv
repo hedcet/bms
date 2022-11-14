@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+MadhyaPradesh,Rewa,SamdareeyaCinemaRewa,Bagheli,12:30,Platinum,150₹,105,0
+MadhyaPradesh,Rewa,SamdareeyaCinemaRewa,Bagheli,12:30,Gold,120₹,92,2
+MadhyaPradesh,Rewa,SamdareeyaCinemaRewa,Bagheli,12:30,Silver,100₹,66,4
+MadhyaPradesh,Rewa,SamdareeyaCinemaRewa,Bagheli,14:20,Platinum,150₹,105,0
+MadhyaPradesh,Rewa,SamdareeyaCinemaRewa,Bagheli,14:20,Gold,120₹,92,0
+MadhyaPradesh,Rewa,SamdareeyaCinemaRewa,Bagheli,14:20,Silver,100₹,66,0
