@@ -1,0 +1,14 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Chennai,LuxeCinemasChennai,Tamil,12:15,Elite2D,190₹,134,27
+TamilNadu,Chennai,LuxeCinemasChennai,Tamil,12:15,Budget,60₹,24,21
+TamilNadu,Chennai,MayajaalMultiplexEcrChennai,Tamil,12:45,FirstClass,190₹,137,23
+TamilNadu,Chennai,InoxTheMarinaMallOmr,Tamil,15:25,Club,190₹,137,35
+TamilNadu,Chennai,InoxTheMarinaMallOmr,Tamil,15:25,Executive,60₹,16,16
+TamilNadu,Coimbatore,InoxProzoneMallCoimbatore,Tamil,15:45,Club,190₹,148,29
+TamilNadu,Coimbatore,InoxProzoneMallCoimbatore,Tamil,15:45,Executive,60₹,22,10
+TamilNadu,Chennai,SpiEscapeExpressAvenueMallRoyapettah,Tamil,16:00,Budget,60₹,11,9
+TamilNadu,Chennai,SpiEscapeExpressAvenueMallRoyapettah,Tamil,16:00,Elite,165₹,99,11
+TamilNadu,Chennai,SpiPalazzoNexusVijayaMallVadapalaniChennai,Tamil,19:05,Budget,60₹,27,27
+TamilNadu,Chennai,SpiPalazzoNexusVijayaMallVadapalaniChennai,Tamil,19:05,Elite,190₹,210,52
+TamilNadu,Chennai,PvrVrChennaiAnnaNagar,Tamil,19:15,Classic,60₹,11,11
+TamilNadu,Chennai,PvrVrChennaiAnnaNagar,Tamil,19:15,Prime,190₹,102,16
