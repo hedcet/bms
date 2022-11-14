@@ -1,0 +1,8 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Kadapa,RaviTheaterKadapa,Telugu,11:30,FirstClass,150₹,434,150
+AndhraPradesh,Kadapa,RaviTheaterKadapa,Telugu,14:15,FirstClass,150₹,290,146
+AndhraPradesh,Kadapa,RaviTheaterKadapa,Telugu,14:15,SecondClass,100₹,144,50
+AndhraPradesh,Kadapa,RaviTheaterKadapa,Telugu,18:30,FirstClass,150₹,290,149
+AndhraPradesh,Kadapa,RaviTheaterKadapa,Telugu,18:30,SecondClass,100₹,144,54
+AndhraPradesh,Kadapa,RaviTheaterKadapa,Telugu,21:25,FirstClass,150₹,290,144
+AndhraPradesh,Kadapa,RaviTheaterKadapa,Telugu,21:25,SecondClass,100₹,144,48
