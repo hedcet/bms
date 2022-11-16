@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,KamakyaCinemaBanashankari,Kannada,16:15,Balcony,110₹,338,4
+Karnataka,Bengaluru,KamakyaCinemaBanashankari,Kannada,16:15,Stall,100₹,333,5
+Karnataka,Bengaluru,EshwariDigital4KCinemaBanashankari,Kannada,19:00,Balcony,110₹,300,13
+Karnataka,Bengaluru,EshwariDigital4KCinemaBanashankari,Kannada,19:00,Stall,100₹,552,8
+Karnataka,Bengaluru,PvrTheCinemaGtWorldBengaluru,Kannada,19:15,Classic,170₹,179,30
+Karnataka,Bengaluru,PvrTheCinemaGtWorldBengaluru,Kannada,19:15,Recliner,280₹,16,5
