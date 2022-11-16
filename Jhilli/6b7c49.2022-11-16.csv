@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Kolkata,RadhaStudioTollygunge,Bengali,13:00,Silver,30₹,146,14
+WestBengal,Kolkata,InoxSouthCityKolkata,Bengali,15:55,RoyalRecliner,390₹,16,0
+WestBengal,Kolkata,InoxSouthCityKolkata,Bengali,15:55,Silver,220₹,165,17
+WestBengal,Kolkata,InoxSouthCityKolkata,Bengali,15:55,Premier,200₹,32,0
+WestBengal,Kolkata,NandanKolkata,Bengali,18:40,FrontStall,30₹,111,20
+WestBengal,Kolkata,NandanKolkata,Bengali,18:40,RearStall,50₹,451,52
+WestBengal,Kolkata,NandanKolkata,Bengali,18:40,Balcony,70₹,369,40
+WestBengal,Kolkata,PvrDiamondPlazaJessoreKolkata,Bengali,20:45,Classic,112₹,100,6
+WestBengal,Kolkata,PvrDiamondPlazaJessoreKolkata,Bengali,20:45,Prime,200₹,11,0
+WestBengal,Kolkata,PvrDiamondPlazaJessoreKolkata,Bengali,20:45,Recliner,360₹,12,0
