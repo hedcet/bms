@@ -1,0 +1,14 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Trivandrum,CarnivalGreenfieldTrivandrum,Malayalam,13:25,ExecutiveOffline,140₹,132,6
+Kerala,Kochi,PvrOberonMallKochi,Malayalam,16:05,Classic,129₹,36,0
+Kerala,Kochi,PvrOberonMallKochi,Malayalam,16:05,ClassicPlus,160₹,81,5
+Kerala,Angamaly,CarnivalKsrtComplex,Malayalam,17:00,GoldOffline,130₹,202,0
+Kerala,Thalayolaparambu,CarnivalThalayolaparambu,Malayalam,19:00,Gold,110₹,144,0
+Kerala,Kochi,PvrLuluKochi,Malayalam,19:05,Classic,110₹,39,0
+Kerala,Kochi,PvrLuluKochi,Malayalam,19:05,ClassicPlus,140₹,91,14
+Kerala,Kochi,PvrLuluKochi,Malayalam,19:05,Prime,160₹,68,12
+Kerala,Kochi,PvrLuluKochi,Malayalam,19:05,Recliner,300₹,10,0
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,22:40,RoyalRecliner,290₹,10,0
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,22:40,Club,170₹,63,2
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,22:40,Royal,170₹,28,21
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,22:40,Executive,130₹,22,0
