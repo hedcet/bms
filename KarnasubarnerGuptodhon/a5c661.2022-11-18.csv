@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Kolkata,InoxSouthCityKolkata,Bengali,09:05,Premier,160₹,34,0
+WestBengal,Kolkata,InoxSouthCityKolkata,Bengali,09:05,Silver,160₹,166,12
+WestBengal,Hooghly,SvfCinemasKpsMallMilonCinemaChinsurah,Bengali,11:15,Lounger,150₹,11,0
+WestBengal,Hooghly,SvfCinemasKpsMallMilonCinemaChinsurah,Bengali,11:15,Gold,100₹,12,0
+WestBengal,Hooghly,SvfCinemasKpsMallMilonCinemaChinsurah,Bengali,11:15,Platinum,150₹,65,5
+WestBengal,Kolkata,PvrDiamondPlazaJessoreKolkata,Bengali,11:35,Classic,160₹,210,11
+WestBengal,Kolkata,PvrDiamondPlazaJessoreKolkata,Bengali,11:35,Prime,210₹,11,0
+WestBengal,Kolkata,PvrDiamondPlazaJessoreKolkata,Bengali,11:35,Recliner,400₹,12,0
