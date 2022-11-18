@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Nuzvid,SatyanarayanaTheatersAC2KDolbyNuzvid,Telugu,11:00,Balcony,100₹,168,0
+AndhraPradesh,Nuzvid,SatyanarayanaTheatersAC2KDolbyNuzvid,Telugu,11:00,Floor,70₹,56,0
+AndhraPradesh,Nuzvid,SatyanarayanaTheatersAC2KDolbyNuzvid,Telugu,14:15,Balcony,100₹,168,0
+AndhraPradesh,Nuzvid,SatyanarayanaTheatersAC2KDolbyNuzvid,Telugu,14:15,Floor,70₹,56,0
+AndhraPradesh,Nuzvid,SatyanarayanaTheatersAC2KDolbyNuzvid,Telugu,18:00,Balcony,100₹,168,3
+AndhraPradesh,Nuzvid,SatyanarayanaTheatersAC2KDolbyNuzvid,Telugu,18:00,Floor,70₹,56,0
+AndhraPradesh,Nuzvid,SatyanarayanaTheatersAC2KDolbyNuzvid,Telugu,21:15,Balcony,100₹,168,0
+AndhraPradesh,Nuzvid,SatyanarayanaTheatersAC2KDolbyNuzvid,Telugu,21:15,Floor,70₹,56,0
