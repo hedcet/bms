@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,SriSrinivasa4KDolbyAtmosACPadmanabanagara,Kannada,13:30,VajraBalconyRight,100₹,80,6
+Karnataka,Bengaluru,SriSrinivasa4KDolbyAtmosACPadmanabanagara,Kannada,13:30,SwarnaGold,80₹,489,6
+Karnataka,Bengaluru,VenkateshwaraDigital4KDolbyAtmosACKengeri,Kannada,13:45,Gold,100₹,574,39
+Karnataka,Bengaluru,VenkateshwaraDigital4KDolbyAtmosACKengeri,Kannada,13:45,Box,100₹,20,20
+Karnataka,Bengaluru,VenkateshwaraDigital4KDolbyAtmosACKengeri,Kannada,20:30,Gold,100₹,574,58
+Karnataka,Bengaluru,VenkateshwaraDigital4KDolbyAtmosACKengeri,Kannada,20:30,Box,100₹,20,20
+Karnataka,Bengaluru,SriSrinivasa4KDolbyAtmosACPadmanabanagara,Kannada,21:45,VajraBalconyRight,100₹,80,3
+Karnataka,Bengaluru,SriSrinivasa4KDolbyAtmosACPadmanabanagara,Kannada,21:45,SwarnaGold,80₹,489,0
