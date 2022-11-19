@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Chennai,SreeLakshmibalaMoviepark4K3DDolby712Padi,Tamil,10:00,FirstClass,110₹,189,0
+TamilNadu,Coimbatore,SrkMirajCinemasCoimbatore,Tamil,12:00,Special,60₹,21,2
+TamilNadu,Coimbatore,SrkMirajCinemasCoimbatore,Tamil,12:00,Executive,190₹,190,53
+TamilNadu,Coimbatore,KgCinemasCoimbatore,Tamil,19:15,Premium,190₹,95,66
+TamilNadu,Coimbatore,KgCinemasCoimbatore,Tamil,19:15,Comfort,148₹,53,48
