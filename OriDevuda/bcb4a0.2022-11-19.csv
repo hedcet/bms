@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Ongole,SriSarojMayuriTheaterOngole,Telugu,11:30,Gold,150₹,211,5
+AndhraPradesh,Ongole,SriSarojMayuriTheaterOngole,Telugu,11:30,Silver,100₹,103,5
+AndhraPradesh,Ongole,SriSarojMayuriTheaterOngole,Telugu,11:30,Executive,70₹,72,2
+AndhraPradesh,Ongole,SriSarojMayuriTheaterOngole,Telugu,14:30,Gold,150₹,211,3
+AndhraPradesh,Ongole,SriSarojMayuriTheaterOngole,Telugu,14:30,Silver,100₹,103,2
+AndhraPradesh,Ongole,SriSarojMayuriTheaterOngole,Telugu,14:30,Executive,70₹,72,2
