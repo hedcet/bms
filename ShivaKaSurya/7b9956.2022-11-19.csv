@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Rajasthan,Jaipur,LakshmiMandirCinemaJaipur,Bhojpuri,12:15,BoxA,100₹,41,41
+Rajasthan,Jaipur,LakshmiMandirCinemaJaipur,Bhojpuri,12:15,BoxF,100₹,41,0
+Rajasthan,Jaipur,LakshmiMandirCinemaJaipur,Bhojpuri,12:15,NobleCircle,100₹,270,270
+Rajasthan,Jaipur,LakshmiMandirCinemaJaipur,Bhojpuri,12:15,DressCircle,100₹,300,240
+Rajasthan,Jaipur,LakshmiMandirCinemaJaipur,Bhojpuri,15:15,BoxA,100₹,101,0
+Rajasthan,Jaipur,LakshmiMandirCinemaJaipur,Bhojpuri,15:15,BoxF,100₹,101,0
+Rajasthan,Jaipur,LakshmiMandirCinemaJaipur,Bhojpuri,15:15,NobleCircle,100₹,101,0
+Rajasthan,Jaipur,LakshmiMandirCinemaJaipur,Bhojpuri,15:15,DressCircle,100₹,101,0
+Rajasthan,Jaipur,LakshmiMandirCinemaJaipur,Bhojpuri,18:15,BoxA,100₹,101,0
+Rajasthan,Jaipur,LakshmiMandirCinemaJaipur,Bhojpuri,18:15,BoxF,100₹,101,0
+Rajasthan,Jaipur,LakshmiMandirCinemaJaipur,Bhojpuri,18:15,NobleCircle,100₹,101,0
+Rajasthan,Jaipur,LakshmiMandirCinemaJaipur,Bhojpuri,18:15,DressCircle,100₹,101,0
+Rajasthan,Jaipur,LakshmiMandirCinemaJaipur,Bhojpuri,21:15,BoxA,100₹,101,0
+Rajasthan,Jaipur,LakshmiMandirCinemaJaipur,Bhojpuri,21:15,BoxF,100₹,101,0
+Rajasthan,Jaipur,LakshmiMandirCinemaJaipur,Bhojpuri,21:15,NobleCircle,100₹,101,0
+Rajasthan,Jaipur,LakshmiMandirCinemaJaipur,Bhojpuri,21:15,DressCircle,100₹,101,0
