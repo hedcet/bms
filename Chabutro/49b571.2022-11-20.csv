@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Ahmedabad,MirajCityPulseAhmedabad,Gujarati,11:15,Gold,140₹,24,10
+Gujarat,Rajkot,CarnivalCinemasGardenHotelAndResortRajkot,Gujarati,12:15,CoupleSofa,450₹,22,2
+Gujarat,Rajkot,CarnivalCinemasGardenHotelAndResortRajkot,Gujarati,12:15,SingleSofa,400₹,95,15
+Gujarat,Anand,InfinityCinemasAnand,Gujarati,15:30,Recliner,250₹,19,0
+Gujarat,Anand,InfinityCinemasAnand,Gujarati,15:30,Platinum,150₹,50,4
+Gujarat,Anand,InfinityCinemasAnand,Gujarati,15:30,Gold,120₹,60,0
+Maharashtra,Mumbai,CarnivalMoviestarGoregaon,Gujarati,19:35,GoldOffline,140₹,55,26
+Maharashtra,Mumbai,CarnivalMoviestarGoregaon,Gujarati,19:35,SilverOffline,110₹,20,1
