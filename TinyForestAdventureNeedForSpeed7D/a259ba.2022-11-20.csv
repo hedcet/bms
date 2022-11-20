@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,7DVrVoyageGarudaMall,English,12:00,EntryPass,190₹,8,0
+Karnataka,Bengaluru,7DVrVoyageGarudaMall,English,13:00,EntryPass,190₹,8,0
+Karnataka,Bengaluru,7DVrVoyageGarudaMall,English,14:00,EntryPass,190₹,8,0
+Karnataka,Bengaluru,7DVrVoyageGarudaMall,English,15:00,EntryPass,190₹,8,0
+Karnataka,Bengaluru,7DVrVoyageGarudaMall,English,16:00,EntryPass,190₹,8,1
+Karnataka,Bengaluru,7DVrVoyageGarudaMall,English,17:00,EntryPass,190₹,8,0
+Karnataka,Bengaluru,7DVrVoyageGarudaMall,English,18:30,EntryPass,190₹,8,0
+Karnataka,Bengaluru,7DVrVoyageGarudaMall,English,19:30,EntryPass,190₹,8,0
+Karnataka,Bengaluru,7DVrVoyageGarudaMall,English,20:30,EntryPass,190₹,8,0
