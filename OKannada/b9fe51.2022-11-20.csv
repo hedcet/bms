@@ -1,0 +1,8 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,InoxMantriSquareMalleshwaram,Kannada,10:40,Royal,450₹,14,8
+Karnataka,Bengaluru,InoxMantriSquareMalleshwaram,Kannada,10:40,Club,200₹,272,36
+Karnataka,Bengaluru,CinepolisBinnypetMall,Kannada,13:45,Normal,160₹,9,5
+Karnataka,Bengaluru,CinepolisBinnypetMall,Kannada,13:45,Executive,160₹,78,73
+Karnataka,Bengaluru,CinepolisBinnypetMall,Kannada,13:45,Premium,160₹,49,45
+Karnataka,Bengaluru,PvrTheCinemaGtWorldBengaluru,Kannada,22:00,Classic,180₹,179,36
+Karnataka,Bengaluru,PvrTheCinemaGtWorldBengaluru,Kannada,22:00,Recliner,320₹,16,4
