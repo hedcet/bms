@@ -1,0 +1,14 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Telangana,Hyderabad,PvrForumSujanaMallKukatpallyHyderabad,Telugu,10:40,Classic,150₹,135,6
+Telangana,Hyderabad,PvrForumSujanaMallKukatpallyHyderabad,Telugu,10:40,Recliner,250₹,9,4
+AndhraPradesh,Kadapa,SudhaTheaterKadapa,Telugu,11:30,FirstClass,150₹,142,70
+AndhraPradesh,Kadapa,SudhaTheaterKadapa,Telugu,11:30,SecondClass,100₹,60,0
+Telangana,Hyderabad,PvrIrrumManzilHyderabad,Telugu,13:35,Classic,150₹,94,11
+Telangana,Hyderabad,PvrIrrumManzilHyderabad,Telugu,13:35,Recliner,250₹,10,5
+AndhraPradesh,Kadapa,SudhaTheaterKadapa,Telugu,14:30,FirstClass,150₹,142,77
+AndhraPradesh,Kadapa,SudhaTheaterKadapa,Telugu,14:30,SecondClass,100₹,60,2
+Telangana,Hyderabad,MirajCinemasShaliniShivaniHyderabad,Telugu,16:25,Executive,195₹,130,17
+AndhraPradesh,Kadapa,SudhaTheaterKadapa,Telugu,18:30,FirstClass,150₹,142,70
+AndhraPradesh,Kadapa,SudhaTheaterKadapa,Telugu,18:30,SecondClass,100₹,60,10
+AndhraPradesh,Kadapa,SudhaTheaterKadapa,Telugu,21:30,FirstClass,150₹,142,70
+AndhraPradesh,Kadapa,SudhaTheaterKadapa,Telugu,21:30,SecondClass,100₹,60,0
