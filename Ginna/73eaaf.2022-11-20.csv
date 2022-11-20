@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Mangalagiri,GopalaKrishnaTheaterMangalagiri,Telugu,13:40,PremiumSofa,70₹,60,36
+AndhraPradesh,Mangalagiri,GopalaKrishnaTheaterMangalagiri,Telugu,13:40,PremiumBalcony,70₹,126,54
+AndhraPradesh,Mangalagiri,GopalaKrishnaTheaterMangalagiri,Telugu,13:40,PremiumFirstClass,70₹,175,88
+AndhraPradesh,Porumamilla,SriDesaiTheatrePorumamilla,Telugu,18:00,Balcony,50₹,20,0
+AndhraPradesh,Mangalagiri,GopalaKrishnaTheaterMangalagiri,Telugu,18:30,PremiumSofa,70₹,60,38
+AndhraPradesh,Mangalagiri,GopalaKrishnaTheaterMangalagiri,Telugu,18:30,PremiumBalcony,70₹,126,54
+AndhraPradesh,Mangalagiri,GopalaKrishnaTheaterMangalagiri,Telugu,18:30,PremiumFirstClass,70₹,175,88
+AndhraPradesh,Porumamilla,SriDesaiTheatrePorumamilla,Telugu,21:00,Balcony,50₹,20,0
+AndhraPradesh,Mangalagiri,GopalaKrishnaTheaterMangalagiri,Telugu,21:30,PremiumSofa,70₹,60,36
+AndhraPradesh,Mangalagiri,GopalaKrishnaTheaterMangalagiri,Telugu,21:30,PremiumBalcony,70₹,126,55
+AndhraPradesh,Mangalagiri,GopalaKrishnaTheaterMangalagiri,Telugu,21:30,PremiumFirstClass,70₹,175,88
