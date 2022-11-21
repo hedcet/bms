@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Dindigul,AarthiGrandCineplexDolbyAtmosDindigul,Tamil,10:50,Diamond,120₹,149,0
+TamilNadu,Dindigul,AarthiGrandCineplexDolbyAtmosDindigul,Tamil,10:50,Gold,120₹,45,0
+TamilNadu,Dindigul,AarthiGrandCineplexDolbyAtmosDindigul,Tamil,10:50,Silver,120₹,25,0
+TamilNadu,Chennai,RohiniSilverScreensKoyambedu,Tamil,13:00,GoldStar,140₹,120,16
+TamilNadu,Chennai,KasiTalkiesDolbyAtmosAshokNagar,Tamil,19:30,SuperPremium,195₹,19,5
+TamilNadu,Chennai,KasiTalkiesDolbyAtmosAshokNagar,Tamil,19:30,Premium,170₹,89,5
+TamilNadu,Chennai,KasiTalkiesDolbyAtmosAshokNagar,Tamil,19:30,Elite,120₹,60,0
+TamilNadu,Chennai,KasiTalkiesDolbyAtmosAshokNagar,Tamil,19:30,Economy,64₹,10,10
