@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,Lucknow,CinepolisOneAwadhCentreLucknow,Hindi,09:55,Normal,110₹,27,0
+UttarPradesh,Lucknow,CinepolisOneAwadhCentreLucknow,Hindi,09:55,Executive,110₹,90,0
+UttarPradesh,Lucknow,CinepolisOneAwadhCentreLucknow,Hindi,09:55,Premium,110₹,51,0
+UttarPradesh,Lucknow,CinepolisOneAwadhCentreLucknow,Hindi,09:55,Vip,450₹,20,2
+Uttarakhand,Dehradun,CarnivalVikasMall,Hindi,12:45,Platinum,99₹,14,7
+Uttarakhand,Dehradun,CarnivalVikasMall,Hindi,12:45,Gold,99₹,70,11
+Uttarakhand,Dehradun,CarnivalVikasMall,Hindi,12:45,Silver,99₹,51,0
+Delhi,NationalCapitalRegionNcr,PvrPacificDwarka,Hindi,13:15,Classic,200₹,44,6
+Delhi,NationalCapitalRegionNcr,PvrPacificDwarka,Hindi,13:15,Prime,230₹,18,8
+MadhyaPradesh,Indore,PvrTreasureIslandMallIndore,Hindi,13:20,Classic,130₹,28,0
+MadhyaPradesh,Indore,PvrTreasureIslandMallIndore,Hindi,13:20,Prime,130₹,69,28
