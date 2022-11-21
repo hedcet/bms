@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,BelagaviBelgaum,SantoshTheatreBelagavi,Kannada,12:00,Balcony,80₹,112,0
+Karnataka,BelagaviBelgaum,SantoshTheatreBelagavi,Kannada,12:00,Stall,70₹,118,0
+Karnataka,BelagaviBelgaum,SantoshTheatreBelagavi,Kannada,15:00,Balcony,80₹,112,0
+Karnataka,BelagaviBelgaum,SantoshTheatreBelagavi,Kannada,15:00,Stall,70₹,118,0
+Karnataka,Bengaluru,InoxMantriSquareMalleshwaram,Kannada,17:25,Club,200₹,225,21
+Karnataka,BelagaviBelgaum,SantoshTheatreBelagavi,Kannada,18:00,Balcony,80₹,112,0
+Karnataka,BelagaviBelgaum,SantoshTheatreBelagavi,Kannada,18:00,Stall,70₹,118,0
+Karnataka,Bengaluru,PvrVaishnaviSapphireMallYeshwanthpur,Kannada,18:55,Classic,170₹,85,1
+Karnataka,Bengaluru,PvrVaishnaviSapphireMallYeshwanthpur,Kannada,18:55,Prime,190₹,37,4
+Karnataka,Bengaluru,PvrVaishnaviSapphireMallYeshwanthpur,Kannada,18:55,Recliner,280₹,13,0
+Karnataka,BelagaviBelgaum,SantoshTheatreBelagavi,Kannada,21:00,Balcony,80₹,112,0
+Karnataka,BelagaviBelgaum,SantoshTheatreBelagavi,Kannada,21:00,Stall,70₹,118,0
