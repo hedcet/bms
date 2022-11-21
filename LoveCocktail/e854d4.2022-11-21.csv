@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Padubidri,BharathCinemasPadubidri,Tulu,19:30,Gold,160₹,67,23
+Karnataka,Padubidri,BharathCinemasPadubidri,Tulu,19:30,Silver,160₹,33,33
+Karnataka,Padubidri,BharathCinemasPadubidri,Tulu,19:30,Special,160₹,11,11
