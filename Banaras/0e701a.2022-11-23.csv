@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Jigani,AnupamaTheatre4KDolbyGandhinagar,Kannada,10:30,Balcony,150₹,247,9
+Karnataka,Jigani,AnupamaTheatre4KDolbyGandhinagar,Kannada,10:30,MiddleClass,120₹,480,20
+Karnataka,MysuruMysore,MysuruVisionCinemasBehindGrsFantasyPark,Kannada,13:15,Premier,150₹,206,11
+Karnataka,Jigani,AnupamaTheatre4KDolbyGandhinagar,Kannada,13:30,Balcony,150₹,247,15
+Karnataka,Jigani,AnupamaTheatre4KDolbyGandhinagar,Kannada,13:30,MiddleClass,120₹,480,20
+Karnataka,Jigani,AnupamaTheatre4KDolbyGandhinagar,Kannada,16:30,Balcony,150₹,247,3
+Karnataka,Jigani,AnupamaTheatre4KDolbyGandhinagar,Kannada,16:30,MiddleClass,120₹,480,23
+Karnataka,Jigani,AnupamaTheatre4KDolbyGandhinagar,Kannada,19:30,Balcony,150₹,247,4
+Karnataka,Jigani,AnupamaTheatre4KDolbyGandhinagar,Kannada,19:30,MiddleClass,120₹,480,13
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,22:00,Classic,200₹,108,6
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,22:00,Prime,220₹,108,0
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,22:00,Recliner,330₹,16,4
