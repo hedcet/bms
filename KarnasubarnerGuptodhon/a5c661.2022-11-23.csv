@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Hooghly,SvfCinemasKpsMallMilonCinemaChinsurah,Bengali,11:15,Lounger,150₹,11,0
+WestBengal,Hooghly,SvfCinemasKpsMallMilonCinemaChinsurah,Bengali,11:15,Gold,100₹,12,0
+WestBengal,Hooghly,SvfCinemasKpsMallMilonCinemaChinsurah,Bengali,11:15,Platinum,100₹,65,6
