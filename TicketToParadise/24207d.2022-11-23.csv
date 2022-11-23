@@ -1,0 +1,8 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Maharashtra,Mumbai,InoxInsigniaAtAtriaMallWorli,English,10:30,Insignia,330₹,30,6
+Maharashtra,Mumbai,InoxLaserplexCr2NarimanPoint,English,12:45,Royale,210₹,111,18
+Maharashtra,Mumbai,InoxLaserplexCr2NarimanPoint,English,12:45,Club,190₹,128,2
+Maharashtra,Mumbai,InoxMegaplexInorbitMallMalad,English,14:35,Insignia,400₹,38,12
+Maharashtra,Mumbai,MaisonPvrLivingRoomLuxeJioWorldDriveBkc,English,16:40,Luxe,600₹,24,4
+Maharashtra,Mumbai,MaisonPvrLivingRoomLuxeJioWorldDriveBkc,English,16:40,LuxeSuperior,600₹,10,6
+Gujarat,Ahmedabad,TimeCinemaCgRoadAhmedabad,English,17:00,Infinity,"1,150₹",8,0
