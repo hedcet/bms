@@ -1,0 +1,14 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Lakshmikantapur,SreeLakshmiTalkiesLakshmikantapur,Hindi,11:00,GoldCoupleSeats,100₹,30,0
+WestBengal,Lakshmikantapur,SreeLakshmiTalkiesLakshmikantapur,Hindi,11:00,Silver,70₹,84,0
+Jharkhand,Ranchi,PvrNucleusMallRanchi,Hindi,12:30,Classic,112₹,30,0
+Jharkhand,Ranchi,PvrNucleusMallRanchi,Hindi,12:30,ClassicPlus,180₹,123,31
+Jharkhand,Ranchi,PvrNucleusMallRanchi,Hindi,12:30,Prime,210₹,54,4
+Jharkhand,Ranchi,PvrNucleusMallRanchi,Hindi,12:30,Recliner,390₹,10,7
+WestBengal,Kolkata,LilaCinemaBaruipur,Hindi,13:00,Balcony,60₹,28,0
+WestBengal,Lakshmikantapur,SreeLakshmiTalkiesLakshmikantapur,Hindi,13:30,GoldCoupleSeats,100₹,30,0
+WestBengal,Lakshmikantapur,SreeLakshmiTalkiesLakshmikantapur,Hindi,13:30,Silver,70₹,84,0
+WestBengal,Kolkata,LilaCinemaBaruipur,Hindi,16:00,Balcony,60₹,28,0
+WestBengal,Lakshmikantapur,SreeLakshmiTalkiesLakshmikantapur,Hindi,16:00,GoldCoupleSeats,100₹,30,0
+WestBengal,Lakshmikantapur,SreeLakshmiTalkiesLakshmikantapur,Hindi,16:00,Silver,70₹,84,0
+WestBengal,Kolkata,LilaCinemaBaruipur,Hindi,18:45,Balcony,60₹,28,0
