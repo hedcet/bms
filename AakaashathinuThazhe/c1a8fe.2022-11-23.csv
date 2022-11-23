@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Thodupuzha,SilverHillsCinemasThodupuzha,Malayalam,10:00,Silver,130₹,80,0
+Kerala,Thrissur,KairaliSreeTheaterThrissur,Malayalam,11:30,Platinum,129₹,108,0
+Kerala,Thrissur,KairaliSreeTheaterThrissur,Malayalam,11:30,Gold,105₹,193,0
+Kerala,Ottapalam,LakshmiPicturePalace,Malayalam,14:30,FirstClass,130₹,146,0
+Kerala,Thrissur,ShivadhamCinemasUrakamThrissur,Malayalam,15:30,Platinum,260₹,22,0
+Kerala,Thrissur,ShivadhamCinemasUrakamThrissur,Malayalam,15:30,Gold,150₹,128,13
+Kerala,Thrissur,ShivadhamCinemasUrakamThrissur,Malayalam,15:30,Silver,129₹,100,1
+Kerala,Kattappana,AiswaryaCinemasKattappana,Malayalam,21:30,Diamond,130₹,172,37
