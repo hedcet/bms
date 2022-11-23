@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Manipal,BharathCinemasManipal,Tulu,19:30,Vip,160₹,12,12
+Karnataka,Manipal,BharathCinemasManipal,Tulu,19:30,Gold,160₹,56,51
+Karnataka,Manipal,BharathCinemasManipal,Tulu,19:30,Silver,160₹,66,66
