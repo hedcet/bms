@@ -1,0 +1,8 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Kochi,Kanoos2KRavipuram,Malayalam,12:00,Diamond,110₹,186,0
+Kerala,Kozhikode,AashirvadCineplexxKozhikode,Malayalam,13:30,Platinum,220₹,27,0
+Kerala,Kozhikode,AashirvadCineplexxKozhikode,Malayalam,13:30,Gold,200₹,60,0
+Kerala,Trivandrum,CarnivalArtechCentralMallTrivandrum,Malayalam,13:45,SilverOffline,150₹,147,17
+Kerala,Trivandrum,CarnivalArtechCentralMallTrivandrum,Malayalam,13:45,ExecutiveOffline,100₹,26,0
+Kerala,Kodungallur,CarnivalMughalMall,Malayalam,15:15,ExecutiveOffline,140₹,166,28
+Kerala,Thodupuzha,SilverHillsCinemasThodupuzha,Malayalam,16:30,Silver,130₹,80,0
