@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,VeerabhadreshwaraTheatreKamalaNagar,Kannada,18:30,Balcony,110₹,179,179
+Karnataka,Bengaluru,VeerabhadreshwaraTheatreKamalaNagar,Kannada,18:30,SecondClass,100₹,528,325
+Karnataka,MysuruMysore,MysuruVisionCinemasBehindGrsFantasyPark,Kannada,18:50,Premier,180₹,286,15
+Karnataka,Bengaluru,GopalanCinemasArcadeMallMysoreRoad,Kannada,19:00,Gold,236₹,292,90
+Karnataka,Bengaluru,GopalanCinemasArcadeMallMysoreRoad,Kannada,19:00,Recliner,350₹,19,18
+Karnataka,Bengaluru,InoxMantriSquareMalleshwaram,Kannada,19:10,Royal,500₹,14,11
+Karnataka,Bengaluru,InoxMantriSquareMalleshwaram,Kannada,19:10,Club,236₹,272,122
+Karnataka,MysuruMysore,DrcCinemasBmHabitatMall,Kannada,19:10,Premium,200₹,238,131
+Karnataka,MysuruMysore,DrcCinemasBmHabitatMall,Kannada,19:10,Gold,480₹,11,10
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,19:10,Classic,236₹,128,79
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,19:10,Prime,236₹,100,95
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,19:10,Recliner,550₹,14,10
+Karnataka,Davanagere,MovietimeDavanagere,Kannada,19:30,Gold,250₹,79,11
+Karnataka,Davanagere,MovietimeDavanagere,Kannada,19:30,Premier,230₹,180,95
