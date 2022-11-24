@@ -13,7 +13,3 @@
 - [@paytm_ml](https://twitter.com/paytm_ml) (Malayalam Movies)
 - [@paytm_ta](https://twitter.com/paytm_ta) (Tamil Movies)
 - [@paytm_te](https://twitter.com/paytm_te) (Telugu Movies)
-
-#### twitter vox-cinemas handles
-
-- [@vox_ml](https://twitter.com/vox_ml) (Malayalam Movies)
