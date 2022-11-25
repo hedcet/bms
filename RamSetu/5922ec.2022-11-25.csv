@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Surat,PvrRahulRajSurat,Hindi,09:30,Classic,120₹,26,0
+Gujarat,Surat,PvrRahulRajSurat,Hindi,09:30,ClassicPlus,120₹,12,0
+Gujarat,Surat,PvrRahulRajSurat,Hindi,09:30,Prime,140₹,111,11
+Gujarat,Surat,PvrRahulRajSurat,Hindi,09:30,Recliner,280₹,20,7
+UttarPradesh,Lucknow,InoxMegaplexEmeraldLucknow,Hindi,13:30,Royale,200₹,61,14
+UttarPradesh,Lucknow,InoxMegaplexEmeraldLucknow,Hindi,13:30,Club,180₹,48,0
+UttarPradesh,Lucknow,InoxMegaplexEmeraldLucknow,Hindi,13:30,Executive,160₹,24,1
+WestBengal,Siliguri,CarnivalCinemasSiliguri,Hindi,21:10,Special,110₹,28,0
+WestBengal,Siliguri,CarnivalCinemasSiliguri,Hindi,21:10,Executive,110₹,188,12
