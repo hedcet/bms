@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,MohanCinemaBarco4KAC71Sunkadakatte,Kannada,10:15,Balcony,100₹,123,0
+Karnataka,Bengaluru,MohanCinemaBarco4KAC71Sunkadakatte,Kannada,10:15,Secondclass,80₹,528,0
+Karnataka,Bengaluru,MohanCinemaBarco4KAC71Sunkadakatte,Kannada,13:15,Balcony,100₹,123,1
+Karnataka,Bengaluru,MohanCinemaBarco4KAC71Sunkadakatte,Kannada,13:15,Secondclass,80₹,528,0
