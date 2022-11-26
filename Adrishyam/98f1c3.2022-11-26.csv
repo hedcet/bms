@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Palakkad,AromaScreen2Palakkad,Malayalam,11:15,KingCircle,115₹,235,23
+Kerala,Kochi,KavithaTheatre4K3DDolby71Ernakulam,Malayalam,12:00,GoldCircle,150₹,306,26
+Kerala,Kochi,KavithaTheatre4K3DDolby71Ernakulam,Malayalam,12:00,SilverCircle,129₹,770,10
+Kerala,Kochi,KavithaTheatre4K3DDolby71Ernakulam,Malayalam,12:00,Sofa,250₹,23,0
+Kerala,Kollam,GmaxCinemasKollam,Malayalam,21:15,Blue,180₹,170,39
