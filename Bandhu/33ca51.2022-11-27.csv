@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Assam,Guwahati,PvrCityCentreGuwahati,Assamese,14:30,Classic,190₹,40,1
+Assam,Guwahati,PvrCityCentreGuwahati,Assamese,14:30,Prime,220₹,82,17
+Assam,Guwahati,PvrCityCentreGuwahati,Assamese,14:30,PrimePlus,260₹,13,0
