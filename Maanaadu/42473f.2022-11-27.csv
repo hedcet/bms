@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Chennai,RohiniSilverScreensKoyambedu,Tamil,12:30,SuperStar,100₹,62,62
+TamilNadu,Chennai,RohiniSilverScreensKoyambedu,Tamil,12:30,Platinum,100₹,174,154
+TamilNadu,Chennai,RohiniSilverScreensKoyambedu,Tamil,12:30,GoldStar,100₹,308,92
+TamilNadu,Chennai,RohiniSilverScreensKoyambedu,Tamil,12:30,SilverStar,100₹,56,2
