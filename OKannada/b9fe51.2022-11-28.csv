@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,CinepolisBinnypetMall,Kannada,12:55,Executive,130₹,69,0
+Karnataka,Bengaluru,CinepolisBinnypetMall,Kannada,12:55,Premium,130₹,42,12
+Karnataka,Attibele,GowrishankarDolbyAtmosMiniAttibele,Kannada,13:30,Gold,100₹,77,0
+Karnataka,Attibele,GowrishankarDolbyAtmosMiniAttibele,Kannada,17:00,Gold,100₹,77,0
