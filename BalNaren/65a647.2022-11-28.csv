@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Delhi,NationalCapitalRegionNcr,PvrGaurCityGreaterNoida,Hindi,10:10,Classic,135₹,96,0
+Delhi,NationalCapitalRegionNcr,PvrGaurCityGreaterNoida,Hindi,10:10,Prime,160₹,83,0
+Delhi,NationalCapitalRegionNcr,PvrGaurCityGreaterNoida,Hindi,10:10,Recliner,250₹,10,0
+Delhi,NationalCapitalRegionNcr,PvrVegasDwarka,Hindi,11:45,Classic,200₹,89,15
+UttarPradesh,Lucknow,InoxCrownMallLucknow,Hindi,12:25,Royale,150₹,48,0
+UttarPradesh,Lucknow,InoxCrownMallLucknow,Hindi,12:25,Club,140₹,52,2
+UttarPradesh,Lucknow,InoxCrownMallLucknow,Hindi,12:25,Executive,110₹,26,0
+Uttaranchal,Rudrapur,WaveRudrapur,Hindi,13:20,Classic,170₹,194,38
+UttarPradesh,Padrauna,QualityStarworldPadrauna,Hindi,13:30,PlatinumXl,110₹,117,0
+UttarPradesh,Mirzapur,RajshreeStarworldCinemaMirzapur,Hindi,13:45,Platinum,110₹,77,11
+UttarPradesh,Mathura,RoopamStarworldMathura,Hindi,13:45,PrimeXl,110₹,65,0
+UttarPradesh,Mathura,RoopamStarworldMathura,Hindi,13:45,PlatinumXl,110₹,44,0
+UttarPradesh,Aligarh,StarworldCinemasAligarh,Hindi,13:45,Prime,110₹,72,10
+UttarPradesh,PrayagrajAllahabad,StarworldCinemasMutthiganjPrayagraj,Hindi,17:15,Platinum,110₹,144,14
+UttarPradesh,PrayagrajAllahabad,StarworldCinemasMutthiganjPrayagraj,Hindi,17:15,PlatinumXlSeats,110₹,31,0
+UttarPradesh,Haridwar,WavePentagonMallHaridwarSidcul,Hindi,18:35,Classic,180₹,142,0
