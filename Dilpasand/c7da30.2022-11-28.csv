@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,09:25,Classic,112₹,108,2
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,09:25,Prime,150₹,108,0
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,09:25,Recliner,220₹,16,2
+Karnataka,Belur,SriRenukaTalkiesBelur,Kannada,10:00,Balcony,120₹,358,0
+Karnataka,Belur,SriRenukaTalkiesBelur,Kannada,10:00,FirstClass,100₹,358,0
+Karnataka,Belur,SriRenukaTalkiesBelur,Kannada,13:00,Balcony,120₹,358,0
+Karnataka,Belur,SriRenukaTalkiesBelur,Kannada,13:00,FirstClass,100₹,358,0
+Karnataka,Belur,SriRenukaTalkiesBelur,Kannada,16:00,Balcony,120₹,358,0
+Karnataka,Belur,SriRenukaTalkiesBelur,Kannada,16:00,FirstClass,100₹,358,0
+Karnataka,Belur,SriRenukaTalkiesBelur,Kannada,19:00,Balcony,120₹,358,0
+Karnataka,Belur,SriRenukaTalkiesBelur,Kannada,19:00,FirstClass,100₹,358,0
