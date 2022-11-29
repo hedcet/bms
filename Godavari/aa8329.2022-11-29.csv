@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Maharashtra,Pune,CinepolisNexusWestendMallAundhPune,Marathi,13:25,Normal,190₹,23,2
+Maharashtra,Pune,CinepolisNexusWestendMallAundhPune,Marathi,13:25,Executive,210₹,76,9
+Maharashtra,Pune,CinepolisNexusWestendMallAundhPune,Marathi,13:25,Premium,230₹,49,6
+Maharashtra,Pune,CityPrideKothrud,Marathi,14:00,RoyalGold,180₹,149,45
+Maharashtra,Pune,CityPrideKothrud,Marathi,14:00,RoyalSilver,160₹,22,1
+Maharashtra,Mumbai,CinepolisVivianaMallThane,Marathi,16:05,Normal,170₹,27,1
+Maharashtra,Mumbai,CinepolisVivianaMallThane,Marathi,16:05,Executive,190₹,104,14
+Maharashtra,Mumbai,CinepolisVivianaMallThane,Marathi,16:05,Premium,210₹,46,7
+Maharashtra,Pune,AbhiruchiCityPrideSinhagadRoad,Marathi,17:00,RoyalSofa,180₹,12,6
+Maharashtra,Pune,AbhiruchiCityPrideSinhagadRoad,Marathi,17:00,RoyalGold,160₹,123,23
+Maharashtra,Pune,AbhiruchiCityPrideSinhagadRoad,Marathi,17:00,RoyalSilver,140₹,30,0
