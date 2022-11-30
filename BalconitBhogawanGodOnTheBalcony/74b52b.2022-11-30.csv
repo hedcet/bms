@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Assam,Golaghat,GoldCinemaGolaghat,Assamese,11:00,Platinum,150₹,24,24
+Assam,Golaghat,GoldCinemaGolaghat,Assamese,11:00,Gold,130₹,142,142
+Assam,Golaghat,GoldCinemaGolaghat,Assamese,11:00,Silver,100₹,54,54
