@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Chennai,SpiS2PeramburSpectrumMallPerambur,Tamil,12:35,Budget,60₹,23,23
+TamilNadu,Chennai,SpiS2PeramburSpectrumMallPerambur,Tamil,12:35,Elite,179₹,196,19
+TamilNadu,Chennai,PvrAmpaMallNelsonManickamRoad,Tamil,12:40,Classic,60₹,17,17
+TamilNadu,Chennai,PvrAmpaMallNelsonManickamRoad,Tamil,12:40,Prime,190₹,130,1
+TamilNadu,Chennai,RohiniSilverScreensKoyambedu,Tamil,22:55,GoldStar,140₹,120,18
