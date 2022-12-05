@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Kochi,Pvr4DxLuluKochi,English,12:05,Classic,350₹,116,0
+UttarPradesh,NationalCapitalRegionNcr,CinepolisDlfAvenueSaket,English,13:40,Normal,350₹,108,6
+UttarPradesh,NationalCapitalRegionNcr,CinepolisDlfAvenueSaket,English,16:30,Normal,350₹,108,4
+Kerala,Kochi,Pvr4DxLuluKochi,English,18:30,Classic,350₹,116,16
+Kerala,Kochi,ShenoysKochi,English,18:45,Luxe,330₹,68,8
