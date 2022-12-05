@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Macherla,NagarjunaKalamandirMacherla,Telugu,11:00,AClass,70₹,61,56
+AndhraPradesh,Macherla,NagarjunaKalamandirMacherla,Telugu,11:00,BClass,70₹,132,0
+AndhraPradesh,Macherla,NagarjunaKalamandirMacherla,Telugu,11:00,CClass,50₹,143,0
+AndhraPradesh,Macherla,NagarjunaKalamandirMacherla,Telugu,11:00,DClass,50₹,105,0
+AndhraPradesh,Macherla,NagarjunaKalamandirMacherla,Telugu,14:30,AClass,70₹,61,56
+AndhraPradesh,Macherla,NagarjunaKalamandirMacherla,Telugu,14:30,BClass,70₹,132,0
+AndhraPradesh,Macherla,NagarjunaKalamandirMacherla,Telugu,14:30,CClass,50₹,143,0
+AndhraPradesh,Macherla,NagarjunaKalamandirMacherla,Telugu,14:30,DClass,50₹,105,0
+AndhraPradesh,Macherla,NagarjunaKalamandirMacherla,Telugu,18:30,AClass,70₹,61,56
+AndhraPradesh,Macherla,NagarjunaKalamandirMacherla,Telugu,18:30,BClass,70₹,132,0
+AndhraPradesh,Macherla,NagarjunaKalamandirMacherla,Telugu,18:30,CClass,50₹,143,0
+AndhraPradesh,Macherla,NagarjunaKalamandirMacherla,Telugu,18:30,DClass,50₹,105,0
+AndhraPradesh,Macherla,NagarjunaKalamandirMacherla,Telugu,21:30,AClass,70₹,61,56
+AndhraPradesh,Macherla,NagarjunaKalamandirMacherla,Telugu,21:30,BClass,70₹,132,0
+AndhraPradesh,Macherla,NagarjunaKalamandirMacherla,Telugu,21:30,CClass,50₹,143,0
+AndhraPradesh,Macherla,NagarjunaKalamandirMacherla,Telugu,21:30,DClass,50₹,105,0
