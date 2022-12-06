@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Bhuj,NyCinemasSevenSkyBhuj,Gujarati,14:15,Ebony,200₹,12,5
+Gujarat,Bhuj,NyCinemasSevenSkyBhuj,Gujarati,14:15,Premium,170₹,68,55
+Gujarat,Bhuj,NyCinemasSevenSkyBhuj,Gujarati,14:15,Executive,150₹,54,0
+Gujarat,Bhuj,NyCinemasSevenSkyBhuj,Gujarati,14:15,Normal,130₹,36,0
