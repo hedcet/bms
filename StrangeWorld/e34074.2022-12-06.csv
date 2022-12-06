@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,NationalCapitalRegionNcr,GurugramPvrDirectorSCutAmbienceMall,English,10:00,Platinum,500₹,54,0
+UttarPradesh,NationalCapitalRegionNcr,GurugramPvrDirectorSCutAmbienceMall,English,10:00,PlatinumSuperior,500₹,17,0
+Maharashtra,Mumbai,InoxLaserplexCr2NarimanPoint,English,10:00,Insignia,370₹,75,5
+UttarPradesh,NationalCapitalRegionNcr,PvrMgf4DxGurgaon,English,10:00,Classic,350₹,96,0
+Karnataka,Bengaluru,PvrPhoenixMarketcityMallWhitefieldRoad,English,10:30,3DClassic,140₹,120,1
+Karnataka,Bengaluru,PvrPhoenixMarketcityMallWhitefieldRoad,English,10:30,3DRecliner,260₹,8,0
+Maharashtra,Mumbai,MetroInoxCinemasMarineLines,English,11:00,Kiddles,190₹,45,13
+Karnataka,Bengaluru,PvrVegaCityBannerghattaRoad,English,11:35,Classic,112₹,118,4
+Gujarat,Ahmedabad,PvrAcropolis4DxAhmedabad,English,13:00,4DxClassic,325₹,36,8
+Gujarat,Ahmedabad,PvrAcropolis4DxAhmedabad,English,13:00,4DxPrime,325₹,84,12
