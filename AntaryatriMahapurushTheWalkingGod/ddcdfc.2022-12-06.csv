@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Chhattisgarh,Raipur,InoxAmbujaCityCentreRaipur,Hindi,19:05,RoyalRecliner,350₹,20,20
+Chhattisgarh,Raipur,InoxAmbujaCityCentreRaipur,Hindi,19:05,Club,200₹,188,185
+Chhattisgarh,Raipur,InoxAmbujaCityCentreRaipur,Hindi,19:05,Executive,200₹,36,0
+Chhattisgarh,Raipur,InoxAmbujaCityCentreRaipur,Hindi,19:05,Royal,200₹,40,40
+MadhyaPradesh,Jabalpur,SamdareeyaEraCinemaJabalpur,Hindi,20:00,Platinum,120₹,89,41
+MadhyaPradesh,Jabalpur,SamdareeyaEraCinemaJabalpur,Hindi,20:00,Gold,120₹,132,9
+MadhyaPradesh,Jabalpur,SamdareeyaEraCinemaJabalpur,Hindi,20:00,Silver,120₹,77,0
+MadhyaPradesh,Jabalpur,SamdareeyaEraCinemaJabalpur,Hindi,20:00,Recliner,220₹,16,1
