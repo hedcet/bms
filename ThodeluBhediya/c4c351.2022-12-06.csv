@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,RajamahendravaramRajahmundry,GeethaApsaraTheatreRajahmundry,Telugu,11:00,Premium,112₹,481,119
+AndhraPradesh,RajamahendravaramRajahmundry,GeethaApsaraTheatreRajahmundry,Telugu,11:00,NonPremium,75₹,193,90
+AndhraPradesh,Kakinada,Padmapriya2KDolbyAtmosKakinada,Telugu,11:15,Diplomat,112₹,341,0
+AndhraPradesh,RajamahendravaramRajahmundry,GeethaApsaraTheatreRajahmundry,Telugu,14:30,Premium,112₹,481,119
+AndhraPradesh,RajamahendravaramRajahmundry,GeethaApsaraTheatreRajahmundry,Telugu,14:30,NonPremium,75₹,193,90
+AndhraPradesh,Kakinada,Padmapriya2KDolbyAtmosKakinada,Telugu,14:30,Diplomat,112₹,341,0
+AndhraPradesh,RajamahendravaramRajahmundry,GeethaApsaraTheatreRajahmundry,Telugu,18:15,Premium,112₹,481,119
+AndhraPradesh,RajamahendravaramRajahmundry,GeethaApsaraTheatreRajahmundry,Telugu,18:15,NonPremium,75₹,193,90
+AndhraPradesh,Kakinada,Padmapriya2KDolbyAtmosKakinada,Telugu,18:15,Diplomat,112₹,341,0
+AndhraPradesh,RajamahendravaramRajahmundry,GeethaApsaraTheatreRajahmundry,Telugu,21:30,Premium,112₹,481,119
+AndhraPradesh,RajamahendravaramRajahmundry,GeethaApsaraTheatreRajahmundry,Telugu,21:30,NonPremium,75₹,193,90
+AndhraPradesh,Kakinada,Padmapriya2KDolbyAtmosKakinada,Telugu,21:30,Diplomat,112₹,341,0
