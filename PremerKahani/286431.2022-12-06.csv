@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Krishnanagar,SvfCinemasKrishnanagar,Bengali,16:00,Gold,50₹,24,24
+WestBengal,Krishnanagar,SvfCinemasKrishnanagar,Bengali,16:00,Platinum,50₹,200,200
+WestBengal,CoochBehar,SvfCinemasCoochbehar,Bengali,16:00,Gold,50₹,20,20
+WestBengal,CoochBehar,SvfCinemasCoochbehar,Bengali,16:00,Platinum,50₹,126,126
+WestBengal,Jalpaiguri,SvfCinemasPrmMarketCityJalpaiguri,Bengali,16:00,Gold,50₹,26,26
+WestBengal,Jalpaiguri,SvfCinemasPrmMarketCityJalpaiguri,Bengali,16:00,Platinum,50₹,120,120
+WestBengal,Kalna,SvfCinemasKalna,Bengali,16:00,Gold,50₹,9,9
+WestBengal,Kalna,SvfCinemasKalna,Bengali,16:00,Platinum,50₹,72,72
+WestBengal,Hooghly,SvfCinemasKpsMallMilonCinemaChinsurah,Bengali,16:00,Lounger,50₹,11,11
+WestBengal,Hooghly,SvfCinemasKpsMallMilonCinemaChinsurah,Bengali,16:00,Gold,50₹,12,12
+WestBengal,Hooghly,SvfCinemasKpsMallMilonCinemaChinsurah,Bengali,16:00,Platinum,50₹,65,65
