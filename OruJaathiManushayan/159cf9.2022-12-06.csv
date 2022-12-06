@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Kochi,SangeetaCinemaKochi,Malayalam,12:00,BlueCircle,150₹,187,18
+Kerala,Kottayam,DhanyaRemyaKottayam,Malayalam,14:00,Remya,135₹,251,0
+Kerala,Ottapalam,LakshmiPicturePalace,Malayalam,14:30,FirstClass,130₹,146,0
+Kerala,Ottapalam,LakshmiPicturePalace,Malayalam,18:30,FirstClass,130₹,146,0
+Kerala,Vadakara,One2OnePlusFilmCity2K3DDolbyAtmosACVada,Malayalam,19:30,Screen1,129₹,300,0
