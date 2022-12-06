@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Thullur,TulasiCinemasThullur,Telugu,11:00,FirstClass,100₹,223,70
+AndhraPradesh,Thullur,TulasiCinemasThullur,Telugu,11:00,SecondClass,100₹,63,63
+AndhraPradesh,Thullur,TulasiCinemasThullur,Telugu,11:00,ThirdClass,100₹,48,48
+AndhraPradesh,Thullur,TulasiCinemasThullur,Telugu,14:30,FirstClass,100₹,223,70
+AndhraPradesh,Thullur,TulasiCinemasThullur,Telugu,14:30,SecondClass,100₹,63,63
+AndhraPradesh,Thullur,TulasiCinemasThullur,Telugu,14:30,ThirdClass,100₹,48,48
+AndhraPradesh,Thullur,TulasiCinemasThullur,Telugu,18:00,FirstClass,100₹,223,70
+AndhraPradesh,Thullur,TulasiCinemasThullur,Telugu,18:00,SecondClass,100₹,63,63
+AndhraPradesh,Thullur,TulasiCinemasThullur,Telugu,18:00,ThirdClass,100₹,48,48
+AndhraPradesh,Thullur,TulasiCinemasThullur,Telugu,21:30,FirstClass,100₹,223,70
+AndhraPradesh,Thullur,TulasiCinemasThullur,Telugu,21:30,SecondClass,100₹,63,63
+AndhraPradesh,Thullur,TulasiCinemasThullur,Telugu,21:30,ThirdClass,100₹,48,48
