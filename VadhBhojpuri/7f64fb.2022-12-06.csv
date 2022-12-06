@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,Padrauna,QualityStarworldPadrauna,Bhojpuri,12:30,PlatinumXl,110₹,117,0
+UttarPradesh,Ghazipur,NyCinemasSuhasiniTheatreGhazipur,Bhojpuri,13:01,Gold,80₹,32,0
+UttarPradesh,Ghazipur,NyCinemasSuhasiniTheatreGhazipur,Bhojpuri,13:01,Platinum,80₹,123,2
+UttarPradesh,Lucknow,WaveTheWaveMallLucknow,Bhojpuri,13:45,Classic,130₹,128,0
+UttarPradesh,Lucknow,WaveTheWaveMallLucknow,Bhojpuri,13:45,Premium,130₹,100,20
+UttarPradesh,Padrauna,QualityStarworldPadrauna,Bhojpuri,21:00,PlatinumXl,110₹,117,0
