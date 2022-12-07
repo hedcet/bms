@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Krishnagiri,SriMuruganTheatreKrishnagiri,Tamil,10:00,FirstClass,50₹,464,210
+TamilNadu,Krishnagiri,SriMuruganTheatreKrishnagiri,Tamil,14:00,FirstClass,50₹,464,210
+TamilNadu,Krishnagiri,SriMuruganTheatreKrishnagiri,Tamil,18:00,FirstClass,50₹,464,210
+TamilNadu,Theni,VetriCinemasDolbyAtmosTheni,Tamil,18:40,FirstClass,190₹,130,130
+TamilNadu,Theni,VetriCinemasDolbyAtmosTheni,Tamil,18:40,SecondClass,120₹,30,30
+TamilNadu,Theni,VetriCinemasDolbyAtmosTheni,Tamil,18:40,ThirdClass,60₹,18,18
+TamilNadu,Chennai,AgsCinemasVillivakkam,Tamil,19:00,Diamond,190₹,147,0
+TamilNadu,Chennai,AgsCinemasVillivakkam,Tamil,19:00,Pearl,60₹,17,17
+TamilNadu,Chennai,AgsCinemasMaduravoyal,Tamil,22:00,Diamond,190₹,237,33
+TamilNadu,Chennai,AgsCinemasMaduravoyal,Tamil,22:00,Pearl,60₹,24,24
+TamilNadu,Krishnagiri,SriMuruganTheatreKrishnagiri,Tamil,22:00,FirstClass,50₹,464,210
