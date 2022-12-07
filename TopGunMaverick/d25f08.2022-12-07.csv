@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,NationalCapitalRegionNcr,CinepolisDlfAvenueSaket,English,13:40,Normal,350₹,108,0
+TamilNadu,Chennai,SpiPalazzoTheForumVijayaMallVadapalani,English,16:20,Imax,199₹,442,24
+UttarPradesh,NationalCapitalRegionNcr,CinepolisDlfAvenueSaket,English,16:30,Normal,350₹,108,13
+TamilNadu,Chennai,SpiPalazzoTheForumVijayaMallVadapalani,English,23:00,Imax,199₹,442,23
