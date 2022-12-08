@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Palakkad,AromaScreen2Palakkad,Malayalam,09:15,KingCircle,115₹,235,0
+Kerala,Kochi,SangeetaCinemaKochi,Malayalam,12:00,BlueCircle,150₹,187,18
+Kerala,Kottayam,DhanyaRemyaKottayam,Malayalam,14:00,Remya,135₹,251,0
