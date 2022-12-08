@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,GopalanMiniplexSignatureMallOldMadrasRoad,Malayalam,17:00,Gold,180₹,65,5
+Kerala,Trivandrum,AriesplexSlCinemas,Malayalam,19:00,Gold,250₹,4,3
+Kerala,Trivandrum,AriesplexSlCinemas,Malayalam,19:00,Executive,150₹,139,45
+Kerala,Trivandrum,AriesplexSlCinemas,Malayalam,19:00,Economy,100₹,13,0
+Kerala,Kochi,CentralTalkies2K3DDolbyAtmosThrippunithura,Malayalam,21:00,Gold,160₹,129,19
+Karnataka,Bengaluru,GopalanMiniplexSignatureMallOldMadrasRoad,Malayalam,22:00,Gold,180₹,65,29
+Kerala,Trivandrum,AriesplexSlCinemas,Malayalam,22:00,Gold,250₹,4,4
+Kerala,Trivandrum,AriesplexSlCinemas,Malayalam,22:00,Executive,150₹,139,29
+Kerala,Trivandrum,AriesplexSlCinemas,Malayalam,22:00,Economy,100₹,13,0
