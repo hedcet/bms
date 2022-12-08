@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Maharashtra,Mumbai,InoxMegaplexInorbitMallMalad,English,09:30,Kiddles,150₹,57,4
+UttarPradesh,NationalCapitalRegionNcr,PvrDirectorSCutGurugramAmbienceMall,English,10:00,Platinum,500₹,54,0
+UttarPradesh,NationalCapitalRegionNcr,PvrDirectorSCutGurugramAmbienceMall,English,10:00,PlatinumSuperior,500₹,17,0
+Haryana,Chandigarh,Pvr4DxElanteChandigarh,English,10:00,Classic,350₹,108,16
+Maharashtra,Mumbai,InoxInsigniaAtAtriaMallWorli,English,10:20,Insignia,330₹,34,4
+Maharashtra,Mumbai,InoxMegaplexInorbitMallMalad,English,14:05,Kiddles,220₹,57,4
+UttarPradesh,NationalCapitalRegionNcr,PvrVegasDwarka,English,19:40,Classic,240₹,36,0
+UttarPradesh,NationalCapitalRegionNcr,PvrVegasDwarka,English,19:40,Prime,270₹,21,7
+UttarPradesh,NationalCapitalRegionNcr,PvrVegasDwarka,English,19:40,Recliner,340₹,8,0
