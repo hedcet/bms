@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Telangana,Hyderabad,MirajCinemasShaliniShivaniHyderabad,Telugu,11:00,Executive,150₹,94,94
+AndhraPradesh,Kodad,KrishnaPriyaTheatreKodad,Telugu,11:00,Balcony,100₹,198,0
+AndhraPradesh,Kodad,KrishnaPriyaTheatreKodad,Telugu,14:00,Balcony,100₹,198,2
+Telangana,Khammam,SriSunderMaxTheaterKhammam,Telugu,14:30,Balcony,110₹,291,42
+Telangana,Khammam,SriSunderMaxTheaterKhammam,Telugu,14:30,DressCircle,80₹,222,0
+Telangana,Khammam,SriSunderMaxTheaterKhammam,Telugu,14:30,SecondClass,50₹,133,0
+Telangana,Hyderabad,PvrCentralMallPanjagutta,Telugu,16:30,Classic,150₹,141,36
+AndhraPradesh,Kodad,KrishnaPriyaTheatreKodad,Telugu,18:00,Balcony,100₹,198,0
+AndhraPradesh,Kodad,KrishnaPriyaTheatreKodad,Telugu,21:00,Balcony,100₹,198,0
