@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Telangana,Warangal,AsianAshokaAirConditionedHanumakonda,Telugu,11:00,Platinum,110₹,519,161
+Telangana,Warangal,AsianAshokaAirConditionedHanumakonda,Telugu,11:00,Gold,80₹,70,30
+Telangana,Warangal,AsianAshokaAirConditionedHanumakonda,Telugu,14:15,Platinum,110₹,519,96
+Telangana,Warangal,AsianAshokaAirConditionedHanumakonda,Telugu,14:15,Gold,80₹,70,7
+Telangana,Warangal,AsianAshokaAirConditionedHanumakonda,Telugu,18:00,Platinum,110₹,519,90
+Telangana,Warangal,AsianAshokaAirConditionedHanumakonda,Telugu,18:00,Gold,80₹,70,0
+Telangana,Warangal,AsianAshokaAirConditionedHanumakonda,Telugu,21:30,Platinum,110₹,519,90
+Telangana,Warangal,AsianAshokaAirConditionedHanumakonda,Telugu,21:30,Gold,80₹,70,0
