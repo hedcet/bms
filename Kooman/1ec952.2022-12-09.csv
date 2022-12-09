@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Pathanamthitta,SCinemasKonni,Malayalam,14:30,Platinum,150₹,81,20
+Kerala,Pathanamthitta,SCinemasKonni,Malayalam,14:30,Gold,100₹,368,12
+Kerala,Pathanamthitta,SCinemasKonni,Malayalam,18:00,Platinum,150₹,81,20
+Kerala,Pathanamthitta,SCinemasKonni,Malayalam,18:00,Gold,100₹,368,12
+Kerala,Pathanamthitta,SCinemasKonni,Malayalam,21:30,Platinum,150₹,81,20
+Kerala,Pathanamthitta,SCinemasKonni,Malayalam,21:30,Gold,100₹,368,13
