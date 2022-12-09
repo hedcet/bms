@@ -1,0 +1,16 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Amalapuram,SriGanapathiPicturePalaceAmalapuram,Telugu,11:30,FirstClass,70₹,403,272
+AndhraPradesh,Amalapuram,SriGanapathiPicturePalaceAmalapuram,Telugu,11:30,SecondClass,50₹,83,73
+AndhraPradesh,Amalapuram,SriGanapathiPicturePalaceAmalapuram,Telugu,11:30,ThirdClass,30₹,101,91
+AndhraPradesh,Tanuku,SriVenkateswaraComplexTanuku,Telugu,14:10,Sofa,0₹,249,77
+AndhraPradesh,Tanuku,SriVenkateswaraComplexTanuku,Telugu,14:10,ThirdClass,0₹,78,69
+AndhraPradesh,Amalapuram,SriGanapathiPicturePalaceAmalapuram,Telugu,14:30,FirstClass,70₹,403,272
+AndhraPradesh,Amalapuram,SriGanapathiPicturePalaceAmalapuram,Telugu,14:30,SecondClass,50₹,83,73
+AndhraPradesh,Amalapuram,SriGanapathiPicturePalaceAmalapuram,Telugu,14:30,ThirdClass,30₹,101,91
+AndhraPradesh,Tanuku,SriVenkateswaraComplexTanuku,Telugu,18:10,Sofa,0₹,249,77
+AndhraPradesh,Tanuku,SriVenkateswaraComplexTanuku,Telugu,18:10,ThirdClass,0₹,78,69
+AndhraPradesh,Amalapuram,SriGanapathiPicturePalaceAmalapuram,Telugu,18:30,FirstClass,70₹,403,272
+AndhraPradesh,Amalapuram,SriGanapathiPicturePalaceAmalapuram,Telugu,18:30,SecondClass,50₹,83,73
+AndhraPradesh,Amalapuram,SriGanapathiPicturePalaceAmalapuram,Telugu,18:30,ThirdClass,30₹,101,91
+AndhraPradesh,Tanuku,SriVenkateswaraComplexTanuku,Telugu,21:00,Sofa,0₹,249,77
+AndhraPradesh,Tanuku,SriVenkateswaraComplexTanuku,Telugu,21:00,ThirdClass,0₹,78,69
