@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Jiaganj,MahabirJainMunicipaltyCulturalJiaganj,Bengali,13:00,Balcony,100₹,95,0
+WestBengal,Jiaganj,MahabirJainMunicipaltyCulturalJiaganj,Bengali,13:00,RearStall,80₹,286,0
+WestBengal,Kharagpur,BombayCineplexKharagpur,Bengali,16:55,Silver,150₹,58,1
+WestBengal,Kharagpur,BombayCineplexKharagpur,Bengali,16:55,Gold,150₹,194,1
