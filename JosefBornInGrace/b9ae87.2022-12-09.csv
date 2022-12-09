@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,NationalCapitalRegionNcr,PvrPacificDwarka,Hindi,14:00,Classic,250₹,44,17
+UttarPradesh,NationalCapitalRegionNcr,PvrPacificDwarka,Hindi,14:00,Prime,300₹,17,0
+WestBengal,Kolkata,MirajCinemasNewtownKolkata,Hindi,18:00,Recliner,350₹,33,0
+WestBengal,Kolkata,MirajCinemasNewtownKolkata,Hindi,18:00,Gold,200₹,80,0
+WestBengal,Kolkata,MirajCinemasNewtownKolkata,Hindi,18:00,Executive,200₹,85,0
+WestBengal,Kolkata,MirajCinemasNewtownKolkata,Hindi,18:00,Special,180₹,84,0
+Orissa,Bhubaneswar,CinepolisNexusEsplanadeBhubaneswar,Hindi,21:15,Normal,180₹,23,0
+Orissa,Bhubaneswar,CinepolisNexusEsplanadeBhubaneswar,Hindi,21:15,Executive,200₹,52,19
+Orissa,Bhubaneswar,CinepolisNexusEsplanadeBhubaneswar,Hindi,21:15,Premium,220₹,48,6
+Orissa,Bhubaneswar,CinepolisNexusEsplanadeBhubaneswar,Hindi,21:15,Vip,500₹,10,6
