@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Haryana,Chandigarh,InoxNh22MallAmravatiEnclavePanchkula,Hindi,09:30,Club,112₹,154,15
+Haryana,Chandigarh,InoxNh22MallAmravatiEnclavePanchkula,Hindi,09:30,Executive,100₹,108,0
+UttarPradesh,NationalCapitalRegionNcr,PvrVegasDwarka,English,12:00,Classic,180₹,36,0
+UttarPradesh,NationalCapitalRegionNcr,PvrVegasDwarka,English,12:00,Prime,210₹,21,7
+UttarPradesh,NationalCapitalRegionNcr,PvrVegasDwarka,English,12:00,Recliner,300₹,8,0
+Telangana,Hyderabad,PvrNextGalleriaMallPanjagutta,English,16:45,Classic,150₹,54,11
