@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Maharashtra,Mumbai,MirajCinemasStarAmbernath,Tamil,15:00,Platinum,170₹,193,8
+Kerala,Trivandrum,PvrKripaTrivandrum,Tamil,16:15,Classic,140₹,196,46
+Kerala,Trivandrum,PvrKripaTrivandrum,Tamil,16:15,Prime,160₹,16,0
+Maharashtra,Mumbai,MirajCinemasStarAmbernath,Tamil,18:45,Platinum,170₹,70,7
