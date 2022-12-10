@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Thrissur,KairaliSreeTheaterThrissur,Malayalam,11:00,Platinum,129₹,165,15
+Kerala,Thrissur,KairaliSreeTheaterThrissur,Malayalam,11:00,Gold,105₹,520,2
+Kerala,Kollam,GmaxCinemasJerome,Malayalam,14:30,Blue,160₹,170,3
+Kerala,Kottayam,AshaTheatreKottayam,Malayalam,18:00,Gold,130₹,187,24
+Kerala,Kottayam,AshaTheatreKottayam,Malayalam,18:00,Silver,110₹,33,0
+Kerala,Trivandrum,CarnivalGreenfieldTrivandrum,Malayalam,19:00,ExecutiveOffline,180₹,145,6
+Kerala,Kottayam,UgmCinemas4KDolbyAtmosEttumanoor,Malayalam,19:15,Platinum,250₹,16,0
+Kerala,Kottayam,UgmCinemas4KDolbyAtmosEttumanoor,Malayalam,19:15,Gold,150₹,153,4
+Kerala,Pandalam,ThrilokCinemasPandalam,Malayalam,21:30,ExecutiveClass,160₹,11,10
+Kerala,Pandalam,ThrilokCinemasPandalam,Malayalam,21:30,ExecutiveClass1,150₹,86,40
