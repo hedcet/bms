@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Telangana,Warangal,APlexAshokaAirConditionedHanumakonda,Telugu,14:15,Platinum,110₹,519,99
+Telangana,Warangal,APlexAshokaAirConditionedHanumakonda,Telugu,14:15,Gold,80₹,70,4
+Telangana,Warangal,APlexAshokaAirConditionedHanumakonda,Telugu,18:00,Platinum,110₹,519,98
+Telangana,Warangal,APlexAshokaAirConditionedHanumakonda,Telugu,18:00,Gold,80₹,70,2
+Telangana,Warangal,APlexAshokaAirConditionedHanumakonda,Telugu,21:30,Platinum,110₹,519,90
+Telangana,Warangal,APlexAshokaAirConditionedHanumakonda,Telugu,21:30,Gold,80₹,70,0
