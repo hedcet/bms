@@ -1,0 +1,3 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,VizagVisakhapatnam,MohiniCinemasDolbyAtmosGajuwaka,Telugu,21:30,Premium,145₹,222,0
+AndhraPradesh,VizagVisakhapatnam,MohiniCinemasDolbyAtmosGajuwaka,Telugu,21:30,NonPremium,100₹,75,1
