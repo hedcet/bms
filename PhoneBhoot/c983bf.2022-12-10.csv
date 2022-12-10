@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+,Jaora,ShabnamCinemaJaora,Hindi,12:15,Platinum,150₹,113,0
+,Jaora,ShabnamCinemaJaora,Hindi,12:15,Gold,100₹,90,0
+WestBengal,Jalpaiguri,SriDayalCinemaHallJalpaiguri,Hindi,13:00,Balcony,50₹,360,0
+,Jaora,ShabnamCinemaJaora,Hindi,15:15,Platinum,150₹,113,0
+,Jaora,ShabnamCinemaJaora,Hindi,15:15,Gold,100₹,90,0
+WestBengal,Jalpaiguri,SriDayalCinemaHallJalpaiguri,Hindi,16:00,Balcony,50₹,360,2
+Uttaranchal,Vikasnagar,NewUpasnaCinemaVikasnagarDehradun,Hindi,17:00,Gold,120₹,61,0
+Uttaranchal,Vikasnagar,NewUpasnaCinemaVikasnagarDehradun,Hindi,17:00,Silver,80₹,39,0
+WestBengal,Jalpaiguri,SriDayalCinemaHallJalpaiguri,Hindi,19:00,Balcony,50₹,360,0
+Uttaranchal,Vikasnagar,NewUpasnaCinemaVikasnagarDehradun,Hindi,20:00,Gold,120₹,61,8
+Uttaranchal,Vikasnagar,NewUpasnaCinemaVikasnagarDehradun,Hindi,20:00,Silver,80₹,39,0
