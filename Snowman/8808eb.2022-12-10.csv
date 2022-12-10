@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Punjab,Moga,CineroyaleCinemasChokhaEmpireMoga,Punjabi,13:30,VipLounge,360₹,10,0
+Punjab,Moga,CineroyaleCinemasChokhaEmpireMoga,Punjabi,13:30,Gold,150₹,74,0
+Punjab,Moga,CineroyaleCinemasChokhaEmpireMoga,Punjabi,13:30,Silver,150₹,96,0
+Punjab,Moga,CineroyaleCinemasChokhaEmpireMoga,Punjabi,18:50,VipLounge,360₹,10,0
+Punjab,Moga,CineroyaleCinemasChokhaEmpireMoga,Punjabi,18:50,Gold,150₹,74,0
+Punjab,Moga,CineroyaleCinemasChokhaEmpireMoga,Punjabi,18:50,Silver,150₹,96,0
+Punjab,Malout,CcpCineplexMalout,Punjabi,19:50,RoyalClass,320₹,4,0
+Punjab,Malout,CcpCineplexMalout,Punjabi,19:50,GoldClass,100₹,95,0
+Punjab,Nawanshahr,KSeraSeraNawanshahar,Punjabi,21:15,Gold,140₹,30,0
+Punjab,Nawanshahr,KSeraSeraNawanshahar,Punjabi,21:15,Silver,100₹,10,5
+Punjab,Nawanshahr,KSeraSeraNawanshahar,Punjabi,21:15,Platinum,150₹,36,0
