@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Kadapa,ApsaraAC4KDolbyAtmosKadapa,Telugu,11:30,FirstClass,120₹,312,19
+AndhraPradesh,Kadapa,ApsaraAC4KDolbyAtmosKadapa,Telugu,11:30,SecondClass,100₹,78,2
+AndhraPradesh,Kadapa,ApsaraAC4KDolbyAtmosKadapa,Telugu,14:30,FirstClass,120₹,312,11
+AndhraPradesh,Kadapa,ApsaraAC4KDolbyAtmosKadapa,Telugu,14:30,SecondClass,100₹,78,16
+AndhraPradesh,Kadapa,ApsaraAC4KDolbyAtmosKadapa,Telugu,18:30,FirstClass,120₹,312,33
+AndhraPradesh,Kadapa,ApsaraAC4KDolbyAtmosKadapa,Telugu,18:30,SecondClass,100₹,78,10
+AndhraPradesh,Kadapa,ApsaraAC4KDolbyAtmosKadapa,Telugu,21:45,FirstClass,120₹,312,10
+AndhraPradesh,Kadapa,ApsaraAC4KDolbyAtmosKadapa,Telugu,21:45,SecondClass,100₹,78,9
