@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Theni,TheatreFathumaTheni,Tamil,10:30,FirstClass,100₹,368,18
+TamilNadu,Chennai,InoxTheMarinaMallOmr,Tamil,16:00,Club,190₹,137,32
+TamilNadu,Chennai,InoxTheMarinaMallOmr,Tamil,16:00,Executive,60₹,16,16
+TamilNadu,Coimbatore,FunCinemasFunRepublicMallCoimbatore,Tamil,16:15,Normal,60₹,22,0
+TamilNadu,Coimbatore,FunCinemasFunRepublicMallCoimbatore,Tamil,16:15,Executive,152₹,190,0
+TamilNadu,Salem,ArrsMultiplexSalem,Tamil,17:00,FirstClass,150₹,197,20
+TamilNadu,Salem,ArrsMultiplexSalem,Tamil,17:00,SecondClass,120₹,158,0
+TamilNadu,Salem,ArrsMultiplexSalem,Tamil,20:30,FirstClass,150₹,197,17
+TamilNadu,Salem,ArrsMultiplexSalem,Tamil,20:30,SecondClass,120₹,158,0
+TamilNadu,Madurai,InoxVishaalDeMall,Tamil,22:50,Club,178₹,154,33
+TamilNadu,Madurai,InoxVishaalDeMall,Tamil,22:50,Executive,60₹,24,24
