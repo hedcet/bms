@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Bihar,Muzaffarpur,CineGalaxyMotijheelMuzaffarpur,Hindi,15:30,Deluxe,300₹,22,2
+Bihar,Muzaffarpur,CineGalaxyMotijheelMuzaffarpur,Hindi,15:30,Executive,200₹,30,6
+Bihar,Muzaffarpur,CineGalaxyMotijheelMuzaffarpur,Hindi,15:30,Gold,80₹,169,6
+Bihar,Patna,Mona70MmDolbyAtmos,Hindi,18:00,DressCircle,200₹,442,4
+Bihar,Gaya,AprCinemasGaya,Hindi,21:15,GoldClass,100₹,155,0
