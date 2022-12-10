@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Tirur,KhayyamTheatreTirur,Malayalam,18:00,Balcony,100₹,266,169
+Kerala,Tirur,KhayyamTheatreTirur,Malayalam,18:00,FirstClass,90₹,626,603
+Kerala,Kattappana,AiswaryaCinemasKattappana,Malayalam,18:30,Diamond,130₹,172,21
+Kerala,Tirur,KhayyamTheatreTirur,Malayalam,21:00,Balcony,100₹,266,169
+Kerala,Tirur,KhayyamTheatreTirur,Malayalam,21:00,FirstClass,90₹,626,603
