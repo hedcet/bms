@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+MadhyaPradesh,Satna,ImusicaEntertainmentsSatna,Sindhi,09:30,Gold,40₹,42,0
+MadhyaPradesh,Satna,ImusicaEntertainmentsSatna,Sindhi,09:30,RedCarpet,60₹,98,12
+MadhyaPradesh,Satna,ImusicaEntertainmentsSatna,Sindhi,09:30,Royal,110₹,8,2
+Gujarat,Gandhidham,VinayCinemaAdipur,Sindhi,19:00,Vip,200₹,24,24
+Gujarat,Gandhidham,VinayCinemaAdipur,Sindhi,19:00,Platinum,130₹,62,62
+Gujarat,Gandhidham,VinayCinemaAdipur,Sindhi,19:00,Diamond,100₹,124,46
+Gujarat,Gandhidham,VinayCinemaAdipur,Sindhi,19:00,Gold,100₹,111,0
+Gujarat,Gandhidham,VinayCinemaAdipur,Sindhi,19:00,Silver,100₹,54,0
+MadhyaPradesh,Satna,ImusicaEntertainmentsSatna,Sindhi,21:00,Gold,50₹,42,11
+MadhyaPradesh,Satna,ImusicaEntertainmentsSatna,Sindhi,21:00,RedCarpet,110₹,98,18
+MadhyaPradesh,Satna,ImusicaEntertainmentsSatna,Sindhi,21:00,Royal,200₹,8,4
+Gujarat,Ahmedabad,SbMultiplexAgoraMall,Sindhi,22:30,Elite,250₹,34,6
+Gujarat,Ahmedabad,SbMultiplexAgoraMall,Sindhi,22:30,Classic,160₹,160,60
+Gujarat,Ahmedabad,SbMultiplexAgoraMall,Sindhi,22:30,Standard,112₹,32,1
