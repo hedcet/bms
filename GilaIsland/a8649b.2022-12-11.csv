@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Kochi,SavitaCinemaKochi,Malayalam,12:00,Deluxe,150₹,555,85
+Kerala,Thrissur,ShadowCinemasPazhayannur,Malayalam,18:30,Platinum,180₹,16,0
+Kerala,Thrissur,ShadowCinemasPazhayannur,Malayalam,18:30,Gold,129₹,192,0
+Kerala,Kochi,CentralTalkies2K3DDolbyAtmosThrippunithura,Malayalam,19:00,Gold,160₹,129,50
