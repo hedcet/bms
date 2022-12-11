@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Shivamogga,BharathCinemasShivamogga,Kannada,11:30,Gold,200₹,96,10
+Karnataka,Shivamogga,BharathCinemasShivamogga,Kannada,11:30,Silver,200₹,40,0
+Karnataka,Shivamogga,BharathCinemasShivamogga,Kannada,11:30,Special,150₹,30,0
+Karnataka,Udupi,DianaTheatreUdupi,Kannada,16:30,Balcony,80₹,172,0
+Karnataka,Bengaluru,PvrVaishnaviSapphireMallYeshwanthpur,Kannada,18:55,Classic,150₹,85,15
+Karnataka,Bengaluru,PvrVaishnaviSapphireMallYeshwanthpur,Kannada,18:55,Prime,150₹,37,8
+Karnataka,Bengaluru,PvrVaishnaviSapphireMallYeshwanthpur,Kannada,18:55,Recliner,300₹,9,0
+Karnataka,Udupi,DianaTheatreUdupi,Kannada,19:15,Balcony,80₹,172,0
