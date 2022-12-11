@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Madhavaram,UdayaTalkiesMadhavaram,Telugu,11:15,Balcony,0₹,185,76
+AndhraPradesh,Kadapa,ApsaraAC4KDolbyAtmosKadapa,Telugu,11:30,FirstClass,120₹,312,15
+AndhraPradesh,Kadapa,ApsaraAC4KDolbyAtmosKadapa,Telugu,11:30,SecondClass,100₹,78,6
+AndhraPradesh,Madhavaram,UdayaTalkiesMadhavaram,Telugu,14:15,Balcony,0₹,185,76
+AndhraPradesh,Kadapa,ApsaraAC4KDolbyAtmosKadapa,Telugu,14:25,FirstClass,120₹,312,5
+AndhraPradesh,Kadapa,ApsaraAC4KDolbyAtmosKadapa,Telugu,14:25,SecondClass,100₹,78,0
+AndhraPradesh,Madhavaram,UdayaTalkiesMadhavaram,Telugu,18:15,Balcony,0₹,185,76
+AndhraPradesh,Kadapa,ApsaraAC4KDolbyAtmosKadapa,Telugu,18:30,FirstClass,120₹,312,0
+AndhraPradesh,Kadapa,ApsaraAC4KDolbyAtmosKadapa,Telugu,18:30,SecondClass,100₹,78,0
+AndhraPradesh,Madhavaram,UdayaTalkiesMadhavaram,Telugu,21:15,Balcony,0₹,185,76
+AndhraPradesh,Kadapa,ApsaraAC4KDolbyAtmosKadapa,Telugu,21:45,FirstClass,120₹,312,7
+AndhraPradesh,Kadapa,ApsaraAC4KDolbyAtmosKadapa,Telugu,21:45,SecondClass,100₹,78,5
