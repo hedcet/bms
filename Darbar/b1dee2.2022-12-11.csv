@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,VinayakaMultiplexScreen1MysuruRoad,Tamil,10:45,Diamond,110₹,243,0
+Karnataka,Bengaluru,VinayakaMultiplexScreen1MysuruRoad,Tamil,10:45,GoldClass,100₹,270,2
+Karnataka,Bengaluru,VinayakaMultiplexScreen1MysuruRoad,Tamil,13:45,Diamond,110₹,243,0
+Karnataka,Bengaluru,VinayakaMultiplexScreen1MysuruRoad,Tamil,13:45,GoldClass,100₹,270,0
+TamilNadu,Coimbatore,SpiTheCinemaBrookefieldsMall,Tamil,15:25,Budget,60₹,20,12
+TamilNadu,Coimbatore,SpiTheCinemaBrookefieldsMall,Tamil,15:25,Elite,190₹,174,30
