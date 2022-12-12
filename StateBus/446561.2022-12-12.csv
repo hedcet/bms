@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Taliparamba,CrownCinemaTaliparamba,Malayalam,10:30,Crown,130₹,201,1
+Kerala,Taliparamba,CrownCinemaTaliparamba,Malayalam,13:30,Crown,130₹,201,1
+Kerala,Thodupuzha,GmaxCinemasThodupuzha,Malayalam,15:15,Box,180₹,3,3
+Kerala,Thodupuzha,GmaxCinemasThodupuzha,Malayalam,15:15,Blue,140₹,174,0
+Kerala,Taliparamba,CrownCinemaTaliparamba,Malayalam,16:30,Crown,130₹,201,1
+Kerala,Kottayam,UgmCinemas4KDolbyAtmosEttumanoor,Malayalam,17:00,Platinum,250₹,16,0
+Kerala,Kottayam,UgmCinemas4KDolbyAtmosEttumanoor,Malayalam,17:00,Gold,150₹,153,0
+Kerala,Kozhikode,KairaliSreeTheatreKozhikode,Malayalam,18:00,SreeGold,150₹,311,0
+Kerala,Taliparamba,CrownCinemaTaliparamba,Malayalam,19:30,Crown,130₹,201,1
+Kerala,Alakode,AlakodeFilmCity4KDolbyAtmos,Malayalam,21:00,Chandra,129₹,151,21
