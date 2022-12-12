@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Surat,TheFridayCinemaMotaVaracchaSurat,Gujarati,09:00,Recliner,250₹,28,2
+Gujarat,Surat,TheFridayCinemaMotaVaracchaSurat,Gujarati,09:00,PushBackSeat,150₹,73,0
+Gujarat,Surat,TheFridayCinemaMotaVaracchaSurat,Gujarati,09:00,Lounger,112₹,23,0
+Gujarat,Surat,TimeCinemaGalaxyCirclePalSurat,Gujarati,10:00,Standard,180₹,96,0
+Gujarat,Ahmedabad,TimeCinemaCgRoadAhmedabad,Gujarati,14:15,Standard,270₹,108,2
+Gujarat,Surat,TheFridayCinemaMotaVaracchaSurat,Gujarati,15:15,Recliner,250₹,9,2
+Gujarat,Surat,TheFridayCinemaMotaVaracchaSurat,Gujarati,15:15,PushBackSeat,150₹,63,0
+Gujarat,Surat,TheFridayCinemaMotaVaracchaSurat,Gujarati,15:15,Lounger,112₹,11,0
+Gujarat,Surat,TheFridayCinemaMotaVaracchaSurat,Gujarati,18:30,PushBackSeat,150₹,113,0
+Gujarat,Surat,TheFridayCinemaMotaVaracchaSurat,Gujarati,18:30,Lounger,112₹,9,0
+Gujarat,Surat,TimeCinemaGalaxyCirclePalSurat,Gujarati,22:05,Standard,250₹,108,0
