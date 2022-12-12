@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Kanhangad,VinayakaTheaterComplex2KACDolby71,Malayalam,10:30,NewVinayaka2Executive,150₹,300,48
+Kerala,Kanhangad,VinayakaTheaterComplex2KACDolby71,Malayalam,14:30,NewVinayaka2Executive,150₹,300,48
+Kerala,Kasaragod,MagicFramesMehboobTheatreComplexKasaragod,Malayalam,16:35,Executive,129₹,351,8
+Kerala,Kanhangad,VinayakaTheaterComplex2KACDolby71,Malayalam,17:30,NewVinayaka2Executive,150₹,300,48
+Kerala,Kanhangad,VinayakaTheaterComplex2KACDolby71,Malayalam,20:15,NewVinayaka2Executive,150₹,300,48
