@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Angamaly,CarnivalKsrtComplex,Malayalam,10:30,GoldOffline,130₹,203,27
+Kerala,Karunagapally,CarnivalHJComplex,Malayalam,11:00,ClassicOffline,100₹,118,0
+Kerala,Trivandrum,CarnivalMallOfTravancoreTrivandrum,Malayalam,13:30,PremiumOffline,250₹,50,9
+Kerala,Trivandrum,CarnivalMallOfTravancoreTrivandrum,Malayalam,13:30,ExecutiveOffline,160₹,102,7
+Kerala,Trivandrum,CarnivalMallOfTravancoreTrivandrum,Malayalam,13:30,NormalOffline,100₹,17,3
+Kerala,Thalayolaparambu,CarnivalThalayolaparambu,Malayalam,15:15,Gold,110₹,204,0
+Kerala,Trivandrum,CarnivalMallOfTravancoreTrivandrum,Malayalam,18:50,PremiumOffline,250₹,50,8
+Kerala,Trivandrum,CarnivalMallOfTravancoreTrivandrum,Malayalam,18:50,ExecutiveOffline,160₹,102,11
+Kerala,Trivandrum,CarnivalMallOfTravancoreTrivandrum,Malayalam,18:50,NormalOffline,100₹,17,14
+Kerala,Kozhinjampara,VrindavanTheatreKozhinjampara,Malayalam,21:00,Platinum,110₹,189,12
+Kerala,Kasaragod,MoviemaxCircleKasaragod,Malayalam,22:00,Max1,129₹,443,0
