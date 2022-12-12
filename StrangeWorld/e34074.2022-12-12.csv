@@ -1,0 +1,8 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Maharashtra,Mumbai,InoxInsigniaAtAtriaMallWorli,English,10:05,Insignia,330₹,34,4
+MadhyaPradesh,Indore,PvrTreasureIslandMall4DxIndore,English,13:30,4DxClassic,300₹,48,0
+MadhyaPradesh,Indore,PvrTreasureIslandMall4DxIndore,English,13:30,4DxPrime,300₹,60,0
+Maharashtra,Mumbai,MetroInoxCinemasMarineLines,English,16:40,Kiddles,250₹,45,14
+UttarPradesh,NationalCapitalRegionNcr,PvrVegasDwarka,English,19:10,Classic,240₹,36,0
+UttarPradesh,NationalCapitalRegionNcr,PvrVegasDwarka,English,19:10,Prime,270₹,21,0
+UttarPradesh,NationalCapitalRegionNcr,PvrVegasDwarka,English,19:10,Recliner,340₹,8,0
