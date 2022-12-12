@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,NationalCapitalRegionNcr,PvrAmbienceGoldGurgaon,English,11:00,Platinum,500₹,28,0
+UttarPradesh,NationalCapitalRegionNcr,PvrAmbienceGoldGurgaon,English,11:00,PlatinumSuperior,500₹,16,8
+Maharashtra,Mumbai,MaisonPvrTheLoftLuxeJioWorldDriveBkc,English,11:00,Luxe,500₹,24,2
+MadhyaPradesh,Indore,PvrTreasureIslandMallIndore,Hindi,12:00,Classic,130₹,26,0
+MadhyaPradesh,Indore,PvrTreasureIslandMallIndore,Hindi,12:00,Prime,130₹,46,0
+MadhyaPradesh,Indore,PvrTreasureIslandMallIndore,Hindi,12:00,Recliner,250₹,8,0
+MadhyaPradesh,Indore,InoxC21Mall,English,12:50,Normal,130₹,173,13
+Karnataka,Bengaluru,CinepolisNexusShantiniketanBengaluru,English,13:00,Normal,200₹,69,5
+Karnataka,Bengaluru,CinepolisNexusShantiniketanBengaluru,English,13:00,DoubleSofa,200₹,24,2
+Karnataka,Bengaluru,CinepolisNexusShantiniketanBengaluru,English,13:00,Lounger,200₹,9,0
+Karnataka,Bengaluru,CinepolisNexusShantiniketanBengaluru,English,13:00,SingleSofa,200₹,6,0
+Maharashtra,Mumbai,MetroInoxCinemasMarineLines,English,14:15,Kiddles,210₹,45,15
+MadhyaPradesh,Indore,PvrTreasureIslandMallIndore,English,18:00,Classic,130₹,26,0
+MadhyaPradesh,Indore,PvrTreasureIslandMallIndore,English,18:00,Prime,150₹,46,16
+MadhyaPradesh,Indore,PvrTreasureIslandMallIndore,English,18:00,Recliner,300₹,8,4
+Telangana,Hyderabad,PvrNextGalleriaMallPanjagutta,English,19:10,Classic,150₹,54,11
