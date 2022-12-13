@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,JangareddyGudem,SriPadmaTheaterAC2KDolbyJangareddyGudem,Telugu,18:15,Sofa,150₹,62,20
+AndhraPradesh,JangareddyGudem,SriPadmaTheaterAC2KDolbyJangareddyGudem,Telugu,18:15,Balcony,150₹,291,0
+AndhraPradesh,JangareddyGudem,SriPadmaTheaterAC2KDolbyJangareddyGudem,Telugu,21:15,Sofa,150₹,62,20
+AndhraPradesh,JangareddyGudem,SriPadmaTheaterAC2KDolbyJangareddyGudem,Telugu,21:15,Balcony,150₹,291,0
