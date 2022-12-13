@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Maharashtra,Mumbai,InoxMegaplexInorbitMallMalad,English,11:30,Kiddles,130₹,57,6
+UttarPradesh,NationalCapitalRegionNcr,CinepolisAiriaMallSohnaRoadGurgaon,English,11:30,Normal,150₹,30,0
+UttarPradesh,NationalCapitalRegionNcr,CinepolisAiriaMallSohnaRoadGurgaon,English,11:30,DoubleSofa,150₹,24,4
+UttarPradesh,NationalCapitalRegionNcr,CinepolisAiriaMallSohnaRoadGurgaon,English,11:30,Lounger,150₹,8,0
+UttarPradesh,NationalCapitalRegionNcr,PvrLogixNoida,English,14:30,Classic,290₹,49,0
+Maharashtra,Mumbai,MetroInoxCinemasMarineLines,English,16:40,Kiddles,250₹,45,9
+Maharashtra,Mumbai,InoxMegaplexInorbitMallMalad,English,17:00,Club,390₹,16,0
+Maharashtra,Mumbai,InoxMegaplexInorbitMallMalad,English,17:00,Royal,390₹,64,11
+UttarPradesh,NationalCapitalRegionNcr,CinepolisAiriaMallSohnaRoadGurgaon,English,17:00,Normal,160₹,30,0
+UttarPradesh,NationalCapitalRegionNcr,CinepolisAiriaMallSohnaRoadGurgaon,English,17:00,DoubleSofa,200₹,24,0
+UttarPradesh,NationalCapitalRegionNcr,CinepolisAiriaMallSohnaRoadGurgaon,English,17:00,Lounger,180₹,8,0
+UttarPradesh,NationalCapitalRegionNcr,PvrVegasDwarka,English,19:10,Classic,240₹,36,0
+UttarPradesh,NationalCapitalRegionNcr,PvrVegasDwarka,English,19:10,Prime,270₹,21,7
+UttarPradesh,NationalCapitalRegionNcr,PvrVegasDwarka,English,19:10,Recliner,340₹,8,0
