@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Kollam,UshaACCinemaKollam,Malayalam,14:30,Thrimurthi,140₹,492,0
+Kerala,Kasaragod,MagicFramesMehboobTheatreComplexKasaragod,Malayalam,16:30,Executive,129₹,351,2
+Kerala,Kollam,UshaACCinemaKollam,Malayalam,18:15,Thrimurthi,140₹,492,0
+Kerala,Kollam,UshaACCinemaKollam,Malayalam,21:15,Thrimurthi,140₹,492,0
