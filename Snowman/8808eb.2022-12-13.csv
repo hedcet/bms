@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Punjab,Malout,CcpCineplexMalout,Punjabi,15:00,RoyalClass,320₹,4,0
+Punjab,Malout,CcpCineplexMalout,Punjabi,15:00,GoldClass,100₹,95,5
+Punjab,Malout,CcpCineplexMalout,Punjabi,19:50,RoyalClass,320₹,4,0
+Punjab,Malout,CcpCineplexMalout,Punjabi,19:50,GoldClass,100₹,95,0
