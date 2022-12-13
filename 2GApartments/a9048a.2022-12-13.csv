@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Jamnagar,MehulCinemaxJamnagar,Gujarati,15:00,Pl,200₹,4,4
+Gujarat,Jamnagar,MehulCinemaxJamnagar,Gujarati,15:00,Gl,100₹,149,0
+Gujarat,Jamnagar,MehulCinemaxJamnagar,Gujarati,15:00,Sl,100₹,120,0
