@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Rajasthan,Jaipur,CinestarMultiplexVidhyadharNagar,Rajasthani,12:45,Gold,100₹,182,0
+Rajasthan,Jaipur,CinestarMultiplexVidhyadharNagar,Rajasthani,12:45,Platinum,100₹,191,84
+Rajasthan,Jaipur,CinestarMultiplexVidhyadharNagar,Rajasthani,12:45,Recliner,300₹,8,0
+Rajasthan,Jaipur,CinestarMultiplexVidhyadharNagar,Rajasthani,12:45,CoupleRecliner,300₹,12,0
