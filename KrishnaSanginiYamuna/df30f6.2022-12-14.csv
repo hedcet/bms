@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Maharashtra,Mumbai,MaxusCinemasBhayander,Hindi,15:30,Recliners,299₹,24,24
+Maharashtra,Mumbai,MaxusCinemasBhayander,Hindi,15:30,Sofa,199₹,46,46
+Maharashtra,Mumbai,MaxusCinemasBhayander,Hindi,15:30,PremiumPlus,112₹,208,60
+Maharashtra,Mumbai,MaxusCinemasBhayander,Hindi,15:30,Premium,112₹,64,1
+Maharashtra,Mumbai,MaxusCinemasBhayander,Hindi,15:30,Lounger,112₹,16,0
