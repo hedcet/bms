@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Coimbatore,InoxProzoneMallCoimbatore,Tamil,16:10,Club,190₹,175,18
+TamilNadu,Coimbatore,InoxProzoneMallCoimbatore,Tamil,16:10,Executive,60₹,21,5
+AndhraPradesh,Kakinada,InoxSrmtMallKakinada,Telugu,16:30,Executive,112₹,146,18
+TamilNadu,Chennai,LuxeCinemasChennai,Tamil,18:15,Elite2D,190₹,174,24
+TamilNadu,Chennai,LuxeCinemasChennai,Tamil,18:15,Budget,60₹,34,0
