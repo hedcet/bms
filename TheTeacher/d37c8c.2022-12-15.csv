@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Thrissur,KairaliSreeTheaterThrissur,Malayalam,11:00,Platinum,129₹,165,0
+Kerala,Thrissur,KairaliSreeTheaterThrissur,Malayalam,11:00,Gold,105₹,520,0
+Kerala,Kochi,PvrLuluGoldKochi,Malayalam,15:30,Gold,400₹,56,15
+Kerala,Kasaragod,MoviemaxCircleKasaragod,Malayalam,16:30,Max2,129₹,195,0
