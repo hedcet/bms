@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Rajasthan,Tonk,KiranTalkiesTonk,Rajasthani,12:00,Platinum,120₹,84,75
+Rajasthan,Tonk,KiranTalkiesTonk,Rajasthani,12:00,Gold,100₹,105,95
+Rajasthan,Tonk,KiranTalkiesTonk,Rajasthani,12:00,Silver,70₹,67,57
+Rajasthan,Tonk,KiranTalkiesTonk,Rajasthani,15:00,Platinum,120₹,84,75
+Rajasthan,Tonk,KiranTalkiesTonk,Rajasthani,15:00,Gold,100₹,105,95
+Rajasthan,Tonk,KiranTalkiesTonk,Rajasthani,15:00,Silver,70₹,67,57
+Rajasthan,Tonk,KiranTalkiesTonk,Rajasthani,18:00,Platinum,120₹,84,75
+Rajasthan,Tonk,KiranTalkiesTonk,Rajasthani,18:00,Gold,100₹,105,95
+Rajasthan,Tonk,KiranTalkiesTonk,Rajasthani,18:00,Silver,70₹,67,57
+Rajasthan,Tonk,KiranTalkiesTonk,Rajasthani,21:00,Platinum,120₹,84,0
+Rajasthan,Tonk,KiranTalkiesTonk,Rajasthani,21:00,Gold,100₹,105,0
+Rajasthan,Tonk,KiranTalkiesTonk,Rajasthani,21:00,Silver,70₹,67,0
