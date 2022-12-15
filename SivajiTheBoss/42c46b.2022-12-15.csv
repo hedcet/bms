@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Chennai,SpiSathyamCinemasRoyapettahChennai,Tamil,11:40,Budget,59₹,12,12
+TamilNadu,Chennai,SpiSathyamCinemasRoyapettahChennai,Tamil,11:40,Elite,149₹,102,15
+Maharashtra,Mumbai,CinepolisVivianaMallThane,Tamil,18:45,Normal,190₹,25,0
+Maharashtra,Mumbai,CinepolisVivianaMallThane,Tamil,18:45,Executive,190₹,97,4
+Maharashtra,Mumbai,CinepolisVivianaMallThane,Tamil,18:45,Premium,220₹,43,0
+Karnataka,Bengaluru,CinepolisOrionEastMallBanaswadi,Tamil,20:30,Normal,100₹,30,1
+Karnataka,Bengaluru,CinepolisOrionEastMallBanaswadi,Tamil,20:30,Executive,100₹,102,5
+Karnataka,Bengaluru,CinepolisOrionEastMallBanaswadi,Tamil,20:30,Premium,100₹,53,9
