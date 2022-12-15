@@ -1,0 +1,8 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Haryana,Kaithal,CineSquareCinemasKaithal,Haryanavi,13:05,Royale,157₹,84,0
+Haryana,Sonipat,MirajCinemasSonipat,Haryanavi,16:10,Executive,138₹,244,6
+Haryana,Sonipat,MirajCinemasSonipat,Haryanavi,16:10,Prime,138₹,19,0
+UttarPradesh,NationalCapitalRegionNcr,SaimCinemasSlfMallSec3033Faridabad,Haryanavi,18:15,Gold,80₹,116,0
+UttarPradesh,NationalCapitalRegionNcr,SaimCinemasSlfMallSec3033Faridabad,Haryanavi,18:15,Silver,80₹,114,0
+Maharashtra,Mumbai,CarnivalMoviestarGoregaon,Haryanavi,19:05,GoldOffline,110₹,53,35
+Maharashtra,Mumbai,CarnivalMoviestarGoregaon,Haryanavi,19:05,SilverOffline,90₹,35,0
