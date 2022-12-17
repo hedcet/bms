@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Chennai,PvrVrChennaiAnnaNagar,Tamil,12:35,Classic,60₹,30,4
+TamilNadu,Chennai,PvrVrChennaiAnnaNagar,Tamil,12:35,Prime,165₹,158,111
+TamilNadu,Kangayam,AnandCinemasDolbyAtmosACKangayam,Tamil,14:15,Box,190₹,40,0
+TamilNadu,Kangayam,AnandCinemasDolbyAtmosACKangayam,Tamil,14:15,FirstClass,120₹,226,0
+TamilNadu,Tirupur,SriSakthiCinemasMultiplexTirupur,Tamil,15:30,Diamond,190₹,16,2
+TamilNadu,Tirupur,SriSakthiCinemasMultiplexTirupur,Tamil,15:30,Platinum,165₹,26,2
+TamilNadu,Tirupur,SriSakthiCinemasMultiplexTirupur,Tamil,15:30,Gold,130₹,86,22
+TamilNadu,Tirupur,SriSakthiCinemasMultiplexTirupur,Tamil,15:30,Silver,80₹,17,2
+TamilNadu,Kangayam,AnandCinemasDolbyAtmosACKangayam,Tamil,21:45,Box,190₹,40,0
+TamilNadu,Kangayam,AnandCinemasDolbyAtmosACKangayam,Tamil,21:45,FirstClass,120₹,226,0
+TamilNadu,Tirupur,SriSakthiCinemasMultiplexTirupur,Tamil,22:40,Diamond,190₹,16,6
+TamilNadu,Tirupur,SriSakthiCinemasMultiplexTirupur,Tamil,22:40,Platinum,165₹,26,11
+TamilNadu,Tirupur,SriSakthiCinemasMultiplexTirupur,Tamil,22:40,Gold,130₹,86,12
+TamilNadu,Tirupur,SriSakthiCinemasMultiplexTirupur,Tamil,22:40,Silver,80₹,17,0
