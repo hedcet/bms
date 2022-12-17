@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Kottayam,DhanyaRemyaKottayam,Tamil,14:00,Dhanya,135₹,465,0
+Kerala,Pathanamthitta,DhanyaRemyaPathanamthitta,Tamil,14:00,DhanyaCircle,135₹,422,137
+Kerala,Kasaragod,MagicFramesMehboobTheatreComplexKasaragod,Tamil,16:30,Executive,129₹,175,0
+Kerala,Kottayam,DhanyaRemyaKottayam,Tamil,18:00,Dhanya,135₹,465,0
+Kerala,Pathanamthitta,DhanyaRemyaPathanamthitta,Tamil,18:00,DhanyaCircle,135₹,422,137
+Kerala,Trivandrum,AjantaTheatre4KWideTrivandrum,Tamil,18:30,Premium,150₹,264,0
+Kerala,Trivandrum,AjantaTheatre4KWideTrivandrum,Tamil,18:30,Royale,250₹,22,0
+Kerala,Trivandrum,AjantaTheatre4KWideTrivandrum,Tamil,18:30,GrandB,350₹,6,0
+Kerala,Trivandrum,AjantaTheatre4KWideTrivandrum,Tamil,18:30,GrandA,350₹,6,0
+Kerala,Kasaragod,MagicFramesMehboobTheatreComplexKasaragod,Tamil,19:30,Executive,129₹,175,0
+Kerala,Kottayam,DhanyaRemyaKottayam,Tamil,21:00,Dhanya,135₹,465,0
+Kerala,Pathanamthitta,DhanyaRemyaPathanamthitta,Tamil,21:00,DhanyaCircle,135₹,422,137
+Kerala,Trivandrum,AjantaTheatre4KWideTrivandrum,Tamil,22:00,Premium,150₹,264,0
+Kerala,Trivandrum,AjantaTheatre4KWideTrivandrum,Tamil,22:00,Royale,250₹,22,0
+Kerala,Trivandrum,AjantaTheatre4KWideTrivandrum,Tamil,22:00,GrandB,350₹,6,0
+Kerala,Trivandrum,AjantaTheatre4KWideTrivandrum,Tamil,22:00,GrandA,350₹,6,0
