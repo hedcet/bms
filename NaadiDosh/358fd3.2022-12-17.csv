@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Surat,TheFridayCinemaMotaVaracchaSurat,Gujarati,09:00,PushBackSeat,150₹,113,0
+Gujarat,Surat,TheFridayCinemaMotaVaracchaSurat,Gujarati,09:00,Lounger,150₹,9,0
+Gujarat,Surat,TheFridayCinemaMotaVaracchaSurat,Gujarati,12:00,PushBackSeat,150₹,113,2
+Gujarat,Surat,TheFridayCinemaMotaVaracchaSurat,Gujarati,12:00,Lounger,150₹,9,0
+Gujarat,Surat,TheFridayCinemaMotaVaracchaSurat,Gujarati,18:00,PushBackSeat,150₹,113,0
+Gujarat,Surat,TheFridayCinemaMotaVaracchaSurat,Gujarati,18:00,Lounger,150₹,9,0
+Gujarat,Surat,TheFridayCinemaMotaVaracchaSurat,Gujarati,21:15,PushBackSeat,190₹,113,0
+Gujarat,Surat,TheFridayCinemaMotaVaracchaSurat,Gujarati,21:15,Lounger,190₹,9,0
