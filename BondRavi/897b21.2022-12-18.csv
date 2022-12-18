@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,EshwariDigital4KCinemaBanashankari,Kannada,13:30,Balcony,110₹,300,7
+Karnataka,Bengaluru,EshwariDigital4KCinemaBanashankari,Kannada,13:30,Stall,100₹,552,1
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,15:55,Classic,240₹,140,13
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,15:55,Prime,260₹,120,15
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,15:55,Recliner,450₹,33,24
+Karnataka,Bengaluru,EshwariDigital4KCinemaBanashankari,Kannada,16:15,Balcony,110₹,300,18
+Karnataka,Bengaluru,EshwariDigital4KCinemaBanashankari,Kannada,16:15,Stall,100₹,552,17
+Karnataka,Bengaluru,EshwariDigital4KCinemaBanashankari,Kannada,19:00,Balcony,110₹,300,4
+Karnataka,Bengaluru,EshwariDigital4KCinemaBanashankari,Kannada,19:00,Stall,100₹,552,1
