@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,MysuruMysore,InoxCentroMysore,Kannada,09:20,Club,150₹,44,14
+Karnataka,MysuruMysore,InoxCentroMysore,Kannada,09:20,Executive,150₹,46,0
+Karnataka,TumakuruTumkur,InoxSMallTumakuru,Kannada,09:55,Club,160₹,64,11
+Karnataka,TumakuruTumkur,InoxSMallTumakuru,Kannada,09:55,Executive,150₹,76,5
+Karnataka,MysuruMysore,DrcCinemasBmHabitatMall,Kannada,13:05,Premium,150₹,182,3
+Karnataka,MysuruMysore,DrcCinemasBmHabitatMall,Kannada,13:05,Luxury,200₹,18,2
+Karnataka,MysuruMysore,MysuruVisionCinemasBehindGrsFantasyPark,Kannada,13:40,Premier,150₹,187,12
+Karnataka,TumakuruTumkur,InoxSMallTumakuru,Kannada,17:00,Royal,350₹,14,11
+Karnataka,TumakuruTumkur,InoxSMallTumakuru,Kannada,17:00,Club,220₹,120,33
+Karnataka,TumakuruTumkur,InoxSMallTumakuru,Kannada,17:00,Executive,210₹,136,1
+Karnataka,MysuruMysore,MysuruVisionCinemasBehindGrsFantasyPark,Kannada,19:45,Premier,150₹,187,9
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,21:45,Classic,180₹,140,11
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,21:45,Prime,220₹,120,9
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,21:45,Recliner,400₹,33,3
