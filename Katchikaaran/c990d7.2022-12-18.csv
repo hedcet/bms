@@ -1,0 +1,16 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Udumalpet,ThiruSenthilTheatreMadathukulamUdumalppettai,Tamil,10:30,First,100₹,239,173
+TamilNadu,Udumalpet,ThiruSenthilTheatreMadathukulamUdumalppettai,Tamil,10:30,Second,100₹,125,115
+TamilNadu,Udumalpet,ThiruSenthilTheatreMadathukulamUdumalppettai,Tamil,10:30,Third,100₹,126,116
+TamilNadu,Udumalpet,ThiruSenthilTheatreMadathukulamUdumalppettai,Tamil,14:15,First,100₹,239,173
+TamilNadu,Udumalpet,ThiruSenthilTheatreMadathukulamUdumalppettai,Tamil,14:15,Second,100₹,125,115
+TamilNadu,Udumalpet,ThiruSenthilTheatreMadathukulamUdumalppettai,Tamil,14:15,Third,100₹,126,116
+TamilNadu,Udumalpet,ThiruSenthilTheatreMadathukulamUdumalppettai,Tamil,18:15,First,100₹,239,173
+TamilNadu,Udumalpet,ThiruSenthilTheatreMadathukulamUdumalppettai,Tamil,18:15,Second,100₹,125,115
+TamilNadu,Udumalpet,ThiruSenthilTheatreMadathukulamUdumalppettai,Tamil,18:15,Third,100₹,126,116
+TamilNadu,Chennai,RohiniSilverScreensKoyambedu,Tamil,18:30,GoldStar,160₹,120,60
+TamilNadu,Chennai,Vetrivel4KDolbyAtmosNanganallur,Tamil,18:30,Platinum,100₹,142,0
+TamilNadu,Chennai,SreeLakshmibalaMoviepark4K3DDolby712Padi,Tamil,19:00,FirstClass,110₹,189,189
+TamilNadu,Udumalpet,ThiruSenthilTheatreMadathukulamUdumalppettai,Tamil,21:50,First,100₹,239,173
+TamilNadu,Udumalpet,ThiruSenthilTheatreMadathukulamUdumalppettai,Tamil,21:50,Second,100₹,125,115
+TamilNadu,Udumalpet,ThiruSenthilTheatreMadathukulamUdumalppettai,Tamil,21:50,Third,100₹,126,116
