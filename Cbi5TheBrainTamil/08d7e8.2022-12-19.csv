@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Dindigul,JCinemasAC71LaserProjectorChinnalapatti,Tamil,10:45,FirstClass,100₹,190,23
+TamilNadu,Dindigul,JCinemasAC71LaserProjectorChinnalapatti,Tamil,10:45,SecondClass,100₹,129,0
+TamilNadu,Dindigul,JCinemasAC71LaserProjectorChinnalapatti,Tamil,14:30,FirstClass,100₹,190,23
+TamilNadu,Dindigul,JCinemasAC71LaserProjectorChinnalapatti,Tamil,14:30,SecondClass,100₹,129,0
+TamilNadu,Virudhunagar,AmirtharajTheatreAC2KDolby71Virudhunagar,Tamil,14:30,BoxBCouple,150₹,22,0
+TamilNadu,Virudhunagar,AmirtharajTheatreAC2KDolby71Virudhunagar,Tamil,14:30,FirstClass,100₹,341,31
+TamilNadu,Dindigul,JCinemasAC71LaserProjectorChinnalapatti,Tamil,18:30,FirstClass,100₹,190,23
+TamilNadu,Dindigul,JCinemasAC71LaserProjectorChinnalapatti,Tamil,18:30,SecondClass,100₹,129,0
+TamilNadu,Virudhunagar,AmirtharajTheatreAC2KDolby71Virudhunagar,Tamil,18:30,BoxBCouple,150₹,22,0
+TamilNadu,Virudhunagar,AmirtharajTheatreAC2KDolby71Virudhunagar,Tamil,18:30,FirstClass,100₹,341,31
+TamilNadu,Dindigul,JCinemasAC71LaserProjectorChinnalapatti,Tamil,22:15,FirstClass,100₹,190,23
+TamilNadu,Dindigul,JCinemasAC71LaserProjectorChinnalapatti,Tamil,22:15,SecondClass,100₹,129,0
+TamilNadu,Virudhunagar,AmirtharajTheatreAC2KDolby71Virudhunagar,Tamil,22:30,BoxBCouple,150₹,22,0
+TamilNadu,Virudhunagar,AmirtharajTheatreAC2KDolby71Virudhunagar,Tamil,22:30,FirstClass,100₹,341,31
