@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Bichkunda,ParameswariTheatreBichkunda,Telugu,11:00,Box,100₹,58,0
+AndhraPradesh,Bichkunda,ParameswariTheatreBichkunda,Telugu,14:00,Box,100₹,58,0
+Telangana,Hyderabad,InoxSattvaNecklaceMallKavadiguda,Telugu,14:10,Royal,250₹,14,6
+Telangana,Hyderabad,InoxSattvaNecklaceMallKavadiguda,Telugu,14:10,Executive,150₹,126,5
+AndhraPradesh,Bichkunda,ParameswariTheatreBichkunda,Telugu,18:00,Box,100₹,58,0
+AndhraPradesh,Husnabad,VKMMovieMax70MmACHusnabad,Telugu,18:30,Balcony,100₹,310,0
+AndhraPradesh,Bichkunda,ParameswariTheatreBichkunda,Telugu,21:00,Box,100₹,58,0
+AndhraPradesh,Husnabad,VKMMovieMax70MmACHusnabad,Telugu,21:30,Balcony,100₹,310,0
