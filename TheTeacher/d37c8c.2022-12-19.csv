@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+,Kalady,JmMoviesJoshMallMookkannoor,Malayalam,15:30,Gold,130₹,126,10
+,Kalady,JmMoviesJoshMallMookkannoor,Malayalam,15:30,Diamond,160₹,53,5
+,Kalady,JmMoviesJoshMallMookkannoor,Malayalam,19:00,Gold,130₹,126,5
+,Kalady,JmMoviesJoshMallMookkannoor,Malayalam,19:00,Diamond,160₹,53,5
+,Kalady,JmMoviesJoshMallMookkannoor,Malayalam,21:30,Gold,130₹,126,0
+,Kalady,JmMoviesJoshMallMookkannoor,Malayalam,21:30,Diamond,160₹,53,0
