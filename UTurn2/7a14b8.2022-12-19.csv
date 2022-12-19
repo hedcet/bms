@@ -1,0 +1,14 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,TumakuruTumkur,SriKrishnaTalkiesACMGRoad,Kannada,10:30,BalconyClass,120₹,221,0
+Karnataka,TumakuruTumkur,SriKrishnaTalkiesACMGRoad,Kannada,10:30,SecondClass,100₹,485,0
+Karnataka,Bengaluru,InoxMantriSquareMalleshwaram,Kannada,13:35,Royal,300₹,14,6
+Karnataka,Bengaluru,InoxMantriSquareMalleshwaram,Kannada,13:35,Club,160₹,272,27
+Karnataka,Bengaluru,GopalanMallSirsiCircle,Kannada,14:00,Gold,150₹,265,4
+Karnataka,VijayapuraBijapur,AlankarTheatreBijapur,Kannada,18:00,Balcony,150₹,275,0
+Karnataka,Bengaluru,PvrVaishnaviSapphireMallYeshwanthpur,Kannada,18:30,Classic,170₹,85,1
+Karnataka,Bengaluru,PvrVaishnaviSapphireMallYeshwanthpur,Kannada,18:30,Prime,190₹,37,6
+Karnataka,Bengaluru,PvrVaishnaviSapphireMallYeshwanthpur,Kannada,18:30,Recliner,280₹,13,2
+Karnataka,KalaburagiGulbarga,MirajCinemasGulbarga,Kannada,19:45,Special,110₹,80,0
+Karnataka,KalaburagiGulbarga,MirajCinemasGulbarga,Kannada,19:45,Executive,130₹,192,5
+Karnataka,KalaburagiGulbarga,MirajCinemasGulbarga,Kannada,19:45,Gold,250₹,10,0
+Karnataka,VijayapuraBijapur,AlankarTheatreBijapur,Kannada,21:00,Balcony,150₹,275,0
