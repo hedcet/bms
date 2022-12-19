@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Telangana,Hyderabad,PriyaTheatreMalleypally,Hindi,12:00,MaharajaLower,100₹,336,100
+Telangana,Hyderabad,PriyaTheatreMalleypally,Hindi,15:00,MaharajaLower,100₹,336,96
+Telangana,Hyderabad,PriyaTheatreMalleypally,Hindi,18:30,MaharajaLower,100₹,336,96
+Telangana,Hyderabad,PriyaTheatreMalleypally,Hindi,21:30,MaharajaLower,100₹,336,96
