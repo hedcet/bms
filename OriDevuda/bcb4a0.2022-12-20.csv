@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Medarametla,SriNarayanaChitralayaMedarametla,Telugu,11:00,Platinum,100₹,127,51
+AndhraPradesh,Medarametla,SriNarayanaChitralayaMedarametla,Telugu,11:00,Gold,100₹,228,9
+AndhraPradesh,Medarametla,SriNarayanaChitralayaMedarametla,Telugu,11:00,Silver,100₹,94,5
+AndhraPradesh,Medarametla,SriNarayanaChitralayaMedarametla,Telugu,14:30,Platinum,100₹,127,51
+AndhraPradesh,Medarametla,SriNarayanaChitralayaMedarametla,Telugu,14:30,Gold,100₹,228,9
+AndhraPradesh,Medarametla,SriNarayanaChitralayaMedarametla,Telugu,14:30,Silver,100₹,94,5
+AndhraPradesh,Medarametla,SriNarayanaChitralayaMedarametla,Telugu,18:00,Platinum,100₹,127,51
+AndhraPradesh,Medarametla,SriNarayanaChitralayaMedarametla,Telugu,18:00,Gold,100₹,228,9
+AndhraPradesh,Medarametla,SriNarayanaChitralayaMedarametla,Telugu,18:00,Silver,100₹,94,5
+AndhraPradesh,Medarametla,SriNarayanaChitralayaMedarametla,Telugu,21:30,Platinum,100₹,127,51
+AndhraPradesh,Medarametla,SriNarayanaChitralayaMedarametla,Telugu,21:30,Gold,100₹,228,9
+AndhraPradesh,Medarametla,SriNarayanaChitralayaMedarametla,Telugu,21:30,Silver,100₹,94,5
