@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,VeereshCinemasMagadiRoad,Kannada,10:00,Balcony,110₹,322,0
+Karnataka,Bengaluru,VeereshCinemasMagadiRoad,Kannada,10:00,FirstClass,100₹,602,0
+Karnataka,Haveri,ChhotuMaharajCineCafeHaveri,Kannada,12:00,Sofa,200₹,8,0
+Karnataka,Haveri,ChhotuMaharajCineCafeHaveri,Kannada,12:00,Classique,150₹,92,0
+Karnataka,Bengaluru,VeereshCinemasMagadiRoad,Kannada,13:00,Balcony,110₹,322,2
+Karnataka,Bengaluru,VeereshCinemasMagadiRoad,Kannada,13:00,FirstClass,100₹,602,6
+Karnataka,Haveri,ChhotuMaharajCineCafeHaveri,Kannada,21:00,Sofa,200₹,8,0
+Karnataka,Haveri,ChhotuMaharajCineCafeHaveri,Kannada,21:00,Classique,150₹,92,0
