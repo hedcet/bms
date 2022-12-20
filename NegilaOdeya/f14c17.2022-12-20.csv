@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bellary,UmaTheatreBellary,Kannada,11:00,GoldClass,100₹,245,63
+Karnataka,Bengaluru,GopalanMallSirsiCircle,Kannada,13:00,Gold,150₹,179,0
+Karnataka,Bengaluru,GopalanMallSirsiCircle,Kannada,13:00,Recliner,250₹,18,0
+Karnataka,Bellary,UmaTheatreBellary,Kannada,14:00,GoldClass,100₹,245,60
+Karnataka,Bellary,UmaTheatreBellary,Kannada,17:00,GoldClass,100₹,245,60
+Karnataka,Bellary,UmaTheatreBellary,Kannada,20:15,GoldClass,100₹,245,60
