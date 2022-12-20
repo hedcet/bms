@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Hooghly,SvfCinemasMogra,Bengali,13:00,Gold,80₹,45,0
+WestBengal,Hooghly,SvfCinemasMogra,Bengali,13:00,Platinum,80₹,176,2
+WestBengal,Kalyani,DolphinMultiplexHaringhata,Bengali,16:00,RoyalClass,150₹,9,0
+WestBengal,Kalyani,DolphinMultiplexHaringhata,Bengali,16:00,EconomyClass,100₹,72,0
