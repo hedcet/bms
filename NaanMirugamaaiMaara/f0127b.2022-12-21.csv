@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Kozhinjampara,RavirajComplexACKozhinjampara,Tamil,11:00,Balcony,250₹,15,7
+Kerala,Kozhinjampara,RavirajComplexACKozhinjampara,Tamil,11:00,FirstClass,110₹,215,127
+Kerala,Kozhinjampara,RavirajComplexACKozhinjampara,Tamil,14:00,Balcony,250₹,15,7
+Kerala,Kozhinjampara,RavirajComplexACKozhinjampara,Tamil,14:00,FirstClass,110₹,215,127
+Kerala,Palakkad,NewAromaTheatrePalakkad,Tamil,14:15,PlatinumCircle,115₹,200,0
+Kerala,Palakkad,NewAromaTheatrePalakkad,Tamil,14:15,DiamondCircle,100₹,229,1
+Kerala,Palakkad,NewAromaTheatrePalakkad,Tamil,18:00,PlatinumCircle,115₹,200,0
+Kerala,Palakkad,NewAromaTheatrePalakkad,Tamil,18:00,DiamondCircle,100₹,229,0
+Kerala,Kozhinjampara,RavirajComplexACKozhinjampara,Tamil,18:00,Balcony,250₹,15,7
+Kerala,Kozhinjampara,RavirajComplexACKozhinjampara,Tamil,18:00,FirstClass,110₹,215,127
+Kerala,Palakkad,NewAromaTheatrePalakkad,Tamil,21:00,PlatinumCircle,115₹,200,0
+Kerala,Palakkad,NewAromaTheatrePalakkad,Tamil,21:00,DiamondCircle,100₹,229,0
+Kerala,Kozhinjampara,RavirajComplexACKozhinjampara,Tamil,21:00,Balcony,250₹,15,7
+Kerala,Kozhinjampara,RavirajComplexACKozhinjampara,Tamil,21:00,FirstClass,110₹,215,127
