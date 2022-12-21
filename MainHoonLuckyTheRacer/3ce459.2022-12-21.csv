@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Ranaghat,RanaghatTalkiesNadia,Hindi,11:00,1stClass,30₹,720,6
+WestBengal,Ranaghat,RanaghatTalkiesNadia,Hindi,11:00,Balcony,50₹,130,18
+WestBengal,Dubrajpur,BinapaniTalkiesDubrajpur,Hindi,13:00,Balcony,40₹,200,0
+WestBengal,Dubrajpur,BinapaniTalkiesDubrajpur,Hindi,13:00,RearStall,30₹,500,0
+WestBengal,AurangabadWestBengal,ShyamalTalkiesAurangabadWB,Hindi,14:00,Balcony,50₹,220,0
+WestBengal,AurangabadWestBengal,ShyamalTalkiesAurangabadWB,Hindi,14:00,RearStall,30₹,280,0
+WestBengal,Dubrajpur,BinapaniTalkiesDubrajpur,Hindi,16:00,Balcony,40₹,200,0
+WestBengal,Dubrajpur,BinapaniTalkiesDubrajpur,Hindi,16:00,RearStall,30₹,500,0
+WestBengal,AurangabadWestBengal,ShyamalTalkiesAurangabadWB,Hindi,17:00,Balcony,50₹,220,0
+WestBengal,AurangabadWestBengal,ShyamalTalkiesAurangabadWB,Hindi,17:00,RearStall,30₹,280,0
+WestBengal,Dubrajpur,BinapaniTalkiesDubrajpur,Hindi,19:00,Balcony,40₹,200,0
+WestBengal,Dubrajpur,BinapaniTalkiesDubrajpur,Hindi,19:00,RearStall,30₹,500,0
+WestBengal,AurangabadWestBengal,ShyamalTalkiesAurangabadWB,Hindi,20:00,Balcony,50₹,220,0
+WestBengal,AurangabadWestBengal,ShyamalTalkiesAurangabadWB,Hindi,20:00,RearStall,30₹,280,0
