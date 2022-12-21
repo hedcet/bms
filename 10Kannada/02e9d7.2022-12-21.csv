@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,PrasannaDigital4KCinemaMagadiRoad,Kannada,10:30,Gold,110₹,355,2
+Karnataka,Bengaluru,PrasannaDigital4KCinemaMagadiRoad,Kannada,10:30,Silver,100₹,748,40
+Karnataka,Bengaluru,InoxGalleriaMallYelahanka,Kannada,15:15,Royale,350₹,13,4
+Karnataka,Bengaluru,InoxGalleriaMallYelahanka,Kannada,15:15,Club,200₹,80,10
+Karnataka,Bengaluru,InoxGalleriaMallYelahanka,Kannada,15:15,Executive,180₹,128,2
+Karnataka,Bengaluru,GopalanGrandMallOldMadrasRoad,Kannada,16:30,Gold,180₹,148,0
+Karnataka,Bengaluru,PvrVegaCityBannerghattaRoad,Kannada,16:45,Classic,236₹,86,17
+Karnataka,Bengaluru,PvrVegaCityBannerghattaRoad,Kannada,16:45,Recliner,600₹,9,0
