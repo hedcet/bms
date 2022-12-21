@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Mangalagiri,UrvasiTheaterACDtsMangalagiri,Telugu,21:30,PreBal,112₹,92,0
+AndhraPradesh,Mangalagiri,UrvasiTheaterACDtsMangalagiri,Telugu,21:30,PreSofa,112₹,68,2
+AndhraPradesh,Mangalagiri,UrvasiTheaterACDtsMangalagiri,Telugu,21:30,Pre1st,112₹,198,0
+AndhraPradesh,Mangalagiri,UrvasiTheaterACDtsMangalagiri,Telugu,21:30,NonPre2nd,78₹,119,28
