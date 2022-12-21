@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Chennai,PvrVrChennaiAnnaNagar,Tamil,12:35,Classic,60₹,30,30
+TamilNadu,Chennai,PvrVrChennaiAnnaNagar,Tamil,12:35,Prime,165₹,158,44
+TamilNadu,Tirupur,SriSakthiCinemasUnionMillRoadTirupur,Tamil,15:25,Diamond,190₹,16,7
+TamilNadu,Tirupur,SriSakthiCinemasUnionMillRoadTirupur,Tamil,15:25,Platinum,165₹,26,0
+TamilNadu,Tirupur,SriSakthiCinemasUnionMillRoadTirupur,Tamil,15:25,Gold,130₹,86,8
+TamilNadu,Tirupur,SriSakthiCinemasUnionMillRoadTirupur,Tamil,15:25,Silver,80₹,17,1
+TamilNadu,Tirupur,SriSakthiCinemasUnionMillRoadTirupur,Tamil,18:45,Diamond,190₹,16,0
+TamilNadu,Tirupur,SriSakthiCinemasUnionMillRoadTirupur,Tamil,18:45,Platinum,165₹,26,2
+TamilNadu,Tirupur,SriSakthiCinemasUnionMillRoadTirupur,Tamil,18:45,Gold,130₹,86,0
+TamilNadu,Tirupur,SriSakthiCinemasUnionMillRoadTirupur,Tamil,18:45,Silver,80₹,17,0
+TamilNadu,Tirupur,SriSakthiCinemasUnionMillRoadTirupur,Tamil,22:25,Diamond,190₹,16,16
+TamilNadu,Tirupur,SriSakthiCinemasUnionMillRoadTirupur,Tamil,22:25,Platinum,165₹,26,26
+TamilNadu,Tirupur,SriSakthiCinemasUnionMillRoadTirupur,Tamil,22:25,Gold,130₹,86,86
+TamilNadu,Tirupur,SriSakthiCinemasUnionMillRoadTirupur,Tamil,22:25,Silver,80₹,17,17
