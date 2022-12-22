@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Madurai,GopuramCinemasAtmosAndLaserProjectorMadurai,Tamil,11:00,Elite,178₹,70,0
+TamilNadu,Madurai,GopuramCinemasAtmosAndLaserProjectorMadurai,Tamil,11:00,Premium,127₹,40,0
+TamilNadu,Madurai,GopuramCinemasAtmosAndLaserProjectorMadurai,Tamil,11:00,Budget,60₹,20,20
