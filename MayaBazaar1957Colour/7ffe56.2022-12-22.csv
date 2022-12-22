@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Anaparthi,SuryaSreeTheatreAnaparthi,Telugu,11:00,Premium,100₹,335,265
+AndhraPradesh,Anaparthi,SuryaSreeTheatreAnaparthi,Telugu,11:00,NonPremium,70₹,111,101
+AndhraPradesh,Anaparthi,SuryaSreeTheatreAnaparthi,Telugu,14:30,Premium,100₹,335,265
+AndhraPradesh,Anaparthi,SuryaSreeTheatreAnaparthi,Telugu,14:30,NonPremium,70₹,111,101
+AndhraPradesh,Anaparthi,SuryaSreeTheatreAnaparthi,Telugu,18:00,Premium,100₹,335,265
+AndhraPradesh,Anaparthi,SuryaSreeTheatreAnaparthi,Telugu,18:00,NonPremium,70₹,111,101
+AndhraPradesh,Anaparthi,SuryaSreeTheatreAnaparthi,Telugu,21:30,Premium,100₹,335,265
+AndhraPradesh,Anaparthi,SuryaSreeTheatreAnaparthi,Telugu,21:30,NonPremium,70₹,111,101
