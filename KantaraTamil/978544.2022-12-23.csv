@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Tirupur,SriSakthiCinemasMultiplexTirupur,Tamil,13:30,Diamond,190₹,22,2
+TamilNadu,Tirupur,SriSakthiCinemasMultiplexTirupur,Tamil,13:30,Platinum,165₹,24,0
+TamilNadu,Tirupur,SriSakthiCinemasMultiplexTirupur,Tamil,13:30,Gold,130₹,96,10
+TamilNadu,Tirupur,SriSakthiCinemasMultiplexTirupur,Tamil,13:30,Silver,80₹,16,1
