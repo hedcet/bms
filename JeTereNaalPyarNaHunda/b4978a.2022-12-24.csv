@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Punjab,Dinanagar,OneCinemasDinanagar,Punjabi,12:30,Gold,100₹,150,0
+Punjab,Dinanagar,OneCinemasDinanagar,Punjabi,12:30,Silver,80₹,63,6
+Punjab,Hoshiarpur,KbpShirazCinemaHoshiarpur,Punjabi,13:00,Diamond,150₹,33,0
+Punjab,Hoshiarpur,KbpShirazCinemaHoshiarpur,Punjabi,13:00,Gold,150₹,44,0
+Punjab,Hoshiarpur,KbpShirazCinemaHoshiarpur,Punjabi,13:00,Silver,150₹,22,0
+Punjab,Dinanagar,OneCinemasDinanagar,Punjabi,17:30,Gold,100₹,150,0
+Punjab,Dinanagar,OneCinemasDinanagar,Punjabi,17:30,Silver,80₹,63,0
+Punjab,Ludhiana,PvrSilverArcLudhiana,Punjabi,18:35,Classic,230₹,202,22
+Punjab,Ludhiana,PvrSilverArcLudhiana,Punjabi,18:35,Prime,270₹,16,0
+Punjab,Ludhiana,PvrSilverArcLudhiana,Punjabi,18:35,Recliner,400₹,26,2
