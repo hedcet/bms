@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+,Jind,RsCinemaJindHaryana,Haryanavi,10:15,Gold,100₹,71,0
+Haryana,Rohtak,RnCinemasRohtak,Haryanavi,10:25,Silver,120₹,68,0
+Haryana,Rohtak,RnCinemasRohtak,Haryanavi,10:25,Gold,400₹,4,0
+Haryana,Rohtak,RnCinemasRohtak,Haryanavi,10:30,Silver,120₹,92,0
+Haryana,Rohtak,RnCinemasRohtak,Haryanavi,10:30,Gold,250₹,8,0
+Haryana,Rohtak,RnCinemasRohtak,Haryanavi,18:25,Silver,120₹,68,13
+Haryana,Rohtak,RnCinemasRohtak,Haryanavi,18:25,Gold,400₹,4,0
+Maharashtra,Mumbai,KKCinemaKamothe,Haryanavi,19:00,Executive,220₹,77,73
