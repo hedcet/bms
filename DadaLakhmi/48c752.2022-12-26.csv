@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Haryana,Safidon,RSCinemaSafidon,Haryanavi,10:45,Gold,100₹,102,0
+,Jind,RsCinemaJindHaryana,Haryanavi,13:30,Gold,100₹,71,0
+Haryana,Safidon,RSCinemaSafidon,Haryanavi,16:30,Gold,100₹,102,0
+Haryana,Rohtak,RnCinemasRohtak,Haryanavi,18:10,Silver,120₹,68,3
+Haryana,Rohtak,RnCinemasRohtak,Haryanavi,18:10,Gold,400₹,4,0
