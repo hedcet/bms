@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Haryana,Safidon,RSCinemaSafidon,Haryanavi,10:45,Gold,100₹,102,0
+Haryana,Safidon,RSCinemaSafidon,Haryanavi,16:30,Gold,100₹,102,0
+Maharashtra,Mumbai,KKCinemaKamothe,Haryanavi,19:00,Executive,180₹,77,23
