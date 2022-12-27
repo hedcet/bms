@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Ahmedabad,19CinemaSouthBopalAhmedabad,Hindi,12:15,Sofa,100₹,8,0
+Gujarat,Ahmedabad,19CinemaSouthBopalAhmedabad,Hindi,12:15,Bed,100₹,12,0
+Maharashtra,Mumbai,CarnivalMoviestarGoregaon,Hindi,13:15,GoldOffline,110₹,55,4
+Maharashtra,Mumbai,CarnivalMoviestarGoregaon,Hindi,13:15,SilverOffline,90₹,20,0
+Maharashtra,Mumbai,G7MultiplexBandraW,Hindi,15:45,Special,150₹,38,6
+Maharashtra,Mumbai,G7MultiplexBandraW,Hindi,15:45,DressCircle,150₹,9,9
+Gujarat,Ahmedabad,AbMiniplexShivranjiniCrossRoadSatellite,Hindi,16:30,Sofa,100₹,12,10
+Gujarat,Ahmedabad,AbMiniplexShivranjiniCrossRoadSatellite,Hindi,16:30,Bed,100₹,6,0
