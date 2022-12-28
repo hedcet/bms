@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Rajapalayam,SriBalajiTheatreRajapalayamAC,Tamil,10:15,Box1,100₹,18,0
+TamilNadu,Rajapalayam,SriBalajiTheatreRajapalayamAC,Tamil,10:15,Box2,100₹,18,0
+TamilNadu,Tirupur,SriSakthiCinemasMultiplexTirupur,Tamil,14:10,Diamond,190₹,16,5
+TamilNadu,Tirupur,SriSakthiCinemasMultiplexTirupur,Tamil,14:10,Platinum,165₹,26,2
+TamilNadu,Tirupur,SriSakthiCinemasMultiplexTirupur,Tamil,14:10,Gold,130₹,86,6
+TamilNadu,Tirupur,SriSakthiCinemasMultiplexTirupur,Tamil,14:10,Silver,80₹,17,0
+TamilNadu,Rajapalayam,SriBalajiTheatreRajapalayamAC,Tamil,14:15,Box1,100₹,18,0
+TamilNadu,Rajapalayam,SriBalajiTheatreRajapalayamAC,Tamil,14:15,Box2,100₹,18,0
+TamilNadu,Rajapalayam,SriBalajiTheatreRajapalayamAC,Tamil,18:15,Box1,100₹,18,0
+TamilNadu,Rajapalayam,SriBalajiTheatreRajapalayamAC,Tamil,18:15,Box2,100₹,18,0
+TamilNadu,Tirupur,SriSakthiCinemasMultiplexTirupur,Tamil,18:45,Diamond,190₹,22,5
+TamilNadu,Tirupur,SriSakthiCinemasMultiplexTirupur,Tamil,18:45,Platinum,165₹,24,0
+TamilNadu,Tirupur,SriSakthiCinemasMultiplexTirupur,Tamil,18:45,Gold,130₹,96,6
+TamilNadu,Tirupur,SriSakthiCinemasMultiplexTirupur,Tamil,18:45,Silver,80₹,16,4
+TamilNadu,Rajapalayam,SriBalajiTheatreRajapalayamAC,Tamil,22:15,Box1,100₹,18,0
+TamilNadu,Rajapalayam,SriBalajiTheatreRajapalayamAC,Tamil,22:15,Box2,100₹,18,0
