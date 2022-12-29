@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Punjab,Hoshiarpur,SwarnTheatreHoshiarpur,Hindi,10:00,Gold,130₹,129,2
+Punjab,Jagraon,LalPalaceCineplexJagraon,Hindi,10:00,BoxB1,200₹,12,0
+Punjab,Jagraon,LalPalaceCineplexJagraon,Hindi,10:00,BoxB2,200₹,18,0
+Punjab,Jagraon,LalPalaceCineplexJagraon,Hindi,10:00,Gold,110₹,105,0
+Punjab,Jagraon,LalPalaceCineplexJagraon,Hindi,10:00,Silver,110₹,76,0
+Punjab,Jagraon,LalPalaceCineplexJagraon,Hindi,14:30,BoxB1,200₹,12,0
+Punjab,Jagraon,LalPalaceCineplexJagraon,Hindi,14:30,BoxB2,200₹,18,0
+Punjab,Jagraon,LalPalaceCineplexJagraon,Hindi,14:30,Gold,110₹,105,0
+Punjab,Jagraon,LalPalaceCineplexJagraon,Hindi,14:30,Silver,110₹,76,0
