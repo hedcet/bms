@@ -1,0 +1,8 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,BerhamporeWB,MohanTalkiesBerhampore,Bengali,12:30,Silver,110₹,32,3
+WestBengal,BerhamporeWB,MohanTalkiesBerhampore,Bengali,12:30,Gold,150₹,76,0
+WestBengal,BerhamporeWB,MohanTalkiesBerhampore,Bengali,12:30,Platinum,180₹,52,5
+WestBengal,BerhamporeWB,MohanTalkiesBerhampore,Bengali,12:30,Recliner,300₹,14,0
+WestBengal,Kolkata,NandanKolkata,Bengali,13:30,FrontStall,30₹,111,40
+WestBengal,Kolkata,NandanKolkata,Bengali,13:30,RearStall,50₹,451,248
+WestBengal,Kolkata,NandanKolkata,Bengali,13:30,Balcony,70₹,369,247
