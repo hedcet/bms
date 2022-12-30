@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,GoverdhanTheatreYeshwantpur,Kannada,10:00,BalconyClass,100₹,307,0
+Karnataka,VijayapuraBijapur,ApsaraCineplex70MmBijapur,English,12:00,Gold,150₹,390,26
+Karnataka,VijayapuraBijapur,ApsaraCineplex70MmBijapur,English,12:00,Silver,150₹,84,0
+Karnataka,Bengaluru,GoverdhanTheatreYeshwantpur,Kannada,13:00,BalconyClass,100₹,307,0
