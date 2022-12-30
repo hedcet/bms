@@ -1,0 +1,16 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Punjab,Dinanagar,OneCinemasDinanagar,Punjabi,10:00,Gold,100₹,150,0
+Punjab,Dinanagar,OneCinemasDinanagar,Punjabi,10:00,Silver,80₹,63,58
+Punjab,Nawanshahr,SutlejPalacePictureNawanshahr,Punjabi,10:00,Gold,180₹,43,0
+Punjab,Nawanshahr,SutlejPalacePictureNawanshahr,Punjabi,10:00,Silver,140₹,114,0
+Punjab,Nawanshahr,SutlejPalacePictureNawanshahr,Punjabi,10:00,Seasonal,100₹,16,0
+Punjab,Nawanshahr,SutlejPalacePictureNawanshahr,Punjabi,12:30,Gold,200₹,43,0
+Punjab,Nawanshahr,SutlejPalacePictureNawanshahr,Punjabi,12:30,Silver,170₹,114,0
+Punjab,Nawanshahr,SutlejPalacePictureNawanshahr,Punjabi,12:30,Seasonal,110₹,16,0
+Punjab,Dinanagar,OneCinemasDinanagar,Punjabi,15:00,Gold,100₹,150,0
+Punjab,Dinanagar,OneCinemasDinanagar,Punjabi,15:00,Silver,80₹,63,58
+Punjab,Dinanagar,OneCinemasDinanagar,Punjabi,20:00,Gold,100₹,150,0
+Punjab,Dinanagar,OneCinemasDinanagar,Punjabi,20:00,Silver,80₹,63,58
+Punjab,Nawanshahr,SutlejPalacePictureNawanshahr,Punjabi,21:00,Gold,200₹,43,0
+Punjab,Nawanshahr,SutlejPalacePictureNawanshahr,Punjabi,21:00,Silver,170₹,114,0
+Punjab,Nawanshahr,SutlejPalacePictureNawanshahr,Punjabi,21:00,Seasonal,110₹,16,0
