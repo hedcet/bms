@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Chhattisgarh,Korba,NiharikaCinema2KLaserDolby71SoundKorba,Chattisgarhi,12:40,Silver,50₹,50,0
+Chhattisgarh,Korba,NiharikaCinema2KLaserDolby71SoundKorba,Chattisgarhi,12:40,Gold,100₹,191,0
+Chhattisgarh,Korba,NiharikaCinema2KLaserDolby71SoundKorba,Chattisgarhi,12:40,Platinum,150₹,66,0
+Chhattisgarh,Korba,NiharikaCinema2KLaserDolby71SoundKorba,Chattisgarhi,15:40,Silver,50₹,50,24
+Chhattisgarh,Korba,NiharikaCinema2KLaserDolby71SoundKorba,Chattisgarhi,15:40,Gold,100₹,191,7
+Chhattisgarh,Korba,NiharikaCinema2KLaserDolby71SoundKorba,Chattisgarhi,15:40,Platinum,150₹,66,0
