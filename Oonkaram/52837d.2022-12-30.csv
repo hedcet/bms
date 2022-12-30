@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Tirunelveli,PssMultiplexDolbyAtmosTirunelveli,Tamil,11:00,Gold,190₹,11,2
+TamilNadu,Tirunelveli,PssMultiplexDolbyAtmosTirunelveli,Tamil,11:00,Elite,150₹,204,40
+TamilNadu,Tirunelveli,PssMultiplexDolbyAtmosTirunelveli,Tamil,11:00,Budget,150₹,20,0
