@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Tandur,ShanthMahalTalkiesTandur,Telugu,11:00,Balcony,110₹,412,57
+AndhraPradesh,Tandur,ShanthMahalTalkiesTandur,Telugu,11:00,DressCircle,80₹,76,0
+AndhraPradesh,Tandur,ShanthMahalTalkiesTandur,Telugu,14:00,Balcony,110₹,412,57
+AndhraPradesh,Tandur,ShanthMahalTalkiesTandur,Telugu,14:00,DressCircle,80₹,76,0
+AndhraPradesh,Tandur,ShanthMahalTalkiesTandur,Telugu,18:00,Balcony,110₹,412,57
+AndhraPradesh,Tandur,ShanthMahalTalkiesTandur,Telugu,18:00,DressCircle,80₹,76,0
+AndhraPradesh,Tandur,ShanthMahalTalkiesTandur,Telugu,21:00,Balcony,110₹,412,58
+AndhraPradesh,Tandur,ShanthMahalTalkiesTandur,Telugu,21:00,DressCircle,80₹,76,0
