@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,MysuruMysore,InoxMallOfMysuru,Kannada,10:30,Club,190₹,214,16
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,12:35,Classic,210₹,128,0
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,12:35,Prime,230₹,100,11
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,12:35,Recliner,400₹,17,2
+Karnataka,Bengaluru,PvrVaishnaviSapphireMallYeshwanthpur,Kannada,14:10,Classic,180₹,85,1
+Karnataka,Bengaluru,PvrVaishnaviSapphireMallYeshwanthpur,Kannada,14:10,Prime,200₹,37,7
+Karnataka,Bengaluru,PvrVaishnaviSapphireMallYeshwanthpur,Kannada,14:10,Recliner,320₹,13,0
+Karnataka,MysuruMysore,PvrGarudaMallAlbertVictorRoadMysuru,Kannada,15:50,Classic,140₹,119,0
+Karnataka,Bengaluru,PvrOrionUptownOldMadrasRoadBengaluru,Kannada,16:05,Classic,180₹,128,0
+Karnataka,Kundapura,BharathCinemasKundapura,Kannada,17:30,Gold,200₹,40,4
+Karnataka,Kundapura,BharathCinemasKundapura,Kannada,17:30,Silver,150₹,41,0
+Karnataka,Kundapura,BharathCinemasKundapura,Kannada,17:30,Special,150₹,48,0
