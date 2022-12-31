@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Ahmedabad,TimeCinemaCgRoadAhmedabad,English,10:35,Standard,240₹,108,2
+Gujarat,Surat,TimeCinemaGalaxyCirclePalSurat,English,12:15,Infinity,340₹,22,0
+Gujarat,Ahmedabad,TimeCinemaCgRoadAhmedabad,English,14:30,Infinity,"1,140₹",12,4
+Gujarat,Surat,TimeCinemaGalaxyCirclePalSurat,English,18:25,Infinity,440₹,22,0
+UttarPradesh,NationalCapitalRegionNcr,PvrLogixNoida,English,23:15,Classic,340₹,89,5
