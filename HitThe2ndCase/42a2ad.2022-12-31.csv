@@ -1,0 +1,14 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,CinepolisNexusShantiniketanBengaluru,Telugu,10:00,Normal,150₹,24,2
+Karnataka,Bengaluru,CinepolisNexusShantiniketanBengaluru,Telugu,10:00,Executive,170₹,56,5
+Karnataka,Bengaluru,CinepolisNexusShantiniketanBengaluru,Telugu,10:00,Premium,190₹,48,7
+Karnataka,Bengaluru,CinepolisNexusShantiniketanBengaluru,Telugu,10:00,Vip,400₹,10,1
+Karnataka,Bengaluru,CinepolisNexusShantiniketanBengaluru,Telugu,16:05,Normal,180₹,24,2
+Karnataka,Bengaluru,CinepolisNexusShantiniketanBengaluru,Telugu,16:05,Executive,200₹,24,8
+Karnataka,Bengaluru,CinepolisNexusShantiniketanBengaluru,Telugu,16:05,Premium,220₹,80,68
+Karnataka,Bengaluru,CinepolisNexusShantiniketanBengaluru,Telugu,16:05,Vip,400₹,10,7
+AndhraPradesh,Vijayawada,CinepolisPvpSquareMallVijayawada,Telugu,16:10,Normal,177₹,213,67
+AndhraPradesh,Vijayawada,CinepolisPvpSquareMallVijayawada,Telugu,16:10,Vip,295₹,13,13
+UttarPradesh,NationalCapitalRegionNcr,UsCinemasEuropaLuxGalaxyBlueSapphire,Telugu,16:45,Lux,140₹,80,0
+UttarPradesh,NationalCapitalRegionNcr,UsCinemasEuropaLuxGalaxyBlueSapphire,Telugu,16:45,LuxPlus,170₹,143,0
+Telangana,Hyderabad,TivoliCinemasSecunderabad,Telugu,22:30,Gold,180₹,254,51
