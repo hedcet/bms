@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,NationalCapitalRegionNcr,PvrAmbienceGoldGurgaon,English,10:00,Platinum,500₹,28,0
+UttarPradesh,NationalCapitalRegionNcr,PvrAmbienceGoldGurgaon,English,10:00,PlatinumSuperior,500₹,16,0
+UttarPradesh,NationalCapitalRegionNcr,PvrLogixNoida,English,10:00,Classic,300₹,49,9
+MadhyaPradesh,Indore,PvrTreasureIslandMallIndore,Hindi,11:00,Classic,110₹,26,0
+MadhyaPradesh,Indore,PvrTreasureIslandMallIndore,Hindi,11:00,Prime,110₹,46,0
+MadhyaPradesh,Indore,PvrTreasureIslandMallIndore,Hindi,11:00,Recliner,250₹,8,0
