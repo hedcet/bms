@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+,Jaora,ShabnamCineplexJaora,Hindi,12:00,Platinum,150₹,113,3
+,Jaora,ShabnamCineplexJaora,Hindi,12:00,Gold,100₹,90,5
+,Jaora,ShabnamCineplexJaora,Hindi,15:15,Platinum,150₹,113,6
+,Jaora,ShabnamCineplexJaora,Hindi,15:15,Gold,100₹,90,2
+,Jaora,ShabnamCinemaJaora,Hindi,21:15,Platinum,150₹,113,3
+,Jaora,ShabnamCinemaJaora,Hindi,21:15,Gold,100₹,90,21
