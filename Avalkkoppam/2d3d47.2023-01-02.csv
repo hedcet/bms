@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Kasaragod,KaveriCinemasACDtsDolbyKarmamthody,Malayalam,10:30,Standard,110₹,145,0
+Kerala,Kochi,PvrOberonMallKochi,Malayalam,14:05,Classic,129₹,36,0
+Kerala,Kochi,PvrOberonMallKochi,Malayalam,14:05,ClassicPlus,160₹,81,11
+Kerala,Alappuzha,CherthalaKairaliSreeTheatre,Malayalam,14:15,Platinum,125₹,388,0
+Kerala,Trivandrum,KairaliSreeNilaRgbLaser4KDolbyAtmos,Malayalam,14:30,Platinum,125₹,259,3
+Kerala,Trivandrum,SuryaMultiplex4KDolbyAtmosNedumangad,Malayalam,14:30,Platinum,250₹,14,0
+Kerala,Trivandrum,SuryaMultiplex4KDolbyAtmosNedumangad,Malayalam,14:30,Gold,130₹,131,0
+Kerala,Kasaragod,KaveriCinemasACDtsDolbyKarmamthody,Malayalam,16:15,Standard,110₹,145,0
+Kerala,Trivandrum,SuryaMultiplex4KDolbyAtmosNedumangad,Malayalam,21:30,Platinum,250₹,14,0
+Kerala,Trivandrum,SuryaMultiplex4KDolbyAtmosNedumangad,Malayalam,21:30,Gold,130₹,131,0
