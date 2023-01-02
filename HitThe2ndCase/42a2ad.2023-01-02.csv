@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,CinepolisNexusShantiniketanBengaluru,Telugu,10:00,Normal,100₹,24,0
+Karnataka,Bengaluru,CinepolisNexusShantiniketanBengaluru,Telugu,10:00,Executive,100₹,56,1
+Karnataka,Bengaluru,CinepolisNexusShantiniketanBengaluru,Telugu,10:00,Premium,100₹,48,1
+Karnataka,Bengaluru,CinepolisNexusShantiniketanBengaluru,Telugu,10:00,Vip,150₹,10,1
+Telangana,Hyderabad,TivoliCinemasSecunderabad,Telugu,11:10,Gold,180₹,254,34
+Karnataka,Bengaluru,CinepolisNexusShantiniketanBengaluru,Telugu,16:05,Normal,150₹,24,0
+Karnataka,Bengaluru,CinepolisNexusShantiniketanBengaluru,Telugu,16:05,Executive,150₹,24,0
+Karnataka,Bengaluru,CinepolisNexusShantiniketanBengaluru,Telugu,16:05,Premium,150₹,80,2
+Karnataka,Bengaluru,CinepolisNexusShantiniketanBengaluru,Telugu,16:05,Vip,300₹,10,10
+AndhraPradesh,Vijayawada,CinepolisPvpSquareMallVijayawada,Telugu,16:15,Normal,177₹,213,25
+AndhraPradesh,Vijayawada,CinepolisPvpSquareMallVijayawada,Telugu,16:15,Vip,295₹,13,13
+Telangana,Hyderabad,MovieMaxAmrEcilSecunderabad,Telugu,18:30,Classic,100₹,36,0
+Telangana,Hyderabad,MovieMaxAmrEcilSecunderabad,Telugu,18:30,Prime,150₹,192,53
+Telangana,Hyderabad,MovieMaxAmrEcilSecunderabad,Telugu,18:30,Recliner,250₹,12,12
+Telangana,Hyderabad,TivoliCinemasSecunderabad,Telugu,19:50,Gold,180₹,254,38
+Telangana,Hyderabad,TivoliCinemasSecunderabad,Telugu,22:30,Gold,180₹,254,42
