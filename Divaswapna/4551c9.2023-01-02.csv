@@ -1,0 +1,8 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Deesa,ShreeRamCinemaDeesa,Gujarati,12:00,Gold,100₹,207,0
+Gujarat,Deesa,ShreeRamMultiplexDeesa,Gujarati,18:00,Gold,100₹,207,0
+Gujarat,Surat,TheFridayCinemaMotaVaracchaSurat,Gujarati,18:30,Recliner,290₹,9,0
+Gujarat,Surat,TheFridayCinemaMotaVaracchaSurat,Gujarati,18:30,PushBackSeat,190₹,63,0
+Gujarat,Surat,TheFridayCinemaMotaVaracchaSurat,Gujarati,18:30,Lounger,190₹,11,0
+Gujarat,Surat,TheFridayCinemaMotaVaracchaSurat,Gujarati,21:25,PushBackSeat,190₹,113,8
+Gujarat,Surat,TheFridayCinemaMotaVaracchaSurat,Gujarati,21:25,Lounger,190₹,9,0
