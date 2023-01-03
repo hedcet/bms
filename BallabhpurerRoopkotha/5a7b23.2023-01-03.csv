@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Kolkata,StarTheatreKolkata,Bengali,10:55,FrontStall,115₹,84,0
+WestBengal,Kolkata,StarTheatreKolkata,Bengali,10:55,RearStall,125₹,234,10
+WestBengal,Kolkata,StarTheatreKolkata,Bengali,10:55,Balcony,115₹,192,19
+WestBengal,Hooghly,SvfCinemasKpsMallMilonCinemaChinsurah,Bengali,12:00,Lounger,200₹,11,0
+WestBengal,Hooghly,SvfCinemasKpsMallMilonCinemaChinsurah,Bengali,12:00,Gold,100₹,12,0
+WestBengal,Hooghly,SvfCinemasKpsMallMilonCinemaChinsurah,Bengali,12:00,Platinum,100₹,65,4
+WestBengal,Kolkata,SvfCinemasWoodSquareMallNarendrapur,Bengali,12:00,RoyalRecliner,250₹,20,4
+WestBengal,Kolkata,SvfCinemasWoodSquareMallNarendrapur,Bengali,12:00,RoyalLounger,200₹,42,4
+WestBengal,Kolkata,RadhaStudioTollygunge,Bengali,15:30,Silver,30₹,146,86
+WestBengal,Kolkata,InoxSouthCityKolkata,Bengali,16:05,RoyalRecliner,390₹,16,2
+WestBengal,Kolkata,InoxSouthCityKolkata,Bengali,16:05,Silver,220₹,165,67
+WestBengal,Kolkata,InoxSouthCityKolkata,Bengali,16:05,Premier,200₹,32,0
