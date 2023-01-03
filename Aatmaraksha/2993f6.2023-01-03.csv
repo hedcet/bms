@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Punjab,Ludhiana,V2VCinemasOldSrsLudhiana,Hindi,12:40,Platinum,130₹,187,35
+Punjab,Ludhiana,V2VCinemasOldSrsLudhiana,Hindi,12:40,Gold,130₹,80,0
+Punjab,Ludhiana,V2VCinemasOldSrsLudhiana,Hindi,12:40,Silver,130₹,40,7
+Punjab,Jalandhar,PvrFriendsJalandhar,Hindi,16:00,Classic,140₹,33,1
+Punjab,Jalandhar,PvrFriendsJalandhar,Hindi,16:00,Prime,170₹,53,12
+Punjab,Ludhiana,V2VCinemasOldSrsLudhiana,Hindi,19:30,Platinum,130₹,187,35
+Punjab,Ludhiana,V2VCinemasOldSrsLudhiana,Hindi,19:30,Gold,130₹,80,0
+Punjab,Ludhiana,V2VCinemasOldSrsLudhiana,Hindi,19:30,Silver,130₹,40,7
