@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Ahmedabad,TimeCinemaCgRoadAhmedabad,English,10:35,Standard,220₹,108,0
+TamilNadu,Chennai,SpiEscapeExpressAvenueMallRoyapettah,English,11:05,3DBudget,101₹,11,11
+TamilNadu,Chennai,SpiEscapeExpressAvenueMallRoyapettah,English,11:05,3DElite,234₹,99,33
+Gujarat,Surat,TimeCinemaGalaxyCirclePalSurat,English,12:15,Infinity,340₹,22,0
+Maharashtra,Mumbai,InoxMegaplexInorbitMallMalad,English,13:05,Insignia,470₹,46,13
+Gujarat,Ahmedabad,TimeCinemaCgRoadAhmedabad,English,14:30,Infinity,"1,040₹",12,2
+Gujarat,Surat,TimeCinemaGalaxyCirclePalSurat,English,18:25,Infinity,440₹,22,0
+Gujarat,Ahmedabad,TimeCinemaCgRoadAhmedabad,English,21:15,InfinitySofa,400₹,72,3
+UttarPradesh,NationalCapitalRegionNcr,PvrLogixNoida,English,22:40,Classic,250₹,89,11
