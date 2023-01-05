@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Madanapalle,SunilAC2KDolby71Madanapalle,Telugu,11:00,Reserved,80₹,201,0
+AndhraPradesh,Madanapalle,SunilAC2KDolby71Madanapalle,Telugu,11:00,FirstClass,60₹,139,0
+AndhraPradesh,Madanapalle,SunilAC2KDolby71Madanapalle,Telugu,11:00,SecondClass,40₹,144,0
+AndhraPradesh,Madanapalle,SunilAC2KDolby71Madanapalle,Telugu,14:15,Reserved,80₹,201,3
+AndhraPradesh,Madanapalle,SunilAC2KDolby71Madanapalle,Telugu,14:15,FirstClass,60₹,139,0
+AndhraPradesh,Madanapalle,SunilAC2KDolby71Madanapalle,Telugu,14:15,SecondClass,40₹,144,0
+AndhraPradesh,Madanapalle,SunilAC2KDolby71Madanapalle,Telugu,18:00,Reserved,80₹,201,0
+AndhraPradesh,Madanapalle,SunilAC2KDolby71Madanapalle,Telugu,18:00,FirstClass,60₹,139,0
+AndhraPradesh,Madanapalle,SunilAC2KDolby71Madanapalle,Telugu,18:00,SecondClass,40₹,144,0
+AndhraPradesh,Madanapalle,SunilAC2KDolby71Madanapalle,Telugu,21:15,Reserved,80₹,201,0
+AndhraPradesh,Madanapalle,SunilAC2KDolby71Madanapalle,Telugu,21:15,FirstClass,60₹,139,0
+AndhraPradesh,Madanapalle,SunilAC2KDolby71Madanapalle,Telugu,21:15,SecondClass,40₹,144,0
