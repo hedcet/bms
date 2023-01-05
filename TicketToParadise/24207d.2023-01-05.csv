@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Maharashtra,Mumbai,MaisonPvrLivingRoomLuxeJioWorldDriveBkc,English,10:30,Luxe,400₹,32,0
+Maharashtra,Mumbai,MaisonPvrLivingRoomLuxeJioWorldDriveBkc,English,10:30,LuxeSuperior,400₹,12,3
+Maharashtra,Mumbai,MaisonPvrLivingRoomLuxeJioWorldDriveBkc,English,19:15,Luxe,700₹,24,6
+Maharashtra,Mumbai,MaisonPvrLivingRoomLuxeJioWorldDriveBkc,English,19:15,LuxeSuperior,700₹,10,8
