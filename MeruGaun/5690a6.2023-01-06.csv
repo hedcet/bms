@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Uttaranchal,Rishikesh,RamaPalaceRishikesh,Garhwali,11:15,FirstClass,40₹,168,3
+Uttaranchal,Rishikesh,RamaPalaceRishikesh,Garhwali,11:15,Silver,75₹,232,34
+Uttaranchal,Rishikesh,RamaPalaceRishikesh,Garhwali,11:15,Gold,110₹,182,90
+Uttaranchal,Rishikesh,RamaPalaceRishikesh,Garhwali,11:15,Platinum,180₹,24,16
+Uttarakhand,Dehradun,SilverCityMultiplexRajpurRoad,Garhwali,13:15,Silver,120₹,68,2
+Uttarakhand,Dehradun,SilverCityMultiplexRajpurRoad,Garhwali,13:15,Gold,150₹,137,45
+Uttarakhand,Dehradun,SilverCityMultiplexRajpurRoad,Garhwali,13:15,Platinum,200₹,15,12
+UttarPradesh,NationalCapitalRegionNcr,RrCinemaJaipuriaMall,Garhwali,13:40,PremiumSofa,300₹,21,10
+UttarPradesh,NationalCapitalRegionNcr,RrCinemaJaipuriaMall,Garhwali,13:40,Gold,150₹,252,68
+UttarPradesh,NationalCapitalRegionNcr,RrCinemaJaipuriaMall,Garhwali,13:40,Silver,130₹,100,7
