@@ -1,0 +1,14 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Ahmedabad,AbMiniplexShivranjiniCrossRoadSatellite,Hindi,13:15,Sofa,100₹,12,0
+Gujarat,Ahmedabad,AbMiniplexShivranjiniCrossRoadSatellite,Hindi,13:15,Bed,150₹,6,0
+Orissa,Bargarh,UmaGalaxyDigitalSilverScreenBargarh,Hindi,15:00,Balcony,120₹,79,0
+Gujarat,Ahmedabad,AbMiniplexShivranjiniCrossRoadSatellite,Hindi,16:00,Sofa,100₹,26,1
+Gujarat,Ahmedabad,AbMiniplexShivranjiniCrossRoadSatellite,Hindi,16:00,PremiumSofa,100₹,15,4
+Haryana,Chandigarh,PvrVrPunjabMallMohali,Hindi,18:00,Classic,99₹,152,0
+Haryana,Chandigarh,PvrVrPunjabMallMohali,Hindi,18:00,Prime,99₹,116,4
+Orissa,Bargarh,UmaGalaxyDigitalSilverScreenBargarh,Hindi,18:00,Balcony,120₹,79,0
+Orissa,Bargarh,UmaGalaxyDigitalSilverScreenBargarh,Hindi,21:00,Balcony,120₹,79,0
+Haryana,Chandigarh,PvrVrPunjabMallMohali,Hindi,21:10,Classic,99₹,152,0
+Haryana,Chandigarh,PvrVrPunjabMallMohali,Hindi,21:10,Prime,99₹,116,6
+Gujarat,Ahmedabad,AbMiniplexShivranjiniCrossRoadSatellite,Hindi,22:15,Sofa,100₹,26,0
+Gujarat,Ahmedabad,AbMiniplexShivranjiniCrossRoadSatellite,Hindi,22:15,PremiumSofa,100₹,15,8
