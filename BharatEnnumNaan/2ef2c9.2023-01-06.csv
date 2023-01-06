@@ -1,0 +1,14 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Coimbatore,KovaiShantiComplex4K3DCoimbatore,Tamil,10:30,Balcony,175₹,64,0
+TamilNadu,Coimbatore,KovaiShantiComplex4K3DCoimbatore,Tamil,10:30,FirstClass,125₹,228,0
+TamilNadu,Tirupur,CineParkTheatreTiruppur,Tamil,10:45,BoxB,120₹,41,0
+TamilNadu,Tirupur,CineParkTheatreTiruppur,Tamil,10:45,FirstClass,100₹,341,0
+TamilNadu,Coimbatore,KovaiShantiComplex4K3DCoimbatore,Tamil,14:15,Balcony,175₹,64,0
+TamilNadu,Coimbatore,KovaiShantiComplex4K3DCoimbatore,Tamil,14:15,FirstClass,125₹,228,7
+TamilNadu,Tirupur,CineParkTheatreTiruppur,Tamil,14:15,BoxB,120₹,41,0
+TamilNadu,Tirupur,CineParkTheatreTiruppur,Tamil,14:15,FirstClass,100₹,341,0
+TamilNadu,Coimbatore,KovaiShantiComplex4K3DCoimbatore,Tamil,18:15,Balcony,175₹,64,0
+TamilNadu,Coimbatore,KovaiShantiComplex4K3DCoimbatore,Tamil,18:15,FirstClass,125₹,228,2
+TamilNadu,Erode,SriMuruganTheatreACDtsAmmapettai,Tamil,21:30,FirstClass,100₹,439,0
+TamilNadu,Coimbatore,KovaiShantiComplex4K3DCoimbatore,Tamil,22:00,Balcony,175₹,64,0
+TamilNadu,Coimbatore,KovaiShantiComplex4K3DCoimbatore,Tamil,22:00,FirstClass,125₹,228,0
