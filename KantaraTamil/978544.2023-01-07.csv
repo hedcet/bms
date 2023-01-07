@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Vellakoil,ManivelCinemas2KVellakoil,Tamil,10:45,Platinum,120₹,229,0
+TamilNadu,Vellakoil,ManivelCinemas2KVellakoil,Tamil,14:15,Platinum,120₹,229,0
+TamilNadu,Tirupur,SriSakthiCinemasUnionMillRoadTirupur,Tamil,17:50,Diamond,190₹,22,1
+TamilNadu,Tirupur,SriSakthiCinemasUnionMillRoadTirupur,Tamil,17:50,Platinum,165₹,24,0
+TamilNadu,Tirupur,SriSakthiCinemasUnionMillRoadTirupur,Tamil,17:50,Gold,130₹,96,6
+TamilNadu,Tirupur,SriSakthiCinemasUnionMillRoadTirupur,Tamil,17:50,Silver,80₹,16,0
+TamilNadu,Vellakoil,ManivelCinemas2KVellakoil,Tamil,18:15,Platinum,120₹,229,0
+TamilNadu,Vellakoil,ManivelCinemas2KVellakoil,Tamil,21:45,Platinum,120₹,229,0
