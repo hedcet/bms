@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Trivandrum,AjantaTheatre4KWideTrivandrum,Malayalam,18:30,Premium,150₹,264,0
+Kerala,Trivandrum,AjantaTheatre4KWideTrivandrum,Malayalam,18:30,Royale,250₹,22,0
+Kerala,Trivandrum,AjantaTheatre4KWideTrivandrum,Malayalam,18:30,GrandB,350₹,6,0
+Kerala,Trivandrum,AjantaTheatre4KWideTrivandrum,Malayalam,18:30,GrandA,350₹,6,0
+Kerala,Kochi,SangeetaCinemaKochi,Malayalam,21:00,BlueCircle,150₹,187,18
