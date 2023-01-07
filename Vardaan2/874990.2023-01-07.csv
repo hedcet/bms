@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Ahmedabad,DeviMultiplexNaroda,Sindhi,15:30,Platinum,140₹,42,10
+Gujarat,Ahmedabad,DeviMultiplexNaroda,Sindhi,15:30,Gold,110₹,98,6
+Gujarat,Vadodara,CinemarcNewVipRoad,Sindhi,19:10,Gold,110₹,20,4
+Gujarat,Vadodara,CinemarcNewVipRoad,Sindhi,19:10,Silver,110₹,87,0
+Gujarat,Vadodara,CinemarcNewVipRoad,Sindhi,19:10,Premium,110₹,13,0
+Gujarat,Vadodara,CinemarcNewVipRoad,Sindhi,19:10,Sofa,140₹,19,0
