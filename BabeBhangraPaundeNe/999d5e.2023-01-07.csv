@@ -1,0 +1,8 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Haryana,Chandigarh,PvrVrPunjabMallMohali,Punjabi,15:00,Classic,99₹,152,2
+Haryana,Chandigarh,PvrVrPunjabMallMohali,Punjabi,15:00,Prime,99₹,116,45
+Haryana,Chandigarh,PvrElanteChandigarh,Punjabi,18:40,Classic,230₹,153,71
+Haryana,Chandigarh,PvrElanteChandigarh,Punjabi,18:40,Recliner,650₹,13,12
+Haryana,Chandigarh,PvrLuxeVrPunjabMallMohali,Punjabi,19:20,Gold,600₹,22,0
+Haryana,Chandigarh,PvrVrPunjabMallMohali,Punjabi,19:40,Classic,99₹,96,49
+Haryana,Chandigarh,PvrVrPunjabMallMohali,Punjabi,19:40,Prime,99₹,38,34
