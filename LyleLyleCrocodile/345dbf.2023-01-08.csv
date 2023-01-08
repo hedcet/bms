@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Maharashtra,Mumbai,InoxMegaplexInorbitMallMalad,English,09:00,Kiddles,140₹,57,20
+UttarPradesh,NationalCapitalRegionNcr,PvrAmbienceGurgaon,English,10:00,ClassicNormal,200₹,84,0
+UttarPradesh,NationalCapitalRegionNcr,PvrAmbienceGurgaon,English,10:00,Prime,250₹,68,15
+UttarPradesh,NationalCapitalRegionNcr,PvrLogixNoida,English,10:00,Classic,300₹,49,13
+Maharashtra,Mumbai,MetroInoxCinemasMarineLines,English,10:00,Kiddles,200₹,45,35
