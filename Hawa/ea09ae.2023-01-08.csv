@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Maharashtra,Mumbai,InoxMegaplexInorbitMallMalad,Bengali,12:25,Insignia,450₹,38,10
+WestBengal,Raniganj,AnjanaChitraMandirRaniganj,Bengali,14:15,Gold,150₹,97,0
+WestBengal,Raniganj,AnjanaChitraMandirRaniganj,Bengali,14:15,GoldPremier,200₹,25,0
+UttarPradesh,NationalCapitalRegionNcr,PvrLogixNoida,Bengali,15:55,Classic,320₹,119,7
+UttarPradesh,NationalCapitalRegionNcr,PvrMgfGurgaon,Bengali,16:50,Classic,199₹,75,0
+UttarPradesh,NationalCapitalRegionNcr,PvrMgfGurgaon,Bengali,16:50,Prime,199₹,74,10
+UttarPradesh,NationalCapitalRegionNcr,PvrVegasDwarka,Bengali,17:10,Classic,400₹,120,15
+UttarPradesh,NationalCapitalRegionNcr,PvrVegasDwarka,Bengali,17:10,Prime,440₹,15,0
