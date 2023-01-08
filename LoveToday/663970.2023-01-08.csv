@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Telangana,Kothagudem,ChhotuMaharajCineCafeKothagudem,Telugu,11:00,Classique,120₹,60,0
+Telangana,Kothagudem,ChhotuMaharajCineCafeKothagudem,Telugu,11:00,Premium,120₹,40,0
+TamilNadu,Chennai,SpiEscapeExpressAvenueMallRoyapettah,Tamil,12:55,Budget,60₹,11,11
+TamilNadu,Chennai,SpiEscapeExpressAvenueMallRoyapettah,Tamil,12:55,Elite,165₹,99,44
+Telangana,Kothagudem,ChhotuMaharajCineCafeKothagudem,Telugu,14:00,Classique,120₹,60,0
+Telangana,Kothagudem,ChhotuMaharajCineCafeKothagudem,Telugu,14:00,Premium,120₹,40,0
+TamilNadu,Chennai,PvrVrChennaiAnnaNagar,Tamil,15:10,Classic,60₹,16,12
+TamilNadu,Chennai,PvrVrChennaiAnnaNagar,Tamil,15:10,Prime,165₹,110,89
+Telangana,Kothagudem,ChhotuMaharajCineCafeKothagudem,Telugu,18:00,Classique,120₹,60,0
+Telangana,Kothagudem,ChhotuMaharajCineCafeKothagudem,Telugu,18:00,Premium,120₹,40,0
+Telangana,Kothagudem,ChhotuMaharajCineCafeKothagudem,Telugu,21:00,Classique,120₹,60,0
+Telangana,Kothagudem,ChhotuMaharajCineCafeKothagudem,Telugu,21:00,Premium,120₹,40,0
