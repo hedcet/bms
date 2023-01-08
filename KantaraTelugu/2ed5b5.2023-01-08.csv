@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Vizianagaram,AdityaTheatreACDtsVizianagaram,Telugu,11:00,FirstClass,112₹,321,57
+AndhraPradesh,Vizianagaram,AdityaTheatreACDtsVizianagaram,Telugu,11:00,SecondClass,78₹,138,0
+AndhraPradesh,Vizianagaram,AdityaTheatreACDtsVizianagaram,Telugu,14:30,FirstClass,112₹,321,55
+AndhraPradesh,Vizianagaram,AdityaTheatreACDtsVizianagaram,Telugu,14:30,SecondClass,78₹,138,0
+AndhraPradesh,Vizianagaram,AdityaTheatreACDtsVizianagaram,Telugu,18:30,FirstClass,112₹,321,61
+AndhraPradesh,Vizianagaram,AdityaTheatreACDtsVizianagaram,Telugu,18:30,SecondClass,78₹,138,8
+AndhraPradesh,Vizianagaram,AdityaTheatreACDtsVizianagaram,Telugu,21:30,FirstClass,112₹,321,55
+AndhraPradesh,Vizianagaram,AdityaTheatreACDtsVizianagaram,Telugu,21:30,SecondClass,78₹,138,0
