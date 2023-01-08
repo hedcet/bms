@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Manipur,Imphal,TanthapolisCinemaImphal,Manipuri,15:00,Bronze,100₹,42,26
+Manipur,Imphal,TanthapolisCinemaImphal,Manipuri,15:00,Silver,180₹,158,24
+Manipur,Imphal,TanthapolisCinemaImphal,Manipuri,15:00,Gold,250₹,114,16
+Manipur,Imphal,TanthapolisCinemaImphal,Manipuri,15:00,Diamond,350₹,25,0
+Manipur,Imphal,TanthapolisCinemaImphal,Manipuri,17:00,Bronze,100₹,42,0
+Manipur,Imphal,TanthapolisCinemaImphal,Manipuri,17:00,Silver,180₹,158,2
+Manipur,Imphal,TanthapolisCinemaImphal,Manipuri,17:00,Gold,250₹,114,9
+Manipur,Imphal,TanthapolisCinemaImphal,Manipuri,17:00,Diamond,350₹,25,2
+Manipur,Imphal,TanthapolisCinemaImphal,Manipuri,19:00,Bronze,100₹,42,0
+Manipur,Imphal,TanthapolisCinemaImphal,Manipuri,19:00,Silver,180₹,158,11
+Manipur,Imphal,TanthapolisCinemaImphal,Manipuri,19:00,Gold,250₹,114,4
+Manipur,Imphal,TanthapolisCinemaImphal,Manipuri,19:00,Diamond,350₹,25,4
