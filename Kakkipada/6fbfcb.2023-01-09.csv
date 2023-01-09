@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Palakkad,SreeDeviDurgaVCinemasPalakkad,Malayalam,11:30,Standard,129₹,126,20
+Kerala,Kochi,ShenoysKochi,Malayalam,15:20,Diamond,180₹,71,27
+Kerala,Trivandrum,CarnivalMallOfTravancoreTrivandrum,Malayalam,19:20,SilverOffline,190₹,103,13
+Kerala,Trivandrum,CarnivalMallOfTravancoreTrivandrum,Malayalam,19:20,ExecutiveOffline,160₹,72,3
+Kerala,Trivandrum,CarnivalMallOfTravancoreTrivandrum,Malayalam,19:20,NormalOffline,100₹,18,18
+Kerala,Kochi,PvrLuluKochi,Malayalam,22:30,Classic,110₹,39,20
+Kerala,Kochi,PvrLuluKochi,Malayalam,22:30,ClassicPlus,140₹,91,0
+Kerala,Kochi,PvrLuluKochi,Malayalam,22:30,Prime,160₹,68,2
+Kerala,Kochi,PvrLuluKochi,Malayalam,22:30,Recliner,300₹,10,2
