@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,TumakuruTumkur,JaiBharathTheater4KAtmosTumkur,Kannada,10:30,Gold,150₹,352,0
+Karnataka,TumakuruTumkur,JaiBharathTheater4KAtmosTumkur,Kannada,10:30,Silver,100₹,201,0
+Karnataka,Bengaluru,InoxCentralJpNagarMantriJunction,Kannada,14:45,Royal,300₹,8,4
+Karnataka,Bengaluru,InoxCentralJpNagarMantriJunction,Kannada,14:45,Club,160₹,252,18
+Karnataka,Bengaluru,KamakyaCinemaBanashankari,Kannada,16:15,Balcony,110₹,338,0
+Karnataka,Bengaluru,KamakyaCinemaBanashankari,Kannada,16:15,Stall,100₹,333,0
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,18:35,Classic,170₹,140,26
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,18:35,Prime,190₹,120,4
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,18:35,Recliner,300₹,33,2
+Karnataka,Bengaluru,InoxMantriSquareMalleshwaram,Kannada,21:30,Club,200₹,225,37
+Karnataka,Bengaluru,InoxCentralJpNagarMantriJunction,Kannada,21:30,Royal,350₹,8,4
+Karnataka,Bengaluru,InoxCentralJpNagarMantriJunction,Kannada,21:30,Club,200₹,252,20
