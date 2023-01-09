@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Guntakal,ChaitanyaTheaterGuntakal,Telugu,11:30,FirstClass,100₹,466,96
+AndhraPradesh,Guntakal,ChaitanyaTheaterGuntakal,Telugu,11:30,SecondClass,80₹,156,0
+AndhraPradesh,Guntakal,ChaitanyaTheaterGuntakal,Telugu,14:30,FirstClass,100₹,466,96
+AndhraPradesh,Guntakal,ChaitanyaTheaterGuntakal,Telugu,14:30,SecondClass,80₹,156,0
+AndhraPradesh,Guntakal,ChaitanyaTheaterGuntakal,Telugu,18:30,FirstClass,100₹,466,96
+AndhraPradesh,Guntakal,ChaitanyaTheaterGuntakal,Telugu,18:30,SecondClass,80₹,156,0
+AndhraPradesh,Guntakal,ChaitanyaTheaterGuntakal,Telugu,21:30,FirstClass,100₹,466,96
+AndhraPradesh,Guntakal,ChaitanyaTheaterGuntakal,Telugu,21:30,SecondClass,80₹,156,0
