@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Maharashtra,Nagpur,JayshreeCineplexNagpur,Chattisgarhi,12:30,Balcony,100₹,168,6
+Maharashtra,Nagpur,JayshreeCineplexNagpur,Chattisgarhi,12:30,Reserve,70₹,312,24
+Maharashtra,Nagpur,JayshreeCineplexNagpur,Chattisgarhi,15:30,Balcony,100₹,168,6
+Maharashtra,Nagpur,JayshreeCineplexNagpur,Chattisgarhi,15:30,Reserve,70₹,312,25
+Maharashtra,Nagpur,JayshreeCineplexNagpur,Chattisgarhi,18:30,Balcony,100₹,168,6
+Maharashtra,Nagpur,JayshreeCineplexNagpur,Chattisgarhi,18:30,Reserve,70₹,312,19
+Maharashtra,Nagpur,JayshreeCineplexNagpur,Chattisgarhi,21:30,Balcony,100₹,168,6
+Maharashtra,Nagpur,JayshreeCineplexNagpur,Chattisgarhi,21:30,Reserve,70₹,312,20
