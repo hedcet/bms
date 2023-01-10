@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Kochi,ShenoysKochi,Malayalam,15:20,Diamond,180₹,71,24
+Kerala,Trivandrum,CarnivalMallOfTravancoreTrivandrum,Malayalam,18:30,SilverOffline,190₹,103,6
+Kerala,Trivandrum,CarnivalMallOfTravancoreTrivandrum,Malayalam,18:30,ExecutiveOffline,160₹,72,5
+Kerala,Trivandrum,CarnivalMallOfTravancoreTrivandrum,Malayalam,18:30,NormalOffline,100₹,18,18
