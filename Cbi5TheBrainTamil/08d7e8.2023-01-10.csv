@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Aruppukottai,QueensRathinavelCinemasAC2KQsc71Digital,Tamil,10:30,FirstClass,120₹,85,0
+TamilNadu,Aruppukottai,QueensRathinavelCinemasAC2KQsc71Digital,Tamil,10:30,SecondClass,100₹,382,48
+TamilNadu,Aruppukottai,QueensRathinavelCinemasAC2KQsc71Digital,Tamil,14:30,FirstClass,120₹,85,0
+TamilNadu,Aruppukottai,QueensRathinavelCinemasAC2KQsc71Digital,Tamil,14:30,SecondClass,100₹,382,48
+TamilNadu,Tindivanam,RohiniSwasthikTindivanam,Tamil,15:15,SecondClass,100₹,190,6
+TamilNadu,Tindivanam,RohiniSwasthikTindivanam,Tamil,15:15,FirstClass,100₹,340,42
+TamilNadu,Aruppukottai,QueensRathinavelCinemasAC2KQsc71Digital,Tamil,18:30,FirstClass,120₹,85,0
+TamilNadu,Aruppukottai,QueensRathinavelCinemasAC2KQsc71Digital,Tamil,18:30,SecondClass,100₹,382,48
+TamilNadu,Tindivanam,RohiniSwasthikTindivanam,Tamil,22:00,SecondClass,100₹,190,6
+TamilNadu,Tindivanam,RohiniSwasthikTindivanam,Tamil,22:00,FirstClass,100₹,340,42
+TamilNadu,Aruppukottai,QueensRathinavelCinemasAC2KQsc71Digital,Tamil,22:30,FirstClass,120₹,85,0
+TamilNadu,Aruppukottai,QueensRathinavelCinemasAC2KQsc71Digital,Tamil,22:30,SecondClass,100₹,382,48
