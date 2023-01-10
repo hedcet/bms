@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Telangana,Khammam,Vinoda2KDolbyAtmosKhammam,Telugu,11:00,GoldUpper,110₹,155,2
+Telangana,Khammam,Vinoda2KDolbyAtmosKhammam,Telugu,11:00,GoldLower,110₹,368,0
+Telangana,Khammam,Vinoda2KDolbyAtmosKhammam,Telugu,11:00,Silver,80₹,96,0
+Telangana,Khammam,Vinoda2KDolbyAtmosKhammam,Telugu,11:00,FirstClass,50₹,155,0
+Telangana,Khammam,Vinoda2KDolbyAtmosKhammam,Telugu,14:30,GoldUpper,110₹,155,0
+Telangana,Khammam,Vinoda2KDolbyAtmosKhammam,Telugu,14:30,GoldLower,110₹,368,0
+Telangana,Khammam,Vinoda2KDolbyAtmosKhammam,Telugu,14:30,Silver,80₹,96,0
+Telangana,Khammam,Vinoda2KDolbyAtmosKhammam,Telugu,14:30,FirstClass,50₹,155,1
+Telangana,Khammam,Vinoda2KDolbyAtmosKhammam,Telugu,18:00,GoldUpper,110₹,155,0
+Telangana,Khammam,Vinoda2KDolbyAtmosKhammam,Telugu,18:00,GoldLower,110₹,368,0
+Telangana,Khammam,Vinoda2KDolbyAtmosKhammam,Telugu,18:00,Silver,80₹,96,0
+Telangana,Khammam,Vinoda2KDolbyAtmosKhammam,Telugu,18:00,FirstClass,50₹,155,0
