@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Telangana,Sangareddy,RukminiTheatreSangareddy,Telugu,11:00,Balcony,110₹,458,284
+Telangana,Sangareddy,RukminiTheatreSangareddy,Telugu,11:00,FirstClass,100₹,210,172
+Telangana,Sangareddy,RukminiTheatreSangareddy,Telugu,11:00,SecondClass,90₹,171,133
+Telangana,Sangareddy,RukminiTheatreSangareddy,Telugu,14:15,Balcony,110₹,458,284
+Telangana,Sangareddy,RukminiTheatreSangareddy,Telugu,14:15,FirstClass,100₹,210,172
+Telangana,Sangareddy,RukminiTheatreSangareddy,Telugu,14:15,SecondClass,90₹,171,133
+Telangana,Sangareddy,RukminiTheatreSangareddy,Telugu,18:00,Balcony,110₹,458,284
+Telangana,Sangareddy,RukminiTheatreSangareddy,Telugu,18:00,FirstClass,100₹,210,172
+Telangana,Sangareddy,RukminiTheatreSangareddy,Telugu,18:00,SecondClass,90₹,171,133
+Telangana,Sangareddy,RukminiTheatreSangareddy,Telugu,21:15,Balcony,110₹,458,284
+Telangana,Sangareddy,RukminiTheatreSangareddy,Telugu,21:15,FirstClass,100₹,210,172
+Telangana,Sangareddy,RukminiTheatreSangareddy,Telugu,21:15,SecondClass,90₹,171,133
