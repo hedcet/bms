@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Jharkhand,Hazaribagh,EylexCinemaHazaribagh,Hindi,12:10,Rl,250₹,5,5
+Jharkhand,Hazaribagh,EylexCinemaHazaribagh,Hindi,12:10,Gl,100₹,39,0
+Jharkhand,Hazaribagh,EylexCinemaHazaribagh,Hindi,12:10,Pl,100₹,147,6
+Bihar,Sitamarhi,RdMultiplexSitamarhi,Hindi,12:15,Gold,150₹,225,0
+Jharkhand,Ranchi,EylexCinemasHinoo,Hindi,12:30,Club,100₹,21,0
+Jharkhand,Ranchi,EylexCinemasHinoo,Hindi,12:30,Gold,100₹,44,0
+Jharkhand,Ranchi,EylexCinemasHinoo,Hindi,12:30,Platinum,100₹,88,0
+Bihar,Hajipur,DdCinemasCineKrishnaMallHajipur,Hindi,13:15,Platinum,120₹,308,0
+Bihar,Patna,CinepolisPMMallPatna,Hindi,16:00,Normal,110₹,200,102
+Bihar,Gopalganj,SarswatiTalkiesGopalganj,Hindi,18:00,Diamond,150₹,105,0
+Bihar,Gopalganj,SarswatiTalkiesGopalganj,Hindi,18:00,Gold,120₹,92,0
+Bihar,Gopalganj,SarswatiTalkiesGopalganj,Hindi,18:00,Silver,100₹,27,0
