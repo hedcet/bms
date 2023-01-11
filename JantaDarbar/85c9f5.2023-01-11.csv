@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,Basti,PankajCineplexBasti,Bhojpuri,11:00,Diamond,140₹,151,0
+UttarPradesh,Basti,PankajCineplexBasti,Bhojpuri,11:00,Gold,100₹,172,0
+UttarPradesh,Basti,PankajCineplexBasti,Bhojpuri,13:45,Diamond,140₹,151,0
+UttarPradesh,Basti,PankajCineplexBasti,Bhojpuri,13:45,Gold,100₹,172,0
+UttarPradesh,Basti,PankajCineplexBasti,Bhojpuri,16:30,Diamond,140₹,151,5
+UttarPradesh,Basti,PankajCineplexBasti,Bhojpuri,16:30,Gold,100₹,172,0
+UttarPradesh,Basti,PankajCineplexBasti,Bhojpuri,19:15,Diamond,140₹,151,0
+UttarPradesh,Basti,PankajCineplexBasti,Bhojpuri,19:15,Gold,100₹,172,0
+UttarPradesh,Basti,PankajCineplexBasti,Bhojpuri,21:55,Diamond,140₹,151,0
+UttarPradesh,Basti,PankajCineplexBasti,Bhojpuri,21:55,Gold,100₹,172,0
