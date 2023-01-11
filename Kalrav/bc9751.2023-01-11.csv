@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+HimachalPradesh,Shimla,AyaanCinemasShimla,Hindi,13:00,Executive,220₹,5,0
+HimachalPradesh,Shimla,AyaanCinemasShimla,Hindi,13:00,Platinum,200₹,135,14
+Uttaranchal,Rishikesh,RamaPalaceRishikesh,Hindi,13:45,FirstClass,40₹,168,0
+Uttaranchal,Rishikesh,RamaPalaceRishikesh,Hindi,13:45,Silver,75₹,232,44
+Uttaranchal,Rishikesh,RamaPalaceRishikesh,Hindi,13:45,Gold,110₹,182,38
+Uttaranchal,Rishikesh,RamaPalaceRishikesh,Hindi,13:45,Platinum,180₹,24,18
+UttarPradesh,NationalCapitalRegionNcr,FunCinemasTdiMallMotiNagar,Hindi,14:45,Normal,110₹,65,0
+UttarPradesh,NationalCapitalRegionNcr,FunCinemasTdiMallMotiNagar,Hindi,14:45,Executive,110₹,64,3
+UttarPradesh,Haridwar,WavePentagonMallHaridwarSidcul,Hindi,15:00,Classic,150₹,201,22
+Haryana,Rohtak,CitiMaxCinemasRohtak,Hindi,15:15,Silver,100₹,66,0
+Haryana,Rohtak,CitiMaxCinemasRohtak,Hindi,15:15,Gold,100₹,102,30
+Haryana,Rohtak,CitiMaxCinemasRohtak,Hindi,15:15,Diamond,200₹,16,0
+Haryana,Rohtak,CitiMaxCinemasRohtak,Hindi,15:15,Platinum,400₹,9,0
+Uttarakhand,Dehradun,SilverCityMultiplexRajpurRoad,Hindi,15:45,Silver,170₹,68,0
+Uttarakhand,Dehradun,SilverCityMultiplexRajpurRoad,Hindi,15:45,Gold,200₹,137,22
+Uttarakhand,Dehradun,SilverCityMultiplexRajpurRoad,Hindi,15:45,Platinum,250₹,15,0
