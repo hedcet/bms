@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,SriBalaji2KDolbyAtmos71Viveknagar,Tamil,10:30,Balcony,150₹,305,0
+Karnataka,Bengaluru,SriBalaji2KDolbyAtmos71Viveknagar,Tamil,10:30,FirstClass,100₹,536,0
+TamilNadu,Chennai,JothiTheatre4KACDtsStThomasMount,Tamil,11:45,Balcony,130₹,220,220
+TamilNadu,Chennai,JothiTheatre4KACDtsStThomasMount,Tamil,11:45,FirstClass,110₹,491,491
+Karnataka,Bengaluru,SriBalaji2KDolbyAtmos71Viveknagar,Tamil,13:30,Balcony,150₹,305,0
+Karnataka,Bengaluru,SriBalaji2KDolbyAtmos71Viveknagar,Tamil,13:30,FirstClass,100₹,536,0
+TamilNadu,Chennai,PvrVrChennaiAnnaNagar,Tamil,16:00,Classic,60₹,11,11
+TamilNadu,Chennai,PvrVrChennaiAnnaNagar,Tamil,16:00,Prime,165₹,102,76
+Karnataka,Bengaluru,SriBalaji2KDolbyAtmos71Viveknagar,Tamil,16:30,Balcony,150₹,305,0
+Karnataka,Bengaluru,SriBalaji2KDolbyAtmos71Viveknagar,Tamil,16:30,FirstClass,100₹,536,0
+Karnataka,Bengaluru,SriBalaji2KDolbyAtmos71Viveknagar,Tamil,19:30,Balcony,150₹,305,0
+Karnataka,Bengaluru,SriBalaji2KDolbyAtmos71Viveknagar,Tamil,19:30,FirstClass,100₹,536,0
+TamilNadu,Chennai,JothiTheatre4KACDtsStThomasMount,Tamil,22:00,Balcony,130₹,220,29
+TamilNadu,Chennai,JothiTheatre4KACDtsStThomasMount,Tamil,22:00,FirstClass,110₹,491,27
