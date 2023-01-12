@@ -1,0 +1,16 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Ahmedabad,AppleMultiplexManinagarAhmedabad,Hindi,11:30,UpperSofa,130₹,7,0
+Gujarat,Ahmedabad,AppleMultiplexManinagarAhmedabad,Hindi,11:30,Platinum,110₹,104,0
+Gujarat,Ahmedabad,AppleMultiplexManinagarAhmedabad,Hindi,11:30,LowerSofa,110₹,9,0
+UttarPradesh,Saharanpur,PrabhatCineplexSaharanpur,Hindi,12:30,Silver,60₹,48,0
+UttarPradesh,Saharanpur,PrabhatCineplexSaharanpur,Hindi,12:30,Gold,80₹,64,0
+UttarPradesh,Saharanpur,PrabhatCineplexSaharanpur,Hindi,12:30,FamilyGold,100₹,93,0
+UttarPradesh,Saharanpur,PrabhatCineplexSaharanpur,Hindi,15:30,Silver,60₹,48,0
+UttarPradesh,Saharanpur,PrabhatCineplexSaharanpur,Hindi,15:30,Gold,80₹,64,0
+UttarPradesh,Saharanpur,PrabhatCineplexSaharanpur,Hindi,15:30,FamilyGold,100₹,93,3
+UttarPradesh,Saharanpur,PrabhatCineplexSaharanpur,Hindi,18:30,Silver,60₹,48,0
+UttarPradesh,Saharanpur,PrabhatCineplexSaharanpur,Hindi,18:30,Gold,80₹,64,0
+UttarPradesh,Saharanpur,PrabhatCineplexSaharanpur,Hindi,18:30,FamilyGold,100₹,93,0
+UttarPradesh,Saharanpur,PrabhatCineplexSaharanpur,Hindi,21:30,Silver,60₹,48,0
+UttarPradesh,Saharanpur,PrabhatCineplexSaharanpur,Hindi,21:30,Gold,80₹,64,0
+UttarPradesh,Saharanpur,PrabhatCineplexSaharanpur,Hindi,21:30,FamilyGold,100₹,93,0
