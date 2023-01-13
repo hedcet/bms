@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Rajapalayam,SriBalajiTheatreRajapalayamAC,Tamil,18:15,Box1,100₹,18,1
+TamilNadu,Rajapalayam,SriBalajiTheatreRajapalayamAC,Tamil,18:15,Box2,100₹,18,0
+TamilNadu,Rajapalayam,SriBalajiTheatreRajapalayamAC,Tamil,22:15,Box1,100₹,18,0
+TamilNadu,Rajapalayam,SriBalajiTheatreRajapalayamAC,Tamil,22:15,Box2,100₹,18,0
+TamilNadu,Madurai,AnnamalaiCinemasAC4KMadurai,Tamil,22:45,FirstClass,155₹,74,0
+TamilNadu,Madurai,AnnamalaiCinemasAC4KMadurai,Tamil,22:45,SecondClass,119₹,77,0
