@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Rajasthan,Jaipur,FunStarTimeSquareCinemaJaipur,Hindi,09:45,Platinum,100₹,70,36
+Rajasthan,Jaipur,FunStarTimeSquareCinemaJaipur,Hindi,09:45,Gold,100₹,90,36
+Rajasthan,Jaipur,FunStarTimeSquareCinemaJaipur,Hindi,09:45,Silver,100₹,30,0
+Karnataka,Bengaluru,SriGurusiddeshwara2KChitraMandiraThippasandra,Tamil,16:30,GoldClass,100₹,149,0
+Karnataka,Bengaluru,SriGurusiddeshwara2KChitraMandiraThippasandra,Tamil,16:30,SilverClass,80₹,200,0
+Karnataka,Bengaluru,SriGurusiddeshwara2KChitraMandiraThippasandra,Tamil,19:30,GoldClass,100₹,149,0
+Karnataka,Bengaluru,SriGurusiddeshwara2KChitraMandiraThippasandra,Tamil,19:30,SilverClass,80₹,200,0
+Rajasthan,Jaipur,FunStarTimeSquareCinemaJaipur,Hindi,21:30,Platinum,120₹,70,36
+Rajasthan,Jaipur,FunStarTimeSquareCinemaJaipur,Hindi,21:30,Gold,120₹,90,36
+Rajasthan,Jaipur,FunStarTimeSquareCinemaJaipur,Hindi,21:30,Silver,120₹,30,0
