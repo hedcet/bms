@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Chhattisgarh,Pendra,DurgeshTalkiesPendra,Chattisgarhi,15:00,Balcony,150₹,65,0
+Chhattisgarh,Pendra,DurgeshTalkiesPendra,Chattisgarhi,15:00,ReserveClass,100₹,88,7
+Chhattisgarh,Pendra,DurgeshTalkiesPendra,Chattisgarhi,15:00,UpperStall,80₹,75,0
+Chhattisgarh,Pendra,DurgeshTalkiesPendra,Chattisgarhi,18:00,Balcony,150₹,65,0
+Chhattisgarh,Pendra,DurgeshTalkiesPendra,Chattisgarhi,18:00,ReserveClass,100₹,88,0
+Chhattisgarh,Pendra,DurgeshTalkiesPendra,Chattisgarhi,18:00,UpperStall,80₹,75,0
+Chhattisgarh,Pendra,DurgeshTalkiesPendra,Chattisgarhi,21:00,Balcony,150₹,65,0
+Chhattisgarh,Pendra,DurgeshTalkiesPendra,Chattisgarhi,21:00,ReserveClass,100₹,88,0
+Chhattisgarh,Pendra,DurgeshTalkiesPendra,Chattisgarhi,21:00,UpperStall,80₹,75,0
