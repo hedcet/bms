@@ -1,0 +1,16 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Kolkata,InoxForumMallElginRoad,Hindi,16:10,Royal,300₹,44,18
+WestBengal,Kolkata,InoxForumMallElginRoad,Hindi,16:10,DressCircle,260₹,108,12
+WestBengal,Kolkata,InoxForumMallElginRoad,Hindi,16:10,Galleria,230₹,36,0
+UttarPradesh,Lucknow,InoxMegaplexEmeraldLucknow,Hindi,18:00,Royale,180₹,83,26
+UttarPradesh,Lucknow,InoxMegaplexEmeraldLucknow,Hindi,18:00,Club,170₹,70,0
+UttarPradesh,Lucknow,InoxMegaplexEmeraldLucknow,Hindi,18:00,Executive,160₹,28,0
+Gujarat,Vadodara,CinemarcAkotaVadodara,Hindi,18:20,Silver,110₹,72,15
+Gujarat,Vadodara,CinemarcAkotaVadodara,Hindi,18:20,Premier,110₹,15,0
+Gujarat,Vadodara,CinemarcAkotaVadodara,Hindi,18:20,Sofa,120₹,38,22
+UttarPradesh,NationalCapitalRegionNcr,InoxInsigniaAtEpicuriaNehruPlace,Hindi,18:50,Insignia,"1,014₹",35,15
+MadhyaPradesh,Bhopal,CinepolisDbMallBhopal,Hindi,19:20,Normal,200₹,60,0
+MadhyaPradesh,Bhopal,CinepolisDbMallBhopal,Hindi,19:20,Executive,200₹,106,33
+Haryana,Chandigarh,PvrElanteChandigarh,Hindi,21:40,Classic,230₹,172,8
+Haryana,Chandigarh,PvrElanteChandigarh,Hindi,21:40,Recliner,650₹,27,4
+UttarPradesh,NationalCapitalRegionNcr,PvrGoldLogixCityCentreNoida,Hindi,22:30,Recliner,900₹,30,2
