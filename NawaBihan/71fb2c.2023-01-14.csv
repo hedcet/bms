@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Chhattisgarh,Kondagaon,KishoreCineplexKondagaon,Chattisgarhi,12:00,Platinum,100₹,62,0
+Chhattisgarh,Kondagaon,KishoreCineplexKondagaon,Chattisgarhi,12:00,Gold,70₹,143,0
+Chhattisgarh,Kondagaon,KishoreCineplexKondagaon,Chattisgarhi,12:00,Silver,70₹,30,0
+Chhattisgarh,Kondagaon,KishoreCineplexKondagaon,Chattisgarhi,15:00,Platinum,100₹,62,2
+Chhattisgarh,Kondagaon,KishoreCineplexKondagaon,Chattisgarhi,15:00,Gold,70₹,143,0
+Chhattisgarh,Kondagaon,KishoreCineplexKondagaon,Chattisgarhi,15:00,Silver,70₹,30,0
+Chhattisgarh,Kondagaon,KishoreCineplexKondagaon,Chattisgarhi,18:00,Platinum,100₹,62,0
+Chhattisgarh,Kondagaon,KishoreCineplexKondagaon,Chattisgarhi,18:00,Gold,70₹,143,0
+Chhattisgarh,Kondagaon,KishoreCineplexKondagaon,Chattisgarhi,18:00,Silver,70₹,30,0
+Chhattisgarh,Kondagaon,KishoreCineplexKondagaon,Chattisgarhi,21:00,Platinum,100₹,62,0
+Chhattisgarh,Kondagaon,KishoreCineplexKondagaon,Chattisgarhi,21:00,Gold,70₹,143,0
+Chhattisgarh,Kondagaon,KishoreCineplexKondagaon,Chattisgarhi,21:00,Silver,70₹,30,0
