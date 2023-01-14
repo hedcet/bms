@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,TumakuruTumkur,GayatriTheatreTumakuru,Kannada,10:25,Box,150₹,21,0
+Karnataka,TumakuruTumkur,GayatriTheatreTumakuru,Kannada,10:25,Balcony,150₹,209,5
+Karnataka,TumakuruTumkur,GayatriTheatreTumakuru,Kannada,10:25,MiniBalcony,110₹,306,12
+Karnataka,TumakuruTumkur,GayatriTheatreTumakuru,Kannada,10:25,SocondClass,100₹,122,0
+Karnataka,TumakuruTumkur,GayatriTheatreTumakuru,Kannada,13:25,Box,150₹,21,0
+Karnataka,TumakuruTumkur,GayatriTheatreTumakuru,Kannada,13:25,Balcony,150₹,209,19
+Karnataka,TumakuruTumkur,GayatriTheatreTumakuru,Kannada,13:25,MiniBalcony,110₹,306,1
+Karnataka,TumakuruTumkur,GayatriTheatreTumakuru,Kannada,13:25,SocondClass,100₹,122,0
+Karnataka,TumakuruTumkur,GayatriTheatreTumakuru,Kannada,16:55,Box,150₹,21,2
+Karnataka,TumakuruTumkur,GayatriTheatreTumakuru,Kannada,16:55,Balcony,150₹,209,5
+Karnataka,TumakuruTumkur,GayatriTheatreTumakuru,Kannada,16:55,MiniBalcony,110₹,306,2
+Karnataka,TumakuruTumkur,GayatriTheatreTumakuru,Kannada,16:55,SocondClass,100₹,122,0
+Karnataka,TumakuruTumkur,GayatriTheatreTumakuru,Kannada,19:55,Box,150₹,21,0
+Karnataka,TumakuruTumkur,GayatriTheatreTumakuru,Kannada,19:55,Balcony,150₹,209,0
+Karnataka,TumakuruTumkur,GayatriTheatreTumakuru,Kannada,19:55,MiniBalcony,110₹,306,1
+Karnataka,TumakuruTumkur,GayatriTheatreTumakuru,Kannada,19:55,SocondClass,100₹,122,0
