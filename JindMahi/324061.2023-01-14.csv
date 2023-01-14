@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Punjab,Jagraon,LalPalaceCineplexJagraon,Punjabi,12:35,BoxB1,200₹,12,0
+Punjab,Jagraon,LalPalaceCineplexJagraon,Punjabi,12:35,BoxB2,200₹,18,0
+Punjab,Jagraon,LalPalaceCineplexJagraon,Punjabi,12:35,Gold,110₹,105,0
+Punjab,Jagraon,LalPalaceCineplexJagraon,Punjabi,12:35,Silver,110₹,76,0
+Punjab,Jagraon,LalPalaceCineplexJagraon,Punjabi,19:30,BoxB1,200₹,12,0
+Punjab,Jagraon,LalPalaceCineplexJagraon,Punjabi,19:30,BoxB2,200₹,18,0
+Punjab,Jagraon,LalPalaceCineplexJagraon,Punjabi,19:30,Gold,110₹,105,10
+Punjab,Jagraon,LalPalaceCineplexJagraon,Punjabi,19:30,Silver,110₹,76,0
