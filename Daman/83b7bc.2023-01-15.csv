@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Orissa,BerhampurOdisha,NewPayalCinema71DolbySound2KCentralAc,Odia,10:00,Balcony1,100₹,35,4
+Orissa,BerhampurOdisha,NewPayalCinema71DolbySound2KCentralAc,Odia,10:00,Delux,100₹,180,4
+Orissa,BerhampurOdisha,NewPayalCinema71DolbySound2KCentralAc,Odia,10:00,Balcony2,100₹,110,0
+Orissa,BerhampurOdisha,NewPayalCinema71DolbySound2KCentralAc,Odia,10:00,FirstClass,70₹,244,0
+Orissa,Bargarh,DeepaliCinemaxBargarh,Odia,10:00,Arena,150₹,106,0
+Orissa,Bargarh,DeepaliCinemaxBargarh,Odia,10:00,Classic,100₹,34,0
