@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Maharashtra,Mumbai,MaisonPvrTheLoftLuxeJioWorldDriveBkc,English,20:10,Luxe,900₹,24,11
+Maharashtra,Mumbai,PvrLuxePhoenixPalladiumLowerParelMumbai,English,20:30,Prime,"1,000₹",12,0
+Maharashtra,Mumbai,PvrLuxePhoenixPalladiumLowerParelMumbai,English,20:30,PrimePlus,"1,000₹",30,8
