@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Dindigul,AarthiGrandCineplexDolbyAtmosDindigul,Tamil,08:05,Diamond,120₹,149,0
+TamilNadu,Dindigul,AarthiGrandCineplexDolbyAtmosDindigul,Tamil,08:05,Gold,120₹,45,0
+TamilNadu,Dindigul,AarthiGrandCineplexDolbyAtmosDindigul,Tamil,08:05,Silver,120₹,25,0
+TamilNadu,Rajapalayam,SriBalajiTheatreRajapalayamAC,Tamil,10:15,Box1,100₹,18,0
+TamilNadu,Rajapalayam,SriBalajiTheatreRajapalayamAC,Tamil,10:15,Box2,100₹,18,0
+TamilNadu,Rajapalayam,SriBalajiTheatreRajapalayamAC,Tamil,14:15,Box1,100₹,18,2
+TamilNadu,Rajapalayam,SriBalajiTheatreRajapalayamAC,Tamil,14:15,Box2,100₹,18,2
+TamilNadu,Rajapalayam,SriBalajiTheatreRajapalayamAC,Tamil,18:15,Box1,100₹,18,9
+TamilNadu,Rajapalayam,SriBalajiTheatreRajapalayamAC,Tamil,18:15,Box2,100₹,18,0
+TamilNadu,Rajapalayam,SriBalajiTheatreRajapalayamAC,Tamil,22:15,Box1,100₹,18,0
+TamilNadu,Rajapalayam,SriBalajiTheatreRajapalayamAC,Tamil,22:15,Box2,100₹,18,0
