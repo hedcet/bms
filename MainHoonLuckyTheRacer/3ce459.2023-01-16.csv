@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,Kanpur,ShyamPalaceCinemaKanpur,Hindi,10:00,Balcony,90₹,196,0
+UttarPradesh,Kanpur,ShyamPalaceCinemaKanpur,Hindi,10:00,GoldFamily,70₹,196,2
+UttarPradesh,Kannauj,NarayanMiniplexKannauj,Hindi,12:15,Gold,100₹,215,0
+UttarPradesh,Kannauj,NarayanMiniplexKannauj,Hindi,12:15,Silver,100₹,102,0
+UttarPradesh,Hardoi,MeeraChitraMandirHardoi,Hindi,12:30,Diamond,100₹,198,0
+UttarPradesh,Kannauj,NarayanMiniplexKannauj,Hindi,15:15,Gold,100₹,215,0
+UttarPradesh,Kannauj,NarayanMiniplexKannauj,Hindi,15:15,Silver,100₹,102,0
+UttarPradesh,Hardoi,MeeraChitraMandirHardoi,Hindi,15:30,Diamond,100₹,198,0
+UttarPradesh,Kannauj,NarayanMiniplexKannauj,Hindi,18:15,Gold,100₹,215,0
+UttarPradesh,Kannauj,NarayanMiniplexKannauj,Hindi,18:15,Silver,100₹,102,0
+UttarPradesh,Hardoi,MeeraChitraMandirHardoi,Hindi,18:30,Diamond,100₹,198,0
+UttarPradesh,Hardoi,MeeraChitraMandirHardoi,Hindi,21:15,Diamond,100₹,198,0
