@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,BelagaviBelgaum,NirmalTheatreBelagavi,Kannada,12:15,Balcony,100₹,226,0
+Karnataka,BelagaviBelgaum,NirmalTheatreBelagavi,Kannada,12:15,Stall,80₹,476,0
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,13:00,Classic,150₹,108,4
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,13:00,Prime,170₹,108,14
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,13:00,Recliner,250₹,16,8
+Karnataka,BelagaviBelgaum,NirmalTheatreBelagavi,Kannada,15:15,Balcony,100₹,226,0
+Karnataka,BelagaviBelgaum,NirmalTheatreBelagavi,Kannada,15:15,Stall,80₹,476,0
+Karnataka,BelagaviBelgaum,NirmalTheatreBelagavi,Kannada,18:15,Balcony,100₹,226,0
+Karnataka,BelagaviBelgaum,NirmalTheatreBelagavi,Kannada,18:15,Stall,80₹,476,0
+Karnataka,BelagaviBelgaum,NirmalTheatreBelagavi,Kannada,21:00,Balcony,100₹,226,0
+Karnataka,BelagaviBelgaum,NirmalTheatreBelagavi,Kannada,21:00,Stall,80₹,476,0
