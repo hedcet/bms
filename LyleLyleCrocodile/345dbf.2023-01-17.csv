@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,NationalCapitalRegionNcr,PvrLogixNoida,English,10:00,Classic,170₹,49,0
+Maharashtra,Mumbai,InoxMegaplexInorbitMallMalad,English,10:15,Kiddles,130₹,57,4
+UttarPradesh,NationalCapitalRegionNcr,PvrAmbienceGurgaon,English,10:15,ClassicNormal,150₹,84,0
+UttarPradesh,NationalCapitalRegionNcr,PvrAmbienceGurgaon,English,10:15,Prime,150₹,68,0
+Telangana,Hyderabad,PvrNextGalleriaMallPanjagutta,English,13:45,Classic,150₹,54,30
+MadhyaPradesh,Indore,PvrTreasureIslandMallIndore,Hindi,14:00,Classic,130₹,26,0
+MadhyaPradesh,Indore,PvrTreasureIslandMallIndore,Hindi,14:00,Prime,130₹,46,0
+MadhyaPradesh,Indore,PvrTreasureIslandMallIndore,Hindi,14:00,Recliner,250₹,8,0
