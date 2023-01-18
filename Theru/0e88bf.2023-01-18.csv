@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Trivandrum,PvrLuluTrivandrum,Malayalam,15:25,Classic,170₹,70,20
+Kerala,Trivandrum,PvrLuluTrivandrum,Malayalam,15:25,Prime,190₹,51,4
+Kerala,Trivandrum,PvrLuluTrivandrum,Malayalam,15:25,Recliner,350₹,7,1
+Kerala,Alappuzha,PanCinemasAlappuzha,Malayalam,17:05,Platinum,230₹,37,0
+Kerala,Alappuzha,PanCinemasAlappuzha,Malayalam,17:05,Gold,170₹,136,0
+Kerala,Kochi,PvrOberonMallKochi,Malayalam,19:40,Classic,120₹,36,0
+Kerala,Kochi,PvrOberonMallKochi,Malayalam,19:40,ClassicPlus,150₹,81,56
+Kerala,Trivandrum,AriesplexSlCinemasCinionicDolbyAtmos,Malayalam,22:00,Executive,110₹,70,37
