@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Ahmedabad,CityGoldSatelliteAhmedabad,Hindi,09:00,Executive,150₹,124,26
+Punjab,Banga,SuryaOhriCinemaBanga,Hindi,12:25,Gold,210₹,14,0
+Punjab,Banga,SuryaOhriCinemaBanga,Hindi,12:25,Silver,160₹,150,0
+Gujarat,Ahmedabad,CityGoldSatelliteAhmedabad,Hindi,12:30,Executive,170₹,124,26
+Punjab,Barnala,VrcCinemaBarnala,Hindi,12:50,Platinum,300₹,19,0
+Punjab,Barnala,VrcCinemaBarnala,Hindi,12:50,Gold,180₹,128,0
+Punjab,Barnala,VrcCinemaBarnala,Hindi,12:50,Silver,150₹,75,0
+UttarPradesh,NationalCapitalRegionNcr,EpicCinemasGurgaon,Hindi,13:40,Sofa,200₹,57,0
+Maharashtra,Mumbai,MovietimeTheHubGoregaon,Hindi,13:45,Gold,130₹,63,9
+Haryana,Chandigarh,PiccadilySquareChandigarh,Hindi,16:30,Silver,120₹,110,0
+Haryana,Chandigarh,PiccadilySquareChandigarh,Hindi,16:30,Gold,135₹,191,2
+Haryana,Chandigarh,PiccadilySquareChandigarh,Hindi,16:30,BusinessClass,480₹,10,0
