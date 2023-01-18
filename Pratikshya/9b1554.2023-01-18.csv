@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Orissa,Bhubaneswar,CinepolisNexusEsplanadeBhubaneswar,Odia,10:10,Normal,110₹,23,0
+Orissa,Bhubaneswar,CinepolisNexusEsplanadeBhubaneswar,Odia,10:10,Executive,110₹,52,0
+Orissa,Bhubaneswar,CinepolisNexusEsplanadeBhubaneswar,Odia,10:10,Premium,110₹,44,1
+Orissa,Bhubaneswar,CinepolisNexusEsplanadeBhubaneswar,Odia,10:10,Vip,350₹,9,0
+Orissa,Bhubaneswar,StuteeCineplexBhubaneswar,Odia,15:40,Recliner,149₹,16,5
+Orissa,Bhubaneswar,StuteeCineplexBhubaneswar,Odia,15:40,SofaSlider,149₹,40,4
+Orissa,Bhubaneswar,StuteeCineplexBhubaneswar,Odia,15:40,Diamond,130₹,233,22
+Orissa,Bhubaneswar,StuteeCineplexBhubaneswar,Odia,15:40,Gold,100₹,140,7
+Orissa,Bhubaneswar,CinepolisNexusEsplanadeBhubaneswar,Odia,22:15,Normal,110₹,23,0
+Orissa,Bhubaneswar,CinepolisNexusEsplanadeBhubaneswar,Odia,22:15,Executive,110₹,52,12
+Orissa,Bhubaneswar,CinepolisNexusEsplanadeBhubaneswar,Odia,22:15,Premium,110₹,44,10
+Orissa,Bhubaneswar,CinepolisNexusEsplanadeBhubaneswar,Odia,22:15,Vip,350₹,9,0
