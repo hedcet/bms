@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Madurai,ShaTheatreMadurai,Tamil,14:00,FirstClass,0₹,"1,162","1,038"
+TamilNadu,Thoothukudi,SathyaTheatreTuticorin,Tamil,14:30,FirstClass,50₹,111,1
+Karnataka,Bengaluru,SriGurusiddeshwara2KChitraMandiraThippasandra,Tamil,16:30,GoldClass,100₹,149,0
+Karnataka,Bengaluru,SriGurusiddeshwara2KChitraMandiraThippasandra,Tamil,16:30,SilverClass,80₹,200,1
+TamilNadu,Madurai,ShaTheatreMadurai,Tamil,18:00,FirstClass,0₹,"1,162","1,037"
+TamilNadu,Thoothukudi,SathyaTheatreTuticorin,Tamil,18:30,FirstClass,50₹,111,1
+Karnataka,Bengaluru,SriGurusiddeshwara2KChitraMandiraThippasandra,Tamil,19:30,GoldClass,100₹,149,0
+Karnataka,Bengaluru,SriGurusiddeshwara2KChitraMandiraThippasandra,Tamil,19:30,SilverClass,80₹,200,0
+TamilNadu,Thoothukudi,SathyaTheatreTuticorin,Tamil,22:00,FirstClass,50₹,111,1
+TamilNadu,Madurai,ShaTheatreMadurai,Tamil,22:00,FirstClass,0₹,"1,162","1,037"
