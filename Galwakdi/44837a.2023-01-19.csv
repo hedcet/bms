@@ -1,0 +1,14 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Punjab,Khanna,PvrTheCelebrationMallKhanna,Punjabi,15:00,Classic,99₹,78,2
+Punjab,Khanna,PvrTheCelebrationMallKhanna,Punjabi,15:00,Prime,99₹,82,16
+Punjab,Pathankot,PvrNoveltyMallPathankot,Punjabi,16:00,Classic,120₹,30,0
+Punjab,Pathankot,PvrNoveltyMallPathankot,Punjabi,16:00,Prime,130₹,44,0
+Punjab,Pathankot,PvrNoveltyMallPathankot,Punjabi,16:00,PrimePlus,150₹,72,15
+Punjab,Ludhiana,PvrPavilionLudhiana,Punjabi,16:00,Classic,99₹,252,28
+Punjab,Ludhiana,PvrPavilionLudhiana,Punjabi,16:00,Prime,199₹,10,2
+Punjab,Amritsar,PvrSctAmritsar,Punjabi,19:00,Classic,99₹,150,0
+Punjab,Amritsar,PvrSctAmritsar,Punjabi,19:00,Prime,99₹,56,18
+Punjab,Amritsar,PvrSctAmritsar,Punjabi,19:00,Recliner,199₹,6,0
+Haryana,Chandigarh,PvrCosmoZirakpur,Punjabi,19:00,Classic,99₹,88,0
+Haryana,Chandigarh,PvrCosmoZirakpur,Punjabi,19:00,Prime,99₹,100,0
+Haryana,Chandigarh,PvrCosmoZirakpur,Punjabi,19:00,Recliner,199₹,12,1
