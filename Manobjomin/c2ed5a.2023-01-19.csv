@@ -1,0 +1,8 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Kolkata,NandanKolkata,Bengali,12:00,FrontStall,30₹,111,0
+WestBengal,Kolkata,NandanKolkata,Bengali,12:00,RearStall,50₹,451,11
+WestBengal,Kolkata,NandanKolkata,Bengali,12:00,Balcony,70₹,369,15
+WestBengal,Kolkata,RadhaStudioTollygunge,Bengali,13:00,Silver,30₹,146,0
+WestBengal,Kolkata,InoxCityCenterSaltLake,Bengali,13:45,DressCircle,140₹,144,0
+WestBengal,Kolkata,InoxCityCenterSaltLake,Bengali,13:45,Galleria,140₹,49,0
+WestBengal,Kolkata,InoxCityCenterSaltLake,Bengali,13:45,Royale,140₹,42,16
