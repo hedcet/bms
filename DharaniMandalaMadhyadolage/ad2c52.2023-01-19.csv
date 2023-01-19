@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Shikaripur,MalateshaTalkiesShikarpur,Kannada,14:00,Balcony,101₹,41,25
+Karnataka,Shikaripur,MalateshaTalkiesShikarpur,Kannada,14:00,FirstClass,101₹,429,319
+Karnataka,Shikaripur,MalateshaTalkiesShikarpur,Kannada,18:00,Balcony,101₹,41,25
+Karnataka,Shikaripur,MalateshaTalkiesShikarpur,Kannada,18:00,FirstClass,101₹,429,319
+Karnataka,Shikaripur,MalateshaTalkiesShikarpur,Kannada,21:00,Balcony,101₹,41,25
+Karnataka,Shikaripur,MalateshaTalkiesShikarpur,Kannada,21:00,FirstClass,101₹,429,319
