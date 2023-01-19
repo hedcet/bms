@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Rajapalayam,SriBalajiTheatreRajapalayamAC,Tamil,10:15,Box1,100₹,18,0
+TamilNadu,Rajapalayam,SriBalajiTheatreRajapalayamAC,Tamil,10:15,Box2,100₹,18,0
+TamilNadu,Dindigul,AarthiGrandCineplexDolbyAtmosDindigul,Tamil,10:50,Diamond,120₹,149,0
+TamilNadu,Dindigul,AarthiGrandCineplexDolbyAtmosDindigul,Tamil,10:50,Gold,120₹,45,0
+TamilNadu,Trichy,LaCinemaMarisComplexRgbLaserTrichy,Tamil,11:30,Elite,140₹,58,3
+TamilNadu,Rajapalayam,SriBalajiTheatreRajapalayamAC,Tamil,14:15,Box1,100₹,18,0
+TamilNadu,Rajapalayam,SriBalajiTheatreRajapalayamAC,Tamil,14:15,Box2,100₹,18,0
+TamilNadu,Trichy,LaCinemaMarisComplexRgbLaserTrichy,Tamil,14:40,Elite,140₹,58,3
+TamilNadu,Dindigul,AarthiGrandCineplexDolbyAtmosDindigul,Tamil,14:50,Diamond,120₹,149,0
+TamilNadu,Dindigul,AarthiGrandCineplexDolbyAtmosDindigul,Tamil,14:50,Gold,120₹,45,0
+TamilNadu,Rajapalayam,SriBalajiTheatreRajapalayamAC,Tamil,18:15,Box1,100₹,18,0
+TamilNadu,Rajapalayam,SriBalajiTheatreRajapalayamAC,Tamil,18:15,Box2,100₹,18,0
+TamilNadu,Rajapalayam,SriBalajiTheatreRajapalayamAC,Tamil,22:15,Box1,100₹,18,0
+TamilNadu,Rajapalayam,SriBalajiTheatreRajapalayamAC,Tamil,22:15,Box2,100₹,18,0
