@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+,Pansemal,ShreejiCinemaPansemal,Hindi,12:00,Diamond,200₹,113,0
+,Pansemal,ShreejiCinemaPansemal,Hindi,12:00,Gold,150₹,51,0
+,Pansemal,ShreejiCinemaPansemal,Hindi,12:00,Silver,120₹,38,0
+,Pansemal,ShreejiCinemaPansemal,Hindi,15:00,Diamond,200₹,113,0
+,Pansemal,ShreejiCinemaPansemal,Hindi,15:00,Gold,150₹,51,0
+,Pansemal,ShreejiCinemaPansemal,Hindi,15:00,Silver,120₹,38,0
+,Pansemal,ShreejiCinemaPansemal,Hindi,18:00,Diamond,200₹,113,4
+,Pansemal,ShreejiCinemaPansemal,Hindi,18:00,Gold,150₹,51,0
+,Pansemal,ShreejiCinemaPansemal,Hindi,18:00,Silver,120₹,38,0
+,Pansemal,ShreejiCinemaPansemal,Hindi,21:00,Diamond,200₹,113,0
+,Pansemal,ShreejiCinemaPansemal,Hindi,21:00,Gold,150₹,51,2
+,Pansemal,ShreejiCinemaPansemal,Hindi,21:00,Silver,120₹,38,0
