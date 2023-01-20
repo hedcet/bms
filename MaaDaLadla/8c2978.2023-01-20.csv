@@ -1,0 +1,16 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Punjab,MandiGobindgarh,ShyamCineplexMandiGobindgarh,Punjabi,11:30,Gold,100₹,52,0
+Punjab,MandiGobindgarh,ShyamCineplexMandiGobindgarh,Punjabi,11:30,Platinum,100₹,117,26
+Punjab,MandiGobindgarh,ShyamCineplexMandiGobindgarh,Punjabi,11:30,Box,200₹,6,6
+Punjab,MandiGobindgarh,ShyamCineplexMandiGobindgarh,Punjabi,15:40,Gold,100₹,52,0
+Punjab,MandiGobindgarh,ShyamCineplexMandiGobindgarh,Punjabi,15:40,Platinum,100₹,117,26
+Punjab,MandiGobindgarh,ShyamCineplexMandiGobindgarh,Punjabi,15:40,Box,200₹,6,0
+Punjab,MandiGobindgarh,ShyamCineplexMandiGobindgarh,Punjabi,17:30,Gold,100₹,52,0
+Punjab,MandiGobindgarh,ShyamCineplexMandiGobindgarh,Punjabi,17:30,Platinum,100₹,117,26
+Punjab,MandiGobindgarh,ShyamCineplexMandiGobindgarh,Punjabi,17:30,Box,200₹,6,0
+Punjab,Amritsar,CinepolisMallOfAmritsar,Punjabi,20:10,Normal,100₹,75,1
+Punjab,Amritsar,CinepolisMallOfAmritsar,Punjabi,20:10,Executive,100₹,126,1
+Punjab,Amritsar,CinepolisMallOfAmritsar,Punjabi,20:10,Vip,250₹,16,0
+Haryana,Bathinda,FunCinemasMittalCityMallBathinda,Punjabi,21:25,Normal,99₹,66,0
+Haryana,Bathinda,FunCinemasMittalCityMallBathinda,Punjabi,21:25,Executive,99₹,86,0
+Haryana,Bathinda,FunCinemasMittalCityMallBathinda,Punjabi,21:25,Premium,99₹,145,15
