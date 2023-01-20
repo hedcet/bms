@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,Aligarh,MeenakshiCinemaAligarh,Hindi,12:30,Balcony,120₹,251,0
+UttarPradesh,Aligarh,MeenakshiCinemaAligarh,Hindi,12:30,SpecialClass,90₹,142,2
+UttarPradesh,Aligarh,MeenakshiCinemaAligarh,Hindi,15:30,Balcony,120₹,251,0
+UttarPradesh,Aligarh,MeenakshiCinemaAligarh,Hindi,15:30,SpecialClass,90₹,142,0
