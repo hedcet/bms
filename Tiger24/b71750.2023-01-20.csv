@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,PvrVegaCityBannerghattaRoad,English,19:00,Classic,112₹,86,5
+Karnataka,Bengaluru,PvrVegaCityBannerghattaRoad,English,19:00,Recliner,200₹,9,0
+UttarPradesh,NationalCapitalRegionNcr,InoxRCubeMonadMall,English,19:55,Insignia,399₹,34,15
+Maharashtra,Mumbai,InoxLaserplexCr2NarimanPoint,English,20:10,Insignia,399₹,75,20
