@@ -1,0 +1,8 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,MangaluruMangalore,CineGalaxySurathkalMangalore,Tulu,13:30,Club,112₹,5,5
+Karnataka,MangaluruMangalore,CineGalaxySurathkalMangalore,Tulu,13:30,Gold,99₹,18,3
+Karnataka,MangaluruMangalore,CineGalaxySurathkalMangalore,Tulu,13:30,Prime,99₹,90,18
+Karnataka,MangaluruMangalore,CineGalaxySurathkalMangalore,Tulu,13:30,Classic,99₹,52,0
+Karnataka,MangaluruMangalore,BharathCinemasMangalore,Tulu,14:15,Gold,100₹,43,5
+Karnataka,MangaluruMangalore,BharathCinemasMangalore,Tulu,14:15,Silver,100₹,20,0
+Karnataka,MangaluruMangalore,BharathCinemasMangalore,Tulu,14:15,Special,100₹,7,0
