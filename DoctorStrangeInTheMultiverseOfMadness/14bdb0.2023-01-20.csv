@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Delhi,NationalCapitalRegionNcr,PvrAmbienceGurgaon,English,16:00,ClassicNormal,99₹,105,0
+Delhi,NationalCapitalRegionNcr,PvrAmbienceGurgaon,English,16:00,Prime,99₹,86,24
+Delhi,NationalCapitalRegionNcr,PvrPromenadeVasantKunj,English,18:20,Classic,120₹,104,24
+Delhi,NationalCapitalRegionNcr,PvrPromenadeVasantKunj,English,18:20,Prime,150₹,26,19
+Delhi,NationalCapitalRegionNcr,PvrPromenadeVasantKunj,English,18:20,PrimePlus,210₹,10,2
