@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Haryana,Rohtak,RnCinemasRohtak,Haryanavi,13:10,Silver,120₹,92,2
+Haryana,Rohtak,RnCinemasRohtak,Haryanavi,13:10,Gold,250₹,8,5
+Haryana,Rohtak,RnCinemasRohtak,Haryanavi,16:00,Silver,120₹,92,0
+Haryana,Rohtak,RnCinemasRohtak,Haryanavi,16:00,Gold,250₹,8,0
+Haryana,Rohtak,RnCinemasRohtak,Haryanavi,18:50,Silver,120₹,92,20
+Haryana,Rohtak,RnCinemasRohtak,Haryanavi,18:50,Gold,250₹,8,0
+Haryana,Rohtak,RnCinemasRohtak,Haryanavi,21:40,Silver,120₹,92,0
+Haryana,Rohtak,RnCinemasRohtak,Haryanavi,21:40,Gold,250₹,8,0
