@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,MysuruMysore,DrcCinemasBmHabitatMall,Kannada,19:00,Premium,150₹,182,83
+Karnataka,MysuruMysore,DrcCinemasBmHabitatMall,Kannada,19:00,Luxury,200₹,19,8
+Karnataka,Bengaluru,PvrVaishnaviSapphireMallYeshwanthpur,Kannada,19:00,Classic,200₹,85,4
+Karnataka,Bengaluru,PvrVaishnaviSapphireMallYeshwanthpur,Kannada,19:00,Prime,220₹,37,6
+Karnataka,Bengaluru,PvrVaishnaviSapphireMallYeshwanthpur,Kannada,19:00,Recliner,350₹,9,5
