@@ -1,0 +1,8 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,InoxGarudaSwagathMallJayanagar,Kannada,17:20,Club,280₹,61,29
+Karnataka,Bengaluru,InoxGarudaSwagathMallJayanagar,Kannada,17:20,Executive,270₹,134,9
+Karnataka,Bhatkal,PushpanjaliTheatreBhatkal,Kannada,17:30,BalconyClass,100₹,182,0
+Karnataka,Bhatkal,PushpanjaliTheatreBhatkal,Kannada,17:30,SecondClass,90₹,336,0
+Karnataka,Baindur,ShankarCinemaBaindur,Kannada,18:00,Balcony,100₹,342,0
+Karnataka,Bhatkal,PushpanjaliTheatreBhatkal,Kannada,20:30,BalconyClass,100₹,182,0
+Karnataka,Bhatkal,PushpanjaliTheatreBhatkal,Kannada,20:30,SecondClass,90₹,336,0
