@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,EshwariDigital4KCinemaBanashankari,Kannada,10:45,Balcony,110₹,300,4
+Karnataka,Bengaluru,EshwariDigital4KCinemaBanashankari,Kannada,10:45,Stall,100₹,552,0
+Karnataka,Bellary,RrMultiplexBellary,Kannada,11:00,GoldClass,150₹,86,0
+Karnataka,Bellary,RrMultiplexBellary,Kannada,11:00,SilverClass,100₹,243,0
+Karnataka,Bengaluru,EshwariDigital4KCinemaBanashankari,Kannada,13:30,Balcony,110₹,300,11
+Karnataka,Bengaluru,EshwariDigital4KCinemaBanashankari,Kannada,13:30,Stall,100₹,552,3
+Karnataka,Bellary,RrMultiplexBellary,Kannada,14:00,GoldClass,150₹,86,0
+Karnataka,Bellary,RrMultiplexBellary,Kannada,14:00,SilverClass,100₹,243,6
+Karnataka,Bellary,RrMultiplexBellary,Kannada,17:00,GoldClass,150₹,86,0
+Karnataka,Bellary,RrMultiplexBellary,Kannada,17:00,SilverClass,100₹,243,0
+Karnataka,Bellary,RrMultiplexBellary,Kannada,20:00,GoldClass,150₹,86,0
+Karnataka,Bellary,RrMultiplexBellary,Kannada,20:00,SilverClass,100₹,243,0
