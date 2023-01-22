@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Chennai,AgsCinemasVillivakkam,Tamil,09:55,Diamond,190₹,147,2
+TamilNadu,Chennai,AgsCinemasVillivakkam,Tamil,09:55,Pearl,60₹,17,1
+TamilNadu,Chennai,PvrSklsGalaxyMallRedHillsChennai,Tamil,11:55,Classic,60₹,16,16
+TamilNadu,Chennai,PvrSklsGalaxyMallRedHillsChennai,Tamil,11:55,Prime,165₹,81,2
+TamilNadu,Chennai,SpiSathyamCinemasRoyapettahChennai,Tamil,12:00,Budget,60₹,12,3
+TamilNadu,Chennai,SpiSathyamCinemasRoyapettahChennai,Tamil,12:00,Elite,165₹,102,11
+TamilNadu,Chennai,PvrGrandMallVelachery,Tamil,12:20,Prime,165₹,214,15
+TamilNadu,Chennai,PvrGrandMallVelachery,Tamil,12:20,Classic,60₹,42,42
+TamilNadu,Chennai,PvrGrandGaladaPallavaram,Tamil,15:35,Classic,60₹,28,28
+TamilNadu,Chennai,PvrGrandGaladaPallavaram,Tamil,15:35,Prime,165₹,152,43
+TamilNadu,Chennai,PvrHeritageRslEcrChennai,Tamil,18:25,Classic,60₹,11,11
+TamilNadu,Chennai,PvrHeritageRslEcrChennai,Tamil,18:25,Prime,165₹,99,17
+TamilNadu,Chennai,SpiPalazzoNexusVijayaMallVadapalaniChennai,Tamil,19:00,Budget,60₹,28,2
+TamilNadu,Chennai,SpiPalazzoNexusVijayaMallVadapalaniChennai,Tamil,19:00,Elite,179₹,216,16
+TamilNadu,Chennai,PvrVrChennaiAnnaNagar,Tamil,22:20,Classic,60₹,34,33
+TamilNadu,Chennai,PvrVrChennaiAnnaNagar,Tamil,22:20,Prime,165₹,142,9
