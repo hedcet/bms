@@ -1,0 +1,16 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Delhi,NationalCapitalRegionNcr,PvrMgfGurgaon,English,10:30,Classic,199₹,72,0
+Delhi,NationalCapitalRegionNcr,PvrMgfGurgaon,English,10:30,Prime,199₹,52,4
+Delhi,NationalCapitalRegionNcr,PvrMgfGurgaon,English,10:30,Recliner,349₹,8,1
+Maharashtra,Mumbai,InoxInsigniaAtAtriaMallWorli,English,11:05,Insignia,450₹,38,12
+Telangana,Hyderabad,PvrAtriumGachibowliHyderabad,English,14:30,Classic,150₹,113,42
+Telangana,Hyderabad,PvrAtriumGachibowliHyderabad,English,14:30,Recliner,250₹,12,12
+Delhi,NationalCapitalRegionNcr,PvrLogixNoida,English,16:10,Classic,320₹,94,14
+Telangana,Hyderabad,PvrNextGalleriaMallPanjagutta,English,17:00,Classic,150₹,152,50
+Telangana,Hyderabad,PvrForumSujanaMallKukatpallyHyderabad,English,17:10,Classic,150₹,135,40
+Telangana,Hyderabad,PvrForumSujanaMallKukatpallyHyderabad,English,17:10,Recliner,250₹,9,8
+Delhi,NationalCapitalRegionNcr,PvrAmbienceGoldGurgaon,English,18:55,Platinum,500₹,28,16
+Delhi,NationalCapitalRegionNcr,PvrAmbienceGoldGurgaon,English,18:55,PlatinumSuperior,500₹,16,11
+Maharashtra,Mumbai,InoxLaserplexCr2NarimanPoint,English,22:15,Insignia,400₹,75,15
+Haryana,Chandigarh,PvrElanteChandigarh,English,23:10,Classic,230₹,160,29
+Haryana,Chandigarh,PvrElanteChandigarh,English,23:10,Recliner,650₹,26,0
