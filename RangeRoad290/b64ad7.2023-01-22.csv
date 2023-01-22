@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Punjab,Hoshiarpur,TimeCinemasHoshiarpur,Punjabi,09:30,Vip,100₹,69,0
+Punjab,Hoshiarpur,TimeCinemasHoshiarpur,Punjabi,09:30,Gold,100₹,58,0
+Punjab,Hoshiarpur,TimeCinemasHoshiarpur,Punjabi,09:30,Silver,100₹,52,0
+Haryana,Bathinda,FunCinemasMittalCityMallBathinda,Punjabi,13:15,Normal,180₹,66,0
+Haryana,Bathinda,FunCinemasMittalCityMallBathinda,Punjabi,13:15,Executive,180₹,86,10
+Haryana,Bathinda,FunCinemasMittalCityMallBathinda,Punjabi,13:15,Premium,180₹,145,16
+Punjab,Barnala,GeCinemasBarnala,Punjabi,15:45,Silver,150₹,48,0
+Punjab,Barnala,GeCinemasBarnala,Punjabi,15:45,Gold,200₹,117,0
+Punjab,Barnala,GeCinemasBarnala,Punjabi,15:45,Platinum,400₹,12,0
+Punjab,Moga,NeelamNovaCinemazMoga,Punjabi,16:30,Gold,200₹,122,0
