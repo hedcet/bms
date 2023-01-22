@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Raniganj,AnjanaChitraMandirRaniganj,Bengali,14:00,Gold,150₹,97,0
+WestBengal,Raniganj,AnjanaChitraMandirRaniganj,Bengali,14:00,GoldPremier,200₹,25,0
+WestBengal,Raniganj,AnjanaChitraMandirRaniganj,Bengali,17:30,Gold,150₹,97,0
+WestBengal,Raniganj,AnjanaChitraMandirRaniganj,Bengali,17:30,GoldPremier,200₹,25,4
