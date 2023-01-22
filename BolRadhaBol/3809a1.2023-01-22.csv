@@ -1,0 +1,16 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+,Danapur,DianaCinemaDanapur,Bhojpuri,12:00,DressCircle,80₹,200,0
+Bihar,Saharsa,PrashantTalkiesSaharsaBihar,Bhojpuri,12:15,Lounge,150₹,21,6
+Bihar,Saharsa,PrashantTalkiesSaharsaBihar,Bhojpuri,12:15,DressCircle,120₹,142,73
+Bihar,Saharsa,PrashantTalkiesSaharsaBihar,Bhojpuri,12:15,RoyalGold,90₹,181,43
+,Danapur,DianaCinemaDanapur,Bhojpuri,15:00,DressCircle,80₹,200,0
+Bihar,Saharsa,PrashantTalkiesSaharsaBihar,Bhojpuri,15:05,Lounge,150₹,21,6
+Bihar,Saharsa,PrashantTalkiesSaharsaBihar,Bhojpuri,15:05,DressCircle,120₹,142,73
+Bihar,Saharsa,PrashantTalkiesSaharsaBihar,Bhojpuri,15:05,RoyalGold,90₹,181,43
+,Danapur,DianaCinemaDanapur,Bhojpuri,18:00,DressCircle,80₹,200,0
+Bihar,Saharsa,PrashantChitralayaAcSaharsaBihar,Bhojpuri,18:05,Lounge,150₹,21,6
+Bihar,Saharsa,PrashantChitralayaAcSaharsaBihar,Bhojpuri,18:05,DressCircle,120₹,142,73
+Bihar,Saharsa,PrashantChitralayaAcSaharsaBihar,Bhojpuri,18:05,RoyalGold,90₹,181,43
+Bihar,Saharsa,PrashantChitralayaAcSaharsaBihar,Bhojpuri,21:00,Lounge,150₹,21,6
+Bihar,Saharsa,PrashantChitralayaAcSaharsaBihar,Bhojpuri,21:00,DressCircle,120₹,142,73
+Bihar,Saharsa,PrashantChitralayaAcSaharsaBihar,Bhojpuri,21:00,RoyalGold,90₹,181,43
