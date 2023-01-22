@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Ahmedabad,TimeCinemaCgRoadAhmedabad,English,10:15,Infinity,"1,040₹",12,0
+Delhi,NationalCapitalRegionNcr,PvrPromenadeVasantKunj,English,12:00,Classic,300₹,104,25
+Delhi,NationalCapitalRegionNcr,PvrPromenadeVasantKunj,English,12:00,Prime,360₹,26,26
+Delhi,NationalCapitalRegionNcr,PvrPromenadeVasantKunj,English,12:00,PrimePlus,410₹,10,8
+Gujarat,Ahmedabad,TimeCinemaCgRoadAhmedabad,English,13:15,Infinity,"1,040₹",12,8
+Gujarat,Surat,TimeCinemaGalaxyCirclePalSurat,English,18:00,Infinity,340₹,22,0
+Delhi,NationalCapitalRegionNcr,PvrAmbienceGurgaon,English,21:40,ClassicNormal,150₹,105,0
+Delhi,NationalCapitalRegionNcr,PvrAmbienceGurgaon,English,21:40,Prime,150₹,86,42
+Gujarat,Ahmedabad,TimeCinemaCgRoadAhmedabad,English,22:00,Infinity,"1,140₹",12,0
