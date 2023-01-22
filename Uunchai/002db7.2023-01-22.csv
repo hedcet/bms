@@ -1,0 +1,14 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Delhi,NationalCapitalRegionNcr,PvrDirectorSCutGurugramAmbienceMall,Hindi,10:30,Platinum,500₹,54,6
+Delhi,NationalCapitalRegionNcr,PvrDirectorSCutGurugramAmbienceMall,Hindi,10:30,PlatinumSuperior,500₹,17,9
+Delhi,NationalCapitalRegionNcr,InoxCrownInteriorzMallDelhiMathuraRoad,Hindi,15:10,Club,150₹,190,23
+Delhi,NationalCapitalRegionNcr,InoxCrownInteriorzMallDelhiMathuraRoad,Hindi,15:10,Executive,150₹,48,0
+Delhi,NationalCapitalRegionNcr,InoxInsigniaAtEpicuriaNehruPlace,Hindi,15:50,Insignia,"1,014₹",41,15
+Haryana,Chandigarh,PvrElanteChandigarh,Hindi,16:10,Classic,230₹,172,45
+Haryana,Chandigarh,PvrElanteChandigarh,Hindi,16:10,Recliner,650₹,27,6
+UttarPradesh,Lucknow,InoxEmeraldMallLucknow,Hindi,17:30,Club,150₹,70,0
+UttarPradesh,Lucknow,InoxEmeraldMallLucknow,Hindi,17:30,Executive,150₹,28,0
+UttarPradesh,Lucknow,InoxEmeraldMallLucknow,Hindi,17:30,Royale,150₹,83,10
+Gujarat,Ahmedabad,CityGoldSatelliteAhmedabad,Hindi,18:15,Executive,170₹,124,48
+Gujarat,Ahmedabad,CityGoldAshramRoad,Hindi,20:45,Executive,200₹,130,29
+Maharashtra,Mumbai,MovietimeTheHubGoregaon,Hindi,22:30,Gold,180₹,196,28
