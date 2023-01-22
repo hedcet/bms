@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Samsi,PawanTalkiesSamsi,Hindi,12:30,DressCircle,90₹,28,0
+WestBengal,Samsi,PawanTalkiesSamsi,Hindi,12:30,Balcony,60₹,196,2
+WestBengal,Samsi,PawanTalkiesSamsi,Hindi,15:30,DressCircle,90₹,28,0
+WestBengal,Samsi,PawanTalkiesSamsi,Hindi,15:30,Balcony,60₹,196,0
+WestBengal,Samsi,PawanTalkiesSamsi,Hindi,18:30,DressCircle,90₹,28,0
+WestBengal,Samsi,PawanTalkiesSamsi,Hindi,18:30,Balcony,60₹,196,0
