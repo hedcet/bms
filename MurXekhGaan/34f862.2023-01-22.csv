@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Maharashtra,Mumbai,PvrOrionMallPanvel,Assamese,12:00,Classic,250₹,26,22
+Maharashtra,Mumbai,PvrOrionMallPanvel,Assamese,12:00,Prime,300₹,125,106
+Maharashtra,Mumbai,PvrOrionMallPanvel,Assamese,12:00,PrimePlus,350₹,32,32
+Maharashtra,Pune,PvrPhoenixMarketCityPune,Assamese,15:35,Classic,250₹,76,1
+Maharashtra,Pune,PvrPhoenixMarketCityPune,Assamese,15:35,Prime,250₹,123,58
+Maharashtra,Pune,PvrPhoenixMarketCityPune,Assamese,15:35,PrimePlus,300₹,13,8
+Maharashtra,Pune,PvrPhoenixMarketCityPune,Assamese,15:35,Recliner,350₹,14,13
+Telangana,Hyderabad,PvrIconHitechMadhapurHyderabad,Assamese,16:20,Classic,295₹,140,50
