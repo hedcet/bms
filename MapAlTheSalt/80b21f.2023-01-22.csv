@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+ArunachalPradesh,Dirang,TnzCinemasDirang,Hindi,13:30,Gold,200₹,16,0
+ArunachalPradesh,Dirang,TnzCinemasDirang,Hindi,13:30,Platinum,250₹,24,0
+ArunachalPradesh,Dirang,TnzCinemasDirang,Hindi,13:30,Premium,300₹,10,0
+ArunachalPradesh,Dirang,TnzCinemasDirang,Hindi,15:30,Gold,200₹,16,0
+ArunachalPradesh,Dirang,TnzCinemasDirang,Hindi,15:30,Platinum,250₹,24,0
+ArunachalPradesh,Dirang,TnzCinemasDirang,Hindi,15:30,Premium,300₹,10,5
+ArunachalPradesh,Dirang,TnzCinemasDirang,Hindi,17:30,Gold,200₹,16,0
+ArunachalPradesh,Dirang,TnzCinemasDirang,Hindi,17:30,Platinum,250₹,24,0
+ArunachalPradesh,Dirang,TnzCinemasDirang,Hindi,17:30,Premium,300₹,10,0
