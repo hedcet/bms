@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Uttaranchal,Rishikesh,RamaPalaceRishikesh,Garhwali,11:00,FirstClass,40₹,168,0
+Uttaranchal,Rishikesh,RamaPalaceRishikesh,Garhwali,11:00,Silver,75₹,232,26
+Uttaranchal,Rishikesh,RamaPalaceRishikesh,Garhwali,11:00,Gold,110₹,182,64
+Uttaranchal,Rishikesh,RamaPalaceRishikesh,Garhwali,11:00,Platinum,180₹,24,23
+Delhi,NationalCapitalRegionNcr,CinepolisCrossRiverMallShahdara,Garhwali,13:20,Normal,219₹,72,43
+Delhi,NationalCapitalRegionNcr,CinepolisCrossRiverMallShahdara,Garhwali,13:20,Executive,227₹,58,46
+Delhi,NationalCapitalRegionNcr,RrCinemaJaipuriaMall,Garhwali,13:40,PremiumSofa,300₹,21,21
+Delhi,NationalCapitalRegionNcr,RrCinemaJaipuriaMall,Garhwali,13:40,Gold,99₹,252,252
+Delhi,NationalCapitalRegionNcr,RrCinemaJaipuriaMall,Garhwali,13:40,Silver,99₹,100,51
+Uttarakhand,Dehradun,SilverCityMultiplexRajpurRoad,Garhwali,13:45,Silver,100₹,68,0
+Uttarakhand,Dehradun,SilverCityMultiplexRajpurRoad,Garhwali,13:45,Gold,150₹,201,85
+Uttarakhand,Dehradun,SilverCityMultiplexRajpurRoad,Garhwali,13:45,Platinum,200₹,11,10
+Delhi,NationalCapitalRegionNcr,CinepolisModiMallFormerlySpiceMall,Garhwali,14:05,Premium,170₹,123,117
+Delhi,NationalCapitalRegionNcr,CinepolisModiMallFormerlySpiceMall,Garhwali,14:05,Classic,170₹,75,27
