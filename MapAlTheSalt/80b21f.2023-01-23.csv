@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+ArunachalPradesh,Itanagar,DrodelCineworldItanagar,Hindi,15:30,Silver,150₹,66,2
+ArunachalPradesh,Itanagar,DrodelCineworldItanagar,Hindi,15:30,Gold,200₹,88,7
+ArunachalPradesh,Itanagar,DrodelCineworldItanagar,Hindi,15:30,Platinum,300₹,76,0
