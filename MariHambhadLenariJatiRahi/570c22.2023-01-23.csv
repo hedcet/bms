@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Rajkot,RajshriCinemaRajkot,Gujarati,13:00,Balcony,150₹,208,0
+Gujarat,Rajkot,RajshriCinemaRajkot,Gujarati,13:00,Upper,100₹,550,0
+Gujarat,Ahmedabad,19CinemaNarolAhmedabad,Gujarati,21:30,Platinum,140₹,21,0
+Gujarat,Ahmedabad,19CinemaNarolAhmedabad,Gujarati,21:30,Gold,100₹,40,1
+Gujarat,Ahmedabad,19CinemaNarolAhmedabad,Gujarati,21:30,Silver,100₹,19,0
