@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Bihar,Raxaul,PankajTalkiesRaxaul,Hindi,12:00,Balcony,100₹,141,0
+Maharashtra,Aurangabad,KhinvasaraCineplexWaluj,Hindi,12:00,Diamond,200₹,82,0
+Gujarat,Jamnagar,AmberCinemaJamnagar,Hindi,12:30,Balcony,80₹,354,0
+WestBengal,Jalpaiguri,SriDayalCinemaHallJalpaiguri,Hindi,13:00,Balcony,50₹,360,10
+Bihar,Raxaul,PankajTalkiesRaxaul,Hindi,15:00,Balcony,100₹,141,0
+Gujarat,Jamnagar,AmberCinemaJamnagar,Hindi,15:30,Balcony,80₹,354,0
+WestBengal,Jalpaiguri,SriDayalCinemaHallJalpaiguri,Hindi,16:00,Balcony,50₹,360,0
+Bihar,Raxaul,PankajTalkiesRaxaul,Hindi,18:00,Balcony,100₹,141,0
+Gujarat,Jamnagar,AmberCinemaJamnagar,Hindi,18:30,Balcony,80₹,354,0
+WestBengal,Ranaghat,SurendraCinemaRanaghat,Hindi,18:30,Balocny,50₹,315,0
+WestBengal,Jalpaiguri,SriDayalCinemaHallJalpaiguri,Hindi,19:00,Balcony,50₹,360,0
+Maharashtra,Aurangabad,KhinvasaraCineplexWaluj,Hindi,19:00,Diamond,200₹,82,0
+Maharashtra,Aurangabad,KhinvasaraCineplexWaluj,Hindi,21:00,Diamond,200₹,82,0
+Gujarat,Jamnagar,AmberCinemaJamnagar,Hindi,21:30,Balcony,80₹,354,0
