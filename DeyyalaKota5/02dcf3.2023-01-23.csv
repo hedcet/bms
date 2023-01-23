@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Amalapuram,SriGanapathiPicturePalaceAmalapuram,Telugu,11:30,FirstClass,70₹,403,272
+AndhraPradesh,Amalapuram,SriGanapathiPicturePalaceAmalapuram,Telugu,11:30,SecondClass,50₹,83,73
+AndhraPradesh,Amalapuram,SriGanapathiPicturePalaceAmalapuram,Telugu,11:30,ThirdClass,30₹,101,91
+AndhraPradesh,Amalapuram,SriGanapathiPicturePalaceAmalapuram,Telugu,14:30,FirstClass,70₹,403,272
+AndhraPradesh,Amalapuram,SriGanapathiPicturePalaceAmalapuram,Telugu,14:30,SecondClass,50₹,83,73
+AndhraPradesh,Amalapuram,SriGanapathiPicturePalaceAmalapuram,Telugu,14:30,ThirdClass,30₹,101,91
+AndhraPradesh,Amalapuram,SriGanapathiPicturePalaceAmalapuram,Telugu,18:30,FirstClass,70₹,403,272
+AndhraPradesh,Amalapuram,SriGanapathiPicturePalaceAmalapuram,Telugu,18:30,SecondClass,50₹,83,73
+AndhraPradesh,Amalapuram,SriGanapathiPicturePalaceAmalapuram,Telugu,18:30,ThirdClass,30₹,101,91
+AndhraPradesh,Amalapuram,SriGanapathiPicturePalaceAmalapuram,Telugu,21:30,FirstClass,70₹,403,272
+AndhraPradesh,Amalapuram,SriGanapathiPicturePalaceAmalapuram,Telugu,21:30,SecondClass,50₹,83,73
+AndhraPradesh,Amalapuram,SriGanapathiPicturePalaceAmalapuram,Telugu,21:30,ThirdClass,30₹,101,91
