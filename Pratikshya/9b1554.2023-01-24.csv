@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Orissa,Bhubaneswar,SwatiCineplexxChristie4KLaserDolbyAtmos,Odia,16:20,LuxuriousRecliner,149₹,32,8
+Orissa,Bhubaneswar,SwatiCineplexxChristie4KLaserDolbyAtmos,Odia,16:20,SofaSlider,149₹,76,8
+Orissa,Bhubaneswar,SwatiCineplexxChristie4KLaserDolbyAtmos,Odia,16:20,Diamond,130₹,192,0
+Orissa,Bhubaneswar,SwatiCineplexxChristie4KLaserDolbyAtmos,Odia,16:20,Gold,100₹,75,0
+Orissa,Bhubaneswar,CinepolisNexusEsplanadeBhubaneswar,Odia,19:50,Normal,110₹,26,0
+Orissa,Bhubaneswar,CinepolisNexusEsplanadeBhubaneswar,Odia,19:50,Executive,110₹,71,0
+Orissa,Bhubaneswar,CinepolisNexusEsplanadeBhubaneswar,Odia,19:50,Premium,110₹,48,2
+Orissa,Bhubaneswar,CinepolisNexusEsplanadeBhubaneswar,Odia,19:50,Vip,350₹,10,4
