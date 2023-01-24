@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Delhi,NationalCapitalRegionNcr,RrCinemaJaipuriaMall,Garhwali,13:40,PremiumSofa,250₹,21,2
+Delhi,NationalCapitalRegionNcr,RrCinemaJaipuriaMall,Garhwali,13:40,Gold,140₹,252,14
+Delhi,NationalCapitalRegionNcr,RrCinemaJaipuriaMall,Garhwali,13:40,Silver,110₹,100,0
+Delhi,NationalCapitalRegionNcr,CinepolisSmartBharatMallFormerlySpiceMall,Garhwali,14:05,Premium,150₹,123,33
+Delhi,NationalCapitalRegionNcr,CinepolisSmartBharatMallFormerlySpiceMall,Garhwali,14:05,Classic,150₹,75,0
