@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Orissa,Bhawanipatna,NewStarCineplexBhawanipatna,Odia,11:00,Platinum,185₹,13,0
+Orissa,BerhampurOdisha,NewPayalCinema71DolbySound2KCentralAc,Odia,12:00,Balcony1,100₹,35,0
+Orissa,BerhampurOdisha,NewPayalCinema71DolbySound2KCentralAc,Odia,12:00,Delux,100₹,180,2
+Orissa,BerhampurOdisha,NewPayalCinema71DolbySound2KCentralAc,Odia,12:00,Balcony2,100₹,110,0
+Orissa,BerhampurOdisha,NewPayalCinema71DolbySound2KCentralAc,Odia,12:00,FirstClass,70₹,244,0
+Orissa,BerhampurOdisha,NewPayalCinema71DolbySound2KCentralAc,Odia,15:00,Balcony1,100₹,35,0
+Orissa,BerhampurOdisha,NewPayalCinema71DolbySound2KCentralAc,Odia,15:00,Delux,100₹,180,0
+Orissa,BerhampurOdisha,NewPayalCinema71DolbySound2KCentralAc,Odia,15:00,Balcony2,100₹,110,0
+Orissa,BerhampurOdisha,NewPayalCinema71DolbySound2KCentralAc,Odia,15:00,FirstClass,70₹,244,0
+Orissa,Bhawanipatna,NewStarCineplexBhawanipatna,Odia,17:00,Platinum,185₹,13,0
+Orissa,Bhawanipatna,NewStarCineplexBhawanipatna,Odia,17:00,Gold,138₹,17,0
+Orissa,Bhawanipatna,NewStarCineplexBhawanipatna,Odia,17:00,Silver,94₹,24,0
+Orissa,Bhawanipatna,NewStarCineplexBhawanipatna,Odia,20:00,Gold,138₹,17,0
+Orissa,Bhawanipatna,NewStarCineplexBhawanipatna,Odia,20:00,Silver,94₹,24,0
