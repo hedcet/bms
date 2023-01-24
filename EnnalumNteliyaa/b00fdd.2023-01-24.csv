@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,13:40,RoyalRecliner,290₹,10,0
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,13:40,Club,170₹,155,0
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,13:40,Royal,170₹,32,12
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,13:40,Executive,130₹,26,0
+Kerala,Trivandrum,PvrLuluTrivandrum,Malayalam,15:30,Classic,170₹,77,0
+Kerala,Trivandrum,PvrLuluTrivandrum,Malayalam,15:30,Prime,190₹,60,9
+Kerala,Trivandrum,PvrLuluTrivandrum,Malayalam,15:30,Recliner,350₹,7,0
+Kerala,Trivandrum,CarnivalGreenfieldTrivandrum,Malayalam,19:15,ExecutiveOffline,160₹,132,0
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,19:30,RoyalRecliner,290₹,10,8
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,19:30,Club,170₹,63,0
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,19:30,Royal,170₹,28,21
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,19:30,Executive,130₹,22,0
+Kerala,Kasaragod,MagicFramesMehboobTheatreComplex4KKasarago,Malayalam,19:30,Executive,129₹,175,5
+Kerala,Trivandrum,PvrLuluTrivandrum,Malayalam,21:00,Classic,190₹,60,3
+Kerala,Trivandrum,PvrLuluTrivandrum,Malayalam,21:00,Prime,220₹,39,8
+Kerala,Trivandrum,PvrLuluTrivandrum,Malayalam,21:00,Recliner,400₹,8,0
