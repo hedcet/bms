@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Punjab,Hoshiarpur,TimeCinemaFamilyTheatreHoshiarpur,Punjabi,09:30,Vip,100₹,69,0
+Punjab,Hoshiarpur,TimeCinemaFamilyTheatreHoshiarpur,Punjabi,09:30,Gold,100₹,58,0
+Punjab,Hoshiarpur,TimeCinemaFamilyTheatreHoshiarpur,Punjabi,09:30,Silver,100₹,52,0
+Punjab,Moga,NeelamNovaCinemazMoga,Punjabi,11:30,Gold,200₹,122,0
+Punjab,Moga,NeelamNovaCinemazMoga,Punjabi,16:30,Gold,200₹,122,0
+Punjab,Ludhiana,V2VCinemasOldSrsLudhiana,Punjabi,19:30,Platinum,100₹,195,46
+Punjab,Ludhiana,V2VCinemasOldSrsLudhiana,Punjabi,19:30,Gold,100₹,96,0
+Punjab,Ludhiana,V2VCinemasOldSrsLudhiana,Punjabi,19:30,Silver,100₹,48,0
