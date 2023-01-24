@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Ahmedabad,MirajCityPulseAhmedabad,Gujarati,14:30,Gold,130₹,24,0
+Gujarat,Ahmedabad,CityGoldAshramRoad,Gujarati,15:45,Executive,150₹,221,32
+Gujarat,Surat,CineverseCinemaVesu,Gujarati,16:00,Sofa,190₹,46,0
+Gujarat,Surat,CineverseCinemaKatargamSurat,Gujarati,16:00,Sofa,190₹,81,1
+Gujarat,Surat,CineverseCinemaKatargamSurat,Gujarati,16:00,Lounger,190₹,9,0
+Gujarat,Surat,TheFridayCinemaMotaVaracchaSurat,Gujarati,18:45,Recliner,250₹,28,2
+Gujarat,Surat,TheFridayCinemaMotaVaracchaSurat,Gujarati,18:45,PushBackSeat,150₹,73,2
+Gujarat,Surat,TheFridayCinemaMotaVaracchaSurat,Gujarati,18:45,Lounger,150₹,23,0
+Gujarat,Bhavnagar,Top3MultiplexBhavnagar,Gujarati,19:00,Gold,110₹,70,0
+Gujarat,Bhavnagar,Top3MultiplexBhavnagar,Gujarati,19:00,Silver,100₹,54,0
+Gujarat,Surat,TheFridayCinemaMotaVaracchaSurat,Gujarati,21:15,PushBackSeat,150₹,113,28
+Gujarat,Surat,TheFridayCinemaMotaVaracchaSurat,Gujarati,21:15,Lounger,150₹,9,0
+Gujarat,Bhavnagar,Top3MultiplexBhavnagar,Gujarati,22:00,Gold,110₹,70,0
+Gujarat,Bhavnagar,Top3MultiplexBhavnagar,Gujarati,22:00,Silver,100₹,54,0
