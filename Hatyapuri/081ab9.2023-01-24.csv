@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Kolkata,AtindraCinemaBarrackpore,Bengali,11:30,RedLounger,200₹,18,0
+WestBengal,Kolkata,AtindraCinemaBarrackpore,Bengali,11:30,Delux,150₹,144,0
+WestBengal,Kolkata,AtindraCinemaBarrackpore,Bengali,11:30,Recliner,250₹,16,2
+WestBengal,Kolkata,RadhaStudioTollygunge,Bengali,13:00,Silver,30₹,146,13
+WestBengal,Siliguri,CarnivalCinemasSiliguri,Bengali,13:25,Special,110₹,28,0
+WestBengal,Siliguri,CarnivalCinemasSiliguri,Bengali,13:25,Executive,110₹,188,12
+WestBengal,Kolkata,InoxSouthCityKolkata,Bengali,14:10,RoyalRecliner,230₹,16,3
+WestBengal,Kolkata,InoxSouthCityKolkata,Bengali,14:10,Premier,150₹,57,0
+WestBengal,Kolkata,InoxSouthCityKolkata,Bengali,14:10,Silver,150₹,310,33
+WestBengal,Kolkata,NandanKolkata,Bengali,15:30,Normal,30₹,165,162
+WestBengal,Kolkata,CinepolisLakeMallKolkata,Bengali,18:50,Normal,110₹,40,0
+WestBengal,Kolkata,CinepolisLakeMallKolkata,Bengali,18:50,Executive,110₹,188,13
+WestBengal,Kolkata,CinepolisLakeMallKolkata,Bengali,18:50,Premium,110₹,47,35
+WestBengal,Kolkata,CinepolisLakeMallKolkata,Bengali,18:50,Vip,350₹,12,2
+WestBengal,Hooghly,GoodwinCineplexSerampore,Bengali,19:05,Prime,150₹,12,0
+WestBengal,Hooghly,GoodwinCineplexSerampore,Bengali,19:05,Club,110₹,206,5
