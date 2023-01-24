@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Delhi,NationalCapitalRegionNcr,PvrPromenadeVasantKunj,English,18:20,Classic,240₹,104,13
+Delhi,NationalCapitalRegionNcr,PvrPromenadeVasantKunj,English,18:20,Prime,300₹,26,16
+Delhi,NationalCapitalRegionNcr,PvrPromenadeVasantKunj,English,18:20,PrimePlus,350₹,10,0
