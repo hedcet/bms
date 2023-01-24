@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Chennai,PvrSklsGalaxyMallRedHillsChennai,Tamil,11:55,Classic,60₹,16,16
+TamilNadu,Chennai,PvrSklsGalaxyMallRedHillsChennai,Tamil,11:55,Prime,165₹,81,12
+TamilNadu,Chennai,PvrAmpaMallNelsonManickamRoad,Tamil,15:40,Classic,60₹,17,17
+TamilNadu,Chennai,PvrAmpaMallNelsonManickamRoad,Tamil,15:40,Prime,165₹,130,3
+TamilNadu,Chennai,PvrVrChennaiAnnaNagar,Tamil,15:50,Classic,60₹,34,34
+TamilNadu,Chennai,PvrVrChennaiAnnaNagar,Tamil,15:50,Prime,165₹,142,9
+TamilNadu,Chennai,SpiPalazzoNexusVijayaMallVadapalaniChennai,Tamil,19:00,Budget,60₹,28,4
+TamilNadu,Chennai,SpiPalazzoNexusVijayaMallVadapalaniChennai,Tamil,19:00,Elite,165₹,216,51
+TamilNadu,Chennai,SpiEscapeExpressAvenueMallRoyapettah,Tamil,19:30,Budget,59₹,11,11
+TamilNadu,Chennai,SpiEscapeExpressAvenueMallRoyapettah,Tamil,19:30,Elite,165₹,99,10
