@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Kochi,ShenoysKochi,Malayalam,16:45,Diamond,180₹,71,47
+Kerala,Trivandrum,PvrLuluTrivandrum,Malayalam,19:20,Classic,190₹,65,26
+Kerala,Trivandrum,PvrLuluTrivandrum,Malayalam,19:20,Prime,220₹,34,1
+Kerala,Trivandrum,PvrLuluTrivandrum,Malayalam,19:20,Recliner,400₹,8,2
