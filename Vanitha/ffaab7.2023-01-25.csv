@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Thodupuzha,SilverHillsCinemasThodupuzha,Malayalam,11:15,Silver,130₹,80,0
+Kerala,Angamaly,JmMoviesJoshMallMookkannoorAngamaly,Malayalam,12:30,Gold,129₹,120,0
+Kerala,Angamaly,JmMoviesJoshMallMookkannoorAngamaly,Malayalam,12:30,Platinum,160₹,16,0
+Kerala,Kochi,ShenoysKochi,Malayalam,13:00,Lounge,250₹,26,0
+Kerala,Kochi,ShenoysKochi,Malayalam,13:00,Diamond,180₹,88,3
+Kerala,Trivandrum,CarnivalMallOfTravancoreTrivandrum,Malayalam,13:35,PremiumOffline,250₹,50,12
+Kerala,Trivandrum,CarnivalMallOfTravancoreTrivandrum,Malayalam,13:35,ExecutiveOffline,160₹,102,0
+Kerala,Trivandrum,CarnivalMallOfTravancoreTrivandrum,Malayalam,13:35,NormalOffline,100₹,17,0
+Kerala,Trivandrum,CarnivalGreenfieldTrivandrum,Malayalam,14:10,ExecutiveOffline,140₹,119,99
+Kerala,Kochi,DharsanaCinemaComplexPiravom,Malayalam,18:15,Platinum,180₹,45,0
+Kerala,Kochi,DharsanaCinemaComplexPiravom,Malayalam,18:15,Gold,150₹,154,0
+Kerala,Kochi,DharsanaCinemaComplexPiravom,Malayalam,18:15,Silver,80₹,22,0
+Kerala,Thodupuzha,SilverHillsCinemasThodupuzha,Malayalam,18:45,Silver,130₹,80,0
+Kerala,Trivandrum,CarnivalMallOfTravancoreTrivandrum,Malayalam,19:15,PremiumOffline,250₹,50,21
+Kerala,Trivandrum,CarnivalMallOfTravancoreTrivandrum,Malayalam,19:15,ExecutiveOffline,160₹,102,58
+Kerala,Trivandrum,CarnivalMallOfTravancoreTrivandrum,Malayalam,19:15,NormalOffline,100₹,17,1
