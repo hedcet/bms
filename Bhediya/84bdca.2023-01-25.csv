@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Delhi,NationalCapitalRegionNcr,CinepolisAiriaMallSohnaRoadGurgaon,Hindi,10:00,Normal,110₹,19,0
+Delhi,NationalCapitalRegionNcr,CinepolisAiriaMallSohnaRoadGurgaon,Hindi,10:00,Executive,110₹,50,0
+Delhi,NationalCapitalRegionNcr,CinepolisAiriaMallSohnaRoadGurgaon,Hindi,10:00,Premium,110₹,39,2
+Delhi,NationalCapitalRegionNcr,CinepolisAiriaMallSohnaRoadGurgaon,Hindi,10:00,Vip,300₹,9,0
+UttarPradesh,Lucknow,InoxPhoenixPalassioMallLucknow,Hindi,12:05,Club,150₹,54,0
+UttarPradesh,Lucknow,InoxPhoenixPalassioMallLucknow,Hindi,12:05,Executive,150₹,20,0
+UttarPradesh,Lucknow,InoxPhoenixPalassioMallLucknow,Hindi,12:05,Royale,150₹,59,15
+Delhi,NationalCapitalRegionNcr,PvrAmbienceGurgaon,Hindi,21:15,ClassicNormal,200₹,84,84
+Delhi,NationalCapitalRegionNcr,PvrAmbienceGurgaon,Hindi,21:15,Prime,250₹,68,63
