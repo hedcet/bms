@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Kundapura,BharathCinemasKundapura,Kannada,11:45,Gold,112₹,40,6
+Karnataka,Kundapura,BharathCinemasKundapura,Kannada,11:45,Silver,112₹,41,0
+Karnataka,Kundapura,BharathCinemasKundapura,Kannada,11:45,Special,112₹,48,0
+Karnataka,KalaburagiGulbarga,ShettysMultiplexGulbarga,Kannada,12:30,1Platinum,150₹,23,10
+Karnataka,KalaburagiGulbarga,ShettysMultiplexGulbarga,Kannada,12:30,2Gold,100₹,189,127
+Karnataka,KalaburagiGulbarga,ShettysMultiplexGulbarga,Kannada,12:30,3Silver,80₹,163,97
+Karnataka,KalaburagiGulbarga,ShettysMultiplexGulbarga,Kannada,15:30,1Platinum,150₹,23,8
+Karnataka,KalaburagiGulbarga,ShettysMultiplexGulbarga,Kannada,15:30,2Gold,100₹,189,126
+Karnataka,KalaburagiGulbarga,ShettysMultiplexGulbarga,Kannada,15:30,3Silver,80₹,163,97
