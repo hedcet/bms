@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Haryana,Chandigarh,PvrElanteChandigarh,Hindi,10:00,Classic,130₹,153,2
+Haryana,Chandigarh,PvrElanteChandigarh,Hindi,10:00,Recliner,300₹,13,4
+Delhi,NationalCapitalRegionNcr,PvrAmbienceGurgaon,Hindi,10:50,ClassicNormal,150₹,84,0
+Delhi,NationalCapitalRegionNcr,PvrAmbienceGurgaon,Hindi,10:50,Prime,200₹,68,0
+Delhi,NationalCapitalRegionNcr,EpicCinemasMall51Gurgaon,Hindi,14:30,Sofa,400₹,57,0
+Delhi,NationalCapitalRegionNcr,CinepolisAiriaMallSohnaRoadGurgaon,Hindi,16:40,Normal,350₹,19,0
+Delhi,NationalCapitalRegionNcr,CinepolisAiriaMallSohnaRoadGurgaon,Hindi,16:40,Executive,370₹,50,28
+Delhi,NationalCapitalRegionNcr,CinepolisAiriaMallSohnaRoadGurgaon,Hindi,16:40,Premium,390₹,39,27
+Delhi,NationalCapitalRegionNcr,CinepolisAiriaMallSohnaRoadGurgaon,Hindi,16:40,Vip,500₹,9,8
