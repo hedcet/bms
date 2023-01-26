@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Guntur,SriGaneshMahalGuntur,Telugu,11:15,FirstClass,50₹,201,0
+AndhraPradesh,Guntur,SriGaneshMahalGuntur,Telugu,14:30,FirstClass,50₹,201,0
+AndhraPradesh,Guntur,SriGaneshMahalGuntur,Telugu,18:15,FirstClass,50₹,201,0
+AndhraPradesh,Guntur,SriGaneshMahalGuntur,Telugu,21:30,FirstClass,50₹,201,1
