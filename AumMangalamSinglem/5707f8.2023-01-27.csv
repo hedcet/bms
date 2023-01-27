@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Ahmedabad,AbMiniplexShivranjiniCrossRoadSatellite,Gujarati,09:00,Executive,150₹,54,2
+Gujarat,Ahmedabad,AbMiniplexShivranjiniCrossRoadSatellite,Gujarati,12:15,Executive,150₹,54,2
+Gujarat,Vadodara,MovietimeSSquareMallSubhanpuraVadodara,Gujarati,14:00,Recliner,150₹,9,1
+Gujarat,Vadodara,MovietimeSSquareMallSubhanpuraVadodara,Gujarati,14:00,Premium,100₹,104,7
+Gujarat,Vadodara,MovietimeSSquareMallSubhanpuraVadodara,Gujarati,14:00,Executive,100₹,48,0
