@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,MangaluruMangalore,BharathCinemasMangalore,Tulu,17:15,Gold,180₹,43,8
+Karnataka,MangaluruMangalore,BharathCinemasMangalore,Tulu,17:15,Silver,150₹,20,0
+Karnataka,MangaluruMangalore,BharathCinemasMangalore,Tulu,17:15,Special,150₹,7,0
+Karnataka,MangaluruMangalore,PvrNexusMallPandeshwarMangalore,Tulu,22:00,Classic,150₹,79,79
+Karnataka,MangaluruMangalore,PvrForumFizaMallPandeshwar,Tulu,22:00,Classic,150₹,79,14
