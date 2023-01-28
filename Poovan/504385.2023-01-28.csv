@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Kottayam,AshaTheatreKottayam,Malayalam,11:00,Gold,130₹,187,5
+Kerala,Kottayam,AshaTheatreKottayam,Malayalam,11:00,Silver,110₹,33,0
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,13:00,RoyalRecliner,350₹,10,2
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,13:00,Club,190₹,66,0
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,13:00,Royal,190₹,28,15
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,13:00,Executive,130₹,22,3
