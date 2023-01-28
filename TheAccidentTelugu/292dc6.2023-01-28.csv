@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,VizagVisakhapatnam,RajaCinemaxAC2KDolbyKothavalasa,Telugu,07:00,BoxA,100₹,24,0
+AndhraPradesh,VizagVisakhapatnam,RajaCinemaxAC2KDolbyKothavalasa,Telugu,07:00,BoxB,100₹,23,0
+AndhraPradesh,VizagVisakhapatnam,RajaCinemaxAC2KDolbyKothavalasa,Telugu,07:00,FirstClass,100₹,317,1
+AndhraPradesh,VizagVisakhapatnam,RajaCinemaxAC2KDolbyKothavalasa,Telugu,07:00,SecondClass,70₹,114,0
