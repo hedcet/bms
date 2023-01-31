@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+JammuAndKashmir,Jammu,ApsaraMultiplexJammu,Hindi,11:00,Balcony,200₹,166,0
+JammuAndKashmir,Jammu,ApsaraMultiplexJammu,Hindi,13:15,Balcony,200₹,166,1
+JammuAndKashmir,Jammu,ApsaraMultiplexJammu,Hindi,15:30,Balcony,200₹,166,0
+JammuAndKashmir,Jammu,ApsaraMultiplexJammu,Hindi,18:30,Balcony,200₹,166,0
