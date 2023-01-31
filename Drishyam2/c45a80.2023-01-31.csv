@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Haryana,Chandigarh,PvrElanteChandigarh,Hindi,10:20,Classic,130₹,174,21
+Haryana,Chandigarh,PvrElanteChandigarh,Hindi,10:20,Recliner,300₹,26,0
+Haryana,Chandigarh,PvrVrPunjabMallMohali,Hindi,12:30,Classic,180₹,96,0
+Haryana,Chandigarh,PvrVrPunjabMallMohali,Hindi,12:30,Prime,210₹,38,2
+UttarPradesh,Lucknow,PvrPhoenixLucknow,Hindi,15:05,Classic,140₹,151,39
+UttarPradesh,Lucknow,PvrPhoenixLucknow,Hindi,15:05,Prime,200₹,9,2
+UttarPradesh,NationalCapitalRegionNcr,PvrMgfGurgaon,Hindi,18:30,Classic,149₹,104,1
+UttarPradesh,NationalCapitalRegionNcr,PvrMgfGurgaon,Hindi,18:30,Prime,149₹,61,9
+UttarPradesh,NationalCapitalRegionNcr,PvrGaurCityGreaterNoida,Hindi,19:40,Classic,180₹,172,1
+UttarPradesh,NationalCapitalRegionNcr,PvrGaurCityGreaterNoida,Hindi,19:40,Prime,200₹,34,0
+UttarPradesh,NationalCapitalRegionNcr,PvrGaurCityGreaterNoida,Hindi,19:40,Recliner,300₹,13,0
