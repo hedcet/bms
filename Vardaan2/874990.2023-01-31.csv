@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Nadiad,CoconutViratMultiplexNadiad,Sindhi,15:30,Platinum,80₹,14,0
+Gujarat,Nadiad,CoconutViratMultiplexNadiad,Sindhi,15:30,Gold,80₹,91,0
+Gujarat,Nadiad,CoconutViratMultiplexNadiad,Sindhi,18:00,Platinum,80₹,14,13
+Gujarat,Nadiad,CoconutViratMultiplexNadiad,Sindhi,18:00,Gold,80₹,104,0
