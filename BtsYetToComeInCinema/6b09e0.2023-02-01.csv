@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Kolkata,InoxQuestMall,Korean,17:15,RoyalRecliner,"1,160₹",18,18
+WestBengal,Kolkata,InoxQuestMall,Korean,17:15,Club,580₹,172,166
+WestBengal,Kolkata,InoxQuestMall,Korean,17:15,Royal,580₹,72,72
+WestBengal,Kolkata,InoxQuestMall,Korean,17:15,Executive,550₹,40,8
+WestBengal,Kolkata,InoxQuestMall,Korean,19:30,RoyalRecliner,"1,160₹",18,18
+WestBengal,Kolkata,InoxQuestMall,Korean,19:30,Royal,580₹,72,72
+WestBengal,Kolkata,InoxQuestMall,Korean,19:30,Club,560₹,172,94
+WestBengal,Kolkata,InoxQuestMall,Korean,19:30,Executive,550₹,40,0
+WestBengal,Kolkata,InoxQuestMall,Korean,21:45,RoyalRecliner,"1,150₹",18,9
+WestBengal,Kolkata,InoxQuestMall,Korean,21:45,Club,550₹,172,3
+WestBengal,Kolkata,InoxQuestMall,Korean,21:45,Executive,550₹,40,0
+WestBengal,Kolkata,InoxQuestMall,Korean,21:45,Royal,550₹,72,20
