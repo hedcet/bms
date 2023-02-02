@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,NationalCapitalRegionNcr,PvrAmbienceGurgaon,English,10:10,ClassicNormal,150₹,84,0
+UttarPradesh,NationalCapitalRegionNcr,PvrAmbienceGurgaon,English,10:10,Prime,150₹,68,3
+UttarPradesh,NationalCapitalRegionNcr,PvrLogixNoida,English,11:00,Classic,170₹,49,0
+UttarPradesh,NationalCapitalRegionNcr,PvrVegasDwarka,English,17:10,Classic,300₹,36,0
+UttarPradesh,NationalCapitalRegionNcr,PvrVegasDwarka,English,17:10,Prime,350₹,21,7
+UttarPradesh,NationalCapitalRegionNcr,PvrVegasDwarka,English,17:10,Recliner,600₹,8,0
