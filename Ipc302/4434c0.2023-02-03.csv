@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Trivandrum,CarnivalGreenfieldTrivandrum,Malayalam,13:00,ExecutiveOffline,160₹,119,0
+Kerala,Trivandrum,CarnivalMallOfTravancoreTrivandrum,Malayalam,13:45,PremiumOffline,300₹,50,8
+Kerala,Trivandrum,CarnivalMallOfTravancoreTrivandrum,Malayalam,13:45,ExecutiveOffline,180₹,102,0
+Kerala,Trivandrum,CarnivalMallOfTravancoreTrivandrum,Malayalam,13:45,NormalOffline,100₹,17,0
+Kerala,Kollam,CarnivalKollamRpMall,Malayalam,16:00,PremiumOffline,180₹,96,20
+Kerala,Karunagapally,CarnivalHJComplex,Malayalam,17:50,ClassicOffline,170₹,194,0
