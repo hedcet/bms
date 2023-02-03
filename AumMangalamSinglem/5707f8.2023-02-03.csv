@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Ahmedabad,19CinemaSouthBopalAhmedabad,Gujarati,13:15,Platinum,150₹,16,0
+Gujarat,Ahmedabad,19CinemaSouthBopalAhmedabad,Gujarati,13:15,Gold,100₹,32,2
+Gujarat,Ahmedabad,19CinemaSouthBopalAhmedabad,Gujarati,13:15,Silver,100₹,16,0
+Gujarat,Ahmedabad,AbMiniplexShivranjiniCrossRoadSatellite,Gujarati,13:30,Executive,110₹,54,0
+Gujarat,Vadodara,MovietimeSSquareMallSubhanpuraVadodara,Gujarati,17:00,Recliner,150₹,9,0
+Gujarat,Vadodara,MovietimeSSquareMallSubhanpuraVadodara,Gujarati,17:00,Premium,100₹,104,0
+Gujarat,Vadodara,MovietimeSSquareMallSubhanpuraVadodara,Gujarati,17:00,Executive,100₹,48,0
+Gujarat,Ahmedabad,BananaSmartplexAhmedabad,Gujarati,19:55,Lounger,280₹,12,0
+Gujarat,Ahmedabad,BananaSmartplexAhmedabad,Gujarati,19:55,Premium,230₹,82,14
+Gujarat,Ahmedabad,AbMiniplexShivranjiniCrossRoadSatellite,Gujarati,22:00,Sofa,130₹,12,6
+Gujarat,Ahmedabad,AbMiniplexShivranjiniCrossRoadSatellite,Gujarati,22:00,Bed,150₹,6,2
