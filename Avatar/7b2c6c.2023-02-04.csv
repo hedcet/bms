@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,NationalCapitalRegionNcr,InoxAiplJoyStreetGurgaon,English,11:30,Club,190₹,61,0
+UttarPradesh,NationalCapitalRegionNcr,InoxAiplJoyStreetGurgaon,English,11:30,Executive,190₹,22,0
+UttarPradesh,NationalCapitalRegionNcr,InoxAiplJoyStreetGurgaon,English,11:30,Royale,190₹,55,10
