@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Chennai,JothiTheatre4KACDtsStThomasMount,Tamil,08:30,Balcony,130₹,220,36
+TamilNadu,Chennai,JothiTheatre4KACDtsStThomasMount,Tamil,08:30,FirstClass,110₹,491,28
+TamilNadu,Chennai,GanapathyTheatre2KDtsGummidipoondiChennai,Tamil,08:30,Balcony,120₹,123,0
+TamilNadu,Chennai,GanapathyTheatre2KDtsGummidipoondiChennai,Tamil,08:30,FirstClass,100₹,454,0
+TamilNadu,Chennai,BgParimalamCinemasSilverScreenKundrathur,Tamil,08:30,FirstClass,100₹,516,0
