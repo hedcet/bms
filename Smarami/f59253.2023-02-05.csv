@@ -1,0 +1,14 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bellary,RrMultiplexBellary,Kannada,11:00,GoldClass,150₹,173,0
+Karnataka,Bellary,RrMultiplexBellary,Kannada,11:00,SilverClass,100₹,132,0
+Karnataka,BelagaviBelgaum,SantoshTheatreBelagavi,Kannada,12:00,Balcony,80₹,252,0
+Karnataka,BelagaviBelgaum,SantoshTheatreBelagavi,Kannada,12:00,Stall,70₹,370,0
+Karnataka,Bellary,RrMultiplexBellary,Kannada,14:00,GoldClass,150₹,173,0
+Karnataka,Bellary,RrMultiplexBellary,Kannada,14:00,SilverClass,100₹,132,0
+Karnataka,BelagaviBelgaum,SantoshTheatreBelagavi,Kannada,15:00,Balcony,80₹,252,0
+Karnataka,BelagaviBelgaum,SantoshTheatreBelagavi,Kannada,15:00,Stall,70₹,370,0
+Karnataka,Bengaluru,GopalanMallSirsiCircle,Kannada,17:10,Gold,236₹,265,10
+Karnataka,BelagaviBelgaum,SantoshTheatreBelagavi,Kannada,18:00,Balcony,80₹,252,0
+Karnataka,BelagaviBelgaum,SantoshTheatreBelagavi,Kannada,18:00,Stall,70₹,370,0
+Karnataka,BelagaviBelgaum,SantoshTheatreBelagavi,Kannada,21:00,Balcony,80₹,252,0
+Karnataka,BelagaviBelgaum,SantoshTheatreBelagavi,Kannada,21:00,Stall,70₹,370,0
