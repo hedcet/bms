@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Chennai,InoxChennaiCitiCentreDrRkSalai,Tamil,10:00,Club,152₹,153,18
+TamilNadu,Chennai,InoxChennaiCitiCentreDrRkSalai,Tamil,10:00,Executive,60₹,23,0
+TamilNadu,Chennai,RohiniVenkateshwaraPeriyapalayam,Tamil,11:45,Superstar,150₹,39,10
+TamilNadu,Chennai,RohiniVenkateshwaraPeriyapalayam,Tamil,11:45,Goldstar,130₹,356,58
