@@ -1,0 +1,8 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Haryana,Chandigarh,PvrElanteChandigarh,Punjabi,10:00,Classic,130₹,153,17
+Haryana,Chandigarh,PvrElanteChandigarh,Punjabi,10:00,Recliner,300₹,13,2
+Punjab,Amritsar,PvrSctAmritsar,Punjabi,10:30,Classic,112₹,12,0
+Punjab,Amritsar,PvrSctAmritsar,Punjabi,10:30,Prime,112₹,40,0
+Punjab,Ludhiana,PvrPavilionLudhiana,Punjabi,10:30,Classic,140₹,77,17
+Punjab,Jalandhar,PvrFriendsJalandhar,Punjabi,11:20,Classic,120₹,33,0
+Punjab,Jalandhar,PvrFriendsJalandhar,Punjabi,11:20,Prime,140₹,53,14
