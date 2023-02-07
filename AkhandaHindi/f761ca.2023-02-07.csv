@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Chhattisgarh,Bemetara,RatanTalkiesBemetara,Hindi,12:00,Gold,100₹,121,0
+Chhattisgarh,Sarsiwa,MarkoCineplexSarsiwa,Hindi,12:00,Platinum,150₹,36,0
+Chhattisgarh,Sarsiwa,MarkoCineplexSarsiwa,Hindi,12:00,Diamond,100₹,180,0
+UttarPradesh,Kanpur,DeliteBigScreenCinemaKanpur,Hindi,12:30,Balcony,50₹,120,0
+Chhattisgarh,Bemetara,RatanTalkiesBemetara,Hindi,15:00,Gold,100₹,121,0
+Chhattisgarh,Sarsiwa,MarkoCineplexSarsiwa,Hindi,15:00,Platinum,150₹,36,0
+Chhattisgarh,Sarsiwa,MarkoCineplexSarsiwa,Hindi,15:00,Diamond,100₹,180,0
+UttarPradesh,Kanpur,DeliteBigScreenCinemaKanpur,Hindi,15:30,Balcony,50₹,120,0
+Chhattisgarh,Bemetara,RatanTalkiesBemetara,Hindi,18:00,Gold,100₹,121,0
+UttarPradesh,Kanpur,DeliteBigScreenCinemaKanpur,Hindi,18:30,Balcony,50₹,120,0
+UttarPradesh,Kanpur,DeliteBigScreenCinemaKanpur,Hindi,21:30,Balcony,50₹,120,3
