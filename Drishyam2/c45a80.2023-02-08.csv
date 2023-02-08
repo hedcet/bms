@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,NationalCapitalRegionNcr,PvrPacificDwarka,Hindi,10:10,Classic,150₹,44,0
+UttarPradesh,NationalCapitalRegionNcr,PvrPacificDwarka,Hindi,10:10,Prime,150₹,18,3
+UttarPradesh,NationalCapitalRegionNcr,PvrGaurCityGreaterNoida,Hindi,13:15,Classic,160₹,101,21
+UttarPradesh,NationalCapitalRegionNcr,PvrGaurCityGreaterNoida,Hindi,13:15,Prime,180₹,13,0
