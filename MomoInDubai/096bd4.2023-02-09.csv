@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Anchal,ArchanaCinemasAcDolbyAtmosAnchalKerala,Malayalam,11:00,Recliner,250₹,9,9
+Kerala,Anchal,ArchanaCinemasAcDolbyAtmosAnchalKerala,Malayalam,11:00,MovieMax,130₹,272,272
+Kerala,Kollam,GmaxCinemasJerome,Malayalam,11:15,Blue,160₹,170,0
+Kerala,Kochi,SangeetaCinemaKochi,Malayalam,12:00,BlueCircle,150₹,187,18
+Kerala,Kochi,SangeetaCinemaKochi,Malayalam,15:00,BlueCircle,150₹,187,18
+Kerala,Kochi,SangeetaCinemaKochi,Malayalam,18:00,BlueCircle,150₹,187,18
+Kerala,Kollam,GmaxCinemas3D71JblKollam,Malayalam,20:00,Blue,180₹,170,0
+Kerala,Kochi,SangeetaCinemaKochi,Malayalam,21:00,BlueCircle,150₹,187,18
