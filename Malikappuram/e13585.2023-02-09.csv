@@ -1,0 +1,16 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,RajamahendravaramRajahmundry,SuryaMiniRajahmundry,Telugu,11:15,FirstClass,112₹,162,3
+AndhraPradesh,RajamahendravaramRajahmundry,SuryaMiniRajahmundry,Telugu,11:15,SecondClass,75₹,71,0
+Maharashtra,Mumbai,PvrLodhaXperiaPalava,Tamil,14:10,Classic,130₹,36,0
+Maharashtra,Mumbai,PvrLodhaXperiaPalava,Tamil,14:10,Prime,150₹,126,0
+Maharashtra,Mumbai,PvrLodhaXperiaPalava,Tamil,14:10,Recliner,240₹,12,0
+AndhraPradesh,RajamahendravaramRajahmundry,Suryamini2KDolbyAtmosRajahmundry,Telugu,14:45,FirstClass,112₹,162,9
+AndhraPradesh,RajamahendravaramRajahmundry,Suryamini2KDolbyAtmosRajahmundry,Telugu,14:45,SecondClass,75₹,71,4
+Maharashtra,Mumbai,CinepolisNexusSeawoodsNaviMumbai,Tamil,15:15,Normal,180₹,30,0
+Maharashtra,Mumbai,CinepolisNexusSeawoodsNaviMumbai,Tamil,15:15,Executive,200₹,86,0
+Maharashtra,Mumbai,CinepolisNexusSeawoodsNaviMumbai,Tamil,15:15,Premium,220₹,76,0
+Maharashtra,Mumbai,CinepolisNexusSeawoodsNaviMumbai,Tamil,15:15,Vip,350₹,14,0
+Maharashtra,Mumbai,CarnivalMoviestarGoregaon,Tamil,17:20,GoldOffline,110₹,55,0
+Maharashtra,Mumbai,CarnivalMoviestarGoregaon,Tamil,17:20,SilverOffline,90₹,20,0
+Maharashtra,Pune,PvrCityOneMallPimpri,Tamil,19:00,Classic,140₹,26,0
+Maharashtra,Pune,PvrCityOneMallPimpri,Tamil,19:00,Prime,170₹,98,0
