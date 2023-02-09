@@ -1,0 +1,8 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+MadhyaPradesh,Sehore,LisaMultiplexScreen2Sehore,Hindi,15:00,Silver,50₹,90,90
+MadhyaPradesh,Sehore,LisaMultiplexScreen2Sehore,Hindi,15:00,Gold,70₹,185,96
+UttarPradesh,NationalCapitalRegionNcr,EpicCinemasMall51Gurgaon,Hindi,17:20,Sofa,250₹,50,0
+MadhyaPradesh,Sehore,LisaMultiplexScreen2Sehore,Hindi,18:00,Silver,50₹,90,90
+MadhyaPradesh,Sehore,LisaMultiplexScreen2Sehore,Hindi,18:00,Gold,70₹,185,95
+MadhyaPradesh,Sehore,LisaMultiplexScreen2Sehore,Hindi,21:00,Silver,50₹,90,90
+MadhyaPradesh,Sehore,LisaMultiplexScreen2Sehore,Hindi,21:00,Gold,70₹,185,95
