@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bellary,NatrajTheatreBellary,Telugu,11:00,GoldClass,150₹,212,56
+Karnataka,Bellary,NatrajTheatreBellary,Telugu,11:00,SecondClass,100₹,424,110
+Karnataka,Bellary,NatrajTheatreBellary,Telugu,14:00,GoldClass,150₹,212,56
+Karnataka,Bellary,NatrajTheatreBellary,Telugu,14:00,SecondClass,100₹,424,110
+Karnataka,Bellary,NatrajTheatreBellary,Telugu,17:00,GoldClass,150₹,212,56
+Karnataka,Bellary,NatrajTheatreBellary,Telugu,17:00,SecondClass,100₹,424,110
+Karnataka,Bellary,NatrajTheatreBellary,Telugu,20:15,GoldClass,150₹,212,56
+Karnataka,Bellary,NatrajTheatreBellary,Telugu,20:15,SecondClass,100₹,424,110
