@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Chhattisgarh,Kondagaon,RKCinemaEosCinemasKondagaon,Odia,15:00,Club,100₹,62,6
+Chhattisgarh,Kondagaon,RKCinemaEosCinemasKondagaon,Odia,15:00,Premium,100₹,84,8
+Chhattisgarh,Kondagaon,RKCinemaEosCinemasKondagaon,Odia,15:00,Prime,100₹,21,1
+Chhattisgarh,Kondagaon,EosCinemasKondagaon,Odia,18:00,Club,100₹,62,6
+Chhattisgarh,Kondagaon,EosCinemasKondagaon,Odia,18:00,Premium,100₹,84,8
+Chhattisgarh,Kondagaon,EosCinemasKondagaon,Odia,18:00,Prime,100₹,21,1
+Chhattisgarh,Kondagaon,EosCinemasKondagaon,Odia,21:00,Club,100₹,62,6
+Chhattisgarh,Kondagaon,EosCinemasKondagaon,Odia,21:00,Premium,100₹,84,8
+Chhattisgarh,Kondagaon,EosCinemasKondagaon,Odia,21:00,Prime,100₹,21,1
