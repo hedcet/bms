@@ -1,0 +1,16 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Trivandrum,PvrLuluTrivandrum,Malayalam,12:15,Classic,230₹,77,0
+Kerala,Trivandrum,PvrLuluTrivandrum,Malayalam,12:15,Prime,260₹,60,0
+Kerala,Trivandrum,PvrLuluTrivandrum,Malayalam,12:15,Recliner,500₹,7,0
+Kerala,Kochi,PvrLuluKochi,Malayalam,12:55,Classic,140₹,39,0
+Kerala,Kochi,PvrLuluKochi,Malayalam,12:55,ClassicPlus,160₹,91,0
+Kerala,Kochi,PvrLuluKochi,Malayalam,12:55,Prime,190₹,64,0
+Kerala,Kochi,PvrLuluKochi,Malayalam,12:55,Recliner,350₹,9,2
+Karnataka,MysuruMysore,PvrForumCentreCityMallMysuru,Malayalam,15:00,Classic,160₹,152,22
+TamilNadu,Chennai,SpiPalazzoNexusVijayaMallVadapalaniChennai,Malayalam,15:10,Budget,63₹,28,28
+TamilNadu,Chennai,SpiPalazzoNexusVijayaMallVadapalaniChennai,Malayalam,15:10,Elite,189₹,216,54
+TamilNadu,Coimbatore,SpiTheCinemaBrookefieldsMall,Malayalam,18:35,Budget,63₹,20,20
+TamilNadu,Coimbatore,SpiTheCinemaBrookefieldsMall,Malayalam,18:35,Elite,202₹,174,13
+Karnataka,Bengaluru,PvrPhoenixMarketcityMallWhitefieldRoad,Malayalam,19:05,Classic,112₹,139,5
+Karnataka,Bengaluru,PvrPhoenixMarketcityMallWhitefieldRoad,Malayalam,19:05,Prime,112₹,10,0
+Karnataka,Bengaluru,PvrPhoenixMarketcityMallWhitefieldRoad,Malayalam,19:05,Recliner,200₹,14,0
