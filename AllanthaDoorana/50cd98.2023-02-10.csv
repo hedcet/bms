@@ -1,0 +1,8 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Kakinada,MayuriAcDtsKakinada,Telugu,11:30,Premium,112₹,390,19
+AndhraPradesh,Kakinada,MayuriAcDtsKakinada,Telugu,11:30,NonPremium,75₹,147,9
+AndhraPradesh,Ongole,G2VTheatersRaviPriyaMallOngole,Telugu,11:30,PlatinumRecliner,295₹,10,10
+AndhraPradesh,Ongole,G2VTheatersRaviPriyaMallOngole,Telugu,11:30,Gold,177₹,219,55
+AndhraPradesh,Nellore,RainCinemaNellore,Telugu,11:55,Platinum,200₹,314,28
+AndhraPradesh,Kakinada,MayuriAcDtsKakinada,Telugu,18:30,Premium,112₹,390,19
+AndhraPradesh,Kakinada,MayuriAcDtsKakinada,Telugu,18:30,NonPremium,75₹,147,9
