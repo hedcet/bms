@@ -1,0 +1,14 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Trivandrum,PvrLuluTrivandrum,Malayalam,10:10,Classic,170₹,70,3
+Kerala,Trivandrum,PvrLuluTrivandrum,Malayalam,10:10,Prime,190₹,51,17
+Kerala,Trivandrum,PvrLuluTrivandrum,Malayalam,10:10,Recliner,350₹,7,0
+Kerala,Palakkad,AromaTheatrePalakkad,Malayalam,11:15,Red,115₹,246,0
+Kerala,Palakkad,AromaTheatrePalakkad,Malayalam,11:15,Blue,100₹,320,0
+Kerala,Trivandrum,PvrLuluTrivandrum,Malayalam,12:40,Classic,170₹,70,0
+Kerala,Trivandrum,PvrLuluTrivandrum,Malayalam,12:40,Prime,190₹,51,29
+Kerala,Trivandrum,PvrLuluTrivandrum,Malayalam,12:40,Recliner,350₹,7,0
+Kerala,Trivandrum,AriesplexSlCinemasCinionicDolbyAtmos,Malayalam,14:30,Executive,110₹,70,34
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,16:30,RoyalRecliner,350₹,10,0
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,16:30,Club,190₹,155,2
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,16:30,Royal,190₹,32,22
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,16:30,Executive,130₹,26,0
