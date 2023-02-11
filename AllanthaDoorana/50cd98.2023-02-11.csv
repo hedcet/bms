@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Telangana,Hyderabad,ShantiTheatreNarayanaguda,Telugu,11:00,UpperBalcony,150₹,391,5
+Telangana,Hyderabad,ShantiTheatreNarayanaguda,Telugu,11:00,LowerBalcony,150₹,285,0
+Telangana,Hyderabad,ShantiTheatreNarayanaguda,Telugu,11:00,SecondClass,100₹,88,0
+AndhraPradesh,Ongole,G2VTheatersRaviPriyaMallOngole,Telugu,11:30,PlatinumRecliner,295₹,10,0
+AndhraPradesh,Ongole,G2VTheatersRaviPriyaMallOngole,Telugu,11:30,Gold,177₹,219,32
+Telangana,Hyderabad,ShantiTheatreNarayanaguda,Telugu,14:00,UpperBalcony,150₹,391,1
+Telangana,Hyderabad,ShantiTheatreNarayanaguda,Telugu,14:00,LowerBalcony,150₹,285,0
+Telangana,Hyderabad,ShantiTheatreNarayanaguda,Telugu,14:00,SecondClass,100₹,88,0
