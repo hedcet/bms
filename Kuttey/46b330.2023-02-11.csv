@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+JammuAndKashmir,Jammu,ApsaraMultiplexJammu,Hindi,11:00,Balcony,200₹,166,0
+Maharashtra,Mumbai,NazranaCinemaBhiwandi,Hindi,12:30,Balcony,60₹,282,0
+Maharashtra,Mumbai,NazranaCinemaBhiwandi,Hindi,12:30,DCircle,50₹,271,0
+UttarPradesh,Orai,ArchanaPalaceOrai,Hindi,13:00,Gold,200₹,132,3
+UttarPradesh,Orai,ArchanaPalaceOrai,Hindi,13:00,Silver,170₹,36,0
+JammuAndKashmir,Jammu,ApsaraMultiplexJammu,Hindi,13:15,Balcony,200₹,166,0
+JammuAndKashmir,Jammu,ApsaraMultiplexJammu,Hindi,15:30,Balcony,200₹,166,0
+Maharashtra,Mumbai,NazranaCinemaBhiwandi,Hindi,15:30,Balcony,60₹,282,0
+Maharashtra,Mumbai,NazranaCinemaBhiwandi,Hindi,15:30,DCircle,50₹,271,0
+UttarPradesh,Orai,ArchanaPalaceOrai,Hindi,17:45,Gold,200₹,132,0
+UttarPradesh,Orai,ArchanaPalaceOrai,Hindi,17:45,Silver,170₹,36,0
+JammuAndKashmir,Jammu,ApsaraMultiplexJammu,Hindi,18:30,Balcony,200₹,166,0
