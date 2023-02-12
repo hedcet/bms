@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Orissa,Kantabanji,AlishanCentralKantabanji,Hindi,18:30,Recliner,300₹,10,10
+Orissa,Kantabanji,AlishanCentralKantabanji,Hindi,18:30,Premium,150₹,28,28
+Orissa,Kantabanji,AlishanCentralKantabanji,Hindi,18:30,Executive,99₹,84,84
+Orissa,Kantabanji,AlishanCentralKantabanji,Hindi,18:30,Lounger,99₹,10,10
