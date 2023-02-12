@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Chennai,PvrVrChennaiAnnaNagar,Tamil,15:50,Classic,60₹,24,24
+TamilNadu,Chennai,PvrVrChennaiAnnaNagar,Tamil,15:50,Prime,165₹,112,51
+TamilNadu,Chennai,AgsCinemasVillivakkam,Tamil,16:05,Diamond,190₹,147,5
+TamilNadu,Chennai,AgsCinemasVillivakkam,Tamil,16:05,Pearl,60₹,17,0
