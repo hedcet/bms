@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Rajasthan,Jaipur,InoxCrystalPalmCScheme,Hindi,12:00,Royal,220₹,16,0
+Rajasthan,Jaipur,InoxCrystalPalmCScheme,Hindi,12:00,Club,200₹,129,10
+Rajasthan,Jaipur,InoxCrystalPalmCScheme,Hindi,12:00,Executive,180₹,57,0
