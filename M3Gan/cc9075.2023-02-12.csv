@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Salem,InoxRelianceMallSalem,English,09:30,Club,211₹,212,15
+TamilNadu,Salem,InoxRelianceMallSalem,English,09:30,Executive,66₹,24,2
+TamilNadu,Salem,InoxRelianceMallSalem,English,22:15,Club,211₹,212,17
+TamilNadu,Salem,InoxRelianceMallSalem,English,22:15,Executive,66₹,24,19
