@@ -1,0 +1,8 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+JammuAndKashmir,Srinagar,InoxSrinagarShivpora,Hindi,12:30,RoyaleClub,300₹,33,0
+JammuAndKashmir,Srinagar,InoxSrinagarShivpora,Hindi,12:30,Royale,250₹,30,0
+JammuAndKashmir,Srinagar,InoxSrinagarShivpora,Hindi,12:30,Club,220₹,76,0
+JammuAndKashmir,Srinagar,InoxSrinagarShivpora,Hindi,12:30,Executive,200₹,38,0
+UttarPradesh,NationalCapitalRegionNcr,DhishoomCinemasEntertainlandSector83Gurugram,Hindi,16:05,Silver,149₹,18,0
+UttarPradesh,NationalCapitalRegionNcr,DhishoomCinemasEntertainlandSector83Gurugram,Hindi,16:05,Gold,149₹,40,9
+UttarPradesh,NationalCapitalRegionNcr,DhishoomCinemasEntertainlandSector83Gurugram,Hindi,16:05,Platinum,149₹,18,7
