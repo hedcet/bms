@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,MysuruMysore,WoodlandsDigital2KProjectionMysore,Kannada,10:30,Balcony,150₹,225,10
+Karnataka,MysuruMysore,WoodlandsDigital2KProjectionMysore,Kannada,10:30,SecondClass,100₹,750,20
+Karnataka,MysuruMysore,WoodlandsDigital2KProjectionMysore,Kannada,13:30,Balcony,150₹,225,2
+Karnataka,MysuruMysore,WoodlandsDigital2KProjectionMysore,Kannada,13:30,SecondClass,100₹,750,18
+Karnataka,MysuruMysore,WoodlandsDigital2KProjectionMysore,Kannada,16:30,Balcony,150₹,225,0
+Karnataka,MysuruMysore,WoodlandsDigital2KProjectionMysore,Kannada,16:30,SecondClass,100₹,750,0
+Karnataka,MysuruMysore,WoodlandsDigital2KProjectionMysore,Kannada,19:30,Balcony,150₹,225,0
+Karnataka,MysuruMysore,WoodlandsDigital2KProjectionMysore,Kannada,19:30,SecondClass,100₹,750,1
