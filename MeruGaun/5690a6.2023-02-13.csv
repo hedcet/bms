@@ -1,0 +1,14 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,NationalCapitalRegionNcr,PvrVegasDwarka,Garhwali,12:30,Classic,200₹,179,28
+UttarPradesh,NationalCapitalRegionNcr,PvrVegasDwarka,Garhwali,12:30,Prime,200₹,46,33
+UttarPradesh,NationalCapitalRegionNcr,MsxSilvercityHaldiramCitymallSec12Faridabad,Garhwali,12:45,Platinum,100₹,201,19
+UttarPradesh,NationalCapitalRegionNcr,M2KRohini,Garhwali,13:40,Silver,160₹,204,24
+UttarPradesh,NationalCapitalRegionNcr,M2KRohini,Garhwali,13:40,Gold,200₹,38,5
+UttarPradesh,NationalCapitalRegionNcr,RrCinemaOmaxeGurgaonMallGurgaon,Garhwali,13:40,Gold,150₹,148,6
+UttarPradesh,NationalCapitalRegionNcr,RrCinemaOmaxeGurgaonMallGurgaon,Garhwali,13:40,Platinum,170₹,104,31
+UttarPradesh,NationalCapitalRegionNcr,RrCinemaJaipuriaMall,Garhwali,14:00,PremiumSofa,250₹,21,0
+UttarPradesh,NationalCapitalRegionNcr,RrCinemaJaipuriaMall,Garhwali,14:00,Gold,140₹,252,15
+UttarPradesh,NationalCapitalRegionNcr,RrCinemaJaipuriaMall,Garhwali,14:00,Silver,110₹,100,2
+UttarPradesh,NationalCapitalRegionNcr,PvrSangamDelhi,Garhwali,15:55,Classic,150₹,40,13
+UttarPradesh,NationalCapitalRegionNcr,PvrSangamDelhi,Garhwali,15:55,Prime,150₹,39,39
+UttarPradesh,NationalCapitalRegionNcr,PvrSangamDelhi,Garhwali,15:55,PrimePlus,150₹,13,8
