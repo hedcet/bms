@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Changanassery,DhanyaRemyaChanganassery,Tamil,11:00,Remya,135₹,196,196
+Kerala,Kottayam,DhanyaRemyaKottayam,Tamil,11:00,Remya,135₹,251,0
+Kerala,Kochi,EvmCinemaFortKochi4K3DDolbyAtmos,Tamil,11:00,GoldenCircle,160₹,228,0
+Kerala,Kochi,EvmCinemaFortKochi4K3DDolbyAtmos,Tamil,11:00,SilverCircle,140₹,502,0
+Kerala,Kozhinjampara,VrindavanTheatreKozhinjampara,Tamil,11:00,Box,120₹,45,18
+Kerala,Kozhinjampara,VrindavanTheatreKozhinjampara,Tamil,11:00,Platinum,110₹,154,0
+Kerala,Vadakara,One2OnePlusFilmCity2K3DDolbyAtmosACVada,Tamil,13:30,Screen1,129₹,300,0
+Kerala,Kozhinjampara,VrindavanTheatreKozhinjampara,Tamil,14:00,Box,120₹,45,18
+Kerala,Kozhinjampara,VrindavanTheatreKozhinjampara,Tamil,14:00,Platinum,110₹,154,0
+Kerala,Vadakara,One2OnePlusFilmCity2K3DDolbyAtmosACVada,Tamil,16:30,Screen1,129₹,300,0
+Kerala,Kozhinjampara,VrindavanTheatreKozhinjampara,Tamil,18:00,Box,120₹,45,18
+Kerala,Kozhinjampara,VrindavanTheatreKozhinjampara,Tamil,18:00,Platinum,110₹,154,0
+Kerala,Vadakara,One2OnePlusFilmCity2K3DDolbyAtmosACVada,Tamil,19:30,Screen1,129₹,300,0
+Kerala,Kottayam,DhanyaRemyaKottayam,Tamil,21:00,Remya,135₹,251,0
+Kerala,Kozhinjampara,VrindavanTheatreKozhinjampara,Tamil,21:00,Box,120₹,45,18
+Kerala,Kozhinjampara,VrindavanTheatreKozhinjampara,Tamil,21:00,Platinum,110₹,154,0
