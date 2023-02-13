@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Arakkonam,GkDeviTheatre2KACArakkonam,Tamil,10:00,Gold,100₹,368,0
+TamilNadu,Trichy,StarTheatreACDtsTrichy,Tamil,11:15,Firstclass,120₹,280,2
+TamilNadu,Arakkonam,GkDeviTheatre2KACArakkonam,Tamil,16:00,Gold,100₹,368,0
+TamilNadu,Arakkonam,GkDeviTheatre2KACArakkonam,Tamil,22:00,Gold,100₹,368,0
+TamilNadu,Trichy,StarTheatreACDtsTrichy,Tamil,22:15,Firstclass,120₹,280,6
