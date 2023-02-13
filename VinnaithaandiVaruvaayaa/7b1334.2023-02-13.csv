@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Vellore,PvrVelocitySilkMillGandhiNagar,Tamil,11:20,Classic,59₹,18,18
+TamilNadu,Vellore,PvrVelocitySilkMillGandhiNagar,Tamil,11:20,Prime,151₹,158,16
+TamilNadu,Chennai,LuxeCinemasChennai,Tamil,11:50,Elite2D,190₹,126,25
+TamilNadu,Chennai,LuxeCinemasChennai,Tamil,11:50,Budget,60₹,14,0
+TamilNadu,Chennai,PvrAerohubChennai,Tamil,11:55,Classic,59₹,32,32
+TamilNadu,Chennai,PvrAerohubChennai,Tamil,11:55,Prime,119₹,150,10
+TamilNadu,Chennai,PvrVrChennaiAnnaNagar,Tamil,12:20,Classic,59₹,11,11
+TamilNadu,Chennai,PvrVrChennaiAnnaNagar,Tamil,12:20,Prime,165₹,102,45
+TamilNadu,Chennai,SpiEscapeExpressAvenueMallRoyapettah,Tamil,14:40,Budget,61₹,11,11
+TamilNadu,Chennai,SpiEscapeExpressAvenueMallRoyapettah,Tamil,14:40,Elite,155₹,99,40
+TamilNadu,Dharmapuri,DmaxDncTheatresDharmapuri,Tamil,14:45,Elite,120₹,13,3
+TamilNadu,Dharmapuri,DmaxDncTheatresDharmapuri,Tamil,14:45,Couple,120₹,24,2
+TamilNadu,Dharmapuri,DmaxDncTheatresDharmapuri,Tamil,14:45,Premium,120₹,68,8
+TamilNadu,Dharmapuri,DmaxDncTheatresDharmapuri,Tamil,14:45,Economy,120₹,10,0
+TamilNadu,Coimbatore,SpiTheCinemaBrookefieldsMall,Tamil,15:15,Budget,59₹,20,20
+TamilNadu,Coimbatore,SpiTheCinemaBrookefieldsMall,Tamil,15:15,Elite,189₹,174,57
