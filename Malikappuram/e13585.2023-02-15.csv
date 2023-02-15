@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Narasannapeta,SreeDeviPicturePalaceNarasannapeta,Telugu,10:45,Premium,100₹,410,329
+AndhraPradesh,Narasannapeta,SreeDeviPicturePalaceNarasannapeta,Telugu,10:45,NonPremium2Cl,80₹,145,135
+TamilNadu,Perambalur,SwamyTheatre2KPerambalur,Tamil,11:00,FirstClass,100₹,270,15
+TamilNadu,Perambalur,SwamyTheatre2KPerambalur,Tamil,14:30,FirstClass,100₹,270,15
+AndhraPradesh,Narasannapeta,SreeDeviPicturePalaceNarasannapeta,Telugu,14:30,Premium,100₹,410,328
+AndhraPradesh,Narasannapeta,SreeDeviPicturePalaceNarasannapeta,Telugu,14:30,NonPremium2Cl,80₹,145,135
+TamilNadu,Perambalur,SwamyTheatre2KPerambalur,Tamil,18:30,FirstClass,100₹,270,15
+AndhraPradesh,Narasannapeta,SreeDeviPicturePalaceNarasannapeta,Telugu,18:30,Premium,100₹,410,8
+AndhraPradesh,Narasannapeta,SreeDeviPicturePalaceNarasannapeta,Telugu,18:30,NonPremium2Cl,80₹,145,135
+AndhraPradesh,Narasannapeta,SreeDeviPicturePalaceNarasannapeta,Telugu,21:30,Premium,100₹,410,8
+AndhraPradesh,Narasannapeta,SreeDeviPicturePalaceNarasannapeta,Telugu,21:30,NonPremium2Cl,80₹,145,5
+TamilNadu,Perambalur,SwamyTheatre2KPerambalur,Tamil,22:00,FirstClass,100₹,270,15
