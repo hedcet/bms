@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Tirupur,SriSakthiCinemasUnionMillRoadTirupur,Malayalam,11:00,Diamond,200₹,22,22
+TamilNadu,Tirupur,SriSakthiCinemasUnionMillRoadTirupur,Malayalam,11:00,Platinum,175₹,24,0
+TamilNadu,Tirupur,SriSakthiCinemasUnionMillRoadTirupur,Malayalam,11:00,Gold,130₹,96,2
+TamilNadu,Tirupur,SriSakthiCinemasUnionMillRoadTirupur,Malayalam,11:00,Silver,80₹,16,1
+TamilNadu,Chennai,SpiEscapeExpressAvenueMallRoyapettah,Malayalam,11:05,Budget,61₹,11,11
+TamilNadu,Chennai,SpiEscapeExpressAvenueMallRoyapettah,Malayalam,11:05,Elite,155₹,99,30
+TamilNadu,Coimbatore,SpiTheCinemaBrookefieldsMall,Malayalam,11:50,Budget,63₹,20,19
+TamilNadu,Coimbatore,SpiTheCinemaBrookefieldsMall,Malayalam,11:50,Elite,202₹,174,18
