@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,MirajCinemasTgnLotusEliteMagadiRoad,Kannada,11:00,Gold,110₹,145,0
+Karnataka,Bengaluru,MirajCinemasTgnLotusEliteMagadiRoad,Kannada,11:00,Silver,90₹,34,0
+Karnataka,MysuruMysore,PvrGarudaMallAlbertVictorRoadMysuru,Kannada,11:50,Classic,110₹,119,1
+Karnataka,Bengaluru,InoxGarudaSwagathMallJayanagar,Kannada,13:15,Club,160₹,61,16
+Karnataka,Bengaluru,InoxGarudaSwagathMallJayanagar,Kannada,13:15,Executive,150₹,134,0
+Karnataka,Bengaluru,GopalanMallSirsiCircle,Kannada,16:00,Gold,150₹,265,4
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,22:20,Classic,180₹,128,5
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,22:20,Prime,200₹,100,0
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,22:20,Recliner,300₹,14,0
