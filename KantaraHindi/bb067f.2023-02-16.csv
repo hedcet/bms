@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Bihar,Nawada,NatrajPicturePalaceNawada,Hindi,11:00,VipClass,150₹,84,0
+Bihar,Nawada,NatrajPicturePalaceNawada,Hindi,14:00,VipClass,150₹,84,1
+Bihar,Nawada,NatrajPicturePalaceNawada,Hindi,17:00,VipClass,150₹,84,0
+Bihar,Nawada,NatrajPicturePalaceNawada,Hindi,20:00,VipClass,150₹,84,0
