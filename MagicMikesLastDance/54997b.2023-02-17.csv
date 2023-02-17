@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,NationalCapitalRegionNcr,CinepolisDlfAvenueSaket,English,10:30,Normal,160₹,42,0
+UttarPradesh,NationalCapitalRegionNcr,CinepolisDlfAvenueSaket,English,10:30,Executive,180₹,56,0
+UttarPradesh,NationalCapitalRegionNcr,CinepolisDlfAvenueSaket,English,10:30,Premium,200₹,42,2
+UttarPradesh,NationalCapitalRegionNcr,CinepolisDlfAvenueSaket,English,10:30,Vip,400₹,8,0
