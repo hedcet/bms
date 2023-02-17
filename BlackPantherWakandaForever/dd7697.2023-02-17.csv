@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,InoxGarudaMallMagrathRoad,English,18:40,RoyaleRecliners,200₹,13,5
+Karnataka,Bengaluru,InoxGarudaMallMagrathRoad,English,18:40,Club,112₹,72,12
+Karnataka,Bengaluru,InoxGarudaMallMagrathRoad,English,18:40,Executive,112₹,90,2
+Maharashtra,Pune,InoxBundGardenRoad,English,19:10,DressCircle,150₹,181,14
+Maharashtra,Pune,InoxBundGardenRoad,English,19:10,Galleria,150₹,60,0
+Maharashtra,Pune,InoxBundGardenRoad,English,19:10,DressCircle,112₹,181,20
+Maharashtra,Pune,InoxBundGardenRoad,English,19:10,Galleria,112₹,60,0
+UttarPradesh,NationalCapitalRegionNcr,PvrVegasDwarka,English,20:20,Classic,150₹,89,2
