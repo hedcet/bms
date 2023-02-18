@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Telangana,Hyderabad,SushmaCinemaVanasthalipuram,Telugu,00:00,Balcony,150₹,566,20
+Telangana,Hyderabad,SushmaCinemaVanasthalipuram,Telugu,00:00,DressCircle,110₹,256,9
+AndhraPradesh,Wanaparthy,SriRama70MmACDtsWanaparthy,Telugu,00:00,FirstClass,110₹,431,0
+AndhraPradesh,KovurNellore,MythiliTheatreKovur,Telugu,21:30,FirstClass,80₹,183,29
+AndhraPradesh,KovurNellore,MythiliTheatreKovur,Telugu,21:30,SecondClass,80₹,96,5
+Telangana,Hyderabad,Gokul70MmErragadda,Telugu,23:45,UpperBalcony,150₹,340,200
+Telangana,Hyderabad,Gokul70MmErragadda,Telugu,23:45,LowerBalcony,150₹,262,63
+Telangana,Hyderabad,Gokul70MmErragadda,Telugu,23:45,FirstClass,100₹,174,174
+Telangana,Hyderabad,Gokul70MmErragadda,Telugu,23:45,SecondClass,50₹,205,205
+Telangana,Hyderabad,Sushma2KDolbyDigitalCinemaVanasthalipuram,Telugu,23:49,Balcony,150₹,566,16
+Telangana,Hyderabad,Sushma2KDolbyDigitalCinemaVanasthalipuram,Telugu,23:49,DressCircle,110₹,256,19
