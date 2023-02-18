@@ -1,0 +1,14 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Telangana,Hyderabad,ShantiTheatreNarayanaguda,Telugu,11:00,UpperBalcony,150₹,391,2
+Telangana,Hyderabad,ShantiTheatreNarayanaguda,Telugu,11:00,LowerBalcony,150₹,285,0
+Telangana,Hyderabad,ShantiTheatreNarayanaguda,Telugu,11:00,SecondClass,100₹,88,0
+Telangana,Hyderabad,AsianLakshmikalaCineprideMoosapet,Telugu,11:20,CoupleSeats,150₹,40,40
+Telangana,Hyderabad,AsianLakshmikalaCineprideMoosapet,Telugu,11:20,Platinum,150₹,338,60
+Telangana,Hyderabad,AsianLakshmikalaCineprideMoosapet,Telugu,11:20,Gold,100₹,177,17
+Telangana,Hyderabad,AsianLakshmikalaCineprideMoosapet,Telugu,11:20,Silver,50₹,135,26
+Telangana,Hyderabad,ShantiTheatreNarayanaguda,Telugu,14:00,UpperBalcony,150₹,391,34
+Telangana,Hyderabad,ShantiTheatreNarayanaguda,Telugu,14:00,LowerBalcony,150₹,285,2
+Telangana,Hyderabad,ShantiTheatreNarayanaguda,Telugu,14:00,SecondClass,100₹,88,8
+Telangana,Hyderabad,ShantiTheatreNarayanaguda,Telugu,18:00,UpperBalcony,150₹,391,4
+Telangana,Hyderabad,ShantiTheatreNarayanaguda,Telugu,18:00,LowerBalcony,150₹,285,0
+Telangana,Hyderabad,ShantiTheatreNarayanaguda,Telugu,18:00,SecondClass,100₹,88,5
