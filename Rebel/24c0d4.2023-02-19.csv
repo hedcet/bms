@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Telangana,Hyderabad,Sandhya35MmRtcXRoad,Telugu,03:00,Balcony,150₹,731,85
+Telangana,Hyderabad,Sandhya35MmRtcXRoad,Telugu,03:00,FrontCircle,110₹,109,65
+Telangana,Hyderabad,Sandhya35MmRtcXRoad,Telugu,03:00,ThirdClass,50₹,215,215
