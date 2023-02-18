@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Maharashtra,Pune,BollywoodMultiplexKharadi,Marathi,11:45,Gold,130₹,62,6
+Maharashtra,Pune,BollywoodMultiplexKharadi,Marathi,11:45,Silver,110₹,10,0
+Maharashtra,Pune,RajhansCinemasFatimaNagarPune,Marathi,13:00,Recliner,300₹,16,16
+Maharashtra,Pune,RajhansCinemasFatimaNagarPune,Marathi,13:00,Executive,110₹,84,84
+Maharashtra,Pune,RajhansCinemasFatimaNagarPune,Marathi,13:00,Royal,110₹,48,48
+Maharashtra,Pune,RajhansCinemasFatimaNagarPune,Marathi,13:00,Marvel,110₹,24,24
+Maharashtra,Pune,RajhansCinemas93AvenueMallFatimaNagarPune,Marathi,16:00,Recliner,300₹,16,2
+Maharashtra,Pune,RajhansCinemas93AvenueMallFatimaNagarPune,Marathi,16:00,Executive,110₹,84,4
+Maharashtra,Pune,RajhansCinemas93AvenueMallFatimaNagarPune,Marathi,16:00,Royal,110₹,48,0
+Maharashtra,Pune,RajhansCinemas93AvenueMallFatimaNagarPune,Marathi,16:00,Marvel,110₹,24,0
+Maharashtra,Pune,CityPrideMangalaCinema,Marathi,18:00,RoyalGold,150₹,204,59
+Maharashtra,Pune,CityPrideMangalaCinema,Marathi,18:00,RoyalSilver,130₹,56,2
+Maharashtra,Pune,CityPrideSataraRoad,Marathi,19:00,RoyalGold,160₹,81,81
+Maharashtra,Pune,CityPrideSataraRoad,Marathi,19:00,RoyalSilver,140₹,9,9
