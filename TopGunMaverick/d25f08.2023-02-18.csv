@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Rajasthan,Jaipur,InoxGtCentralMallJaipur,English,18:40,Executive,150₹,18,2
+Rajasthan,Jaipur,InoxGtCentralMallJaipur,English,18:40,Royale,150₹,46,27
+Maharashtra,Pune,InoxBundGardenRoad,English,19:10,DressCircle,150₹,181,35
+Maharashtra,Pune,InoxBundGardenRoad,English,19:10,Galleria,150₹,60,0
+TamilNadu,Chennai,CinepolisBsrMallOmrThoraipakkam,English,22:40,Normal,66₹,17,17
+TamilNadu,Chennai,CinepolisBsrMallOmrThoraipakkam,English,22:40,Executive,211₹,158,158
