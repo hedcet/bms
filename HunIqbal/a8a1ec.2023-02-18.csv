@@ -1,0 +1,8 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Ahmedabad,ConnplexSmartTheatrePrahladnagar,Gujarati,18:30,Millar,200₹,79,46
+Gujarat,Ahmedabad,ConnplexSmartTheatrePrahladnagar,Gujarati,18:30,Lounger,200₹,10,4
+Gujarat,Bhavnagar,TheEntertainmentParkBhavnagar,Gujarati,19:00,Royal,250₹,22,0
+Gujarat,Surat,TimeCinemaGalaxyCirclePalSurat,Gujarati,19:30,Standard,220₹,96,0
+Gujarat,Surat,CinepolisImperialSquareMallSurat,Gujarati,19:50,Normal,150₹,22,0
+Gujarat,Surat,CinepolisImperialSquareMallSurat,Gujarati,19:50,Executive,150₹,75,2
+Gujarat,Surat,CinepolisImperialSquareMallSurat,Gujarati,19:50,Premium,170₹,33,8
