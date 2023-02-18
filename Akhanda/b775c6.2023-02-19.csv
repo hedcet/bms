@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Vemulawada,SriRajaRajeshwaraTheatreVemulawada,Telugu,00:00,BalconyClass,110₹,155,0
+Telangana,Hyderabad,Sudarshan35Mm4KLaserDolbyAtmosRtcXRoads,Telugu,00:15,UpperBalcony,175₹,525,406
+Telangana,Hyderabad,Sudarshan35Mm4KLaserDolbyAtmosRtcXRoads,Telugu,00:15,LowerBalcony,175₹,275,183
+Telangana,Hyderabad,Sudarshan35Mm4KLaserDolbyAtmosRtcXRoads,Telugu,00:15,FirstClass,110₹,124,123
+Telangana,Hyderabad,Sudarshan35Mm4KLaserDolbyAtmosRtcXRoads,Telugu,00:15,SecondClass,55₹,250,202
+Telangana,Hyderabad,MahalaxmiComplexKothapetaHyderabad,Telugu,03:00,Balcony,150₹,325,57
+Telangana,Hyderabad,MahalaxmiComplexKothapetaHyderabad,Telugu,03:00,FirstClass,110₹,66,30
+Telangana,Hyderabad,MahalaxmiComplexKothapetaHyderabad,Telugu,03:00,SecondClass,50₹,27,20
