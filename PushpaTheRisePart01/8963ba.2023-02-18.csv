@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Telangana,Hyderabad,Sushma2KDolbyDigitalCinemaVanasthalipuram,Telugu,03:00,Balcony,150₹,566,3
+Telangana,Hyderabad,Sushma2KDolbyDigitalCinemaVanasthalipuram,Telugu,03:00,DressCircle,110₹,256,0
+Telangana,Hyderabad,SriKrishna70MmUppal,Telugu,23:45,LowerBalcony,150₹,326,26
+Telangana,Hyderabad,MahalaxmiComplexKothapetaHyderabad,Telugu,23:59,Balcony,150₹,325,289
+Telangana,Hyderabad,MahalaxmiComplexKothapetaHyderabad,Telugu,23:59,FirstClass,110₹,66,59
+Telangana,Hyderabad,MahalaxmiComplexKothapetaHyderabad,Telugu,23:59,SecondClass,50₹,27,20
+AndhraPradesh,KovurNellore,MythiliTheatreKovur,Telugu,23:59,FirstClass,80₹,183,29
+AndhraPradesh,KovurNellore,MythiliTheatreKovur,Telugu,23:59,SecondClass,80₹,96,5
+AndhraPradesh,Nalgonda,PvnCinemaxNalgonda,Telugu,23:59,1Balcony,110₹,547,123
+AndhraPradesh,Nalgonda,PvnCinemaxNalgonda,Telugu,23:59,2SecondClass,80₹,196,36
+AndhraPradesh,Nalgonda,PvnCinemaxNalgonda,Telugu,23:59,3ThirdClass,50₹,228,97
