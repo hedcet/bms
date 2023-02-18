@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Telangana,Shadnagar,SriSaiBabaShadnagar,Lambadi,11:00,Box,110₹,22,22
+Telangana,Shadnagar,SriSaiBabaShadnagar,Lambadi,11:00,Balcony,110₹,270,70
+Telangana,Shadnagar,SriSaiBabaShadnagar,Lambadi,11:00,FirstClass,80₹,126,44
+Telangana,Shadnagar,SriSaiBabaShadnagar,Lambadi,11:00,SecondClass,50₹,74,0
+Telangana,Shadnagar,SriSaiBabaShadnagar,Lambadi,14:00,Box,110₹,22,22
+Telangana,Shadnagar,SriSaiBabaShadnagar,Lambadi,14:00,Balcony,110₹,270,70
+Telangana,Shadnagar,SriSaiBabaShadnagar,Lambadi,14:00,FirstClass,80₹,126,44
+Telangana,Shadnagar,SriSaiBabaShadnagar,Lambadi,14:00,SecondClass,50₹,74,0
+Telangana,Shadnagar,SriSaiBabaShadnagar,Lambadi,18:00,Box,110₹,22,22
+Telangana,Shadnagar,SriSaiBabaShadnagar,Lambadi,18:00,Balcony,110₹,270,70
+Telangana,Shadnagar,SriSaiBabaShadnagar,Lambadi,18:00,FirstClass,80₹,126,44
+Telangana,Shadnagar,SriSaiBabaShadnagar,Lambadi,18:00,SecondClass,50₹,74,0
+Telangana,Shadnagar,SriSaiBabaShadnagar,Lambadi,21:00,Box,110₹,22,22
+Telangana,Shadnagar,SriSaiBabaShadnagar,Lambadi,21:00,Balcony,110₹,270,70
+Telangana,Shadnagar,SriSaiBabaShadnagar,Lambadi,21:00,FirstClass,80₹,126,44
+Telangana,Shadnagar,SriSaiBabaShadnagar,Lambadi,21:00,SecondClass,50₹,74,0
