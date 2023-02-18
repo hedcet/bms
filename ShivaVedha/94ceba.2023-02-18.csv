@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Yemmiganur,MiniSrinivasaTalkiesYemmiganur,Telugu,11:00,Balcony,110₹,52,26
+AndhraPradesh,Yemmiganur,MiniSrinivasaTalkiesYemmiganur,Telugu,11:00,FirstClass,80₹,125,52
+AndhraPradesh,Yemmiganur,MiniSrinivasaTalkiesYemmiganur,Telugu,11:00,SecondClass,80₹,114,114
+AndhraPradesh,Rapur,SriVenkateswaraMahalACDtsRapur,Telugu,11:00,Gold,110₹,277,210
+AndhraPradesh,Rapur,SriVenkateswaraMahalACDtsRapur,Telugu,14:00,Gold,110₹,277,210
+AndhraPradesh,Yemmiganur,MiniSrinivasaTalkiesYemmiganur,Telugu,14:30,Balcony,110₹,52,26
+AndhraPradesh,Yemmiganur,MiniSrinivasaTalkiesYemmiganur,Telugu,14:30,FirstClass,80₹,125,52
+AndhraPradesh,Yemmiganur,MiniSrinivasaTalkiesYemmiganur,Telugu,14:30,SecondClass,80₹,114,114
+AndhraPradesh,Yemmiganur,MiniSrinivasaTalkiesYemmiganur,Telugu,18:30,Balcony,110₹,52,26
+AndhraPradesh,Yemmiganur,MiniSrinivasaTalkiesYemmiganur,Telugu,18:30,FirstClass,80₹,125,52
+AndhraPradesh,Yemmiganur,MiniSrinivasaTalkiesYemmiganur,Telugu,18:30,SecondClass,80₹,114,114
+AndhraPradesh,Rapur,SriVenkateswaraMahalACDtsRapur,Telugu,19:00,Gold,110₹,277,210
+AndhraPradesh,Yemmiganur,MiniSrinivasaTalkiesYemmiganur,Telugu,21:30,Balcony,110₹,52,26
+AndhraPradesh,Yemmiganur,MiniSrinivasaTalkiesYemmiganur,Telugu,21:30,FirstClass,80₹,125,52
+AndhraPradesh,Yemmiganur,MiniSrinivasaTalkiesYemmiganur,Telugu,21:30,SecondClass,80₹,114,114
+AndhraPradesh,Rapur,SriVenkateswaraMahalACDtsRapur,Telugu,22:00,Gold,110₹,277,210
