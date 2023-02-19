@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,Lucknow,InoxMegaplexPhoenixPalassioMall,English,18:20,Club,150₹,54,0
+UttarPradesh,Lucknow,InoxMegaplexPhoenixPalassioMall,English,18:20,Executive,150₹,20,0
+UttarPradesh,Lucknow,InoxMegaplexPhoenixPalassioMall,English,18:20,Royale,150₹,59,22
+Maharashtra,Mumbai,InoxRCityGhatkopar,English,19:10,RoyalRecliner,200₹,14,10
+Maharashtra,Mumbai,InoxRCityGhatkopar,English,19:10,Club,150₹,65,11
+Maharashtra,Mumbai,InoxRCityGhatkopar,English,19:10,Executive,150₹,35,0
+Maharashtra,Mumbai,InoxRCityGhatkopar,English,19:10,Royal,150₹,48,19
+TamilNadu,Chennai,CinepolisBsrMallOmrThoraipakkam,English,22:40,Normal,66₹,17,17
+TamilNadu,Chennai,CinepolisBsrMallOmrThoraipakkam,English,22:40,Executive,211₹,158,158
