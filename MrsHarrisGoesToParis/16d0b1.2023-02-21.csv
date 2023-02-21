@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Trivandrum,PvrLuluTrivandrum,English,19:00,Classic,220₹,77,3
+Kerala,Trivandrum,PvrLuluTrivandrum,English,19:00,Prime,250₹,60,2
+Kerala,Trivandrum,PvrLuluTrivandrum,English,19:00,Recliner,500₹,7,0
+UttarPradesh,NationalCapitalRegionNcr,PvrAmbienceGurgaon,English,21:00,ClassicNormal,112₹,84,0
+UttarPradesh,NationalCapitalRegionNcr,PvrAmbienceGurgaon,English,21:00,Prime,112₹,68,2
