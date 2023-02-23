@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,NationalCapitalRegionNcr,InoxNehruPlace,English,18:45,Club,112₹,75,6
+UttarPradesh,NationalCapitalRegionNcr,InoxNehruPlace,English,18:45,Executive,112₹,70,0
+UttarPradesh,NationalCapitalRegionNcr,InoxNehruPlace,English,18:45,Royal,112₹,33,22
+Kerala,Trivandrum,PvrLuluTrivandrum,English,19:00,Classic,220₹,77,28
+Kerala,Trivandrum,PvrLuluTrivandrum,English,19:00,Prime,250₹,60,36
+Kerala,Trivandrum,PvrLuluTrivandrum,English,19:00,Recliner,500₹,7,2
+UttarPradesh,NationalCapitalRegionNcr,PvrAmbienceGurgaon,English,21:00,ClassicNormal,112₹,84,35
+UttarPradesh,NationalCapitalRegionNcr,PvrAmbienceGurgaon,English,21:00,Prime,112₹,68,38
