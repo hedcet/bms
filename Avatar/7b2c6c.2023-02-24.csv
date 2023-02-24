@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,InoxMantriSquareMalleshwaram,English,15:25,Club,390₹,246,62
+Karnataka,Bengaluru,InoxGalleriaMallYelahanka,English,15:45,Club,460₹,71,12
+Karnataka,Bengaluru,InoxGalleriaMallYelahanka,English,15:45,Executive,430₹,260,32
+Karnataka,Bengaluru,InoxMantriSquareMalleshwaram,English,21:50,Club,440₹,246,62
+Karnataka,Bengaluru,InoxGalleriaMallYelahanka,English,22:10,Club,510₹,71,12
+Karnataka,Bengaluru,InoxGalleriaMallYelahanka,English,22:10,Executive,480₹,260,32
