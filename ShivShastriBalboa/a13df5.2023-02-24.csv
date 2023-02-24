@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,NationalCapitalRegionNcr,PvrAmbienceGoldGurgaon,Hindi,10:45,Platinum,400₹,28,28
+UttarPradesh,NationalCapitalRegionNcr,PvrAmbienceGoldGurgaon,Hindi,10:45,PlatinumSuperior,400₹,16,16
+UttarPradesh,NationalCapitalRegionNcr,PvrDirectorSCutDelhiAmbienceMall,Hindi,12:40,Platinum,500₹,36,0
+UttarPradesh,NationalCapitalRegionNcr,PvrDirectorSCutDelhiAmbienceMall,Hindi,12:40,PlatinumSuperior,500₹,10,0
+UttarPradesh,NationalCapitalRegionNcr,PvrAnupamSaketDelhi,Hindi,13:20,Prime,130₹,41,4
+UttarPradesh,NationalCapitalRegionNcr,PvrAnupamSaketDelhi,Hindi,13:20,Classic,130₹,52,0
+UttarPradesh,NationalCapitalRegionNcr,PvrVegasDwarka,Hindi,13:35,Classic,200₹,120,0
+UttarPradesh,NationalCapitalRegionNcr,PvrVegasDwarka,Hindi,13:35,Prime,200₹,15,0
+UttarPradesh,NationalCapitalRegionNcr,PvrLogixNoida,Hindi,14:40,Classic,260₹,94,11
