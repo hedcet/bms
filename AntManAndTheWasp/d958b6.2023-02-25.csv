@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Ahmedabad,PvrMoteraAhmedabad,Hindi,09:00,Classic,180₹,42,0
+Gujarat,Ahmedabad,PvrMoteraAhmedabad,Hindi,09:00,Prime,180₹,210,15
+MadhyaPradesh,Satna,ImusicaEntertainmentsSatna,Hindi,10:15,PackageGold,120₹,38,0
+MadhyaPradesh,Satna,ImusicaEntertainmentsSatna,Hindi,10:15,PackageRedCarpet,130₹,112,0
+MadhyaPradesh,Satna,ImusicaEntertainmentsSatna,Hindi,10:15,PackageRoyal,190₹,11,0
+Gujarat,Gandhinagar,CinemaxSumanGandhinagar,Hindi,12:10,Classic,180₹,43,0
+Gujarat,Gandhinagar,CinemaxSumanGandhinagar,Hindi,12:10,ClassicPlus,180₹,47,0
+Gujarat,Gandhinagar,CinemaxSumanGandhinagar,Hindi,12:10,Prime,190₹,100,4
+Gujarat,Gandhinagar,CinemaxSumanGandhinagar,Hindi,12:10,Recliner,340₹,23,0
+Gujarat,Ahmedabad,PvrMoteraAhmedabad,Hindi,15:05,Classic,180₹,42,0
+Gujarat,Ahmedabad,PvrMoteraAhmedabad,Hindi,15:05,Prime,215₹,210,29
+MadhyaPradesh,Satna,ImusicaEntertainmentsSatna,Hindi,15:30,PackageGold,150₹,38,2
+MadhyaPradesh,Satna,ImusicaEntertainmentsSatna,Hindi,15:30,PackageRedCarpet,180₹,112,7
+MadhyaPradesh,Satna,ImusicaEntertainmentsSatna,Hindi,15:30,PackageRoyal,290₹,11,0
+UttarPradesh,NationalCapitalRegionNcr,PvrPrashantViharDelhi,Hindi,16:10,Classic,320₹,180,31
+UttarPradesh,NationalCapitalRegionNcr,PvrPrashantViharDelhi,Hindi,16:10,Prime,370₹,30,8
