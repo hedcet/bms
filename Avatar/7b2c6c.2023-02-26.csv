@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,NationalCapitalRegionNcr,CinepolisModiMallFormerlySpiceMall,English,21:00,Premium,150₹,123,5
+UttarPradesh,NationalCapitalRegionNcr,CinepolisModiMallFormerlySpiceMall,English,21:00,Classic,150₹,75,0
+Gujarat,Ahmedabad,CinepolisAhmedabadOne,English,22:05,Normal,300₹,39,0
+Gujarat,Ahmedabad,CinepolisAhmedabadOne,English,22:05,Executive,330₹,168,12
+Gujarat,Ahmedabad,CinepolisAhmedabadOne,English,22:05,Premium,370₹,68,17
+UttarPradesh,Lucknow,CinepolisOneAwadhCentreLucknow,English,22:15,Normal,150₹,25,0
+UttarPradesh,Lucknow,CinepolisOneAwadhCentreLucknow,English,22:15,Executive,150₹,68,0
+UttarPradesh,Lucknow,CinepolisOneAwadhCentreLucknow,English,22:15,Premium,150₹,48,0
+UttarPradesh,Lucknow,CinepolisOneAwadhCentreLucknow,English,22:15,Vip,450₹,16,0
