@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,11:00,Classic,112₹,128,0
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,11:00,Prime,150₹,100,0
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,11:00,Recliner,220₹,17,4
+Karnataka,Bengaluru,GopalanCinemasArcadeMallMysoreRoad,Kannada,14:45,Gold,200₹,332,0
+Karnataka,Bengaluru,GopalanCinemasArcadeMallMysoreRoad,Kannada,14:45,Sofa,200₹,21,0
+Karnataka,Bengaluru,PvrVaishnaviSapphireMallYeshwanthpur,Kannada,16:35,Classic,112₹,85,1
+Karnataka,Bengaluru,PvrVaishnaviSapphireMallYeshwanthpur,Kannada,16:35,Prime,140₹,37,0
+Karnataka,Bengaluru,PvrVaishnaviSapphireMallYeshwanthpur,Kannada,16:35,Recliner,230₹,9,0
+Karnataka,MysuruMysore,MysuruVisionCinemasBehindGrsFantasyPark,Kannada,18:50,Premier,150₹,187,0
+Karnataka,Bengaluru,MirajCinemasTgnLotusEliteMagadiRoad,Kannada,19:35,Silver,130₹,34,0
+Karnataka,Bengaluru,MirajCinemasTgnLotusEliteMagadiRoad,Kannada,19:35,Gold,150₹,173,0
+Karnataka,Bengaluru,MirajCinemasTgnLotusEliteMagadiRoad,Kannada,19:35,PlatinumRecliner,250₹,20,0
