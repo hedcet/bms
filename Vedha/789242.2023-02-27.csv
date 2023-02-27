@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,ChandrodayaDigital2KCinemaVidyapeetaCircle,Kannada,11:00,VipBox,180₹,24,0
+Karnataka,Bengaluru,ChandrodayaDigital2KCinemaVidyapeetaCircle,Kannada,11:00,Balcony,150₹,173,0
+Karnataka,Bengaluru,ChandrodayaDigital2KCinemaVidyapeetaCircle,Kannada,11:00,SecondClass,110₹,610,0
+Karnataka,Bengaluru,ChandrodayaDigital2KCinemaVidyapeetaCircle,Kannada,14:30,VipBox,180₹,24,0
+Karnataka,Bengaluru,ChandrodayaDigital2KCinemaVidyapeetaCircle,Kannada,14:30,Balcony,150₹,173,0
+Karnataka,Bengaluru,ChandrodayaDigital2KCinemaVidyapeetaCircle,Kannada,14:30,SecondClass,110₹,610,2
+Karnataka,Bengaluru,ChandrodayaDigital2KCinemaVidyapeetaCircle,Kannada,18:00,VipBox,180₹,24,0
+Karnataka,Bengaluru,ChandrodayaDigital2KCinemaVidyapeetaCircle,Kannada,18:00,Balcony,150₹,173,0
+Karnataka,Bengaluru,ChandrodayaDigital2KCinemaVidyapeetaCircle,Kannada,18:00,SecondClass,110₹,610,0
+Karnataka,Bengaluru,ChandrodayaDigital2KCinemaVidyapeetaCircle,Kannada,21:30,VipBox,180₹,24,0
+Karnataka,Bengaluru,ChandrodayaDigital2KCinemaVidyapeetaCircle,Kannada,21:30,Balcony,150₹,173,0
+Karnataka,Bengaluru,ChandrodayaDigital2KCinemaVidyapeetaCircle,Kannada,21:30,SecondClass,110₹,610,0
