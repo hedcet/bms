@@ -1,0 +1,16 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,CinepolisLuluGlobalMallBengaluru,English,12:30,Normal,112₹,29,2
+Karnataka,Bengaluru,CinepolisLuluGlobalMallBengaluru,English,12:30,Executive,112₹,105,0
+Karnataka,Bengaluru,CinepolisLuluGlobalMallBengaluru,English,12:30,Premium,112₹,50,22
+Rajasthan,Jaipur,InoxGtCentralMallJaipur,English,18:00,Executive,112₹,18,2
+Rajasthan,Jaipur,InoxGtCentralMallJaipur,English,18:00,Royale,112₹,46,4
+Maharashtra,Pune,CinepolisWestendMallAundhPune,English,18:15,Normal,150₹,21,2
+Maharashtra,Pune,CinepolisWestendMallAundhPune,English,18:15,Executive,150₹,59,0
+Maharashtra,Pune,CinepolisWestendMallAundhPune,English,18:15,Premium,150₹,45,3
+Maharashtra,Mumbai,CinepolisVivianaMallThane,English,18:40,Normal,150₹,27,0
+Maharashtra,Mumbai,CinepolisVivianaMallThane,English,18:40,Executive,150₹,104,0
+Maharashtra,Mumbai,CinepolisVivianaMallThane,English,18:40,Premium,150₹,46,2
+UttarPradesh,NationalCapitalRegionNcr,InoxWorldMarkGurugram,English,19:05,Club,112₹,65,0
+UttarPradesh,NationalCapitalRegionNcr,InoxWorldMarkGurugram,English,19:05,Executive,112₹,26,0
+UttarPradesh,NationalCapitalRegionNcr,InoxWorldMarkGurugram,English,19:05,RoyalRecliner,112₹,8,2
+UttarPradesh,NationalCapitalRegionNcr,InoxWorldMarkGurugram,English,19:05,Royal,112₹,45,10
