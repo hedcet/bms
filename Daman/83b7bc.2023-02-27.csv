@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Orissa,BerhampurOdisha,NewPayalCinema71DolbySound2KCentralAc,Odia,12:00,Balcony1,99₹,35,0
+Orissa,BerhampurOdisha,NewPayalCinema71DolbySound2KCentralAc,Odia,12:00,Delux,99₹,180,0
+Orissa,BerhampurOdisha,NewPayalCinema71DolbySound2KCentralAc,Odia,12:00,Balcony2,99₹,110,0
+Orissa,BerhampurOdisha,NewPayalCinema71DolbySound2KCentralAc,Odia,12:00,FirstClass,69₹,244,0
+Orissa,BerhampurOdisha,NewPayalCinema71DolbySound2KCentralAc,Odia,15:00,Balcony1,99₹,35,0
+Orissa,BerhampurOdisha,NewPayalCinema71DolbySound2KCentralAc,Odia,15:00,Delux,99₹,180,0
+Orissa,BerhampurOdisha,NewPayalCinema71DolbySound2KCentralAc,Odia,15:00,Balcony2,99₹,110,0
+Orissa,BerhampurOdisha,NewPayalCinema71DolbySound2KCentralAc,Odia,15:00,FirstClass,69₹,244,0
+Orissa,BerhampurOdisha,NewPayalCinema71DolbySound2KCentralAc,Odia,18:00,Balcony1,99₹,35,0
+Orissa,BerhampurOdisha,NewPayalCinema71DolbySound2KCentralAc,Odia,18:00,Delux,99₹,180,2
+Orissa,BerhampurOdisha,NewPayalCinema71DolbySound2KCentralAc,Odia,18:00,Balcony2,99₹,110,0
+Orissa,BerhampurOdisha,NewPayalCinema71DolbySound2KCentralAc,Odia,18:00,FirstClass,69₹,244,0
+Orissa,BerhampurOdisha,NewPayalCinema71DolbySound2KCentralAc,Odia,21:00,Balcony1,99₹,35,0
+Orissa,BerhampurOdisha,NewPayalCinema71DolbySound2KCentralAc,Odia,21:00,Delux,99₹,180,0
+Orissa,BerhampurOdisha,NewPayalCinema71DolbySound2KCentralAc,Odia,21:00,Balcony2,99₹,110,0
+Orissa,BerhampurOdisha,NewPayalCinema71DolbySound2KCentralAc,Odia,21:00,FirstClass,69₹,244,0
