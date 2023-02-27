@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Balurghat,SatyajitManchaBalurghat,Bengali,12:30,Balcony,100₹,55,2
+WestBengal,Balurghat,SatyajitManchaBalurghat,Bengali,12:30,RearStall,60₹,880,0
+WestBengal,Kolkata,NandanKolkata,Bengali,15:45,Normal,30₹,165,53
+WestBengal,Kolkata,IndiraCinemaKolkata,Bengali,16:00,Balcony,50₹,268,1
+WestBengal,Balurghat,SatyajitManchaBalurghat,Bengali,18:30,Balcony,100₹,55,0
+WestBengal,Balurghat,SatyajitManchaBalurghat,Bengali,18:30,RearStall,60₹,880,6
+WestBengal,Hooghly,GoodwinCineplexSerampore,Bengali,19:00,Prime,110₹,12,0
+WestBengal,Hooghly,GoodwinCineplexSerampore,Bengali,19:00,Club,70₹,206,0
