@@ -1,0 +1,14 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,NationalCapitalRegionNcr,CinepolisAiriaMallSohnaRoadGurgaon,English,14:35,Normal,110₹,29,0
+UttarPradesh,NationalCapitalRegionNcr,CinepolisAiriaMallSohnaRoadGurgaon,English,14:35,Executive,110₹,60,0
+UttarPradesh,NationalCapitalRegionNcr,CinepolisAiriaMallSohnaRoadGurgaon,English,14:35,Premium,110₹,45,5
+UttarPradesh,NationalCapitalRegionNcr,CinepolisAiriaMallSohnaRoadGurgaon,English,14:35,Vip,300₹,8,0
+UttarPradesh,NationalCapitalRegionNcr,CinepolisSmartBharatMallFormerlySpiceMall,English,18:05,Premium,150₹,123,0
+UttarPradesh,NationalCapitalRegionNcr,CinepolisSmartBharatMallFormerlySpiceMall,English,18:05,Classic,150₹,75,0
+UttarPradesh,NationalCapitalRegionNcr,CinepolisPacificNsp2Delhi,English,18:50,Normal,150₹,65,0
+UttarPradesh,NationalCapitalRegionNcr,CinepolisPacificNsp2Delhi,English,18:50,Executive,150₹,93,20
+UttarPradesh,NationalCapitalRegionNcr,CinepolisPacificNsp2Delhi,English,18:50,Vip,300₹,11,0
+UttarPradesh,Lucknow,CinepolisOneAwadhCentreLucknow,English,19:00,Normal,150₹,25,0
+UttarPradesh,Lucknow,CinepolisOneAwadhCentreLucknow,English,19:00,Executive,150₹,68,0
+UttarPradesh,Lucknow,CinepolisOneAwadhCentreLucknow,English,19:00,Premium,150₹,48,0
+UttarPradesh,Lucknow,CinepolisOneAwadhCentreLucknow,English,19:00,Vip,450₹,16,0
