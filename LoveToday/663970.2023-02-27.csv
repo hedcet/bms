@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Nalgonda,VenkateswaraTheatreNalgonda,Telugu,11:00,Balcony,110₹,478,12
+AndhraPradesh,Nalgonda,VenkateswaraTheatreNalgonda,Telugu,11:00,SecondClass,50₹,178,8
+AndhraPradesh,Nalgonda,VenkateswaraTheatreNalgonda,Telugu,14:00,Balcony,110₹,478,12
+AndhraPradesh,Nalgonda,VenkateswaraTheatreNalgonda,Telugu,14:00,SecondClass,50₹,178,8
+AndhraPradesh,Nalgonda,VenkateswaraTheatreNalgonda,Telugu,18:00,Balcony,110₹,478,12
+AndhraPradesh,Nalgonda,VenkateswaraTheatreNalgonda,Telugu,18:00,SecondClass,50₹,178,8
+AndhraPradesh,Nalgonda,VenkateswaraTheatreNalgonda,Telugu,21:00,Balcony,110₹,478,12
+AndhraPradesh,Nalgonda,VenkateswaraTheatreNalgonda,Telugu,21:00,SecondClass,50₹,178,8
