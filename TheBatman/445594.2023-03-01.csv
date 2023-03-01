@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Maharashtra,Mumbai,CinepolisSeawoodsGrandCentralNaviMumbai,English,15:15,Normal,150₹,46,14
+Maharashtra,Mumbai,CinepolisSeawoodsGrandCentralNaviMumbai,English,15:15,Executive,150₹,70,1
+Maharashtra,Mumbai,CinepolisSeawoodsGrandCentralNaviMumbai,English,15:15,Premium,150₹,57,5
+Maharashtra,Mumbai,CinepolisSeawoodsGrandCentralNaviMumbai,English,15:15,Vip,300₹,14,4
+UttarPradesh,NationalCapitalRegionNcr,CinepolisSmartBharatMallFormerlySpiceMall,English,18:05,Premium,99₹,123,12
+UttarPradesh,NationalCapitalRegionNcr,CinepolisSmartBharatMallFormerlySpiceMall,English,18:05,Classic,99₹,75,0
+Maharashtra,Pune,CinepolisSeasonsMallPune,English,18:25,Normal,110₹,31,0
+Maharashtra,Pune,CinepolisSeasonsMallPune,English,18:25,Executive,110₹,104,1
+Maharashtra,Pune,CinepolisSeasonsMallPune,English,18:25,Premium,110₹,34,1
+Telangana,Hyderabad,CinepolisDslVirtueMallUppalHyderabad,English,19:00,Normal,150₹,35,0
+Telangana,Hyderabad,CinepolisDslVirtueMallUppalHyderabad,English,19:00,Executive,150₹,196,11
+Telangana,Hyderabad,CinepolisDslVirtueMallUppalHyderabad,English,19:00,Vip,250₹,14,8
