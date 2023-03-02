@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Vellore,InoxSelvamSquareVellore,English,12:00,Club,168₹,144,16
+TamilNadu,Vellore,InoxSelvamSquareVellore,English,12:00,Executives,66₹,20,20
+Manipur,Imphal,TanthapolisCinemaImphal,English,14:00,Bronze,100₹,42,2
+Manipur,Imphal,TanthapolisCinemaImphal,English,14:00,Silver,140₹,158,2
+Manipur,Imphal,TanthapolisCinemaImphal,English,14:00,Gold,180₹,114,8
+Manipur,Imphal,TanthapolisCinemaImphal,English,14:00,Diamond,240₹,25,8
