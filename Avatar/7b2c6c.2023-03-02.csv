@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Ahmedabad,CinepolisAhmedabadOne,English,22:15,Normal,150₹,39,0
+Gujarat,Ahmedabad,CinepolisAhmedabadOne,English,22:15,Executive,150₹,168,4
+Gujarat,Ahmedabad,CinepolisAhmedabadOne,English,22:15,Premium,150₹,68,1
