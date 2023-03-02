@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,MysuruMysore,DrcCinemasBmHabitatMall,Kannada,19:00,Premium,180₹,182,182
+Karnataka,MysuruMysore,DrcCinemasBmHabitatMall,Kannada,19:00,Luxury,200₹,18,18
+Karnataka,Bengaluru,GopalanCinemasArcadeMallMysoreRoad,Kannada,19:00,Gold,236₹,292,129
+Karnataka,Bengaluru,GopalanCinemasArcadeMallMysoreRoad,Kannada,19:00,Recliner,350₹,19,18
