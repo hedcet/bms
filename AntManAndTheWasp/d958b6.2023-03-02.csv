@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Ahmedabad,PvrMoteraAhmedabad,Hindi,09:00,Classic,180₹,42,0
+Gujarat,Ahmedabad,PvrMoteraAhmedabad,Hindi,09:00,Prime,180₹,210,14
+Gujarat,Gandhinagar,CinemaxSumanGandhinagar,Hindi,12:10,Classic,180₹,43,0
+Gujarat,Gandhinagar,CinemaxSumanGandhinagar,Hindi,12:10,ClassicPlus,180₹,47,0
+Gujarat,Gandhinagar,CinemaxSumanGandhinagar,Hindi,12:10,Prime,180₹,100,0
+Gujarat,Gandhinagar,CinemaxSumanGandhinagar,Hindi,12:10,Recliner,290₹,23,0
+Gujarat,Ahmedabad,PvrMoteraAhmedabad,Hindi,15:05,Classic,180₹,42,1
+Gujarat,Ahmedabad,PvrMoteraAhmedabad,Hindi,15:05,Prime,215₹,210,21
