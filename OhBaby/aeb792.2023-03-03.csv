@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,PvrPhoenixMarketcityMallWhitefieldRoad,Telugu,15:45,Classic,112₹,139,11
+Karnataka,Bengaluru,PvrPhoenixMarketcityMallWhitefieldRoad,Telugu,15:45,Prime,112₹,10,0
+Karnataka,Bengaluru,PvrPhoenixMarketcityMallWhitefieldRoad,Telugu,15:45,Recliner,200₹,14,0
+AndhraPradesh,Guntur,PvrTheCinemaGuntur,Telugu,16:15,Premium,295₹,13,0
+AndhraPradesh,Guntur,PvrTheCinemaGuntur,Telugu,16:15,Deluxe,177₹,146,18
+Telangana,Hyderabad,PvrNextGalleriaMallPanjagutta,Telugu,16:30,Classic,112₹,181,19
+Telangana,Hyderabad,PvrNextGalleriaMallPanjagutta,Telugu,16:30,Recliner,250₹,9,9
+Telangana,Warangal,PvrMaddoxWarangal,Telugu,16:45,Classic,112₹,97,0
+Karnataka,Bengaluru,PvrVegaCityBannerghattaRoad,Telugu,18:00,Classic,112₹,119,2
+Karnataka,Bengaluru,PvrVegaCityBannerghattaRoad,Telugu,18:00,Prime,112₹,60,15
+Karnataka,Bengaluru,PvrVegaCityBannerghattaRoad,Telugu,18:00,Recliner,200₹,22,2
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Telugu,18:15,Classic,112₹,108,0
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Telugu,18:15,Prime,112₹,108,0
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Telugu,18:15,Recliner,200₹,16,2
