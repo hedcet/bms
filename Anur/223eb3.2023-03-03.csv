@@ -1,0 +1,14 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Assam,Guwahati,PvrCityCentreGuwahati,Assamese,14:35,Classic,112₹,44,1
+Assam,Guwahati,PvrCityCentreGuwahati,Assamese,14:35,Prime,112₹,107,15
+Assam,Guwahati,PvrCityCentreGuwahati,Assamese,14:35,PrimePlus,112₹,14,1
+Assam,Lakhimpur,GoldCinemaLakhimpur,Assamese,17:00,Diamond,150₹,86,7
+Assam,Lakhimpur,GoldCinemaLakhimpur,Assamese,17:00,Gold,120₹,48,2
+Assam,Lakhimpur,GoldCinemaLakhimpur,Assamese,17:00,Silver,100₹,24,0
+Assam,Tezpur,ImpCinemasTezpur,Assamese,17:00,Executive,100₹,34,8
+Assam,Tezpur,ImpCinemasTezpur,Assamese,17:00,Club,150₹,34,0
+Assam,Tezpur,ImpCinemasTezpur,Assamese,17:00,Premium,150₹,51,1
+Assam,Tezpur,ImpCinemasTezpur,Assamese,17:00,Business,200₹,12,6
+Assam,Mangaldoi,GoldCinemaMangaldoi,Assamese,17:30,Platinum,150₹,67,67
+Assam,Mangaldoi,GoldCinemaMangaldoi,Assamese,17:30,Gold,100₹,96,96
+Assam,Mangaldoi,GoldCinemaMangaldoi,Assamese,17:30,Silver,70₹,32,32
