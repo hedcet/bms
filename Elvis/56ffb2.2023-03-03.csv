@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Maharashtra,Mumbai,CinepolisVivianaMallThane,English,18:15,Normal,250₹,31,0
+Maharashtra,Mumbai,CinepolisVivianaMallThane,English,18:15,Executive,270₹,104,1
+Maharashtra,Mumbai,CinepolisVivianaMallThane,English,18:15,Premium,290₹,52,0
+Maharashtra,Pune,CinepolisNexusWestendMallAundhPune,English,19:10,Normal,110₹,21,2
+Maharashtra,Pune,CinepolisNexusWestendMallAundhPune,English,19:10,Executive,110₹,59,0
+Maharashtra,Pune,CinepolisNexusWestendMallAundhPune,English,19:10,Premium,110₹,45,1
