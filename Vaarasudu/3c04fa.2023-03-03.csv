@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Telangana,Kothagudem,ChhotuMaharajCineCafeKothagudem,Telugu,11:01,Classique,120₹,60,0
+Telangana,Kothagudem,ChhotuMaharajCineCafeKothagudem,Telugu,11:01,Premium,120₹,40,0
+AndhraPradesh,Thullur,TulasiCinemasThullur,Telugu,18:00,FirstClass,100₹,223,70
+AndhraPradesh,Thullur,TulasiCinemasThullur,Telugu,18:00,SecondClass,100₹,63,63
+AndhraPradesh,Thullur,TulasiCinemasThullur,Telugu,18:00,ThirdClass,100₹,48,48
+,Rajarampalli,ChhotuMaharajCineCafeRajarampalli,Telugu,21:00,Classique,150₹,73,3
+,Rajarampalli,ChhotuMaharajCineCafeRajarampalli,Telugu,21:00,Premium,150₹,27,0
+Karnataka,HubballiHubli,ShringarTheatreHubballi,Telugu,21:00,Balcony,150₹,190,0
+Karnataka,HubballiHubli,ShringarTheatreHubballi,Telugu,21:00,DeluxeClass,100₹,504,0
+AndhraPradesh,Thullur,TulasiCinemasThullur,Telugu,21:30,FirstClass,100₹,223,72
+AndhraPradesh,Thullur,TulasiCinemasThullur,Telugu,21:30,SecondClass,100₹,63,63
+AndhraPradesh,Thullur,TulasiCinemasThullur,Telugu,21:30,ThirdClass,100₹,48,48
