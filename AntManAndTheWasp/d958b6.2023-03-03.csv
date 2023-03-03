@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,NationalCapitalRegionNcr,PvrLogix4DxNoida,Hindi,10:00,Classic,199₹,92,5
+UttarPradesh,NationalCapitalRegionNcr,PvrAnsalPlazaGreaterNoida,Hindi,12:00,Classic,112₹,228,0
+UttarPradesh,NationalCapitalRegionNcr,PvrAnsalPlazaGreaterNoida,Hindi,12:00,Prime,112₹,77,24
+Gujarat,Ahmedabad,PvrMoteraAhmedabad,Hindi,13:25,Classic,112₹,42,0
+Gujarat,Ahmedabad,PvrMoteraAhmedabad,Hindi,13:25,Prime,112₹,210,14
+UttarPradesh,Varanasi,IpCinemasIpVijayaMallVaranasi,Hindi,16:00,Gold,200₹,132,18
+UttarPradesh,Varanasi,IpCinemasIpVijayaMallVaranasi,Hindi,16:00,Silver,150₹,108,0
+UttarPradesh,Varanasi,IpCinemasIpVijayaMallVaranasi,Hindi,16:00,Recliner,600₹,14,4
+Haryana,Chandigarh,PvrCosmoZirakpur,Hindi,16:10,Classic,112₹,108,0
+Haryana,Chandigarh,PvrCosmoZirakpur,Hindi,16:10,Prime,112₹,150,22
+Haryana,Chandigarh,PvrCosmoZirakpur,Hindi,16:10,Recliner,299₹,13,0
