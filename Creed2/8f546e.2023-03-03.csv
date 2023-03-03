@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Ahmedabad,PvrArvedTranscubeAhmedabad,English,11:00,Classic,112₹,54,0
+Gujarat,Ahmedabad,PvrArvedTranscubeAhmedabad,English,11:00,Prime,112₹,188,21
+Gujarat,Ahmedabad,PvrArvedTranscubeAhmedabad,English,11:00,Recliner,250₹,12,10
+Gujarat,Ahmedabad,PvrArvedTranscubeAhmedabad,English,13:40,Classic,112₹,54,0
+Gujarat,Ahmedabad,PvrArvedTranscubeAhmedabad,English,13:40,Prime,112₹,188,21
+Gujarat,Ahmedabad,PvrArvedTranscubeAhmedabad,English,13:40,Recliner,250₹,12,10
+Gujarat,Ahmedabad,PvrArvedTranscubeAhmedabad,English,19:30,Classic,112₹,54,0
+Gujarat,Ahmedabad,PvrArvedTranscubeAhmedabad,English,19:30,Prime,112₹,188,21
+Gujarat,Ahmedabad,PvrArvedTranscubeAhmedabad,English,19:30,Recliner,250₹,12,11
