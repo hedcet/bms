@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,MangaluruMangalore,PvrForumFizaMallPandeshwar,Kannada,19:00,Classic,150₹,126,0
+Karnataka,MangaluruMangalore,PvrForumFizaMallPandeshwar,Kannada,19:00,Prime,150₹,40,5
+Karnataka,MangaluruMangalore,PvrForumFizaMallPandeshwar,Kannada,19:00,Recliner,300₹,12,1
