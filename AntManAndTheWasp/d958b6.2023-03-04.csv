@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Ahmedabad,PvrMoteraAhmedabad,Hindi,13:25,Classic,180₹,42,2
+Gujarat,Ahmedabad,PvrMoteraAhmedabad,Hindi,13:25,Prime,205₹,210,21
+UttarPradesh,Varanasi,IpCinemasIpVijayaMallVaranasi,Hindi,16:00,Gold,200₹,132,5
+UttarPradesh,Varanasi,IpCinemasIpVijayaMallVaranasi,Hindi,16:00,Silver,150₹,108,2
+UttarPradesh,Varanasi,IpCinemasIpVijayaMallVaranasi,Hindi,16:00,Recliner,600₹,14,0
