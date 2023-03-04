@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,NationalCapitalRegionNcr,PvrSangamDelhi,Garhwali,12:45,Classic,150₹,135,0
+UttarPradesh,NationalCapitalRegionNcr,PvrSangamDelhi,Garhwali,12:45,Prime,150₹,131,42
+UttarPradesh,NationalCapitalRegionNcr,PvrSangamDelhi,Garhwali,12:45,PrimePlus,150₹,34,12
+Haryana,Chandigarh,PvrCentraChandigarh,Garhwali,13:15,Classic,150₹,84,22
+Haryana,Chandigarh,PvrCentraChandigarh,Garhwali,13:15,Prime,190₹,138,103
+UttarPradesh,NationalCapitalRegionNcr,PvrVegasDwarka,Garhwali,14:15,Classic,200₹,108,0
+UttarPradesh,NationalCapitalRegionNcr,PvrVegasDwarka,Garhwali,14:15,Prime,200₹,88,33
+Rajasthan,Jaipur,PvrMallOfJaipur,Garhwali,14:45,Classic,200₹,26,0
+Rajasthan,Jaipur,PvrMallOfJaipur,Garhwali,14:45,Prime,220₹,103,23
+Rajasthan,Jaipur,PvrMallOfJaipur,Garhwali,14:45,PrimePlus,240₹,32,14
+Rajasthan,Jaipur,PvrMallOfJaipur,Garhwali,14:45,Recliner,400₹,12,5
