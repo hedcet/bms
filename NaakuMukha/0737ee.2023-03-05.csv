@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,VictoryCinemaBarco4KRgbLaserKamakshipalya,Kannada,10:00,Premium,120₹,505,45
+Karnataka,Bengaluru,GopalanMiniplexSignatureMallOldMadrasRoad,Kannada,11:30,Gold,200₹,65,0
+Karnataka,Bengaluru,PvrVaishnaviSapphireMallYeshwanthpur,Kannada,12:45,Classic,200₹,85,85
+Karnataka,Bengaluru,PvrVaishnaviSapphireMallYeshwanthpur,Kannada,12:45,Prime,220₹,37,37
+Karnataka,Bengaluru,PvrVaishnaviSapphireMallYeshwanthpur,Kannada,12:45,Recliner,350₹,9,9
+Karnataka,Bengaluru,VictoryCinemaBarco4KRgbLaserKamakshipalya,Kannada,13:00,Premium,120₹,505,48
+Karnataka,Bengaluru,GopalanMallSirsiCircle,Kannada,16:15,Gold,150₹,179,1
+Karnataka,Bengaluru,GopalanMallSirsiCircle,Kannada,16:15,Recliner,250₹,18,0
+Karnataka,MysuruMysore,PvrGarudaMallAlbertVictorRoadMysuru,Kannada,18:10,Classic,150₹,119,1
