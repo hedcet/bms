@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Bihar,Patna,SushilPlazaCinemaPlexPatna,Hindi,11:30,GoldPrime,130₹,286,0
+UttarPradesh,Varanasi,IpCinemasIpSigraMallVaranasi,Hindi,14:35,Gold,150₹,81,12
+UttarPradesh,Varanasi,IpCinemasIpSigraMallVaranasi,Hindi,14:35,Silver,110₹,75,0
+UttarPradesh,Varanasi,IpCinemasIpSigraMallVaranasi,Hindi,14:35,Recliner,600₹,12,2
