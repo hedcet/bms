@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Haryana,Chandigarh,PvrElanteChandigarh,English,11:00,Classic,180₹,153,4
+Haryana,Chandigarh,PvrElanteChandigarh,English,11:00,Recliner,450₹,13,0
+Maharashtra,Mumbai,InoxRCityGhatkopar,English,12:45,Insignia,500₹,46,12
+UttarPradesh,NationalCapitalRegionNcr,GurugramPvrDirectorSCutAmbienceMall,English,13:45,Platinum,600₹,45,2
+UttarPradesh,NationalCapitalRegionNcr,GurugramPvrDirectorSCutAmbienceMall,English,13:45,PlatinumSuperior,600₹,16,3
+Maharashtra,Mumbai,InoxMegaplexInorbitMallMalad,English,16:10,Kiddles,300₹,57,22
+UttarPradesh,NationalCapitalRegionNcr,PvrSelectCityWalkGoldDelhi,English,16:15,Platinum,600₹,24,22
+UttarPradesh,NationalCapitalRegionNcr,PvrSelectCityWalkGoldDelhi,English,16:15,PlatinumSuperior,600₹,16,8
+Maharashtra,Pune,PvrIconThePavillionPune,English,19:00,Classic,280₹,28,2
+Maharashtra,Pune,PvrIconThePavillionPune,English,19:00,Prime,310₹,134,17
+Maharashtra,Pune,PvrIconThePavillionPune,English,19:00,Recliner,710₹,8,4
+Maharashtra,Mumbai,PvrCitiMallAndheriW,English,19:30,Classic,250₹,46,0
+Maharashtra,Mumbai,PvrCitiMallAndheriW,English,19:30,Prime,290₹,146,36
+Maharashtra,Mumbai,PvrCitiMallAndheriW,English,19:30,Recliner,460₹,24,9
