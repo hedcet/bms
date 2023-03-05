@@ -1,0 +1,16 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Ahmedabad,CinepolisAhmedabadOne,Gujarati,09:15,Normal,130₹,39,39
+Gujarat,Ahmedabad,CinepolisAhmedabadOne,Gujarati,09:15,Executive,150₹,168,168
+Gujarat,Ahmedabad,CinepolisAhmedabadOne,Gujarati,09:15,Premium,200₹,68,68
+Gujarat,Ahmedabad,TimeCinemaCgRoadAhmedabad,Gujarati,10:45,Standard,250₹,108,11
+Gujarat,Ahmedabad,CinepolisAhmedabadOne,Gujarati,12:30,Normal,150₹,39,39
+Gujarat,Ahmedabad,CinepolisAhmedabadOne,Gujarati,12:30,Executive,180₹,168,168
+Gujarat,Ahmedabad,CinepolisAhmedabadOne,Gujarati,12:30,Premium,220₹,68,68
+Gujarat,Ahmedabad,CinepolisAhmedabadOne,Gujarati,15:40,Normal,180₹,39,39
+Gujarat,Ahmedabad,CinepolisAhmedabadOne,Gujarati,15:40,Executive,200₹,168,168
+Gujarat,Ahmedabad,CinepolisAhmedabadOne,Gujarati,15:40,Premium,250₹,68,68
+Gujarat,Ahmedabad,TimeCinemaCgRoadAhmedabad,Gujarati,16:30,Infinity,"1,030₹",12,0
+Gujarat,Surat,TimeCinemaGalaxyCirclePalSurat,Gujarati,16:30,InfinitySofa,300₹,34,4
+Gujarat,Ahmedabad,CinepolisAhmedabadOne,Gujarati,22:05,Normal,230₹,39,39
+Gujarat,Ahmedabad,CinepolisAhmedabadOne,Gujarati,22:05,Executive,250₹,168,168
+Gujarat,Ahmedabad,CinepolisAhmedabadOne,Gujarati,22:05,Premium,300₹,68,68
