@@ -1,0 +1,14 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,PvrVegaCityBannerghattaRoad,Telugu,11:00,Classic,200₹,119,2
+Karnataka,Bengaluru,PvrVegaCityBannerghattaRoad,Telugu,11:00,Prime,210₹,60,0
+Karnataka,Bengaluru,PvrVegaCityBannerghattaRoad,Telugu,11:00,Recliner,350₹,22,2
+Karnataka,Bengaluru,PvrPhoenixMarketcityMallWhitefieldRoad,Telugu,13:00,Classic,240₹,139,3
+Karnataka,Bengaluru,PvrPhoenixMarketcityMallWhitefieldRoad,Telugu,13:00,Prime,260₹,10,0
+Karnataka,Bengaluru,PvrPhoenixMarketcityMallWhitefieldRoad,Telugu,13:00,Recliner,420₹,14,0
+AndhraPradesh,Narsipatnam,PvrSreeKanyaNarsipatnam,Telugu,16:00,Classic,60₹,29,0
+AndhraPradesh,Narsipatnam,PvrSreeKanyaNarsipatnam,Telugu,16:00,ClassicPlus,150₹,171,0
+AndhraPradesh,Guntur,PvrGuntur,Telugu,16:15,Premium,295₹,13,13
+AndhraPradesh,Guntur,PvrGuntur,Telugu,16:15,Deluxe,177₹,146,146
+Telangana,Warangal,PvrMaddoxWarangal,Telugu,16:45,Classic,112₹,97,0
+Karnataka,Bengaluru,PvrDirectorsCutRexWalkBengaluru,Telugu,17:50,Platinum,600₹,32,8
+Karnataka,Bengaluru,PvrDirectorsCutRexWalkBengaluru,Telugu,17:50,PlatinumSuperior,600₹,17,4
