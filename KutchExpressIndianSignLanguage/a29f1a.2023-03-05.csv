@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Ahmedabad,PvrArvedTranscubeAhmedabad,Gujarati,10:00,Classic,99₹,30,0
+Gujarat,Ahmedabad,PvrArvedTranscubeAhmedabad,Gujarati,10:00,Prime,99₹,107,59
+TamilNadu,Coimbatore,SpiTheCinemaBrookefieldsMall,Gujarati,16:30,Budget,63₹,20,20
+TamilNadu,Coimbatore,SpiTheCinemaBrookefieldsMall,Gujarati,16:30,Elite,202₹,174,31
