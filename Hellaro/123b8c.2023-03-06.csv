@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Vadodara,CinepolisInorbitVadodaraMall,Gujarati,12:00,Normal,110₹,24,0
+Gujarat,Vadodara,CinepolisInorbitVadodaraMall,Gujarati,12:00,Premium,110₹,41,15
+Gujarat,Vadodara,CinepolisInorbitVadodaraMall,Gujarati,12:00,Executive,110₹,81,0
+Gujarat,Ahmedabad,CinepolisAhmedabadOne,Gujarati,12:35,Normal,110₹,30,0
+Gujarat,Ahmedabad,CinepolisAhmedabadOne,Gujarati,12:35,Executive,110₹,64,0
+Gujarat,Ahmedabad,CinepolisAhmedabadOne,Gujarati,12:35,Premium,110₹,52,11
+Gujarat,Ahmedabad,PvrAcropolisAhmedabad,Gujarati,13:15,Classic,112₹,39,0
+Gujarat,Ahmedabad,PvrAcropolisAhmedabad,Gujarati,13:15,Prime,112₹,65,0
+Gujarat,Ahmedabad,PvrAcropolisAhmedabad,Gujarati,13:15,PrimePlus,112₹,66,2
+Gujarat,Ahmedabad,PvrAcropolisAhmedabad,Gujarati,13:15,Recliner,350₹,9,0
+Gujarat,Vadodara,PvrEvaMallVadodara,Gujarati,13:30,Classic,112₹,57,0
+Gujarat,Vadodara,PvrEvaMallVadodara,Gujarati,13:30,Prime,112₹,57,0
+Gujarat,Vadodara,PvrEvaMallVadodara,Gujarati,13:30,PrimePlus,112₹,115,0
+Gujarat,Surat,CinepolisImperialSquareMallSurat,Gujarati,16:05,Normal,110₹,22,0
+Gujarat,Surat,CinepolisImperialSquareMallSurat,Gujarati,16:05,Executive,110₹,75,0
+Gujarat,Surat,CinepolisImperialSquareMallSurat,Gujarati,16:05,Premium,110₹,33,0
