@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Jamnagar,AmberCinemaJamnagar,Gujarati,15:30,Balcony,60₹,354,4
+Gujarat,Jamnagar,AmberCinemaJamnagar,Gujarati,18:30,Balcony,60₹,354,0
+Gujarat,Jamnagar,AmberCinemaJamnagar,Gujarati,21:30,Balcony,60₹,354,0
