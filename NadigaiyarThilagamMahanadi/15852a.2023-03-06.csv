@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Chennai,PvrHeritageRslEcrChennai,Tamil,11:45,Classic,60₹,11,11
+TamilNadu,Chennai,PvrHeritageRslEcrChennai,Tamil,11:45,Prime,149₹,98,4
+Puducherry,Pondicherry,PvrTheCinemaProvidencePondicherry,Tamil,15:50,Elite,150₹,167,167
+Puducherry,Pondicherry,PvrTheCinemaProvidencePondicherry,Tamil,15:50,Premium,110₹,62,62
