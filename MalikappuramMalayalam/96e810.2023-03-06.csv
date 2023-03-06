@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Trivandrum,NewTheatre4KRgbLaserDolbyAtmosTrivandrum,Malayalam,18:30,Elite,150₹,173,0
+Kerala,Trivandrum,Devipriya2KEastFort,Malayalam,18:30,Devipriya,150₹,186,0
+Kerala,Nooranad,SwathyScreensNooranad,Malayalam,18:30,Premium,150₹,140,0
+Kerala,Nooranad,SwathyScreensNooranad,Malayalam,18:30,GoldPlus,200₹,12,0
+Kerala,Trivandrum,Devipriya2KEastFort,Malayalam,21:30,Devipriya,150₹,186,0
+Kerala,Trivandrum,NewTheatre4KRgbLaserDolbyAtmosTrivandrum,Malayalam,22:00,RoyalCircle,250₹,100,0
+Kerala,Trivandrum,NewTheatre4KRgbLaserDolbyAtmosTrivandrum,Malayalam,22:00,FamilyCircle,150₹,349,0
+Kerala,Trivandrum,Devipriya2KEastFort,Malayalam,23:55,Devipriya,150₹,186,186
