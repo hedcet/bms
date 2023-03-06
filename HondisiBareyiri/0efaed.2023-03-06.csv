@@ -1,0 +1,14 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Davanagere,MovietimeDavanagere,Kannada,12:40,Gold,180₹,41,0
+Karnataka,Davanagere,MovietimeDavanagere,Kannada,12:40,Premier,150₹,160,3
+Karnataka,MysuruMysore,DrcCinemasBmHabitatMall,Kannada,13:30,Premium,160₹,182,9
+Karnataka,MysuruMysore,DrcCinemasBmHabitatMall,Kannada,13:30,Luxury,200₹,18,0
+Karnataka,Bengaluru,MirajCinemasTgnLotusEliteMagadiRoad,Kannada,15:20,PlatinumRecliner,220₹,20,0
+Karnataka,Bengaluru,MirajCinemasTgnLotusEliteMagadiRoad,Kannada,15:20,Gold,130₹,173,6
+Karnataka,Bengaluru,MirajCinemasTgnLotusEliteMagadiRoad,Kannada,15:20,Silver,110₹,34,0
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,18:25,Classic,112₹,128,0
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,18:25,Prime,112₹,100,14
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,18:25,Recliner,200₹,14,2
+Karnataka,Bengaluru,MirajCinemasTgnLotusEliteMagadiRoad,Kannada,21:30,PlatinumRecliner,250₹,20,5
+Karnataka,Bengaluru,MirajCinemasTgnLotusEliteMagadiRoad,Kannada,21:30,Gold,150₹,173,0
+Karnataka,Bengaluru,MirajCinemasTgnLotusEliteMagadiRoad,Kannada,21:30,Silver,130₹,34,0
