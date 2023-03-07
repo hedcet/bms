@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,NavrangTheatreRajajiNagar,Kannada,10:15,Balcony,60₹,258,3
+Karnataka,Bengaluru,NavrangTheatreRajajiNagar,Kannada,10:15,Second,60₹,480,0
+Karnataka,Bengaluru,PvrTheCinemaGtWorldBengaluru,Kannada,12:00,Classic,150₹,228,0
+Karnataka,Bengaluru,PvrTheCinemaGtWorldBengaluru,Kannada,12:00,Recliner,250₹,12,0
+Karnataka,Bengaluru,PvrVegaCityBannerghattaRoad,Kannada,13:10,Classic,112₹,118,3
+Karnataka,Bengaluru,PrasannaDigital4KCinemaMagadiRoad,Kannada,16:30,Gold,110₹,355,1
+Karnataka,Bengaluru,PrasannaDigital4KCinemaMagadiRoad,Kannada,16:30,Silver,100₹,748,1
+Karnataka,Bengaluru,PvrTheCinemaGtWorldBengaluru,Kannada,18:15,Classic,150₹,179,2
+Karnataka,Bengaluru,PvrTheCinemaGtWorldBengaluru,Kannada,18:15,Recliner,250₹,16,0
+Karnataka,MysuruMysore,PvrForumCentreCityMallMysuru,Kannada,18:20,Classic,150₹,151,20
+Karnataka,Bengaluru,NavrangTheatreRajajiNagar,Kannada,19:15,Balcony,60₹,258,7
+Karnataka,Bengaluru,NavrangTheatreRajajiNagar,Kannada,19:15,Second,60₹,480,0
+Karnataka,Bengaluru,PrasannaDigital4KCinemaMagadiRoad,Kannada,19:30,Gold,110₹,355,1
+Karnataka,Bengaluru,PrasannaDigital4KCinemaMagadiRoad,Kannada,19:30,Silver,100₹,748,1
