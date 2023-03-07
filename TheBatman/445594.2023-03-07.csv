@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Maharashtra,Pune,CinepolisNexusWestendMallAundhPune,English,19:05,Normal,110₹,21,2
+Maharashtra,Pune,CinepolisNexusWestendMallAundhPune,English,19:05,Executive,110₹,59,1
+Maharashtra,Pune,CinepolisNexusWestendMallAundhPune,English,19:05,Premium,110₹,45,4
+Gujarat,Vadodara,CinepolisInorbitVadodaraMall,English,21:00,Normal,150₹,24,0
+Gujarat,Vadodara,CinepolisInorbitVadodaraMall,English,21:00,Premium,150₹,41,18
+Gujarat,Vadodara,CinepolisInorbitVadodaraMall,English,21:00,Executive,150₹,81,6
+Maharashtra,Mumbai,CinepolisNexusSeawoodsNaviMumbai,English,21:30,Normal,150₹,46,46
+Maharashtra,Mumbai,CinepolisNexusSeawoodsNaviMumbai,English,21:30,Executive,150₹,70,70
+Maharashtra,Mumbai,CinepolisNexusSeawoodsNaviMumbai,English,21:30,Premium,150₹,57,57
+Maharashtra,Mumbai,CinepolisNexusSeawoodsNaviMumbai,English,21:30,Vip,300₹,14,14
