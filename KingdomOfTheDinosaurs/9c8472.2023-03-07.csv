@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Kalyani,DolphinMultiplexHaringhata,Hindi,11:00,RoyalClass,150₹,9,0
+WestBengal,Kalyani,DolphinMultiplexHaringhata,Hindi,11:00,EconomyClass,120₹,72,0
+AndhraPradesh,Markapur,VisweswaraPicturePalaceMarkapur,Telugu,11:00,GoldClass,100₹,416,21
+WestBengal,Kalyani,DolphinMultiplexHaringhata,Hindi,14:00,RoyalClass,150₹,9,0
+WestBengal,Kalyani,DolphinMultiplexHaringhata,Hindi,14:00,EconomyClass,120₹,72,0
+AndhraPradesh,Markapur,VisweswaraPicturePalaceMarkapur,Telugu,14:30,GoldClass,100₹,416,25
+WestBengal,Kalyani,DolphinMultiplexHaringhata,Hindi,17:00,RoyalClass,150₹,9,2
+WestBengal,Kalyani,DolphinMultiplexHaringhata,Hindi,17:00,EconomyClass,120₹,72,0
+AndhraPradesh,Markapur,VisweswaraPicturePalaceMarkapur,Telugu,18:30,GoldClass,100₹,416,19
+WestBengal,Kalyani,DolphinMultiplexHaringhata,Hindi,20:00,RoyalClass,150₹,9,0
+WestBengal,Kalyani,DolphinMultiplexHaringhata,Hindi,20:00,EconomyClass,120₹,72,0
+AndhraPradesh,Markapur,VisweswaraPicturePalaceMarkapur,Telugu,21:30,GoldClass,100₹,416,1
