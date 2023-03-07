@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Ahmedabad,MirajCityPulseAhmedabad,Gujarati,15:00,Gold,112₹,66,0
+Gujarat,Mahuva,CineArcMultiplexMahuva,Gujarati,15:30,Gold,150₹,65,11
+Gujarat,Mahuva,CineArcMultiplexMahuva,Gujarati,15:30,Silver,130₹,170,7
+Gujarat,Surat,RajhansMultiplexAdajanSurat,Gujarati,17:30,Business,160₹,94,38
+Gujarat,Mahuva,CineArcMultiplexMahuva,Gujarati,18:30,Gold,150₹,65,0
+Gujarat,Mahuva,CineArcMultiplexMahuva,Gujarati,18:30,Silver,130₹,170,9
+Rajasthan,Navsari,RajhansCinemasNavsari,Gujarati,20:00,Platinum,190₹,59,13
+Rajasthan,Navsari,RajhansCinemasNavsari,Gujarati,20:00,Executive,170₹,96,20
+Rajasthan,Navsari,RajhansCinemasNavsari,Gujarati,20:00,Royal,150₹,96,42
+Rajasthan,Navsari,RajhansCinemasNavsari,Gujarati,20:00,Marvel,130₹,32,0
+Gujarat,Valsad,CineParkValsad,Gujarati,20:00,Recliner,200₹,18,4
+Gujarat,Valsad,CineParkValsad,Gujarati,20:00,Gold,110₹,200,50
+Gujarat,Valsad,CineParkValsad,Gujarati,20:00,Executive,110₹,120,0
+Gujarat,Valsad,CineParkValsad,Gujarati,20:00,Special,110₹,60,0
+Gujarat,Surat,MirajCinemasKsbOlympiaSurat,Gujarati,20:30,Executive,100₹,44,0
+Gujarat,Surat,MirajCinemasKsbOlympiaSurat,Gujarati,20:30,Gold,100₹,72,0
