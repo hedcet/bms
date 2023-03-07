@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Chhattisgarh,Bhilai,SriVenkateshwaraTalkiesBhilai,Chattisgarhi,12:00,Balcony,110₹,390,0
+Maharashtra,Chandrapur,RajkalaCineplexChandrapur,Chattisgarhi,12:15,Platinum,130₹,181,55
+Maharashtra,Chandrapur,RajkalaCineplexChandrapur,Chattisgarhi,12:15,Gold,100₹,190,48
+Chhattisgarh,Bhilai,SriVenkateshwaraTalkiesBhilai,Chattisgarhi,15:00,Balcony,110₹,390,0
+Maharashtra,Chandrapur,RajkalaCineplexChandrapur,Chattisgarhi,15:15,Platinum,130₹,181,55
+Maharashtra,Chandrapur,RajkalaCineplexChandrapur,Chattisgarhi,15:15,Gold,100₹,190,48
+Chhattisgarh,Bhilai,SriVenkateshwaraTalkiesBhilai,Chattisgarhi,18:00,Balcony,110₹,390,0
+Maharashtra,Chandrapur,RajkalaCineplexChandrapur,Chattisgarhi,18:15,Platinum,130₹,181,55
+Maharashtra,Chandrapur,RajkalaCineplexChandrapur,Chattisgarhi,18:15,Gold,100₹,190,60
+Maharashtra,Chandrapur,RajkalaCineplexChandrapur,Chattisgarhi,21:15,Platinum,130₹,181,60
+Maharashtra,Chandrapur,RajkalaCineplexChandrapur,Chattisgarhi,21:15,Gold,100₹,190,58
