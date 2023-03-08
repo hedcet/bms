@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Rajasthan,Jaipur,InoxElementsMallAjmerRoad,Hindi,17:25,Club,112₹,89,4
+Rajasthan,Jaipur,InoxElementsMallAjmerRoad,Hindi,17:25,Executive,112₹,13,0
+Rajasthan,Jaipur,InoxElementsMallAjmerRoad,Hindi,17:25,Royale,112₹,18,8
