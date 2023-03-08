@@ -1,0 +1,3 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Ahmedabad,PvrMoteraAhmedabad,Hindi,10:30,Classic,180₹,42,0
+Gujarat,Ahmedabad,PvrMoteraAhmedabad,Hindi,10:30,Prime,180₹,210,14
