@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Assam,Guwahati,PragjyotiCinemaGuwahati,Assamese,14:00,DiamondCircle,100₹,208,208
+Assam,Guwahati,PragjyotiCinemaGuwahati,Assamese,14:00,GoldCircle,200₹,18,18
+Assam,Guwahati,PragjyotiCinemaGuwahati,Assamese,14:00,SilverClass,175₹,88,88
+Assam,Guwahati,PragjyotiCinemaGuwahati,Assamese,14:00,VipCircle,150₹,119,119
+Assam,Guwahati,PragjyotiCinemaGuwahati,Assamese,14:00,PlatinumBox,225₹,15,15
+Assam,Guwahati,RrCinemasGuwahati,Assamese,14:30,Platinum,300₹,52,0
+Assam,Guwahati,RrCinemasGuwahati,Assamese,14:30,Club,250₹,50,0
+Assam,Guwahati,RrCinemasGuwahati,Assamese,14:30,Classic,200₹,23,0
+Assam,Nagaon,DivyajyotiCinemaNagaon,Assamese,15:00,Balcony,150₹,186,0
