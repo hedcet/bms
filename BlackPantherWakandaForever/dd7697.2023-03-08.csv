@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,PvrVaishnaviSapphireMallYeshwanthpur,English,14:00,Classic,140₹,125,72
+Karnataka,Bengaluru,PvrVaishnaviSapphireMallYeshwanthpur,English,14:00,Prime,180₹,40,40
+Karnataka,Bengaluru,PvrVaishnaviSapphireMallYeshwanthpur,English,14:00,Recliner,270₹,14,0
+TamilNadu,Chennai,CinepolisBsrMallOmrThoraipakkam,English,18:50,Normal,94₹,17,0
+TamilNadu,Chennai,CinepolisBsrMallOmrThoraipakkam,English,18:50,Executive,240₹,152,35
