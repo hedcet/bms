@@ -1,0 +1,16 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Kolkata,CinepolisAcropolisMallKolkata,English,18:30,Normal,110₹,22,0
+WestBengal,Kolkata,CinepolisAcropolisMallKolkata,English,18:30,Executive,110₹,64,8
+WestBengal,Kolkata,CinepolisAcropolisMallKolkata,English,18:30,Premium,110₹,38,3
+Telangana,Hyderabad,InoxGvkOneBanjaraHills,English,19:00,Royal,200₹,11,7
+Telangana,Hyderabad,InoxGvkOneBanjaraHills,English,19:00,Executive,112₹,140,17
+Maharashtra,Mumbai,InoxLaserplexCr2NarimanPoint,English,19:00,Club,112₹,128,0
+Maharashtra,Mumbai,InoxLaserplexCr2NarimanPoint,English,19:00,Royale,112₹,111,15
+Maharashtra,Mumbai,InoxMegaplexInorbitMallMalad,English,19:25,Insignia,300₹,38,4
+Gujarat,Surat,PvrRahulRajSurat,English,19:30,Classic,112₹,30,0
+Gujarat,Surat,PvrRahulRajSurat,English,19:30,ClassicPlus,112₹,30,0
+Gujarat,Surat,PvrRahulRajSurat,English,19:30,Prime,112₹,72,12
+Gujarat,Surat,PvrRahulRajSurat,English,19:30,Recliner,200₹,24,5
+Maharashtra,Mumbai,PvrDynamixJuhu,English,19:30,Prime,112₹,72,29
+Maharashtra,Mumbai,PvrDynamixJuhu,English,19:30,Classic,112₹,40,1
+Telangana,Hyderabad,PrasadsMultiplexHyderabad,English,22:30,Gold,250₹,630,19
