@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Kolkata,CarnivalSaltLake,Bengali,12:00,Silver,99₹,166,13
+WestBengal,Kolkata,CarnivalSaltLake,Bengali,17:30,Silver,99₹,166,14
+WestBengal,Kolkata,NazrultirthaCinemaScreen3Kolkata,Bengali,17:45,Gold,130₹,30,0
+WestBengal,Kolkata,NazrultirthaCinemaScreen3Kolkata,Bengali,17:45,Recliner,150₹,8,4
+WestBengal,Kolkata,NazrultirthaCinemaScreen3Kolkata,Bengali,17:45,Sofa,130₹,12,0
+WestBengal,Kolkata,NandanKolkata,Bengali,17:45,FrontStall,30₹,111,15
+WestBengal,Kolkata,NandanKolkata,Bengali,17:45,RearStall,50₹,451,48
+WestBengal,Kolkata,NandanKolkata,Bengali,17:45,Balcony,70₹,369,59
+WestBengal,Kolkata,RadhaStudioTollygunge,Bengali,18:00,Silver,30₹,146,15
