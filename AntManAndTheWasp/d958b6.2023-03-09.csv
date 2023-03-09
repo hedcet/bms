@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Ahmedabad,PvrMoteraAhmedabad,Hindi,10:30,Classic,112₹,42,0
+Gujarat,Ahmedabad,PvrMoteraAhmedabad,Hindi,10:30,Prime,112₹,210,14
+Jharkhand,Ranchi,FunCinemasSpringcityRanchi,Hindi,19:15,Recliner3D,300₹,8,0
+Jharkhand,Ranchi,FunCinemasSpringcityRanchi,Hindi,19:15,PlatinumPlus3D,100₹,14,0
+Jharkhand,Ranchi,FunCinemasSpringcityRanchi,Hindi,19:15,Platinum3D,100₹,63,0
+Jharkhand,Ranchi,FunCinemasSpringcityRanchi,Hindi,19:15,Gold3D,100₹,96,0
+Jharkhand,Ranchi,FunCinemasSpringcityRanchi,Hindi,19:15,Silver3D,100₹,24,0
+Jharkhand,Ranchi,FunCinemasSpringcityRanchi,Hindi,21:30,Recliner3D,300₹,8,0
+Jharkhand,Ranchi,FunCinemasSpringcityRanchi,Hindi,21:30,PlatinumPlus3D,100₹,14,0
+Jharkhand,Ranchi,FunCinemasSpringcityRanchi,Hindi,21:30,Platinum3D,100₹,63,0
+Jharkhand,Ranchi,FunCinemasSpringcityRanchi,Hindi,21:30,Gold3D,100₹,96,0
+Jharkhand,Ranchi,FunCinemasSpringcityRanchi,Hindi,21:30,Silver3D,100₹,24,0
