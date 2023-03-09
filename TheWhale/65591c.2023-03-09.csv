@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,PvrNexusFormerlyForumKoramangala,English,18:30,Classic,180₹,172,7
+Karnataka,Bengaluru,InoxGarudaMallMagrathRoad,English,18:30,RoyaleRecliners,200₹,13,13
+Karnataka,Bengaluru,InoxGarudaMallMagrathRoad,English,18:30,Club,112₹,72,18
+Karnataka,Bengaluru,InoxGarudaMallMagrathRoad,English,18:30,Executive,112₹,90,0
+Maharashtra,Mumbai,PvrIconOberoiMallGoregaonE,English,18:30,Classic,112₹,47,1
+Maharashtra,Mumbai,PvrIconOberoiMallGoregaonE,English,18:30,Prime,112₹,156,24
+Maharashtra,Mumbai,PvrIconOberoiMallGoregaonE,English,18:30,Recliner,250₹,34,8
+Telangana,Hyderabad,PvrForumSujanaMallKukatpallyHyderabad,English,18:45,Classic,150₹,135,48
+Telangana,Hyderabad,PvrForumSujanaMallKukatpallyHyderabad,English,18:45,Recliner,250₹,9,8
+Gujarat,Vadodara,PvrEvaMallVadodara,English,19:20,Classic,112₹,48,0
+Gujarat,Vadodara,PvrEvaMallVadodara,English,19:20,Prime,112₹,48,0
+Gujarat,Vadodara,PvrEvaMallVadodara,English,19:20,PrimePlus,112₹,97,11
+Rajasthan,Jaipur,PvrMallOfJaipur,English,21:15,Classic,112₹,20,0
+Rajasthan,Jaipur,PvrMallOfJaipur,English,21:15,Prime,112₹,43,2
+Rajasthan,Jaipur,PvrMallOfJaipur,English,21:15,PrimePlus,112₹,26,0
+Rajasthan,Jaipur,PvrMallOfJaipur,English,21:15,Recliner,250₹,8,0
