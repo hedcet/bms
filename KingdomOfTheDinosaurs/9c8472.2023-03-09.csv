@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Markapur,VisweswaraPicturePalaceMarkapur,Telugu,11:00,GoldClass,100₹,416,21
+AndhraPradesh,Markapur,VisweswaraPicturePalaceMarkapur,Telugu,14:30,GoldClass,100₹,416,26
+AndhraPradesh,Markapur,VisweswaraPicturePalaceMarkapur,Telugu,18:30,GoldClass,100₹,416,19
+AndhraPradesh,Markapur,VisweswaraPicturePalaceMarkapur,Telugu,21:30,GoldClass,100₹,416,3
