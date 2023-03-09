@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,NationalCapitalRegionNcr,KavitaMultiplexOneCinemasGhaziabad,Bhojpuri,12:00,Platinum,120₹,37,0
+UttarPradesh,NationalCapitalRegionNcr,KavitaMultiplexOneCinemasGhaziabad,Bhojpuri,12:00,Gold,100₹,68,3
+UttarPradesh,NationalCapitalRegionNcr,KavitaMultiplexOneCinemasGhaziabad,Bhojpuri,12:00,Silver,100₹,56,0
+UttarPradesh,NationalCapitalRegionNcr,KavitaMultiplexOneCinemasGhaziabad,Bhojpuri,15:00,Platinum,120₹,37,0
+UttarPradesh,NationalCapitalRegionNcr,KavitaMultiplexOneCinemasGhaziabad,Bhojpuri,15:00,Gold,100₹,68,0
+UttarPradesh,NationalCapitalRegionNcr,KavitaMultiplexOneCinemasGhaziabad,Bhojpuri,15:00,Silver,100₹,56,0
+UttarPradesh,NationalCapitalRegionNcr,KavitaMultiplexOneCinemasGhaziabad,Bhojpuri,18:00,Platinum,120₹,37,0
+UttarPradesh,NationalCapitalRegionNcr,KavitaMultiplexOneCinemasGhaziabad,Bhojpuri,18:00,Gold,100₹,68,0
+UttarPradesh,NationalCapitalRegionNcr,KavitaMultiplexOneCinemasGhaziabad,Bhojpuri,18:00,Silver,100₹,56,0
