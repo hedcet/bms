@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,NationalCapitalRegionNcr,PvrMegaMallGurgaon,Hindi,13:40,Classic,170₹,39,39
+UttarPradesh,NationalCapitalRegionNcr,PvrMegaMallGurgaon,Hindi,13:40,Prime,200₹,60,59
+Maharashtra,Mumbai,CinepolisVivianaMallThane,Hindi,16:25,Normal,150₹,27,0
+Maharashtra,Mumbai,CinepolisVivianaMallThane,Hindi,16:25,Executive,170₹,106,3
+Maharashtra,Mumbai,CinepolisVivianaMallThane,Hindi,16:25,Premium,190₹,46,0
