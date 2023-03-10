@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Chennai,EvpCinemasChennai,Tamil,08:45,Elite,160₹,198,0
+TamilNadu,Salem,ArrsMultiplexSalem,Tamil,10:45,FirstClass,150₹,197,19
+TamilNadu,Salem,ArrsMultiplexSalem,Tamil,10:45,SecondClass,120₹,158,0
+TamilNadu,Chennai,KasiTalkiesDolbyAtmosAshokNagar,Tamil,11:10,SuperPremium,195₹,19,5
+TamilNadu,Chennai,KasiTalkiesDolbyAtmosAshokNagar,Tamil,11:10,Premium,170₹,89,5
+TamilNadu,Chennai,KasiTalkiesDolbyAtmosAshokNagar,Tamil,11:10,Elite,120₹,60,0
+TamilNadu,Chennai,KasiTalkiesDolbyAtmosAshokNagar,Tamil,11:10,Economy,64₹,10,10
+TamilNadu,Madurai,KannanDeviCinemasTirunagarMadurai,Tamil,18:30,Gold,120₹,96,0
+TamilNadu,Madurai,KannanDeviCinemasTirunagarMadurai,Tamil,18:30,Silver,100₹,112,0
+TamilNadu,Dharmapuri,DmaxDncTheatresDharmapuri,Tamil,18:50,Couple,170₹,24,4
+TamilNadu,Dharmapuri,DmaxDncTheatresDharmapuri,Tamil,18:50,Premium,150₹,68,11
+TamilNadu,Dharmapuri,DmaxDncTheatresDharmapuri,Tamil,18:50,Economy,150₹,10,0
+TamilNadu,Kanchipuram,NarayanamurthyTheatreKanchipuram,Tamil,21:30,Balcony,70₹,11,11
+TamilNadu,Kanchipuram,NarayanamurthyTheatreKanchipuram,Tamil,21:30,FirstClass,70₹,187,137
+TamilNadu,Madurai,KannanDeviCinemasTirunagarMadurai,Tamil,22:30,Gold,120₹,96,0
+TamilNadu,Madurai,KannanDeviCinemasTirunagarMadurai,Tamil,22:30,Silver,100₹,112,0
