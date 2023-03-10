@@ -1,0 +1,8 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Trivandrum,CarnivalArtechCentralMallTrivandrum,Malayalam,11:10,SilverOffline,150₹,147,16
+Kerala,Trivandrum,CarnivalArtechCentralMallTrivandrum,Malayalam,11:10,ExecutiveOffline,100₹,26,0
+Kerala,Trivandrum,CarnivalArtechCentralMallTrivandrum,Malayalam,14:00,SilverOffline,150₹,147,16
+Kerala,Trivandrum,CarnivalArtechCentralMallTrivandrum,Malayalam,14:00,ExecutiveOffline,100₹,26,0
+Kerala,Karunagapally,CarnivalHJComplex,Malayalam,14:00,ClassicOffline,150₹,118,2
+Kerala,Karunagapally,CarnivalHJComplex,Malayalam,16:10,ClassicOffline,170₹,194,0
+Kerala,Karunagapally,CarnivalHJComplex,Malayalam,22:00,ClassicOffline,170₹,118,0
