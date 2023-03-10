@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Anand,KalpanaCinemaAnand,Hindi,12:30,Box,150₹,8,3
+Gujarat,Anand,KalpanaCinemaAnand,Hindi,12:30,Balcony,120₹,101,0
+Gujarat,Anand,KalpanaCinemaAnand,Hindi,12:30,Executive,100₹,106,0
+Gujarat,Anand,KalpanaCinemaAnand,Hindi,15:30,Box,150₹,8,0
+Gujarat,Anand,KalpanaCinemaAnand,Hindi,15:30,Balcony,120₹,101,0
+Gujarat,Anand,KalpanaCinemaAnand,Hindi,15:30,Executive,100₹,106,0
+Gujarat,Anand,KalpanaCinemaAnand,Hindi,18:30,Box,150₹,8,0
+Gujarat,Anand,KalpanaCinemaAnand,Hindi,18:30,Balcony,120₹,101,0
+Gujarat,Anand,KalpanaCinemaAnand,Hindi,18:30,Executive,100₹,106,0
+Maharashtra,Jalgaon,AshokCinemaJalgaon,Hindi,21:00,Balcony,100₹,189,30
+Maharashtra,Jalgaon,AshokCinemaJalgaon,Hindi,21:00,FClass,50₹,562,50
+Gujarat,Anand,KalpanaCinemaAnand,Hindi,21:30,Box,150₹,8,0
+Gujarat,Anand,KalpanaCinemaAnand,Hindi,21:30,Balcony,120₹,101,0
+Gujarat,Anand,KalpanaCinemaAnand,Hindi,21:30,Executive,100₹,106,0
