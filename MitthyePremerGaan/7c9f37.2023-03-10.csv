@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Durgapur,CarnivalCityCenter,Bengali,14:00,Economy,99₹,34,34
+WestBengal,Durgapur,CarnivalCityCenter,Bengali,14:00,Regular,99₹,65,65
+WestBengal,Durgapur,CarnivalCityCenter,Bengali,14:00,Executive,99₹,168,168
