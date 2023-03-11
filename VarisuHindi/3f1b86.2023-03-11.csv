@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Ahmedabad,WideAngleAhmedabad,Hindi,17:00,Silver,150₹,76,0
+Gujarat,Ahmedabad,WideAngleAhmedabad,Hindi,17:00,Gold,150₹,104,12
+Orissa,Bhubaneswar,CinepolisNexusEsplanadeBhubaneswar,Hindi,18:35,Normal,200₹,23,4
+Orissa,Bhubaneswar,CinepolisNexusEsplanadeBhubaneswar,Hindi,18:35,Executive,220₹,52,52
+Orissa,Bhubaneswar,CinepolisNexusEsplanadeBhubaneswar,Hindi,18:35,Premium,240₹,44,44
+Orissa,Bhubaneswar,CinepolisNexusEsplanadeBhubaneswar,Hindi,18:35,Vip,500₹,9,9
