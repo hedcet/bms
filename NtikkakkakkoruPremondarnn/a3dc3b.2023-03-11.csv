@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Trivandrum,NewTheatre4KRgbLaserDolbyAtmosThampanoor,Malayalam,14:30,Elite,150₹,200,17
+Kerala,Trivandrum,PvrLuluTrivandrum,Malayalam,21:50,Classic,170₹,70,2
+Kerala,Trivandrum,PvrLuluTrivandrum,Malayalam,21:50,Prime,190₹,51,9
+Kerala,Trivandrum,PvrLuluTrivandrum,Malayalam,21:50,Recliner,350₹,7,7
