@@ -1,0 +1,8 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,NationalCapitalRegionNcr,InoxNehruPlace,English,18:20,RoyaleRecliner,300₹,18,6
+UttarPradesh,NationalCapitalRegionNcr,InoxNehruPlace,English,18:20,Club,112₹,87,6
+UttarPradesh,NationalCapitalRegionNcr,InoxNehruPlace,English,18:20,Executive,112₹,84,0
+UttarPradesh,NationalCapitalRegionNcr,InoxNehruPlace,English,18:20,Royal,112₹,48,35
+Kerala,Kochi,CinepolisCentreSquareMallKochi,English,22:40,Normal,160₹,20,5
+Kerala,Kochi,CinepolisCentreSquareMallKochi,English,22:40,Executive,190₹,43,3
+Kerala,Kochi,CinepolisCentreSquareMallKochi,English,22:40,Premium,220₹,44,3
