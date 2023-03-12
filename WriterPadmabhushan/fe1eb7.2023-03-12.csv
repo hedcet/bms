@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Vijayawada,CinepolisPvpSquareMallVijayawada,Telugu,17:25,Normal,177₹,185,54
+AndhraPradesh,Vijayawada,CinepolisPvpSquareMallVijayawada,Telugu,17:25,Vip,295₹,12,5
+AndhraPradesh,VizagVisakhapatnam,SriVenkateshwaraScreen1Vizag,Telugu,18:30,FirstClass,140₹,167,23
+AndhraPradesh,VizagVisakhapatnam,SriVenkateshwaraScreen1Vizag,Telugu,18:30,SecondClass,70₹,57,18
+AndhraPradesh,VizagVisakhapatnam,SriVenkateshwaraScreen1Vizag,Telugu,18:30,ThirdClass,50₹,82,6
+AndhraPradesh,VizagVisakhapatnam,SriVenkateswaraTheatresDolby712KACVizag,Telugu,22:00,FirstClass,140₹,167,27
+AndhraPradesh,VizagVisakhapatnam,SriVenkateswaraTheatresDolby712KACVizag,Telugu,22:00,SecondClass,70₹,57,5
+AndhraPradesh,VizagVisakhapatnam,SriVenkateswaraTheatresDolby712KACVizag,Telugu,22:00,ThirdClass,50₹,82,13
