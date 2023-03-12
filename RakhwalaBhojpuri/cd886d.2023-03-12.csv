@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,Gonda,KunwarNovaCinemazGonda,Bhojpuri,11:30,Diamond,200₹,38,0
+UttarPradesh,Gonda,KunwarNovaCinemazGonda,Bhojpuri,11:30,Gold,160₹,196,5
+UttarPradesh,Gonda,KunwarNovaCinemazGonda,Bhojpuri,19:30,Diamond,200₹,38,0
+UttarPradesh,Gonda,KunwarNovaCinemazGonda,Bhojpuri,19:30,Gold,160₹,196,0
