@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+,Lingasugur,EmpireCinemaLingasugur,Kannada,11:00,FirstClass,100₹,313,203
+,Lingasugur,EmpireCinemaLingasugur,Kannada,14:00,FirstClass,100₹,313,203
+,Lingasugur,EmpireCinemaLingasugur,Kannada,18:00,FirstClass,100₹,313,203
+,Lingasugur,EmpireCinemaLingasugur,Kannada,21:00,FirstClass,100₹,313,203
