@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,Balrampur,TituCinemaBalrampur,Hindi,13:00,Platinum,100₹,193,0
+UttarPradesh,Balrampur,TituCinemaBalrampur,Hindi,16:00,Platinum,100₹,193,0
+UttarPradesh,Balrampur,TituCinemaBalrampur,Hindi,19:00,Platinum,100₹,193,2
+UttarPradesh,Balrampur,TituCinemaBalrampur,Hindi,22:00,Platinum,100₹,193,1
