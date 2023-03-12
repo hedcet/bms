@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,PvrDirectorsCutRexWalkBengaluru,English,12:00,Platinum,600₹,32,21
+Karnataka,Bengaluru,PvrDirectorsCutRexWalkBengaluru,English,12:00,PlatinumSuperior,700₹,16,16
+Maharashtra,Mumbai,PvrCitiMallAndheriW,English,13:15,Classic,200₹,46,1
+Maharashtra,Mumbai,PvrCitiMallAndheriW,English,13:15,Prime,240₹,146,36
+Maharashtra,Mumbai,PvrCitiMallAndheriW,English,13:15,Recliner,410₹,24,17
+Haryana,Chandigarh,PvrElanteChandigarh,English,16:45,Classic,230₹,153,12
+Haryana,Chandigarh,PvrElanteChandigarh,English,16:45,Recliner,650₹,13,2
+UttarPradesh,NationalCapitalRegionNcr,PvrDirectorSCutGurugramAmbienceMall,English,17:25,Platinum,800₹,40,29
+UttarPradesh,NationalCapitalRegionNcr,PvrDirectorSCutGurugramAmbienceMall,English,17:25,PlatinumSuperior,800₹,16,8
+UttarPradesh,NationalCapitalRegionNcr,PvrSelectCityWalkGoldDelhi,English,17:30,Platinum,500₹,24,20
+UttarPradesh,NationalCapitalRegionNcr,PvrSelectCityWalkGoldDelhi,English,17:30,PlatinumSuperior,500₹,16,10
