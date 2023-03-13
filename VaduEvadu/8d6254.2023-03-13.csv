@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Bobbili,SaiGanapathiACDtsBobbili,Telugu,10:45,FirstClass,112₹,494,0
+AndhraPradesh,Bobbili,SaiGanapathiACDtsBobbili,Telugu,10:45,SecondClass,80₹,125,2
+AndhraPradesh,Kakinada,InoxSrmtMallKakinada,Telugu,12:25,Executive,112₹,146,17
+AndhraPradesh,Bobbili,SaiGanapathiACDtsBobbili,Telugu,14:30,FirstClass,112₹,494,10
+AndhraPradesh,Bobbili,SaiGanapathiACDtsBobbili,Telugu,14:30,SecondClass,80₹,125,5
+AndhraPradesh,Kakinada,InoxSrmtMallKakinada,Telugu,15:30,Executive,112₹,146,21
+AndhraPradesh,Palakollu,SrinivasaComplexAcDtsPalakol,Telugu,18:00,1stClass,0₹,66,35
+AndhraPradesh,Palakollu,SrinivasaComplexAcDtsPalakol,Telugu,18:00,2ndClass,0₹,31,30
+AndhraPradesh,Bobbili,SaiGanapathiACDtsBobbili,Telugu,18:30,FirstClass,112₹,494,2
+AndhraPradesh,Bobbili,SaiGanapathiACDtsBobbili,Telugu,18:30,SecondClass,80₹,125,0
+AndhraPradesh,Kakinada,InoxSrmtMallKakinada,Telugu,18:35,Executive,112₹,146,23
+AndhraPradesh,Palakollu,SrinivasaComplexAcDtsPalakol,Telugu,21:00,1stClass,0₹,66,35
+AndhraPradesh,Palakollu,SrinivasaComplexAcDtsPalakol,Telugu,21:00,2ndClass,0₹,31,30
+AndhraPradesh,Bobbili,SaiGanapathiACDtsBobbili,Telugu,21:30,FirstClass,112₹,494,0
+AndhraPradesh,Bobbili,SaiGanapathiACDtsBobbili,Telugu,21:30,SecondClass,80₹,125,0
+AndhraPradesh,Kakinada,InoxSrmtMallKakinada,Telugu,21:40,Executive,112₹,146,15
