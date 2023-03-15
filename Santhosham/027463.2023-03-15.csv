@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Kochi,PvrLuluKochi,Malayalam,10:50,Classic,89₹,39,2
+Kerala,Kochi,PvrLuluKochi,Malayalam,10:50,ClassicPlus,110₹,91,0
+Kerala,Kochi,PvrLuluKochi,Malayalam,10:50,Prime,125₹,68,25
+Kerala,Kochi,PvrLuluKochi,Malayalam,10:50,Recliner,240₹,10,0
+Kerala,Kottayam,UgmCinemas4KDolbyAtmosEttumanoor,Malayalam,18:00,Platinum,250₹,16,0
+Kerala,Kottayam,UgmCinemas4KDolbyAtmosEttumanoor,Malayalam,18:00,Gold,150₹,165,8
