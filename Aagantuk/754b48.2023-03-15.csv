@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Valsad,CineParkValsad,Gujarati,18:00,Recliner,200₹,18,0
+Gujarat,Valsad,CineParkValsad,Gujarati,18:00,Gold,110₹,200,48
+Gujarat,Valsad,CineParkValsad,Gujarati,18:00,Executive,110₹,120,0
+Gujarat,Valsad,CineParkValsad,Gujarati,18:00,Special,110₹,60,0
+Rajasthan,Navsari,RajhansCinemasNavsari,Gujarati,20:00,Platinum,190₹,59,11
+Rajasthan,Navsari,RajhansCinemasNavsari,Gujarati,20:00,Executive,170₹,96,16
+Rajasthan,Navsari,RajhansCinemasNavsari,Gujarati,20:00,Royal,150₹,96,50
+Rajasthan,Navsari,RajhansCinemasNavsari,Gujarati,20:00,Marvel,130₹,32,0
+Gujarat,Surat,RajhansMultiplexAdajanSurat,Gujarati,20:30,Business,180₹,94,41
