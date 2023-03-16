@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Haryana,Chandigarh,PvrCentraChandigarh,Garhwali,12:40,Classic,138₹,84,4
+Haryana,Chandigarh,PvrCentraChandigarh,Garhwali,12:40,Prime,150₹,138,25
+UttarPradesh,NationalCapitalRegionNcr,PvrVegasDwarka,Garhwali,13:35,Classic,200₹,89,21
