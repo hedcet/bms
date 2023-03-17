@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+,Jhunjhunu,DhishoomCinemasJhunjhunu,Hindi,15:40,Gold,99₹,27,2
+,Jhunjhunu,DhishoomCinemasJhunjhunu,Hindi,15:40,Platinum,99₹,66,2
+,Jhunjhunu,DhishoomCinemasJhunjhunu,Hindi,15:40,Vip,400₹,17,0
+Maharashtra,Mumbai,MaisonPvrTheLoftLuxeJioWorldDriveBkc,Hindi,19:15,Luxe,"1,000₹",24,0
