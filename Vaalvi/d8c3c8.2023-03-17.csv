@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Maharashtra,Mumbai,CinepolisNexusSeawoodsNaviMumbai,Marathi,15:15,Normal,99₹,30,0
+Maharashtra,Mumbai,CinepolisNexusSeawoodsNaviMumbai,Marathi,15:15,Executive,99₹,86,2
+Maharashtra,Mumbai,CinepolisNexusSeawoodsNaviMumbai,Marathi,15:15,Premium,99₹,76,10
+Maharashtra,Mumbai,CinepolisNexusSeawoodsNaviMumbai,Marathi,15:15,Vip,250₹,14,4
