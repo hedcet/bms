@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Ahmedabad,RajhansCinemasVastral,Gujarati,19:30,Recliner,300₹,17,6
+Gujarat,Ahmedabad,RajhansCinemasVastral,Gujarati,19:30,Executive,150₹,103,75
+Gujarat,Ahmedabad,RajhansCinemasVastral,Gujarati,19:30,Royal,150₹,28,0
+Gujarat,Ahmedabad,RajhansCinemasVastral,Gujarati,19:30,Marvel,150₹,24,0
+Gujarat,Ahmedabad,CityGoldSatelliteAhmedabad,Gujarati,21:45,Executive,170₹,124,68
