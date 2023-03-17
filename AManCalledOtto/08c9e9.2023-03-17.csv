@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Haryana,Chandigarh,PvrElanteChandigarh,English,16:00,Classic,230₹,153,25
+Haryana,Chandigarh,PvrElanteChandigarh,English,16:00,Recliner,650₹,13,0
+UttarPradesh,NationalCapitalRegionNcr,GurugramPvrDirectorSCutAmbienceMall,English,16:10,Platinum,700₹,40,6
+UttarPradesh,NationalCapitalRegionNcr,GurugramPvrDirectorSCutAmbienceMall,English,16:10,PlatinumSuperior,900₹,17,0
+UttarPradesh,NationalCapitalRegionNcr,PvrSelectCityWalkGoldDelhi,English,18:35,Platinum,600₹,24,5
+UttarPradesh,NationalCapitalRegionNcr,PvrSelectCityWalkGoldDelhi,English,18:35,PlatinumSuperior,600₹,16,6
