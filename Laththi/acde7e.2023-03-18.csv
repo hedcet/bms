@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Maharashtra,Pusad,BarkhaCinemaPusad,Hindi,12:00,Platinum,120₹,32,0
+Maharashtra,Pusad,BarkhaCinemaPusad,Hindi,12:00,Gold,100₹,60,0
+Maharashtra,Pusad,BarkhaCinemaPusad,Hindi,12:00,LadiesSpecial,50₹,15,0
+Maharashtra,Pusad,BarkhaCinemaPusad,Hindi,12:00,Silver,50₹,80,0
+Maharashtra,Pusad,BarkhaCinemaPusad,Hindi,15:00,Platinum,120₹,32,0
+Maharashtra,Pusad,BarkhaCinemaPusad,Hindi,15:00,Gold,100₹,60,0
+Maharashtra,Pusad,BarkhaCinemaPusad,Hindi,15:00,LadiesSpecial,50₹,15,0
+Maharashtra,Pusad,BarkhaCinemaPusad,Hindi,15:00,Silver,50₹,80,0
+Maharashtra,Pusad,BarkhaCinemaPusad,Hindi,18:15,Platinum,120₹,32,0
+Maharashtra,Pusad,BarkhaCinemaPusad,Hindi,18:15,Gold,100₹,60,0
+Maharashtra,Pusad,BarkhaCinemaPusad,Hindi,18:15,LadiesSpecial,50₹,15,0
+Maharashtra,Pusad,BarkhaCinemaPusad,Hindi,18:15,Silver,50₹,80,0
+Maharashtra,Pusad,BarkhaCinemaPusad,Hindi,21:15,Platinum,120₹,32,1
+Maharashtra,Pusad,BarkhaCinemaPusad,Hindi,21:15,Gold,100₹,60,0
+Maharashtra,Pusad,BarkhaCinemaPusad,Hindi,21:15,LadiesSpecial,50₹,15,0
+Maharashtra,Pusad,BarkhaCinemaPusad,Hindi,21:15,Silver,50₹,80,0
