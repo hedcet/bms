@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Maharashtra,Mumbai,InoxMegaplexInorbitMallMalad,Hindi,11:35,Insignia,300₹,38,19
+Maharashtra,Mumbai,InoxRaghuleelaMallVashi,Hindi,12:25,Executive,112₹,22,0
+Maharashtra,Mumbai,InoxRaghuleelaMallVashi,Hindi,12:25,Premier,112₹,89,27
+Maharashtra,Mumbai,InoxRaghuleelaMallVashi,Hindi,12:25,Silver,112₹,32,27
+UttarPradesh,NationalCapitalRegionNcr,PvrLogixNoida,Hindi,16:40,Classic,112₹,89,70
