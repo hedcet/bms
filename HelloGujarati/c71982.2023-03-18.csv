@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Ahmedabad,RajhansCinemasVastral,Gujarati,19:30,Recliner,300₹,17,6
+Gujarat,Ahmedabad,RajhansCinemasVastral,Gujarati,19:30,Executive,150₹,103,81
+Gujarat,Ahmedabad,RajhansCinemasVastral,Gujarati,19:30,Royal,150₹,28,0
+Gujarat,Ahmedabad,RajhansCinemasVastral,Gujarati,19:30,Marvel,150₹,24,0
+Gujarat,Vadodara,BansalMovieplexGotriVasnaRoadVadodara,Gujarati,20:00,Sofa,200₹,14,0
+Gujarat,Vadodara,BansalMovieplexGotriVasnaRoadVadodara,Gujarati,20:00,Platinium,100₹,127,83
+Gujarat,Vadodara,BansalMovieplexGotriVasnaRoadVadodara,Gujarati,20:00,Gold,100₹,17,0
+Gujarat,Vadodara,BansalMovieplexGotriVasnaRoadVadodara,Gujarati,20:00,Silver,100₹,3,0
+Gujarat,Surat,RajhansCinemasVesuSurat,Gujarati,20:00,Recliner,250₹,14,7
+Gujarat,Surat,RajhansCinemasVesuSurat,Gujarati,20:00,Executive,150₹,85,75
+Gujarat,Surat,RajhansCinemasVesuSurat,Gujarati,20:00,Royal,150₹,42,0
+Gujarat,Surat,RajhansCinemasVesuSurat,Gujarati,20:00,Marvel,150₹,28,0
+Gujarat,Ahmedabad,19CinemaSouthBopalAhmedabad,Gujarati,21:30,Platinum,150₹,16,0
+Gujarat,Ahmedabad,19CinemaSouthBopalAhmedabad,Gujarati,21:30,Gold,110₹,32,30
+Gujarat,Ahmedabad,19CinemaSouthBopalAhmedabad,Gujarati,21:30,Silver,110₹,16,0
+Gujarat,Ahmedabad,AbMiniplexShivranjiniCrossRoadSatellite,Gujarati,22:00,Executive,110₹,54,34
