@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+,Devadurga,BharathChitramandiraDevadurga,Telugu,14:00,FirstClass,101₹,371,261
+,Devadurga,BharathChitramandiraDevadurga,Telugu,18:00,FirstClass,101₹,371,261
+,Devadurga,BharathChitramandiraDevadurga,Telugu,21:00,FirstClass,101₹,371,261
