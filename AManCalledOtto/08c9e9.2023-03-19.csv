@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Haryana,Chandigarh,PvrElanteChandigarh,English,16:00,Classic,230₹,153,15
+Haryana,Chandigarh,PvrElanteChandigarh,English,16:00,Recliner,650₹,13,8
+Karnataka,Bengaluru,PvrDirectorsCutRexWalkBengaluru,English,16:00,Platinum,"1,000₹",32,24
+Karnataka,Bengaluru,PvrDirectorsCutRexWalkBengaluru,English,16:00,PlatinumSuperior,"1,000₹",16,16
+UttarPradesh,NationalCapitalRegionNcr,PvrDirectorSCutGurugramAmbienceMall,English,16:10,Platinum,700₹,40,40
+UttarPradesh,NationalCapitalRegionNcr,PvrDirectorSCutGurugramAmbienceMall,English,16:10,PlatinumSuperior,900₹,17,17
