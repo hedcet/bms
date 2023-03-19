@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,NationalCapitalRegionNcr,PvrLogixNoida,Hindi,10:35,Classic,112₹,89,21
+Maharashtra,Mumbai,InoxMegaplexInorbitMallMalad,Hindi,11:35,Insignia,300₹,38,16
+Maharashtra,Mumbai,InoxRCityGhatkopar,Hindi,11:50,RoyalRecliner,200₹,14,12
+Maharashtra,Mumbai,InoxRCityGhatkopar,Hindi,11:50,Club,112₹,65,13
+Maharashtra,Mumbai,InoxRCityGhatkopar,Hindi,11:50,Executive,112₹,35,0
+Maharashtra,Mumbai,InoxRCityGhatkopar,Hindi,11:50,Royal,112₹,48,37
+Maharashtra,Mumbai,InoxRaghuleelaMallVashi,Hindi,12:25,Executive,112₹,22,0
+Maharashtra,Mumbai,InoxRaghuleelaMallVashi,Hindi,12:25,Premier,112₹,89,20
+Maharashtra,Mumbai,InoxRaghuleelaMallVashi,Hindi,12:25,Silver,112₹,32,20
+UttarPradesh,NationalCapitalRegionNcr,PvrLogixNoida,Hindi,16:40,Classic,112₹,89,74
