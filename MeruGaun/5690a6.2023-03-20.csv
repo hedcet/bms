@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,PvrPhoenixMarketcityMallWhitefieldRoad,Garhwali,13:10,Classic,170₹,136,9
+Karnataka,Bengaluru,PvrPhoenixMarketcityMallWhitefieldRoad,Garhwali,13:10,Recliner,250₹,12,2
+UttarPradesh,NationalCapitalRegionNcr,PvrVegasDwarka,Garhwali,13:15,Classic,150₹,120,24
+UttarPradesh,NationalCapitalRegionNcr,PvrVegasDwarka,Garhwali,13:15,Prime,150₹,15,7
+Telangana,Hyderabad,PvrForumSujanaMallKukatpallyHyderabad,Garhwali,13:55,Classic,150₹,135,16
+Telangana,Hyderabad,PvrForumSujanaMallKukatpallyHyderabad,Garhwali,13:55,Recliner,250₹,9,5
+Maharashtra,Mumbai,CinepolisVivianaMallThane,Garhwali,14:40,Normal,140₹,27,0
+Maharashtra,Mumbai,CinepolisVivianaMallThane,Garhwali,14:40,Executive,140₹,104,24
+Maharashtra,Mumbai,CinepolisVivianaMallThane,Garhwali,14:40,Premium,140₹,46,21
