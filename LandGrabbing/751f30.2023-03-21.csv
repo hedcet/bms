@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Godhra,CineSquareCinemasRajaiSquareGodhra,Gujarati,18:45,Luxury,350₹,16,0
+Gujarat,Godhra,CineSquareCinemasRajaiSquareGodhra,Gujarati,18:45,Royale,200₹,22,10
+Gujarat,Godhra,CineSquareCinemasRajaiSquareGodhra,Gujarati,18:45,Premium,150₹,110,22
+Gujarat,Godhra,CineSquareCinemasRajaiSquareGodhra,Gujarati,18:45,Gold,120₹,104,26
