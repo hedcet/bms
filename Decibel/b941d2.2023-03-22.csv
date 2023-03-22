@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Maharashtra,Pune,CinepolisSeasonsMallPune,Korean,11:25,Normal,130₹,17,0
+Maharashtra,Pune,CinepolisSeasonsMallPune,Korean,11:25,Executive,130₹,62,0
+Maharashtra,Pune,CinepolisSeasonsMallPune,Korean,11:25,Premium,130₹,22,0
+UttarPradesh,NationalCapitalRegionNcr,GurugramPvrDirectorSCutAmbienceMall,Korean,14:25,Platinum,600₹,45,2
+UttarPradesh,NationalCapitalRegionNcr,GurugramPvrDirectorSCutAmbienceMall,Korean,14:25,PlatinumSuperior,600₹,16,0
+Karnataka,Bengaluru,CinepolisLuluMallBengaluru,Korean,16:10,Normal,220₹,29,2
+Karnataka,Bengaluru,CinepolisLuluMallBengaluru,Korean,16:10,Executive,240₹,105,4
+Karnataka,Bengaluru,CinepolisLuluMallBengaluru,Korean,16:10,Premium,270₹,50,0
+Maharashtra,Mumbai,CinepolisNexusSeawoodsNaviMumbai,Korean,16:25,Normal,180₹,30,0
+Maharashtra,Mumbai,CinepolisNexusSeawoodsNaviMumbai,Korean,16:25,Executive,200₹,86,2
+Maharashtra,Mumbai,CinepolisNexusSeawoodsNaviMumbai,Korean,16:25,Premium,220₹,76,1
+Maharashtra,Mumbai,CinepolisNexusSeawoodsNaviMumbai,Korean,16:25,Vip,420₹,14,1
+Karnataka,Bengaluru,CinepolisForumShantiniketanBengaluru,Korean,16:30,Normal,150₹,24,1
+Karnataka,Bengaluru,CinepolisForumShantiniketanBengaluru,Korean,16:30,Executive,170₹,24,0
+Karnataka,Bengaluru,CinepolisForumShantiniketanBengaluru,Korean,16:30,Premium,190₹,80,7
+Karnataka,Bengaluru,CinepolisForumShantiniketanBengaluru,Korean,16:30,Vip,400₹,10,2
