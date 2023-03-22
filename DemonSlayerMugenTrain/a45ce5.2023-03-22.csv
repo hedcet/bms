@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Telangana,Hyderabad,InoxGvkOneBanjaraHills,English,11:45,Royal,300₹,11,7
+Telangana,Hyderabad,InoxGvkOneBanjaraHills,English,11:45,Executive,200₹,140,23
+Telangana,Hyderabad,InoxGvkOneBanjaraHills,English,17:20,Royal,300₹,16,16
+Telangana,Hyderabad,InoxGvkOneBanjaraHills,English,17:20,Executive,200₹,172,48
