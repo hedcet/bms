@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,CinepolisNexusShantiniketanBengaluru,English,13:20,Normal,240₹,24,1
+Karnataka,Bengaluru,CinepolisNexusShantiniketanBengaluru,English,13:20,Executive,260₹,56,1
+Karnataka,Bengaluru,CinepolisNexusShantiniketanBengaluru,English,13:20,Premium,280₹,48,2
+Karnataka,Bengaluru,CinepolisNexusShantiniketanBengaluru,English,13:20,Vip,500₹,10,0
+WestBengal,Kolkata,InoxSouthCityKolkata,English,19:00,Premier,250₹,34,0
+WestBengal,Kolkata,InoxSouthCityKolkata,English,19:00,Silver,250₹,166,20
+TamilNadu,Chennai,InoxLuxePhoenixMarketCityVelachery,English,19:30,Elite,211₹,126,7
+TamilNadu,Chennai,InoxLuxePhoenixMarketCityVelachery,English,19:30,Budget,66₹,14,0
