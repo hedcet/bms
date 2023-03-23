@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,MangaluruMangalore,BharathCinemasMangalore,Tulu,15:30,Gold,110₹,47,8
+Karnataka,MangaluruMangalore,BharathCinemasMangalore,Tulu,15:30,Silver,110₹,33,0
+Karnataka,MangaluruMangalore,BharathCinemasMangalore,Tulu,15:30,Special,110₹,11,0
+Karnataka,PutturKarnataka,BharathCinemasPuttur,Tulu,19:45,Gold,150₹,93,6
+Karnataka,PutturKarnataka,BharathCinemasPuttur,Tulu,19:45,Silver,112₹,44,0
+Karnataka,PutturKarnataka,BharathCinemasPuttur,Tulu,19:45,Special,112₹,11,0
