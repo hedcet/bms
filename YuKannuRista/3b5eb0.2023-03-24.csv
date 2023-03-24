@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Uttaranchal,Rishikesh,RamaPalaceRishikesh,Garhwali,12:30,FirstClass,60₹,168,1
+Uttaranchal,Rishikesh,RamaPalaceRishikesh,Garhwali,12:30,Silver,90₹,232,35
+Uttaranchal,Rishikesh,RamaPalaceRishikesh,Garhwali,12:30,Gold,140₹,182,182
+Uttaranchal,Rishikesh,RamaPalaceRishikesh,Garhwali,12:30,Platinum,220₹,24,16
