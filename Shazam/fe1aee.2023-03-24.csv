@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,NationalCapitalRegionNcr,PvrSangamDelhi,English,10:30,Classic,200₹,40,0
+UttarPradesh,NationalCapitalRegionNcr,PvrSangamDelhi,English,10:30,Prime,230₹,39,15
+UttarPradesh,NationalCapitalRegionNcr,PvrSangamDelhi,English,10:30,PrimePlus,230₹,13,0
