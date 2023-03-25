@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,GoverdhanTheatreYeshwantpur,Kannada,16:15,BalconyClass,100₹,307,3
+Karnataka,MysuruMysore,SangamDigital2KTheatreDolby71Mysuru,Kannada,16:30,Balcony,150₹,261,13
+Karnataka,MysuruMysore,SangamDigital2KTheatreDolby71Mysuru,Kannada,16:30,FirstClass,100₹,662,13
+Karnataka,MysuruMysore,SangamDigital2KTheatreDolby71Mysuru,Kannada,19:30,Balcony,150₹,261,5
+Karnataka,MysuruMysore,SangamDigital2KTheatreDolby71Mysuru,Kannada,19:30,FirstClass,100₹,662,2
