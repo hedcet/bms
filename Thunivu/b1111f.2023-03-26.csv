@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Salem,RaajamCineplex4KDolbyAtmosKaruppurSalem,Tamil,11:30,Gold,120₹,162,7
+TamilNadu,Salem,RaajamCineplex4KDolbyAtmosKaruppurSalem,Tamil,14:30,Gold,120₹,162,14
+TamilNadu,Salem,RaajamCineplex4KDolbyAtmosKaruppurSalem,Tamil,18:40,Gold,120₹,162,23
+TamilNadu,Salem,RaajamCineplex4KDolbyAtmosKaruppurSalem,Tamil,22:10,Gold,120₹,162,0
