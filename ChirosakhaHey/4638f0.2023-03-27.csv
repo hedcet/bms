@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Krishnanagar,SvfCinemasKrishnanagar,Bengali,13:00,Gold,100₹,24,0
+WestBengal,Krishnanagar,SvfCinemasKrishnanagar,Bengali,13:00,Platinum,100₹,258,0
+WestBengal,Ranaghat,SurendraCinemaRanaghat,Bengali,13:30,Balocny,50₹,315,0
+WestBengal,Kolkata,InoxSouthCityKolkata,Bengali,14:15,Premier,112₹,34,0
+WestBengal,Kolkata,InoxSouthCityKolkata,Bengali,14:15,Silver,112₹,166,10
