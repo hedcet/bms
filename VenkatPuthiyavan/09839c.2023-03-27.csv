@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Chennai,RohiniSilverScreensKoyambedu,Tamil,13:00,GoldStar,140₹,171,39
+TamilNadu,Thoothukudi,SathyaTheatreTuticorin,Tamil,14:30,FirstClass,50₹,111,1
+TamilNadu,Thoothukudi,SathyaTheatreTuticorin,Tamil,18:30,FirstClass,50₹,111,1
+TamilNadu,Thoothukudi,SathyaTheatreTuticorin,Tamil,22:00,FirstClass,50₹,111,1
