@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Vadodara,BansalMovieplexGotriVasnaRoadVadodara,Gujarati,20:00,Sofa,150₹,14,0
+Gujarat,Vadodara,BansalMovieplexGotriVasnaRoadVadodara,Gujarati,20:00,Platinium,90₹,124,3
+Gujarat,Vadodara,BansalMovieplexGotriVasnaRoadVadodara,Gujarati,20:00,Gold,90₹,51,0
+Gujarat,Vadodara,BansalMovieplexGotriVasnaRoadVadodara,Gujarati,20:00,Silver,90₹,3,0
+Gujarat,Surat,RajhansMultiplexAdajanSurat,Gujarati,20:00,Business,150₹,94,1
+Gujarat,Ahmedabad,19CinemaSouthBopalAhmedabad,Gujarati,21:15,Platinum,110₹,16,16
+Gujarat,Ahmedabad,19CinemaSouthBopalAhmedabad,Gujarati,21:15,Gold,110₹,32,14
+Gujarat,Ahmedabad,19CinemaSouthBopalAhmedabad,Gujarati,21:15,Silver,110₹,16,0
+Gujarat,Vadodara,CinemarcAkotaVadodara,Gujarati,22:30,Silver,100₹,87,50
+Gujarat,Vadodara,CinemarcAkotaVadodara,Gujarati,22:30,Premier,100₹,12,0
+Gujarat,Vadodara,CinemarcAkotaVadodara,Gujarati,22:30,Sofa,100₹,25,0
+Gujarat,Ahmedabad,RajhansCinemasSatadhar,Gujarati,22:30,Executive,110₹,71,6
+Gujarat,Ahmedabad,RajhansCinemasSatadhar,Gujarati,22:30,Marvel,110₹,26,0
+Gujarat,Ahmedabad,RajhansCinemasSatadhar,Gujarati,22:30,Box,110₹,5,5
