@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,Pushpanjali2KDigitalACTheaterBNPura,Tamil,11:30,Balcony,150₹,378,0
+Karnataka,Bengaluru,Pushpanjali2KDigitalACTheaterBNPura,Tamil,11:30,FirstClass,100₹,570,0
+TamilNadu,Chennai,RohiniSilverScreensKoyambedu,Tamil,13:00,GoldStar,140₹,171,41
+TamilNadu,Thoothukudi,SathyaTheatreTuticorin,Tamil,14:30,FirstClass,50₹,111,1
+TamilNadu,Thoothukudi,SathyaTheatreTuticorin,Tamil,18:30,FirstClass,50₹,111,1
+TamilNadu,Thoothukudi,SathyaTheatreTuticorin,Tamil,22:00,FirstClass,50₹,111,1
