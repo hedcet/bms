@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,NationalCapitalRegionNcr,PvrSelectCityWalkDelhi,English,13:25,ClassicNormal,220₹,120,0
+UttarPradesh,NationalCapitalRegionNcr,PvrSelectCityWalkDelhi,English,13:25,ClassicSuperior,270₹,34,0
+UttarPradesh,NationalCapitalRegionNcr,PvrSelectCityWalkDelhi,English,13:25,ReclinersNormal,500₹,10,2
