@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Kalladikode,BalaCinemasDolbyAtmosLaserTrippleBeam3D,Malayalam,18:15,Platinum,160₹,17,0
+Kerala,Kalladikode,BalaCinemasDolbyAtmosLaserTrippleBeam3D,Malayalam,18:15,Gold,110₹,209,0
+Kerala,Kalladikode,BalaCinemasDolbyAtmosLaserTrippleBeam3D,Malayalam,21:15,Platinum,160₹,17,2
+Kerala,Kalladikode,BalaCinemasDolbyAtmosLaserTrippleBeam3D,Malayalam,21:15,Gold,110₹,209,0
