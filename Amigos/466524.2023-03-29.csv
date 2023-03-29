@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Amaravathi,SriSrinivasaTheaterAmaravathi,Telugu,11:00,FirstClass,100₹,288,112
+AndhraPradesh,Amaravathi,SriSrinivasaTheaterAmaravathi,Telugu,11:00,SecondClass,100₹,66,0
+AndhraPradesh,Amaravathi,SriSrinivasaTheaterAmaravathi,Telugu,14:30,FirstClass,100₹,288,112
+AndhraPradesh,Amaravathi,SriSrinivasaTheaterAmaravathi,Telugu,14:30,SecondClass,100₹,66,0
+AndhraPradesh,Amaravathi,SriSrinivasaTheaterAmaravathi,Telugu,18:30,FirstClass,100₹,288,112
+AndhraPradesh,Amaravathi,SriSrinivasaTheaterAmaravathi,Telugu,18:30,SecondClass,100₹,66,0
+AndhraPradesh,Amaravathi,SriSrinivasaTheaterAmaravathi,Telugu,21:30,FirstClass,100₹,288,117
+AndhraPradesh,Amaravathi,SriSrinivasaTheaterAmaravathi,Telugu,21:30,SecondClass,100₹,66,0
