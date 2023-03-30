@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Sivakasi,SriPalaniandavarTheatreSivakasi,Tamil,10:30,FirstClass,120₹,150,42
+TamilNadu,Sivakasi,SriPalaniandavarTheatreSivakasi,Tamil,10:30,SecondClass,120₹,455,0
+TamilNadu,Madurai,SriMuneeswararCinemasAC4K3DAlanganallur,Tamil,11:00,Box,150₹,44,0
+TamilNadu,Madurai,SriMuneeswararCinemasAC4K3DAlanganallur,Tamil,11:00,Balcony,150₹,53,0
+TamilNadu,Madurai,SriMuneeswararCinemasAC4K3DAlanganallur,Tamil,11:00,FirstClass,100₹,302,0
+TamilNadu,Madurai,SriMuneeswararCinemasAC4K3DAlanganallur,Tamil,14:30,Box,150₹,44,0
+TamilNadu,Madurai,SriMuneeswararCinemasAC4K3DAlanganallur,Tamil,14:30,Balcony,150₹,53,0
+TamilNadu,Madurai,SriMuneeswararCinemasAC4K3DAlanganallur,Tamil,14:30,FirstClass,100₹,302,0
+TamilNadu,Sivakasi,SriPalaniandavarTheatreSivakasi,Tamil,14:30,FirstClass,120₹,150,32
+TamilNadu,Sivakasi,SriPalaniandavarTheatreSivakasi,Tamil,14:30,SecondClass,120₹,455,0
+TamilNadu,Madurai,SriMuneeswararCinemasAC4K3DAlanganallur,Tamil,18:30,Box,150₹,44,0
+TamilNadu,Madurai,SriMuneeswararCinemasAC4K3DAlanganallur,Tamil,18:30,Balcony,150₹,53,0
+TamilNadu,Madurai,SriMuneeswararCinemasAC4K3DAlanganallur,Tamil,18:30,FirstClass,100₹,302,0
+TamilNadu,Madurai,SriMuneeswararCinemasAC4K3DAlanganallur,Tamil,22:00,Box,150₹,44,0
+TamilNadu,Madurai,SriMuneeswararCinemasAC4K3DAlanganallur,Tamil,22:00,Balcony,150₹,53,0
+TamilNadu,Madurai,SriMuneeswararCinemasAC4K3DAlanganallur,Tamil,22:00,FirstClass,100₹,302,0
