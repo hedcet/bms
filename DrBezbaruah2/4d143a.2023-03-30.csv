@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Assam,Guwahati,MatrixCinemasMatrixMallBeltolaGuwahati,Assamese,15:30,Gold,400₹,42,0
+Assam,Guwahati,MatrixCinemasMatrixMallBeltolaGuwahati,Assamese,15:30,Club,200₹,52,7
+Assam,Guwahati,MatrixCinemasMatrixMallBeltolaGuwahati,Assamese,15:30,Executive,150₹,13,0
+Assam,Bihpuria,PreranaCinemaBihpuria,Assamese,17:00,Platinum,150₹,64,0
+Assam,Bihpuria,PreranaCinemaBihpuria,Assamese,17:00,Gold,120₹,58,0
+Assam,Bihpuria,PreranaCinemaBihpuria,Assamese,17:00,Silver,80₹,40,0
+Assam,Guwahati,CinepolisCentralMallGuwahati,Assamese,18:45,Normal,140₹,24,4
+Assam,Guwahati,CinepolisCentralMallGuwahati,Assamese,18:45,Executive,150₹,116,18
+Assam,Guwahati,CinepolisCentralMallGuwahati,Assamese,18:45,Premium,160₹,56,33
+Assam,Guwahati,CinepolisCentralMallGuwahati,Assamese,18:45,Vip,400₹,4,4
