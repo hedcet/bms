@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Chickmagaluru,SreelekhaTheaterChickmagaluru,English,18:00,StarClass,120₹,104,104
+Karnataka,Chickmagaluru,SreelekhaTheaterChickmagaluru,English,18:00,ClassicBalcony,100₹,194,194
+Karnataka,Chickmagaluru,SreelekhaTheaterChickmagaluru,English,18:00,FirstClass,60₹,210,210
+Karnataka,Chickmagaluru,SreelekhaTheaterChickmagaluru,English,21:00,StarClass,120₹,104,104
+Karnataka,Chickmagaluru,SreelekhaTheaterChickmagaluru,English,21:00,ClassicBalcony,100₹,194,194
+Karnataka,Chickmagaluru,SreelekhaTheaterChickmagaluru,English,21:00,FirstClass,60₹,210,210
