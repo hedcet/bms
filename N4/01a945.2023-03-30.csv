@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Madurai,KannanDeviCinemasTirunagarMadurai,Tamil,10:30,Gold,120₹,172,12
+TamilNadu,Chennai,WoodlandsComplexChennai,Tamil,12:30,FirstClass,99₹,408,34
+TamilNadu,Chennai,WoodlandsComplexChennai,Tamil,12:30,SecondClass,60₹,51,0
+TamilNadu,Chennai,VenkateshwaraCinemasDolbyAtmosKundrathur,Tamil,14:45,Elite,140₹,67,67
+TamilNadu,Chennai,VenkateshwaraCinemasDolbyAtmosKundrathur,Tamil,14:45,Premium,120₹,291,291
+TamilNadu,Chennai,WoodlandsComplexChennai,Tamil,15:30,FirstClass,99₹,408,34
+TamilNadu,Chennai,WoodlandsComplexChennai,Tamil,15:30,SecondClass,60₹,51,0
+TamilNadu,Chennai,WoodlandsComplexChennai,Tamil,19:00,FirstClass,99₹,408,34
+TamilNadu,Chennai,WoodlandsComplexChennai,Tamil,19:00,SecondClass,60₹,51,0
+TamilNadu,Chennai,WoodlandsComplexChennai,Tamil,22:00,FirstClass,99₹,408,34
+TamilNadu,Chennai,WoodlandsComplexChennai,Tamil,22:00,SecondClass,60₹,51,0
