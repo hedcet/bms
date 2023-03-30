@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Telangana,Karimnagar,SriThirumalaTheatreKarimnagar,Telugu,11:00,Balcony,110₹,440,440
+Telangana,Karimnagar,SriThirumalaTheatreKarimnagar,Telugu,11:00,DressCircle,80₹,120,120
+Telangana,Karimnagar,SriThirumalaTheatreKarimnagar,Telugu,14:00,Balcony,110₹,440,440
+Telangana,Karimnagar,SriThirumalaTheatreKarimnagar,Telugu,14:00,DressCircle,80₹,120,120
+Telangana,Karimnagar,SriThirumalaTheatreKarimnagar,Telugu,18:00,Balcony,110₹,440,440
+Telangana,Karimnagar,SriThirumalaTheatreKarimnagar,Telugu,18:00,DressCircle,80₹,120,120
+Telangana,Karimnagar,SriThirumalaTheatreKarimnagar,Telugu,21:00,Balcony,110₹,440,440
+Telangana,Karimnagar,SriThirumalaTheatreKarimnagar,Telugu,21:00,DressCircle,80₹,120,120
