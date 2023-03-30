@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Chendrapinni,SreeMurukaMoviesACChendrapinni,Malayalam,12:00,GoldClass,120₹,258,0
+Kerala,Chendrapinni,SreeMurukaMoviesACChendrapinni,Malayalam,15:00,GoldClass,120₹,258,0
+Kerala,Kochi,PadmaCinemaKochi,Malayalam,15:00,Platinum,150₹,178,22
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,16:30,RoyalRecliner,290₹,10,0
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,16:30,Club,170₹,63,1
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,16:30,Royal,170₹,28,14
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,16:30,Executive,130₹,22,0
+Kerala,Kochi,PadmaCinemaKochi,Malayalam,18:00,Platinum,150₹,178,16
+Kerala,Chendrapinni,SreeMurukaMoviesACChendrapinni,Malayalam,18:30,GoldClass,120₹,258,0
+Kerala,Chendrapinni,SreeMurukaMoviesACChendrapinni,Malayalam,21:30,GoldClass,120₹,258,0
