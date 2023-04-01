@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,Lucknow,PvrSuperplexLuluLucknow,Garhwali,13:00,Classic,150₹,36,0
+UttarPradesh,Lucknow,PvrSuperplexLuluLucknow,Garhwali,13:00,ClassicPlus,150₹,54,0
+UttarPradesh,Lucknow,PvrSuperplexLuluLucknow,Garhwali,13:00,Prime,150₹,99,23
+UttarPradesh,Lucknow,PvrSuperplexLuluLucknow,Garhwali,13:00,Recliner,249₹,16,0
