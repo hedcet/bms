@@ -1,0 +1,8 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Maharashtra,Latur,PvrLatur,Marathi,16:00,Classic,130₹,42,8
+Maharashtra,Latur,PvrLatur,Marathi,16:00,ClassicPlus,150₹,183,16
+Maharashtra,Latur,PvrLatur,Marathi,16:00,Prime,160₹,102,38
+Maharashtra,Nanded,PvrTreasureBazaarMallNanded,Marathi,16:20,Classic,110₹,70,4
+Maharashtra,Nanded,PvrTreasureBazaarMallNanded,Marathi,16:20,Prime,130₹,100,2
+Maharashtra,Nanded,PvrTreasureBazaarMallNanded,Marathi,16:20,PrimePlus,150₹,81,15
+Maharashtra,Mumbai,MovietimeTheHubGoregaon,Marathi,19:45,Gold,130₹,63,34
