@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Ravulapalem,PadmasriPicturePalaceRavulapalem,Telugu,11:10,FirstClass,100₹,251,160
+AndhraPradesh,Ravulapalem,PadmasriPicturePalaceRavulapalem,Telugu,11:10,1stClass,100₹,118,108
+AndhraPradesh,Ravulapalem,PadmasriPicturePalaceRavulapalem,Telugu,11:10,ThirdClass,0₹,68,58
+AndhraPradesh,Ravulapalem,PadmasriPicturePalaceRavulapalem,Telugu,14:15,FirstClass,100₹,251,160
+AndhraPradesh,Ravulapalem,PadmasriPicturePalaceRavulapalem,Telugu,14:15,1stClass,100₹,118,108
+AndhraPradesh,Ravulapalem,PadmasriPicturePalaceRavulapalem,Telugu,14:15,ThirdClass,0₹,68,58
+AndhraPradesh,Ravulapalem,PadmasriPicturePalaceRavulapalem,Telugu,18:10,FirstClass,100₹,251,160
+AndhraPradesh,Ravulapalem,PadmasriPicturePalaceRavulapalem,Telugu,18:10,1stClass,100₹,118,108
+AndhraPradesh,Ravulapalem,PadmasriPicturePalaceRavulapalem,Telugu,18:10,ThirdClass,0₹,68,58
+AndhraPradesh,Ravulapalem,PadmasriPicturePalaceRavulapalem,Telugu,21:10,FirstClass,100₹,251,160
+AndhraPradesh,Ravulapalem,PadmasriPicturePalaceRavulapalem,Telugu,21:10,1stClass,100₹,118,108
+AndhraPradesh,Ravulapalem,PadmasriPicturePalaceRavulapalem,Telugu,21:10,ThirdClass,0₹,68,58
