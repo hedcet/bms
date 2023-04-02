@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Haryana,NationalCapitalRegionNcr,InoxWorldMarkGurugram,Hindi,12:50,RoyalRecliner,560₹,15,5
+Haryana,NationalCapitalRegionNcr,InoxWorldMarkGurugram,Hindi,12:50,Royal,410₹,100,15
+Haryana,NationalCapitalRegionNcr,InoxWorldMarkGurugram,Hindi,12:50,Club,390₹,80,0
+Haryana,NationalCapitalRegionNcr,InoxWorldMarkGurugram,Hindi,12:50,Executive,330₹,32,0
