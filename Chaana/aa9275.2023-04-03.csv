@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Trivandrum,CarnivalMallOfTravancoreTrivandrum,Malayalam,12:30,PremiumOffline,250₹,50,8
+Kerala,Trivandrum,CarnivalMallOfTravancoreTrivandrum,Malayalam,12:30,ExecutiveOffline,160₹,102,7
+Kerala,Trivandrum,CarnivalMallOfTravancoreTrivandrum,Malayalam,12:30,NormalOffline,100₹,17,3
