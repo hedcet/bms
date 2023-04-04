@@ -1,0 +1,16 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Maharashtra,Shirur,DigigoldNovaCinemazShirur,Marathi,12:00,Gold,150₹,82,0
+Maharashtra,Shirur,DigigoldNovaCinemazShirur,Marathi,12:00,Silver,130₹,64,0
+Maharashtra,Beed,SantoshimataBeed,Marathi,13:00,Daimond,150₹,25,0
+Maharashtra,Beed,SantoshimataBeed,Marathi,13:00,Gold,150₹,40,0
+Maharashtra,Shirur,DigigoldNovaCinemazShirur,Marathi,18:00,Gold,150₹,82,0
+Maharashtra,Shirur,DigigoldNovaCinemazShirur,Marathi,18:00,Silver,130₹,64,0
+Maharashtra,Beed,SantoshimataBeed,Marathi,19:00,Daimond,150₹,25,9
+Maharashtra,Beed,SantoshimataBeed,Marathi,19:00,Gold,150₹,40,0
+Maharashtra,Pune,InoxAmanoraTownCentreHadapsar,Marathi,19:30,Royale,230₹,12,6
+Maharashtra,Pune,InoxAmanoraTownCentreHadapsar,Marathi,19:30,Club,150₹,161,36
+Maharashtra,Pune,InoxAmanoraTownCentreHadapsar,Marathi,19:30,Executive,150₹,42,0
+Maharashtra,Pune,FunTimeMultiplexSinhagadRoad,Marathi,20:30,Gold,150₹,246,29
+Maharashtra,Pune,FunTimeMultiplexSinhagadRoad,Marathi,20:30,Silver,150₹,30,0
+Maharashtra,Beed,ESquareSantoshimataBeed,Marathi,21:30,Daimond,150₹,25,2
+Maharashtra,Beed,ESquareSantoshimataBeed,Marathi,21:30,Gold,150₹,40,0
