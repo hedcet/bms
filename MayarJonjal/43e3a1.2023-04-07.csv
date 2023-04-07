@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Kolkata,NandanKolkata,Bengali,13:30,FrontStall,30₹,111,19
+WestBengal,Kolkata,NandanKolkata,Bengali,13:30,RearStall,50₹,451,41
+WestBengal,Kolkata,NandanKolkata,Bengali,13:30,Balcony,70₹,369,49
+WestBengal,Kolkata,RadhaStudioTollygunge,Bengali,13:30,Silver,30₹,146,2
