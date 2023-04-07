@@ -1,0 +1,8 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Kochi,PvrLuluKochi,Malayalam,09:25,Classic,110₹,39,0
+Kerala,Kochi,PvrLuluKochi,Malayalam,09:25,ClassicPlus,140₹,91,8
+Kerala,Kochi,PvrLuluKochi,Malayalam,09:25,Prime,160₹,64,7
+Kerala,Kochi,PvrLuluKochi,Malayalam,09:25,Recliner,300₹,9,2
+Kerala,Kochi,CinepolisCentreSquareMallKochi,Malayalam,13:15,Normal,160₹,20,2
+Kerala,Kochi,CinepolisCentreSquareMallKochi,Malayalam,13:15,Executive,190₹,43,6
+Kerala,Kochi,CinepolisCentreSquareMallKochi,Malayalam,13:15,Premium,220₹,44,7
