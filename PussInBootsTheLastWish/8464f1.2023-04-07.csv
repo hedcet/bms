@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Maharashtra,Mumbai,InoxInsigniaAtAtriaMallWorli,English,10:30,Insignia,440₹,34,12
+Telangana,Hyderabad,PvrNextGalleriaMallPanjagutta,English,11:05,Classic,150₹,54,39
+Haryana,NationalCapitalRegionNcr,PvrVegasDwarka,English,19:30,Classic,330₹,36,0
+Haryana,NationalCapitalRegionNcr,PvrVegasDwarka,English,19:30,Prime,360₹,21,9
+Haryana,NationalCapitalRegionNcr,PvrVegasDwarka,English,19:30,Recliner,600₹,8,0
