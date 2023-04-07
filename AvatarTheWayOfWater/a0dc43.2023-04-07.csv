@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Mizoram,Aizawl,RemphamLyCinemaAizawl,English,10:35,Bronze,300₹,8,0
+Mizoram,Aizawl,RemphamLyCinemaAizawl,English,10:35,Silver,400₹,16,0
+Mizoram,Aizawl,RemphamLyCinemaAizawl,English,10:35,Gold,500₹,16,0
+Mizoram,Aizawl,RemphamLyCinemaAizawl,English,10:35,Couple,600₹,8,0
+Mizoram,Aizawl,RemphamLyCinemaAizawl,English,10:35,Recliner,700₹,4,0
+MadhyaPradesh,Indore,InoxPhoenixCitadelMallIndore,Hindi,22:00,Club,290₹,84,0
+MadhyaPradesh,Indore,InoxPhoenixCitadelMallIndore,Hindi,22:00,Royal,290₹,39,6
+MadhyaPradesh,Indore,InoxPhoenixCitadelMallIndore,Hindi,22:00,Executive,270₹,16,0
