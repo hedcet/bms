@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+MadhyaPradesh,Indore,InoxPhoenixCitadelMallIndore,Hindi,22:00,Royal,320₹,39,6
+MadhyaPradesh,Indore,InoxPhoenixCitadelMallIndore,Hindi,22:00,Club,300₹,84,0
+MadhyaPradesh,Indore,InoxPhoenixCitadelMallIndore,Hindi,22:00,Executive,280₹,16,0
