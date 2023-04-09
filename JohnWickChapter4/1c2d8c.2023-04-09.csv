@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Kakinada,InoxSrmtMallKakinada,telugu,11:00,Executive,112₹,196,44
+AndhraPradesh,VizagVisakhapatnam,MohiniCinemasDolbyAtmosGajuwaka,telugu,11:30,Premium,145₹,222,4
+AndhraPradesh,VizagVisakhapatnam,MohiniCinemasDolbyAtmosGajuwaka,telugu,11:30,NonPremium,100₹,75,4
+AndhraPradesh,VizagVisakhapatnam,MohiniCinemasDolbyAtmosGajuwaka,telugu,14:30,Premium,145₹,222,7
+AndhraPradesh,VizagVisakhapatnam,MohiniCinemasDolbyAtmosGajuwaka,telugu,14:30,NonPremium,100₹,75,3
+AndhraPradesh,Kurnool,InoxJyotiMallKurnool,telugu,14:40,Executive,177₹,247,30
+AndhraPradesh,Kakinada,InoxSrmtMallKakinada,telugu,17:50,Executive,112₹,196,57
+AndhraPradesh,VizagVisakhapatnam,MohiniCinemasDolbyAtmosGajuwaka,telugu,18:30,Premium,145₹,222,15
+AndhraPradesh,VizagVisakhapatnam,MohiniCinemasDolbyAtmosGajuwaka,telugu,18:30,NonPremium,100₹,75,3
+AndhraPradesh,Vijayawada,CinepolisPvpSquareMallVijayawada,telugu,22:45,Normal,177₹,138,39
