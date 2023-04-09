@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Coimbatore,InoxProzoneMallCoimbatore,tamil,09:20,Club,190₹,148,26
+TamilNadu,Coimbatore,InoxProzoneMallCoimbatore,tamil,09:20,Executive,60₹,22,2
+TamilNadu,Coimbatore,InoxProzoneMallCoimbatore,tamil,12:20,Club,190₹,148,45
+TamilNadu,Coimbatore,InoxProzoneMallCoimbatore,tamil,12:20,Executive,60₹,22,7
+TamilNadu,Chennai,PvrVrChennaiAnnaNagar,tamil,15:30,Classic,60₹,16,15
+TamilNadu,Chennai,PvrVrChennaiAnnaNagar,tamil,15:30,Prime,165₹,110,95
