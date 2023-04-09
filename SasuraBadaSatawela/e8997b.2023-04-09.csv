@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,Agra,HeeraTalkiesAgra,bhojpuri,12:32,Balcony,60₹,464,0
+UttarPradesh,Agra,HeeraTalkiesAgra,bhojpuri,12:32,DressCircle,30₹,308,11
+UttarPradesh,Agra,HeeraTalkiesAgra,bhojpuri,15:32,Balcony,60₹,464,0
+UttarPradesh,Agra,HeeraTalkiesAgra,bhojpuri,15:32,DressCircle,30₹,308,10
+UttarPradesh,Agra,HeeraTalkiesAgra,bhojpuri,18:32,Balcony,60₹,464,0
+UttarPradesh,Agra,HeeraTalkiesAgra,bhojpuri,18:32,DressCircle,30₹,308,0
