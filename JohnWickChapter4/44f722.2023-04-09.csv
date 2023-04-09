@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Delhi,NationalCapitalRegionNcr,PvrAmbienceGurgaon,english,10:10,ClassicNormal,250₹,105,4
+Delhi,NationalCapitalRegionNcr,PvrAmbienceGurgaon,english,10:10,Prime,300₹,86,21
+Delhi,NationalCapitalRegionNcr,PvrAmbienceGurgaon,english,18:50,ClassicNormal,400₹,105,10
+Delhi,NationalCapitalRegionNcr,PvrAmbienceGurgaon,english,18:50,Prime,500₹,86,32
+Delhi,NationalCapitalRegionNcr,PvrAmbienceGurgaon,english,22:20,ClassicNormal,300₹,105,10
+Delhi,NationalCapitalRegionNcr,PvrAmbienceGurgaon,english,22:20,Prime,350₹,86,35
+Delhi,NationalCapitalRegionNcr,PvrPromenadeVasantKunj,english,23:30,Classic,520₹,104,18
+Delhi,NationalCapitalRegionNcr,PvrPromenadeVasantKunj,english,23:30,Prime,580₹,26,20
+Delhi,NationalCapitalRegionNcr,PvrPromenadeVasantKunj,english,23:30,PrimePlus,640₹,10,8
