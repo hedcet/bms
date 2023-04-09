@@ -1,0 +1,14 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Kochi,CinepolisCentreSquareMallKochi,malayalam,10:55,Normal,160₹,26,26
+Kerala,Kochi,CinepolisCentreSquareMallKochi,malayalam,10:55,Executive,190₹,39,17
+Kerala,Kochi,CinepolisCentreSquareMallKochi,malayalam,10:55,Premium,210₹,86,39
+Kerala,Trivandrum,CarnivalMallOfTravancoreTrivandrum,malayalam,15:20,PremiumOffline,300₹,50,15
+Kerala,Trivandrum,CarnivalMallOfTravancoreTrivandrum,malayalam,15:20,ExecutiveOffline,180₹,102,31
+Kerala,Trivandrum,CarnivalMallOfTravancoreTrivandrum,malayalam,15:20,NormalOffline,100₹,17,0
+Kerala,Trivandrum,AriesplexSlCinemasCinionicDolbyAtmos,malayalam,17:00,Executive,110₹,70,69
+Kerala,Kochi,CinepolisCentreSquareMallKochi,malayalam,19:20,Normal,160₹,26,3
+Kerala,Kochi,CinepolisCentreSquareMallKochi,malayalam,19:20,Executive,190₹,39,0
+Kerala,Kochi,CinepolisCentreSquareMallKochi,malayalam,19:20,Premium,210₹,86,32
+Kerala,Trivandrum,CarnivalMallOfTravancoreTrivandrum,malayalam,22:45,PremiumOffline,300₹,50,8
+Kerala,Trivandrum,CarnivalMallOfTravancoreTrivandrum,malayalam,22:45,ExecutiveOffline,180₹,102,0
+Kerala,Trivandrum,CarnivalMallOfTravancoreTrivandrum,malayalam,22:45,NormalOffline,100₹,17,0
