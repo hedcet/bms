@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Maharashtra,Mumbai,InoxInsigniaAtAtriaMallWorli,english,10:30,Insignia,570₹,34,22
+Maharashtra,Mumbai,InoxMegaplexInorbitMallMalad,english,16:55,Kiddles,360₹,57,22
+Delhi,NationalCapitalRegionNcr,PvrVegasDwarka,english,19:30,Classic,330₹,36,2
+Delhi,NationalCapitalRegionNcr,PvrVegasDwarka,english,19:30,Prime,360₹,21,7
+Delhi,NationalCapitalRegionNcr,PvrVegasDwarka,english,19:30,Recliner,600₹,8,3
