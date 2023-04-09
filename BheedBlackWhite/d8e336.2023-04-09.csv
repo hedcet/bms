@@ -1,0 +1,16 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Delhi,NationalCapitalRegionNcr,PvrPromenadeVasantKunj,hindi,10:30,Classic,330₹,50,7
+Delhi,NationalCapitalRegionNcr,PvrPromenadeVasantKunj,hindi,10:30,Prime,360₹,44,10
+UttarPradesh,Saharanpur,PrabhatCineplexSaharanpur,hindi,12:30,Silver,120₹,48,0
+UttarPradesh,Saharanpur,PrabhatCineplexSaharanpur,hindi,12:30,Gold,130₹,157,0
+UttarPradesh,Saharanpur,PrabhatCineplexSaharanpur,hindi,15:30,Silver,120₹,48,0
+UttarPradesh,Saharanpur,PrabhatCineplexSaharanpur,hindi,15:30,Gold,130₹,157,0
+Delhi,NationalCapitalRegionNcr,PvrVegasDwarka,hindi,17:00,Classic,450₹,179,0
+Delhi,NationalCapitalRegionNcr,PvrVegasDwarka,hindi,17:00,Prime,490₹,46,22
+Delhi,NationalCapitalRegionNcr,PvrLogixNoida,hindi,17:00,Classic,340₹,97,7
+UttarPradesh,Saharanpur,PrabhatCineplexSaharanpur,hindi,18:30,Silver,120₹,48,0
+UttarPradesh,Saharanpur,PrabhatCineplexSaharanpur,hindi,18:30,Gold,130₹,157,0
+UttarPradesh,Saharanpur,PrabhatCineplexSaharanpur,hindi,21:30,Silver,120₹,48,0
+UttarPradesh,Saharanpur,PrabhatCineplexSaharanpur,hindi,21:30,Gold,130₹,157,0
+Gujarat,Nadiad,CoconutViratMultiplexNadiad,hindi,22:00,Platinum,120₹,14,0
+Gujarat,Nadiad,CoconutViratMultiplexNadiad,hindi,22:00,Gold,100₹,104,4
