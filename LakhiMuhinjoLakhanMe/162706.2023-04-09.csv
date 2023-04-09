@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Maharashtra,Amravati,RajlaxmiCinemaAmravati,sindhi,12:30,Balcony,150₹,220,15
+Maharashtra,Amravati,RajlaxmiCinemaAmravati,sindhi,12:30,Reserve,100₹,222,0
+Maharashtra,Amravati,RajlaxmiCinemaAmravati,sindhi,15:30,Balcony,150₹,220,0
+Maharashtra,Amravati,RajlaxmiCinemaAmravati,sindhi,15:30,Reserve,100₹,222,17
+MadhyaPradesh,Bhopal,RangmahalCineplexBhopal,sindhi,18:00,Balcony,150₹,222,0
+MadhyaPradesh,Bhopal,RangmahalCineplexBhopal,sindhi,18:00,DressCircle,100₹,318,0
+Maharashtra,Amravati,RajlaxmiCinemaAmravati,sindhi,18:30,Balcony,150₹,220,44
+Maharashtra,Amravati,RajlaxmiCinemaAmravati,sindhi,18:30,Reserve,100₹,222,42
+MadhyaPradesh,Bhopal,RangmahalCineplexBhopal,sindhi,21:00,Balcony,150₹,222,0
+MadhyaPradesh,Bhopal,RangmahalCineplexBhopal,sindhi,21:00,DressCircle,100₹,318,5
+Maharashtra,Amravati,RajlaxmiCinemaAmravati,sindhi,21:30,Balcony,150₹,220,37
+Maharashtra,Amravati,RajlaxmiCinemaAmravati,sindhi,21:30,Reserve,100₹,222,5
