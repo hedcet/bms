@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Anand,InfinityCinemasAnand,gujarati,18:00,Recliner,250₹,19,0
+Gujarat,Anand,InfinityCinemasAnand,gujarati,18:00,Platinum,150₹,50,0
+Gujarat,Anand,InfinityCinemasAnand,gujarati,18:00,Gold,120₹,60,0
+Gujarat,Ahmedabad,AbMiniplexShivranjiniCrossRoadSatellite,gujarati,18:00,Executive,100₹,54,0
+Gujarat,Ahmedabad,AbMiniplexShivranjiniCrossRoadSatellite,gujarati,21:30,Sofa,100₹,12,11
+Gujarat,Ahmedabad,AbMiniplexShivranjiniCrossRoadSatellite,gujarati,21:30,Bed,150₹,6,0
