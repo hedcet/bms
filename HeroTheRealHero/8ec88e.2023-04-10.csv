@@ -1,0 +1,16 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Vadakara,One2OnePlusFilmCity2K3DDolbyAtmosACVada,malayalam,10:30,Screen1,129₹,300,0
+Kerala,Kochi,EvmCinemaACRgbLaser3DPerumbavoor,malayalam,11:00,Executive1,164₹,5,0
+Kerala,Kochi,EvmCinemaACRgbLaser3DPerumbavoor,malayalam,11:00,Deluxe,139₹,98,0
+Kerala,Thodupuzha,SilverHillsCinemasThodupuzha,malayalam,11:30,Gold,230₹,16,0
+Kerala,Thodupuzha,SilverHillsCinemasThodupuzha,malayalam,11:30,Silver,130₹,224,0
+Kerala,Kochi,EvmCinemaACRgbLaser3DPerumbavoor,malayalam,14:00,Executive1,164₹,5,0
+Kerala,Kochi,EvmCinemaACRgbLaser3DPerumbavoor,malayalam,14:00,Deluxe,139₹,98,0
+Kerala,Trivandrum,DreamsAttingal,malayalam,14:40,Recliner,350₹,15,0
+Kerala,Trivandrum,DreamsAttingal,malayalam,14:40,Sofa,200₹,120,2
+Kerala,Mukkam,PeeCeeTheatreMukkam,malayalam,14:45,FirstClass,110₹,309,31
+Kerala,Thodupuzha,SilverHillsCinemasThodupuzha,malayalam,14:45,Gold,230₹,16,0
+Kerala,Thodupuzha,SilverHillsCinemasThodupuzha,malayalam,14:45,Silver,130₹,224,0
+Kerala,Karmamthody,KaveriCinemasACDtsDolbyKarmamthody,malayalam,19:30,Standard,110₹,145,0
+Kerala,Vadanappally,AshokaTheatreVadanappally,malayalam,21:45,Gold,110₹,163,0
+Kerala,Vadanappally,AshokaTheatreVadanappally,malayalam,21:45,Silver,90₹,172,0
