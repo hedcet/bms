@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Angamaly,CarnivalKsrtComplex,malayalam,11:00,GoldOffline,110₹,203,13
+Kerala,Kochi,JMaxByGejoTheatre2KDolby71ACPattimatto,malayalam,11:30,Platinum,180₹,90,1
+Kerala,Kochi,JMaxByGejoTheatre2KDolby71ACPattimatto,malayalam,11:30,Gold,160₹,126,15
+Kerala,Kochi,JMaxByGejoTheatre2KDolby71ACPattimatto,malayalam,11:30,Silver,140₹,18,1
+Kerala,Angamaly,CarnivalKsrtComplex,malayalam,19:30,GoldOffline,130₹,203,43
