@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Thalassery,CarnivalDowntownThalassery,malayalam,10:30,GoldOffline,180₹,8,4
+Kerala,Thalassery,CarnivalDowntownThalassery,malayalam,10:30,ExecutiveOffline,110₹,135,15
+Kerala,Angamaly,CarnivalKsrtComplex,malayalam,13:00,Platinum,150₹,110,2
+Kerala,Angamaly,CarnivalKsrtComplex,malayalam,13:00,GoldOffline,130₹,188,9
+Kerala,Thalassery,CarnivalDowntownThalassery,malayalam,13:30,GoldOffline,180₹,8,4
+Kerala,Thalassery,CarnivalDowntownThalassery,malayalam,13:30,ExecutiveOffline,110₹,135,3
+Kerala,Kochi,CarnivalCinemasRedCarpetKariyad,malayalam,13:30,GoldLounge,270₹,32,2
+Kerala,Kochi,CarnivalCinemasRedCarpetKariyad,malayalam,13:30,ExecutiveOffline,140₹,96,0
+Kerala,Thalassery,CarnivalDowntownThalassery,malayalam,16:15,GoldOffline,200₹,8,4
+Kerala,Thalassery,CarnivalDowntownThalassery,malayalam,16:15,ExecutiveOffline,140₹,135,24
+Kerala,Kochi,PvrOberonMallKochi,malayalam,22:00,Classic,129₹,36,0
+Kerala,Kochi,PvrOberonMallKochi,malayalam,22:00,ClassicPlus,160₹,81,27
+Kerala,Kochi,CarnivalCinemasRedCarpetKariyad,malayalam,22:00,GoldLounge,270₹,32,0
+Kerala,Kochi,CarnivalCinemasRedCarpetKariyad,malayalam,22:00,ExecutiveOffline,140₹,96,0
+Kerala,Angamaly,CarnivalKsrtComplex,malayalam,22:00,Platinum,150₹,110,33
+Kerala,Angamaly,CarnivalKsrtComplex,malayalam,22:00,GoldOffline,130₹,188,0
