@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Delhi,NationalCapitalRegionNcr,PvrPromenadeVasantKunj,hindi,10:30,Classic,220₹,50,0
+Delhi,NationalCapitalRegionNcr,PvrPromenadeVasantKunj,hindi,10:30,Prime,270₹,44,18
+UttarPradesh,Saharanpur,PrabhatCineplexSaharanpur,hindi,12:30,Silver,120₹,48,0
+UttarPradesh,Saharanpur,PrabhatCineplexSaharanpur,hindi,12:30,Gold,130₹,157,2
+UttarPradesh,Saharanpur,PrabhatCineplexSaharanpur,hindi,15:30,Silver,120₹,48,0
+UttarPradesh,Saharanpur,PrabhatCineplexSaharanpur,hindi,15:30,Gold,130₹,157,0
+Delhi,NationalCapitalRegionNcr,PvrVegasDwarka,hindi,17:00,Classic,275₹,179,0
+Delhi,NationalCapitalRegionNcr,PvrVegasDwarka,hindi,17:00,Prime,300₹,46,21
+Delhi,NationalCapitalRegionNcr,PvrLogixNoida,hindi,17:00,Classic,225₹,97,14
+UttarPradesh,Saharanpur,PrabhatCineplexSaharanpur,hindi,21:30,Silver,120₹,48,0
+UttarPradesh,Saharanpur,PrabhatCineplexSaharanpur,hindi,21:30,Gold,130₹,157,0
+Gujarat,Kosamba,CoconutSalimCinemaKosamba,hindi,21:45,Gold,120₹,85,0
