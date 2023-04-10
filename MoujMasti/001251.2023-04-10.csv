@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+JammuAndKashmir,Jammu,PvrKcJammu,dogri,15:10,Classic,180₹,74,0
+JammuAndKashmir,Jammu,PvrKcJammu,dogri,15:10,Prime,200₹,36,29
+JammuAndKashmir,Jammu,PvrKcJammu,dogri,15:10,Recliner,400₹,4,4
