@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+MadhyaPradesh,Indore,InoxC21Mall,english,22:35,Club,320₹,33,0
+MadhyaPradesh,Indore,InoxC21Mall,english,22:35,Royal,320₹,67,10
+Maharashtra,Mumbai,InoxMegaplexInorbitMallMalad,english,22:45,Club,330₹,16,4
+Maharashtra,Mumbai,InoxMegaplexInorbitMallMalad,english,22:45,Royal,330₹,64,22
