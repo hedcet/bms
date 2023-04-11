@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+MadhyaPradesh,Indore,PvrTreasureIslandMall4DxIndore,hindi,20:30,4DxClassic,320₹,48,0
+MadhyaPradesh,Indore,PvrTreasureIslandMall4DxIndore,hindi,20:30,4DxPrime,320₹,60,34
+Rajasthan,Jaipur,PvrMallOfJaipur4Dx,hindi,20:30,4DxClassic,440₹,16,0
+Rajasthan,Jaipur,PvrMallOfJaipur4Dx,hindi,20:30,4DxPrime,460₹,56,19
+UttarPradesh,NationalCapitalRegionNcr,PvrPacificSubhashNagar4DxDelhi,hindi,23:30,Classic,350₹,36,0
+UttarPradesh,NationalCapitalRegionNcr,PvrPacificSubhashNagar4DxDelhi,hindi,23:30,Prime,370₹,72,20
