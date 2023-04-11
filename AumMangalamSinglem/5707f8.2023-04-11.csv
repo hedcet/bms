@@ -1,0 +1,16 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Ahmedabad,AbMiniplexShivranjiniCrossRoadSatellite,gujarati,10:00,Sofa,100₹,12,0
+Gujarat,Ahmedabad,AbMiniplexShivranjiniCrossRoadSatellite,gujarati,10:00,Bed,150₹,6,0
+Gujarat,Ahmedabad,AbMiniplexShivranjiniCrossRoadSatellite,gujarati,15:00,UpperSofa,110₹,24,2
+Gujarat,Ahmedabad,AbMiniplexShivranjiniCrossRoadSatellite,gujarati,15:00,MiddleSofa,110₹,22,0
+Gujarat,Anand,InfinityCinemasAnand,gujarati,18:00,Recliner,250₹,19,0
+Gujarat,Anand,InfinityCinemasAnand,gujarati,18:00,Platinum,150₹,50,0
+Gujarat,Anand,InfinityCinemasAnand,gujarati,18:00,Gold,120₹,60,0
+Gujarat,Ahmedabad,PvrAcropolisAhmedabad,gujarati,19:40,Classic,112₹,39,0
+Gujarat,Ahmedabad,PvrAcropolisAhmedabad,gujarati,19:40,Prime,112₹,65,2
+Gujarat,Ahmedabad,PvrAcropolisAhmedabad,gujarati,19:40,PrimePlus,112₹,66,9
+Gujarat,Ahmedabad,PvrAcropolisAhmedabad,gujarati,19:40,Recliner,350₹,9,5
+Gujarat,Ahmedabad,AbMiniplexShivranjiniCrossRoadSatellite,gujarati,21:30,Sofa,100₹,12,1
+Gujarat,Ahmedabad,AbMiniplexShivranjiniCrossRoadSatellite,gujarati,21:30,Bed,150₹,6,0
+Gujarat,Ahmedabad,AbMiniplexShivranjiniCrossRoadSatellite,gujarati,21:45,Sofa,80₹,12,7
+Gujarat,Ahmedabad,AbMiniplexShivranjiniCrossRoadSatellite,gujarati,21:45,Bed,150₹,6,0
