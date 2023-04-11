@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Surat,PvrRahulRaj4DxSurat,hindi,18:30,4DxClassic,450₹,24,0
+Gujarat,Surat,PvrRahulRaj4DxSurat,hindi,18:30,4DxPrime,470₹,60,15
+UttarPradesh,Lucknow,Pvr4DxSuperplexLuluLucknow,hindi,22:15,Prime,420₹,116,33
+Gujarat,Ahmedabad,PvrAcropolis4DxAhmedabad,hindi,23:00,4DxClassic,470₹,36,8
+Gujarat,Ahmedabad,PvrAcropolis4DxAhmedabad,hindi,23:00,4DxPrime,470₹,84,30
+Maharashtra,Pune,PvrPhoenixMarketCityPune4Dx,hindi,23:00,4DxClassic,520₹,48,0
+Maharashtra,Pune,PvrPhoenixMarketCityPune4Dx,hindi,23:00,4DxPrime,520₹,72,28
+UttarPradesh,NationalCapitalRegionNcr,PvrMgf4DxGurgaon,hindi,23:30,Classic,350₹,96,19
