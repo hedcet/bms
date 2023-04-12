@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Delhi,NationalCapitalRegionNcr,PvrAmbienceGurgaon,english,10:10,ClassicNormal,200₹,105,5
+Delhi,NationalCapitalRegionNcr,PvrAmbienceGurgaon,english,10:10,Prime,250₹,86,4
+Delhi,NationalCapitalRegionNcr,PvrAmbienceGurgaon,english,18:50,ClassicNormal,300₹,105,8
+Delhi,NationalCapitalRegionNcr,PvrAmbienceGurgaon,english,18:50,Prime,350₹,86,4
