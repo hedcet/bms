@@ -1,0 +1,14 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Trivandrum,JbCinemasThapasyaAttingal,malayalam,11:00,Balcony,150₹,188,0
+Kerala,Trivandrum,JbCinemasThapasyaAttingal,malayalam,11:00,Circle,130₹,451,0
+Kerala,Trivandrum,SreeKaleeswarySreeSaraswathy2K3DKaliyikkav,malayalam,11:00,RoyalCircle,150₹,484,0
+Kerala,Vadakara,One2OnePlusFilmCity2K3DDolbyAtmosACVada,malayalam,13:30,Screen1,129₹,300,0
+Kerala,Kollam,DhanyaRemyaKollam,malayalam,14:00,Platinum,135₹,200,24
+Kerala,Kottayam,DhanyaRemyaKottayam,malayalam,14:00,Remya,135₹,251,0
+Kerala,Changanassery,DhanyaRemyaChanganassery,malayalam,14:00,Remya,135₹,196,0
+Kerala,Vadakara,One2OnePlusFilmCity2K3DDolbyAtmosACVada,malayalam,16:30,Screen1,129₹,300,0
+Kerala,Thodupuzha,SilverHillsCinemasThodupuzha,malayalam,16:30,Silver,130₹,80,20
+Kerala,Kollam,DhanyaRemyaKollam,malayalam,18:00,Platinum,135₹,200,24
+Kerala,Kottayam,DhanyaRemyaKottayam,malayalam,18:00,Remya,135₹,251,0
+Kerala,Changanassery,DhanyaRemyaChanganassery,malayalam,18:00,Remya,135₹,196,0
+Kerala,Vadakara,One2OnePlusFilmCity2K3DDolbyAtmosACVada,malayalam,19:30,Screen1,129₹,300,0
