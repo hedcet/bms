@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,CinepolisNexusShantiniketanBengaluru,Japanese,11:00,Normal,300₹,96,19
+UttarPradesh,Lucknow,InoxMegaplexPhoenixPalassioMall,Japanese,12:20,Club,350₹,48,0
+UttarPradesh,Lucknow,InoxMegaplexPhoenixPalassioMall,Japanese,12:20,Executive,350₹,24,12
+UttarPradesh,Lucknow,InoxMegaplexPhoenixPalassioMall,Japanese,12:20,Royale,350₹,63,10
+UttarPradesh,Lucknow,InoxMegaplexPhoenixPalassioMall,Japanese,17:00,Royale,410₹,63,12
+UttarPradesh,Lucknow,InoxMegaplexPhoenixPalassioMall,Japanese,17:00,Club,390₹,48,3
+UttarPradesh,Lucknow,InoxMegaplexPhoenixPalassioMall,Japanese,17:00,Executive,340₹,24,12
+Karnataka,Bengaluru,CinepolisForumShantiniketanBengaluru,Japanese,19:00,Normal,400₹,96,19
+Karnataka,Bengaluru,CinepolisForumShantiniketanBengaluru,Japanese,21:15,Normal,450₹,96,18
