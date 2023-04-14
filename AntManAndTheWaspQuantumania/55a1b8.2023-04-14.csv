@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,CinepolisNexusShantiniketanBengaluru,English,11:30,Normal,200₹,69,14
+Karnataka,Bengaluru,CinepolisNexusShantiniketanBengaluru,English,11:30,DoubleSofa,200₹,24,2
+Karnataka,Bengaluru,CinepolisNexusShantiniketanBengaluru,English,11:30,Lounger,200₹,9,0
+Karnataka,Bengaluru,CinepolisNexusShantiniketanBengaluru,English,11:30,SingleSofa,200₹,6,0
+MadhyaPradesh,Indore,PvrTreasureIslandMallIndore,Hindi,20:45,Classic,240₹,26,0
+MadhyaPradesh,Indore,PvrTreasureIslandMallIndore,Hindi,20:45,Prime,270₹,46,16
+MadhyaPradesh,Indore,PvrTreasureIslandMallIndore,Hindi,20:45,Recliner,480₹,8,4
+Karnataka,Bengaluru,CinepolisForumShantiniketanBengaluru,English,21:00,Normal,200₹,69,16
+Karnataka,Bengaluru,CinepolisForumShantiniketanBengaluru,English,21:00,DoubleSofa,250₹,24,7
+Karnataka,Bengaluru,CinepolisForumShantiniketanBengaluru,English,21:00,Lounger,280₹,9,0
+Karnataka,Bengaluru,CinepolisForumShantiniketanBengaluru,English,21:00,SingleSofa,300₹,6,0
