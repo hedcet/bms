@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Anakapalle,VenkateswaraMovieMartAnakapalle,Telugu,11:00,Premium,112₹,331,6
+AndhraPradesh,Anakapalle,VenkateswaraMovieMartAnakapalle,Telugu,11:00,NonPremium,70₹,111,2
+AndhraPradesh,VizagVisakhapatnam,MohiniCinemasDolbyAtmosGajuwaka,Telugu,14:30,Premium,145₹,222,0
+AndhraPradesh,VizagVisakhapatnam,MohiniCinemasDolbyAtmosGajuwaka,Telugu,14:30,NonPremium,100₹,75,1
+AndhraPradesh,Anakapalle,VenkateswaraMovieMartAnakapalle,Telugu,14:30,Premium,112₹,331,6
+AndhraPradesh,Anakapalle,VenkateswaraMovieMartAnakapalle,Telugu,14:30,NonPremium,70₹,111,2
+AndhraPradesh,VizagVisakhapatnam,MohiniCinemasDolbyAtmosGajuwaka,Telugu,18:30,Premium,145₹,222,5
+AndhraPradesh,VizagVisakhapatnam,MohiniCinemasDolbyAtmosGajuwaka,Telugu,18:30,NonPremium,100₹,75,0
+AndhraPradesh,Anakapalle,VenkateswaraMovieMartAnakapalle,Telugu,18:30,Premium,112₹,331,6
+AndhraPradesh,Anakapalle,VenkateswaraMovieMartAnakapalle,Telugu,18:30,NonPremium,70₹,111,2
+AndhraPradesh,Anakapalle,VenkateswaraMovieMartAnakapalle,Telugu,21:30,Premium,112₹,331,6
+AndhraPradesh,Anakapalle,VenkateswaraMovieMartAnakapalle,Telugu,21:30,NonPremium,70₹,111,2
