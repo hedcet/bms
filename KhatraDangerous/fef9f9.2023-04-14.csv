@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+MadhyaPradesh,Datia,CineflixCinemasDatia,Hindi,12:00,Recliner,400₹,22,0
+MadhyaPradesh,Datia,CineflixCinemasDatia,Hindi,12:00,Gold,200₹,103,0
+MadhyaPradesh,Datia,CineflixCinemasDatia,Hindi,12:00,Silver,150₹,39,0
+UttarPradesh,Kannauj,NarayanMiniplexKannauj,Hindi,12:15,Gold,100₹,215,4
+UttarPradesh,Kannauj,NarayanMiniplexKannauj,Hindi,15:15,Gold,100₹,215,0
+MadhyaPradesh,Datia,CineflixCinemasDatia,Hindi,18:00,Recliner,400₹,22,0
+MadhyaPradesh,Datia,CineflixCinemasDatia,Hindi,18:00,Gold,200₹,103,0
+MadhyaPradesh,Datia,CineflixCinemasDatia,Hindi,18:00,Silver,150₹,39,0
+UttarPradesh,Kannauj,NarayanMiniplexKannauj,Hindi,18:15,Gold,100₹,215,0
+UttarPradesh,Kannauj,NarayanMiniplexKannauj,Hindi,21:15,Gold,100₹,215,0
