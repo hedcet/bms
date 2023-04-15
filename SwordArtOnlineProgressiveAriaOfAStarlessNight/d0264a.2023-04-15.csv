@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,Lucknow,InoxPhoenixPalassioMallLucknow,Japanese,12:20,Club,350₹,48,0
+UttarPradesh,Lucknow,InoxPhoenixPalassioMallLucknow,Japanese,12:20,Executive,350₹,24,12
+UttarPradesh,Lucknow,InoxPhoenixPalassioMallLucknow,Japanese,12:20,Royale,350₹,63,10
+UttarPradesh,Lucknow,InoxPhoenixPalassioMallLucknow,Japanese,17:00,Royale,410₹,63,10
+UttarPradesh,Lucknow,InoxPhoenixPalassioMallLucknow,Japanese,17:00,Club,390₹,48,0
+UttarPradesh,Lucknow,InoxPhoenixPalassioMallLucknow,Japanese,17:00,Executive,340₹,24,12
