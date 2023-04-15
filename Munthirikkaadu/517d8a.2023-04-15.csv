@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Chennai,KasiTalkiesDolbyAtmosAshokNagar,Tamil,15:15,SuperPremium,195₹,19,13
+TamilNadu,Chennai,KasiTalkiesDolbyAtmosAshokNagar,Tamil,15:15,Premium,170₹,89,47
+TamilNadu,Chennai,KasiTalkiesDolbyAtmosAshokNagar,Tamil,15:15,Elite,120₹,60,15
+TamilNadu,Chennai,KasiTalkiesDolbyAtmosAshokNagar,Tamil,15:15,Economy,64₹,10,0
