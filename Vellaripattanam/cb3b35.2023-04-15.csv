@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Irinjalakuda,MasMoviesIrinjalakuda,Malayalam,12:00,Silver,129₹,207,0
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,22:00,RoyalRecliner,350₹,10,0
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,22:00,Club,190₹,66,7
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,22:00,Royal,190₹,28,21
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,22:00,Executive,130₹,22,0
