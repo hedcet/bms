@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Gandhidham,VinayCinemaAdipur,Sindhi,18:15,Diamond,100₹,124,56
+Gujarat,Gandhidham,VinayCinemaAdipur,Sindhi,18:15,Gold,100₹,111,0
+Gujarat,Gandhidham,VinayCinemaAdipur,Sindhi,18:15,Platinum,100₹,62,62
+Gujarat,Gandhidham,VinayCinemaAdipur,Sindhi,18:15,Silver,100₹,54,0
+Gujarat,Gandhidham,VinayCinemaAdipur,Sindhi,18:15,Vip,100₹,24,24
+Gujarat,Gandhidham,VinayCinemaAdipur,Sindhi,20:16,Diamond,100₹,124,56
+Gujarat,Gandhidham,VinayCinemaAdipur,Sindhi,20:16,Gold,100₹,111,0
+Gujarat,Gandhidham,VinayCinemaAdipur,Sindhi,20:16,Platinum,100₹,62,62
+Gujarat,Gandhidham,VinayCinemaAdipur,Sindhi,20:16,Silver,100₹,54,0
+Gujarat,Gandhidham,VinayCinemaAdipur,Sindhi,20:16,Vip,100₹,24,24
