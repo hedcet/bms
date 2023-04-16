@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Maharashtra,Pune,PvrPhoenixMarketCityPune,Japanese,14:15,Classic,500₹,52,51
+Maharashtra,Pune,PvrPhoenixMarketCityPune,Japanese,14:15,Prime,500₹,119,117
+Maharashtra,Pune,PvrPhoenixMarketCityPune,Japanese,14:15,PrimePlus,500₹,10,6
+Maharashtra,Mumbai,PvrDynamixJuhu,Japanese,18:25,Prime,500₹,72,72
+Maharashtra,Mumbai,PvrDynamixJuhu,Japanese,18:25,Classic,500₹,40,28
