@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Maharashtra,Mumbai,InoxLaserplexCr2NarimanPoint,English,15:05,Insignia,890₹,75,7
+Maharashtra,Pune,InoxBundGardenRoad,English,17:15,Royale,520₹,32,15
+Maharashtra,Mumbai,PvrLuxePhoenixPalladiumLowerParelMumbai,English,19:15,Prime,"1,040₹",12,0
+Maharashtra,Mumbai,PvrLuxePhoenixPalladiumLowerParelMumbai,English,19:15,PrimePlus,"1,040₹",30,7
+Maharashtra,Mumbai,InoxMegaplexInorbitMallMalad,English,19:55,Insignia,840₹,38,12
+Delhi,NationalCapitalRegionNcr,PvrAmbienceGoldGurgaon,English,21:30,Platinum,800₹,28,0
+Delhi,NationalCapitalRegionNcr,PvrAmbienceGoldGurgaon,English,21:30,PlatinumSuperior,"1,000₹",16,3
+Delhi,NationalCapitalRegionNcr,PvrLogixNoida,English,22:55,Classic,360₹,87,9
