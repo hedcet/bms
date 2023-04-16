@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Rajkot,RajshriCinemaRajkot,Hindi,18:30,Balcony,150₹,208,1
+Gujarat,Rajkot,RajshriCinemaRajkot,Hindi,18:30,Upper,100₹,550,4
+Gujarat,Rajkot,RajshriCinemaRajkot,Hindi,21:45,Balcony,150₹,208,0
+Gujarat,Rajkot,RajshriCinemaRajkot,Hindi,21:45,Upper,100₹,550,1
