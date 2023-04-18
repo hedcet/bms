@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Punjab,Ludhiana,V2VCinemasOldSrsLudhiana,Dogri,15:00,Platinum,130₹,247,43
+Punjab,Ludhiana,V2VCinemasOldSrsLudhiana,Dogri,15:00,Gold,130₹,80,0
+Punjab,Ludhiana,V2VCinemasOldSrsLudhiana,Dogri,15:00,Silver,130₹,40,0
+JammuAndKashmir,Jammu,PvrKcJammu,Dogri,17:00,Classic,180₹,74,0
+JammuAndKashmir,Jammu,PvrKcJammu,Dogri,17:00,Prime,200₹,36,11
+JammuAndKashmir,Jammu,PvrKcJammu,Dogri,17:00,Recliner,400₹,4,0
