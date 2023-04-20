@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Muvattupuzha,CarnivalGrandCentreMallMuvattupuzha,Malayalam,14:00,ExecutiveOffline,130₹,96,6
+Kerala,Kochi,DharsanaCinemaComplexPiravom,Malayalam,15:00,Platinum,160₹,25,0
+Kerala,Kochi,DharsanaCinemaComplexPiravom,Malayalam,15:00,Gold,140₹,243,0
+Kerala,Kochi,DharsanaCinemaComplexPiravom,Malayalam,15:00,Silver,80₹,26,0
+Kerala,Muvattupuzha,CarnivalGrandCentreMallMuvattupuzha,Malayalam,18:00,ExecutiveOffline,150₹,96,6
