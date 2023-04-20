@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Kozhikode,KairaliSreeTheatreKozhikode,Malayalam,14:30,SreeGold,139₹,311,0
+Kerala,Trivandrum,KairaliSreeNilaRgbLaser4KDolbyAtmos,Malayalam,14:30,Platinum,120₹,259,0
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,15:25,RoyalRecliner,290₹,10,0
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,15:25,Club,170₹,63,0
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,15:25,Royal,170₹,28,15
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,15:25,Executive,130₹,22,0
+Kerala,Changaramkulam,MarsCinemas4KDolbyAtmosChangaramkulam,Malayalam,19:15,Executive,250₹,12,0
+Kerala,Changaramkulam,MarsCinemas4KDolbyAtmosChangaramkulam,Malayalam,19:15,Platinum,150₹,124,0
