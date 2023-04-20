@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Maharashtra,Dhule,JyotiChitraMandirDhule,Sindhi,15:00,Balcony,110₹,173,64
+Maharashtra,Dhule,JyotiChitraMandirDhule,Sindhi,15:00,Gold,80₹,213,59
+Maharashtra,Dhule,JyotiChitraMandirDhule,Sindhi,15:00,Silver,80₹,250,38
+Maharashtra,Dhule,JyotiChitraMandirDhule,Sindhi,21:00,Balcony,110₹,173,64
+Maharashtra,Dhule,JyotiChitraMandirDhule,Sindhi,21:00,Gold,80₹,213,59
+Maharashtra,Dhule,JyotiChitraMandirDhule,Sindhi,21:00,Silver,80₹,250,38
+Gujarat,Surat,RajhansMultiplexAdajanSurat,Sindhi,22:00,Box,250₹,6,5
+Gujarat,Surat,RajhansMultiplexAdajanSurat,Sindhi,22:00,Executive,200₹,292,69
