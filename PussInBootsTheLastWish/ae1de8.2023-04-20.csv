@@ -1,0 +1,8 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Maharashtra,Mumbai,InoxInsigniaAtAtriaMallWorli,English,10:05,Insignia,420₹,31,4
+Haryana,NationalCapitalRegionNcr,CinepolisAiriaMallSohnaRoadGurgaon,English,10:45,Normal,160₹,30,8
+Haryana,NationalCapitalRegionNcr,CinepolisAiriaMallSohnaRoadGurgaon,English,10:45,DoubleSofa,240₹,24,0
+Haryana,NationalCapitalRegionNcr,CinepolisAiriaMallSohnaRoadGurgaon,English,10:45,Lounger,240₹,8,0
+Telangana,Hyderabad,PvrNextGalleriaMallPanjagutta,English,12:30,Classic,150₹,54,18
+Haryana,NationalCapitalRegionNcr,PvrLogixNoida,English,13:15,Classic,305₹,49,0
+Maharashtra,Mumbai,InoxMegaplexInorbitMallMalad,English,13:35,Kiddles,230₹,57,7
