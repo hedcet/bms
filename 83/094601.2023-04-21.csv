@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+MadhyaPradesh,Jabalpur,MovieMagicSamJabalpur,Hindi,21:00,Gold1,1₹,34,0
+MadhyaPradesh,Jabalpur,MovieMagicSamJabalpur,Hindi,21:00,Gold,1₹,114,0
+MadhyaPradesh,Jabalpur,MovieMagicSamJabalpur,Hindi,21:00,MmLounge,1₹,25,0
+MadhyaPradesh,Jabalpur,MovieMagicSamJabalpur,Hindi,21:00,Platinum1,1₹,52,0
+MadhyaPradesh,Jabalpur,MovieMagicSamJabalpur,Hindi,21:00,Platinum,1₹,104,4
+MadhyaPradesh,Jabalpur,MovieMagicSamJabalpur,Hindi,21:00,Silver,1₹,51,0
