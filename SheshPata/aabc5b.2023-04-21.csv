@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Kolkata,InoxCityCenterSaltLake,Bengali,14:25,Royale,290₹,39,10
+WestBengal,Kolkata,InoxCityCenterSaltLake,Bengali,14:25,DressCircle,230₹,162,9
+WestBengal,Kolkata,InoxCityCenterSaltLake,Bengali,14:25,Galleria,210₹,36,0
+WestBengal,Kolkata,RadhaStudioTollygunge,Bengali,16:00,Silver,30₹,146,12
+WestBengal,Kolkata,InoxSouthCityKolkata,Bengali,19:05,Silver,260₹,167,36
+WestBengal,Kolkata,InoxSouthCityKolkata,Bengali,19:05,Premier,240₹,34,0
+WestBengal,Kolkata,MirajCinemasNewtownKolkata,Bengali,20:00,Recliner,350₹,22,3
+WestBengal,Kolkata,MirajCinemasNewtownKolkata,Bengali,20:00,Executive,200₹,78,0
+WestBengal,Kolkata,MirajCinemasNewtownKolkata,Bengali,20:00,Special,180₹,56,0
