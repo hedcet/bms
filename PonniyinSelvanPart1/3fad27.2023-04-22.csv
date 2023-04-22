@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Kozhikode,CinepolisGokulamGalleriaMall,Malayalam,10:35,Normal,150₹,38,4
+Kerala,Kozhikode,CinepolisGokulamGalleriaMall,Malayalam,10:35,Executive,170₹,69,6
+Kerala,Kozhikode,CinepolisGokulamGalleriaMall,Malayalam,10:35,Premium,190₹,56,1
+Kerala,Kozhikode,CinepolisGokulamGalleriaMall,Malayalam,15:30,Normal,150₹,38,38
+Kerala,Kozhikode,CinepolisGokulamGalleriaMall,Malayalam,15:30,Executive,170₹,69,69
+Kerala,Kozhikode,CinepolisGokulamGalleriaMall,Malayalam,15:30,Premium,190₹,56,56
+Kerala,Nooranad,SwathyScreensNooranad,Malayalam,16:00,Premium,150₹,140,0
+Kerala,Nooranad,SwathyScreensNooranad,Malayalam,16:00,GoldPlus,200₹,12,0
+Kerala,Kochi,CinepolisCentreSquareMallKochi,Malayalam,16:55,Normal,140₹,26,3
+Kerala,Kochi,CinepolisCentreSquareMallKochi,Malayalam,16:55,Executive,160₹,39,4
+Kerala,Kochi,CinepolisCentreSquareMallKochi,Malayalam,16:55,Premium,190₹,86,11
+Kerala,Kochi,CinepolisCentreSquareMallKochi,Tamil,20:20,Normal,140₹,26,26
+Kerala,Kochi,CinepolisCentreSquareMallKochi,Tamil,20:20,Executive,160₹,39,39
+Kerala,Kochi,CinepolisCentreSquareMallKochi,Tamil,20:20,Premium,190₹,86,86
