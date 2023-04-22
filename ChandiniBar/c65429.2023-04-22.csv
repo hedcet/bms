@@ -1,0 +1,16 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,TumakuruTumkur,InoxSMallTumakuru,Kannada,11:00,Club,130₹,64,16
+Karnataka,TumakuruTumkur,InoxSMallTumakuru,Kannada,11:00,Executive,110₹,76,5
+Karnataka,MysuruMysore,DrcCinemasBmHabitatMall,Kannada,13:15,Premium,160₹,182,1
+Karnataka,MysuruMysore,DrcCinemasBmHabitatMall,Kannada,13:15,Luxury,200₹,18,2
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,13:50,Classic,220₹,108,0
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,13:50,Prime,240₹,108,1
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,13:50,Recliner,410₹,16,2
+Karnataka,Bengaluru,GopalanMallSirsiCircle,Kannada,14:20,Gold,220₹,206,3
+Karnataka,KalaburagiGulbarga,ShettysMultiplexGulbarga,Kannada,15:45,1Platinum,180₹,23,8
+Karnataka,KalaburagiGulbarga,ShettysMultiplexGulbarga,Kannada,15:45,2Gold,150₹,189,126
+Karnataka,KalaburagiGulbarga,ShettysMultiplexGulbarga,Kannada,15:45,3Silver,130₹,163,97
+Karnataka,Bengaluru,CinepolisSjrCentralMallArekereBannergatta,Kannada,16:45,Normal,180₹,28,0
+Karnataka,Bengaluru,CinepolisSjrCentralMallArekereBannergatta,Kannada,16:45,Executive,200₹,59,0
+Karnataka,Bengaluru,CinepolisSjrCentralMallArekereBannergatta,Kannada,16:45,Premium,220₹,51,0
+Karnataka,Bengaluru,CinepolisSjrCentralMallArekereBannergatta,Kannada,16:45,Vip,400₹,12,0
