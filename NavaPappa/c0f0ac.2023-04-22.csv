@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Nadiad,CoconutViratMultiplexNadiad,Gujarati,10:00,Platinum,120₹,14,0
+Gujarat,Nadiad,CoconutViratMultiplexNadiad,Gujarati,10:00,Gold,100₹,91,4
+Gujarat,Ahmedabad,CityGoldAshramRoad,Gujarati,14:45,Executive,170₹,130,50
+Gujarat,Surat,TimeCinemaGalaxyCirclePalSurat,Gujarati,16:30,Infinity,280₹,22,12
+Gujarat,Vadodara,CinemarcAkotaVadodara,Gujarati,17:10,Silver,100₹,87,0
+Gujarat,Vadodara,CinemarcAkotaVadodara,Gujarati,17:10,Premier,100₹,12,0
+Gujarat,Vadodara,CinemarcAkotaVadodara,Gujarati,17:10,Sofa,110₹,26,9
+Gujarat,Vadodara,CinemarcNewVipRoad,Gujarati,18:05,Gold,110₹,20,16
+Gujarat,Vadodara,CinemarcNewVipRoad,Gujarati,18:05,Silver,110₹,87,24
+Gujarat,Vadodara,CinemarcNewVipRoad,Gujarati,18:05,Premium,110₹,13,0
+Gujarat,Vadodara,CinemarcNewVipRoad,Gujarati,18:05,Sofa,130₹,19,11
+Gujarat,Vadodara,MovietimeSSquareMallSubhanpuraVadodara,Gujarati,19:45,Recliner,150₹,9,9
+Gujarat,Vadodara,MovietimeSSquareMallSubhanpuraVadodara,Gujarati,19:45,Premium,100₹,104,14
+Gujarat,Vadodara,MovietimeSSquareMallSubhanpuraVadodara,Gujarati,19:45,Executive,100₹,48,0
