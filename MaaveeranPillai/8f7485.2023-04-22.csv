@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Tirupur,SriSakthiCinemasUnionMillRoadTirupur,Tamil,10:00,Diamond,190₹,16,0
+TamilNadu,Tirupur,SriSakthiCinemasUnionMillRoadTirupur,Tamil,10:00,Platinum,165₹,26,0
+TamilNadu,Tirupur,SriSakthiCinemasUnionMillRoadTirupur,Tamil,10:00,Gold,130₹,86,0
+TamilNadu,Tirupur,SriSakthiCinemasUnionMillRoadTirupur,Tamil,10:00,Silver,80₹,17,2
+TamilNadu,Trichy,LaCinemaMarisComplexRgbLaserTrichy,Tamil,11:20,Elite,140₹,87,7
+TamilNadu,Coimbatore,SakthivelanTheatreAlanduraiDolbySurround71,Tamil,14:30,FirstClass,100₹,313,0
+TamilNadu,Coimbatore,SakthivelanCinemasAlanduraiAC2KDolby71,Tamil,18:30,FirstClass,100₹,313,0
+TamilNadu,Coimbatore,SakthivelanCinemasAlanduraiAC2KDolby71,Tamil,22:00,FirstClass,100₹,313,0
