@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Anchal,VarshaRoyalSuiteAnchal,Malayalam,18:30,FamilyCircle,129₹,115,43
+Kerala,Anchal,VarshaRoyalSuiteAnchal,Malayalam,18:30,GeneralCircle,129₹,176,43
+Kerala,Anchal,VarshaRoyalSuiteAnchal,Malayalam,21:30,FamilyCircle,129₹,115,18
+Kerala,Anchal,VarshaRoyalSuiteAnchal,Malayalam,21:30,GeneralCircle,129₹,176,13
+Kerala,Alappuzha,EvmGrandCinemaCherthala,Malayalam,21:30,Platinum,160₹,23,7
+Kerala,Alappuzha,EvmGrandCinemaCherthala,Malayalam,21:30,Gold,129₹,185,13
