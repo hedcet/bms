@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Chennai,PvrVrChennaiAnnaNagar,Tamil,12:10,Classic,60₹,16,7
+TamilNadu,Chennai,PvrVrChennaiAnnaNagar,Tamil,12:10,Prime,190₹,110,29
+TamilNadu,Chennai,CinepolisBsrMallOmrThoraipakkam,Tamil,13:10,Normal,60₹,17,17
+TamilNadu,Chennai,CinepolisBsrMallOmrThoraipakkam,Tamil,13:10,Executive,190₹,151,10
+TamilNadu,Chennai,InoxLuxePhoenixMarketCityVelachery,Tamil,18:45,Elite,190₹,180,38
+TamilNadu,Chennai,InoxLuxePhoenixMarketCityVelachery,Tamil,18:45,Budget,60₹,20,19
