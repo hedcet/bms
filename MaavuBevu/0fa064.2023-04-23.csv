@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,PvrTheCinemaGtWorldBengaluru,Kannada,16:20,Classic,220₹,179,0
+Karnataka,Bengaluru,PvrTheCinemaGtWorldBengaluru,Kannada,16:20,Recliner,380₹,16,0
+Karnataka,Bengaluru,InoxMantriSquareMalleshwaram,Kannada,16:40,Club,250₹,225,18
+Karnataka,Bengaluru,GopalanCinemasArcadeMallMysoreRoad,Kannada,19:15,Gold,236₹,292,40
+Karnataka,Bengaluru,GopalanCinemasArcadeMallMysoreRoad,Kannada,19:15,Recliner,350₹,19,0
