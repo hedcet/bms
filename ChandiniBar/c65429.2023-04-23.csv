@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,SriGurusiddeshwara2KChitraMandiraThippasandra,Kannada,10:30,GoldClass,100₹,149,0
+Karnataka,Bengaluru,SriGurusiddeshwara2KChitraMandiraThippasandra,Kannada,10:30,SilverClass,100₹,200,0
+Karnataka,TumakuruTumkur,InoxSMallTumakuru,Kannada,11:00,Club,130₹,64,10
+Karnataka,TumakuruTumkur,InoxSMallTumakuru,Kannada,11:00,Executive,110₹,76,0
+Karnataka,Bengaluru,PvrTheCinemaGtWorldBengaluru,Kannada,11:05,Classic,150₹,179,0
+Karnataka,Bengaluru,PvrTheCinemaGtWorldBengaluru,Kannada,11:05,Recliner,290₹,16,0
+Karnataka,MysuruMysore,DrcCinemasBmHabitatMall,Kannada,13:15,Premium,160₹,182,15
+Karnataka,MysuruMysore,DrcCinemasBmHabitatMall,Kannada,13:15,Luxury,200₹,18,0
+Karnataka,Bengaluru,SriGurusiddeshwara2KChitraMandiraThippasandra,Kannada,13:30,GoldClass,100₹,149,0
+Karnataka,Bengaluru,SriGurusiddeshwara2KChitraMandiraThippasandra,Kannada,13:30,SilverClass,100₹,200,0
+Karnataka,MysuruMysore,InoxCentroMysore,Kannada,13:40,Club,190₹,44,12
+Karnataka,MysuruMysore,InoxCentroMysore,Kannada,13:40,Executive,170₹,46,7
+Karnataka,Bengaluru,GopalanMallSirsiCircle,Kannada,14:20,Gold,250₹,206,3
+Karnataka,KalaburagiGulbarga,ShettysMultiplexGulbarga,Kannada,15:45,1Platinum,180₹,23,8
+Karnataka,KalaburagiGulbarga,ShettysMultiplexGulbarga,Kannada,15:45,2Gold,150₹,189,126
+Karnataka,KalaburagiGulbarga,ShettysMultiplexGulbarga,Kannada,15:45,3Silver,130₹,163,97
