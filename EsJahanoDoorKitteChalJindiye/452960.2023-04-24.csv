@@ -1,0 +1,14 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Punjab,Amritsar,CinepolisNexusAmritsar,Punjabi,10:35,Normal,150₹,96,0
+Punjab,Amritsar,CinepolisNexusAmritsar,Punjabi,10:35,Executive,160₹,148,3
+Punjab,Amritsar,CinepolisNexusAmritsar,Punjabi,10:35,Vip,320₹,16,0
+Chandigarh,Chandigarh,CinepolisBestechSquareMohali,Punjabi,12:40,Normal,140₹,26,0
+Chandigarh,Chandigarh,CinepolisBestechSquareMohali,Punjabi,12:40,Executive,160₹,69,4
+Chandigarh,Chandigarh,CinepolisBestechSquareMohali,Punjabi,12:40,Premium,180₹,47,2
+Chandigarh,Chandigarh,CinepolisBestechSquareMohali,Punjabi,12:40,Vip,310₹,10,2
+Haryana,Bathinda,FunCinemasMittalCityMallBathinda,Punjabi,13:40,Normal,230₹,60,0
+Haryana,Bathinda,FunCinemasMittalCityMallBathinda,Punjabi,13:40,Executive,240₹,60,0
+Haryana,Bathinda,FunCinemasMittalCityMallBathinda,Punjabi,13:40,Premium,250₹,64,7
+Punjab,Ludhiana,CinepolisMbdNeopolisMallLudhiana,Punjabi,14:35,Premium,200₹,95,25
+Punjab,Rupnagar,JrRitzMultiplexRopar,Punjabi,15:20,Silver,150₹,95,0
+Punjab,Ludhiana,PvrPavilionLudhiana,Punjabi,16:50,Classic,180₹,77,23
