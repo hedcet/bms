@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Chennai,InoxChennaiCitiCentreDrRkSalai,Hindi,19:00,Club,202₹,246,21
+TamilNadu,Chennai,InoxChennaiCitiCentreDrRkSalai,Hindi,19:00,Executive,63₹,38,38
+TamilNadu,Chennai,InoxChennaiCitiCentreDrRkSalai,Hindi,22:30,Club,202₹,246,21
+TamilNadu,Chennai,InoxChennaiCitiCentreDrRkSalai,Hindi,22:30,Executive,63₹,38,0
