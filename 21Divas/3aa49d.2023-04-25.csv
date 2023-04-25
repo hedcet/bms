@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Rajkot,InoxRajkotRWorld,Gujarati,15:00,Gold,190₹,141,86
+Gujarat,Rajkot,InoxRajkotRWorld,Gujarati,15:00,Silver,170₹,41,1
+Maharashtra,Mumbai,MetroInoxCinemasMarineLines,Gujarati,19:00,Kiddles,210₹,45,12
