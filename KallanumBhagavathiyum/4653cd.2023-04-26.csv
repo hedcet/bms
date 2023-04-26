@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Kodaly,SreedeviSCinemasKodaly,Malayalam,12:00,Royal,220₹,21,0
+Kerala,Kodaly,SreedeviSCinemasKodaly,Malayalam,12:00,Red,130₹,151,0
+Kerala,Anchal,VarshaRoyalSuiteAnchal,Malayalam,18:30,FamilyCircle,129₹,115,39
+Kerala,Anchal,VarshaRoyalSuiteAnchal,Malayalam,18:30,GeneralCircle,129₹,176,39
+Kerala,Alappuzha,EvmGrandCinemaCherthala,Malayalam,21:30,Platinum,160₹,23,3
+Kerala,Alappuzha,EvmGrandCinemaCherthala,Malayalam,21:30,Gold,129₹,185,20
+Kerala,Anchal,VarshaRoyalSuiteAnchal,Malayalam,21:30,FamilyCircle,129₹,115,37
+Kerala,Anchal,VarshaRoyalSuiteAnchal,Malayalam,21:30,GeneralCircle,129₹,176,34
