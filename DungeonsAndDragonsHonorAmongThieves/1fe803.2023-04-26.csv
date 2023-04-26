@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Haryana,NationalCapitalRegionNcr,PvrAmbienceGoldGurgaon,English,11:00,Platinum,500₹,28,1
+Haryana,NationalCapitalRegionNcr,PvrAmbienceGoldGurgaon,English,11:00,PlatinumSuperior,500₹,16,0
+Karnataka,Bengaluru,PvrVegaCityBannerghattaRoad,English,11:25,Classic,112₹,77,19
+Maharashtra,Mumbai,PvrIconPhoenixPalladiumLowerParelMumbai,English,11:30,Lounger,170₹,10,0
+Maharashtra,Mumbai,PvrIconPhoenixPalladiumLowerParelMumbai,English,11:30,Classic,120₹,42,1
+Maharashtra,Mumbai,PvrIconPhoenixPalladiumLowerParelMumbai,English,11:30,Prime,220₹,68,6
+Maharashtra,Mumbai,PvrIconPhoenixPalladiumLowerParelMumbai,English,11:30,Recliner,280₹,14,3
+Telangana,Hyderabad,PvrForumSujanaMallKukatpallyHyderabad,English,14:15,Classic,150₹,135,5
+Telangana,Hyderabad,PvrForumSujanaMallKukatpallyHyderabad,English,14:15,Recliner,250₹,9,6
+Karnataka,Bengaluru,PvrGoldVrBengaluruWhitefieldRoad,English,17:50,Gold,500₹,21,3
+Karnataka,Bengaluru,PvrGoldVrBengaluruWhitefieldRoad,English,17:50,GoldPrime,550₹,7,6
+Karnataka,Bengaluru,PvrPhoenixMarketcityMallWhitefieldRoad,English,19:05,Classic,200₹,120,13
+Karnataka,Bengaluru,PvrPhoenixMarketcityMallWhitefieldRoad,English,19:05,Recliner,310₹,8,6
+Karnataka,Bengaluru,PvrNexusFormerlyForumKoramangala,English,19:25,Classic,190₹,103,32
