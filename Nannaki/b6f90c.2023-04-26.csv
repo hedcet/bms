@@ -1,0 +1,14 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bidar,SapnaMultiplexBidar,Kannada,11:30,Gold,150₹,300,0
+Karnataka,Mudhol,SuryavanshiMultiplexMudhol,Kannada,12:00,GoldClass,150₹,154,2
+Karnataka,Muddebihal,AmirTheatreMuddebihal,Kannada,12:00,DressCircle,100₹,366,160
+Karnataka,Muddebihal,AmirTheatreMuddebihal,Kannada,15:00,DressCircle,100₹,366,160
+Karnataka,Bengaluru,PvrMsrElementsMallTanisandhraMainRoad,Kannada,15:40,Classic,160₹,96,0
+Karnataka,Bengaluru,PvrMsrElementsMallTanisandhraMainRoad,Kannada,15:40,Prime,180₹,19,0
+Karnataka,Bengaluru,PvrMsrElementsMallTanisandhraMainRoad,Kannada,15:40,Recliner,260₹,11,0
+Karnataka,Muddebihal,AmirTheatreMuddebihal,Kannada,18:00,DressCircle,100₹,366,160
+Karnataka,MangaluruMangalore,PvrForumFizaMallPandeshwar,Kannada,18:50,Classic,110₹,79,8
+Karnataka,HubballiHubli,CinepolisUrbanOasisMallHubli,Kannada,19:50,Normal,200₹,38,0
+Karnataka,HubballiHubli,CinepolisUrbanOasisMallHubli,Kannada,19:50,Executive,200₹,103,0
+Karnataka,HubballiHubli,CinepolisUrbanOasisMallHubli,Kannada,19:50,Premium,200₹,62,33
+Karnataka,Muddebihal,AmirTheatreMuddebihal,Kannada,21:00,DressCircle,100₹,366,160
