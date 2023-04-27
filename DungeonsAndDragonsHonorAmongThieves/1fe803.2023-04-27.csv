@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,NationalCapitalRegionNcr,PvrAmbienceGoldGurgaon,English,11:00,Platinum,500₹,28,0
+UttarPradesh,NationalCapitalRegionNcr,PvrAmbienceGoldGurgaon,English,11:00,PlatinumSuperior,500₹,16,2
+Karnataka,Bengaluru,PvrVegaCityBannerghattaRoad,English,11:25,Classic,112₹,77,1
+Maharashtra,Mumbai,PvrIconPhoenixPalladiumLowerParelMumbai,English,11:30,Lounger,170₹,10,0
+Maharashtra,Mumbai,PvrIconPhoenixPalladiumLowerParelMumbai,English,11:30,Classic,120₹,42,0
+Maharashtra,Mumbai,PvrIconPhoenixPalladiumLowerParelMumbai,English,11:30,Prime,220₹,68,1
+Maharashtra,Mumbai,PvrIconPhoenixPalladiumLowerParelMumbai,English,11:30,Recliner,280₹,14,4
+Gujarat,Ahmedabad,TimeCinemaCgRoadAhmedabad,English,12:00,Infinity,"1,030₹",12,0
+Telangana,Hyderabad,PvrForumSujanaMallKukatpallyHyderabad,English,14:15,Classic,150₹,135,8
+Telangana,Hyderabad,PvrForumSujanaMallKukatpallyHyderabad,English,14:15,Recliner,250₹,9,6
+UttarPradesh,NationalCapitalRegionNcr,PvrPromenadeVasantKunj,English,15:55,Classic,280₹,50,2
+UttarPradesh,NationalCapitalRegionNcr,PvrPromenadeVasantKunj,English,15:55,Prime,320₹,44,20
+TamilNadu,Chennai,InoxLuxePhoenixMarketCityVelachery,English,18:50,Elite,211₹,180,30
+TamilNadu,Chennai,InoxLuxePhoenixMarketCityVelachery,English,18:50,Budget,66₹,20,2
+Karnataka,Bengaluru,PvrNexusFormerlyForumKoramangala,English,19:25,Classic,190₹,103,39
+UttarPradesh,NationalCapitalRegionNcr,PvrLogixNoida,English,22:55,Classic,260₹,87,4
