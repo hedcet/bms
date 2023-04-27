@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Tirupur,Mps3DCinemasACDtsTirupur,Tamil,13:00,Balcony,130₹,138,0
+TamilNadu,Tirupur,Mps3DCinemasACDtsTirupur,Tamil,13:00,Box,130₹,24,0
+TamilNadu,Tirupur,Mps3DCinemasACDtsTirupur,Tamil,13:00,FirstClass,120₹,349,46
+TamilNadu,Tirupur,Mps3DCinemasACDtsTirupur,Tamil,13:00,SecondClass,90₹,91,0
+TamilNadu,Tirupur,Mps3DCinemasACDtsTirupur,Tamil,13:00,ThirdClass,90₹,58,0
+TamilNadu,Tirupur,Mps3DCinemasDolbyAtmosTirupur,Tamil,20:30,Balcony,130₹,138,0
+TamilNadu,Tirupur,Mps3DCinemasDolbyAtmosTirupur,Tamil,20:30,Box,130₹,24,0
+TamilNadu,Tirupur,Mps3DCinemasDolbyAtmosTirupur,Tamil,20:30,FirstClass,120₹,349,46
+TamilNadu,Tirupur,Mps3DCinemasDolbyAtmosTirupur,Tamil,20:30,SecondClass,90₹,91,0
+TamilNadu,Tirupur,Mps3DCinemasDolbyAtmosTirupur,Tamil,20:30,ThirdClass,90₹,58,0
