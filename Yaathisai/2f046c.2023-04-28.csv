@@ -1,0 +1,14 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Virudhunagar,AmirtharajTheatreAC2KDolby71Virudhunagar,Tamil,10:30,BoxBCouple,150₹,22,4
+TamilNadu,Virudhunagar,AmirtharajTheatreAC2KDolby71Virudhunagar,Tamil,10:30,FirstClass,100₹,341,1
+TamilNadu,Coimbatore,CinepolisFunRepublicMallCoimbatore,Tamil,12:50,Normal,60₹,17,8
+TamilNadu,Coimbatore,CinepolisFunRepublicMallCoimbatore,Tamil,12:50,Executive,190₹,142,56
+TamilNadu,Virudhunagar,AmirtharajTheatreAC2KDolby71Virudhunagar,Tamil,14:30,BoxBCouple,150₹,22,8
+TamilNadu,Virudhunagar,AmirtharajTheatreAC2KDolby71Virudhunagar,Tamil,14:30,FirstClass,100₹,341,4
+TamilNadu,Kovilpatti,SathyabamaSbtMultiplexDolbyAtmos4K3D,Tamil,14:30,FirstClass,150₹,119,14
+TamilNadu,Chennai,SpiPalazzoTheForumVijayaMallVadapalani,Tamil,15:25,Budget,60₹,27,27
+TamilNadu,Chennai,SpiPalazzoTheForumVijayaMallVadapalani,Tamil,15:25,Elite,165₹,210,74
+TamilNadu,Virudhunagar,AmirtharajTheatreAC2KDolby71Virudhunagar,Tamil,18:30,BoxBCouple,150₹,22,0
+TamilNadu,Virudhunagar,AmirtharajTheatreAC2KDolby71Virudhunagar,Tamil,18:30,FirstClass,100₹,341,0
+TamilNadu,Virudhunagar,AmirtharajTheatreAC2KDolby71Virudhunagar,Tamil,22:30,BoxBCouple,150₹,22,0
+TamilNadu,Virudhunagar,AmirtharajTheatreAC2KDolby71Virudhunagar,Tamil,22:30,FirstClass,100₹,341,0
