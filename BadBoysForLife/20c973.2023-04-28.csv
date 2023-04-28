@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Delhi,NationalCapitalRegionNcr,CinepolisGrandVeniceMallGreaterNoida,Hindi,11:45,Normal,112₹,22,0
+Delhi,NationalCapitalRegionNcr,CinepolisGrandVeniceMallGreaterNoida,Hindi,11:45,Executive,130₹,67,2
+Delhi,NationalCapitalRegionNcr,CinepolisGrandVeniceMallGreaterNoida,Hindi,11:45,Premium,140₹,35,10
