@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Coimbatore,SpiTheCinemaBrookefieldsMall,Tamil,12:30,Budget,60₹,20,16
+TamilNadu,Coimbatore,SpiTheCinemaBrookefieldsMall,Tamil,12:30,Elite,190₹,174,30
+TamilNadu,Chennai,SpiPalazzoTheForumVijayaMallVadapalani,Tamil,19:40,Budget,60₹,26,17
+TamilNadu,Chennai,SpiPalazzoTheForumVijayaMallVadapalani,Tamil,19:40,Elite,165₹,230,54
