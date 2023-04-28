@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Vadakara,KirthiMudra4KRgbLaserDolbyAtmos,Malayalam,10:30,Gold,129₹,329,0
+Kerala,Kollam,GmaxCinemasJerome3D71JblKollam,Malayalam,14:15,Blue,160₹,170,25
+Kerala,Muvattupuzha,CarnivalGrandCentreMallMuvattupuzha,Malayalam,14:40,ExecutiveOffline,150₹,96,8
+Kerala,Muvattupuzha,CarnivalGrandCentreMallMuvattupuzha,Malayalam,16:50,ExecutiveOffline,150₹,96,0
+Kerala,Vadakara,KirthiMudra4KRgbLaserDolbyAtmos,Malayalam,17:30,Gold,129₹,329,0
+Kerala,Kochi,PvrOberonMallKochi,Malayalam,19:25,Classic,140₹,36,0
+Kerala,Kochi,PvrOberonMallKochi,Malayalam,19:25,ClassicPlus,180₹,81,26
+Kerala,Kollam,GmaxCinemasJerome3D71JblKollam,Malayalam,21:30,Blue,180₹,170,18
