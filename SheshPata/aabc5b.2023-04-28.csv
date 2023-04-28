@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Delhi,NationalCapitalRegionNcr,PvrLogixNoida,Bengali,20:05,Classic,200₹,87,6
+Delhi,NationalCapitalRegionNcr,PvrVegasDwarka,Bengali,20:20,Classic,200₹,120,1
+Delhi,NationalCapitalRegionNcr,PvrVegasDwarka,Bengali,20:20,Prime,250₹,15,0
