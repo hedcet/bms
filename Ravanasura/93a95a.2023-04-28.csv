@@ -1,0 +1,14 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Tanuku,SriVenkateswaraComplexTanuku,Telugu,11:00,Sofa,0₹,249,2
+AndhraPradesh,Tanuku,SriVenkateswaraComplexTanuku,Telugu,11:00,ThirdClass,0₹,78,69
+AndhraPradesh,Kakinada,LaxmiACDts2KKakinada,Telugu,11:30,FirstClass,112₹,355,25
+AndhraPradesh,Kakinada,LaxmiACDts2KKakinada,Telugu,11:30,SecondClass,75₹,104,23
+AndhraPradesh,Tanuku,SriVenkateswaraComplexTanuku,Telugu,14:00,Sofa,0₹,249,2
+AndhraPradesh,Tanuku,SriVenkateswaraComplexTanuku,Telugu,14:00,ThirdClass,0₹,78,69
+AndhraPradesh,Eluru,AmbicaDeluxScreen1Eluru,Telugu,14:30,FirstClass,150₹,207,0
+AndhraPradesh,Tanuku,SriVenkateswaraComplexTanuku,Telugu,18:00,Sofa,0₹,249,2
+AndhraPradesh,Tanuku,SriVenkateswaraComplexTanuku,Telugu,18:00,ThirdClass,0₹,78,69
+AndhraPradesh,Eluru,AmbicaDeluxScreen1Eluru,Telugu,18:30,FirstClass,150₹,207,0
+AndhraPradesh,Tanuku,SriVenkateswaraComplexTanuku,Telugu,21:00,Sofa,0₹,249,2
+AndhraPradesh,Tanuku,SriVenkateswaraComplexTanuku,Telugu,21:00,ThirdClass,0₹,78,69
+AndhraPradesh,Eluru,AmbicaDeluxScreen1Eluru,Telugu,21:30,FirstClass,150₹,207,0
