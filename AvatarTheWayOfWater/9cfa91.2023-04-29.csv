@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Delhi,NationalCapitalRegionNcr,PvrAmbienceGurgaon,English,13:00,ClassicNormal,300₹,105,9
+Delhi,NationalCapitalRegionNcr,PvrAmbienceGurgaon,English,13:00,Prime,400₹,86,25
+Gujarat,Ahmedabad,PvrArvedTranscubeAhmedabad,Hindi,13:15,Classic,180₹,39,0
+Gujarat,Ahmedabad,PvrArvedTranscubeAhmedabad,Hindi,13:15,Prime,220₹,96,27
+Delhi,NationalCapitalRegionNcr,DelhiPvrDirectorSCutAmbienceMall,English,15:55,Platinum,800₹,19,19
+Delhi,NationalCapitalRegionNcr,DelhiPvrDirectorSCutAmbienceMall,English,15:55,PlatinumSuperior,"1,000₹",6,6
+Karnataka,Bengaluru,CinepolisForumShantiniketanBengaluru,English,18:10,Normal,250₹,69,57
+Karnataka,Bengaluru,CinepolisForumShantiniketanBengaluru,English,18:10,DoubleSofa,375₹,24,24
+Karnataka,Bengaluru,CinepolisForumShantiniketanBengaluru,English,18:10,Lounger,320₹,9,7
+Karnataka,Bengaluru,CinepolisForumShantiniketanBengaluru,English,18:10,SingleSofa,350₹,6,5
+Karnataka,Bengaluru,PvrNexusFormerlyForumKoramangala,English,22:15,Classic,152₹,103,101
+Delhi,NationalCapitalRegionNcr,PvrVegasDwarka,English,22:20,Classic,420₹,108,13
+Delhi,NationalCapitalRegionNcr,PvrVegasDwarka,English,22:20,Prime,470₹,88,13
+Delhi,NationalCapitalRegionNcr,PvrLogixNoida,English,22:30,Classic,360₹,49,25
+Delhi,NationalCapitalRegionNcr,PvrSelectCityWalkGoldDelhi,English,22:55,Platinum,900₹,24,0
+Delhi,NationalCapitalRegionNcr,PvrSelectCityWalkGoldDelhi,English,22:55,DboxPlatinum,"1,400₹",16,0
