@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Punjab,Amritsar,CinepolisMallOfAmritsar,Punjabi,10:10,Normal,170₹,48,0
+Punjab,Amritsar,CinepolisMallOfAmritsar,Punjabi,10:10,Executive,180₹,75,0
+Punjab,Amritsar,CinepolisMallOfAmritsar,Punjabi,10:10,Vip,330₹,12,2
+Punjab,Amritsar,CinepolisMallOfAmritsar,Punjabi,16:40,Normal,180₹,39,0
+Punjab,Amritsar,CinepolisMallOfAmritsar,Punjabi,16:40,Executive,190₹,52,3
+Punjab,Amritsar,CinepolisMallOfAmritsar,Punjabi,16:40,Vip,350₹,11,1
+Punjab,Amritsar,CinepolisMallOfAmritsar,Punjabi,19:45,Normal,180₹,48,3
+Punjab,Amritsar,CinepolisMallOfAmritsar,Punjabi,19:45,Executive,190₹,75,0
+Punjab,Amritsar,CinepolisMallOfAmritsar,Punjabi,19:45,Vip,350₹,12,2
