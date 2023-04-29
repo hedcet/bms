@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,NationalCapitalRegionNcr,CinepolisCrossRiverMallShahdara,Hindi,10:50,Normal,227₹,72,0
+UttarPradesh,NationalCapitalRegionNcr,CinepolisCrossRiverMallShahdara,Hindi,10:50,Executive,236₹,58,0
+UttarPradesh,NationalCapitalRegionNcr,CinepolisGrandVeniceMallGreaterNoida,Hindi,11:45,Normal,112₹,22,22
+UttarPradesh,NationalCapitalRegionNcr,CinepolisGrandVeniceMallGreaterNoida,Hindi,11:45,Executive,130₹,67,67
+UttarPradesh,NationalCapitalRegionNcr,CinepolisGrandVeniceMallGreaterNoida,Hindi,11:45,Premium,140₹,35,35
