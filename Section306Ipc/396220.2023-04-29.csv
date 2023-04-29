@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Trivandrum,ArtechCinemasTrivandrum,Malayalam,12:30,Platinum,150₹,61,17
+Kerala,Trivandrum,ArtechCinemasTrivandrum,Malayalam,12:30,Silver,130₹,107,20
+Kerala,Trivandrum,ArtechCinemasTrivandrum,Malayalam,12:30,Executive,110₹,28,0
+Kerala,Kozhikode,RegalCinemaKozhikode,Malayalam,14:15,FirstClassSc1,200₹,95,43
