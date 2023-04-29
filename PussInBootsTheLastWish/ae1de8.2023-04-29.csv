@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Delhi,NationalCapitalRegionNcr,PvrLogixNoida,English,13:30,Classic,360₹,49,9
+Delhi,NationalCapitalRegionNcr,CinepolisAiriaMallSohnaRoadGurgaon,English,15:00,Normal,240₹,30,9
+Delhi,NationalCapitalRegionNcr,CinepolisAiriaMallSohnaRoadGurgaon,English,15:00,DoubleSofa,360₹,24,10
+Delhi,NationalCapitalRegionNcr,CinepolisAiriaMallSohnaRoadGurgaon,English,15:00,Lounger,360₹,8,0
+Telangana,Hyderabad,PvrNextGalleriaMallPanjagutta,English,16:20,Classic,150₹,54,50
