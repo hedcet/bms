@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,TumakuruTumkur,SriKrishnaTalkiesACMGRoad,Kannada,10:30,BalconyClass,120₹,221,0
+Karnataka,TumakuruTumkur,SriKrishnaTalkiesACMGRoad,Kannada,10:30,SecondClass,100₹,485,0
+Karnataka,TumakuruTumkur,SriKrishnaTalkiesACMGRoad,Kannada,13:30,BalconyClass,120₹,221,0
+Karnataka,TumakuruTumkur,SriKrishnaTalkiesACMGRoad,Kannada,13:30,SecondClass,100₹,485,0
+Karnataka,TumakuruTumkur,SriKrishnaTalkiesACMGRoad,Kannada,17:00,BalconyClass,120₹,221,0
+Karnataka,TumakuruTumkur,SriKrishnaTalkiesACMGRoad,Kannada,17:00,SecondClass,100₹,485,0
+Karnataka,TumakuruTumkur,SriKrishnaTalkiesACMGRoad,Kannada,20:00,BalconyClass,120₹,221,0
+Karnataka,TumakuruTumkur,SriKrishnaTalkiesACMGRoad,Kannada,20:00,SecondClass,100₹,485,0
+Karnataka,Shivamogga,BharathCinemasShivamogga,Kannada,20:00,Gold,150₹,96,12
+Karnataka,Shivamogga,BharathCinemasShivamogga,Kannada,20:00,Silver,150₹,40,0
+Karnataka,Shivamogga,BharathCinemasShivamogga,Kannada,20:00,Special,110₹,30,0
