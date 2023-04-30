@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Ahmedabad,PvrMoteraAhmedabad,Gujarati,11:00,Classic,100₹,69,69
+Gujarat,Ahmedabad,PvrMoteraAhmedabad,Gujarati,11:00,Prime,130₹,212,212
+Gujarat,Ahmedabad,PvrMoteraAhmedabad,Gujarati,11:00,Recliner,230₹,29,29
