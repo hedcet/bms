@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Maharashtra,Mumbai,PvrOdeonMallGhatkopar,Gujarati,15:50,Classic,190₹,27,0
+Maharashtra,Mumbai,PvrOdeonMallGhatkopar,Gujarati,15:50,Prime,190₹,100,2
+Maharashtra,Mumbai,PvrOdeonMallGhatkopar,Gujarati,15:50,PrimePlus,190₹,52,2
+Maharashtra,Mumbai,PvrOdeonMallGhatkopar,Gujarati,15:50,Recliner,290₹,9,0
+Gujarat,Ahmedabad,CinemaxDevArcAhmedabad,Gujarati,19:15,Classic,130₹,34,0
+Gujarat,Ahmedabad,CinemaxDevArcAhmedabad,Gujarati,19:15,Prime,130₹,165,21
+Gujarat,Ahmedabad,CinemaxDevArcAhmedabad,Gujarati,19:15,Recliner,220₹,34,0
+Gujarat,Deesa,RajmandirMultiplexDeesa,Gujarati,21:00,Gold,110₹,136,5
+Gujarat,Deesa,RajmandirMultiplexDeesa,Gujarati,21:00,Silver,110₹,60,0
+Maharashtra,Mumbai,PvrMilapKandivaliW,Gujarati,22:40,Classic,210₹,103,0
+Maharashtra,Mumbai,PvrMilapKandivaliW,Gujarati,22:40,Prime,230₹,57,0
