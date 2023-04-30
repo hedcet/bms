@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Surat,PvrRahulRajSurat,Gujarati,12:10,Classic,130₹,30,0
+Gujarat,Surat,PvrRahulRajSurat,Gujarati,12:10,ClassicPlus,130₹,30,0
+Gujarat,Surat,PvrRahulRajSurat,Gujarati,12:10,Prime,130₹,72,46
+Gujarat,Surat,PvrRahulRajSurat,Gujarati,12:10,Recliner,220₹,24,22
+Gujarat,Ahmedabad,PvrAcropolisAhmedabad,Gujarati,13:40,Classic,130₹,39,0
+Gujarat,Ahmedabad,PvrAcropolisAhmedabad,Gujarati,13:40,Prime,130₹,65,51
+Gujarat,Ahmedabad,PvrAcropolisAhmedabad,Gujarati,13:40,PrimePlus,130₹,66,62
+Gujarat,Ahmedabad,PvrAcropolisAhmedabad,Gujarati,13:40,Recliner,400₹,9,0
+Gujarat,Ahmedabad,TimeCinemaCgRoadAhmedabad,Gujarati,16:00,Standard,200₹,108,0
+Gujarat,Surat,TimeCinemaGalaxyCirclePalSurat,Gujarati,17:45,InfinitySofa,260₹,34,18
+Gujarat,Ahmedabad,PvrArvedTranscubeAhmedabad,Gujarati,19:30,Classic,130₹,39,0
+Gujarat,Ahmedabad,PvrArvedTranscubeAhmedabad,Gujarati,19:30,Prime,130₹,96,89
