@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,NationalCapitalRegionNcr,CinepolisGrandVeniceMallGreaterNoida,Hindi,11:55,Normal,112₹,22,0
+UttarPradesh,NationalCapitalRegionNcr,CinepolisGrandVeniceMallGreaterNoida,Hindi,11:55,Executive,130₹,67,0
+UttarPradesh,NationalCapitalRegionNcr,CinepolisGrandVeniceMallGreaterNoida,Hindi,11:55,Premium,140₹,35,10
