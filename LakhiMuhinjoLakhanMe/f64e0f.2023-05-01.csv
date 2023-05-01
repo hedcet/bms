@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+MadhyaPradesh,Indore,InoxSapnaSangeetaMallSnehaNagar,Sindhi,12:25,Club,230₹,160,7
+MadhyaPradesh,Indore,InoxSapnaSangeetaMallSnehaNagar,Sindhi,12:25,Royale,230₹,43,43
+MadhyaPradesh,Indore,InoxSapnaSangeetaMallSnehaNagar,Sindhi,12:25,Executive,210₹,80,0
+MadhyaPradesh,Indore,InoxSapnaSangeetaMallSnehaNagar,Sindhi,18:55,Club,240₹,160,14
+MadhyaPradesh,Indore,InoxSapnaSangeetaMallSnehaNagar,Sindhi,18:55,Royale,240₹,43,43
+MadhyaPradesh,Indore,InoxSapnaSangeetaMallSnehaNagar,Sindhi,18:55,Executive,220₹,80,0
