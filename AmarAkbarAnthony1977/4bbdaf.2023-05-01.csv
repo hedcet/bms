@@ -1,0 +1,16 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Vadodara,PvrTransCubeVadodara,Hindi,13:55,Classic,150₹,34,0
+Gujarat,Vadodara,PvrTransCubeVadodara,Hindi,13:55,Prime,150₹,100,0
+Gujarat,Vadodara,PvrTransCubeVadodara,Hindi,13:55,Recliner,250₹,8,0
+Karnataka,Bengaluru,PvrBhartiyaMallOfBengaluru,Hindi,15:40,Classic,250₹,72,72
+Karnataka,Bengaluru,PvrBhartiyaMallOfBengaluru,Hindi,15:40,Prime,270₹,81,81
+Karnataka,Bengaluru,PvrBhartiyaMallOfBengaluru,Hindi,15:40,Recliner,430₹,15,14
+UttarPradesh,Lucknow,InoxPhoenixPalassioMallLucknow,Hindi,19:00,RoyaleRecliners,250₹,16,6
+UttarPradesh,Lucknow,InoxPhoenixPalassioMallLucknow,Hindi,19:00,Club,150₹,96,0
+UttarPradesh,Lucknow,InoxPhoenixPalassioMallLucknow,Hindi,19:00,Executive,150₹,32,0
+UttarPradesh,Lucknow,InoxPhoenixPalassioMallLucknow,Hindi,19:00,Royale,150₹,80,10
+UttarPradesh,NationalCapitalRegionNcr,InoxCrownInteriorzMallDelhiMathuraRoad,Hindi,19:00,Club,150₹,190,12
+UttarPradesh,NationalCapitalRegionNcr,InoxCrownInteriorzMallDelhiMathuraRoad,Hindi,19:00,Executive,150₹,48,0
+Orissa,Bhubaneswar,InoxDnRegaliaMall,Hindi,19:10,Club,150₹,50,0
+Orissa,Bhubaneswar,InoxDnRegaliaMall,Hindi,19:10,Executive,150₹,20,0
+Orissa,Bhubaneswar,InoxDnRegaliaMall,Hindi,19:10,Royal,150₹,69,10
