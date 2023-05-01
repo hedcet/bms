@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Delhi,NationalCapitalRegionNcr,InoxAiplJoyStreetGurgaon,Bengali,12:30,Club,170₹,40,0
+Delhi,NationalCapitalRegionNcr,InoxAiplJoyStreetGurgaon,Bengali,12:30,Royale,170₹,48,9
+Maharashtra,Pune,InoxAmanoraTownCentreHadapsar,Bengali,17:45,Royale,300₹,5,4
+Maharashtra,Pune,InoxAmanoraTownCentreHadapsar,Bengali,17:45,Club,190₹,119,19
+Maharashtra,Pune,InoxAmanoraTownCentreHadapsar,Bengali,17:45,Executive,190₹,21,0
+Maharashtra,Mumbai,PvrLodhaXperiaPalava,Bengali,18:15,Classic,260₹,36,0
+Maharashtra,Mumbai,PvrLodhaXperiaPalava,Bengali,18:15,Prime,310₹,126,5
+Maharashtra,Mumbai,PvrLodhaXperiaPalava,Bengali,18:15,Recliner,410₹,12,0
+Delhi,NationalCapitalRegionNcr,PvrLogixNoida,Bengali,20:05,Classic,149₹,87,15
+Delhi,NationalCapitalRegionNcr,PvrVegasDwarka,Bengali,20:20,Classic,300₹,120,6
+Delhi,NationalCapitalRegionNcr,PvrVegasDwarka,Bengali,20:20,Prime,320₹,15,0
