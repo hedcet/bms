@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Punjab,Ludhiana,PvrPavilionLudhiana,Punjabi,18:05,Classic,200₹,77,24
+Delhi,Chandigarh,PvrVrPunjabMallMohali,Punjabi,21:20,Classic,180₹,120,6
+Delhi,Chandigarh,PvrVrPunjabMallMohali,Punjabi,21:20,Prime,210₹,42,3
