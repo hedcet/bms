@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Srikakulam,MithraMovieMaxSrikakulam,Telugu,14:30,Balcony,165₹,264,3
+AndhraPradesh,Srikakulam,MithraMovieMaxSrikakulam,Telugu,18:30,Balcony,165₹,264,0
+AndhraPradesh,Srikakulam,MithraMovieMaxSrikakulam,Telugu,21:45,Balcony,165₹,264,0
