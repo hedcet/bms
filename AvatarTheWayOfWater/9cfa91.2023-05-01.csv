@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,CinepolisForumShantiniketanBengaluru,English,18:15,Normal,250₹,69,53
+Karnataka,Bengaluru,CinepolisForumShantiniketanBengaluru,English,18:15,DoubleSofa,375₹,24,24
+Karnataka,Bengaluru,CinepolisForumShantiniketanBengaluru,English,18:15,Lounger,320₹,9,8
+Karnataka,Bengaluru,CinepolisForumShantiniketanBengaluru,English,18:15,SingleSofa,350₹,6,5
+Delhi,NationalCapitalRegionNcr,PvrLogixNoida,English,20:35,Classic,305₹,49,5
+Delhi,NationalCapitalRegionNcr,PvrDirectorSCutDelhiAmbienceMall,English,21:15,Platinum,700₹,19,2
+Delhi,NationalCapitalRegionNcr,PvrDirectorSCutDelhiAmbienceMall,English,21:15,PlatinumSuperior,900₹,6,6
+Delhi,NationalCapitalRegionNcr,PvrPromenadeVasantKunj,English,21:45,Classic,380₹,104,0
+Delhi,NationalCapitalRegionNcr,PvrPromenadeVasantKunj,English,21:45,Prime,410₹,26,3
+Delhi,NationalCapitalRegionNcr,PvrPromenadeVasantKunj,English,21:45,PrimePlus,470₹,10,5
+Delhi,NationalCapitalRegionNcr,PvrVegasDwarka,English,22:20,Classic,300₹,108,2
+Delhi,NationalCapitalRegionNcr,PvrVegasDwarka,English,22:20,Prime,320₹,88,0
