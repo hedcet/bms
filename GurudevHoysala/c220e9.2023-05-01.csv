@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,TumakuruTumkur,SriKrishnaTalkiesACMGRoad,Kannada,10:30,BalconyClass,120₹,221,0
+Karnataka,TumakuruTumkur,SriKrishnaTalkiesACMGRoad,Kannada,10:30,SecondClass,100₹,485,0
+Karnataka,TumakuruTumkur,SriKrishnaTalkiesACMGRoad,Kannada,13:30,BalconyClass,120₹,221,0
+Karnataka,TumakuruTumkur,SriKrishnaTalkiesACMGRoad,Kannada,13:30,SecondClass,100₹,485,0
+Karnataka,MysuruMysore,MysuruVisionCinemasBehindGrsFantasyPark,Kannada,13:30,Premier,150₹,187,20
+Karnataka,TumakuruTumkur,SriKrishnaTalkiesACMGRoad,Kannada,17:00,BalconyClass,120₹,221,0
+Karnataka,TumakuruTumkur,SriKrishnaTalkiesACMGRoad,Kannada,17:00,SecondClass,100₹,485,0
+Karnataka,TumakuruTumkur,SriKrishnaTalkiesACMGRoad,Kannada,20:00,BalconyClass,120₹,221,0
+Karnataka,TumakuruTumkur,SriKrishnaTalkiesACMGRoad,Kannada,20:00,SecondClass,100₹,485,0
