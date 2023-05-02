@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Punjab,Firozpur,SilverbirdCinemaFirozpur,Punjabi,14:05,Gold,230₹,139,0
+Punjab,Firozpur,SilverbirdCinemaFirozpur,Punjabi,16:20,Gold,230₹,231,0
+Punjab,Ludhiana,PvrPavilionLudhiana,Punjabi,18:05,Classic,200₹,77,13
+Punjab,Firozpur,SilverbirdCinemaFirozpur,Punjabi,19:15,Gold,230₹,139,0
