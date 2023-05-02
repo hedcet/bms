@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,PvrDirectorsCutRexWalkBengaluru,English,10:30,Platinum,550₹,32,2
+Karnataka,Bengaluru,PvrDirectorsCutRexWalkBengaluru,English,10:30,PlatinumSuperior,550₹,16,1
+Maharashtra,Mumbai,MaisonPvrLivingRoomLuxeJioWorldDriveBkc,English,22:10,Luxe,500₹,32,9
+Maharashtra,Mumbai,MaisonPvrLivingRoomLuxeJioWorldDriveBkc,English,22:10,LuxeSuperior,500₹,12,5
+Maharashtra,Mumbai,MaisonPvrTheLoftLuxeJioWorldDriveBkc,English,23:10,Luxe,500₹,24,10
