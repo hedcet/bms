@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Vadodara,PvrTransCubeVadodara,Hindi,13:55,Classic,150₹,34,0
+Gujarat,Vadodara,PvrTransCubeVadodara,Hindi,13:55,Prime,150₹,100,16
+Gujarat,Vadodara,PvrTransCubeVadodara,Hindi,13:55,Recliner,300₹,8,0
+WestBengal,Kolkata,InoxForumMallElginRoad,Hindi,14:50,DressCircle,150₹,100,0
+WestBengal,Kolkata,InoxForumMallElginRoad,Hindi,14:50,Galleria,150₹,28,0
+WestBengal,Kolkata,InoxForumMallElginRoad,Hindi,14:50,Royal,150₹,43,10
