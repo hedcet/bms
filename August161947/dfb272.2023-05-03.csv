@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Chennai,PvrAmpaMallNelsonManickamRoad,Tamil,11:50,Classic,60₹,17,17
+TamilNadu,Chennai,PvrAmpaMallNelsonManickamRoad,Tamil,11:50,Prime,179₹,130,13
+TamilNadu,Chennai,SpiEscapeExpressAvenueMallRoyapettah,Tamil,15:30,Budget,60₹,11,3
+TamilNadu,Chennai,SpiEscapeExpressAvenueMallRoyapettah,Tamil,15:30,Elite,165₹,99,35
+TamilNadu,Chennai,PvrSklsGalaxyMallRedHillsChennai,Tamil,15:50,Classic,60₹,16,16
+TamilNadu,Chennai,PvrSklsGalaxyMallRedHillsChennai,Tamil,15:50,Prime,165₹,81,9
+TamilNadu,Chennai,PvrVrChennaiAnnaNagar,Tamil,16:20,Classic,60₹,24,24
+TamilNadu,Chennai,PvrVrChennaiAnnaNagar,Tamil,16:20,Prime,165₹,112,35
+Puducherry,Pondicherry,PvrTheCinemaProvidencePondicherry,Tamil,18:50,Elite,150₹,167,6
+Puducherry,Pondicherry,PvrTheCinemaProvidencePondicherry,Tamil,18:50,Premium,110₹,62,0
+TamilNadu,Chennai,SpiPalazzoTheForumVijayaMallVadapalani,Tamil,21:50,Budget,60₹,27,10
+TamilNadu,Chennai,SpiPalazzoTheForumVijayaMallVadapalani,Tamil,21:50,Elite,165₹,210,50
+TamilNadu,Chennai,InoxLuxePhoenixMarketCityVelachery,Tamil,22:50,Elite,190₹,134,32
+TamilNadu,Chennai,InoxLuxePhoenixMarketCityVelachery,Tamil,22:50,Budget,60₹,24,10
