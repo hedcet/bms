@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Kozhikode,AashirvadCineplexxKozhikode,Malayalam,13:45,Platinum,220₹,31,6
+Kerala,Kozhikode,AashirvadCineplexxKozhikode,Malayalam,13:45,Gold,200₹,67,0
+Kerala,Kozhikode,AashirvadCineplexxKozhikode,Malayalam,18:45,Platinum,220₹,31,0
+Kerala,Kozhikode,AashirvadCineplexxKozhikode,Malayalam,18:45,Gold,200₹,67,0
+Kerala,Kollam,CarnivalKollamRpMall,Malayalam,19:00,PremiumOffline,180₹,96,0
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,20:00,RoyalRecliner,290₹,10,6
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,20:00,Club,170₹,63,6
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,20:00,Royal,170₹,28,20
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,20:00,Executive,130₹,22,0
