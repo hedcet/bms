@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,PvrPhoenixMarketcityMallWhitefieldRoad,English,14:05,Classic,180₹,120,3
+Karnataka,Bengaluru,PvrPhoenixMarketcityMallWhitefieldRoad,English,14:05,Recliner,260₹,8,7
+Karnataka,Bengaluru,PvrTheForumMallKoramangala,English,14:20,Classic,170₹,103,13
+Telangana,Hyderabad,PvrForumSujanaMallKukatpallyHyderabad,English,16:05,Classic,150₹,246,4
+Telangana,Hyderabad,PvrForumSujanaMallKukatpallyHyderabad,English,16:05,Recliner,250₹,13,5
