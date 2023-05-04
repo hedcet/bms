@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Muvattupuzha,CarnivalGrandCentreMallMuvattupuzha,Malayalam,16:10,ExecutiveOffline,130₹,96,1
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,20:00,RoyalRecliner,290₹,10,0
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,20:00,Club,170₹,63,0
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,20:00,Royal,170₹,28,15
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,20:00,Executive,130₹,22,0
