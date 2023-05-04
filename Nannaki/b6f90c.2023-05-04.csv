@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Dharwad,SangamTheatreDharwad,Kannada,11:45,Balcony,150₹,161,2
+Karnataka,Dharwad,SangamTheatreDharwad,Kannada,11:45,DressCircle,110₹,447,0
+Karnataka,VijayapuraBijapur,AlankarTheatreBijapur,Kannada,12:00,Balcony,150₹,275,0
+Karnataka,Muddebihal,AmirTheatreMuddebihal,Kannada,12:00,DressCircle,100₹,366,160
+Karnataka,HubballiHubli,ApsaraSudhaCinemasHubli,Kannada,12:00,Balcony,150₹,260,23
+Karnataka,HubballiHubli,ApsaraSudhaCinemasHubli,Kannada,12:00,DressCircle,110₹,612,57
+Karnataka,Dharwad,SangamTheatreDharwad,Kannada,14:45,Balcony,150₹,161,0
+Karnataka,Dharwad,SangamTheatreDharwad,Kannada,14:45,DressCircle,110₹,447,0
+Karnataka,VijayapuraBijapur,AlankarTheatreBijapur,Kannada,15:00,Balcony,150₹,275,0
+Karnataka,Muddebihal,AmirTheatreMuddebihal,Kannada,15:00,DressCircle,100₹,366,160
+Karnataka,VijayapuraBijapur,AlankarTheatreBijapur,Kannada,18:00,Balcony,150₹,275,0
+Karnataka,Muddebihal,AmirTheatreMuddebihal,Kannada,18:00,DressCircle,100₹,366,160
+Karnataka,VijayapuraBijapur,AlankarTheatreBijapur,Kannada,21:00,Balcony,150₹,275,0
+Karnataka,Muddebihal,AmirTheatreMuddebihal,Kannada,21:00,DressCircle,100₹,366,160
