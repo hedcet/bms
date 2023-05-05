@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Haryana,MangaluruMangalore,PvrNexusMallPandeshwarMangalore,Tulu,15:20,Classic,150₹,79,30
+Haryana,MangaluruMangalore,CineGalaxySurathkalMangalore,Tulu,16:40,Gold,130₹,17,14
+Haryana,MangaluruMangalore,CineGalaxySurathkalMangalore,Tulu,16:40,Prime,130₹,64,1
+Haryana,MangaluruMangalore,CineGalaxySurathkalMangalore,Tulu,16:40,Classic,130₹,48,0
+Karnataka,Karkala,PlanetCinemaACDigitalKarkala,Tulu,17:00,Balcony,120₹,90,0
+Haryana,MangaluruMangalore,CineGalaxySurathkalMangalore,Tulu,19:20,Gold,130₹,17,2
+Haryana,MangaluruMangalore,CineGalaxySurathkalMangalore,Tulu,19:20,Prime,130₹,64,8
+Haryana,MangaluruMangalore,CineGalaxySurathkalMangalore,Tulu,19:20,Classic,130₹,48,0
+Haryana,MangaluruMangalore,CinepolisCityCentreMallMangaluru,Tulu,22:10,Normal,150₹,28,0
+Haryana,MangaluruMangalore,CinepolisCityCentreMallMangaluru,Tulu,22:10,Executive,150₹,133,2
+Haryana,MangaluruMangalore,CinepolisCityCentreMallMangaluru,Tulu,22:10,Premium,150₹,58,18
