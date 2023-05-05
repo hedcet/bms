@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Trichy,PalaceTheatreTiruchirappalli,Tamil,11:15,FirstClass,61₹,266,7
+TamilNadu,Chennai,SpiSathyamCinemasRoyapettahChennai,Tamil,14:00,Budget,60₹,12,8
+TamilNadu,Chennai,SpiSathyamCinemasRoyapettahChennai,Tamil,14:00,Elite,165₹,102,30
+TamilNadu,Trichy,PalaceTheatreTiruchirappalli,Tamil,14:15,FirstClass,61₹,266,7
+TamilNadu,Chennai,SpiEscapeExpressAvenueMallRoyapettah,Tamil,15:20,Budget,60₹,11,11
+TamilNadu,Chennai,SpiEscapeExpressAvenueMallRoyapettah,Tamil,15:20,Elite,165₹,99,59
+TamilNadu,Chennai,InoxLuxePhoenixMarketCityVelachery,Tamil,16:05,Elite,190₹,126,56
+TamilNadu,Chennai,InoxLuxePhoenixMarketCityVelachery,Tamil,16:05,Budget,60₹,14,14
+TamilNadu,Trichy,PalaceTheatreTiruchirappalli,Tamil,18:15,FirstClass,61₹,266,7
+TamilNadu,Trichy,PalaceTheatreTiruchirappalli,Tamil,22:00,FirstClass,61₹,266,7
+TamilNadu,Tirupur,SriSakthiCinemasMultiplexTirupur,Tamil,22:40,Diamond,190₹,22,7
+TamilNadu,Tirupur,SriSakthiCinemasMultiplexTirupur,Tamil,22:40,Platinum,165₹,24,2
+TamilNadu,Tirupur,SriSakthiCinemasMultiplexTirupur,Tamil,22:40,Gold,130₹,96,6
+TamilNadu,Tirupur,SriSakthiCinemasMultiplexTirupur,Tamil,22:40,Silver,80₹,16,6
