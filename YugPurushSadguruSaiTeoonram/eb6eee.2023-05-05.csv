@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Ahmedabad,SbMultiplexAgoraMallEliteClass,Sindhi,15:30,Elite,180₹,96,41
+Gujarat,Ahmedabad,SbMultiplexAgoraMallEliteClass,Sindhi,15:30,Classic,160₹,28,0
+Gujarat,Ahmedabad,SbMultiplexAgoraMallEliteClass,Sindhi,22:00,Elite,180₹,96,31
+Gujarat,Ahmedabad,SbMultiplexAgoraMallEliteClass,Sindhi,22:00,Classic,160₹,28,8
