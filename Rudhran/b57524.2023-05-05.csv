@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Trichy,LaCinemaMarisComplexRgbLaserTrichy,Tamil,11:25,Elite,140₹,58,9
+TamilNadu,Coimbatore,SrkMirajCinemasCoimbatore,Tamil,12:15,Special,60₹,21,8
+TamilNadu,Coimbatore,SrkMirajCinemasCoimbatore,Tamil,12:15,Executive,190₹,190,5
+TamilNadu,Trichy,LaCinemaMarisComplexRgbLaserTrichy,Tamil,18:40,Elite,140₹,58,25
+TamilNadu,Chennai,SpiS2PeramburSpectrumMallPerambur,Tamil,19:30,Budget,60₹,23,23
+TamilNadu,Chennai,SpiS2PeramburSpectrumMallPerambur,Tamil,19:30,Elite,179₹,196,17
+TamilNadu,Chennai,SpiEscapeExpressAvenueMallRoyapettah,Tamil,22:00,Budget,60₹,11,11
+TamilNadu,Chennai,SpiEscapeExpressAvenueMallRoyapettah,Tamil,22:00,Elite,179₹,99,49
+TamilNadu,Tirupur,SriSakthiCinemasMultiplexTirupur,Tamil,22:30,Diamond,190₹,16,12
+TamilNadu,Tirupur,SriSakthiCinemasMultiplexTirupur,Tamil,22:30,Platinum,165₹,26,0
+TamilNadu,Tirupur,SriSakthiCinemasMultiplexTirupur,Tamil,22:30,Gold,130₹,86,10
+TamilNadu,Tirupur,SriSakthiCinemasMultiplexTirupur,Tamil,22:30,Silver,80₹,17,1
