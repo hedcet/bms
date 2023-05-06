@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Kolkata,PvrManiSquareMallKolkata,English,16:30,Classic,150₹,48,0
+WestBengal,Kolkata,PvrManiSquareMallKolkata,English,16:30,Prime,150₹,110,17
+WestBengal,Kolkata,PvrManiSquareMallKolkata,English,16:30,Recliner,250₹,8,4
