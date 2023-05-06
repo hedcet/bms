@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Maharashtra,Mumbai,InoxMegaplexInorbitMallMalad,English,16:00,AmpliX,150₹,20,15
+Maharashtra,Mumbai,InoxMegaplexInorbitMallMalad,English,16:00,Executive,150₹,32,0
+Maharashtra,Mumbai,InoxMegaplexInorbitMallMalad,English,16:00,Premiere,150₹,111,17
+Maharashtra,Mumbai,InoxMegaplexInorbitMallMalad,English,16:00,Silver,150₹,82,38
+MadhyaPradesh,Gwalior,InoxDbMallGwalior,English,16:00,Club,150₹,55,5
+MadhyaPradesh,Gwalior,InoxDbMallGwalior,English,16:00,Executive,150₹,22,0
+MadhyaPradesh,Gwalior,InoxDbMallGwalior,English,16:00,Royale,150₹,66,16
+TamilNadu,Chennai,PvrHeritageRslEcrChennai,English,16:05,Classic,63₹,8,8
+TamilNadu,Chennai,PvrHeritageRslEcrChennai,English,16:05,Prime,159₹,67,38
