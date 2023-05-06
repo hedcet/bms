@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Kochi,CinepolisCentreSquareMallKochi,Malayalam,12:10,Normal,140₹,13,0
+Kerala,Kochi,CinepolisCentreSquareMallKochi,Malayalam,12:10,Executive,160₹,26,5
+Kerala,Kochi,CinepolisCentreSquareMallKochi,Malayalam,12:10,Premium,190₹,67,24
+Kerala,Kochi,PvrOberonMallKochi,Malayalam,13:20,Classic,140₹,54,1
+Kerala,Kochi,PvrOberonMallKochi,Malayalam,13:20,ClassicPlus,180₹,104,44
+Kerala,Pathanamthitta,DhanyaRemyaPathanamthitta,Malayalam,18:00,RemyaCircle,135₹,197,61
+Kerala,Kollam,DhanyaRemyaKollam,Malayalam,18:00,Platinum,135₹,200,33
+Kerala,Changanassery,DhanyaRemyaChanganassery,Malayalam,18:00,Remya,135₹,196,3
+Kerala,Kollam,DhanyaRemyaKollam,Malayalam,21:00,Platinum,135₹,200,37
+Kerala,Changanassery,DhanyaRemyaChanganassery,Malayalam,21:00,Remya,135₹,196,9
