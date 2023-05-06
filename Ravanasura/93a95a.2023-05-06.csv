@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Udupi,DianaTheatreUdupi,Telugu,10:30,Balcony,90₹,172,0
+AndhraPradesh,Kadapa,SudhaTheaterKadapa,Telugu,11:30,FirstClass,150₹,142,70
+AndhraPradesh,Kadapa,SudhaTheaterKadapa,Telugu,11:30,SecondClass,100₹,60,0
+Karnataka,Udupi,DianaTheatreUdupi,Telugu,13:30,Balcony,90₹,172,0
+AndhraPradesh,Kadapa,SudhaTheaterKadapa,Telugu,14:30,FirstClass,150₹,142,73
+AndhraPradesh,Kadapa,SudhaTheaterKadapa,Telugu,14:30,SecondClass,100₹,60,0
+Karnataka,Udupi,DianaTheatreUdupi,Telugu,16:30,Balcony,90₹,172,0
+AndhraPradesh,Kadapa,SudhaTheaterKadapa,Telugu,18:30,FirstClass,150₹,142,70
+AndhraPradesh,Kadapa,SudhaTheaterKadapa,Telugu,18:30,SecondClass,100₹,60,0
+Karnataka,Udupi,DianaTheatreUdupi,Telugu,19:15,Balcony,90₹,172,0
+AndhraPradesh,Kadapa,SudhaTheaterKadapa,Telugu,21:45,FirstClass,150₹,142,70
+AndhraPradesh,Kadapa,SudhaTheaterKadapa,Telugu,21:45,SecondClass,100₹,60,0
