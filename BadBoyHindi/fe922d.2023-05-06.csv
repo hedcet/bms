@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Memari,KristiCinemaMemari,Hindi,11:00,LowerStall,80₹,448,0
+WestBengal,Memari,KristiCinemaMemari,Hindi,11:00,UpperStall,100₹,324,2
+WestBengal,Memari,KristiCinemaMemari,Hindi,16:00,LowerStall,80₹,448,7
+WestBengal,Memari,KristiCinemaMemari,Hindi,16:00,UpperStall,100₹,324,0
+Orissa,Titlagarh,ChhotuMaharajCineCafeTitlagarh,Hindi,17:30,Classique,150₹,76,0
+Orissa,Titlagarh,ChhotuMaharajCineCafeTitlagarh,Hindi,17:30,Premium,120₹,24,0
