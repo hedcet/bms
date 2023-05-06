@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Chennai,InoxLuxePhoenixMarketCityVelachery,English,15:30,Elite,211₹,144,106
+TamilNadu,Chennai,InoxLuxePhoenixMarketCityVelachery,English,15:30,Budget,66₹,16,16
+Delhi,NationalCapitalRegionNcr,InoxRCubeMonadMallDelhi,English,16:10,Insignia,400₹,30,6
+WestBengal,Kolkata,InoxQuestMall,English,17:10,RoyalRecliner,250₹,14,12
+WestBengal,Kolkata,InoxQuestMall,English,17:10,Club,150₹,112,42
+WestBengal,Kolkata,InoxQuestMall,English,17:10,Executive,150₹,24,0
+WestBengal,Kolkata,InoxQuestMall,English,17:10,Royal,150₹,32,24
+TamilNadu,Chennai,SpiEscapeExpressAvenueMallRoyapettah,English,18:50,Budget,63₹,11,11
+TamilNadu,Chennai,SpiEscapeExpressAvenueMallRoyapettah,English,18:50,Elite,159₹,99,91
