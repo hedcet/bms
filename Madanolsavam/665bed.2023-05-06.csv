@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Kasaragod,MagicFramesMehboobTheatreComplexKasaragod,Malayalam,13:30,Executive,100₹,175,4
+Kerala,Angamaly,CarnivalKsrtComplex,Malayalam,14:30,GoldOffline,130₹,202,7
+Kerala,Trivandrum,PvrLuxeLuluTrivandrum,Malayalam,15:30,Luxe,500₹,24,1
+Kerala,Trivandrum,PvrLuxeLuluTrivandrum,Malayalam,15:30,LuxePrime,600₹,26,17
+Kerala,Kasaragod,MagicFramesMehboobTheatreComplexKasaragod,Malayalam,16:30,Executive,100₹,175,0
+Kerala,Kochi,PvrOberonMallKochi,Malayalam,16:30,Classic,140₹,36,0
+Kerala,Kochi,PvrOberonMallKochi,Malayalam,16:30,ClassicPlus,180₹,81,17
+Kerala,Karmamthody,KaveriCinemasACDtsDolbyKarmamthody,Malayalam,16:30,Standard,110₹,220,0
+Kerala,Kasaragod,MagicFramesMehboobTheatreComplexKasaragod,Malayalam,19:30,Executive,100₹,175,3
+Kerala,Angamaly,CarnivalKsrtComplex,Malayalam,19:45,GoldOffline,130₹,202,26
+Kerala,Kasaragod,MagicFramesMehboobTheatreComplexKasaragod,Malayalam,22:30,Executive,100₹,175,0
