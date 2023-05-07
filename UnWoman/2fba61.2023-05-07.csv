@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Jharkhand,Ranchi,PvrNucleusMallRanchi,Hindi,12:30,Classic,190₹,30,0
+Jharkhand,Ranchi,PvrNucleusMallRanchi,Hindi,12:30,ClassicPlus,220₹,123,18
+Jharkhand,Ranchi,PvrNucleusMallRanchi,Hindi,12:30,Prime,250₹,54,2
+Jharkhand,Ranchi,PvrNucleusMallRanchi,Hindi,12:30,Recliner,520₹,10,0
+Chhattisgarh,Raipur,PvrCityCenterRaipur,Hindi,13:40,Classic,150₹,26,0
+Chhattisgarh,Raipur,PvrCityCenterRaipur,Hindi,13:40,Prime,170₹,145,29
+MadhyaPradesh,Indore,PvrTreasureIslandMallIndore,Hindi,14:00,Classic,210₹,28,0
+MadhyaPradesh,Indore,PvrTreasureIslandMallIndore,Hindi,14:00,Prime,240₹,69,20
