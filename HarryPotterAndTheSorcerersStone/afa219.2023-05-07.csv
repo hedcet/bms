@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Telangana,Hyderabad,PvrInorbitCyberabad,English,16:20,Classic,150₹,147,133
+WestBengal,Kolkata,PvrManiSquareMallKolkata,English,16:30,Classic,150₹,48,0
+WestBengal,Kolkata,PvrManiSquareMallKolkata,English,16:30,Prime,150₹,110,42
+WestBengal,Kolkata,PvrManiSquareMallKolkata,English,16:30,Recliner,250₹,8,6
+Haryana,NationalCapitalRegionNcr,PvrSelectCityWalkDelhi,English,17:00,ClassicNormal,150₹,120,103
+Haryana,NationalCapitalRegionNcr,PvrSelectCityWalkDelhi,English,17:00,ClassicSuperior,150₹,34,34
+Haryana,NationalCapitalRegionNcr,PvrSelectCityWalkDelhi,English,17:00,ReclinersNormal,400₹,10,10
+Haryana,NationalCapitalRegionNcr,InoxArdeeMallGurugram,English,17:10,Platinum,500₹,18,17
+Haryana,NationalCapitalRegionNcr,InoxArdeeMallGurugram,English,17:10,PlatinumSuperior,500₹,12,11
+Karnataka,Bengaluru,PvrBhartiyaMallOfBengaluru,English,18:45,Classic,150₹,72,32
+Karnataka,Bengaluru,PvrBhartiyaMallOfBengaluru,English,18:45,Prime,150₹,60,54
+Karnataka,Bengaluru,PvrBhartiyaMallOfBengaluru,English,18:45,Recliner,250₹,18,18
