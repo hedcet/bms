@@ -1,0 +1,14 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Vadodara,PvrTransCubeVadodara,Gujarati,12:25,Classic,160₹,42,0
+Gujarat,Vadodara,PvrTransCubeVadodara,Gujarati,12:25,Prime,160₹,137,43
+Gujarat,Vadodara,PvrTransCubeVadodara,Gujarati,12:25,Recliner,320₹,8,0
+Gujarat,Surat,PvrRahulRajSurat,Gujarati,12:45,Classic,130₹,38,4
+Gujarat,Surat,PvrRahulRajSurat,Gujarati,12:45,ClassicPlus,150₹,38,6
+Gujarat,Surat,PvrRahulRajSurat,Gujarati,12:45,Prime,170₹,76,19
+Gujarat,Surat,PvrRahulRajSurat,Gujarati,12:45,Recliner,300₹,24,2
+Gujarat,Surat,TimeCinemaGalaxyCirclePalSurat,Gujarati,16:00,InfinitySofa,260₹,34,6
+Gujarat,Ahmedabad,TimeCinemaCgRoadAhmedabad,Gujarati,16:00,Standard,180₹,108,0
+Gujarat,Ahmedabad,PvrAcropolisAhmedabad,Gujarati,17:15,Classic,130₹,42,38
+Gujarat,Ahmedabad,PvrAcropolisAhmedabad,Gujarati,17:15,Prime,130₹,42,42
+Gujarat,Ahmedabad,PvrAcropolisAhmedabad,Gujarati,17:15,PrimePlus,130₹,70,70
+Gujarat,Ahmedabad,PvrAcropolisAhmedabad,Gujarati,17:15,Recliner,400₹,11,11
