@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Chhattisgarh,Bagbahara,CityCinemaBagbahara,Chattisgarhi,12:00,Diamond,150₹,36,0
+Chhattisgarh,Bagbahara,CityCinemaBagbahara,Chattisgarhi,12:00,GoldClass,120₹,100,0
+Chhattisgarh,Bagbahara,CityCinemaBagbahara,Chattisgarhi,12:00,Silver,100₹,60,0
+Chhattisgarh,Bagbahara,CityCinemaBagbahara,Chattisgarhi,15:00,Diamond,150₹,36,0
+Chhattisgarh,Bagbahara,CityCinemaBagbahara,Chattisgarhi,15:00,GoldClass,120₹,100,0
+Chhattisgarh,Bagbahara,CityCinemaBagbahara,Chattisgarhi,15:00,Silver,100₹,60,0
+Chhattisgarh,Bagbahara,CityCinemaBagbahara,Chattisgarhi,18:00,Diamond,150₹,36,0
+Chhattisgarh,Bagbahara,CityCinemaBagbahara,Chattisgarhi,18:00,GoldClass,120₹,100,0
+Chhattisgarh,Bagbahara,CityCinemaBagbahara,Chattisgarhi,18:00,Silver,100₹,60,0
+Chhattisgarh,Bagbahara,CityCinemaBagbahara,Chattisgarhi,21:00,Diamond,150₹,36,0
+Chhattisgarh,Bagbahara,CityCinemaBagbahara,Chattisgarhi,21:00,GoldClass,120₹,100,4
+Chhattisgarh,Bagbahara,CityCinemaBagbahara,Chattisgarhi,21:00,Silver,100₹,60,0
