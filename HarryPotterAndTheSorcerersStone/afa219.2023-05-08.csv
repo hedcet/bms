@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Maharashtra,Mumbai,PvrGrowelKandivaliE,English,15:30,Classic,150₹,30,0
+Maharashtra,Mumbai,PvrGrowelKandivaliE,English,15:30,Prime,150₹,196,62
+Maharashtra,Mumbai,PvrGrowelKandivaliE,English,15:30,Recliner,250₹,12,12
+Delhi,NationalCapitalRegionNcr,PvrDirectorSCutDelhiAmbienceMall,English,15:35,Platinum,500₹,19,14
+Delhi,NationalCapitalRegionNcr,PvrDirectorSCutDelhiAmbienceMall,English,15:35,PlatinumSuperior,500₹,6,6
+Maharashtra,Mumbai,InoxMetroMallJunctionKalyanE,English,16:15,Gold,250₹,46,4
+Gujarat,Vadodara,PvrEvaMallVadodara,English,16:30,Classic,150₹,47,0
+Gujarat,Vadodara,PvrEvaMallVadodara,English,16:30,Prime,150₹,64,0
+Gujarat,Vadodara,PvrEvaMallVadodara,English,16:30,PrimePlus,150₹,65,3
+Maharashtra,Pune,InoxAmanoraTownCentreHadapsar,English,17:00,Royale,250₹,5,4
+Maharashtra,Pune,InoxAmanoraTownCentreHadapsar,English,17:00,Club,150₹,119,23
+Maharashtra,Pune,InoxAmanoraTownCentreHadapsar,English,17:00,Executive,150₹,21,0
