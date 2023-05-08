@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Uttarakhand,Rishikesh,RamaPalaceRishikesh,Garhwali,10:30,FirstClass,60₹,168,0
+Uttarakhand,Rishikesh,RamaPalaceRishikesh,Garhwali,10:30,Silver,90₹,232,26
+Uttarakhand,Rishikesh,RamaPalaceRishikesh,Garhwali,10:30,Gold,140₹,182,37
+Uttarakhand,Rishikesh,RamaPalaceRishikesh,Garhwali,10:30,Platinum,220₹,24,16
+Uttarakhand,Dehradun,PvrCentrioDehradun,Garhwali,14:10,Classic,150₹,22,0
+Uttarakhand,Dehradun,PvrCentrioDehradun,Garhwali,14:10,ClassicPlus,150₹,55,3
+Uttarakhand,Dehradun,PvrCentrioDehradun,Garhwali,14:10,Prime,200₹,60,15
+Uttarakhand,Dehradun,PvrCentrioDehradun,Garhwali,14:10,Recliner,250₹,11,0
