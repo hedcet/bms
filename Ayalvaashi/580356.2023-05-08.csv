@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Trivandrum,PvrLuluTrivandrum,Malayalam,11:05,Classic,170₹,65,0
+Kerala,Trivandrum,PvrLuluTrivandrum,Malayalam,11:05,Prime,190₹,34,5
+Kerala,Trivandrum,PvrLuluTrivandrum,Malayalam,11:05,Recliner,350₹,8,1
