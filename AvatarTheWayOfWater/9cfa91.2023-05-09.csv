@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Hoskote,PvrVegaCityBannerghattaRoad,English,13:10,Classic,200₹,77,20
+TamilNadu,Dharmapuri,DmaxDncTheatresDharmapuri,Tamil,14:30,Premium3D,160₹,68,11
+TamilNadu,Dharmapuri,DmaxDncTheatresDharmapuri,Tamil,14:30,Couple3D,180₹,24,6
+Karnataka,Bengaluru,CinepolisForumShantiniketanBengaluru,English,18:40,Normal,200₹,69,12
+Karnataka,Bengaluru,CinepolisForumShantiniketanBengaluru,English,18:40,DoubleSofa,300₹,24,3
+Karnataka,Bengaluru,CinepolisForumShantiniketanBengaluru,English,18:40,Lounger,250₹,9,0
+Karnataka,Bengaluru,CinepolisForumShantiniketanBengaluru,English,18:40,SingleSofa,270₹,6,0
+Delhi,NationalCapitalRegionNcr,PvrAmbienceGoldGurgaon,English,21:40,Platinum,600₹,28,1
+Delhi,NationalCapitalRegionNcr,PvrAmbienceGoldGurgaon,English,21:40,PlatinumSuperior,800₹,16,4
+Karnataka,Bengaluru,PvrTheForumMallKoramangala,English,22:15,Classic,230₹,103,55
