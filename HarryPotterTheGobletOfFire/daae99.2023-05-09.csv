@@ -1,0 +1,14 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Maharashtra,Mumbai,InoxRaghuleelaMallVashi,English,16:00,Executive,150₹,22,0
+Maharashtra,Mumbai,InoxRaghuleelaMallVashi,English,16:00,Premier,150₹,89,7
+Maharashtra,Mumbai,InoxRaghuleelaMallVashi,English,16:00,Silver,150₹,32,13
+Rajasthan,Jaipur,PvrMallOfJaipur,English,16:30,Classic,150₹,20,0
+Rajasthan,Jaipur,PvrMallOfJaipur,English,16:30,Prime,150₹,43,0
+Rajasthan,Jaipur,PvrMallOfJaipur,English,16:30,PrimePlus,150₹,26,17
+Rajasthan,Jaipur,PvrMallOfJaipur,English,16:30,Recliner,300₹,8,6
+Maharashtra,Pune,InoxAmanoraTownCentreHadapsar,English,17:00,Royale,250₹,5,4
+Maharashtra,Pune,InoxAmanoraTownCentreHadapsar,English,17:00,Club,150₹,119,12
+Maharashtra,Pune,InoxAmanoraTownCentreHadapsar,English,17:00,Executive,150₹,21,0
+Maharashtra,Akola,MirajCinemasRadhaKrishnaAkola,English,19:30,Silver,99₹,75,0
+Maharashtra,Akola,MirajCinemasRadhaKrishnaAkola,English,19:30,Gold,99₹,103,0
+Maharashtra,Akola,MirajCinemasRadhaKrishnaAkola,English,19:30,Platinum,99₹,12,7
