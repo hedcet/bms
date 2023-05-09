@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+MadhyaPradesh,Burhanpur,GursikhGoldmarkCinemasDolbyAtmosBurhanpur,Sindhi,22:00,Luxury,250₹,15,15
+MadhyaPradesh,Burhanpur,GursikhGoldmarkCinemasDolbyAtmosBurhanpur,Sindhi,22:00,Gold,150₹,144,144
+MadhyaPradesh,Burhanpur,GursikhGoldmarkCinemasDolbyAtmosBurhanpur,Sindhi,22:00,Silver,100₹,54,54
