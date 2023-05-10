@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Jigani,PvrVegaCityBannerghattaRoad,English,13:10,Classic,240₹,77,64
+TamilNadu,Dharmapuri,DmaxDncTheatresDharmapuri,Tamil,14:30,Premium3D,160₹,68,41
+TamilNadu,Dharmapuri,DmaxDncTheatresDharmapuri,Tamil,14:30,Couple3D,180₹,24,8
+Karnataka,Jigani,CinepolisNexusShantiniketanBengaluru,English,18:40,Normal,200₹,69,44
+Karnataka,Jigani,CinepolisNexusShantiniketanBengaluru,English,18:40,DoubleSofa,300₹,24,23
+Karnataka,Jigani,CinepolisNexusShantiniketanBengaluru,English,18:40,Lounger,250₹,9,2
+Karnataka,Jigani,CinepolisNexusShantiniketanBengaluru,English,18:40,SingleSofa,270₹,6,1
+Delhi,NationalCapitalRegionNcr,PvrLogixNoida,English,21:30,Classic,305₹,49,23
+Delhi,NationalCapitalRegionNcr,PvrAmbienceGoldGurgaon,English,21:40,Platinum,600₹,28,7
+Delhi,NationalCapitalRegionNcr,PvrAmbienceGoldGurgaon,English,21:40,PlatinumSuperior,800₹,16,2
+Karnataka,Jigani,PvrNexusFormerlyForumKoramangala,English,22:15,Classic,230₹,103,58
