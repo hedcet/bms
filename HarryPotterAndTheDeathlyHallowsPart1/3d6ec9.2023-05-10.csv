@@ -1,0 +1,14 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Delhi,NationalCapitalRegionNcr,InoxCrownInteriorzMallDelhiMathuraRoad,English,16:00,Club,150₹,164,42
+Delhi,NationalCapitalRegionNcr,InoxCrownInteriorzMallDelhiMathuraRoad,English,16:00,Executive,150₹,54,0
+Maharashtra,Mumbai,InoxMetroMallJunctionKalyanE,English,16:15,Gold,250₹,46,3
+Maharashtra,Rajgurunagar,InoxRoyalHeritageMallNibmExt,English,16:30,RoyaleRecliners,250₹,14,6
+Maharashtra,Rajgurunagar,InoxRoyalHeritageMallNibmExt,English,16:30,Club,150₹,33,0
+Maharashtra,Rajgurunagar,InoxRoyalHeritageMallNibmExt,English,16:30,Executive,150₹,22,0
+Maharashtra,Rajgurunagar,InoxRoyalHeritageMallNibmExt,English,16:30,Royale,150₹,45,7
+Uttarakhand,Dehradun,PvrCentrioDehradun,English,17:15,Classic,150₹,22,0
+Uttarakhand,Dehradun,PvrCentrioDehradun,English,17:15,ClassicPlus,150₹,55,0
+Uttarakhand,Dehradun,PvrCentrioDehradun,English,17:15,Prime,150₹,60,16
+Uttarakhand,Dehradun,PvrCentrioDehradun,English,17:15,Recliner,250₹,11,5
+Maharashtra,Mumbai,PvrMarketCityKurlaPremiere,English,17:25,Classic,150₹,90,1
+Maharashtra,Mumbai,PvrMarketCityKurlaPremiere,English,17:25,Prime,150₹,117,27
