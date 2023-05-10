@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+MadhyaPradesh,Katni,CineWorldzCinemaKatni,Sindhi,21:30,Platinum,140₹,10,10
+MadhyaPradesh,Katni,CineWorldzCinemaKatni,Sindhi,21:30,Gold,140₹,48,24
+MadhyaPradesh,Katni,CineWorldzCinemaKatni,Sindhi,21:30,Silver,120₹,36,0
