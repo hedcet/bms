@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,PvrTheForumMallKoramangala,English,10:35,Classic,190₹,103,4
+Delhi,NationalCapitalRegionNcr,PvrAmbienceGoldGurgaon,English,14:10,Platinum,500₹,28,0
+Delhi,NationalCapitalRegionNcr,PvrAmbienceGoldGurgaon,English,14:10,PlatinumSuperior,500₹,16,0
