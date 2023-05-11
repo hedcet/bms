@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Delhi,NationalCapitalRegionNcr,InoxWorldMarkGurugram,English,16:50,RoyalRecliner,250₹,8,8
+Delhi,NationalCapitalRegionNcr,InoxWorldMarkGurugram,English,16:50,Club,150₹,65,0
+Delhi,NationalCapitalRegionNcr,InoxWorldMarkGurugram,English,16:50,Executive,150₹,26,0
+Delhi,NationalCapitalRegionNcr,InoxWorldMarkGurugram,English,16:50,Royal,150₹,45,17
+Delhi,NationalCapitalRegionNcr,PvrAmbienceGurgaon,English,17:00,ClassicNormal,250₹,84,6
+Delhi,NationalCapitalRegionNcr,PvrAmbienceGurgaon,English,17:00,Prime,300₹,68,12
+Karnataka,Bengaluru,PvrDirectorsCutRexWalkBengaluru,English,18:45,Platinum,700₹,32,5
+Karnataka,Bengaluru,PvrDirectorsCutRexWalkBengaluru,English,18:45,PlatinumSuperior,700₹,16,13
+TamilNadu,Chennai,SpiEscapeExpressAvenueMallRoyapettah,English,18:50,Budget,63₹,11,11
+TamilNadu,Chennai,SpiEscapeExpressAvenueMallRoyapettah,English,18:50,Elite,159₹,99,99
+Maharashtra,Mumbai,PvrIconPhoenixPalladiumLowerParelMumbai,English,19:30,Lounger,150₹,10,10
+Maharashtra,Mumbai,PvrIconPhoenixPalladiumLowerParelMumbai,English,19:30,Classic,150₹,39,34
+Maharashtra,Mumbai,PvrIconPhoenixPalladiumLowerParelMumbai,English,19:30,Prime,150₹,68,51
+Maharashtra,Mumbai,PvrIconPhoenixPalladiumLowerParelMumbai,English,19:30,Recliner,250₹,14,10
