@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Nelamangala,VeereshCinemasMagadiRoad,Kannada,10:15,Balcony,110₹,270,9
+Karnataka,Nelamangala,SriGurusiddeshwara2KChitraMandiraThippasandra,Kannada,10:30,GoldClass,100₹,149,0
+Karnataka,Nelamangala,SriGurusiddeshwara2KChitraMandiraThippasandra,Kannada,10:30,SilverClass,80₹,200,0
+Karnataka,Nelamangala,SriGurusiddeshwara2KChitraMandiraThippasandra,Kannada,13:30,GoldClass,100₹,149,0
+Karnataka,Nelamangala,SriGurusiddeshwara2KChitraMandiraThippasandra,Kannada,13:30,SilverClass,80₹,200,0
+Karnataka,Nelamangala,SriGurusiddeshwara2KChitraMandiraThippasandra,Kannada,16:30,GoldClass,100₹,149,0
+Karnataka,Nelamangala,SriGurusiddeshwara2KChitraMandiraThippasandra,Kannada,16:30,SilverClass,80₹,200,0
+Karnataka,Nelamangala,SriGurusiddeshwara2KChitraMandiraThippasandra,Kannada,19:30,GoldClass,100₹,149,0
+Karnataka,Nelamangala,SriGurusiddeshwara2KChitraMandiraThippasandra,Kannada,19:30,SilverClass,80₹,200,0
