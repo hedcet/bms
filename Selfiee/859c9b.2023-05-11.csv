@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,Bareilly,HindTalkiesBareilly,Hindi,12:00,Diamond,120₹,122,0
+UttarPradesh,Bareilly,HindTalkiesBareilly,Hindi,15:00,Diamond,120₹,122,0
+UttarPradesh,Bareilly,HindTalkiesBareilly,Hindi,18:00,Diamond,120₹,122,2
+UttarPradesh,Bareilly,HindTalkiesBareilly,Hindi,21:00,Diamond,120₹,122,0
