@@ -1,0 +1,16 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Vadanappally,InoxSobhaCityMall,Malayalam,10:30,RoyalRecliner,270₹,10,2
+Kerala,Vadanappally,InoxSobhaCityMall,Malayalam,10:30,Royal,170₹,28,23
+Kerala,Vadanappally,InoxSobhaCityMall,Malayalam,10:30,Club,140₹,63,36
+Kerala,Vadanappally,InoxSobhaCityMall,Malayalam,10:30,Executive,110₹,22,0
+Kerala,Kottayam,DhanyaRemyaKottayam,Malayalam,14:00,Dhanya,135₹,465,2
+Kerala,Mattannur,SahinaCinemasDolbyAtmos2K3DMattannur,Malayalam,14:15,Audi2,130₹,144,8
+Kerala,Trivandrum,PvrLuluTrivandrum,Malayalam,16:00,Classic,210₹,77,10
+Kerala,Trivandrum,PvrLuluTrivandrum,Malayalam,16:00,Prime,240₹,60,10
+Kerala,Trivandrum,PvrLuluTrivandrum,Malayalam,16:00,Recliner,450₹,7,6
+Kerala,Kottayam,DhanyaRemyaKottayam,Malayalam,18:00,Dhanya,135₹,465,0
+Kerala,Mattannur,SahinaCinemasDolbyAtmos2K3DMattannur,Malayalam,19:00,Audi2,130₹,144,3
+Kerala,Palluruthy,PvrLuluKochi,Malayalam,22:15,Classic,140₹,54,3
+Kerala,Palluruthy,PvrLuluKochi,Malayalam,22:15,ClassicPlus,160₹,126,32
+Kerala,Palluruthy,PvrLuluKochi,Malayalam,22:15,Prime,190₹,92,17
+Kerala,Palluruthy,PvrLuluKochi,Malayalam,22:15,Recliner,350₹,13,7
