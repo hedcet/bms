@@ -1,0 +1,14 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Maharashtra,Mumbai,InoxMegaplexInorbitMallMalad,English,09:30,Insignia,320₹,46,8
+Telangana,Aushapur,PvrNextGalleriaMallPanjagutta,English,13:40,Classic,200₹,144,29
+UttarPradesh,NationalCapitalRegionNcr,PvrPromenadeVasantKunj,English,15:40,Classic,380₹,50,8
+UttarPradesh,NationalCapitalRegionNcr,PvrPromenadeVasantKunj,English,15:40,Prime,440₹,44,26
+Karnataka,Jigani,PvrGoldNexusFormerlyForumKoramangala,English,18:30,Gold,850₹,24,11
+Karnataka,Jigani,PvrGoldNexusFormerlyForumKoramangala,English,18:30,GoldPrime,950₹,8,8
+UttarPradesh,NationalCapitalRegionNcr,InoxWorldMarkGurugram,English,22:20,RoyalRecliner,660₹,8,6
+UttarPradesh,NationalCapitalRegionNcr,InoxWorldMarkGurugram,English,22:20,Royal,450₹,45,21
+UttarPradesh,NationalCapitalRegionNcr,InoxWorldMarkGurugram,English,22:20,Club,420₹,65,2
+UttarPradesh,NationalCapitalRegionNcr,InoxWorldMarkGurugram,English,22:20,Executive,370₹,26,2
+UttarPradesh,NationalCapitalRegionNcr,PvrDirectorSCutGurugramAmbienceMall,English,22:35,Platinum,"1,200₹",45,2
+UttarPradesh,NationalCapitalRegionNcr,PvrDirectorSCutGurugramAmbienceMall,English,22:35,PlatinumSuperior,"1,400₹",16,6
+UttarPradesh,NationalCapitalRegionNcr,PvrVegasDwarka,English,22:55,Classic,450₹,89,20
