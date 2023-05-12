@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,Mathura,RoopamStarworldMathura,Hindi,12:45,PrimeXl,200₹,65,0
+UttarPradesh,Mathura,RoopamStarworldMathura,Hindi,12:45,PlatinumXl,180₹,44,0
+UttarPradesh,Aligarh,StarworldCinemasAligarh,Hindi,14:00,Prime,200₹,72,10
+UttarPradesh,PrayagrajAllahabad,StarworldCinemasMutthiganjPrayagraj,Hindi,14:30,Platinum,160₹,144,14
+UttarPradesh,PrayagrajAllahabad,StarworldCinemasMutthiganjPrayagraj,Hindi,14:30,PlatinumXlSeats,170₹,31,0
+UttarPradesh,Lucknow,PvrPhoenixLucknow,Hindi,17:30,Classic,190₹,117,13
+UttarPradesh,Lucknow,PvrPhoenixLucknow,Hindi,17:30,Prime,260₹,7,0
+UttarPradesh,Lucknow,InoxEmeraldMallLucknow,Hindi,18:20,Royale,190₹,83,25
+UttarPradesh,Lucknow,InoxEmeraldMallLucknow,Hindi,18:20,Club,180₹,70,6
+UttarPradesh,Lucknow,InoxEmeraldMallLucknow,Hindi,18:20,Executive,170₹,28,0
