@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Trichy,LaCinemaSonaMinaRgbLaserTrichy,Tamil,11:15,Posh,140₹,154,16
+TamilNadu,Chennai,SpiEscapeExpressAvenueMallRoyapettah,Tamil,12:15,Budget,60₹,11,8
+TamilNadu,Chennai,SpiEscapeExpressAvenueMallRoyapettah,Tamil,12:15,Elite,165₹,99,9
+TamilNadu,Chennai,SpiPalazzoNexusVijayaMallVadapalaniChennai,Tamil,15:40,Budget,60₹,27,14
+TamilNadu,Chennai,SpiPalazzoNexusVijayaMallVadapalaniChennai,Tamil,15:40,Elite,165₹,210,27
+TamilNadu,Chennai,SpiSathyamCinemasRoyapettahChennai,Tamil,16:30,Budget,60₹,12,12
+TamilNadu,Chennai,SpiSathyamCinemasRoyapettahChennai,Tamil,16:30,Elite,165₹,102,14
+TamilNadu,Chennai,PvrVrChennaiAnnaNagar,Tamil,22:25,Classic,60₹,34,34
+TamilNadu,Chennai,PvrVrChennaiAnnaNagar,Tamil,22:25,Prime,179₹,142,45
+TamilNadu,Trichy,LaCinemaSonaMinaRgbLaserTrichy,Tamil,22:30,Posh,140₹,154,154
