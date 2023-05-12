@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Jigani,PvrNexusFormerlyForumKoramangala,English,15:10,Classic,152₹,103,36
+UttarPradesh,NationalCapitalRegionNcr,PvrAmbienceGurgaon,English,21:55,ClassicNormal,380₹,105,0
+UttarPradesh,NationalCapitalRegionNcr,PvrAmbienceGurgaon,English,21:55,Prime,480₹,86,12
