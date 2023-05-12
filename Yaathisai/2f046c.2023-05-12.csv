@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Chennai,SpiEscapeExpressAvenueMallRoyapettah,Tamil,12:00,Budget,60₹,12,12
+TamilNadu,Chennai,SpiEscapeExpressAvenueMallRoyapettah,Tamil,12:00,Elite,165₹,108,14
+TamilNadu,Chennai,PvrVrChennaiAnnaNagar,Tamil,15:35,Classic,60₹,30,30
+TamilNadu,Chennai,PvrVrChennaiAnnaNagar,Tamil,15:35,Prime,165₹,158,69
+TamilNadu,Avinashi,SriSakthiCinemasMultiplexTirupur,Tamil,16:40,Diamond,190₹,15,0
+TamilNadu,Avinashi,SriSakthiCinemasMultiplexTirupur,Tamil,16:40,Platinum,165₹,32,10
+TamilNadu,Avinashi,SriSakthiCinemasMultiplexTirupur,Tamil,16:40,Gold,130₹,128,10
+TamilNadu,Avinashi,SriSakthiCinemasMultiplexTirupur,Tamil,16:40,Silver,80₹,16,2
+TamilNadu,Madurai,InoxVishaalDeMall,Tamil,19:20,Club,178₹,154,43
+TamilNadu,Madurai,InoxVishaalDeMall,Tamil,19:20,Executive,60₹,24,24
+TamilNadu,Coimbatore,InoxProzoneMallCoimbatore,Tamil,21:45,Club,190₹,175,56
+TamilNadu,Coimbatore,InoxProzoneMallCoimbatore,Tamil,21:45,Executive,60₹,21,21
+TamilNadu,Chennai,InoxLuxePhoenixMarketCityVelachery,Tamil,22:25,Elite,190₹,126,114
+TamilNadu,Chennai,InoxLuxePhoenixMarketCityVelachery,Tamil,22:25,Budget,60₹,14,13
