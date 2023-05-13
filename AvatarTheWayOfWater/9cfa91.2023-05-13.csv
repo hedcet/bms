@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Dharmapuri,DmaxDncTheatresDharmapuri,Tamil,14:30,Premium3D,160₹,68,24
+TamilNadu,Dharmapuri,DmaxDncTheatresDharmapuri,Tamil,14:30,Couple3D,180₹,24,10
+Karnataka,Bengaluru,PvrTheForumMallKoramangala,English,15:10,Classic,152₹,103,101
+UttarPradesh,NationalCapitalRegionNcr,PvrAmbienceGurgaon,English,21:55,ClassicNormal,400₹,105,6
+UttarPradesh,NationalCapitalRegionNcr,PvrAmbienceGurgaon,English,21:55,Prime,450₹,86,48
