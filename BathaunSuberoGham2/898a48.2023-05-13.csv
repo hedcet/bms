@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Uttarakhand,Dehradun,CarnivalCityJunctionMall,Garhwali,15:00,Premium,150₹,84,8
+Uttarakhand,Dehradun,CarnivalCityJunctionMall,Garhwali,15:00,Club,180₹,226,71
+Uttarakhand,Dehradun,CarnivalCityJunctionMall,Garhwali,15:00,Lounge,300₹,12,12
