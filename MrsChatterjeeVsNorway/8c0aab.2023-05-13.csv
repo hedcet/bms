@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Nelamangala,GopalanMiniplexSignatureMallOldMadrasRoad,Hindi,10:15,Gold,220₹,65,3
+Maharashtra,Mumbai,G7MultiplexBandraW,Hindi,12:00,Special,150₹,38,0
+Maharashtra,Mumbai,G7MultiplexBandraW,Hindi,12:00,DressCircle,150₹,9,8
+WestBengal,Baghmari,IndiraCinemaKolkataNonAc,Hindi,17:00,Balcony,50₹,268,3
+Maharashtra,Mumbai,G7MultiplexBandraW,Hindi,17:15,Special,150₹,38,8
+Maharashtra,Mumbai,G7MultiplexBandraW,Hindi,17:15,DressCircle,150₹,9,6
+WestBengal,Siliguri,NewCinemaSiliguri,Hindi,19:00,Sofa,200₹,72,0
+WestBengal,Siliguri,NewCinemaSiliguri,Hindi,19:00,SpecialClass,80₹,162,0
+UttarPradesh,NationalCapitalRegionNcr,PvrAmbienceGurgaon,Hindi,20:15,ClassicNormal,370₹,84,84
+UttarPradesh,NationalCapitalRegionNcr,PvrAmbienceGurgaon,Hindi,20:15,Prime,480₹,68,38
