@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+MadhyaPradesh,Indore,PvrTreasureIslandMallIndore,Hindi,21:05,Classic,280₹,26,0
+MadhyaPradesh,Indore,PvrTreasureIslandMallIndore,Hindi,21:05,Prime,300₹,46,20
+MadhyaPradesh,Indore,PvrTreasureIslandMallIndore,Hindi,21:05,Recliner,530₹,8,6
+UttarPradesh,NationalCapitalRegionNcr,PvrVegasDwarka,English,21:45,Classic,340₹,36,1
+UttarPradesh,NationalCapitalRegionNcr,PvrVegasDwarka,English,21:45,Prime,370₹,21,10
+UttarPradesh,NationalCapitalRegionNcr,PvrVegasDwarka,English,21:45,Recliner,540₹,8,0
