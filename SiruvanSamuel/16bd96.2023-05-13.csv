@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Chennai,AgsCinemasTNagar,Tamil,10:25,Diamond,190₹,197,66
+TamilNadu,Chennai,AgsCinemasTNagar,Tamil,10:25,Pearl,60₹,24,24
+TamilNadu,Tiruvallur,AgsCinemasMaduravoyal,Tamil,15:30,Diamond,190₹,237,73
+TamilNadu,Tiruvallur,AgsCinemasMaduravoyal,Tamil,15:30,Pearl,60₹,24,24
