@@ -1,0 +1,16 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,Muradnagar,WaveTheWaveMallKaushambi,Hindi,09:45,Classic,170₹,224,46
+UttarPradesh,Mathura,RoopamStarworldMathura,Hindi,12:45,PrimeXl,200₹,65,0
+UttarPradesh,Mathura,RoopamStarworldMathura,Hindi,12:45,PlatinumXl,180₹,44,0
+UttarPradesh,Mathura,RoopamStarworldMathura,Hindi,12:45,PrimeXl,200₹,65,0
+UttarPradesh,Mathura,RoopamStarworldMathura,Hindi,12:45,PlatinumXl,180₹,44,0
+UttarPradesh,Aligarh,StarworldCinemasAligarh,Hindi,14:00,Prime,200₹,72,72
+UttarPradesh,Lucknow,PvrSuperplexLuluLucknow,Hindi,15:00,Classic,180₹,30,30
+UttarPradesh,Lucknow,PvrSuperplexLuluLucknow,Hindi,15:00,ClassicPlus,240₹,105,105
+UttarPradesh,Lucknow,PvrSuperplexLuluLucknow,Hindi,15:00,Prime,270₹,56,56
+UttarPradesh,Lucknow,PvrSuperplexLuluLucknow,Hindi,15:00,Recliner,420₹,9,9
+UttarPradesh,Lucknow,InoxMegaplexEmeraldLucknow,Hindi,18:20,Royale,200₹,83,19
+UttarPradesh,Lucknow,InoxMegaplexEmeraldLucknow,Hindi,18:20,Club,190₹,70,4
+UttarPradesh,Lucknow,InoxMegaplexEmeraldLucknow,Hindi,18:20,Executive,170₹,28,1
+UttarPradesh,Lucknow,PvrSuperplexLuluLucknow,Hindi,19:35,Prime,290₹,67,27
+UttarPradesh,Lucknow,PvrSuperplexLuluLucknow,Hindi,19:35,Recliner,480₹,7,6
