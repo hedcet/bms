@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,VijayapuraBijapur,AlankarTheatreBijapur,Kannada,12:00,Balcony,150₹,275,0
+Karnataka,BelagaviBelgaum,ChitraTalkiesBelagavi,Kannada,12:15,Balcony,150₹,104,0
+Karnataka,BelagaviBelgaum,ChitraTalkiesBelagavi,Kannada,12:15,Stall,100₹,360,3
+Karnataka,VijayapuraBijapur,AlankarTheatreBijapur,Kannada,15:00,Balcony,150₹,275,0
+Karnataka,VijayapuraBijapur,AlankarTheatreBijapur,Kannada,18:00,Balcony,150₹,275,0
+Karnataka,VijayapuraBijapur,AlankarTheatreBijapur,Kannada,21:00,Balcony,150₹,275,0
