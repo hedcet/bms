@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Assam,Guwahati,PvrCityCentreGuwahati,Assamese,14:30,Classic,200₹,44,4
+Assam,Guwahati,PvrCityCentreGuwahati,Assamese,14:30,Prime,230₹,107,42
+Assam,Guwahati,PvrCityCentreGuwahati,Assamese,14:30,PrimePlus,280₹,14,9
+Assam,Guwahati,NyCinemasRoodrakshMallGuwahati,Assamese,15:00,Recliner,500₹,16,2
+Assam,Guwahati,NyCinemasRoodrakshMallGuwahati,Assamese,15:00,Prime,220₹,164,47
+Assam,Guwahati,NyCinemasRoodrakshMallGuwahati,Assamese,15:00,Classic,190₹,36,1
