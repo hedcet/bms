@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Anklav,CinemarcNewVipRoad,Sindhi,19:10,Gold,110₹,20,17
+Gujarat,Anklav,CinemarcNewVipRoad,Sindhi,19:10,Silver,110₹,87,3
+Gujarat,Anklav,CinemarcNewVipRoad,Sindhi,19:10,Premium,100₹,13,0
+Gujarat,Anklav,CinemarcNewVipRoad,Sindhi,19:10,Sofa,130₹,19,5
+Maharashtra,Mumbai,G7MultiplexBandraW,Sindhi,19:45,Special,150₹,38,6
+Maharashtra,Mumbai,G7MultiplexBandraW,Sindhi,19:45,DressCircle,150₹,9,9
+Maharashtra,Kamptee,InoxJaswantTuliMallKampteeRoad,Sindhi,20:00,Royale,140₹,64,13
+Maharashtra,Kamptee,InoxJaswantTuliMallKampteeRoad,Sindhi,20:00,Club,110₹,114,10
+Maharashtra,Kamptee,InoxJaswantTuliMallKampteeRoad,Sindhi,20:00,Executive,100₹,53,0
+Maharashtra,Mumbai,AshokAnilMultiplexMirajCinemasUlhasnagar,Sindhi,20:55,Gold,130₹,197,2
+Maharashtra,Mumbai,AshokAnilMultiplexMirajCinemasUlhasnagar,Sindhi,20:55,Silver,130₹,40,0
