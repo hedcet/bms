@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Orissa,Bhubaneswar,InoxDnRegaliaMall,English,16:05,Club,150₹,40,0
+Orissa,Bhubaneswar,InoxDnRegaliaMall,English,16:05,Executive,150₹,20,0
+Orissa,Bhubaneswar,InoxDnRegaliaMall,English,16:05,Royal,150₹,83,11
+Rajasthan,Kota,InoxAhluwaliasGreatMallKota,English,19:30,Club,150₹,93,0
+Rajasthan,Kota,InoxAhluwaliasGreatMallKota,English,19:30,Executive,150₹,45,0
+Rajasthan,Kota,InoxAhluwaliasGreatMallKota,English,19:30,Royale,150₹,45,8
