@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Kasaragod,MagicFramesMehboobTheatre4KKasaragod,Malayalam,10:30,Executive,100₹,175,6
+Kerala,Kasaragod,MagicFramesMehboobTheatre4KKasaragod,Malayalam,13:30,Executive,100₹,175,5
+Kerala,Kanhangad,DeepthiCinemasAC2KDolby71Kanhangad,Malayalam,14:30,Gold,150₹,143,27
+Kerala,Kanhangad,DeepthiCinemasAC2KDolby71Kanhangad,Malayalam,20:00,Gold,150₹,143,37
