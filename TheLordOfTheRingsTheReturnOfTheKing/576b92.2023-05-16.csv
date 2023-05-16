@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,MysuruMysore,PvrNexusMallCentreCityMysuru,English,13:45,Classic,150₹,134,15
+Maharashtra,Pune,InoxRoyalHeritageMallNibmExt,English,15:30,RoyaleRecliners,250₹,14,1
+Maharashtra,Pune,InoxRoyalHeritageMallNibmExt,English,15:30,Club,150₹,33,0
+Maharashtra,Pune,InoxRoyalHeritageMallNibmExt,English,15:30,Executive,150₹,22,0
+Maharashtra,Pune,InoxRoyalHeritageMallNibmExt,English,15:30,Royale,150₹,45,5
