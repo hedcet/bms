@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Ahmedabad,DeviMultiplexNaroda,Sindhi,15:30,Platinum,140₹,42,16
+Gujarat,Ahmedabad,DeviMultiplexNaroda,Sindhi,15:30,Gold,120₹,98,20
+Maharashtra,Kolhapur,ShreeGaneshChitramandirKolhapur,Sindhi,18:00,GoldClass,100₹,212,212
+Maharashtra,Kolhapur,ShreeGaneshChitramandirKolhapur,Sindhi,18:00,SilverClass,80₹,98,98
+Gujarat,Kutch,VinayCinemaAdipur,Sindhi,19:00,Vip,200₹,24,12
+Gujarat,Kutch,VinayCinemaAdipur,Sindhi,19:00,Platinum,140₹,62,6
+Gujarat,Kutch,VinayCinemaAdipur,Sindhi,19:00,Diamond,120₹,124,11
+Gujarat,Kutch,VinayCinemaAdipur,Sindhi,19:00,Gold,100₹,111,0
+Gujarat,Kutch,VinayCinemaAdipur,Sindhi,19:00,Silver,100₹,54,0
