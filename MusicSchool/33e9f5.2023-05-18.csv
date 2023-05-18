@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Assam,Jorhat,InoxAbsMallJorhat,Hindi,13:50,Royal,260₹,14,0
+Assam,Jorhat,InoxAbsMallJorhat,Hindi,13:50,Club,210₹,55,0
+Assam,Jorhat,InoxAbsMallJorhat,Hindi,13:50,Executive,130₹,32,0
+Assam,Jorhat,InoxAbsMallJorhat,Hindi,13:50,Premier,110₹,32,0
+AndhraPradesh,Eluru,VMaxAC2KDolbyEluru,Telugu,14:30,Balcony,150₹,228,228
+AndhraPradesh,Eluru,VMaxAC2KDolbyEluru,Telugu,14:30,2ndClass,80₹,30,30
+AndhraPradesh,Eluru,VMaxAC2KDolbyEluru,Telugu,14:30,3rdClass,50₹,48,48
+TamilNadu,Chennai,SpiEscapeExpressAvenueMallRoyapettah,Hindi,15:50,Budget,63₹,11,11
+TamilNadu,Chennai,SpiEscapeExpressAvenueMallRoyapettah,Hindi,15:50,Elite,189₹,99,99
+AndhraPradesh,Eluru,VMaxAC2KDolbyEluru,Telugu,21:30,Balcony,150₹,228,228
+AndhraPradesh,Eluru,VMaxAC2KDolbyEluru,Telugu,21:30,2ndClass,80₹,30,30
+AndhraPradesh,Eluru,VMaxAC2KDolbyEluru,Telugu,21:30,3rdClass,50₹,48,48
+TamilNadu,Chennai,AgsCinemasTNagar,Hindi,21:55,Diamond,200₹,197,22
+TamilNadu,Chennai,AgsCinemasTNagar,Hindi,21:55,Pearl,63₹,24,24
+TamilNadu,Chennai,AgsCinemasOmrNavlur,Hindi,22:00,Diamond,200₹,302,0
+TamilNadu,Chennai,AgsCinemasOmrNavlur,Hindi,22:00,Pearl,63₹,34,34
