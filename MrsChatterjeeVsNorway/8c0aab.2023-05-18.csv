@@ -1,0 +1,8 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Maharashtra,Mumbai,G7MultiplexBandraW,Hindi,12:00,Special,150₹,38,0
+Maharashtra,Mumbai,G7MultiplexBandraW,Hindi,12:00,DressCircle,150₹,9,0
+WestBengal,Kolkata,IndiraCinemaKolkata,Hindi,17:00,Balcony,50₹,268,0
+Maharashtra,Mumbai,G7MultiplexBandraW,Hindi,17:15,Special,150₹,38,2
+Maharashtra,Mumbai,G7MultiplexBandraW,Hindi,17:15,DressCircle,150₹,9,0
+WestBengal,Siliguri,NewCinemaSiliguri,Hindi,19:00,Sofa,200₹,72,0
+WestBengal,Siliguri,NewCinemaSiliguri,Hindi,19:00,SpecialClass,80₹,162,0
