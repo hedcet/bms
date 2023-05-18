@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Krishnagiri,SriMuruganTheatreKrishnagiri,Tamil,10:00,FirstClass,50₹,464,210
+TamilNadu,Trichy,PalaceTheatreTiruchirappalli,Tamil,11:15,FirstClass,61₹,266,7
+TamilNadu,Krishnagiri,SriMuruganTheatreKrishnagiri,Tamil,14:00,FirstClass,50₹,464,210
+TamilNadu,Madurai,RamTheatreMadurai,Tamil,14:00,Balcony,80₹,256,0
+TamilNadu,Trichy,PalaceTheatreTiruchirappalli,Tamil,14:15,FirstClass,61₹,266,7
+TamilNadu,Krishnagiri,SriMuruganTheatreKrishnagiri,Tamil,18:00,FirstClass,50₹,464,210
+TamilNadu,Madurai,RamTheatreMadurai,Tamil,18:00,Balcony,80₹,256,0
+TamilNadu,Trichy,PalaceTheatreTiruchirappalli,Tamil,18:15,FirstClass,61₹,266,7
+TamilNadu,Krishnagiri,SriMuruganTheatreKrishnagiri,Tamil,22:00,FirstClass,50₹,464,210
+TamilNadu,Trichy,PalaceTheatreTiruchirappalli,Tamil,22:00,FirstClass,61₹,266,7
