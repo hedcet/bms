@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Orissa,Bhadrak,MadhabCinemaHallBhadrak,Odia,10:00,Box,150₹,30,0
+Orissa,Bhadrak,MadhabCinemaHallBhadrak,Odia,10:00,Balcony,90₹,184,0
+Orissa,Bhawanipatna,NewStarCineplexBhawanipatna,Odia,11:00,Gold,150₹,17,0
+Orissa,Bhawanipatna,NewStarCineplexBhawanipatna,Odia,11:00,Silver,100₹,24,0
+Orissa,Jeypore,CelebrationCineplexJeypore,Odia,12:15,Royal,200₹,24,15
+Orissa,Jeypore,CelebrationCineplexJeypore,Odia,15:15,Royal,200₹,24,0
+Orissa,Bhubaneswar,CinepolisEsplanadeBhubaneswar,Odia,18:00,Normal,200₹,23,0
+Orissa,Bhubaneswar,CinepolisEsplanadeBhubaneswar,Odia,18:00,Executive,220₹,52,0
+Orissa,Bhubaneswar,CinepolisEsplanadeBhubaneswar,Odia,18:00,Premium,240₹,48,11
+Orissa,Bhubaneswar,CinepolisEsplanadeBhubaneswar,Odia,18:00,Vip,500₹,10,0
+Orissa,Jeypore,CelebrationCineplexJeypore,Odia,18:15,Royal,200₹,24,8
+Orissa,Jeypore,CelebrationCineplexJeypore,Odia,21:15,Royal,200₹,24,11
