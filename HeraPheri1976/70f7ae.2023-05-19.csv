@@ -1,0 +1,8 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Trivandrum,PvrLuluTrivandrum,Hindi,14:55,Classic,210₹,65,65
+Kerala,Trivandrum,PvrLuluTrivandrum,Hindi,14:55,Prime,240₹,34,34
+Kerala,Trivandrum,PvrLuluTrivandrum,Hindi,14:55,Recliner,450₹,8,8
+Kerala,Koothattukulam,PvrLuluKochi,Hindi,19:20,Classic,140₹,39,39
+Kerala,Koothattukulam,PvrLuluKochi,Hindi,19:20,ClassicPlus,160₹,91,91
+Kerala,Koothattukulam,PvrLuluKochi,Hindi,19:20,Prime,190₹,68,68
+Kerala,Koothattukulam,PvrLuluKochi,Hindi,19:20,Recliner,350₹,10,10
