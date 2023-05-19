@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,PvrGoldForumMallKoramangala,English,12:30,Gold,650₹,24,3
+Karnataka,Bengaluru,PvrGoldForumMallKoramangala,English,12:30,GoldPrime,700₹,8,6
+Karnataka,Bengaluru,PvrDirectorsCutRexWalkBengaluru,English,15:00,Platinum,850₹,32,2
+Karnataka,Bengaluru,PvrDirectorsCutRexWalkBengaluru,English,15:00,PlatinumSuperior,"1,050₹",16,0
