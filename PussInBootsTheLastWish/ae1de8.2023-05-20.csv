@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Haryana,NationalCapitalRegionNcr,PvrLogixNoida,English,16:00,Classic,380₹,49,32
+Haryana,NationalCapitalRegionNcr,PvrVegasDwarka,English,19:15,Classic,270₹,36,5
+Haryana,NationalCapitalRegionNcr,PvrVegasDwarka,English,19:15,Prime,290₹,21,19
+Haryana,NationalCapitalRegionNcr,PvrVegasDwarka,English,19:15,Recliner,390₹,8,7
