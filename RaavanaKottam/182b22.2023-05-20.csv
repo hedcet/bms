@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Chennai,SpiEscapeExpressAvenueMallRoyapettah,Tamil,12:05,Budget,60₹,11,10
+TamilNadu,Chennai,SpiEscapeExpressAvenueMallRoyapettah,Tamil,12:05,Elite,179₹,99,33
+TamilNadu,Madurai,ShaTheatreMadurai,Tamil,14:00,FirstClass,0₹,"1,162","1,036"
+TamilNadu,Madurai,RamTheatreMadurai,Tamil,14:00,Balcony,80₹,256,0
+TamilNadu,Madurai,SriLakshmiTheatreThirupparankundram,Tamil,14:30,FirstClass,80₹,208,0
+TamilNadu,Madurai,ShaTheatreMadurai,Tamil,18:00,FirstClass,0₹,"1,162","1,036"
+TamilNadu,Madurai,RamTheatreMadurai,Tamil,18:00,Balcony,80₹,256,0
+TamilNadu,Madurai,SriLakshmiTheatreThirupparankundram,Tamil,18:30,FirstClass,80₹,208,0
+TamilNadu,Madurai,ShaTheatreMadurai,Tamil,22:00,FirstClass,0₹,"1,162","1,036"
+TamilNadu,Madurai,SriLakshmiTheatreThirupparankundram,Tamil,22:30,FirstClass,80₹,208,0
