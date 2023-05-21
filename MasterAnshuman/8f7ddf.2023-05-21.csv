@@ -1,0 +1,8 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Kolkata,NandanKolkata,Bengali,13:30,FrontStall,30₹,111,7
+WestBengal,Kolkata,NandanKolkata,Bengali,13:30,RearStall,50₹,451,67
+WestBengal,Kolkata,NandanKolkata,Bengali,13:30,Balcony,70₹,369,81
+WestBengal,Kolkata,RadhaStudioTollygunge,Bengali,16:00,Silver,30₹,146,95
+WestBengal,Baghmari,NazrultirthaCinemaScreen3Kolkata,Bengali,18:30,Gold,130₹,30,7
+WestBengal,Baghmari,NazrultirthaCinemaScreen3Kolkata,Bengali,18:30,Recliner,150₹,8,7
+WestBengal,Baghmari,NazrultirthaCinemaScreen3Kolkata,Bengali,18:30,Sofa,130₹,12,0
