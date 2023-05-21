@@ -1,0 +1,14 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Koothattukulam,PvrOberonMallKochi,Malayalam,11:00,Classic,100₹,36,6
+Kerala,Koothattukulam,PvrOberonMallKochi,Malayalam,11:00,ClassicPlus,129₹,81,47
+Kerala,Changaramkulam,MarsCinemas4KDolbyAtmosChangaramkulam,Malayalam,13:45,Executive,250₹,12,0
+Kerala,Changaramkulam,MarsCinemas4KDolbyAtmosChangaramkulam,Malayalam,13:45,Platinum,150₹,124,5
+Kerala,Koothattukulam,Kanoos2KRavipuram,Malayalam,15:00,Diamond,110₹,186,2
+Kerala,Kozhikode,AashirvadCineplexxKozhikode,Malayalam,16:00,Recliner,380₹,17,11
+Kerala,Kozhikode,AashirvadCineplexxKozhikode,Malayalam,16:00,Platinum,220₹,51,40
+Kerala,Kozhikode,AashirvadCineplexxKozhikode,Malayalam,16:00,Gold,200₹,111,56
+Kerala,Thamarassery,CityMallCinemasThamarassery,Malayalam,16:30,Platinum,260₹,9,0
+Kerala,Thamarassery,CityMallCinemasThamarassery,Malayalam,16:30,Gold,160₹,78,32
+Kerala,Koothattukulam,Kanoos2KRavipuram,Malayalam,19:00,Diamond,110₹,186,15
+Kerala,Pattambi,KrishnaCineplexAC2K3DDolbyAtmosPattambi,Malayalam,20:45,StarCircle,110₹,123,22
+Kerala,Koothattukulam,Kanoos2KRavipuram,Malayalam,21:30,Diamond,110₹,186,0
