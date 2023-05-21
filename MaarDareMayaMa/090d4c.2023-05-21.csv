@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+HimachalPradesh,Bilaspur,ShivTalkiesBilaspur,Chattisgarhi,12:00,Balcony,70₹,371,4
+HimachalPradesh,Bilaspur,ShivTalkiesBilaspur,Chattisgarhi,12:00,Reserve,50₹,609,3
+HimachalPradesh,Bilaspur,ShivTalkiesBilaspur,Chattisgarhi,15:00,Balcony,70₹,371,2
+HimachalPradesh,Bilaspur,ShivTalkiesBilaspur,Chattisgarhi,15:00,Reserve,50₹,609,0
+HimachalPradesh,Bilaspur,ShivTalkiesBilaspur,Chattisgarhi,18:00,Balcony,70₹,371,0
+HimachalPradesh,Bilaspur,ShivTalkiesBilaspur,Chattisgarhi,18:00,Reserve,50₹,609,0
