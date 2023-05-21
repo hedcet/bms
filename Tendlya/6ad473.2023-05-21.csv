@@ -1,0 +1,14 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Maharashtra,Nashik,CinemaxCityCenterNashik,Marathi,12:30,Classic,180₹,34,3
+Maharashtra,Nashik,CinemaxCityCenterNashik,Marathi,12:30,Prime,220₹,139,9
+Maharashtra,Nashik,CinemaxCityCenterNashik,Marathi,12:30,Recliner,370₹,14,0
+Maharashtra,Pune,AbhiruchiCityPrideSinhagadRoad,Marathi,14:00,RoyalSofa,200₹,18,18
+Maharashtra,Pune,AbhiruchiCityPrideSinhagadRoad,Marathi,14:00,RoyalGold,180₹,129,81
+Maharashtra,Pune,AbhiruchiCityPrideSinhagadRoad,Marathi,14:00,RoyalSilver,160₹,36,3
+Maharashtra,Pune,CityPrideKothrud,Marathi,17:00,RoyalGold,200₹,149,107
+Maharashtra,Pune,CityPrideKothrud,Marathi,17:00,RoyalSilver,180₹,22,1
+Maharashtra,Satara,7StarCinemaSatara,Marathi,18:00,Recliner,250₹,12,0
+Maharashtra,Satara,7StarCinemaSatara,Marathi,18:00,Gold,150₹,75,22
+Maharashtra,Sangli,MuktaA2CinemasSfcMegaMallSangli,Marathi,18:30,Premium,210₹,18,9
+Maharashtra,Sangli,MuktaA2CinemasSfcMegaMallSangli,Marathi,18:30,Gold,160₹,124,20
+Maharashtra,Sangli,MuktaA2CinemasSfcMegaMallSangli,Marathi,18:30,Silver,160₹,60,0
