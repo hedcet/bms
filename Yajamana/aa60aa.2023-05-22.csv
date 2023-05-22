@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,MysuruMysore,InoxMallOfMysuru,Kannada,15:30,Club,99₹,214,16
+Karnataka,BelagaviBelgaum,InoxCampRoadBelagavi,Kannada,18:30,Club,99₹,56,0
+Karnataka,BelagaviBelgaum,InoxCampRoadBelagavi,Kannada,18:30,Executive,99₹,14,0
+Karnataka,BelagaviBelgaum,InoxCampRoadBelagavi,Kannada,18:30,Royal,99₹,10,5
