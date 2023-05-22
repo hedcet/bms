@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Jigani,PvrVegaCityBannerghattaRoad,Hindi,12:10,Classic,112₹,86,8
+Karnataka,Jigani,PvrVegaCityBannerghattaRoad,Hindi,12:10,Recliner,200₹,9,4
+Karnataka,Bengaluru,PvrTheForumMallKoramangala,Hindi,22:20,Classic,150₹,156,6
+Karnataka,Bengaluru,PvrTheForumMallKoramangala,Hindi,22:20,Recliner,250₹,12,2
