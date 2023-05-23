@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Ooty,TheAssemblyRoomsOoty,Tamil,14:30,LeftBox,100₹,10,0
+TamilNadu,Ooty,TheAssemblyRoomsOoty,Tamil,14:30,FirstClass,100₹,120,0
+TamilNadu,Ooty,TheAssemblyRoomsOoty,Tamil,14:30,SecondClass,100₹,204,2
