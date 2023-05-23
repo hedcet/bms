@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,MysuruMysore,InoxMallOfMysuru,Kannada,15:30,Club,99₹,214,16
+Karnataka,Bengaluru,PvrBhartiyaMallOfBengaluru,Kannada,18:30,Classic,112₹,72,2
+Karnataka,Bengaluru,PvrBhartiyaMallOfBengaluru,Kannada,18:30,Prime,112₹,60,6
+Karnataka,Bengaluru,PvrBhartiyaMallOfBengaluru,Kannada,18:30,Recliner,200₹,18,0
+Karnataka,Jigani,PvrTheCinemaGtWorldBengaluru,Kannada,18:30,Classic,112₹,179,14
+Karnataka,Jigani,PvrTheCinemaGtWorldBengaluru,Kannada,18:30,Recliner,200₹,16,10
+Karnataka,KalaburagiGulbarga,InoxOrchidMallKalaburagi,Kannada,18:30,Club,99₹,79,10
+Karnataka,KalaburagiGulbarga,InoxOrchidMallKalaburagi,Kannada,18:30,Executive,99₹,96,0
