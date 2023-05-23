@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Telangana,Hyderabad,PvrNextGalleriaMallPanjagutta,Hindi,16:05,Classic,150₹,152,152
+UttarPradesh,NationalCapitalRegionNcr,InoxVishalMallRajouriGarden,Hindi,18:15,Club,150₹,75,5
+UttarPradesh,NationalCapitalRegionNcr,InoxVishalMallRajouriGarden,Hindi,18:15,Executive,150₹,45,0
+UttarPradesh,NationalCapitalRegionNcr,InoxVishalMallRajouriGarden,Hindi,18:15,Royal,150₹,30,5
+Telangana,Hyderabad,PvrInorbitCyberabad,Hindi,22:55,Classic,150₹,147,14
