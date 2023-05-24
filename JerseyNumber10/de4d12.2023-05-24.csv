@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Nelamangala,InoxCentralJpNagarMantriJunction,Kannada,12:40,Royal,240₹,8,4
+Karnataka,Nelamangala,InoxCentralJpNagarMantriJunction,Kannada,12:40,Club,170₹,252,20
+Karnataka,Nelamangala,GopalanMallSirsiCircle,Kannada,15:00,Gold,200₹,265,4
+Karnataka,KalaburagiGulbarga,ShettysMultiplexGulbarga,Kannada,17:00,1Platinum,100₹,23,8
+Karnataka,KalaburagiGulbarga,ShettysMultiplexGulbarga,Kannada,17:00,2Gold,80₹,189,126
+Karnataka,KalaburagiGulbarga,ShettysMultiplexGulbarga,Kannada,17:00,3Silver,60₹,163,97
+Karnataka,Dharwad,PadmaTalkiesDharwad,Kannada,18:00,Balcony,110₹,202,0
+Karnataka,Dharwad,PadmaTalkiesDharwad,Kannada,18:00,DressCircle,80₹,519,0
+Karnataka,Nelamangala,PvrTheCinemaGtWorldBengaluru,Kannada,21:55,Classic,180₹,179,0
+Karnataka,Nelamangala,PvrTheCinemaGtWorldBengaluru,Kannada,21:55,Recliner,290₹,16,0
