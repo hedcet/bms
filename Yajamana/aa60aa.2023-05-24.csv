@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,MysuruMysore,PvrGarudaMallAlbertVictorRoadMysuru,Kannada,12:00,Classic,99₹,240,2
+Karnataka,MysuruMysore,PvrGarudaMallAlbertVictorRoadMysuru,Kannada,12:00,Prime,130₹,25,0
+Karnataka,Bengaluru,PvrBhartiyaMallOfBengaluru,Kannada,18:30,Classic,112₹,72,2
+Karnataka,Bengaluru,PvrBhartiyaMallOfBengaluru,Kannada,18:30,Prime,112₹,60,6
+Karnataka,Bengaluru,PvrBhartiyaMallOfBengaluru,Kannada,18:30,Recliner,200₹,18,0
