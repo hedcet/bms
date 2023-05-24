@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Manamadurai,SriPriyaTheatreACManamadurai,Tamil,11:00,Couple,150₹,34,0
+TamilNadu,Manamadurai,SriPriyaTheatreACManamadurai,Tamil,11:00,FirstClass,100₹,350,0
+TamilNadu,Manamadurai,SriPriyaTheatreACManamadurai,Tamil,14:30,Couple,150₹,34,0
+TamilNadu,Manamadurai,SriPriyaTheatreACManamadurai,Tamil,14:30,FirstClass,100₹,350,1
+TamilNadu,Manamadurai,SriPriyaTheatreACManamadurai,Tamil,18:30,Couple,150₹,34,0
+TamilNadu,Manamadurai,SriPriyaTheatreACManamadurai,Tamil,18:30,FirstClass,100₹,350,0
+TamilNadu,Manamadurai,SriPriyaTheatreACManamadurai,Tamil,22:15,Couple,150₹,34,0
+TamilNadu,Manamadurai,SriPriyaTheatreACManamadurai,Tamil,22:15,FirstClass,100₹,350,0
