@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,NationalCapitalRegionNcr,PvrVegasDwarka,English,12:00,Classic,230₹,36,36
+UttarPradesh,NationalCapitalRegionNcr,PvrVegasDwarka,English,12:00,Prime,250₹,21,21
+UttarPradesh,NationalCapitalRegionNcr,PvrVegasDwarka,English,12:00,Recliner,350₹,8,8
