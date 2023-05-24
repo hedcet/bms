@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Orissa,Bhubaneswar,CinepolisEsplanadeBhubaneswar,Odia,19:00,Normal,160₹,23,0
+Orissa,Bhubaneswar,CinepolisEsplanadeBhubaneswar,Odia,19:00,Executive,180₹,52,17
+Orissa,Bhubaneswar,CinepolisEsplanadeBhubaneswar,Odia,19:00,Premium,200₹,44,22
+Orissa,Bhubaneswar,CinepolisEsplanadeBhubaneswar,Odia,19:00,Vip,500₹,9,3
