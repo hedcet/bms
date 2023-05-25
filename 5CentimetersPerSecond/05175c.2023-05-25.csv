@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Telangana,Hyderabad,PvrNextGalleriaMallPanjagutta,Japanese,10:45,Classic,150₹,54,10
+Maharashtra,Mumbai,CinepolisVivianaMallThane,Japanese,14:20,Normal,140₹,24,0
+Maharashtra,Mumbai,CinepolisVivianaMallThane,Japanese,14:20,Executive,160₹,72,7
+Maharashtra,Mumbai,CinepolisVivianaMallThane,Japanese,14:20,Premium,160₹,12,0
+AndhraPradesh,Sabbavaram,InoxVarunBeachBeachRoad,Japanese,16:10,Excutive,177₹,147,23
+Punjab,Ludhiana,PvrPavilionLudhiana,Japanese,16:25,Classic,150₹,77,3
+Telangana,Hyderabad,PvrNexusMallKukatpallyHyderabad,Japanese,17:05,Classic,150₹,135,10
+Telangana,Hyderabad,PvrNexusMallKukatpallyHyderabad,Japanese,17:05,Recliner,250₹,9,4
+Maharashtra,Mumbai,PvrCitiMallAndheriW,Japanese,20:15,Classic,150₹,46,0
+Maharashtra,Mumbai,PvrCitiMallAndheriW,Japanese,20:15,Prime,150₹,146,22
+Maharashtra,Mumbai,PvrCitiMallAndheriW,Japanese,20:15,Recliner,250₹,24,1
