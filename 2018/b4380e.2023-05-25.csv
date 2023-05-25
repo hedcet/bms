@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Sabbavaram,SriMelody4KDolbyAtmosVizag,Telugu,18:30,Premium,145₹,575,274
+AndhraPradesh,Sabbavaram,SriMelody4KDolbyAtmosVizag,Telugu,18:30,NonPremium,100₹,199,94
+Telangana,Hyderabad,AmbCinemasGachibowli,Telugu,22:05,Platinum,350₹,14,13
+Telangana,Hyderabad,AmbCinemasGachibowli,Telugu,22:05,Gold,295₹,403,399
+Telangana,Hyderabad,AmbCinemasGachibowli,Telugu,22:05,Loungers,295₹,19,19
+Telangana,Hyderabad,AmbCinemasGachibowli,Telugu,22:30,Platinum,350₹,10,10
+Telangana,Hyderabad,AmbCinemasGachibowli,Telugu,22:30,Gold,295₹,192,192
+Telangana,Hyderabad,AmbCinemasGachibowli,Telugu,22:30,Loungers,295₹,12,12
