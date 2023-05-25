@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,MysuruMysore,InoxCentroMysore,Kannada,11:00,Club,99₹,66,8
+Karnataka,MysuruMysore,InoxCentroMysore,Kannada,11:00,Executive,99₹,65,0
+Karnataka,Jigani,PvrTheCinemaGtWorldBengaluru,Kannada,18:30,Classic,112₹,179,0
+Karnataka,Jigani,PvrTheCinemaGtWorldBengaluru,Kannada,18:30,Recliner,200₹,16,0
