@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,MysuruMysore,PvrNexusMallCentreCityMysuru,Kannada,18:15,Classic,99₹,134,15
+Karnataka,MangaluruMangalore,PvrForumFizaMallPandeshwar,Kannada,18:30,Classic,99₹,126,0
+Karnataka,MangaluruMangalore,PvrForumFizaMallPandeshwar,Kannada,18:30,Prime,99₹,40,0
+Karnataka,MangaluruMangalore,PvrForumFizaMallPandeshwar,Kannada,18:30,Recliner,150₹,12,0
