@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Guntur,PvrGuntur,Telugu,11:05,Premium,295₹,13,0
+AndhraPradesh,Guntur,PvrGuntur,Telugu,11:05,Deluxe,177₹,155,19
+Telangana,Hyderabad,PvrCentralMallPanjagutta,Telugu,11:15,Classic,150₹,141,18
+Telangana,Kazipet,PvrMaddoxWarangal,Telugu,11:20,Classic,150₹,97,0
