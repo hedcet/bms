@@ -1,0 +1,14 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Nelamangala,InoxMantriSquareMalleshwaram,Kannada,11:05,Royal,290₹,14,6
+Karnataka,Nelamangala,InoxMantriSquareMalleshwaram,Kannada,11:05,Club,150₹,286,29
+Karnataka,Shivamogga,BharathCinemasShivamogga,Kannada,13:15,Gold,150₹,110,19
+Karnataka,Shivamogga,BharathCinemasShivamogga,Kannada,13:15,Silver,150₹,48,4
+Karnataka,Shivamogga,BharathCinemasShivamogga,Kannada,13:15,Special,150₹,36,0
+Karnataka,Davanagere,MovietimeDavanagere,Kannada,13:45,Gold,200₹,79,0
+Karnataka,Davanagere,MovietimeDavanagere,Kannada,13:45,Premier,180₹,180,5
+Karnataka,Nelamangala,PvrOrionMallDrRajkumarRoad,Kannada,19:05,Classic,230₹,140,12
+Karnataka,Nelamangala,PvrOrionMallDrRajkumarRoad,Kannada,19:05,Prime,260₹,120,33
+Karnataka,Nelamangala,PvrOrionMallDrRajkumarRoad,Kannada,19:05,Recliner,410₹,33,5
+Karnataka,Kundapura,BharathCinemasKundapura,Kannada,19:15,Gold,200₹,36,4
+Karnataka,Kundapura,BharathCinemasKundapura,Kannada,19:15,Silver,180₹,24,0
+Karnataka,Kundapura,BharathCinemasKundapura,Kannada,19:15,Special,150₹,36,0
