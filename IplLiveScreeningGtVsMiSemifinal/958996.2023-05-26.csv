@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Surat,RoongtaCinemasShyamMandirVesuSurat,Hindi,19:00,RoyalRecliner,350₹,11,0
+Gujarat,Surat,RoongtaCinemasShyamMandirVesuSurat,Hindi,19:00,RoyalSofa,250₹,66,2
+Gujarat,Surat,RoongtaCinemasShyamMandirVesuSurat,Hindi,19:00,Lounger,200₹,9,0
+Gujarat,Surat,TriveniCinemaSurat,English,19:30,Balcony,120₹,45,0
+Gujarat,Surat,TriveniCinemaSurat,English,19:30,Upper,100₹,80,0
