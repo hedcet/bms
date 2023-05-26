@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Punjab,Ludhiana,CineSquareCinemasRoyaltonCityDoraha,Punjabi,10:15,RoyalClass,170₹,89,0
+Punjab,Kotkapura,OrbitMultiplexKotkapura,Punjabi,13:00,Gold,170₹,74,0
+Punjab,Moga,NeelamNovaCinemazMoga,Punjabi,14:00,Gold,150₹,122,0
+Haryana,Kaithal,CineSquareCinemasKaithal,Punjabi,15:00,Royale,190₹,84,0
+Punjab,Moga,OrbitMultiplexMoga,Punjabi,15:20,Recliner,300₹,6,0
+Punjab,Moga,OrbitMultiplexMoga,Punjabi,15:20,Gold,200₹,231,107
+Punjab,Malerkotla,HeenaCinemaMalerkotla,Punjabi,17:00,FamilyBalcony,100₹,42,0
+Punjab,Malerkotla,HeenaCinemaMalerkotla,Punjabi,17:00,Hall,70₹,52,0
+Punjab,Malout,SkyCineSkyMallMalout,Punjabi,18:10,Gold,130₹,50,0
+Punjab,Malout,SkyCineSkyMallMalout,Punjabi,18:10,Special,100₹,84,0
+Punjab,Malout,SkyCineSkyMallMalout,Punjabi,18:10,Platinum,200₹,15,0
+Punjab,Ludhiana,MiniChandCinemaLudhiana,Punjabi,19:00,Gold,70₹,190,0
+Punjab,Malerkotla,HeenaCinemaMalerkotla,Punjabi,19:30,FamilyBalcony,100₹,42,0
+Punjab,Malerkotla,HeenaCinemaMalerkotla,Punjabi,19:30,Hall,70₹,52,0
