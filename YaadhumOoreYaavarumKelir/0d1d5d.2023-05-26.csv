@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Avinashi,VaranashiMultiplexTirupur,Tamil,10:35,BoxAOc,140₹,11,11
+TamilNadu,Avinashi,VaranashiMultiplexTirupur,Tamil,10:35,BoxBOc,140₹,11,11
+TamilNadu,Avinashi,VaranashiMultiplexTirupur,Tamil,10:35,BalconyOc,110₹,125,125
+TamilNadu,Avinashi,VaranashiMultiplexTirupur,Tamil,18:10,BoxAOc,140₹,11,11
+TamilNadu,Avinashi,VaranashiMultiplexTirupur,Tamil,18:10,BoxBOc,140₹,11,11
+TamilNadu,Avinashi,VaranashiMultiplexTirupur,Tamil,18:10,BalconyOc,110₹,125,125
