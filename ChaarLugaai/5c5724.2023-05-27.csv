@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Haryana,NationalCapitalRegionNcr,SaimCinemasSlfMallSec3033Faridabad,Hindi,11:45,Gold,100₹,66,4
+Haryana,NationalCapitalRegionNcr,SaimCinemasSlfMallSec3033Faridabad,Hindi,11:45,Silver,100₹,80,0
+Haryana,NationalCapitalRegionNcr,SaimCinemasSlfMallSec3033Faridabad,Hindi,20:00,Gold,100₹,66,0
+Haryana,NationalCapitalRegionNcr,SaimCinemasSlfMallSec3033Faridabad,Hindi,20:00,Silver,100₹,80,0
