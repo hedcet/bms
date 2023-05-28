@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,BalajiDigital2KCinemaTavarekere,Kannada,10:00,DiamondClass,150₹,296,0
+Karnataka,Bengaluru,BalajiDigital2KCinemaTavarekere,Kannada,10:00,GoldClass,120₹,442,0
+Karnataka,Nelamangala,BalajiCinema4KDolbyAtmosRgbLaserTavarekere,Kannada,13:00,DiamondClass,150₹,296,3
+Karnataka,Nelamangala,BalajiCinema4KDolbyAtmosRgbLaserTavarekere,Kannada,13:00,GoldClass,120₹,442,0
+Karnataka,Nelamangala,BalajiCinema4KDolbyAtmosRgbLaserTavarekere,Kannada,16:00,DiamondClass,150₹,296,2
+Karnataka,Nelamangala,BalajiCinema4KDolbyAtmosRgbLaserTavarekere,Kannada,16:00,GoldClass,120₹,442,0
