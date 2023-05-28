@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Maharashtra,Dhule,BigCinemasManoharDhule,Hindi,21:15,Balcony,150₹,85,0
+Maharashtra,Dhule,BigCinemasManoharDhule,Hindi,21:15,Platinum,112₹,166,5
+Maharashtra,Dhule,BigCinemasManoharDhule,Hindi,21:15,Gold,100₹,231,4
+Maharashtra,Dhule,BigCinemasManoharDhule,Hindi,21:15,Silver,100₹,179,0
