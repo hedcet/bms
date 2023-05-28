@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Surat,RajhansCinemasVesuSurat,Gujarati,10:15,Recliner,100₹,14,14
+Gujarat,Surat,RajhansCinemasVesuSurat,Gujarati,10:15,Executive,100₹,80,80
+Gujarat,Surat,RajhansCinemasVesuSurat,Gujarati,10:15,Royal,100₹,39,39
+Gujarat,Surat,RajhansCinemasVesuSurat,Gujarati,10:15,Marvel,100₹,26,26
+Gujarat,Surat,RajhansCinemasVesuSurat,Gujarati,10:15,Recliner,100₹,14,14
+Gujarat,Surat,RajhansCinemasVesuSurat,Gujarati,10:15,Executive,100₹,85,85
+Gujarat,Surat,RajhansCinemasVesuSurat,Gujarati,10:15,Royal,100₹,42,42
+Gujarat,Surat,RajhansCinemasVesuSurat,Gujarati,10:15,Marvel,100₹,28,14
