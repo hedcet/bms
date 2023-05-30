@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Delhi,NationalCapitalRegionNcr,PvrVegasDwarka,English,12:00,Classic,230₹,36,0
+Delhi,NationalCapitalRegionNcr,PvrVegasDwarka,English,12:00,Prime,250₹,21,7
+Delhi,NationalCapitalRegionNcr,PvrVegasDwarka,English,12:00,Recliner,350₹,8,0
