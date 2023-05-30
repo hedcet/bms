@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Nelamangala,AbhinayTheatre4KACGandhinagar,Telugu,10:30,Balcony,150₹,369,57
+Karnataka,Nelamangala,AbhinayTheatre4KACGandhinagar,Telugu,10:30,MiniBalcony,120₹,146,0
+Karnataka,Nelamangala,AbhinayTheatre4KACGandhinagar,Telugu,10:30,SecondClass,100₹,480,56
+Karnataka,Nelamangala,AbhinayTheatre4KACGandhinagar,Telugu,13:30,Balcony,150₹,369,57
+Karnataka,Nelamangala,AbhinayTheatre4KACGandhinagar,Telugu,13:30,MiniBalcony,120₹,146,0
+Karnataka,Nelamangala,AbhinayTheatre4KACGandhinagar,Telugu,13:30,SecondClass,100₹,480,56
+Karnataka,Nelamangala,AbhinayTheatre4KACGandhinagar,Telugu,16:30,Balcony,150₹,369,57
+Karnataka,Nelamangala,AbhinayTheatre4KACGandhinagar,Telugu,16:30,MiniBalcony,120₹,146,1
+Karnataka,Nelamangala,AbhinayTheatre4KACGandhinagar,Telugu,16:30,SecondClass,100₹,480,56
+Karnataka,Nelamangala,AbhinayTheatre4KACGandhinagar,Telugu,19:15,Balcony,150₹,369,57
+Karnataka,Nelamangala,AbhinayTheatre4KACGandhinagar,Telugu,19:15,MiniBalcony,120₹,146,0
+Karnataka,Nelamangala,AbhinayTheatre4KACGandhinagar,Telugu,19:15,SecondClass,100₹,480,56
