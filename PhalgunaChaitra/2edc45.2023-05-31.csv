@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Nelamangala,GopalanMiniplexSignatureMallOldMadrasRoad,Odia,15:00,Gold,230₹,65,1
+Karnataka,Bengaluru,CinephileHsrLayoutPnrFelicityMallHaralurRd,Odia,16:00,Gold,200₹,194,17
+Orissa,Bhubaneswar,CinepolisEsplanadeBhubaneswar,Odia,17:40,Normal,170₹,23,0
+Orissa,Bhubaneswar,CinepolisEsplanadeBhubaneswar,Odia,17:40,Executive,180₹,52,6
+Orissa,Bhubaneswar,CinepolisEsplanadeBhubaneswar,Odia,17:40,Premium,190₹,48,7
+Orissa,Bhubaneswar,CinepolisEsplanadeBhubaneswar,Odia,17:40,Vip,500₹,10,2
+Karnataka,Nelamangala,PvrPhoenixMarketcityMallWhitefieldRoad,Odia,22:00,Classic,200₹,72,1
+Karnataka,Nelamangala,PvrPhoenixMarketcityMallWhitefieldRoad,Odia,22:00,Recliner,310₹,7,0
