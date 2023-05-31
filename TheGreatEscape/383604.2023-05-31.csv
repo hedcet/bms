@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Kozhinjampara,GeethaCinemax2K3DKozhinjampara,Malayalam,11:00,Standard,110₹,231,0
+Kerala,Kollam,CarnivalKollamRpMall,Malayalam,13:15,PremiumOffline,180₹,96,16
+Kerala,Karunagapally,CarnivalHJComplex,Malayalam,16:30,ClassicOffline,110₹,194,0
+Kerala,Kozhinjampara,GeethaCinemax2K3DKozhinjampara,Malayalam,18:00,Standard,110₹,231,0
+Kerala,Kollam,CarnivalKollamRpMall,Malayalam,18:45,PremiumOffline,180₹,96,16
