@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Champahati,InoxForumMallElginRoad,English,10:15,DressCircle,130₹,100,0
+WestBengal,Champahati,InoxForumMallElginRoad,English,10:15,Galleria,130₹,28,0
+WestBengal,Champahati,InoxForumMallElginRoad,English,10:15,Royal,130₹,43,12
+Maharashtra,Mumbai,PvrIconPhoenixPalladiumLowerParelMumbai,English,11:00,Lounger,170₹,10,0
+Maharashtra,Mumbai,PvrIconPhoenixPalladiumLowerParelMumbai,English,11:00,Classic,120₹,42,0
+Maharashtra,Mumbai,PvrIconPhoenixPalladiumLowerParelMumbai,English,11:00,Prime,230₹,68,0
+Maharashtra,Mumbai,PvrIconPhoenixPalladiumLowerParelMumbai,English,11:00,Recliner,280₹,14,4
+Maharashtra,Mumbai,MaisonPvrTheLoftLuxeJioWorldDriveBkc,English,11:15,Luxe,400₹,24,3
+Maharashtra,Mumbai,InoxLaserplexCr2NarimanPoint,English,12:10,Insignia,500₹,75,5
+Maharashtra,Mumbai,InoxMegaplexInorbitMallMalad,English,12:15,Insignia,420₹,38,8
+Maharashtra,Mumbai,InoxInsigniaAtAtriaMallWorli,English,12:55,Insignia,490₹,30,5
+Maharashtra,Mumbai,MaisonPvrTheLoftLuxeJioWorldDriveBkc,English,17:30,Luxe,"1,000₹",24,8
