@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Kochi,CinepolisCentreSquareMallKochi,English,11:45,Normal,110₹,20,2
+Kerala,Kochi,CinepolisCentreSquareMallKochi,English,11:45,Executive,140₹,43,4
+Kerala,Kochi,CinepolisCentreSquareMallKochi,English,11:45,Premium,160₹,44,5
+Kerala,Kochi,CinepolisCentreSquareMallKochi,English,17:15,Normal,140₹,20,2
+Kerala,Kochi,CinepolisCentreSquareMallKochi,English,17:15,Executive,160₹,43,3
+Kerala,Kochi,CinepolisCentreSquareMallKochi,English,17:15,Premium,190₹,44,4
