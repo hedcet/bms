@@ -1,0 +1,16 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Haryana,Ambala,FunCinemasGalaxyMallAmbala,Punjabi,09:25,Normal,60₹,81,0
+Haryana,Ambala,FunCinemasGalaxyMallAmbala,Punjabi,09:25,Executive,60₹,238,10
+Punjab,Moga,OrbitMultiplexMoga,Punjabi,09:30,Recliner,300₹,6,0
+Punjab,Moga,OrbitMultiplexMoga,Punjabi,09:30,Gold,100₹,234,0
+Punjab,Moga,OrbitMultiplexMoga,Punjabi,10:00,Recliner,300₹,6,0
+Punjab,Moga,OrbitMultiplexMoga,Punjabi,10:00,Gold,100₹,231,0
+Punjab,Moga,OrbitMultiplexMoga,Punjabi,12:00,Recliner,300₹,6,0
+Punjab,Moga,OrbitMultiplexMoga,Punjabi,12:00,Gold,200₹,234,0
+Punjab,Barnala,GeCinemasBarnala,Punjabi,15:15,Silver,200₹,48,0
+Punjab,Barnala,GeCinemasBarnala,Punjabi,15:15,Gold,200₹,117,0
+Punjab,Barnala,GeCinemasBarnala,Punjabi,15:15,Platinum,400₹,12,0
+Punjab,Malout,SkyCineSkyMallMalout,Punjabi,18:10,Gold,100₹,50,0
+Punjab,Malout,SkyCineSkyMallMalout,Punjabi,18:10,Special,100₹,84,0
+Punjab,Malout,SkyCineSkyMallMalout,Punjabi,18:10,Platinum,200₹,15,0
+Punjab,Rupnagar,JrRitzMultiplexRopar,Punjabi,18:30,Silver,150₹,95,0
