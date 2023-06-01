@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,MangaluruMangalore,BharathCinemasMangalore,Konkani,18:00,Gold,150₹,47,7
+Karnataka,MangaluruMangalore,BharathCinemasMangalore,Konkani,18:00,Silver,110₹,33,1
+Karnataka,MangaluruMangalore,BharathCinemasMangalore,Konkani,18:00,Special,110₹,11,0
