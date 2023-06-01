@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Trichy,PalaceTheatreTiruchirappalli,Tamil,11:15,FirstClass,61₹,266,7
+Puducherry,Pondicherry,DivyaTheatrePuducherry,Tamil,11:45,Balcony,100₹,77,11
+Puducherry,Pondicherry,DivyaTheatrePuducherry,Tamil,11:45,1stClass,90₹,500,483
+TamilNadu,Trichy,PalaceTheatreTiruchirappalli,Tamil,14:15,FirstClass,61₹,266,7
+Puducherry,Pondicherry,DivyaTheatrePuducherry,Tamil,14:45,Balcony,100₹,77,11
+Puducherry,Pondicherry,DivyaTheatrePuducherry,Tamil,14:45,1stClass,90₹,500,483
+TamilNadu,Trichy,PalaceTheatreTiruchirappalli,Tamil,18:15,FirstClass,61₹,266,7
+Puducherry,Pondicherry,DivyaTheatrePuducherry,Tamil,18:45,Balcony,100₹,77,11
+Puducherry,Pondicherry,DivyaTheatrePuducherry,Tamil,18:45,1stClass,90₹,500,483
+Puducherry,Pondicherry,DivyaTheatrePuducherry,Tamil,21:45,Balcony,100₹,77,11
+Puducherry,Pondicherry,DivyaTheatrePuducherry,Tamil,21:45,1stClass,90₹,500,483
+TamilNadu,Trichy,PalaceTheatreTiruchirappalli,Tamil,22:00,FirstClass,61₹,266,7
