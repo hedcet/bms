@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+JammuAndKashmir,Srinagar,InoxSrinagarShivpora,Hindi,15:30,RoyaleRecliner,370₹,11,0
+JammuAndKashmir,Srinagar,InoxSrinagarShivpora,Hindi,15:30,Royale,220₹,36,4
+JammuAndKashmir,Srinagar,InoxSrinagarShivpora,Hindi,15:30,Club,200₹,51,5
+JammuAndKashmir,Srinagar,InoxSrinagarShivpora,Hindi,15:30,Executive,180₹,24,0
