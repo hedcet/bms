@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Maharashtra,Mumbai,PvrLuxePhoenixPalladiumLowerParelMumbai,English,10:30,Prime,330₹,12,0
+Maharashtra,Mumbai,PvrLuxePhoenixPalladiumLowerParelMumbai,English,10:30,PrimePlus,330₹,30,0
+WestBengal,Baruipur,InoxForumMallElginRoad,English,11:00,DressCircle,130₹,100,0
+WestBengal,Baruipur,InoxForumMallElginRoad,English,11:00,Galleria,130₹,28,0
+WestBengal,Baruipur,InoxForumMallElginRoad,English,11:00,Royal,130₹,43,16
+Maharashtra,Mumbai,InoxInsigniaAtAtriaMallWorli,English,17:50,Insignia,730₹,30,19
