@@ -1,0 +1,8 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,CinepolisNexusShantiniketanBengaluru,Japanese,15:45,Normal,150₹,69,0
+Karnataka,Bengaluru,CinepolisNexusShantiniketanBengaluru,Japanese,15:45,DoubleSofa,150₹,24,5
+Karnataka,Bengaluru,CinepolisNexusShantiniketanBengaluru,Japanese,15:45,Lounger,150₹,9,0
+Karnataka,Bengaluru,CinepolisNexusShantiniketanBengaluru,Japanese,15:45,SingleSofa,150₹,6,0
+Karnataka,Bengaluru,CinepolisLuluGlobalMallBengaluru,Japanese,16:40,Normal,150₹,31,0
+Karnataka,Bengaluru,CinepolisLuluGlobalMallBengaluru,Japanese,16:40,Executive,170₹,128,0
+Karnataka,Bengaluru,CinepolisLuluGlobalMallBengaluru,Japanese,16:40,Premium,190₹,81,1
