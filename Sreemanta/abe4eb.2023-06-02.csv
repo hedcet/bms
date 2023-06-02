@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Hassan,SahyadriTheatreHassan,Kannada,10:30,Balcony,150₹,251,0
+Karnataka,Hassan,SahyadriTheatreHassan,Kannada,10:30,FirstClass,100₹,470,0
+Karnataka,Hassan,SahyadriTheatreHassan,Kannada,13:30,Balcony,150₹,251,0
+Karnataka,Hassan,SahyadriTheatreHassan,Kannada,13:30,FirstClass,100₹,470,0
+Karnataka,KalaburagiGulbarga,MirajCinemasGulbarga,Kannada,15:00,Special,160₹,80,0
+Karnataka,KalaburagiGulbarga,MirajCinemasGulbarga,Kannada,15:00,Executive,180₹,192,134
+Karnataka,KalaburagiGulbarga,MirajCinemasGulbarga,Kannada,15:00,Gold,350₹,10,0
+Karnataka,Hassan,SahyadriTheatreHassan,Kannada,16:30,Balcony,150₹,251,0
+Karnataka,Hassan,SahyadriTheatreHassan,Kannada,16:30,FirstClass,100₹,470,0
+Karnataka,Hassan,SahyadriTheatreHassan,Kannada,19:30,Balcony,150₹,251,0
+Karnataka,Hassan,SahyadriTheatreHassan,Kannada,19:30,FirstClass,100₹,470,0
