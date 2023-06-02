@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Punjab,Amritsar,MovietimeNoveltyMallLawrenceRoadAmritsar,Punjabi,11:00,Gold,150₹,72,20
+Punjab,Amritsar,MovietimeNoveltyMallLawrenceRoadAmritsar,Punjabi,11:00,Platinum,150₹,88,7
+Punjab,Amritsar,PvrSctAmritsar,Punjabi,20:30,Classic,190₹,105,0
+Punjab,Amritsar,PvrSctAmritsar,Punjabi,20:30,Prime,200₹,60,52
+Punjab,Amritsar,PvrSctAmritsar,Punjabi,20:30,Recliner,400₹,12,0
