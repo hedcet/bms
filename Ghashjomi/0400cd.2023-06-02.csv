@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Siliguri,NewCinemaSiliguri,Bengali,11:00,Sofa,200₹,72,0
+WestBengal,Siliguri,NewCinemaSiliguri,Bengali,11:00,SpecialClass,80₹,162,2
+WestBengal,Kolkata,JayantiCinemaBarrackpore,Bengali,12:00,SuperStall,100₹,183,2
+WestBengal,Kolkata,LilaCinemaBaruipur,Bengali,13:00,Balcony,60₹,76,0
+WestBengal,Chinsurah,MiniSushamaCinemaSheoraphuli,Bengali,13:30,RoyalClass,100₹,122,0
