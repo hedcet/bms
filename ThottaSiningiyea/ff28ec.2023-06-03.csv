@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Perambalur,SwamyTheatre2KPerambalur,Tamil,11:00,FirstClass,100₹,270,15
+TamilNadu,Madurai,SriLakshmiTheatreThirupparankundram,Tamil,11:00,FirstClass,80₹,208,0
+TamilNadu,Perambalur,SwamyTheatre2KPerambalur,Tamil,14:30,FirstClass,100₹,270,15
+TamilNadu,Perambalur,SwamyTheatre2KPerambalur,Tamil,18:30,FirstClass,100₹,270,15
+TamilNadu,Perambalur,SwamyTheatre2KPerambalur,Tamil,22:00,FirstClass,100₹,270,15
