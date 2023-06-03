@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Kakinada,LaxmiACDts2KKakinada,Telugu,11:30,FirstClass,112₹,355,21
+AndhraPradesh,Kakinada,LaxmiACDts2KKakinada,Telugu,11:30,SecondClass,75₹,104,27
+AndhraPradesh,Kakinada,InoxSrmtMallKakinada,Telugu,12:10,Executive,112₹,146,72
+AndhraPradesh,Kakinada,LaxmiACDts2KKakinada,Telugu,14:30,FirstClass,112₹,355,29
+AndhraPradesh,Kakinada,LaxmiACDts2KKakinada,Telugu,14:30,SecondClass,75₹,104,35
+AndhraPradesh,Kakinada,LaxmiACDts2KKakinada,Telugu,18:30,FirstClass,112₹,355,27
+AndhraPradesh,Kakinada,LaxmiACDts2KKakinada,Telugu,18:30,SecondClass,75₹,104,22
+AndhraPradesh,Kakinada,InoxSrmtMallKakinada,Telugu,18:40,Executive,112₹,146,102
+AndhraPradesh,Kakinada,LaxmiACDts2KKakinada,Telugu,21:30,FirstClass,112₹,355,29
+AndhraPradesh,Kakinada,LaxmiACDts2KKakinada,Telugu,21:30,SecondClass,75₹,104,26
+AndhraPradesh,Vijayawada,CinepolisPvpSquareMallVijayawada,Telugu,22:55,Normal,177₹,138,58
