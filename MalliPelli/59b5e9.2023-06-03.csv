@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Kathipudi,SriSatayanarayanaTheatreKathipudi,Telugu,11:30,1FirstClass,100₹,291,97
+AndhraPradesh,Kathipudi,SriSatayanarayanaTheatreKathipudi,Telugu,11:30,2SecondClass,100₹,109,100
+AndhraPradesh,Malikipuram,SriSankarTheatreMalikipuram,Telugu,11:30,FirstClass,100₹,318,99
+AndhraPradesh,Malikipuram,SriSankarTheatreMalikipuram,Telugu,11:30,SecondClass,70₹,86,76
+AndhraPradesh,Kathipudi,SriSatayanarayanaTheatreKathipudi,Telugu,14:30,1FirstClass,100₹,291,95
+AndhraPradesh,Kathipudi,SriSatayanarayanaTheatreKathipudi,Telugu,14:30,2SecondClass,100₹,109,100
+AndhraPradesh,Kathipudi,SriSatayanarayanaTheatreKathipudi,Telugu,21:30,1FirstClass,100₹,291,95
+AndhraPradesh,Kathipudi,SriSatayanarayanaTheatreKathipudi,Telugu,21:30,2SecondClass,100₹,109,100
