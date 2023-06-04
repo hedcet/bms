@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Thrissur,RamdasMovieHouseThrissur,Malayalam,15:00,DiamondCircle,150₹,51,15
+Kerala,Thrissur,RamdasMovieHouseThrissur,Malayalam,15:00,PearlCircle,110₹,245,16
+Kerala,Ernakulam,VanithaCineplexRgbLaser4K3DAtmosEdappally,Malayalam,15:30,Screen4,160₹,154,70
+Kerala,Ernakulam,VanithaCineplexRgbLaser4K3DAtmosEdappally,Malayalam,15:30,Screen4Sofa,240₹,15,0
+Kerala,Pulluvila,AriesplexSlCinemasCinionicDolbyAtmos,Malayalam,19:00,Executive,110₹,70,3
