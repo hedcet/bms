@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Delhi,NationalCapitalRegionNcr,CinepolisV3SMallLaxmiNagar,Garhwali,14:55,Normal,200₹,84,84
+Delhi,NationalCapitalRegionNcr,CinepolisV3SMallLaxmiNagar,Garhwali,14:55,Executive,200₹,114,114
+Delhi,NationalCapitalRegionNcr,PvrSangamDelhi,Garhwali,16:30,Classic,250₹,135,57
+Delhi,NationalCapitalRegionNcr,PvrSangamDelhi,Garhwali,16:30,Prime,250₹,131,112
+Delhi,NationalCapitalRegionNcr,PvrSangamDelhi,Garhwali,16:30,PrimePlus,250₹,34,29
+Delhi,NationalCapitalRegionNcr,PvrVegasDwarka,Garhwali,16:30,Classic,200₹,108,108
+Delhi,NationalCapitalRegionNcr,PvrVegasDwarka,Garhwali,16:30,Prime,200₹,88,83
+Delhi,NationalCapitalRegionNcr,RrCinemaJaipuriaMall,Garhwali,17:15,PremiumSofa,300₹,21,17
+Delhi,NationalCapitalRegionNcr,RrCinemaJaipuriaMall,Garhwali,17:15,Gold,200₹,252,210
+Delhi,NationalCapitalRegionNcr,RrCinemaJaipuriaMall,Garhwali,17:15,Silver,150₹,100,18
