@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Maharashtra,Mumbai,PvrIconPhoenixPalladiumLowerParelMumbai,English,10:30,Lounger,200₹,10,0
+Maharashtra,Mumbai,PvrIconPhoenixPalladiumLowerParelMumbai,English,10:30,Classic,160₹,39,2
+Maharashtra,Mumbai,PvrIconPhoenixPalladiumLowerParelMumbai,English,10:30,Prime,240₹,68,4
+Maharashtra,Mumbai,PvrIconPhoenixPalladiumLowerParelMumbai,English,10:30,Recliner,320₹,14,7
