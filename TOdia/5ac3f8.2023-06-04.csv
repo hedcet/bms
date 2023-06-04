@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Orissa,Bhubaneswar,CinepolisEsplanadeBhubaneswar,Odia,17:35,Normal,200₹,23,2
+Orissa,Bhubaneswar,CinepolisEsplanadeBhubaneswar,Odia,17:35,Executive,220₹,52,8
+Orissa,Bhubaneswar,CinepolisEsplanadeBhubaneswar,Odia,17:35,Premium,240₹,48,11
+Orissa,Bhubaneswar,CinepolisEsplanadeBhubaneswar,Odia,17:35,Vip,500₹,10,0
+Karnataka,Bengaluru,CinephileHsrLayoutPnrFelicityMallHaralurRd,Odia,18:00,Gold,236₹,193,1
