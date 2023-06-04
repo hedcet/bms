@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Delhi,NationalCapitalRegionNcr,PvrLogixNoida,English,18:15,Classic,360₹,49,0
+Delhi,NationalCapitalRegionNcr,PvrVegasDwarka,English,18:35,Classic,300₹,36,8
+Delhi,NationalCapitalRegionNcr,PvrVegasDwarka,English,18:35,Prime,330₹,21,11
+Delhi,NationalCapitalRegionNcr,PvrVegasDwarka,English,18:35,Recliner,500₹,8,8
