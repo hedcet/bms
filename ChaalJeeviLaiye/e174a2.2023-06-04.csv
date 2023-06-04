@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Ahmedabad,PvrAcropolisAhmedabad,Gujarati,10:45,Classic,130₹,39,0
+Gujarat,Ahmedabad,PvrAcropolisAhmedabad,Gujarati,10:45,Prime,130₹,65,18
+Gujarat,Ahmedabad,PvrAcropolisAhmedabad,Gujarati,10:45,PrimePlus,130₹,66,53
+Gujarat,Ahmedabad,PvrAcropolisAhmedabad,Gujarati,10:45,Recliner,350₹,9,6
+Gujarat,Surat,TimeCinemaGalaxyCirclePalSurat,Gujarati,16:15,InfinitySofa,260₹,34,12
+Gujarat,Ahmedabad,TimeCinemaCgRoadAhmedabad,Gujarati,16:30,Standard,220₹,108,8
