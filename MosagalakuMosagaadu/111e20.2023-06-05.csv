@@ -1,0 +1,16 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Guntur,KrishnaMahalGuntur,Telugu,14:30,Balcony,110₹,159,137
+AndhraPradesh,Guntur,KrishnaMahalGuntur,Telugu,14:30,Sofa,110₹,144,27
+AndhraPradesh,Guntur,KrishnaMahalGuntur,Telugu,14:30,LowerBalcony,110₹,200,26
+AndhraPradesh,Guntur,KrishnaMahalGuntur,Telugu,14:30,Chair,70₹,195,31
+AndhraPradesh,Guntur,KrishnaMahalGuntur,Telugu,14:30,ThirdClass,50₹,193,28
+AndhraPradesh,Guntur,KrishnaMahalGuntur,Telugu,18:15,Balcony,110₹,159,137
+AndhraPradesh,Guntur,KrishnaMahalGuntur,Telugu,18:15,Sofa,110₹,144,32
+AndhraPradesh,Guntur,KrishnaMahalGuntur,Telugu,18:15,LowerBalcony,110₹,200,26
+AndhraPradesh,Guntur,KrishnaMahalGuntur,Telugu,18:15,Chair,70₹,195,25
+AndhraPradesh,Guntur,KrishnaMahalGuntur,Telugu,18:15,ThirdClass,50₹,193,25
+AndhraPradesh,Guntur,KrishnaMahalGuntur,Telugu,21:30,Balcony,110₹,159,137
+AndhraPradesh,Guntur,KrishnaMahalGuntur,Telugu,21:30,Sofa,110₹,144,26
+AndhraPradesh,Guntur,KrishnaMahalGuntur,Telugu,21:30,LowerBalcony,110₹,200,26
+AndhraPradesh,Guntur,KrishnaMahalGuntur,Telugu,21:30,Chair,70₹,195,25
+AndhraPradesh,Guntur,KrishnaMahalGuntur,Telugu,21:30,ThirdClass,50₹,193,23
