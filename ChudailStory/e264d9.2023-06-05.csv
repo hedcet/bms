@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Rajasthan,Jaipur,GemCinemaJaipur,Hindi,12:30,Box,250₹,73,20
+Rajasthan,Jaipur,GemCinemaJaipur,Hindi,12:30,NobleCircle,199₹,356,42
+Rajasthan,Jaipur,GemCinemaJaipur,Hindi,12:30,DressCircle,150₹,843,20
+Rajasthan,Jaipur,GemCinemaJaipur,Hindi,15:30,Box,250₹,73,20
+Rajasthan,Jaipur,GemCinemaJaipur,Hindi,15:30,NobleCircle,199₹,356,42
+Rajasthan,Jaipur,GemCinemaJaipur,Hindi,15:30,DressCircle,150₹,843,20
+Rajasthan,Jaipur,GemCinemaJaipur,Hindi,18:30,Box,250₹,73,20
+Rajasthan,Jaipur,GemCinemaJaipur,Hindi,18:30,NobleCircle,199₹,356,42
+Rajasthan,Jaipur,GemCinemaJaipur,Hindi,18:30,DressCircle,150₹,843,20
+Rajasthan,Jaipur,GemCinemaJaipur,Hindi,21:30,Box,250₹,73,20
+Rajasthan,Jaipur,GemCinemaJaipur,Hindi,21:30,NobleCircle,199₹,356,42
+Rajasthan,Jaipur,GemCinemaJaipur,Hindi,21:30,DressCircle,150₹,843,20
