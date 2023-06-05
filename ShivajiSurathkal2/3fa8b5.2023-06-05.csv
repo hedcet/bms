@@ -1,0 +1,16 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,PvrVaishnaviSapphireMallYeshwanthpur,Kannada,12:45,Classic,112₹,85,3
+Karnataka,Bengaluru,PvrVaishnaviSapphireMallYeshwanthpur,Kannada,12:45,Prime,150₹,37,2
+Karnataka,Bengaluru,PvrVaishnaviSapphireMallYeshwanthpur,Kannada,12:45,Recliner,240₹,9,0
+Karnataka,Davanagere,MovietimeDavanagere,Kannada,14:00,Gold,180₹,79,8
+Karnataka,Davanagere,MovietimeDavanagere,Kannada,14:00,Premier,150₹,180,21
+Karnataka,Bengaluru,PvrVaishnaviSapphireMallYeshwanthpur,Kannada,15:30,Classic,112₹,85,3
+Karnataka,Bengaluru,PvrVaishnaviSapphireMallYeshwanthpur,Kannada,15:30,Prime,150₹,37,4
+Karnataka,Bengaluru,PvrVaishnaviSapphireMallYeshwanthpur,Kannada,15:30,Recliner,240₹,9,0
+Karnataka,Kundapura,BharathCinemasKundapura,Kannada,19:00,Vip,350₹,12,0
+Karnataka,Kundapura,BharathCinemasKundapura,Kannada,19:00,Gold,200₹,36,4
+Karnataka,Kundapura,BharathCinemasKundapura,Kannada,19:00,Silver,180₹,41,0
+Karnataka,Kundapura,BharathCinemasKundapura,Kannada,19:00,Special,150₹,48,0
+Karnataka,Nelamangala,PvrOrionMallDrRajkumarRoad,Kannada,22:20,Classic,220₹,128,0
+Karnataka,Nelamangala,PvrOrionMallDrRajkumarRoad,Kannada,22:20,Prime,260₹,100,0
+Karnataka,Nelamangala,PvrOrionMallDrRajkumarRoad,Kannada,22:20,Recliner,390₹,14,2
