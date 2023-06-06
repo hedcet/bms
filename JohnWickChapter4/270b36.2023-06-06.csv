@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,PvrTheForumMallKoramangala,English,09:10,Classic,140₹,166,0
+Karnataka,Bengaluru,PvrTheForumMallKoramangala,English,09:10,Recliner,260₹,12,2
+Karnataka,Bengaluru,PvrDirectorsCutRexWalkBengaluru,English,12:30,Platinum,550₹,32,2
+Karnataka,Bengaluru,PvrDirectorsCutRexWalkBengaluru,English,12:30,PlatinumSuperior,550₹,16,4
+TamilNadu,Chennai,PvrVrChennaiAnnaNagar,English,15:20,Classic,66₹,32,32
+TamilNadu,Chennai,PvrVrChennaiAnnaNagar,English,15:20,Prime,199₹,170,21
+Telangana,Hyderabad,PvrAtriumGachibowliHyderabad,English,16:10,Classic,150₹,156,8
+Telangana,Hyderabad,PvrAtriumGachibowliHyderabad,English,16:10,Recliner,250₹,16,7
+Maharashtra,Mumbai,InoxInsigniaAtAtriaMallWorli,English,19:30,Insignia,890₹,30,6
+Karnataka,Jigani,PvrNexusFormerlyForumKoramangala,English,22:00,Classic,190₹,166,21
+Karnataka,Jigani,PvrNexusFormerlyForumKoramangala,English,22:00,Recliner,380₹,12,2
+Maharashtra,Mumbai,InoxMegaplexInorbitMallMalad,English,22:40,Insignia,580₹,38,10
