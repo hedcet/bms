@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,Mau,SangeetDdCinemasMau,Bhojpuri,12:00,Diamond,200₹,24,0
+UttarPradesh,Mau,SangeetDdCinemasMau,Bhojpuri,12:00,Gold,150₹,168,0
+UttarPradesh,Akbarpur,KapoorDdCinemasAkbarpur,Bhojpuri,12:15,Platinum,300₹,12,0
+UttarPradesh,Akbarpur,KapoorDdCinemasAkbarpur,Bhojpuri,12:15,Diamond,200₹,36,0
+UttarPradesh,Akbarpur,KapoorDdCinemasAkbarpur,Bhojpuri,12:15,Gold,150₹,152,0
+UttarPradesh,Jaunpur,KewalDdPlexJaunpur,Bhojpuri,12:15,Diamond,200₹,33,0
+UttarPradesh,Jaunpur,KewalDdPlexJaunpur,Bhojpuri,12:15,Gold,150₹,128,0
+UttarPradesh,Faizabad,ParadiseDdPlexFaizabad,Bhojpuri,12:15,Diamond,200₹,20,3
+UttarPradesh,Faizabad,ParadiseDdPlexFaizabad,Bhojpuri,12:15,Gold,150₹,144,0
