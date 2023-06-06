@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Maharashtra,Mumbai,CinepolisVivianaMallThane,Marathi,10:30,Normal,140₹,27,0
+Maharashtra,Mumbai,CinepolisVivianaMallThane,Marathi,10:30,Executive,160₹,104,5
+Maharashtra,Mumbai,CinepolisVivianaMallThane,Marathi,10:30,Premium,180₹,46,0
+Maharashtra,Pimpri,InoxElproCitySquareChinchwad,Marathi,11:25,Royale,140₹,79,10
+Maharashtra,Pimpri,InoxElproCitySquareChinchwad,Marathi,11:25,Club,130₹,85,0
+Maharashtra,Pimpri,InoxElproCitySquareChinchwad,Marathi,11:25,Executive,130₹,34,0
+Maharashtra,Mumbai,MovietimeTheHubGoregaon,Marathi,12:10,Gold,100₹,196,27
+Maharashtra,Mumbai,CinepolisSeawoodsGrandCentralNaviMumbai,Marathi,13:35,Normal,200₹,32,0
+Maharashtra,Mumbai,CinepolisSeawoodsGrandCentralNaviMumbai,Marathi,13:35,Executive,220₹,91,0
+Maharashtra,Mumbai,CinepolisSeawoodsGrandCentralNaviMumbai,Marathi,13:35,Premium,240₹,80,6
+Maharashtra,Mumbai,CinepolisSeawoodsGrandCentralNaviMumbai,Marathi,13:35,Vip,440₹,14,8
+Maharashtra,Rajgurunagar,CityPrideKothrud,Marathi,14:00,RoyalGold,160₹,149,12
+Maharashtra,Rajgurunagar,CityPrideKothrud,Marathi,14:00,RoyalSilver,140₹,22,0
+Maharashtra,Rajgurunagar,CinepolisSeasonsMallPune,Marathi,16:25,Normal,160₹,30,0
+Maharashtra,Rajgurunagar,CinepolisSeasonsMallPune,Marathi,16:25,Executive,160₹,88,3
+Maharashtra,Rajgurunagar,CinepolisSeasonsMallPune,Marathi,16:25,Premium,180₹,52,2
