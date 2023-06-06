@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Ettumanoor,AshaTheatreKottayam,Malayalam,11:00,Gold,130₹,187,5
+Kerala,Ettumanoor,AshaTheatreKottayam,Malayalam,11:00,Silver,110₹,33,0
+Kerala,Palluruthy,SangeetaCinemaKochi,Malayalam,12:00,BlueCircle,150₹,187,18
+Kerala,Attingal,KalabhavanTheatreTripleBeam3DTrivandrum,Malayalam,14:30,Platinum,125₹,135,28
+Kerala,Attingal,KalabhavanTheatreTripleBeam3DTrivandrum,Malayalam,14:30,Gold,105₹,275,32
