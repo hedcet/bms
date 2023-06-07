@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Palluruthy,SangeetaCinemaKochi,Malayalam,10:20,BlueCircle,150₹,187,18
+Kerala,Thalayolaparambu,CarnivalThalayolaparambu,Malayalam,11:00,Gold,110₹,204,8
+Kerala,Thodupuzha,SilverHillsCinemas4KLaser3DDolby71,Malayalam,11:15,Silver,130₹,172,172
+Kerala,Palluruthy,SangeetaCinemaKochi,Malayalam,12:00,BlueCircle,150₹,187,18
+Kerala,Kollam,CarnivalKollamRpMall,Malayalam,13:20,PremiumOffline,150₹,108,18
+Kerala,Karunagapally,CarnivalHJComplex,Malayalam,15:20,ClassicOffline,100₹,118,0
+Kerala,Palluruthy,SavitaCinemaKochi,Malayalam,16:00,Deluxe,150₹,555,34
+Kerala,Palluruthy,CarnivalCinemasRedCarpetKariyad,Malayalam,16:00,GoldLounge,270₹,32,0
+Kerala,Palluruthy,CarnivalCinemasRedCarpetKariyad,Malayalam,16:00,ExecutiveOffline,140₹,96,0
+Kerala,Thodupuzha,SilverHillsCinemas4KLaser3DDolby71,Malayalam,21:30,Silver,130₹,172,172
