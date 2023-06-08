@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Krishnagiri,SriMuruganTheatreKrishnagiri,Tamil,10:00,FirstClass,50₹,464,210
+TamilNadu,Chennai,SpiEscapeExpressAvenueMallRoyapettah,Tamil,12:20,Budget,60₹,11,8
+TamilNadu,Chennai,SpiEscapeExpressAvenueMallRoyapettah,Tamil,12:20,Elite,165₹,99,45
+TamilNadu,Krishnagiri,SriMuruganTheatreKrishnagiri,Tamil,14:00,FirstClass,50₹,464,210
+TamilNadu,Madurai,SriLakshmiTheatreThirupparankundram,Tamil,14:30,FirstClass,80₹,208,0
+TamilNadu,Chennai,MayajaalMultiplexEcrChennai,Tamil,14:40,FirstClass,190₹,137,12
+TamilNadu,Krishnagiri,SriMuruganTheatreKrishnagiri,Tamil,18:00,FirstClass,50₹,464,210
+TamilNadu,Madurai,SriLakshmiTheatreThirupparankundram,Tamil,18:30,FirstClass,80₹,208,0
+TamilNadu,Krishnagiri,SriMuruganTheatreKrishnagiri,Tamil,22:00,FirstClass,50₹,464,210
+TamilNadu,Madurai,SriLakshmiTheatreThirupparankundram,Tamil,22:30,FirstClass,80₹,208,0
