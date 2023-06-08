@@ -1,0 +1,8 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Haryana,NationalCapitalRegionNcr,CinepolisV3SMallLaxmiNagar,Garhwali,14:15,Normal,200₹,84,0
+Haryana,NationalCapitalRegionNcr,CinepolisV3SMallLaxmiNagar,Garhwali,14:15,Executive,200₹,114,17
+Haryana,NationalCapitalRegionNcr,PvrVegasDwarka,Garhwali,16:40,Classic,200₹,108,10
+Haryana,NationalCapitalRegionNcr,PvrVegasDwarka,Garhwali,16:40,Prime,200₹,88,50
+Haryana,NationalCapitalRegionNcr,RrCinemaJaipuriaMall,Garhwali,17:25,PremiumSofa,300₹,21,0
+Haryana,NationalCapitalRegionNcr,RrCinemaJaipuriaMall,Garhwali,17:25,Gold,200₹,252,64
+Haryana,NationalCapitalRegionNcr,RrCinemaJaipuriaMall,Garhwali,17:25,Silver,150₹,100,21
