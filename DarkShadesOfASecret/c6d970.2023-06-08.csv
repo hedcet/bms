@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Taliparamba,CrownCinemaTaliparamba,Malayalam,10:30,Crown,130₹,201,0
+Kerala,Changanassery,DhanyaRemyaChanganassery,Malayalam,11:00,Remya,135₹,196,0
+Kerala,Kottayam,DhanyaRemyaKottayam,Malayalam,11:00,Dhanya,135₹,465,0
+Kerala,Taliparamba,CrownCinemaTaliparamba,Malayalam,13:30,Crown,130₹,201,0
+Kerala,Attingal,ThapasyaCineHouseAttingal,Malayalam,18:30,Circle,130₹,436,1
+Kerala,Attingal,ThapasyaCineHouseAttingal,Malayalam,21:30,Circle,130₹,436,1
