@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Orissa,Jatni,CinepolisNexusEsplanadeBhubaneswar,Odia,14:50,Normal,160₹,23,10
+Orissa,Jatni,CinepolisNexusEsplanadeBhubaneswar,Odia,14:50,Executive,170₹,52,44
+Orissa,Jatni,CinepolisNexusEsplanadeBhubaneswar,Odia,14:50,Premium,180₹,48,25
+Orissa,Jatni,CinepolisNexusEsplanadeBhubaneswar,Odia,14:50,Vip,500₹,10,0
+Karnataka,Bengaluru,Cinephile4KLaserPnrFelicityMallHaralurRoad,Odia,17:20,Gold,200₹,193,17
