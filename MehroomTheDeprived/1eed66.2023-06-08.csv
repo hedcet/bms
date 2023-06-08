@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+JammuAndKashmir,Jammu,PvrKcJammu,Hindi,16:55,Classic,200₹,282,3
+JammuAndKashmir,Jammu,PvrKcJammu,Hindi,16:55,Prime,200₹,84,60
+JammuAndKashmir,Jammu,PvrKcJammu,Hindi,16:55,Recliner,250₹,25,6
