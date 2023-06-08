@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,GoverdhanTheatreYeshwantpur,Kannada,10:15,BalconyClass,120₹,307,0
+Karnataka,Bengaluru,GoverdhanTheatreYeshwantpur,Kannada,10:15,SecondClass,100₹,555,0
+Karnataka,Bellary,RrMultiplexBellary,Kannada,11:00,GoldClass,150₹,86,0
+Karnataka,Bellary,RrMultiplexBellary,Kannada,11:00,SilverClass,100₹,243,0
+Karnataka,Bengaluru,GopalanMallSirsiCircle,Kannada,13:30,Gold,150₹,187,0
+Karnataka,Bellary,RrMultiplexBellary,Kannada,14:00,GoldClass,150₹,86,0
+Karnataka,Bellary,RrMultiplexBellary,Kannada,14:00,SilverClass,100₹,243,0
+Karnataka,Bengaluru,GopalanMallSirsiCircle,Kannada,16:30,Gold,150₹,265,29
+Karnataka,Bellary,RrMultiplexBellary,Kannada,17:30,GoldClass,150₹,86,0
+Karnataka,Bellary,RrMultiplexBellary,Kannada,17:30,SilverClass,100₹,243,0
+Karnataka,Bellary,RrMultiplexBellary,Kannada,20:00,GoldClass,150₹,86,0
+Karnataka,Bellary,RrMultiplexBellary,Kannada,20:00,SilverClass,100₹,243,0
+Karnataka,MysuruMysore,DrcCinemasBmHabitatMall,Kannada,22:05,Premium,160₹,182,13
+Karnataka,MysuruMysore,DrcCinemasBmHabitatMall,Kannada,22:05,Luxury,200₹,19,0
