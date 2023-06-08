@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Telangana,Warangal,AmruthaCinemaHanumakonda,Telugu,18:00,UpperBalcony,110₹,376,376
+Telangana,Warangal,AmruthaCinemaHanumakonda,Telugu,18:00,LowerBalcony,100₹,192,192
+Telangana,Warangal,AmruthaCinemaHanumakonda,Telugu,18:00,DressCircle,80₹,116,116
+Telangana,Warangal,AmruthaCinemaHanumakonda,Telugu,18:00,FirstClass,50₹,170,170
