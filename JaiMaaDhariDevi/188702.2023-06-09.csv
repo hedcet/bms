@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Haryana,NationalCapitalRegionNcr,PvrVegasDwarka,Garhwali,16:30,Classic,250₹,112,15
+Haryana,NationalCapitalRegionNcr,PvrVegasDwarka,Garhwali,16:30,Prime,300₹,52,25
+UttarPradesh,Muradnagar,RrCinemaJaipuriaMall,Garhwali,16:45,Gold,200₹,142,34
+UttarPradesh,Muradnagar,RrCinemaJaipuriaMall,Garhwali,16:45,Silver,150₹,80,0
