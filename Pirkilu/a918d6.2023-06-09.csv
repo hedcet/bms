@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,MangaluruMangalore,PvrForumFizaMallPandeshwar,Tulu,12:15,Classic,150₹,79,4
+Karnataka,Karkala,PlanetCinemaACDigitalKarkala,Tulu,13:00,Balcony,120₹,90,0
+Karnataka,PutturKarnataka,BharathCinemasPuttur,Tulu,16:15,Gold,150₹,102,10
+Karnataka,PutturKarnataka,BharathCinemasPuttur,Tulu,16:15,Silver,150₹,60,0
+Karnataka,PutturKarnataka,BharathCinemasPuttur,Tulu,16:15,Special,150₹,15,0
+Karnataka,Udupi,BharathCinemasPadubidri,Tulu,16:45,Gold,150₹,67,5
+Karnataka,Udupi,BharathCinemasPadubidri,Tulu,16:45,Silver,150₹,33,0
+Karnataka,Udupi,BharathCinemasPadubidri,Tulu,16:45,Special,110₹,11,0
+Karnataka,Moodbidri,AmarashreeTalkiesMoodbidri,Tulu,21:00,Balcony,120₹,220,0
+Karnataka,Moodbidri,AmarashreeTalkiesMoodbidri,Tulu,21:00,FirstClass,100₹,398,0
