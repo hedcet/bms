@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Chennai,SpiPalazzoTheForumVijayaMallVadapalani,Tamil,12:00,Budget,60₹,27,27
+TamilNadu,Chennai,SpiPalazzoTheForumVijayaMallVadapalani,Tamil,12:00,Elite,165₹,210,42
+TamilNadu,Chennai,SpiEscapeExpressAvenueMallRoyapettah,Tamil,15:35,Budget,60₹,11,11
+TamilNadu,Chennai,SpiEscapeExpressAvenueMallRoyapettah,Tamil,15:35,Elite,165₹,99,55
+TamilNadu,Chennai,CinepolisBsrMallOmrThoraipakkam,Tamil,16:30,Normal,60₹,17,2
+TamilNadu,Chennai,CinepolisBsrMallOmrThoraipakkam,Tamil,16:30,Executive,190₹,151,2
