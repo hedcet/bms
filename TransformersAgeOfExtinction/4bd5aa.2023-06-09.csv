@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,Mathura,GoldCinemaMathura,Hindi,09:00,Gold,230₹,122,0
+UttarPradesh,Mathura,GoldCinemaMathura,Hindi,09:00,Silver,210₹,45,0
+UttarPradesh,Mathura,GoldCinemaMathura,Hindi,11:30,Gold,280₹,122,0
+UttarPradesh,Mathura,GoldCinemaMathura,Hindi,11:30,Silver,250₹,45,0
+UttarPradesh,Mathura,GoldCinemaMathura,Hindi,14:00,Gold,280₹,122,0
+UttarPradesh,Mathura,GoldCinemaMathura,Hindi,14:00,Silver,250₹,45,0
+UttarPradesh,Mathura,GoldCinemaMathura,Hindi,19:00,Gold,280₹,122,2
+UttarPradesh,Mathura,GoldCinemaMathura,Hindi,19:00,Silver,250₹,45,0
