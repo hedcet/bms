@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,HubballiHubli,ApsaraSudhaCinemasHubli,Kannada,12:00,Balcony,150₹,220,17
+Karnataka,HubballiHubli,ApsaraSudhaCinemasHubli,Kannada,12:00,DressCircle,110₹,218,7
+Karnataka,HubballiHubli,ApsaraSudhaCinemasHubli,Kannada,15:00,Balcony,150₹,220,17
+Karnataka,HubballiHubli,ApsaraSudhaCinemasHubli,Kannada,15:00,DressCircle,110₹,218,6
+Karnataka,Bengaluru,RocklineCinemasJalahalliCross,Kannada,18:00,Gold,150₹,163,30
