@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Vadodara,InoxTakshGalaxyMallWaghodia,Telugu,10:00,Club,130₹,60,0
+Gujarat,Vadodara,InoxTakshGalaxyMallWaghodia,Telugu,10:00,Royal,130₹,69,7
+Gujarat,Vadodara,InoxTakshGalaxyMallWaghodia,Telugu,10:00,Executive,110₹,20,0
