@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Nellore,RainCinemaNellore,Telugu,14:50,Premium,150₹,302,131
+AndhraPradesh,Nellore,RainCinemaNellore,Telugu,14:50,Popular,112₹,79,1
+AndhraPradesh,Nellore,RainCinemaNellore,Telugu,22:00,Premium,150₹,302,72
+AndhraPradesh,Nellore,RainCinemaNellore,Telugu,22:00,Popular,112₹,79,0
