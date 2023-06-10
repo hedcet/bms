@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Belghoria,NazrultirthaCinemaScreen3Kolkata,Bengali,17:30,Gold,150₹,30,15
+WestBengal,Belghoria,NazrultirthaCinemaScreen3Kolkata,Bengali,17:30,Recliner,170₹,8,8
+WestBengal,Belghoria,NazrultirthaCinemaScreen3Kolkata,Bengali,17:30,Sofa,150₹,12,0
