@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Uttarakhand,Pithoragarh,RoyalCinemasPithoragarh,Hindi,10:00,Gold,100₹,126,15
+Uttarakhand,Pithoragarh,RoyalCinemasPithoragarh,Hindi,10:00,Platinum,100₹,16,15
+Uttarakhand,Pithoragarh,RoyalCinemasPithoragarh,Hindi,12:30,Gold,100₹,126,0
+Uttarakhand,Pithoragarh,RoyalCinemasPithoragarh,Hindi,12:30,Platinum,100₹,16,0
+Uttarakhand,Pithoragarh,RoyalCinemasPithoragarh,Hindi,16:00,Gold,100₹,126,113
+Uttarakhand,Pithoragarh,RoyalCinemasPithoragarh,Hindi,16:00,Platinum,100₹,16,5
