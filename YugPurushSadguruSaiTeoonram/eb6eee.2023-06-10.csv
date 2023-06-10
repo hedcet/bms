@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Ahmedabad,MirajCinemasCinePrideKrishnaNagar,Sindhi,17:00,Gold,110₹,30,30
+Gujarat,Ahmedabad,MirajCinemasCinePrideKrishnaNagar,Sindhi,17:00,Platinum,110₹,95,65
+Gujarat,Jamnagar,MehulCinemaxJamnagar,Sindhi,21:30,Pl,300₹,4,4
+Gujarat,Jamnagar,MehulCinemaxJamnagar,Sindhi,21:30,Gl,170₹,269,227
+Gujarat,Jamnagar,MehulCinemaxJamnagar,Sindhi,21:30,Sl,170₹,80,0
+Gujarat,Anklav,CinemarcNewVipRoad,Sindhi,21:50,Gold,80₹,20,20
+Gujarat,Anklav,CinemarcNewVipRoad,Sindhi,21:50,Silver,80₹,87,87
+Gujarat,Anklav,CinemarcNewVipRoad,Sindhi,21:50,Premium,80₹,13,13
+Gujarat,Anklav,CinemarcNewVipRoad,Sindhi,21:50,Sofa,80₹,19,19
