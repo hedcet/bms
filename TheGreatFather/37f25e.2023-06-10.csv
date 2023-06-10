@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Trichy,SriRengarajTalkiesTiruchirappalli,Tamil,14:15,FirstClass,50₹,211,1
+TamilNadu,Trichy,ArunaTheatreTrichy,Tamil,14:30,FirstClass,50₹,401,11
+TamilNadu,Trichy,SriRengarajTalkiesTiruchirappalli,Tamil,18:15,FirstClass,50₹,211,1
+TamilNadu,Trichy,ArunaTheatreTrichy,Tamil,18:30,FirstClass,50₹,401,10
+TamilNadu,Trichy,ArunaTheatreTrichy,Tamil,22:15,FirstClass,50₹,401,10
+TamilNadu,Trichy,SriRengarajTalkiesTiruchirappalli,Tamil,22:15,FirstClass,50₹,211,1
