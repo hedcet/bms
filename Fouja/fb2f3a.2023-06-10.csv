@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Delhi,NationalCapitalRegionNcr,SaimCinemasSlfMallSec3033Faridabad,Haryanavi,12:30,Gold,100₹,66,0
+Delhi,NationalCapitalRegionNcr,SaimCinemasSlfMallSec3033Faridabad,Haryanavi,12:30,Silver,100₹,80,0
+Delhi,NationalCapitalRegionNcr,PvrElanTownCentreGurgaon,Haryanavi,16:55,Classic,210₹,54,0
+Delhi,NationalCapitalRegionNcr,PvrElanTownCentreGurgaon,Haryanavi,16:55,Prime,230₹,63,25
+Delhi,NationalCapitalRegionNcr,PvrElanTownCentreGurgaon,Haryanavi,16:55,Recliner,400₹,11,2
