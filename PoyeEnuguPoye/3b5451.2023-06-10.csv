@@ -1,0 +1,8 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Guntur,PvrTheCinemaGuntur,Telugu,10:00,Premium,295₹,10,10
+AndhraPradesh,Guntur,PvrTheCinemaGuntur,Telugu,10:00,Deluxe,177₹,170,170
+Telangana,Aushapur,InoxGsmMallHyderabad,Telugu,11:15,Royal,250₹,12,4
+Telangana,Aushapur,InoxGsmMallHyderabad,Telugu,11:15,Executive,150₹,141,5
+Telangana,Hyderabad,PvrForumSujanaMallKukatpallyHyderabad,Telugu,11:15,Classic,150₹,135,135
+Telangana,Hyderabad,PvrForumSujanaMallKukatpallyHyderabad,Telugu,11:15,Recliner,250₹,9,9
+AndhraPradesh,VizagVisakhapatnam,InoxVizagChitralayaMall,Telugu,13:36,Executive,177₹,134,10
