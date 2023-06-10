@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Bihar,Ghorasahan,AmbikaMultiplexGhorasahan,Hindi,12:00,Black,150₹,104,0
+Bihar,Ghorasahan,AmbikaMultiplexGhorasahan,Hindi,12:00,Red,120₹,54,0
+Bihar,Ghorasahan,AmbikaMultiplexGhorasahan,Hindi,15:00,Black,150₹,104,0
+Bihar,Ghorasahan,AmbikaMultiplexGhorasahan,Hindi,15:00,Red,120₹,54,0
+Bihar,Ghorasahan,AmbikaMultiplexGhorasahan,Hindi,18:00,Black,150₹,104,0
+Bihar,Ghorasahan,AmbikaMultiplexGhorasahan,Hindi,18:00,Red,120₹,54,0
+Bihar,Ghorasahan,AmbikaPicturePalaceGhorasahan,Hindi,21:00,Black,150₹,104,0
+Bihar,Ghorasahan,AmbikaPicturePalaceGhorasahan,Hindi,21:00,Red,120₹,54,0
+Karnataka,Bengaluru,PvrTheForumMallKoramangala,English,22:15,Classic,152₹,103,103
