@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,NationalCapitalRegionNcr,PvrGaurCityGreaterNoida,English,10:20,Classic,180₹,101,0
+UttarPradesh,NationalCapitalRegionNcr,PvrGaurCityGreaterNoida,English,10:20,Prime,200₹,13,9
+Gujarat,Ahmedabad,TimeCinemaCgRoadAhmedabad,English,10:30,Standard,240₹,108,0
+Gujarat,Surat,TimeCinemaGalaxyCirclePalSurat,English,12:45,Infinity,280₹,22,1
+Karnataka,Bengaluru,PvrGoldVegaCityBannerghattaRoad,English,13:30,Gold,800₹,24,2
+Karnataka,Bengaluru,PvrGoldVegaCityBannerghattaRoad,English,13:30,GoldPrime,850₹,12,7
+Gujarat,Ahmedabad,TimeCinemaCgRoadAhmedabad,English,14:00,Standard,240₹,108,0
+Karnataka,Bengaluru,PvrTheForumMallKoramangala,English,16:00,Classic,310₹,172,88
+Gujarat,Ahmedabad,TimeCinemaCgRoadAhmedabad,English,19:15,Infinity,"1,030₹",12,0
+Gujarat,Ahmedabad,TimeCinemaCgRoadAhmedabad,English,19:15,InfinitySofa,310₹,72,2
+Gujarat,Surat,TimeCinemaGalaxyCirclePalSurat,English,20:00,Infinity,330₹,22,0
+UttarPradesh,NationalCapitalRegionNcr,PvrLogixNoida,English,22:00,Classic,360₹,94,23
