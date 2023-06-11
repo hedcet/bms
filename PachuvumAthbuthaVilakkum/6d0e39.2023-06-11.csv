@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Kochi,PvrLuluKochi,Malayalam,12:25,Classic,140₹,54,3
+Kerala,Kochi,PvrLuluKochi,Malayalam,12:25,ClassicPlus,160₹,108,16
+Kerala,Kochi,PvrLuluKochi,Malayalam,12:25,Prime,190₹,125,33
+Kerala,Kochi,PvrLuluKochi,Malayalam,12:25,Recliner,350₹,14,5
+Kerala,Trivandrum,PvrLuluTrivandrum,Malayalam,14:50,Classic,240₹,104,6
+Kerala,Trivandrum,PvrLuluTrivandrum,Malayalam,14:50,Prime,270₹,68,48
+Kerala,Trivandrum,PvrLuluTrivandrum,Malayalam,14:50,Recliner,500₹,7,0
+Kerala,Pazhayannur,InoxSobhaCityMall,Malayalam,21:40,RoyalRecliner,350₹,10,4
+Kerala,Pazhayannur,InoxSobhaCityMall,Malayalam,21:40,Club,190₹,66,4
+Kerala,Pazhayannur,InoxSobhaCityMall,Malayalam,21:40,Royal,190₹,28,17
+Kerala,Pazhayannur,InoxSobhaCityMall,Malayalam,21:40,Executive,130₹,22,0
+Kerala,Kochi,PvrOberonMallKochi,Malayalam,22:00,Classic,140₹,36,0
+Kerala,Kochi,PvrOberonMallKochi,Malayalam,22:00,ClassicPlus,170₹,81,16
+Kerala,Trivandrum,PvrLuluTrivandrum,Malayalam,22:00,Classic,220₹,104,0
+Kerala,Trivandrum,PvrLuluTrivandrum,Malayalam,22:00,Prime,250₹,68,20
+Kerala,Trivandrum,PvrLuluTrivandrum,Malayalam,22:00,Recliner,500₹,7,3
