@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Nellore,SiriMultiplexNellore,Telugu,11:50,Gold,110₹,68,0
+AndhraPradesh,Nellore,SiriMultiplexNellore,Telugu,11:50,Gold,110₹,68,1
+Telangana,Hyderabad,PvrCentralMallPanjagutta,Telugu,14:30,Classic,150₹,141,109
+AndhraPradesh,Nellore,SiriMultiplexNellore,Telugu,19:00,Gold,110₹,68,0
+AndhraPradesh,Nellore,SiriMultiplexNellore,Telugu,19:00,Gold,110₹,68,0
