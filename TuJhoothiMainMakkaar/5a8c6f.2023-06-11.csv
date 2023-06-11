@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Ahmedabad,AbMiniplexShivranjiniCrossRoadSatellite,Hindi,09:20,UpperSofa,110₹,24,0
+Gujarat,Ahmedabad,AbMiniplexShivranjiniCrossRoadSatellite,Hindi,09:20,MiddleSofa,99₹,22,0
+Maharashtra,Mumbai,G7MultiplexBandraW,Hindi,15:30,Special,150₹,36,3
+Maharashtra,Mumbai,G7MultiplexBandraW,Hindi,15:30,DressCircle,150₹,10,8
+Gujarat,Ahmedabad,AbMiniplexShivranjiniCrossRoadSatellite,Hindi,15:35,UpperSofa,135₹,24,19
+Gujarat,Ahmedabad,AbMiniplexShivranjiniCrossRoadSatellite,Hindi,15:35,MiddleSofa,110₹,22,6
