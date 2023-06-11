@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Mattannur,AuraCinemasMattannur,Malayalam,11:00,Executive,130₹,137,2
+Kerala,Kanichar,DevCinemasKanichar,Malayalam,14:30,Screen3,129₹,152,3
+Kerala,Kanichar,DevCinemasKanichar,Malayalam,18:00,Screen3,129₹,152,2
+Kerala,Kanichar,DevCinemasKanichar,Malayalam,21:00,Screen3,129₹,152,0
+Kerala,Mattannur,AuraCinemasMattannur,Malayalam,21:45,Executive,130₹,137,0
