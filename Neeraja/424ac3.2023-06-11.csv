@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Thalayolaparambu,CarnivalThalayolaparambu,Malayalam,10:45,Gold,110₹,144,6
+Kerala,Karunagapally,CarnivalHJComplex,Malayalam,11:00,ClassicOffline,150₹,194,0
+Kerala,Pazhayannur,GanamCinemasThrissur,Malayalam,12:00,BlueCircle,120₹,340,2
+Kerala,Kochi,SangeetaCinemaKochi,Malayalam,12:00,BlueCircle,150₹,187,24
+Kerala,Kochi,CarnivalCinemasRedCarpetKariyad,Malayalam,15:30,GoldLounge,270₹,32,0
+Kerala,Kochi,CarnivalCinemasRedCarpetKariyad,Malayalam,15:30,ExecutiveOffline,140₹,96,3
+Kerala,Thalassery,CarnivalDowntownThalassery,Malayalam,16:00,GoldOffline,250₹,8,5
+Kerala,Thalassery,CarnivalDowntownThalassery,Malayalam,16:00,ExecutiveOffline,160₹,135,21
+Kerala,Kollam,CarnivalKollamRpMall,Malayalam,16:00,PremiumOffline,180₹,108,25
