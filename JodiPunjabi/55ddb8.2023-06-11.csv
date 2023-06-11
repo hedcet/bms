@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Punjab,Ludhiana,PvrPavilionLudhiana,Punjabi,13:00,Classic,280₹,77,66
+Punjab,Chandigarh,PvrElanteChandigarh,Punjabi,15:00,Classic,230₹,153,123
+Punjab,Chandigarh,PvrElanteChandigarh,Punjabi,15:00,Recliner,650₹,13,13
+Punjab,Patiala,MovieMaxOmaxeMallPatialaSrsEarlier,Punjabi,17:10,Recliner,400₹,23,7
+Punjab,Patiala,MovieMaxOmaxeMallPatialaSrsEarlier,Punjabi,17:10,Premium,230₹,88,30
+Punjab,Patiala,MovieMaxOmaxeMallPatialaSrsEarlier,Punjabi,17:10,Platinum,210₹,91,8
+Punjab,Patiala,MovieMaxOmaxeMallPatialaSrsEarlier,Punjabi,17:10,Gold,200₹,64,0
+Punjab,Rupnagar,JrRitzMultiplexRopar,Punjabi,17:30,Silver,150₹,95,11
+Punjab,Chandigarh,PvrVrPunjabMallMohali,Punjabi,22:00,Classic,290₹,120,24
+Punjab,Chandigarh,PvrVrPunjabMallMohali,Punjabi,22:00,Prime,330₹,42,10
