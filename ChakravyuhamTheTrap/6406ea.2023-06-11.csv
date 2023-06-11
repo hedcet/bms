@@ -1,0 +1,14 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Telangana,Hyderabad,MovietimeCinemasAmeerpetFormerlyCarnival,Telugu,14:00,SilverClass,150₹,316,39
+AndhraPradesh,Malikipuram,SriSankarTheatreMalikipuram,Telugu,14:30,FirstClass,110₹,318,99
+AndhraPradesh,Malikipuram,SriSankarTheatreMalikipuram,Telugu,14:30,SecondClass,70₹,86,76
+AndhraPradesh,Kathipudi,SriSatayanarayanaTheatreKathipudi,Telugu,14:30,1FirstClass,110₹,291,98
+AndhraPradesh,Kathipudi,SriSatayanarayanaTheatreKathipudi,Telugu,14:30,2SecondClass,110₹,109,100
+Telangana,Hyderabad,PrasadsHyderabad,Telugu,15:15,Executive,200₹,224,57
+Telangana,Aushapur,PvrMusarambaghHyderabad,Telugu,19:25,Classic,150₹,160,64
+Telangana,Aushapur,InoxMaheshwari,Telugu,19:30,Executive,150₹,139,54
+Telangana,Aushapur,PvrMallapurHyderabad,Telugu,20:05,Classic,150₹,201,19
+AndhraPradesh,Malikipuram,SriSankarTheatreMalikipuram,Telugu,21:30,FirstClass,110₹,318,99
+AndhraPradesh,Malikipuram,SriSankarTheatreMalikipuram,Telugu,21:30,SecondClass,70₹,86,76
+AndhraPradesh,Kathipudi,SriSatayanarayanaTheatreKathipudi,Telugu,21:30,1FirstClass,110₹,291,95
+AndhraPradesh,Kathipudi,SriSatayanarayanaTheatreKathipudi,Telugu,21:30,2SecondClass,110₹,109,100
