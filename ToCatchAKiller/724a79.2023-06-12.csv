@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Delhi,NationalCapitalRegionNcr,PvrLogixNoida,English,16:50,Classic,225₹,94,0
+TamilNadu,Chennai,SpiEscapeExpressAvenueMallRoyapettah,English,22:20,Budget,66₹,11,9
+TamilNadu,Chennai,SpiEscapeExpressAvenueMallRoyapettah,English,22:20,Elite,185₹,99,9
