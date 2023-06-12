@@ -1,0 +1,14 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Surat,PvrRahulRajSurat,Gujarati,09:30,Classic,110₹,36,0
+Gujarat,Surat,PvrRahulRajSurat,Gujarati,09:30,ClassicPlus,130₹,36,0
+Gujarat,Surat,PvrRahulRajSurat,Gujarati,09:30,Prime,140₹,84,11
+Gujarat,Surat,PvrRahulRajSurat,Gujarati,09:30,Recliner,240₹,28,5
+Gujarat,Vadodara,PvrTransCubeVadodara,Gujarati,13:15,Classic,150₹,42,0
+Gujarat,Vadodara,PvrTransCubeVadodara,Gujarati,13:15,Prime,150₹,99,0
+Gujarat,Vadodara,PvrTransCubeVadodara,Gujarati,13:15,Recliner,300₹,8,0
+Gujarat,Surat,RajhansMultiplexAdajanSurat,Gujarati,19:35,Box,170₹,6,4
+Gujarat,Surat,RajhansMultiplexAdajanSurat,Gujarati,19:35,Executive,110₹,292,12
+Gujarat,Surat,RajImperialInoxVarachhaRoadSurat,Gujarati,20:00,Imperial,410₹,9,9
+Gujarat,Surat,RajImperialInoxVarachhaRoadSurat,Gujarati,20:00,Platinum,240₹,26,6
+Gujarat,Surat,RajImperialInoxVarachhaRoadSurat,Gujarati,20:00,Gold,210₹,30,7
+Gujarat,Surat,RajImperialInoxVarachhaRoadSurat,Gujarati,20:00,Silver,190₹,10,0
