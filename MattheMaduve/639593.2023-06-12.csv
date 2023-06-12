@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Jigani,CinepolisBinnypetMall,Kannada,13:05,Normal,130₹,9,0
+Karnataka,Jigani,CinepolisBinnypetMall,Kannada,13:05,Executive,130₹,81,12
+Karnataka,Jigani,CinepolisBinnypetMall,Kannada,13:05,Premium,130₹,52,14
+Karnataka,Jigani,GopalanCinemasArcadeMallMysoreRoad,Kannada,13:30,Gold,200₹,292,6
+Karnataka,Jigani,GopalanCinemasArcadeMallMysoreRoad,Kannada,13:30,Recliner,300₹,19,4
+Karnataka,Bengaluru,PvrBhartiyaMallOfBengaluru,Kannada,15:50,Classic,160₹,72,2
+Karnataka,Bengaluru,PvrBhartiyaMallOfBengaluru,Kannada,15:50,Prime,180₹,60,6
+Karnataka,Bengaluru,PvrBhartiyaMallOfBengaluru,Kannada,15:50,Recliner,250₹,18,0
+Karnataka,MysuruMysore,DrcCinemasBmHabitatMall,Kannada,16:10,Premium,160₹,182,0
+Karnataka,MysuruMysore,DrcCinemasBmHabitatMall,Kannada,16:10,Luxury,200₹,18,0
+Karnataka,Bengaluru,RocklineCinemasJalahalliCross,Kannada,21:30,Gold,150₹,193,30
