@@ -1,0 +1,14 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Maharashtra,Pune,CityPrideSataraRoad,Marathi,12:45,RoyalGold,160₹,194,50
+Maharashtra,Pune,CityPrideSataraRoad,Marathi,12:45,RoyalSilver,130₹,40,0
+Maharashtra,Mumbai,MaxusCinemasBorivaliW,Marathi,14:15,Couple,249₹,26,3
+Maharashtra,Mumbai,MaxusCinemasBorivaliW,Marathi,14:15,Recliner,249₹,42,5
+Maharashtra,Mumbai,MovietimeTheHubGoregaon,Marathi,14:55,Gold,120₹,63,25
+Maharashtra,Mumbai,MuktaA2CinemasSuncityVileParle,Marathi,15:00,Executive,150₹,39,31
+Maharashtra,Mumbai,MuktaA2CinemasSuncityVileParle,Marathi,15:00,Premium,150₹,254,22
+Maharashtra,Mumbai,CitylightCinemaMahim,Marathi,16:15,Prime,150₹,252,47
+Maharashtra,Pune,CityPrideKothrud,Marathi,17:30,RoyalGold,150₹,427,109
+Maharashtra,Pune,CityPrideKothrud,Marathi,17:30,RoyalSilver,150₹,77,0
+Maharashtra,Mumbai,CinepolisVivianaMallThane,Marathi,19:15,Normal,200₹,27,0
+Maharashtra,Mumbai,CinepolisVivianaMallThane,Marathi,19:15,Executive,230₹,104,38
+Maharashtra,Mumbai,CinepolisVivianaMallThane,Marathi,19:15,Premium,230₹,46,14
