@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Hoskote,CinepolisBinnypetMall,Kannada,13:05,Normal,130₹,9,0
+Karnataka,Hoskote,CinepolisBinnypetMall,Kannada,13:05,Executive,130₹,81,12
+Karnataka,Hoskote,CinepolisBinnypetMall,Kannada,13:05,Premium,130₹,52,10
+Karnataka,Hoskote,GopalanCinemasArcadeMallMysoreRoad,Kannada,13:30,Gold,200₹,292,3
+Karnataka,Hoskote,GopalanCinemasArcadeMallMysoreRoad,Kannada,13:30,Recliner,300₹,19,5
+Karnataka,Bengaluru,PvrBhartiyaMallOfBengaluru,Kannada,15:50,Classic,160₹,72,6
+Karnataka,Bengaluru,PvrBhartiyaMallOfBengaluru,Kannada,15:50,Prime,180₹,60,8
+Karnataka,Bengaluru,PvrBhartiyaMallOfBengaluru,Kannada,15:50,Recliner,250₹,18,0
+Karnataka,Bengaluru,RocklineCinemasJalahalliCross,Kannada,21:30,Gold,150₹,193,32
