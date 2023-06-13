@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Kolkata,RupmandirCinemaBelgharia,Bengali,11:45,Gold,80₹,102,0
+WestBengal,Kolkata,SvfCinemasWoodSquareMallNarendrapur,Bengali,12:00,RoyalRecliner,200₹,20,1
+WestBengal,Kolkata,SvfCinemasWoodSquareMallNarendrapur,Bengali,12:00,RoyalLounger,150₹,42,9
+WestBengal,Kolkata,NandanKolkata,Bengali,13:30,FrontStall,30₹,111,8
+WestBengal,Kolkata,NandanKolkata,Bengali,13:30,RearStall,50₹,451,73
+WestBengal,Kolkata,NandanKolkata,Bengali,13:30,Balcony,70₹,369,72
+WestBengal,Kolkata,InoxSouthCityKolkata,Bengali,19:25,Silver,220₹,167,33
+WestBengal,Kolkata,InoxSouthCityKolkata,Bengali,19:25,Premier,200₹,34,0
+WestBengal,Kolkata,NazrultirthaCinemaKolkata,Bengali,20:30,Silver,130₹,26,2
+WestBengal,Kolkata,NazrultirthaCinemaKolkata,Bengali,20:30,Gold,150₹,75,9
