@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Ahmedabad,MirajCityPulseAhmedabad,Gujarati,11:45,Gold,110₹,24,0
+Gujarat,Dhoraji,SurajCineplexJunagadh,Gujarati,15:00,Sofa,200₹,20,20
+Gujarat,Dhoraji,SurajCineplexJunagadh,Gujarati,15:00,Executive,90₹,70,70
+Gujarat,Dhoraji,SurajCineplexJunagadh,Gujarati,21:00,Sofa,200₹,20,20
+Gujarat,Dhoraji,SurajCineplexJunagadh,Gujarati,21:00,Executive,90₹,70,70
