@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Maharashtra,Mumbai,AshokAnilMultiplexMirajCinemasUlhasnagar,Sindhi,17:00,Silver,130₹,40,40
+Maharashtra,Mumbai,AshokAnilMultiplexMirajCinemasUlhasnagar,Sindhi,17:00,Gold,130₹,197,182
+Gujarat,Jamnagar,MehulCinemaxJamnagar,Sindhi,21:30,Pl,290₹,4,4
+Gujarat,Jamnagar,MehulCinemaxJamnagar,Sindhi,21:30,Gl,140₹,269,41
+Gujarat,Jamnagar,MehulCinemaxJamnagar,Sindhi,21:30,Sl,140₹,80,0
+Gujarat,Vadodara,CinemarcNewVipRoad,Sindhi,21:50,Gold,80₹,37,37
+Gujarat,Vadodara,CinemarcNewVipRoad,Sindhi,21:50,Silver,80₹,158,158
+Gujarat,Vadodara,CinemarcNewVipRoad,Sindhi,21:50,Premium,80₹,46,46
+Gujarat,Vadodara,CinemarcNewVipRoad,Sindhi,21:50,Sofa,80₹,35,35
