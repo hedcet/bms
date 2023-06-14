@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,NationalCapitalRegionNcr,PvrVegasDwarka,Garhwali,16:30,Classic,200₹,112,17
+UttarPradesh,NationalCapitalRegionNcr,PvrVegasDwarka,Garhwali,16:30,Prime,250₹,52,22
+UttarPradesh,Muradnagar,RrCinemaJaipuriaMall,Garhwali,16:45,Gold,200₹,142,22
+UttarPradesh,Muradnagar,RrCinemaJaipuriaMall,Garhwali,16:45,Silver,150₹,80,10
