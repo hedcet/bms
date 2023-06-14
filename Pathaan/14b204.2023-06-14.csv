@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,AbhinayTheatre4KACGandhinagar,Hindi,10:30,Balcony,150₹,369,57
+Karnataka,Bengaluru,AbhinayTheatre4KACGandhinagar,Hindi,10:30,MiniBalcony,120₹,146,0
+Karnataka,Bengaluru,AbhinayTheatre4KACGandhinagar,Hindi,10:30,SecondClass,100₹,480,56
+Karnataka,Bengaluru,AbhinayTheatre4KACGandhinagar,Hindi,13:30,Balcony,150₹,369,57
+Karnataka,Bengaluru,AbhinayTheatre4KACGandhinagar,Hindi,13:30,MiniBalcony,120₹,146,0
+Karnataka,Bengaluru,AbhinayTheatre4KACGandhinagar,Hindi,13:30,SecondClass,100₹,480,56
+Karnataka,Bengaluru,VinayakaCinemas4KDolby115AC3DHarinagar,Hindi,16:30,PlatinumSofa,150₹,40,11
+Karnataka,Bengaluru,VinayakaCinemas4KDolby115AC3DHarinagar,Hindi,16:30,Diamomd,120₹,504,84
+Karnataka,Bengaluru,VinayakaCinemas4KDolby115AC3DHarinagar,Hindi,19:15,PlatinumSofa,150₹,40,11
+Karnataka,Bengaluru,VinayakaCinemas4KDolby115AC3DHarinagar,Hindi,19:15,Diamomd,120₹,504,84
+Karnataka,Bengaluru,VinayakaCinemas4KDolby115AC3DHarinagar,Hindi,21:45,PlatinumSofa,150₹,40,11
+Karnataka,Bengaluru,VinayakaCinemas4KDolby115AC3DHarinagar,Hindi,21:45,Diamomd,120₹,504,84
