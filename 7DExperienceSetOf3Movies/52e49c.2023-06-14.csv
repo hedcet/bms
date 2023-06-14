@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Assam,Guwahati,7DTheatreGalleriaCinema,English,13:00,Gold,120₹,48,0
+Assam,Guwahati,7DTheatreGalleriaCinema,English,14:00,Gold,120₹,48,1
+Assam,Guwahati,7DTheatreGalleriaCinema,English,15:00,Gold,120₹,48,0
+Assam,Guwahati,7DTheatreGalleriaCinema,English,16:00,Gold,120₹,48,0
+Assam,Guwahati,7DTheatreGalleriaCinema,English,17:00,Gold,120₹,48,0
+Assam,Guwahati,7DTheatreGalleriaCinema,English,18:00,Gold,120₹,48,0
+Assam,Guwahati,7DTheatreGalleriaCinema,English,19:00,Gold,120₹,48,0
+Assam,Guwahati,7DTheatreGalleriaCinema,English,20:00,Gold,120₹,48,0
