@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,NationalCapitalRegionNcr,PvrElanTownCentreGurgaon,Haryanavi,17:30,Classic,150₹,54,0
+UttarPradesh,NationalCapitalRegionNcr,PvrElanTownCentreGurgaon,Haryanavi,17:30,Prime,150₹,63,21
+UttarPradesh,NationalCapitalRegionNcr,PvrElanTownCentreGurgaon,Haryanavi,17:30,Recliner,320₹,11,0
