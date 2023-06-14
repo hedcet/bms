@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Gandhinagar,SaneliteCinemasGandhinagar,Gujarati,09:30,FamilyLounger2Admit,200₹,10,0
+Gujarat,Gandhinagar,SaneliteCinemasGandhinagar,Gujarati,09:30,FamilySofa1Admit,100₹,12,0
+Gujarat,Gandhinagar,SaneliteCinemasScienceCity,Gujarati,15:30,Miller,220₹,38,2
+Gujarat,Gandhinagar,SaneliteCinemasScienceCity,Gujarati,15:30,Lounger,220₹,9,0
+Gujarat,Gandhinagar,SaneliteCinemasGandhinagar,Gujarati,18:00,SliderSofa,130₹,48,0
+Gujarat,Gandhinagar,SaneliteCinemasGandhinagar,Gujarati,18:00,Lounger,80₹,8,0
+Gujarat,Gandhinagar,SaneliteCinemasScienceCity,Gujarati,20:00,TwoSeats1For2Admit,500₹,16,0
+Gujarat,Patan,SaneliteCinemasPatan,Gujarati,20:15,FamilyLounger2Admit,600₹,15,0
+Gujarat,Patan,SaneliteCinemasPatan,Gujarati,20:15,FamilySofa1Admit,250₹,12,0
