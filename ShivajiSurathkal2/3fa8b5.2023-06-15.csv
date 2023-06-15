@@ -1,0 +1,14 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Kundapura,BharathCinemasKundapura,Kannada,11:00,Gold,200₹,36,5
+Karnataka,Kundapura,BharathCinemasKundapura,Kannada,11:00,Silver,180₹,24,0
+Karnataka,Kundapura,BharathCinemasKundapura,Kannada,11:00,Special,150₹,36,0
+Karnataka,Shivamogga,BharathCinemasShivamogga,Kannada,13:30,Gold,150₹,110,12
+Karnataka,Shivamogga,BharathCinemasShivamogga,Kannada,13:30,Silver,150₹,48,0
+Karnataka,Shivamogga,BharathCinemasShivamogga,Kannada,13:30,Special,150₹,36,0
+Karnataka,Kundapura,BharathCinemasKundapura,Kannada,13:45,Vip,350₹,12,0
+Karnataka,Kundapura,BharathCinemasKundapura,Kannada,13:45,Gold,200₹,36,4
+Karnataka,Kundapura,BharathCinemasKundapura,Kannada,13:45,Silver,180₹,41,0
+Karnataka,Kundapura,BharathCinemasKundapura,Kannada,13:45,Special,150₹,48,0
+Karnataka,Kundapura,BharathCinemasKundapura,Kannada,22:00,Gold,200₹,36,4
+Karnataka,Kundapura,BharathCinemasKundapura,Kannada,22:00,Silver,180₹,24,0
+Karnataka,Kundapura,BharathCinemasKundapura,Kannada,22:00,Special,150₹,36,0
