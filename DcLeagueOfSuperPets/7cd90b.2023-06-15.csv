@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Haryana,NationalCapitalRegionNcr,PvrVegasDwarka,English,18:50,Classic,230₹,36,0
+Haryana,NationalCapitalRegionNcr,PvrVegasDwarka,English,18:50,Prime,250₹,21,2
+Haryana,NationalCapitalRegionNcr,PvrVegasDwarka,English,18:50,Recliner,350₹,8,0
