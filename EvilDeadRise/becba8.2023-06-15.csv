@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Surat,TimeCinemaGalaxyCirclePalSurat,English,12:45,Infinity,280₹,22,0
+Gujarat,Ahmedabad,TimeCinemaCgRoadAhmedabad,English,13:45,Standard,240₹,108,0
+Gujarat,Surat,TimeCinemaGalaxyCirclePalSurat,English,20:00,Infinity,330₹,22,0
+Haryana,NationalCapitalRegionNcr,PvrLogixNoida,English,22:00,Classic,260₹,94,16
+Karnataka,Bengaluru,PvrGoldVegaCityBannerghattaRoad,English,22:30,Gold,600₹,24,2
+Karnataka,Bengaluru,PvrGoldVegaCityBannerghattaRoad,English,22:30,GoldPrime,650₹,12,3
