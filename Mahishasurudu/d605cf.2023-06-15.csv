@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Nellore,SiriMultiplexNellore,Telugu,11:50,Gold,110₹,68,0
+AndhraPradesh,KovurNellore,SrinivasTheatreKovur,Telugu,14:00,1Premium,100₹,268,163
+AndhraPradesh,KovurNellore,SrinivasTheatreKovur,Telugu,14:00,2NonPremium,100₹,99,4
+AndhraPradesh,Amaravathi,SriSrinivasaTheaterAmaravathi,Telugu,14:30,FirstClass,100₹,288,112
+AndhraPradesh,Amaravathi,SriSrinivasaTheaterAmaravathi,Telugu,14:30,SecondClass,100₹,66,0
+AndhraPradesh,KovurNellore,SrinivasTheatreKovur,Telugu,18:00,1Premium,100₹,268,3
+AndhraPradesh,KovurNellore,SrinivasTheatreKovur,Telugu,18:00,2NonPremium,100₹,99,4
+AndhraPradesh,Nellore,SiriMultiplexNellore,Telugu,19:00,Gold,110₹,68,1
+AndhraPradesh,KovurNellore,SrinivasTheatreKovur,Telugu,21:00,1Premium,100₹,268,3
+AndhraPradesh,KovurNellore,SrinivasTheatreKovur,Telugu,21:00,2NonPremium,100₹,99,4
