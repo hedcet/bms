@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Hooghly,SushamaCinemaSheoraphuli,Hindi,13:00,Balcony,150₹,105,0
+WestBengal,Hooghly,SushamaCinemaSheoraphuli,Hindi,17:00,BalconyAc,150₹,105,2
+WestBengal,Hooghly,SushamaCinemaSheoraphuli,Hindi,18:30,RearStallSpecialClass,100₹,26,0
+WestBengal,Hooghly,SushamaCinemaSheoraphuli,Hindi,18:30,RearStall,70₹,390,0
