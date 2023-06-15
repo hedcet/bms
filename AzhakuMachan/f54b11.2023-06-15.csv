@@ -1,0 +1,14 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Kozhinjampara,GeethaCinemax2K3DKozhinjampara,Malayalam,11:00,Standard,110₹,231,0
+Kerala,Thodupuzha,SilverHillsCinemas4KLaser3DDolby71,Malayalam,11:45,Silver,130₹,80,0
+Kerala,Kozhinjampara,GeethaCinemax2K3DKozhinjampara,Malayalam,14:15,Standard,110₹,231,0
+Kerala,Thodupuzha,SilverHillsCinemas4KLaser3DDolby71,Malayalam,14:45,Silver,130₹,80,0
+Kerala,Thalayolaparambu,CarnivalThalayolaparambu,Malayalam,16:00,Gold,110₹,144,0
+Kerala,Kozhinjampara,GeethaCinemax2K3DKozhinjampara,Malayalam,18:00,Standard,110₹,231,0
+Kerala,Pala,JoSAC2K3D71DolbySoundPala,Malayalam,18:00,RoyalCircle,140₹,286,0
+Kerala,Trivandrum,SuryaMultiplex4KDolbyAtmosNedumangad,Malayalam,18:00,Platinum,250₹,14,0
+Kerala,Trivandrum,SuryaMultiplex4KDolbyAtmosNedumangad,Malayalam,18:00,Gold,130₹,131,10
+Kerala,Ettumanoor,DhanyaRemyaKottayam,Malayalam,21:00,Remya,135₹,251,0
+Kerala,Kollam,DhanyaRemyaKollam,Malayalam,21:00,Platinum,135₹,200,24
+Kerala,Pathanamthitta,DhanyaRemyaPathanamthitta,Malayalam,21:00,RemyaCircle,135₹,197,55
+Kerala,Kozhinjampara,GeethaCinemax2K3DKozhinjampara,Malayalam,21:15,Standard,110₹,231,0
