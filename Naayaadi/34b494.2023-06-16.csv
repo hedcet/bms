@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Chennai,EvpCinemasChennai,Tamil,10:15,Elite,160₹,198,0
+Kerala,Puthoor,ChellamTheatrePuthoor,Tamil,11:00,Balcony,150₹,413,69
+Kerala,Puthoor,ChellamTheatrePuthoor,Tamil,11:00,Reserved,125₹,630,343
+Kerala,Trivandrum,GTracksScreen1Sony4KKadinamkulam,Tamil,11:15,Gold,130₹,400,0
+Kerala,Kollam,AshokCineHouseParavur,Tamil,11:30,Audi1,150₹,224,0
+Kerala,Kollam,AshokCineHouseParavur,Tamil,14:30,Audi1,150₹,224,0
+Kerala,Puthoor,ChellamTheatrePuthoor,Tamil,14:30,Balcony,150₹,413,69
+Kerala,Puthoor,ChellamTheatrePuthoor,Tamil,14:30,Reserved,125₹,630,343
+Kerala,Trivandrum,GTracksScreen1Sony4KKadinamkulam,Tamil,18:15,Gold,130₹,400,0
+Kerala,Kollam,AshokCineHouseParavur,Tamil,18:30,Audi1,150₹,224,0
+Kerala,Kollam,AshokCineHouseParavur,Tamil,21:30,Audi1,150₹,224,0
