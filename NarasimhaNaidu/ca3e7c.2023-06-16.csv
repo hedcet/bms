@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Kallur,MnrCinemaxPrabhakarPicturePalaceKallur,Telugu,11:15,FirstClass,100₹,372,0
+AndhraPradesh,Nandikotkur,SriRamaCinemasNandikotkur,Telugu,11:15,Platinum,70₹,216,48
+AndhraPradesh,Nandikotkur,SriRamaCinemasNandikotkur,Telugu,11:15,Gold,70₹,95,0
+AndhraPradesh,Dharmavaram,RangaCineCentralDharmavaram,Telugu,11:20,GoldClass,0₹,310,0
+AndhraPradesh,Dharmavaram,RangaCineCentralDharmavaram,Telugu,14:20,GoldClass,0₹,310,0
+AndhraPradesh,Kallur,MnrCinemaxPrabhakarPicturePalaceKallurAp,Telugu,14:30,FirstClass,100₹,372,0
+AndhraPradesh,Nandikotkur,SriRamaCinemasNandikotkur,Telugu,14:30,Platinum,70₹,216,48
+AndhraPradesh,Nandikotkur,SriRamaCinemasNandikotkur,Telugu,14:30,Gold,70₹,95,0
+AndhraPradesh,Kallur,MnrCinemaxPrabhakarPicturePalaceKallur,Telugu,18:15,FirstClass,100₹,372,0
+AndhraPradesh,Nandikotkur,SriRamaCinemasNandikotkur,Telugu,18:15,Platinum,70₹,216,50
+AndhraPradesh,Nandikotkur,SriRamaCinemasNandikotkur,Telugu,18:15,Gold,70₹,95,0
+AndhraPradesh,Dharmavaram,RangaCineCentralDharmavaram,Telugu,18:20,GoldClass,0₹,310,0
+AndhraPradesh,Dharmavaram,RangaCineCentralDharmavaram,Telugu,21:20,GoldClass,0₹,310,0
+AndhraPradesh,Kallur,MnrCinemaxPrabhakarPicturePalaceKallurAp,Telugu,21:30,FirstClass,100₹,372,0
+AndhraPradesh,Nandikotkur,SriRamaCinemasNandikotkur,Telugu,21:30,Platinum,70₹,216,48
+AndhraPradesh,Nandikotkur,SriRamaCinemasNandikotkur,Telugu,21:30,Gold,70₹,95,0
