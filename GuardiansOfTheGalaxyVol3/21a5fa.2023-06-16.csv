@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Chennai,InoxLuxePhoenixMarketCityVelachery,English,12:00,Elite,241₹,180,34
+TamilNadu,Chennai,InoxLuxePhoenixMarketCityVelachery,English,12:00,Budget,96₹,20,11
+Delhi,NationalCapitalRegionNcr,PvrAmbienceGoldGurgaon,English,12:05,Platinum,850₹,28,4
+Delhi,NationalCapitalRegionNcr,PvrAmbienceGoldGurgaon,English,12:05,PlatinumSuperior,"1,050₹",16,0
