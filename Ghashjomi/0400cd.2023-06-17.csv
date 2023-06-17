@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Baghmari,NazrultirthaCinemaScreen3Kolkata,Bengali,15:20,Gold,150₹,30,11
+WestBengal,Baghmari,NazrultirthaCinemaScreen3Kolkata,Bengali,15:20,Recliner,170₹,8,8
+WestBengal,Baghmari,NazrultirthaCinemaScreen3Kolkata,Bengali,15:20,Sofa,150₹,12,0
