@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Vedasandur,ThangarajTheatreACVedasandur,Tamil,14:30,FirstClass,100₹,186,0
+TamilNadu,Vedasandur,ThangarajTheatreACVedasandur,Tamil,18:30,FirstClass,100₹,186,14
+TamilNadu,Vedasandur,ThangarajTheatreACVedasandur,Tamil,22:00,FirstClass,100₹,186,0
