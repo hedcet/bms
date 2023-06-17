@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Telangana,Banswada,VenkateswaraTheatreBanswada,Telugu,11:00,Balcony,100₹,234,0
+AndhraPradesh,Dharmavaram,RangaCineCentralDharmavaram,Telugu,11:00,GoldClass,0₹,310,0
+AndhraPradesh,Dhone,RajaTalkiesDhone,Telugu,11:45,FirstClass,30₹,297,18
+Telangana,Banswada,VenkateswaraTheatreBanswada,Telugu,14:00,Balcony,100₹,234,0
+AndhraPradesh,Dharmavaram,RangaCineCentralDharmavaram,Telugu,14:30,GoldClass,0₹,310,0
+AndhraPradesh,Dhone,RajaTalkiesDhone,Telugu,14:45,FirstClass,30₹,297,18
+Telangana,Banswada,VenkateswaraTheatreBanswada,Telugu,18:00,Balcony,100₹,234,0
+AndhraPradesh,Dharmavaram,RangaCineCentralDharmavaram,Telugu,18:10,GoldClass,0₹,310,0
+AndhraPradesh,Dhone,RajaTalkiesDhone,Telugu,18:45,FirstClass,30₹,297,18
+Telangana,Banswada,VenkateswaraTheatreBanswada,Telugu,21:00,Balcony,100₹,234,0
+AndhraPradesh,Dharmavaram,RangaCineCentralDharmavaram,Telugu,21:30,GoldClass,0₹,310,0
+AndhraPradesh,Dhone,RajaTalkiesDhone,Telugu,21:45,FirstClass,30₹,297,18
