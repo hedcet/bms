@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Jigani,SriGurusiddeshwara2KChitraMandiraThippasandra,Kannada,10:45,GoldClass,100₹,149,0
+Karnataka,Jigani,SriGurusiddeshwara2KChitraMandiraThippasandra,Kannada,10:45,SilverClass,80₹,200,0
+Karnataka,Jigani,SriGurusiddeshwara2KChitraMandiraThippasandra,Kannada,13:45,GoldClass,100₹,149,0
+Karnataka,Jigani,SriGurusiddeshwara2KChitraMandiraThippasandra,Kannada,13:45,SilverClass,80₹,200,0
+Karnataka,Jigani,SriGurusiddeshwara2KChitraMandiraThippasandra,Kannada,16:45,GoldClass,100₹,149,2
+Karnataka,Jigani,SriGurusiddeshwara2KChitraMandiraThippasandra,Kannada,16:45,SilverClass,80₹,200,0
+Karnataka,Jigani,SriGurusiddeshwara2KChitraMandiraThippasandra,Kannada,19:45,GoldClass,100₹,149,0
+Karnataka,Jigani,SriGurusiddeshwara2KChitraMandiraThippasandra,Kannada,19:45,SilverClass,80₹,200,0
