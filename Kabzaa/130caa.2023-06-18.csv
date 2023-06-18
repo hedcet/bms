@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Telangana,Hyderabad,YakutMahalTheaterYakutpura,Hindi,12:30,Balcony,90₹,196,0
+Telangana,Hyderabad,YakutMahalTheaterYakutpura,Hindi,12:30,DressCircle,60₹,192,0
+Telangana,Hyderabad,YakutMahalTheaterYakutpura,Hindi,15:30,Balcony,90₹,196,2
+Telangana,Hyderabad,YakutMahalTheaterYakutpura,Hindi,15:30,DressCircle,60₹,192,0
+Telangana,Hyderabad,YakutMahalTheaterYakutpura,Hindi,18:30,Balcony,90₹,196,0
+Telangana,Hyderabad,YakutMahalTheaterYakutpura,Hindi,18:30,DressCircle,60₹,192,0
+Telangana,Hyderabad,YakutMahalTheaterYakutpura,Hindi,21:30,Balcony,90₹,196,0
+Telangana,Hyderabad,YakutMahalTheaterYakutpura,Hindi,21:30,DressCircle,60₹,192,0
