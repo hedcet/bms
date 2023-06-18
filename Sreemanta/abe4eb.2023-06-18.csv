@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,KalaburagiGulbarga,MirajCinemasGulbarga,Kannada,15:45,Special,160₹,80,32
+Karnataka,KalaburagiGulbarga,MirajCinemasGulbarga,Kannada,15:45,Executive,180₹,192,78
+Karnataka,KalaburagiGulbarga,MirajCinemasGulbarga,Kannada,15:45,Gold,350₹,10,0
