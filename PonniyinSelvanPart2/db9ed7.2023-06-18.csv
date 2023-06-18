@@ -1,0 +1,16 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Kovilpatti,SathyabamaSbtMultiplexDolbyAtmos4K3D,Tamil,10:30,FirstClass,150₹,120,10
+TamilNadu,Trichy,LaCinemaMarisComplexRgbLaserTrichy,Tamil,11:00,Elite,140₹,58,44
+TamilNadu,Chennai,SpiEscapeExpressAvenueMallRoyapettah,Tamil,11:45,Budget,60₹,11,11
+TamilNadu,Chennai,SpiEscapeExpressAvenueMallRoyapettah,Tamil,11:45,Elite,165₹,99,70
+TamilNadu,Chennai,PvrVrChennaiAnnaNagar,Tamil,12:10,Classic,60₹,16,14
+TamilNadu,Chennai,PvrVrChennaiAnnaNagar,Tamil,12:10,Prime,190₹,110,83
+TamilNadu,Dindigul,AarthiGrandCineplexDolbyAtmosDindigul,Tamil,14:50,Diamond,120₹,149,35
+TamilNadu,Dindigul,AarthiGrandCineplexDolbyAtmosDindigul,Tamil,14:50,Gold,120₹,45,0
+TamilNadu,Chennai,CinepolisBsrMallOmrThoraipakkam,Tamil,15:40,Normal,60₹,17,14
+TamilNadu,Chennai,CinepolisBsrMallOmrThoraipakkam,Tamil,15:40,Executive,190₹,152,65
+TamilNadu,Trichy,LaCinemaMarisComplexRgbLaserTrichy,Tamil,18:20,Elite,140₹,58,57
+TamilNadu,Chennai,SpiPalazzoNexusVijayaMallVadapalaniChennai,Tamil,18:30,Budget,60₹,27,4
+TamilNadu,Chennai,SpiPalazzoNexusVijayaMallVadapalaniChennai,Tamil,18:30,Elite,190₹,210,184
+TamilNadu,Chennai,InoxLuxePhoenixMarketCityVelachery,Tamil,22:05,Elite,190₹,134,41
+TamilNadu,Chennai,InoxLuxePhoenixMarketCityVelachery,Tamil,22:05,Budget,60₹,24,21
