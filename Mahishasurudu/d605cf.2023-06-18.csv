@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Gudur,VCinemasScreen2Gudur,Telugu,10:10,PremiumClass,112₹,407,58
+AndhraPradesh,Gudur,VCinemasScreen2Gudur,Telugu,10:10,EconomyClass,90₹,135,0
+AndhraPradesh,Gudur,VCinemasScreen2Gudur,Telugu,13:10,PremiumClass,112₹,407,60
+AndhraPradesh,Gudur,VCinemasScreen2Gudur,Telugu,13:10,EconomyClass,90₹,135,135
+AndhraPradesh,Gudur,VCinemasScreen2Gudur,Telugu,18:40,PremiumClass,112₹,407,58
+AndhraPradesh,Gudur,VCinemasScreen2Gudur,Telugu,18:40,EconomyClass,90₹,135,135
+AndhraPradesh,Gudur,VCinemasScreen2Gudur,Telugu,21:40,PremiumClass,112₹,407,49
+AndhraPradesh,Gudur,VCinemasScreen2Gudur,Telugu,21:40,EconomyClass,90₹,135,135
