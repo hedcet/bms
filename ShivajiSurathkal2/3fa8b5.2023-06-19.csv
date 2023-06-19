@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Kundapura,BharathCinemasKundapura,Kannada,11:00,Gold,200₹,40,4
+Karnataka,Kundapura,BharathCinemasKundapura,Kannada,11:00,Silver,180₹,41,0
+Karnataka,Kundapura,BharathCinemasKundapura,Kannada,11:00,Special,150₹,48,0
