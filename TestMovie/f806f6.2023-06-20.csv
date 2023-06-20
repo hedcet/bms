@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Chhattisgarh,Balod,BmsLounge,English,12:00,Balcony,200₹,420,0
+Chhattisgarh,Balod,BmsLounge,English,12:00,Stall,1₹,448,2
+Chhattisgarh,Balod,BmsLounge,English,15:00,Balcony,200₹,420,0
+Chhattisgarh,Balod,BmsLounge,English,15:00,Stall,1₹,448,5
+Chhattisgarh,Balod,BmsLounge,English,18:00,Balcony,200₹,420,0
+Chhattisgarh,Balod,BmsLounge,English,18:00,Stall,1₹,448,0
+Chhattisgarh,Balod,BmsLounge,English,21:00,Balcony,200₹,420,0
+Chhattisgarh,Balod,BmsLounge,English,21:00,Stall,1₹,448,9
