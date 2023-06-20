@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Thiruvalla,NewJacobsCinemasThiruvalla,Malayalam,11:15,Platinum,110₹,98,0
+Kerala,Thiruvalla,NewJacobsCinemasThiruvalla,Malayalam,11:15,Gold,100₹,188,2
+Kerala,Thiruvalla,NewJacobsCinemasThiruvalla,Malayalam,14:15,Platinum,110₹,98,0
+Kerala,Thiruvalla,NewJacobsCinemasThiruvalla,Malayalam,14:15,Gold,100₹,188,2
+Kerala,Thiruvalla,NewJacobsCinemasThiruvalla,Malayalam,18:15,Platinum,110₹,98,4
+Kerala,Thiruvalla,NewJacobsCinemasThiruvalla,Malayalam,18:15,Gold,100₹,188,2
+Kerala,Thiruvalla,NewJacobsCinemasThiruvalla,Malayalam,21:15,Platinum,110₹,98,0
+Kerala,Thiruvalla,NewJacobsCinemasThiruvalla,Malayalam,21:15,Gold,100₹,188,2
