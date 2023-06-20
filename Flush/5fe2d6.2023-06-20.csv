@@ -1,0 +1,14 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Palluruthy,PadmaCinemaKochi,Malayalam,10:15,Platinum,150₹,178,16
+Kerala,Vadakara,One2OnePlusFilmCity2K3DDolbyAtmosACVada,Malayalam,10:30,Screen2,129₹,164,0
+Kerala,Thodupuzha,SilverHillsCinemasThodupuzha,Malayalam,11:30,Silver,130₹,80,0
+Kerala,Vadakara,One2OnePlusFilmCity2K3DDolbyAtmosACVada,Malayalam,13:30,Screen2,129₹,164,0
+Kerala,Kasaragod,CineKrishna4KKasaragod,Malayalam,13:30,FirstClass,129₹,144,0
+Kerala,Kasaragod,CineKrishna4KKasaragod,Malayalam,13:30,Sofa,200₹,8,0
+Kerala,Thodupuzha,SilverHillsCinemas4KLaser3DDolby71,Malayalam,14:30,Silver,130₹,80,0
+Kerala,Palluruthy,SavitaCinemaKochi,Malayalam,15:00,Deluxe,150₹,555,40
+Kerala,Vadakara,One2OnePlusFilmCity2K3DDolbyAtmosACVada,Malayalam,16:30,Screen2,129₹,164,0
+Kerala,Vadakara,One2OnePlusFilmCity2K3DDolbyAtmosACVada,Malayalam,19:30,Screen2,129₹,164,0
+Kerala,Kasaragod,CineKrishna4KKasaragod,Malayalam,19:30,FirstClass,129₹,144,0
+Kerala,Kasaragod,CineKrishna4KKasaragod,Malayalam,19:30,Sofa,200₹,8,0
+Kerala,Palluruthy,SavitaCinemaKochi,Malayalam,21:00,Deluxe,150₹,555,34
