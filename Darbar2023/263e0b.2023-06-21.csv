@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,MysuruMysore,PadmaTalkiesMysore,Kannada,10:30,Balcony,120₹,151,0
+Karnataka,MysuruMysore,PadmaTalkiesMysore,Kannada,10:30,SecondClass,100₹,506,0
+Karnataka,MysuruMysore,PadmaTalkiesMysore,Kannada,13:30,Balcony,120₹,151,0
+Karnataka,MysuruMysore,PadmaTalkiesMysore,Kannada,13:30,SecondClass,100₹,506,0
+Karnataka,Hoskote,VeereshCinemasMagadiRoad,Kannada,16:15,Balcony,110₹,270,12
+Karnataka,MysuruMysore,PadmaTalkiesMysore,Kannada,16:30,Balcony,120₹,151,2
+Karnataka,MysuruMysore,PadmaTalkiesMysore,Kannada,16:30,SecondClass,100₹,506,0
+Karnataka,Hoskote,VeereshCinemasMagadiRoad,Kannada,19:15,Balcony,110₹,270,1
+Karnataka,MysuruMysore,PadmaTalkiesMysore,Kannada,19:30,Balcony,120₹,151,0
+Karnataka,MysuruMysore,PadmaTalkiesMysore,Kannada,19:30,SecondClass,100₹,506,0
