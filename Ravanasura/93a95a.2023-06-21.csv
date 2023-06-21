@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Telangana,Madhira,LakshmiSrinivasaTheatreMadhira,Telugu,11:15,Balcony,100₹,284,0
+Telangana,Madhira,LakshmiSrinivasaTheatreMadhira,Telugu,14:15,Balcony,100₹,284,0
+Telangana,Madhira,LakshmiSrinivasaTheatreMadhira,Telugu,18:15,Balcony,100₹,284,0
+Telangana,Madhira,LakshmiSrinivasaTheatreMadhira,Telugu,21:15,Balcony,100₹,284,1
