@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Kadapa,ThaharTheaterKadapa,Telugu,11:30,FirstClass,70₹,191,0
+AndhraPradesh,Kadapa,ThaharTheaterKadapa,Telugu,11:30,SecondClass,50₹,227,0
+AndhraPradesh,Kadapa,ThaharTheaterKadapa,Telugu,14:30,FirstClass,70₹,191,0
+AndhraPradesh,Kadapa,ThaharTheaterKadapa,Telugu,14:30,SecondClass,50₹,227,0
+Telangana,Aushapur,NartakiTheatreAlwal,Telugu,14:30,Balcony,100₹,723,83
+AndhraPradesh,Kadapa,ThaharTheaterKadapa,Telugu,18:30,FirstClass,70₹,191,0
+AndhraPradesh,Kadapa,ThaharTheaterKadapa,Telugu,18:30,SecondClass,50₹,227,0
+Telangana,Aushapur,NartakiTheatreAlwal,Telugu,18:30,Balcony,100₹,723,83
+AndhraPradesh,Kadapa,ThaharTheaterKadapa,Telugu,21:30,FirstClass,70₹,191,0
+AndhraPradesh,Kadapa,ThaharTheaterKadapa,Telugu,21:30,SecondClass,50₹,227,0
+Telangana,Aushapur,NartakiTheatreAlwal,Telugu,21:30,Balcony,100₹,723,83
