@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Chengalpattu,LathaaCinemasACAtmos2K3DChengalpattu,Tamil,22:00,FirstClass,120₹,381,81
+TamilNadu,Chennai,ManiTalkies2KRgbLaserAtmosMinjur,Tamil,22:15,Prime,130₹,196,0
+TamilNadu,Chennai,ManiTalkies2KRgbLaserAtmosMinjur,Tamil,22:15,Classic,130₹,24,0
+TamilNadu,Chennai,SlbMoviePark4KDolbyAtmosPadi,Tamil,22:15,FirstClass,110₹,189,0
