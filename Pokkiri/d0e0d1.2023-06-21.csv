@@ -1,0 +1,16 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Trichy,MariyamCinemasAC4KTrichy,Tamil,18:30,Platinum,125₹,100,64
+TamilNadu,Trichy,MariyamCinemasAC4KTrichy,Tamil,18:30,Diamond,125₹,180,172
+TamilNadu,Trichy,MariyamCinemasAC4KTrichy,Tamil,18:30,Premium,125₹,34,0
+TamilNadu,Tirupur,SriSakthiCinemasUnionMillRoadTirupur,Tamil,22:45,Diamond,190₹,30,6
+TamilNadu,Tirupur,SriSakthiCinemasUnionMillRoadTirupur,Tamil,22:45,Platinum,165₹,34,3
+TamilNadu,Tirupur,SriSakthiCinemasUnionMillRoadTirupur,Tamil,22:45,Gold,130₹,131,44
+TamilNadu,Tirupur,SriSakthiCinemasUnionMillRoadTirupur,Tamil,22:45,Silver,80₹,7,6
+TamilNadu,Chennai,KcKrishnaveniCinemasRg3LaserDolbyatmosTnagar,Tamil,22:50,BoxA,190₹,14,14
+TamilNadu,Chennai,KcKrishnaveniCinemasRg3LaserDolbyatmosTnagar,Tamil,22:50,BoxB,190₹,7,7
+TamilNadu,Chennai,KcKrishnaveniCinemasRg3LaserDolbyatmosTnagar,Tamil,22:50,Elite,130₹,422,65
+TamilNadu,Chennai,KcKrishnaveniCinemasRg3LaserDolbyatmosTnagar,Tamil,22:50,Premium,50₹,44,44
+TamilNadu,Chennai,KasiTalkiesDolbyAtmosAshokNagar,Tamil,22:50,SuperPremium,100₹,27,21
+TamilNadu,Chennai,KasiTalkiesDolbyAtmosAshokNagar,Tamil,22:50,Premium,100₹,104,42
+TamilNadu,Chennai,KasiTalkiesDolbyAtmosAshokNagar,Tamil,22:50,Elite,100₹,60,2
+TamilNadu,Chennai,KasiTalkiesDolbyAtmosAshokNagar,Tamil,22:50,Economy,50₹,15,15
