@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Kolkata,InoxStarMallMadhyamgram,Bengali,15:20,Royal,190₹,73,13
+WestBengal,Kolkata,InoxStarMallMadhyamgram,Bengali,15:20,Club,150₹,95,8
+WestBengal,Kolkata,InoxStarMallMadhyamgram,Bengali,15:20,Executive,150₹,30,0
+WestBengal,Kolkata,NandanKolkata,Bengali,15:45,FrontStall,30₹,111,28
+WestBengal,Kolkata,NandanKolkata,Bengali,15:45,RearStall,50₹,451,119
+WestBengal,Kolkata,NandanKolkata,Bengali,15:45,Balcony,70₹,369,140
+WestBengal,Kolkata,InoxSouthCityKolkata,Bengali,15:55,Silver,220₹,166,37
+WestBengal,Kolkata,InoxSouthCityKolkata,Bengali,15:55,Premier,200₹,34,1
