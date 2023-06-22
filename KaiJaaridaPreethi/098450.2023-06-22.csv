@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,NavrangTheatreRajajiNagar,Kannada,10:15,Balcony,150₹,258,17
+Karnataka,Bengaluru,NavrangTheatreRajajiNagar,Kannada,10:15,Second,110₹,480,0
+Karnataka,Jigani,AnupamaTheatre4KDolbyGandhinagar,Kannada,10:30,Balcony,150₹,247,4
+Karnataka,Jigani,AnupamaTheatre4KDolbyGandhinagar,Kannada,10:30,MiddleClass,120₹,480,7
+Karnataka,HubballiHubli,ShringarTheatreHubballi,Kannada,12:00,Balcony,150₹,190,0
+Karnataka,HubballiHubli,ShringarTheatreHubballi,Kannada,12:00,DeluxeClass,100₹,504,0
+Karnataka,Bengaluru,AnupamaTheatreAC4KDolbyGandhinagar,Kannada,13:30,Balcony,150₹,247,0
+Karnataka,Bengaluru,AnupamaTheatreAC4KDolbyGandhinagar,Kannada,13:30,MiddleClass,120₹,480,0
+Karnataka,Bengaluru,GopalanMiniplexSignatureMallOldMadrasRoad,Kannada,14:15,Gold,230₹,65,0
+Karnataka,MysuruMysore,MysuruVisionCinemasBehindGrsFantasyPark,Kannada,16:10,Premier,150₹,187,0
+Karnataka,Jigani,AnupamaTheatre4KDolbyGandhinagar,Kannada,16:30,Balcony,150₹,247,0
+Karnataka,Jigani,AnupamaTheatre4KDolbyGandhinagar,Kannada,16:30,MiddleClass,120₹,480,0
+Karnataka,Bengaluru,MohanCinemaBarco4KAC71Sunkadakatte,Kannada,16:30,Balcony,100₹,123,0
+Karnataka,Bengaluru,MohanCinemaBarco4KAC71Sunkadakatte,Kannada,16:30,Secondclass,80₹,528,1
+Karnataka,Jigani,AnupamaTheatre4KDolbyGandhinagar,Kannada,19:30,Balcony,150₹,247,0
+Karnataka,Jigani,AnupamaTheatre4KDolbyGandhinagar,Kannada,19:30,MiddleClass,120₹,480,0
