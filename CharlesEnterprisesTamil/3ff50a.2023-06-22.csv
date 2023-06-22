@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Krishnagiri,SriMuruganTheatreKrishnagiri,Tamil,10:00,FirstClass,0₹,464,210
+TamilNadu,Chennai,TheVijayParkMultiplexInjambakkamEcr4KAtmos,Tamil,11:40,Prime,165₹,205,21
+TamilNadu,Chennai,MayajaalMultiplexEcrChennai,Tamil,13:45,FirstClass,190₹,134,3
+TamilNadu,Krishnagiri,SriMuruganTheatreKrishnagiri,Tamil,14:00,FirstClass,0₹,464,210
+TamilNadu,Chennai,SreeLakshmibalaMoviepark4K3DDolby712Padi,Tamil,15:30,FirstClass,110₹,141,0
+TamilNadu,Krishnagiri,SriMuruganTheatreKrishnagiri,Tamil,18:00,FirstClass,0₹,464,212
+TamilNadu,Krishnagiri,SriMuruganTheatreKrishnagiri,Tamil,22:00,FirstClass,0₹,464,210
+TamilNadu,Chennai,SreeLakshmibalaMoviepark4K3DDolby712Padi,Tamil,22:15,FirstClass,110₹,141,0
