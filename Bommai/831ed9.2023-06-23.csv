@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Tirupur,SriSakthiCinemasUnionMillRoadTirupur,Tamil,10:55,Diamond,190₹,16,0
+TamilNadu,Tirupur,SriSakthiCinemasUnionMillRoadTirupur,Tamil,10:55,Platinum,165₹,26,3
+TamilNadu,Tirupur,SriSakthiCinemasUnionMillRoadTirupur,Tamil,10:55,Gold,130₹,86,11
+TamilNadu,Tirupur,SriSakthiCinemasUnionMillRoadTirupur,Tamil,10:55,Silver,80₹,17,1
+Maharashtra,Mumbai,MovieMaxSion,Tamil,12:30,Classic,150₹,45,0
+Maharashtra,Mumbai,MovieMaxSion,Tamil,12:30,Prime,150₹,93,2
+Maharashtra,Mumbai,MovieMaxSion,Tamil,12:30,PrimePlus,250₹,6,0
+TamilNadu,Chennai,RohiniSilverScreensKoyambedu,Tamil,13:00,GoldStar,160₹,171,57
+TamilNadu,Chennai,CinepolisBsrMallOmrThoraipakkam,Tamil,16:05,Normal,60₹,17,10
+TamilNadu,Chennai,CinepolisBsrMallOmrThoraipakkam,Tamil,16:05,Executive,190₹,159,4
+TamilNadu,Chennai,PvrVrChennaiAnnaNagar,Tamil,22:05,Classic,60₹,16,16
+TamilNadu,Chennai,PvrVrChennaiAnnaNagar,Tamil,22:05,Prime,179₹,110,10
