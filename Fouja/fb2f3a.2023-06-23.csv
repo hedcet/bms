@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Haryana,Jhajjar,ChhotuMaharajCinemaNajafgharHaryana,Haryanavi,12:00,Gold,150₹,28,0
+Haryana,Jhajjar,ChhotuMaharajCinemaNajafgharHaryana,Haryanavi,12:00,Classique,112₹,32,0
+Haryana,Jhajjar,ChhotuMaharajCinemaNajafgharHaryana,Haryanavi,12:00,Premium,100₹,36,0
+Haryana,Jhajjar,ChhotuMaharajCinemaNajafgharHaryana,Haryanavi,15:00,Gold,150₹,28,0
+Haryana,Jhajjar,ChhotuMaharajCinemaNajafgharHaryana,Haryanavi,15:00,Classique,112₹,32,0
+Haryana,Jhajjar,ChhotuMaharajCinemaNajafgharHaryana,Haryanavi,15:00,Premium,100₹,36,0
+Haryana,NationalCapitalRegionNcr,PvrElanTownCentreGurgaon,Haryanavi,17:50,Classic,150₹,36,0
+Haryana,NationalCapitalRegionNcr,PvrElanTownCentreGurgaon,Haryanavi,17:50,Prime,150₹,66,38
+Haryana,NationalCapitalRegionNcr,PvrElanTownCentreGurgaon,Haryanavi,17:50,Recliner,299₹,15,2
+Haryana,Jhajjar,ChhotuMaharajCinemaNajafgharHaryana,Haryanavi,18:00,Gold,150₹,28,0
+Haryana,Jhajjar,ChhotuMaharajCinemaNajafgharHaryana,Haryanavi,18:00,Classique,112₹,32,0
+Haryana,Jhajjar,ChhotuMaharajCinemaNajafgharHaryana,Haryanavi,18:00,Premium,100₹,36,0
