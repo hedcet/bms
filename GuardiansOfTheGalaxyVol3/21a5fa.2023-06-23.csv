@@ -1,0 +1,16 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Tanuku,VnPalaceVeeranarayanaTanuku,Telugu,11:00,FirstClass,170₹,318,128
+Haryana,NationalCapitalRegionNcr,PvrAmbienceGoldGurgaon,English,13:05,Platinum,850₹,28,6
+Haryana,NationalCapitalRegionNcr,PvrAmbienceGoldGurgaon,English,13:05,PlatinumSuperior,"1,050₹",16,3
+AndhraPradesh,Tanuku,VnPalaceVeeranarayanaTanuku,Telugu,14:00,FirstClass,170₹,318,129
+AndhraPradesh,Tanuku,VnPalaceVeeranarayanaTanuku,Telugu,18:00,FirstClass,170₹,318,130
+UttarPradesh,Lucknow,CinepolisOneAwadhCentreLucknow,Hindi,18:15,Normal,160₹,29,0
+UttarPradesh,Lucknow,CinepolisOneAwadhCentreLucknow,Hindi,18:15,Executive,160₹,78,0
+UttarPradesh,Lucknow,CinepolisOneAwadhCentreLucknow,Hindi,18:15,Premium,160₹,54,19
+UttarPradesh,Lucknow,CinepolisOneAwadhCentreLucknow,Hindi,18:15,Vip,450₹,19,6
+Haryana,NationalCapitalRegionNcr,CinepolisPacificNsp2Delhi,English,18:35,Normal,400₹,77,1
+Haryana,NationalCapitalRegionNcr,CinepolisPacificNsp2Delhi,English,18:35,Executive,420₹,96,10
+Haryana,NationalCapitalRegionNcr,CinepolisPacificNsp2Delhi,English,18:35,Vip,660₹,11,2
+AndhraPradesh,Tanuku,VnPalaceVeeranarayanaTanuku,Telugu,21:00,FirstClass,170₹,318,132
+Haryana,NationalCapitalRegionNcr,CinepolisModiMallFormerlySpiceMall,English,21:10,Premium,250₹,123,17
+Haryana,NationalCapitalRegionNcr,CinepolisModiMallFormerlySpiceMall,English,21:10,Classic,250₹,75,0
