@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Malikipuram,VenkataNarayanaPicturePalaceMalikipuram,Telugu,11:20,1FirstClass,100₹,287,25
+AndhraPradesh,Malikipuram,VenkataNarayanaPicturePalaceMalikipuram,Telugu,11:20,2SecondClass,80₹,87,77
+AndhraPradesh,Malikipuram,VenkataNarayanaPicturePalaceMalikipuram,Telugu,14:20,1FirstClass,100₹,287,25
+AndhraPradesh,Malikipuram,VenkataNarayanaPicturePalaceMalikipuram,Telugu,14:20,2SecondClass,80₹,87,77
+AndhraPradesh,Malikipuram,VenkataNarayanaPicturePalaceMalikipuram,Telugu,18:20,1FirstClass,100₹,287,25
+AndhraPradesh,Malikipuram,VenkataNarayanaPicturePalaceMalikipuram,Telugu,18:20,2SecondClass,80₹,87,77
+AndhraPradesh,Malikipuram,VenkataNarayanaPicturePalaceMalikipuram,Telugu,21:20,1FirstClass,100₹,287,25
+AndhraPradesh,Malikipuram,VenkataNarayanaPicturePalaceMalikipuram,Telugu,21:20,2SecondClass,80₹,87,77
