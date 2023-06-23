@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Ahmedabad,RupamMultiplexAhmedabad,Gujarati,15:45,Platinum,180₹,10,0
+Gujarat,Ahmedabad,RupamMultiplexAhmedabad,Gujarati,15:45,Gold,100₹,94,11
+Gujarat,Ahmedabad,RupamMultiplexAhmedabad,Gujarati,22:00,Platinum,180₹,10,0
+Gujarat,Ahmedabad,RupamMultiplexAhmedabad,Gujarati,22:00,Gold,100₹,94,16
