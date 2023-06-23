@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Haryana,NationalCapitalRegionNcr,PvrLogixNoida,English,09:30,Classic,280₹,49,0
+Maharashtra,Mumbai,InoxMegaplexInorbitMallMalad,English,12:00,Kiddles,270₹,57,4
+Maharashtra,Mumbai,InoxInsigniaAtRMallThane,English,12:50,Insignia,500₹,54,0
+Maharashtra,Mumbai,MetroInoxCinemasMarineLines,English,13:10,Kiddles,280₹,45,12
+Telangana,Hyderabad,PvrNextGalleriaMallPanjagutta,English,14:30,Classic,150₹,54,19
+Gujarat,Ahmedabad,TimeCinemaCgRoadAhmedabad,English,15:00,InfinitySofa,270₹,72,0
+TamilNadu,Chennai,PvrHeritageRslEcrChennai,English,16:10,3DClassic,101₹,8,8
+TamilNadu,Chennai,PvrHeritageRslEcrChennai,English,16:10,3DPrime,220₹,67,2
+Gujarat,Surat,TimeCinemaGalaxyCirclePalSurat,English,16:15,Infinity,280₹,22,0
