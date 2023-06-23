@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Telangana,Kazipet,PvrMaddoxWarangal,Telugu,10:25,Classic,150₹,121,6
+Telangana,Hyderabad,BvkMultiplexVijayalakshmiLbNagar,Telugu,10:45,Balcony,200₹,357,127
+Telangana,Hyderabad,AsianSwapna35MmKatedan,Telugu,11:15,Platinum,150₹,175,0
+Telangana,Hyderabad,AsianLakshmikalaCineprideMoosapet,Telugu,11:30,CoupleSeats,150₹,40,40
+Telangana,Hyderabad,AsianLakshmikalaCineprideMoosapet,Telugu,11:30,Platinum,150₹,338,54
+Telangana,Hyderabad,AsianLakshmikalaCineprideMoosapet,Telugu,11:30,Gold,100₹,177,5
+Telangana,Hyderabad,AsianLakshmikalaCineprideMoosapet,Telugu,11:30,Silver,50₹,135,4
+Telangana,Hyderabad,AsianCineSquareMultiplexUppal,Telugu,13:20,Sofa,200₹,22,1
+Telangana,Hyderabad,AsianCineSquareMultiplexUppal,Telugu,13:20,Gold,150₹,453,30
+Telangana,Hyderabad,MirajCinemasShaliniShivaniHyderabad,Telugu,17:15,Executive,150₹,94,42
+Telangana,Hyderabad,AsianSwapna35MmKatedan,Telugu,18:00,Platinum,150₹,175,0
