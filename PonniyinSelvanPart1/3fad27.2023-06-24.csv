@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Cherpulassery,CheloorGrandCinemasCherpulassery,Malayalam,11:00,Diamond,140₹,26,0
+Kerala,Cherpulassery,CheloorGrandCinemasCherpulassery,Malayalam,11:00,Gold,125₹,220,0
+Kerala,Cherpulassery,CheloorGrandCinemasCherpulassery,Malayalam,14:30,Diamond,140₹,26,0
+Kerala,Cherpulassery,CheloorGrandCinemasCherpulassery,Malayalam,14:30,Gold,125₹,220,4
