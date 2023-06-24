@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Ahmedabad,TimeCinemaCgRoadAhmedabad,Gujarati,16:00,Standard,250₹,108,5
+Gujarat,Surat,TimeCinemaGalaxyCirclePalSurat,Gujarati,16:15,InfinitySofa,260₹,34,0
+Gujarat,Veraval,FunCinemasPhoenixCinemaVeraval,Gujarati,21:45,Executive,150₹,15,3
+Gujarat,Veraval,FunCinemasPhoenixCinemaVeraval,Gujarati,21:45,Gold,150₹,88,18
+Gujarat,Veraval,FunCinemasPhoenixCinemaVeraval,Gujarati,21:45,Silver,120₹,22,0
