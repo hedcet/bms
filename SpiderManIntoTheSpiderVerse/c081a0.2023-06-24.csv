@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+MadhyaPradesh,Jabalpur,SamdareeyaEraCinemaJabalpur,Hindi,14:45,Platinum,120₹,82,2
+MadhyaPradesh,Jabalpur,SamdareeyaEraCinemaJabalpur,Hindi,14:45,Gold,120₹,180,0
+MadhyaPradesh,Jabalpur,SamdareeyaEraCinemaJabalpur,Hindi,14:45,Silver,120₹,76,0
