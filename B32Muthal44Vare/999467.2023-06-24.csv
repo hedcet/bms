@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Kozhikode,KairaliSreeTheatreKozhikode,Malayalam,14:30,SreeGold,139₹,311,0
+Kerala,Trivandrum,KalabhavanTheatreTripleBeam3DTrivandrum,Malayalam,14:30,Platinum,120₹,135,30
+Kerala,Trivandrum,KalabhavanTheatreTripleBeam3DTrivandrum,Malayalam,14:30,Gold,101₹,275,34
+Kerala,Kozhikode,KairaliSreeTheatreKozhikode,Malayalam,18:00,SreeGold,139₹,311,3
+Kerala,Trivandrum,KalabhavanTheatreTripleBeam3DTrivandrum,Malayalam,18:15,Platinum,120₹,135,38
+Kerala,Trivandrum,KalabhavanTheatreTripleBeam3DTrivandrum,Malayalam,18:15,Gold,101₹,275,44
