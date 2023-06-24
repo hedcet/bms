@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Dharwad,VijayaTalkies2KDolbyDigitalDharwad,Kannada,12:00,Balcony,110₹,143,0
+Karnataka,Dharwad,VijayaTalkies2KDolbyDigitalDharwad,Kannada,12:00,DressCircle,80₹,552,0
+Karnataka,Muddebihal,AmirTheatreMuddebihal,Kannada,12:00,DressCircle,100₹,366,160
+Karnataka,Muddebihal,AmirTheatreMuddebihal,Kannada,15:00,DressCircle,100₹,366,160
+Karnataka,Muddebihal,AmirTheatreMuddebihal,Kannada,18:00,DressCircle,100₹,366,160
+Karnataka,Muddebihal,AmirTheatreMuddebihal,Kannada,21:00,DressCircle,100₹,366,160
