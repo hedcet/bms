@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Ahmedabad,AbMiniplexShivranjiniCrossRoadSatellite,Gujarati,13:45,UpperSofa,80₹,15,12
+Gujarat,Ahmedabad,AbMiniplexShivranjiniCrossRoadSatellite,Gujarati,13:45,MiddleSofa,80₹,26,2
+Gujarat,Ahmedabad,AbMiniplexShivranjiniCrossRoadSatellite,Gujarati,19:00,Sofa,80₹,12,12
+Gujarat,Ahmedabad,AbMiniplexShivranjiniCrossRoadSatellite,Gujarati,19:00,Bed,80₹,6,6
+Gujarat,Ahmedabad,AbMiniplexShivranjiniCrossRoadSatellite,Gujarati,22:15,Sofa,80₹,12,0
+Gujarat,Ahmedabad,AbMiniplexShivranjiniCrossRoadSatellite,Gujarati,22:15,Bed,80₹,6,0
