@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Chennai,GkCinemasRgbLaserSrl4DPorur,Tamil,08:00,Lounge1,100₹,25,4
+TamilNadu,Chennai,GkCinemasRgbLaserSrl4DPorur,Tamil,08:00,Lounge2,100₹,14,2
+TamilNadu,Chennai,GkCinemasRgbLaserSrl4DPorur,Tamil,08:00,SignatureClass,100₹,311,76
