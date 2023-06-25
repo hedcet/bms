@@ -1,0 +1,8 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Maharashtra,Mumbai,MuktaA2CinemasSuncityVileParle,Marathi,16:00,Executive,150₹,40,32
+Maharashtra,Mumbai,MuktaA2CinemasSuncityVileParle,Marathi,16:00,Premium,150₹,258,49
+Maharashtra,Rajgurunagar,CityPrideKothrud,Marathi,17:15,RoyalGold,180₹,149,145
+Maharashtra,Rajgurunagar,CityPrideKothrud,Marathi,17:15,RoyalSilver,160₹,22,15
+Maharashtra,Mumbai,CitylightCinemaMahim,Marathi,19:00,Prime,150₹,252,39
+Maharashtra,Rajgurunagar,CityPrideKothrud,Marathi,19:45,RoyalGold,180₹,427,34
+Maharashtra,Rajgurunagar,CityPrideKothrud,Marathi,19:45,RoyalSilver,160₹,77,0
