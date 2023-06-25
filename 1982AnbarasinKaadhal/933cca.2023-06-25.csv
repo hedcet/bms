@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Kozhinjampara,VrindavanTheatreKozhinjampara,Tamil,11:00,Box,120₹,45,18
+Kerala,Kozhinjampara,VrindavanTheatreKozhinjampara,Tamil,11:00,Platinum,110₹,154,0
+Kerala,Kozhinjampara,VrindavanTheatreKozhinjampara,Tamil,14:00,Box,120₹,45,18
+Kerala,Kozhinjampara,VrindavanTheatreKozhinjampara,Tamil,14:00,Platinum,110₹,154,0
