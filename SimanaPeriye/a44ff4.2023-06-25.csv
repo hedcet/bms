@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Champahati,NazrultirthaCinemaScreen3Kolkata,Bengali,15:00,Gold,150₹,30,0
+WestBengal,Champahati,NazrultirthaCinemaScreen3Kolkata,Bengali,15:00,Recliner,170₹,8,3
+WestBengal,Champahati,NazrultirthaCinemaScreen3Kolkata,Bengali,15:00,Sofa,150₹,12,0
