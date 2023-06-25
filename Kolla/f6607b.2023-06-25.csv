@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Mukkam,PeeCeeTheatreMukkam,Malayalam,14:45,FirstClass,110₹,139,96
+Kerala,Mukkam,PeeCeeTheatreMukkam,Malayalam,18:00,FirstClass,110₹,139,108
+Kerala,Mukkam,PeeCeeTheatreMukkam,Malayalam,21:00,FirstClass,110₹,139,0
