@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Tirupati,NvrJaysyamAC4KDolbyAtmosTirupati,Telugu,19:15,Diamond,125₹,458,25
+AndhraPradesh,Tirupati,NvrJaysyamAC4KDolbyAtmosTirupati,Telugu,19:15,Gold,80₹,152,10
+AndhraPradesh,Eluru,SaiBalajiComplexEluru,Telugu,19:30,1FirstClass,150₹,275,167
+AndhraPradesh,Eluru,SaiBalajiComplexEluru,Telugu,19:30,2SecondClass,80₹,51,16
+AndhraPradesh,Eluru,SaiBalajiComplexEluru,Telugu,19:30,3ThirdClass,50₹,72,9
+AndhraPradesh,Kadapa,ApsaraAC4KDolbyAtmosKadapa,Telugu,19:30,FirstClass,150₹,312,312
+AndhraPradesh,Kadapa,ApsaraAC4KDolbyAtmosKadapa,Telugu,19:30,SecondClass,100₹,78,78
+AndhraPradesh,Kadapa,ApsaraAC4KDolbyAtmosKadapa,Telugu,19:30,ThirdClass,100₹,52,52
+AndhraPradesh,VizagVisakhapatnam,InoxCmrCentralMaddilapalem,Telugu,19:40,Executive,177₹,236,197
