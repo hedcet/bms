@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Bobbili,SaiGanapathiACDtsBobbili,Telugu,10:45,FirstClass,112₹,494,2
+AndhraPradesh,Bobbili,SaiGanapathiACDtsBobbili,Telugu,10:45,SecondClass,80₹,125,0
+Telangana,Aushapur,PvrMusarambaghHyderabad,Telugu,11:20,Classic,150₹,117,117
+Telangana,Hyderabad,PvrForumSujanaMallKukatpallyHyderabad,Telugu,11:25,Classic,150₹,135,6
+Telangana,Hyderabad,PvrForumSujanaMallKukatpallyHyderabad,Telugu,11:25,Recliner,250₹,9,4
+Telangana,Aushapur,MirajCinemasA2ACentralMallBalanagar,Telugu,11:50,Executive,150₹,143,0
+AndhraPradesh,Kakinada,InoxSrmtMallKakinada,Telugu,13:40,Executive,112₹,146,23
+AndhraPradesh,Bobbili,SaiGanapathiACDtsBobbili,Telugu,14:30,FirstClass,112₹,494,0
+AndhraPradesh,Bobbili,SaiGanapathiACDtsBobbili,Telugu,14:30,SecondClass,80₹,125,0
+AndhraPradesh,Guntur,PvrGuntur,Telugu,17:00,Premium,295₹,10,0
+AndhraPradesh,Guntur,PvrGuntur,Telugu,17:00,Deluxe,177₹,170,15
+AndhraPradesh,Bobbili,SaiGanapathiACDtsBobbili,Telugu,18:30,FirstClass,112₹,494,0
+AndhraPradesh,Bobbili,SaiGanapathiACDtsBobbili,Telugu,18:30,SecondClass,80₹,125,0
+AndhraPradesh,Bobbili,SaiGanapathiACDtsBobbili,Telugu,21:30,FirstClass,112₹,494,0
+AndhraPradesh,Bobbili,SaiGanapathiACDtsBobbili,Telugu,21:30,SecondClass,80₹,125,0
+AndhraPradesh,Kurnool,InoxJyotiMallKurnool,Telugu,22:00,Executive,177₹,247,22
