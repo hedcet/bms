@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Tiruvallur,RohiniSilverScreensKoyambedu,Tamil,13:00,GoldStar,140₹,171,47
+TamilNadu,Chennai,CinepolisBsrMallOmrThoraipakkam,Tamil,15:40,Normal,60₹,17,2
+TamilNadu,Chennai,CinepolisBsrMallOmrThoraipakkam,Tamil,15:40,Executive,190₹,159,1
+TamilNadu,Chennai,PvrVrChennaiAnnaNagar,Tamil,22:05,Classic,60₹,16,16
+TamilNadu,Chennai,PvrVrChennaiAnnaNagar,Tamil,22:05,Prime,165₹,110,22
