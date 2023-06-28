@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,Lucknow,InoxMegaplexEmeraldLucknow,Hindi,16:00,Club,150₹,70,0
+UttarPradesh,Lucknow,InoxMegaplexEmeraldLucknow,Hindi,16:00,Executive,150₹,28,0
+UttarPradesh,Lucknow,InoxMegaplexEmeraldLucknow,Hindi,16:00,Royale,150₹,83,10
+Gujarat,KalolGandhinagar,InoxGandhinagarR21,Hindi,16:30,Ebony,250₹,39,4
+Gujarat,Surat,PvrRahulRajSurat,Hindi,22:15,Classic,150₹,38,0
+Gujarat,Surat,PvrRahulRajSurat,Hindi,22:15,ClassicPlus,150₹,38,0
+Gujarat,Surat,PvrRahulRajSurat,Hindi,22:15,Prime,150₹,76,11
+Gujarat,Surat,PvrRahulRajSurat,Hindi,22:15,Recliner,250₹,24,5
