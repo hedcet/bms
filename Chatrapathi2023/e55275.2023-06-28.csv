@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Maharashtra,Wai,NewChitraCinemaWai,Hindi,12:15,Balcony,100₹,294,0
+Maharashtra,Wai,NewChitraCinemaWai,Hindi,12:15,DCircle,70₹,419,0
+Maharashtra,Wai,NewChitraCinemaWai,Hindi,21:30,Balcony,100₹,294,0
+Maharashtra,Wai,NewChitraCinemaWai,Hindi,21:30,DCircle,70₹,419,4
