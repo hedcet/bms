@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Haryana,NationalCapitalRegionNcr,PvrCityCentreGurgaon,Hindi,10:00,Classic,160₹,156,3
+Haryana,NationalCapitalRegionNcr,PvrCityCentreGurgaon,Hindi,10:00,Prime,190₹,134,20
+Haryana,NationalCapitalRegionNcr,PvrCityCentreGurgaon,Hindi,10:00,Recliner,320₹,20,6
+Haryana,NationalCapitalRegionNcr,PvrCityCentreGurgaon,Hindi,18:00,Classic,220₹,156,55
+Haryana,NationalCapitalRegionNcr,PvrCityCentreGurgaon,Hindi,18:00,Prime,280₹,134,134
+Haryana,NationalCapitalRegionNcr,PvrCityCentreGurgaon,Hindi,18:00,Recliner,430₹,20,20
