@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Trivandrum,KalabhavanTheatreTripleBeam3DTrivandrum,Malayalam,14:30,Platinum,120₹,135,28
+Kerala,Trivandrum,KalabhavanTheatreTripleBeam3DTrivandrum,Malayalam,14:30,Gold,101₹,275,32
+Kerala,Trivandrum,KalabhavanTheatreTripleBeam3DTrivandrum,Malayalam,18:15,Platinum,120₹,135,39
+Kerala,Trivandrum,KalabhavanTheatreTripleBeam3DTrivandrum,Malayalam,18:15,Gold,101₹,275,43
