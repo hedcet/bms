@@ -1,0 +1,8 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,NationalCapitalRegionNcr,PvrLogixNoida,English,09:00,Classic,280₹,49,0
+Maharashtra,Mumbai,InoxMegaplexInorbitMallMalad,English,10:00,Kiddles,180₹,57,15
+Gujarat,Ahmedabad,TimeCinemaCgRoadAhmedabad,English,12:30,Standard,220₹,108,0
+Telangana,Hyderabad,PvrNextGalleriaMallPanjagutta,English,15:15,Classic,150₹,54,52
+Gujarat,Surat,TimeCinemaGalaxyCirclePalSurat,English,16:15,Infinity,280₹,22,0
+TamilNadu,Chennai,PvrHeritageRslEcrChennai,English,21:05,3DClassic,101₹,8,8
+TamilNadu,Chennai,PvrHeritageRslEcrChennai,English,21:05,3DPrime,220₹,67,4
