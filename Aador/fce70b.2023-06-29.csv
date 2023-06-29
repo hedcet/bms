@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Kolkata,InoxHilandPark,Bengali,13:30,Royal,420₹,16,2
+WestBengal,Kolkata,InoxHilandPark,Bengali,13:30,Silver,230₹,155,15
+WestBengal,Kolkata,InoxHilandPark,Bengali,13:30,Premier,210₹,36,0
+WestBengal,Kolkata,NazrultirthaCinemaKolkata,Bengali,16:00,Silver,130₹,26,0
+WestBengal,Kolkata,NazrultirthaCinemaKolkata,Bengali,16:00,Gold,150₹,75,24
+WestBengal,Kolkata,NandanKolkata,Bengali,16:30,Normal,30₹,165,165
