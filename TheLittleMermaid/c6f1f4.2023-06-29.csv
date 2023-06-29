@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+UttarPradesh,NationalCapitalRegionNcr,PvrLogixNoida,English,13:30,Classic,315₹,49,29
+UttarPradesh,NationalCapitalRegionNcr,PvrVegasDwarka,English,15:00,Classic,290₹,36,17
+UttarPradesh,NationalCapitalRegionNcr,PvrVegasDwarka,English,15:00,Prime,320₹,21,19
+UttarPradesh,NationalCapitalRegionNcr,PvrVegasDwarka,English,15:00,Recliner,540₹,8,7
