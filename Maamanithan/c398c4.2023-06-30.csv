@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,HubballiHubli,CinepolisUrbanOasisMallHubli,Tamil,18:10,Normal,180₹,36,0
+Karnataka,HubballiHubli,CinepolisUrbanOasisMallHubli,Tamil,18:10,Executive,180₹,160,0
+Karnataka,HubballiHubli,CinepolisUrbanOasisMallHubli,Tamil,18:10,Premium,180₹,70,36
