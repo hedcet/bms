@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Tiruvallur,RohiniSilverScreensKoyambedu,Tamil,10:00,GoldStar,160₹,315,56
+TamilNadu,Chennai,PvrAmpaMallNelsonManickamRoad,Tamil,15:35,Classic,60₹,17,17
+TamilNadu,Chennai,PvrAmpaMallNelsonManickamRoad,Tamil,15:35,Prime,179₹,130,28
+TamilNadu,Chennai,PvrVrChennaiAnnaNagar,Tamil,18:30,Classic,60₹,11,11
+TamilNadu,Chennai,PvrVrChennaiAnnaNagar,Tamil,18:30,Prime,165₹,102,27
+TamilNadu,Chennai,SpiEscapeExpressAvenueMallRoyapettah,Tamil,22:15,Budget,60₹,11,11
+TamilNadu,Chennai,SpiEscapeExpressAvenueMallRoyapettah,Tamil,22:15,Elite,165₹,99,46
+TamilNadu,Tiruvallur,RohiniSilverScreensKoyambedu,Tamil,23:45,GoldStar,160₹,315,48
