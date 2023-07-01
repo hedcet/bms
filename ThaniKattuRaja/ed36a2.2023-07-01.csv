@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Madurai,MeenakshiTheatreAC71SurroundThirumangalam,Tamil,10:30,Couple,100₹,44,20
+TamilNadu,Madurai,MeenakshiTheatreAC71SurroundThirumangalam,Tamil,10:30,Balcony,100₹,92,0
+TamilNadu,Madurai,PalaniArumugaCinemaACLaserProjectorMadurai,Tamil,10:45,Balcony,120₹,170,35
+TamilNadu,Madurai,PalaniArumugaCinemaACLaserProjectorMadurai,Tamil,10:45,Gold,100₹,183,24
+TamilNadu,Madurai,PalaniArumugaTheatreACAnuppanadiMadurai,Tamil,14:30,Balcony,120₹,170,35
+TamilNadu,Madurai,PalaniArumugaTheatreACAnuppanadiMadurai,Tamil,14:30,Gold,100₹,183,24
+TamilNadu,Madurai,MeenakshiTheatreAC71SurroundThirumangalam,Tamil,14:30,Couple,100₹,44,20
+TamilNadu,Madurai,MeenakshiTheatreAC71SurroundThirumangalam,Tamil,14:30,Balcony,100₹,92,0
+TamilNadu,Madurai,PalaniArumugaCinemaACLaserProjectorMadurai,Tamil,18:30,Balcony,120₹,170,35
+TamilNadu,Madurai,PalaniArumugaCinemaACLaserProjectorMadurai,Tamil,18:30,Gold,100₹,183,27
+TamilNadu,Madurai,MeenakshiTheatreAC71SurroundThirumangalam,Tamil,18:30,Couple,100₹,44,20
+TamilNadu,Madurai,MeenakshiTheatreAC71SurroundThirumangalam,Tamil,18:30,Balcony,100₹,92,0
+TamilNadu,Madurai,PalaniArumugaCinemaACLaserProjectorMadurai,Tamil,22:30,Balcony,120₹,170,35
+TamilNadu,Madurai,PalaniArumugaCinemaACLaserProjectorMadurai,Tamil,22:30,Gold,100₹,183,28
+TamilNadu,Madurai,MeenakshiTheatreAC71SurroundThirumangalam,Tamil,22:30,Couple,100₹,44,20
+TamilNadu,Madurai,MeenakshiTheatreAC71SurroundThirumangalam,Tamil,22:30,Balcony,100₹,92,0
