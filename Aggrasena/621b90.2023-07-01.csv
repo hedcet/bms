@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,PrasannaDigital4KCinemaMagadiRoad,Kannada,10:30,Gold,110₹,355,1
+Karnataka,Bengaluru,PrasannaDigital4KCinemaMagadiRoad,Kannada,10:30,Silver,100₹,748,66
+Karnataka,TumakuruTumkur,SriKrishnaTalkiesACMGRoad,Kannada,10:30,BalconyClass,120₹,221,0
+Karnataka,TumakuruTumkur,SriKrishnaTalkiesACMGRoad,Kannada,10:30,SecondClass,100₹,485,0
+Karnataka,Bengaluru,Sapna2KDolby51DigitalSRGandhiNagar,Kannada,10:30,DeluxClass,120₹,208,41
+Karnataka,Bengaluru,PrasannaDigital4KCinemaMagadiRoad,Kannada,13:30,Gold,110₹,355,1
+Karnataka,Bengaluru,PrasannaDigital4KCinemaMagadiRoad,Kannada,13:30,Silver,100₹,748,53
+Karnataka,TumakuruTumkur,SriKrishnaTalkiesACMGRoad,Kannada,13:30,BalconyClass,120₹,221,0
+Karnataka,TumakuruTumkur,SriKrishnaTalkiesACMGRoad,Kannada,13:30,SecondClass,100₹,485,0
+Karnataka,Bengaluru,Sapna2KDolby51DigitalSRGandhiNagar,Kannada,13:30,DeluxClass,120₹,208,50
+Karnataka,TumakuruTumkur,SriKrishnaTalkiesACMGRoad,Kannada,17:00,BalconyClass,120₹,221,0
+Karnataka,TumakuruTumkur,SriKrishnaTalkiesACMGRoad,Kannada,17:00,SecondClass,100₹,485,0
+Karnataka,TumakuruTumkur,SriKrishnaTalkiesACMGRoad,Kannada,20:00,BalconyClass,120₹,221,0
+Karnataka,TumakuruTumkur,SriKrishnaTalkiesACMGRoad,Kannada,20:00,SecondClass,100₹,485,0
