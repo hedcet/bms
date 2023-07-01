@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Tenali,PriyaSriPriyaComplexTenali,Telugu,14:45,Gold,150₹,90,3
+AndhraPradesh,Tenali,PriyaSriPriyaComplexTenali,Telugu,14:45,Silver,70₹,25,5
+AndhraPradesh,Tenali,PriyaSriPriyaComplexTenali,Telugu,18:30,Gold,150₹,90,0
+AndhraPradesh,Tenali,PriyaSriPriyaComplexTenali,Telugu,18:30,Silver,70₹,25,1
+AndhraPradesh,Tenali,PriyaSriPriyaComplexTenali,Telugu,21:45,Gold,150₹,90,5
+AndhraPradesh,Tenali,PriyaSriPriyaComplexTenali,Telugu,21:45,Silver,70₹,25,1
