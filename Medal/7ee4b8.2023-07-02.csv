@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Haryana,Jind,CsrCinemaJind,Punjabi,09:30,Silver,150₹,55,0
+Punjab,Rupnagar,JrRitzMultiplexRopar,Punjabi,10:00,Silver,90₹,95,0
+Punjab,Malout,CcpCineplexMalout,Punjabi,10:00,RoyalClass,320₹,4,0
+Punjab,Malout,CcpCineplexMalout,Punjabi,10:00,GoldClass,120₹,95,1
+Haryana,Safidon,RSCinemaSafidon,Punjabi,13:30,Gold,150₹,102,0
+Punjab,Firozpur,SilverbirdCinemaFirozpur,Punjabi,21:35,Gold,230₹,194,0
+Punjab,Raikot,KvaCineplexRaikot,Punjabi,22:10,Gold,110₹,60,0
+Punjab,Raikot,KvaCineplexRaikot,Punjabi,22:10,Diamond,160₹,144,0
+Punjab,Raikot,KvaCineplexRaikot,Punjabi,22:10,Vip,250₹,67,0
