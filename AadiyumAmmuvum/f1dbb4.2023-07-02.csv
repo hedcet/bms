@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Kollam,JbCinemas4K3DNallila,Malayalam,14:30,RedBox,150₹,15,4
+Kerala,Kollam,JbCinemas4K3DNallila,Malayalam,14:30,Red,129₹,232,39
+Kerala,Kollam,JbCinemas4K3DNallila,Malayalam,18:45,Blue,129₹,242,37
+Kerala,Ernakulam,SavitaCinemaKochi,Malayalam,21:00,Deluxe,150₹,555,34
