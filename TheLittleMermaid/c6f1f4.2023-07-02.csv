@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Haryana,NationalCapitalRegionNcr,PvrVegasDwarka,English,15:05,Classic,340₹,36,7
+Haryana,NationalCapitalRegionNcr,PvrVegasDwarka,English,15:05,Prime,370₹,21,13
+Haryana,NationalCapitalRegionNcr,PvrVegasDwarka,English,15:05,Recliner,540₹,8,3
+Haryana,NationalCapitalRegionNcr,PvrLogixNoida,English,15:45,Classic,380₹,49,49
+Telangana,Hyderabad,PvrNextGalleriaMallPanjagutta,English,16:55,Classic,150₹,54,53
+Haryana,NationalCapitalRegionNcr,PvrVegasDwarka,English,22:50,Classic,300₹,36,0
+Haryana,NationalCapitalRegionNcr,PvrVegasDwarka,English,22:50,Prime,330₹,21,2
+Haryana,NationalCapitalRegionNcr,PvrVegasDwarka,English,22:50,Recliner,500₹,8,0
