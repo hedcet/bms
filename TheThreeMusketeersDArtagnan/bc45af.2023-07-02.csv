@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,CinepolisLuluGlobalMallBengaluru,English,11:50,Normal,200₹,29,0
+Karnataka,Bengaluru,CinepolisLuluGlobalMallBengaluru,English,11:50,Executive,220₹,75,8
+Karnataka,Bengaluru,CinepolisLuluGlobalMallBengaluru,English,11:50,Premium,240₹,76,18
+Haryana,NationalCapitalRegionNcr,PvrDirectorSCutDelhiAmbienceMall,English,17:40,Platinum,"1,300₹",19,11
+Haryana,NationalCapitalRegionNcr,PvrDirectorSCutDelhiAmbienceMall,English,17:40,PlatinumSuperior,"1,500₹",6,6
+Haryana,NationalCapitalRegionNcr,GurugramPvrDirectorSCutAmbienceMall,English,20:05,Platinum,"1,300₹",40,7
+Haryana,NationalCapitalRegionNcr,GurugramPvrDirectorSCutAmbienceMall,English,20:05,PlatinumSuperior,"1,500₹",16,0
+Maharashtra,Rajgurunagar,CinepolisSeasonsMallPune,English,22:15,Normal,210₹,17,0
+Maharashtra,Rajgurunagar,CinepolisSeasonsMallPune,English,22:15,Executive,230₹,62,5
+Maharashtra,Rajgurunagar,CinepolisSeasonsMallPune,English,22:15,Premium,230₹,22,2
