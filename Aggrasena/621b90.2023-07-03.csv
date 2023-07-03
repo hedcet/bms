@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,Sapna2KDolby51DigitalSRGandhiNagar,Kannada,10:30,DeluxClass,120₹,208,41
+Karnataka,Hoskote,PrasannaDigital4KCinemaMagadiRoad,Kannada,10:30,Gold,110₹,355,1
+Karnataka,Hoskote,PrasannaDigital4KCinemaMagadiRoad,Kannada,10:30,Silver,100₹,748,54
+Karnataka,Bengaluru,Sapna2KDolby51DigitalSRGandhiNagar,Kannada,13:30,DeluxClass,120₹,208,44
+Karnataka,Hoskote,PrasannaDigital4KCinemaMagadiRoad,Kannada,13:30,Gold,110₹,355,7
+Karnataka,Hoskote,PrasannaDigital4KCinemaMagadiRoad,Kannada,13:30,Silver,100₹,748,52
