@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Haryana,NationalCapitalRegionNcr,DelhiPvrDirectorSCutAmbienceMall,English,17:40,Platinum,600₹,19,3
+Haryana,NationalCapitalRegionNcr,DelhiPvrDirectorSCutAmbienceMall,English,17:40,PlatinumSuperior,600₹,6,3
+Haryana,NationalCapitalRegionNcr,GurugramPvrDirectorSCutAmbienceMall,English,20:05,Platinum,700₹,40,9
+Haryana,NationalCapitalRegionNcr,GurugramPvrDirectorSCutAmbienceMall,English,20:05,PlatinumSuperior,900₹,16,4
