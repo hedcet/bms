@@ -1,0 +1,16 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Hoskote,PvrPhoenixMarketcityMallWhitefieldRoad,Hindi,11:00,Classic,112₹,72,10
+Karnataka,Hoskote,PvrPhoenixMarketcityMallWhitefieldRoad,Hindi,11:00,Recliner,230₹,7,3
+Karnataka,Hoskote,PvrNexusFormerlyForumKoramangala,Hindi,12:30,Classic,170₹,156,11
+Karnataka,Hoskote,PvrNexusFormerlyForumKoramangala,Hindi,12:30,Recliner,310₹,12,2
+WestBengal,Kolkata,InoxQuestMall,Hindi,12:40,RoyalRecliner,490₹,71,10
+Gujarat,Surat,CineverseCinemaVesu,Hindi,13:00,Sofa,190₹,46,0
+Gujarat,Ahmedabad,AbMiniplexShivranjiniCrossRoadSatellite,Hindi,13:00,Sofa,130₹,12,0
+Gujarat,Ahmedabad,AbMiniplexShivranjiniCrossRoadSatellite,Hindi,13:00,Bed,150₹,6,0
+Gujarat,Ahmedabad,BananaSmartplexAhmedabad,Hindi,13:30,Premium,190₹,41,9
+Gujarat,Surat,CineverseCinemaVesu,Hindi,19:00,Sofa,190₹,46,6
+Karnataka,Hoskote,PvrGoldVegaCityBannerghattaRoad,Hindi,19:10,Gold,550₹,24,5
+Karnataka,Hoskote,PvrGoldVegaCityBannerghattaRoad,Hindi,19:10,GoldPrime,600₹,14,7
+Gujarat,Surat,CineverseMultiplexVesu,Hindi,22:00,Sofa,220₹,46,4
+Gujarat,Ahmedabad,AbMiniplexShivranjiniCrossRoadSatellite,Hindi,22:20,Sofa,150₹,12,2
+Gujarat,Ahmedabad,AbMiniplexShivranjiniCrossRoadSatellite,Hindi,22:20,Bed,150₹,6,0
