@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Maharashtra,Mumbai,GoldCinemaShivajiRoadThaneW,Sindhi,19:15,Box,112₹,22,2
+Maharashtra,Mumbai,GoldCinemaShivajiRoadThaneW,Sindhi,19:15,Gold,112₹,253,201
+Maharashtra,Mumbai,GoldCinemaShivajiRoadThaneW,Sindhi,19:15,Silver,112₹,42,0
