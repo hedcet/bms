@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Surat,PvrRahulRajSurat,Hindi,09:15,Classic,180₹,30,0
+Gujarat,Surat,PvrRahulRajSurat,Hindi,09:15,ClassicPlus,180₹,30,0
+Gujarat,Surat,PvrRahulRajSurat,Hindi,09:15,Prime,180₹,72,11
+Gujarat,Surat,PvrRahulRajSurat,Hindi,09:15,Recliner,280₹,24,5
+Gujarat,Ahmedabad,PvrArvedTranscubeAhmedabad,Hindi,10:20,Classic,140₹,33,0
+Gujarat,Ahmedabad,PvrArvedTranscubeAhmedabad,Hindi,10:20,Prime,140₹,100,19
+Gujarat,Ahmedabad,PvrSatyamevEmporioAhmedabad,Hindi,19:20,Classic,99₹,39,0
+Gujarat,Ahmedabad,PvrSatyamevEmporioAhmedabad,Hindi,19:20,Prime,99₹,132,23
+Gujarat,Ahmedabad,PvrSatyamevEmporioAhmedabad,Hindi,19:20,Recliner,249₹,15,0
