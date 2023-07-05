@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Jharkhand,Dhanbad,InoxCinemasDhanbad,Bhojpuri,12:30,Gold,360₹,11,0
+Jharkhand,Dhanbad,InoxCinemasDhanbad,Bhojpuri,12:30,Executive,180₹,129,13
+Jharkhand,Dhanbad,InoxCinemasDhanbad,Bhojpuri,12:30,Premier,160₹,39,0
+Jharkhand,Dhanbad,InoxCinemasDhanbad,Bhojpuri,12:30,Silver,160₹,65,0
+Jharkhand,Dhanbad,InoxPrabhatamGrandMallDhanbad,Bhojpuri,16:25,RoyalRecliners,360₹,13,0
+Jharkhand,Dhanbad,InoxPrabhatamGrandMallDhanbad,Bhojpuri,16:25,Royal,180₹,102,19
+Jharkhand,Dhanbad,InoxPrabhatamGrandMallDhanbad,Bhojpuri,16:25,Club,160₹,28,2
+Jharkhand,Dhanbad,InoxPrabhatamGrandMallDhanbad,Bhojpuri,16:25,Executive,160₹,28,0
