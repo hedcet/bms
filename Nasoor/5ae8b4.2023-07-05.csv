@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Jharkhand,Ranchi,JdCinemasJdHiStreetMallRanchi,Nagpuri,14:30,SilverOnline,130₹,14,0
+Jharkhand,Ranchi,JdCinemasJdHiStreetMallRanchi,Nagpuri,14:30,PremiumOnline,150₹,73,37
+Jharkhand,Ranchi,JdCinemasJdHiStreetMallRanchi,Nagpuri,14:30,ClubOnline,180₹,75,11
