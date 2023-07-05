@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,19:45,RoyalRecliner,290₹,10,6
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,19:45,Club,170₹,63,32
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,19:45,Royal,170₹,28,23
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,19:45,Executive,130₹,22,0
+Kerala,Koothattukulam,ShenoysKochi,Malayalam,19:45,Diamond,180₹,71,25
+Kerala,Alappuzha,AecCinemasAlappuzha,Malayalam,21:15,Platinum,200₹,15,0
+Kerala,Alappuzha,AecCinemasAlappuzha,Malayalam,21:15,Gold,150₹,98,0
+Kerala,Kozhikode,AashirvadCineplexxKozhikode,Malayalam,21:30,Platinum,220₹,27,2
+Kerala,Kozhikode,AashirvadCineplexxKozhikode,Malayalam,21:30,Gold,200₹,54,2
+Kerala,Trivandrum,PvrLuluTrivandrum,Malayalam,22:00,Classic,170₹,65,28
+Kerala,Trivandrum,PvrLuluTrivandrum,Malayalam,22:00,Prime,190₹,34,15
+Kerala,Trivandrum,PvrLuluTrivandrum,Malayalam,22:00,Recliner,350₹,8,0
+Kerala,Koothattukulam,PvrLuluKochi,Malayalam,22:15,Classic,140₹,39,0
+Kerala,Koothattukulam,PvrLuluKochi,Malayalam,22:15,ClassicPlus,160₹,91,32
+Kerala,Koothattukulam,PvrLuluKochi,Malayalam,22:15,Prime,180₹,64,7
+Kerala,Koothattukulam,PvrLuluKochi,Malayalam,22:15,Recliner,350₹,9,2
