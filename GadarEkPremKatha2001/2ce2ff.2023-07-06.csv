@@ -1,0 +1,14 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Haryana,NationalCapitalRegionNcr,OneCinemasKavitaPlaceGhaziabad,Hindi,12:00,Platinum,130₹,39,2
+Haryana,NationalCapitalRegionNcr,OneCinemasKavitaPlaceGhaziabad,Hindi,12:00,Gold,130₹,72,0
+Haryana,NationalCapitalRegionNcr,OneCinemasKavitaPlaceGhaziabad,Hindi,12:00,Silver,100₹,51,0
+Haryana,NationalCapitalRegionNcr,OneCinemasKavitaPlaceGhaziabad,Hindi,15:00,Platinum,130₹,39,0
+Haryana,NationalCapitalRegionNcr,OneCinemasKavitaPlaceGhaziabad,Hindi,15:00,Gold,130₹,72,0
+Haryana,NationalCapitalRegionNcr,OneCinemasKavitaPlaceGhaziabad,Hindi,15:00,Silver,100₹,51,0
+Haryana,NationalCapitalRegionNcr,OneCinemasKavitaPlaceGhaziabad,Hindi,18:00,Platinum,130₹,39,0
+Haryana,NationalCapitalRegionNcr,OneCinemasKavitaPlaceGhaziabad,Hindi,18:00,Gold,130₹,72,0
+Haryana,NationalCapitalRegionNcr,OneCinemasKavitaPlaceGhaziabad,Hindi,18:00,Silver,100₹,51,0
+Haryana,NationalCapitalRegionNcr,OneCinemasKavitaPlaceGhaziabad,Hindi,21:00,Platinum,130₹,39,0
+Haryana,NationalCapitalRegionNcr,OneCinemasKavitaPlaceGhaziabad,Hindi,21:00,Gold,130₹,72,0
+Haryana,NationalCapitalRegionNcr,OneCinemasKavitaPlaceGhaziabad,Hindi,21:00,Silver,100₹,51,0
+Haryana,NationalCapitalRegionNcr,PvrLogixNoida,Hindi,22:35,Classic,150₹,87,4
