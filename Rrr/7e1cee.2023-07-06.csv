@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+MadhyaPradesh,Ashoknagar,VivekTalkiesAshoknagar,Hindi,12:15,Diamond,100₹,127,0
+MadhyaPradesh,Ashoknagar,VivekTalkiesAshoknagar,Hindi,12:15,Dc,50₹,373,0
+MadhyaPradesh,Ashoknagar,VivekTalkiesAshoknagar,Hindi,15:15,Diamond,100₹,127,0
+MadhyaPradesh,Ashoknagar,VivekTalkiesAshoknagar,Hindi,15:15,Dc,50₹,373,1
+MadhyaPradesh,Ashoknagar,VivekTalkiesAshoknagar,Hindi,18:15,Diamond,100₹,127,0
+MadhyaPradesh,Ashoknagar,VivekTalkiesAshoknagar,Hindi,18:15,Dc,50₹,373,0
+MadhyaPradesh,Ashoknagar,VivekTalkiesAshoknagar,Hindi,21:15,Diamond,100₹,127,0
+MadhyaPradesh,Ashoknagar,VivekTalkiesAshoknagar,Hindi,21:15,Dc,50₹,373,0
