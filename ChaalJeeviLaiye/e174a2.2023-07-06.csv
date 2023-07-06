@@ -1,0 +1,14 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Surat,InoxVrMallSurat,Gujarati,00:05,RoyalRecliner,200₹,18,12
+Gujarat,Surat,InoxVrMallSurat,Gujarati,00:05,Club,112₹,159,25
+Gujarat,Surat,InoxVrMallSurat,Gujarati,00:05,Executive,112₹,34,0
+Gujarat,Surat,InoxVrMallSurat,Gujarati,00:05,Royal,112₹,60,29
+Gujarat,Sayan,RajImperialInoxVarachhaRoadSurat,Gujarati,00:55,Imperial,410₹,20,6
+Gujarat,Sayan,RajImperialInoxVarachhaRoadSurat,Gujarati,00:55,Platinum,210₹,80,74
+Gujarat,Sayan,RajImperialInoxVarachhaRoadSurat,Gujarati,00:55,Gold,180₹,260,100
+Gujarat,Sayan,RajImperialInoxVarachhaRoadSurat,Gujarati,00:55,Silver,160₹,40,2
+Gujarat,Surat,TimeCinemaGalaxyCirclePalSurat,Gujarati,16:15,InfinitySofa,260₹,34,0
+Gujarat,Ahmedabad,TimeCinemaCgRoadAhmedabad,Gujarati,17:00,Standard,250₹,108,0
+Gujarat,Veraval,FunCinemasPhoenixCinemaVeraval,Gujarati,21:45,Executive,150₹,15,0
+Gujarat,Veraval,FunCinemasPhoenixCinemaVeraval,Gujarati,21:45,Gold,150₹,88,0
+Gujarat,Veraval,FunCinemasPhoenixCinemaVeraval,Gujarati,21:45,Silver,120₹,22,0
