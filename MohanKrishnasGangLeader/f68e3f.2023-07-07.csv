@@ -1,0 +1,16 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,RajamahendravaramRajahmundry,SwamyTheatreRajahmundry,Telugu,08:00,Premium,145₹,448,51
+AndhraPradesh,RajamahendravaramRajahmundry,SwamyTheatreRajahmundry,Telugu,08:00,NonPremium,75₹,150,0
+AndhraPradesh,Kadapa,SrCinemasKadapa,Telugu,08:45,FirstClass,150₹,367,0
+AndhraPradesh,Kadapa,SrCinemasKadapa,Telugu,08:45,SecondClass,100₹,188,0
+AndhraPradesh,Eluru,SriSatyanarayanaCinemasEluru,Telugu,11:00,Balcony,150₹,202,32
+Telangana,Hyderabad,AartiTheaterSanginagar,Telugu,11:00,Balcony,100₹,303,0
+AndhraPradesh,VizagVisakhapatnam,GlobexCinema2KDolbyGajuwaka,Telugu,11:30,Gold,177₹,271,22
+Telangana,Hyderabad,AartiTheaterSanginagar,Telugu,14:00,Balcony,100₹,303,0
+AndhraPradesh,Eluru,SriSatyanarayanaCinemasScreen1Eluru,Telugu,14:30,Balcony,150₹,202,35
+AndhraPradesh,VizagVisakhapatnam,GlobexCinema2KDolbyGajuwaka,Telugu,14:30,Gold,177₹,271,24
+Telangana,Hyderabad,PvrCentralMallPanjagutta,Telugu,16:40,Classic,150₹,141,57
+Telangana,Hyderabad,AartiTheaterSanginagar,Telugu,18:00,Balcony,100₹,303,0
+AndhraPradesh,Eluru,SriSatyanarayanaCinemasEluru,Telugu,18:30,Balcony,150₹,202,32
+Telangana,Hyderabad,AartiTheaterSanginagar,Telugu,21:00,Balcony,100₹,303,0
+AndhraPradesh,Eluru,SriSatyanarayanaCinemasScreen1Eluru,Telugu,21:30,Balcony,150₹,202,32
