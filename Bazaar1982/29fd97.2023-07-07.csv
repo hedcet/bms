@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Maharashtra,Mumbai,PvrIconInfinitiAndheriW,Hindi,13:45,Classic,160₹,45,45
+Maharashtra,Mumbai,PvrIconInfinitiAndheriW,Hindi,13:45,Prime,180₹,179,179
+Maharashtra,Mumbai,PvrIconInfinitiAndheriW,Hindi,13:45,Recliner,480₹,12,12
+Gujarat,Ahmedabad,PvrArvedTranscubeAhmedabad,Hindi,21:30,Classic,190₹,30,30
+Gujarat,Ahmedabad,PvrArvedTranscubeAhmedabad,Hindi,21:30,Prime,230₹,107,107
