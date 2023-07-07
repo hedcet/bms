@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Siliguri,InoxVegaCircleMallSiliguri,Nepali,13:40,Royal,200₹,169,28
+WestBengal,Siliguri,InoxVegaCircleMallSiliguri,Nepali,13:40,Club,160₹,68,0
+WestBengal,Siliguri,InoxVegaCircleMallSiliguri,Nepali,13:40,Executive,160₹,34,0
+WestBengal,Darjeeling,InoxRinkMall,Nepali,15:05,Executive,160₹,22,22
+WestBengal,Darjeeling,InoxRinkMall,Nepali,15:05,Economy,150₹,82,6
