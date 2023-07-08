@@ -1,0 +1,14 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Maharashtra,Karmala,ChhotuMaharajCineCafeKarmala,Marathi,12:15,Gold,220₹,22,1
+Maharashtra,Karmala,ChhotuMaharajCineCafeKarmala,Marathi,12:15,Classique,180₹,52,0
+Maharashtra,Karmala,ChhotuMaharajCineCafeKarmala,Marathi,12:15,Premium,150₹,26,0
+Maharashtra,Rajgurunagar,BollywoodMultiplexKharadi,Marathi,20:15,Gold,170₹,62,62
+Maharashtra,Rajgurunagar,BollywoodMultiplexKharadi,Marathi,20:15,Silver,170₹,10,10
+Maharashtra,Karmala,ChhotuMaharajCineCafeKarmala,Marathi,21:15,Gold,220₹,22,19
+Maharashtra,Karmala,ChhotuMaharajCineCafeKarmala,Marathi,21:15,Classique,180₹,52,48
+Maharashtra,Karmala,ChhotuMaharajCineCafeKarmala,Marathi,21:15,Premium,150₹,26,21
+Maharashtra,Umred,CapitalCinemasEarlierBalajiMultiplexUmred,Marathi,21:15,Diamond,120₹,10,0
+Maharashtra,Umred,CapitalCinemasEarlierBalajiMultiplexUmred,Marathi,21:15,Gold,120₹,100,6
+Maharashtra,Umred,CapitalCinemasEarlierBalajiMultiplexUmred,Marathi,21:15,Silver,120₹,29,0
+Maharashtra,Rajgurunagar,BollywoodMultiplexKharadi,Marathi,23:00,Gold,170₹,62,0
+Maharashtra,Rajgurunagar,BollywoodMultiplexKharadi,Marathi,23:00,Silver,170₹,10,0
