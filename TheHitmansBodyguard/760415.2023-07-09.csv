@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Jaipur,GemCinemaJaipur,Hindi,15:30,Box,250₹,73,21
+Karnataka,Jaipur,GemCinemaJaipur,Hindi,15:30,NobleCircle,199₹,356,42
+Karnataka,Jaipur,GemCinemaJaipur,Hindi,15:30,DressCircle,100₹,843,28
+Karnataka,Jaipur,GemCinemaJaipur,Hindi,18:30,Box,250₹,73,20
+Karnataka,Jaipur,GemCinemaJaipur,Hindi,18:30,NobleCircle,199₹,356,42
+Karnataka,Jaipur,GemCinemaJaipur,Hindi,18:30,DressCircle,100₹,843,20
+Karnataka,Jaipur,GemCinemaJaipur,Hindi,21:30,Box,250₹,73,40
+Karnataka,Jaipur,GemCinemaJaipur,Hindi,21:30,NobleCircle,199₹,356,320
+Karnataka,Jaipur,GemCinemaJaipur,Hindi,21:30,DressCircle,100₹,843,807
