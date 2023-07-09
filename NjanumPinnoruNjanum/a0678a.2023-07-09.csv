@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Ernakulam,SangeetaCinemaKochi,Malayalam,12:00,BlueCircle,150₹,187,38
+Kerala,Palakkad,AromaScreen2Palakkad,Malayalam,14:15,KingCircle,115₹,235,33
+Kerala,Kanhangad,VgmMultiplexTheatreAC2K71Dolby,Malayalam,14:30,VgmBlue,190₹,241,30
+Kerala,Trivandrum,KairaliSreeNilaRgbLaser4KDolbyAtmos,Malayalam,18:30,Platinum,125₹,259,49
+Kerala,Trivandrum,KairaliSreeNilaRgbLaser4KDolbyAtmos,Malayalam,21:30,Platinum,125₹,259,29
