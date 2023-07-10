@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Trivandrum,PvrLuluTrivandrum,Malayalam,12:20,Classic,170₹,65,65
+Kerala,Trivandrum,PvrLuluTrivandrum,Malayalam,12:20,Prime,190₹,34,34
+Kerala,Trivandrum,PvrLuluTrivandrum,Malayalam,12:20,Recliner,350₹,8,8
+Kerala,Kochi,CinepolisCentreSquareMallKochi,Malayalam,14:20,Normal,150₹,20,2
+Kerala,Kochi,CinepolisCentreSquareMallKochi,Malayalam,14:20,Executive,170₹,43,0
+Kerala,Kochi,CinepolisCentreSquareMallKochi,Malayalam,14:20,Premium,190₹,44,7
+Kerala,Ettumanoor,UgmCinemas4KDolbyAtmosEttumanoor,Malayalam,18:10,Platinum,250₹,16,0
+Kerala,Ettumanoor,UgmCinemas4KDolbyAtmosEttumanoor,Malayalam,18:10,Gold,150₹,171,0
+Kerala,Pazhayannur,InoxSobhaCityMall,Malayalam,19:00,RoyalRecliner,290₹,10,0
+Kerala,Pazhayannur,InoxSobhaCityMall,Malayalam,19:00,Club,170₹,63,0
+Kerala,Pazhayannur,InoxSobhaCityMall,Malayalam,19:00,Royal,170₹,28,12
+Kerala,Pazhayannur,InoxSobhaCityMall,Malayalam,19:00,Executive,130₹,22,0
