@@ -1,0 +1,14 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bengaluru,CinephileHsrLayoutPnrFelicityMallHaralurRd,Telugu,10:00,Gold,200₹,193,17
+AndhraPradesh,KovurNellore,MythiliTheatreKovur,Telugu,11:30,FirstClass,100₹,183,173
+AndhraPradesh,KovurNellore,MythiliTheatreKovur,Telugu,11:30,SecondClass,100₹,96,86
+AndhraPradesh,KovurNellore,MythiliTheatreKovur,Telugu,14:30,FirstClass,100₹,183,29
+AndhraPradesh,KovurNellore,MythiliTheatreKovur,Telugu,14:30,SecondClass,100₹,96,5
+AndhraPradesh,Sabbavaram,SreeKanyaTheatre4KDolbyAtmosRlyNewColony,Telugu,18:30,Premium,145₹,472,38
+AndhraPradesh,Sabbavaram,SreeKanyaTheatre4KDolbyAtmosRlyNewColony,Telugu,18:30,NonPremium,100₹,181,10
+AndhraPradesh,KovurNellore,MythiliTheatreKovur,Telugu,18:30,FirstClass,100₹,183,29
+AndhraPradesh,KovurNellore,MythiliTheatreKovur,Telugu,18:30,SecondClass,100₹,96,5
+AndhraPradesh,KovurNellore,MythiliTheatreKovur,Telugu,21:30,FirstClass,100₹,183,29
+AndhraPradesh,KovurNellore,MythiliTheatreKovur,Telugu,21:30,SecondClass,100₹,96,5
+AndhraPradesh,Sabbavaram,SreeKanyaTheatre4KDolbyAtmosRlyNewColony,Telugu,21:45,Premium,145₹,472,39
+AndhraPradesh,Sabbavaram,SreeKanyaTheatre4KDolbyAtmosRlyNewColony,Telugu,21:45,NonPremium,100₹,181,12
