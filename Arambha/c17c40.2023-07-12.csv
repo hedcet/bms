@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,BelagaviBelgaum,InoxCampRoadBelagavi,Kannada,11:05,Club,112₹,56,0
+Karnataka,BelagaviBelgaum,InoxCampRoadBelagavi,Kannada,11:05,Executive,112₹,14,0
+Karnataka,BelagaviBelgaum,InoxCampRoadBelagavi,Kannada,11:05,Royal,112₹,10,5
+Karnataka,Kundapura,BharathCinemasKundapura,Kannada,11:15,Gold,200₹,36,4
+Karnataka,Kundapura,BharathCinemasKundapura,Kannada,11:15,Silver,180₹,24,0
+Karnataka,Kundapura,BharathCinemasKundapura,Kannada,11:15,Special,150₹,36,0
+Karnataka,HubballiHubli,PvrLaxmiMallCoenRoad,Kannada,15:10,Classic,112₹,68,0
+Karnataka,HubballiHubli,PvrLaxmiMallCoenRoad,Kannada,15:10,ClassicPlus,112₹,138,6
+Karnataka,HubballiHubli,PvrLaxmiMallCoenRoad,Kannada,15:10,Prime,200₹,10,0
+Karnataka,HubballiHubli,CinepolisUrbanOasisMallHubli,Kannada,16:05,Normal,160₹,38,0
+Karnataka,HubballiHubli,CinepolisUrbanOasisMallHubli,Kannada,16:05,Executive,160₹,103,1
+Karnataka,HubballiHubli,CinepolisUrbanOasisMallHubli,Kannada,16:05,Premium,180₹,62,26
