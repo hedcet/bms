@@ -1,0 +1,16 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Kochi,CinepolisCentreSquareMallKochi,Malayalam,11:15,Normal,99₹,13,0
+Kerala,Kochi,CinepolisCentreSquareMallKochi,Malayalam,11:15,Executive,99₹,26,0
+Kerala,Kochi,CinepolisCentreSquareMallKochi,Malayalam,11:15,Premium,99₹,67,16
+Kerala,Trivandrum,PvrLuluTrivandrum,Malayalam,12:10,Classic,170₹,77,0
+Kerala,Trivandrum,PvrLuluTrivandrum,Malayalam,12:10,Prime,190₹,60,5
+Kerala,Trivandrum,PvrLuluTrivandrum,Malayalam,12:10,Recliner,350₹,7,6
+Kerala,Kochi,CinepolisCentreSquareMallKochi,Malayalam,14:20,Normal,99₹,13,0
+Kerala,Kochi,CinepolisCentreSquareMallKochi,Malayalam,14:20,Executive,99₹,26,0
+Kerala,Kochi,CinepolisCentreSquareMallKochi,Malayalam,14:20,Premium,99₹,67,12
+Kerala,Nooranad,SwathyScreensNooranad,Malayalam,14:30,Premium,150₹,140,0
+Kerala,Nooranad,SwathyScreensNooranad,Malayalam,14:30,GoldPlus,200₹,12,0
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,22:10,RoyalRecliner,290₹,10,0
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,22:10,Club,170₹,63,0
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,22:10,Royal,170₹,28,14
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,22:10,Executive,130₹,22,0
