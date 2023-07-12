@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Uttarakhand,Dehradun,PvrCentrioDehradun,Garhwali,11:45,Classic,150₹,22,3
+Uttarakhand,Dehradun,PvrCentrioDehradun,Garhwali,11:45,ClassicPlus,150₹,55,10
+Uttarakhand,Dehradun,PvrCentrioDehradun,Garhwali,11:45,Prime,200₹,60,4
+Uttarakhand,Dehradun,PvrCentrioDehradun,Garhwali,11:45,Recliner,250₹,11,0
