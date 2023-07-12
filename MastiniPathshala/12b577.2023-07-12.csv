@@ -1,0 +1,8 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Ahmedabad,DeviMultiplexNaroda,Gujarati,09:00,Platinum,80₹,173,22
+Gujarat,Ahmedabad,DeviMultiplexNaroda,Gujarati,09:00,Gold,80₹,281,11
+Gujarat,Ahmedabad,DeviMultiplexNaroda,Gujarati,09:00,Silver,80₹,58,0
+Gujarat,Sanand,WideAngleAhmedabad,Gujarati,20:15,Silver,110₹,76,0
+Gujarat,Sanand,WideAngleAhmedabad,Gujarati,20:15,Gold,110₹,104,5
+Gujarat,Ahmedabad,DeviMultiplexNaroda,Gujarati,21:00,Platinum,80₹,42,10
+Gujarat,Ahmedabad,DeviMultiplexNaroda,Gujarati,21:00,Gold,80₹,98,20
