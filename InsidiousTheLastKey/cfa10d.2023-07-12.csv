@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Thrissur,InoxSobhaCityMall,English,19:15,RoyalRecliner,290₹,10,0
+Kerala,Thrissur,InoxSobhaCityMall,English,19:15,Club,170₹,155,2
+Kerala,Thrissur,InoxSobhaCityMall,English,19:15,Royal,170₹,32,12
+Kerala,Thrissur,InoxSobhaCityMall,English,19:15,Executive,130₹,26,0
