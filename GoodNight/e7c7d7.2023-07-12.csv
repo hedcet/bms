@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Trichy,LaCinemaMarisComplexRgbLaserTrichy,Tamil,11:05,Elite,140₹,58,26
+TamilNadu,Coimbatore,FunCinemasFunRepublicMallCoimbatore,Tamil,11:50,Normal,60₹,17,4
+TamilNadu,Coimbatore,FunCinemasFunRepublicMallCoimbatore,Tamil,11:50,Executive,152₹,142,19
+TamilNadu,Chennai,InoxLuxePhoenixMarketCityVelachery,Tamil,12:30,Elite,190₹,134,22
+TamilNadu,Chennai,InoxLuxePhoenixMarketCityVelachery,Tamil,12:30,Budget,60₹,24,18
+TamilNadu,Chennai,CinepolisBsrMallOmrThoraipakkam,Tamil,12:55,Normal,60₹,17,5
+TamilNadu,Chennai,CinepolisBsrMallOmrThoraipakkam,Tamil,12:55,Executive,190₹,151,0
+TamilNadu,Dharmapuri,DmaxDncTheatresDharmapuri,Tamil,15:00,Gold,190₹,72,5
+TamilNadu,Kinathukadavu,InoxProzoneMallCoimbatore,Tamil,16:10,Club,190₹,151,37
+TamilNadu,Kinathukadavu,InoxProzoneMallCoimbatore,Tamil,16:10,Executive,60₹,19,16
+TamilNadu,Dharmapuri,DmaxDncTheatresDharmapuri,Tamil,18:50,Gold,190₹,72,0
