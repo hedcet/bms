@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+TamilNadu,Chennai,PvrAmpaMallNelsonManickamRoad,Tamil,15:30,Classic,60₹,17,17
+TamilNadu,Chennai,PvrAmpaMallNelsonManickamRoad,Tamil,15:30,Prime,179₹,130,4
+TamilNadu,Tiruvallur,RohiniSilverScreensKoyambedu,Tamil,16:00,GoldStar,140₹,315,61
+TamilNadu,Chennai,PvrVrChennaiAnnaNagar,Tamil,19:15,Classic,60₹,11,11
+TamilNadu,Chennai,PvrVrChennaiAnnaNagar,Tamil,19:15,Prime,165₹,102,26
