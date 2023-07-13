@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Sabbavaram,SreeKanyaTheatre4KDolbyAtmosRlyNewColony,Telugu,11:15,Premium,145₹,472,37
+AndhraPradesh,Sabbavaram,SreeKanyaTheatre4KDolbyAtmosRlyNewColony,Telugu,11:15,NonPremium,100₹,181,10
+Telangana,Aushapur,InoxGsmMallHyderabad,Telugu,13:20,Royal,250₹,12,5
+Telangana,Aushapur,InoxGsmMallHyderabad,Telugu,13:20,Executive,150₹,141,12
+Telangana,Aushapur,PvrIrrumManzilHyderabad,Telugu,14:05,Classic,150₹,94,21
+Telangana,Aushapur,PvrIrrumManzilHyderabad,Telugu,14:05,Recliner,250₹,10,9
+AndhraPradesh,Sabbavaram,SreeKanyaTheatre4KDolbyAtmosRlyNewColony,Telugu,14:45,Premium,145₹,472,37
+AndhraPradesh,Sabbavaram,SreeKanyaTheatre4KDolbyAtmosRlyNewColony,Telugu,14:45,NonPremium,100₹,181,10
