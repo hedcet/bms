@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Dhoraji,SurajCineplexJunagadh,Gujarati,15:00,Sofa,180₹,20,20
+Gujarat,Dhoraji,SurajCineplexJunagadh,Gujarati,15:00,Executive,90₹,70,70
+Gujarat,Dhoraji,SurajCineplexJunagadh,Gujarati,18:00,Sofa,180₹,20,20
+Gujarat,Dhoraji,SurajCineplexJunagadh,Gujarati,18:00,Executive,90₹,70,70
+Gujarat,Dhoraji,SurajCineplexJunagadh,Gujarati,21:00,Gold,90₹,141,141
+Gujarat,Dhoraji,SurajCineplexJunagadh,Gujarati,21:00,Silver,90₹,147,147
+Gujarat,Dhoraji,SurajCineplexJunagadh,Gujarati,21:00,Sofa,180₹,20,7
+Gujarat,Dhoraji,SurajCineplexJunagadh,Gujarati,21:00,Executive,90₹,70,70
