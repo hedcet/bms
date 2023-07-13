@@ -1,0 +1,14 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Telangana,Hyderabad,PvrNexusMallKukatpallyHyderabad,Japanese,12:00,Classic,150₹,135,8
+Telangana,Hyderabad,PvrNexusMallKukatpallyHyderabad,Japanese,12:00,Recliner,250₹,9,4
+Telangana,Aushapur,PvrNextGalleriaMallPanjagutta,Japanese,12:00,Classic,150₹,54,54
+AndhraPradesh,Sabbavaram,InoxVarunBeachBeachRoad,Japanese,13:00,Excutive,177₹,147,19
+Telangana,Aushapur,InoxGsmMallHyderabad,Japanese,13:05,Royal,250₹,13,6
+Telangana,Aushapur,InoxGsmMallHyderabad,Japanese,13:05,Executive,150₹,106,6
+Kerala,Kozhikode,CinepolisGokulamGalleriaMall,Japanese,14:10,Normal,160₹,38,4
+Kerala,Kozhikode,CinepolisGokulamGalleriaMall,Japanese,14:10,Executive,180₹,69,4
+Kerala,Kozhikode,CinepolisGokulamGalleriaMall,Japanese,14:10,Premium,200₹,56,1
+Telangana,Aushapur,PvrNextGalleriaMallPanjagutta,Japanese,19:20,Classic,150₹,54,22
+Kerala,Kochi,CinepolisCentreSquareMallKochi,Japanese,19:55,Normal,150₹,20,2
+Kerala,Kochi,CinepolisCentreSquareMallKochi,Japanese,19:55,Executive,170₹,43,0
+Kerala,Kochi,CinepolisCentreSquareMallKochi,Japanese,19:55,Premium,190₹,44,0
