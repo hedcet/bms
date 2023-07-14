@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Telangana,Hyderabad,SreeSaiRajaTheatreMusheerabad,Hindi,18:00,Balcony,110₹,377,0
+Telangana,Hyderabad,SreeSaiRajaTheatreMusheerabad,Hindi,18:00,DressCircle,80₹,338,0
+Telangana,Hyderabad,SreeSaiRajaTheatreMusheerabad,Hindi,18:00,ThirdClass,50₹,182,0
+Telangana,Aushapur,PriyaTheatreMalleypally,Hindi,18:30,MaharajaLower,110₹,336,72
+Telangana,Aushapur,PriyaTheatreMalleypally,Hindi,18:30,BalconyUpper,80₹,150,27
+Telangana,Aushapur,PriyaTheatreMalleypally,Hindi,18:30,SecondFrontClass,70₹,114,28
+Telangana,Hyderabad,SreeSaiRajaTheatreMusheerabad,Hindi,21:00,Balcony,110₹,377,0
+Telangana,Hyderabad,SreeSaiRajaTheatreMusheerabad,Hindi,21:00,DressCircle,80₹,338,0
+Telangana,Hyderabad,SreeSaiRajaTheatreMusheerabad,Hindi,21:00,ThirdClass,50₹,182,0
+Telangana,Aushapur,PriyaTheatreMalleypally,Hindi,21:30,MaharajaLower,110₹,336,72
+Telangana,Aushapur,PriyaTheatreMalleypally,Hindi,21:30,BalconyUpper,80₹,150,27
+Telangana,Aushapur,PriyaTheatreMalleypally,Hindi,21:30,SecondFrontClass,70₹,114,28
