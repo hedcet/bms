@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Shivamogga,ManjunathaDigital2KCinemaShivamogga,Kannada,17:45,Balcony,150₹,254,0
+Karnataka,Shivamogga,ManjunathaDigital2KCinemaShivamogga,Kannada,17:45,FirstClass,130₹,247,0
+Karnataka,Baindur,ShankarCinemaBaindur,Kannada,18:00,Balcony,100₹,342,0
+Karnataka,Harihar,JayashreeTheatreHarihara,Kannada,18:20,Balcony,101₹,854,121
+Karnataka,Harihar,JayashreeTheatreHarihara,Kannada,18:20,SecondClass,81₹,472,472
+Karnataka,Bengaluru,SriGurusiddeshwara2KChitraMandiraThippasandra,Kannada,19:30,GoldClass,100₹,149,0
+Karnataka,Bengaluru,SriGurusiddeshwara2KChitraMandiraThippasandra,Kannada,19:30,SilverClass,80₹,200,0
+Karnataka,Shivamogga,ManjunathaDigital2KCinemaShivamogga,Kannada,20:45,Balcony,150₹,254,0
+Karnataka,Shivamogga,ManjunathaDigital2KCinemaShivamogga,Kannada,20:45,FirstClass,130₹,247,0
+Karnataka,Baindur,ShankarCinemaBaindur,Kannada,21:00,Balcony,100₹,342,0
+Karnataka,Harihar,JayashreeTheatreHarihara,Kannada,21:20,Balcony,101₹,854,121
+Karnataka,Harihar,JayashreeTheatreHarihara,Kannada,21:20,SecondClass,81₹,472,472
