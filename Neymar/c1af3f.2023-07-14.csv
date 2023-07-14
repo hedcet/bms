@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Varadiyam,InoxSobhaCityMall,Malayalam,19:00,RoyalRecliner,350₹,10,0
+Kerala,Varadiyam,InoxSobhaCityMall,Malayalam,19:00,Club,190₹,66,10
+Kerala,Varadiyam,InoxSobhaCityMall,Malayalam,19:00,Royal,190₹,28,26
+Kerala,Varadiyam,InoxSobhaCityMall,Malayalam,19:00,Executive,130₹,22,0
