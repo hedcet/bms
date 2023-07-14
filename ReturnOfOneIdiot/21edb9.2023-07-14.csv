@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Surat,InoxRelianceMallSurat,Hindi,19:30,Club,350₹,80,0
+Gujarat,Surat,InoxRelianceMallSurat,Hindi,19:30,Executive,350₹,28,0
+Gujarat,Surat,InoxRelianceMallSurat,Hindi,19:30,RoyalRecliner,350₹,13,4
+Gujarat,Surat,InoxRelianceMallSurat,Hindi,19:30,Royal,350₹,64,6
