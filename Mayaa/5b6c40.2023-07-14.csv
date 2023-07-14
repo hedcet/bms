@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Kolkata,NandanKolkata,Bengali,13:00,Normal,30₹,165,3
+WestBengal,Kolkata,SsrCinemasMaheshtala,Bengali,13:10,Silver,150₹,16,0
+WestBengal,Kolkata,SsrCinemasMaheshtala,Bengali,13:10,Gold,150₹,98,11
+Tripura,Khowai,SsrCinemasKhowai,Bengali,15:00,Gold,110₹,110,110
