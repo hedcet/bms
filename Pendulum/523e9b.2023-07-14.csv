@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Varadiyam,InoxSobhaCityMall,Malayalam,12:50,RoyalRecliner,350₹,10,0
+Kerala,Varadiyam,InoxSobhaCityMall,Malayalam,12:50,Club,190₹,66,0
+Kerala,Varadiyam,InoxSobhaCityMall,Malayalam,12:50,Royal,190₹,28,15
+Kerala,Varadiyam,InoxSobhaCityMall,Malayalam,12:50,Executive,130₹,22,0
+Kerala,Palluruthy,ShenoysKochi,Malayalam,18:15,Diamond,220₹,71,32
+Kerala,Trivandrum,PvrLuluTrivandrum,Malayalam,22:00,Classic,170₹,77,6
+Kerala,Trivandrum,PvrLuluTrivandrum,Malayalam,22:00,Prime,190₹,60,9
+Kerala,Trivandrum,PvrLuluTrivandrum,Malayalam,22:00,Recliner,350₹,7,0
