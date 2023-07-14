@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+WestBengal,Champahati,StarTheatreKolkata,Bengali,20:00,FrontStall,115₹,84,2
+WestBengal,Champahati,StarTheatreKolkata,Bengali,20:00,RearStall,130₹,234,0
+WestBengal,Champahati,StarTheatreKolkata,Bengali,20:00,Balcony,115₹,192,6
