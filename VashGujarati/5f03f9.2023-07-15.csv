@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Ahmedabad,AppleMultiplexManinagarAhmedabad,Gujarati,13:00,UpperSofa,150₹,7,0
+Gujarat,Ahmedabad,AppleMultiplexManinagarAhmedabad,Gujarati,13:00,Platinum,130₹,104,0
+Gujarat,Ahmedabad,AppleMultiplexManinagarAhmedabad,Gujarati,13:00,LowerSofa,110₹,9,0
+Gujarat,Ahmedabad,AppleMultiplexManinagarAhmedabad,Gujarati,18:00,VipRecliner,300₹,30,1
