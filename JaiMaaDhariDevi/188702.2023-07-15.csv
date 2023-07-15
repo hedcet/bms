@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Uttarakhand,Dehradun,SilverCityMultiplexRajpurRoad,Garhwali,11:00,Silver,150₹,68,20
+Uttarakhand,Dehradun,SilverCityMultiplexRajpurRoad,Garhwali,11:00,Gold,200₹,137,73
+Uttarakhand,Dehradun,SilverCityMultiplexRajpurRoad,Garhwali,11:00,Platinum,250₹,15,15
