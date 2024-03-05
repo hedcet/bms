@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Telangana,Hyderabad,PvrNexusMallKukatpallyHyderabad,Telugu,13:45,Recliner,250₹,9,7
+Telangana,Hyderabad,PvrNexusMallKukatpallyHyderabad,Telugu,13:45,Classic,150₹,135,53
+AndhraPradesh,Vizag,InoxCmrCentralMaddilapalem,Telugu,13:50,Executive,177₹,161,42
+AndhraPradesh,Vijayawada,CinepolisPowerOneMallVijayawada,Telugu,16:25,Normal,147₹,24,0
+AndhraPradesh,Vijayawada,CinepolisPowerOneMallVijayawada,Telugu,16:25,Executive,147₹,54,0
+AndhraPradesh,Vijayawada,CinepolisPowerOneMallVijayawada,Telugu,16:25,Premium,147₹,82,7
+AndhraPradesh,Vijayawada,CinepolisPvpSquareMallVijayawada,Telugu,16:50,Normal,177₹,203,8
+Telangana,Hyderabad,PlatinumMovietimeCinemaGachibowliSlnTerminus,Telugu,20:10,PlatinumPremiumRecliner,350₹,15,8
+Telangana,Hyderabad,PlatinumMovietimeCinemaGachibowliSlnTerminus,Telugu,20:10,PlatinumRecliners,350₹,24,4
+AndhraPradesh,Vijayawada,CinepolisPvpSquareMallVijayawada,Telugu,22:15,Normal,177₹,203,19
