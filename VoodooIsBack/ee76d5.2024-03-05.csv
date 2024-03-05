@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+AndhraPradesh,Kothapeta,RsMiniplexKothapeta,Telugu,14:15,FirstClass,100₹,166,40
+UttarPradesh,Hardoi,MeeraChitraMandirHardoi,Hindi,15:30,Diamond,100₹,198,0
+WestBengal,Kolkata,LilaCinemaBaruipur,Hindi,16:00,Balcony,60₹,76,0
+AndhraPradesh,Kothapeta,RsMiniplexKothapeta,Telugu,18:15,FirstClass,100₹,166,38
+UttarPradesh,Hardoi,MeeraChitraMandirHardoi,Hindi,18:30,Diamond,100₹,198,0
+WestBengal,Kolkata,LilaCinemaBaruipur,Hindi,18:45,Balcony,60₹,76,0
+Uttarakhand,Haldwani,LaxmiCineplexHaldwani,Hindi,21:00,Diamond,300₹,20,0
+Uttarakhand,Haldwani,LaxmiCineplexHaldwani,Hindi,21:00,Gold,200₹,85,0
+Uttarakhand,Haldwani,LaxmiCineplexHaldwani,Hindi,21:00,Silver,150₹,35,0
+UttarPradesh,Hardoi,MeeraChitraMandirHardoi,Hindi,21:15,Diamond,100₹,198,0
+AndhraPradesh,Kothapeta,RsMiniplexKothapeta,Telugu,21:15,FirstClass,100₹,166,44
+Rajasthan,Jaipur,ParasCinemaAmerRoad,Hindi,21:15,Recliner,300₹,19,0
+Rajasthan,Jaipur,ParasCinemaAmerRoad,Hindi,21:15,Box,200₹,49,0
+Rajasthan,Jaipur,ParasCinemaAmerRoad,Hindi,21:15,Balcony,100₹,401,0
