@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Jalgaon,RegalMetroCinemaJalgaon,Hindi,15:00,Premium,70₹,93,0
+Maharashtra,Jalgaon,RegalMetroCinemaJalgaon,Hindi,15:00,Special,50₹,105,0
+Maharashtra,Jalgaon,RegalMetroCinemaJalgaon,Hindi,18:00,Premium,70₹,93,0
+Maharashtra,Jalgaon,RegalMetroCinemaJalgaon,Hindi,18:00,Special,50₹,105,0
+Maharashtra,Jalgaon,RegalMetroCinemaJalgaon,Hindi,21:00,Premium,70₹,93,0
+Maharashtra,Jalgaon,RegalMetroCinemaJalgaon,Hindi,21:00,Special,50₹,105,0
