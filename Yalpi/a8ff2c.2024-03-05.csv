@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Karnataka,Bellary,UmaTheatreBellary,Kannada,14:00,GoldClass,100₹,245,32
+Karnataka,Bellary,UmaTheatreBellary,Kannada,17:00,GoldClass,100₹,245,32
+Karnataka,Bellary,UmaTheatreBellary,Kannada,20:15,GoldClass,100₹,245,32
