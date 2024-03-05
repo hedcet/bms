@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Bihar,Muzaffarpur,PjpCinemasMuzaffarpur,Hindi,09:00,Normal,110₹,30,0
+Bihar,Muzaffarpur,PjpCinemasMuzaffarpur,Hindi,09:00,Executive,110₹,102,0
+Bihar,Muzaffarpur,PjpCinemasMuzaffarpur,Hindi,09:00,Premium,110₹,80,11
+WestBengal,Kolkata,InoxQuestMall,Hindi,13:15,RoyalRecliner,300₹,14,6
+WestBengal,Kolkata,InoxQuestMall,Hindi,13:15,Club,150₹,112,0
+WestBengal,Kolkata,InoxQuestMall,Hindi,13:15,Executive,150₹,24,0
+WestBengal,Kolkata,InoxQuestMall,Hindi,13:15,Royal,150₹,32,4
+WestBengal,Kolkata,PvrAvaniKolkata,Hindi,13:25,Classic,150₹,200,17
+WestBengal,Kolkata,PvrAvaniKolkata,Hindi,13:25,Prime,150₹,11,0
+Tripura,Agartala,SsrBalakaCinemasAgartala,Hindi,14:00,Gold,150₹,336,17
+Jharkhand,Jamshedpur,PjpCinepolisJamshedpur,Hindi,14:55,Normal,170₹,26,0
+Jharkhand,Jamshedpur,PjpCinepolisJamshedpur,Hindi,14:55,Executive,190₹,26,0
+Jharkhand,Jamshedpur,PjpCinepolisJamshedpur,Hindi,14:55,Premium,210₹,68,0
+WestBengal,Siliguri,CarnivalCinemasSiliguri,Hindi,15:00,Special,180₹,44,0
+WestBengal,Siliguri,CarnivalCinemasSiliguri,Hindi,15:00,Executive,180₹,176,19
+WestBengal,Siliguri,CarnivalCinemasSiliguri,Hindi,15:00,Gold,250₹,22,6
