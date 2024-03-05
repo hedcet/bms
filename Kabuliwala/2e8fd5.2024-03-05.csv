@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+WestBengal,Kalyani,SvfCinemasVidyasagarManchaKalyani,Bengali,14:45,Gold,100₹,33,14
+WestBengal,Kalyani,SvfCinemasVidyasagarManchaKalyani,Bengali,14:45,Platinum,150₹,139,3
+WestBengal,Kalyani,SvfCinemasVidyasagarManchaKalyani,Bengali,14:45,RoyalRecliner,300₹,20,2
+WestBengal,Kalyani,SvfCinemasVidyasagarManchaKalyani,Bengali,14:45,Platinumm,150₹,93,9
