@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Mumbai,InoxInsigniaAtAtriaMallWorli,German,16:30,Insignia,500₹,31,4
+Ncr,Delhi,PvrPromenadeVasantKunj,German,18:00,Classic,112₹,96,0
+Ncr,Delhi,PvrPromenadeVasantKunj,German,18:00,Prime,112₹,33,5
+Gujarat,Vadodara,PvrNilamberTriumphVadodara,German,19:00,Recliner,300₹,10,2
+Gujarat,Vadodara,PvrNilamberTriumphVadodara,German,19:00,Classic,150₹,28,0
+Gujarat,Vadodara,PvrNilamberTriumphVadodara,German,19:00,Prime,150₹,84,14
