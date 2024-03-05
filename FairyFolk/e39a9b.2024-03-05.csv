@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+WestBengal,Kolkata,MirajCinemasNewtownKolkata,Hindi,21:30,Special,99₹,56,0
+WestBengal,Kolkata,MirajCinemasNewtownKolkata,Hindi,21:30,Executive,99₹,78,0
+WestBengal,Kolkata,MirajCinemasNewtownKolkata,Hindi,21:30,Recliner,199₹,22,0
+Goa,Panaji,ZSquareCineSamratAshokPanaji,Hindi,21:30,Diamond,160₹,17,2
+Goa,Panaji,ZSquareCineSamratAshokPanaji,Hindi,21:30,Gold,150₹,75,0
