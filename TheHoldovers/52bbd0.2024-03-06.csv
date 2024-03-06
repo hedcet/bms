@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Mumbai,PvrDynamixJuhu,English,12:30,Classic,150₹,40,0
+Maharashtra,Mumbai,PvrDynamixJuhu,English,12:30,Prime,150₹,72,15
+Ncr,Noida,PvrSuperplexLogixNoida,English,21:55,Classic,150₹,89,3
+Ncr,GurugramGurgaon,GurugramPvrDirectorSCutAmbienceMall,English,23:35,Platinum,500₹,40,0
+Ncr,GurugramGurgaon,GurugramPvrDirectorSCutAmbienceMall,English,23:35,PlatinumSuperior,500₹,16,0
