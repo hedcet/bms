@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+TamilNadu,Kanchipuram,ArunaCinemasRgbLaser4KAcDolbyAtmos,Tamil,11:00,Platinum,80₹,81,63
+TamilNadu,Kanchipuram,ArunaCinemasRgbLaser4KAcDolbyAtmos,Tamil,11:00,Diamond,80₹,219,1
+TamilNadu,Kanchipuram,ArunaCinemasRgbLaser4KAcDolbyAtmos,Tamil,14:30,Platinum,80₹,81,63
+TamilNadu,Kanchipuram,ArunaCinemasRgbLaser4KAcDolbyAtmos,Tamil,14:30,Diamond,80₹,219,1
+TamilNadu,Kanchipuram,ArunaCinemasRgbLaser4KAcDolbyAtmos,Tamil,18:00,Platinum,80₹,81,63
+TamilNadu,Kanchipuram,ArunaCinemasRgbLaser4KAcDolbyAtmos,Tamil,18:00,Diamond,80₹,219,6
+TamilNadu,Kanchipuram,ArunaCinemasRgbLaser4KAcDolbyAtmos,Tamil,21:30,Platinum,80₹,81,63
+TamilNadu,Kanchipuram,ArunaCinemasRgbLaser4KAcDolbyAtmos,Tamil,21:30,Diamond,80₹,219,0
