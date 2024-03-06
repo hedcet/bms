@@ -1,0 +1,14 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+UttarPradesh,Dhampur,BansalCineplexDhampur,Hindi,12:00,Diamond,150₹,74,0
+Uttarakhand,Kichha,AnupamCineplexKichha,Hindi,12:15,Box,200₹,12,0
+Uttarakhand,Kichha,AnupamCineplexKichha,Hindi,12:15,DiamondRecliner,250₹,17,0
+Uttarakhand,Kichha,AnupamCineplexKichha,Hindi,12:15,RoyalGold,150₹,104,0
+UttarPradesh,Dhampur,BansalCineplexDhampur,Hindi,15:00,Diamond,150₹,74,0
+UttarPradesh,Dhampur,BansalCineplexDhampur,Hindi,18:00,Diamond,150₹,74,0
+Uttarakhand,Kichha,AnupamCineplexKichha,Hindi,18:15,Box,200₹,12,0
+Uttarakhand,Kichha,AnupamCineplexKichha,Hindi,18:15,DiamondRecliner,250₹,17,0
+Uttarakhand,Kichha,AnupamCineplexKichha,Hindi,18:15,RoyalGold,150₹,104,0
+UttarPradesh,Dhampur,BansalCineplexDhampur,Hindi,21:00,Diamond,150₹,74,0
+Uttarakhand,Kichha,AnupamCineplexKichha,Hindi,21:15,Box,200₹,12,0
+Uttarakhand,Kichha,AnupamCineplexKichha,Hindi,21:15,DiamondRecliner,250₹,17,0
+Uttarakhand,Kichha,AnupamCineplexKichha,Hindi,21:15,RoyalGold,150₹,104,0
