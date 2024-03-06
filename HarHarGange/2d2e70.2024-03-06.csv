@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Bihar,Raghopur,JaiRajanCinemaRaghopur,Bhojpuri,11:30,DressCircle,100₹,60,0
+Bihar,Raghopur,JaiRajanCinemaRaghopur,Bhojpuri,11:30,AcClass,120₹,30,0
+WestBengal,Jagatdal,SriKrishnaCinemaGhoshpara,Bhojpuri,14:00,Balcony,70₹,85,0
+WestBengal,Jagatdal,SriKrishnaCinemaGhoshpara,Bhojpuri,14:00,RearStall,50₹,340,0
+Bihar,Raghopur,JaiRajanCinemaRaghopur,Bhojpuri,14:45,DressCircle,100₹,60,0
+Bihar,Raghopur,JaiRajanCinemaRaghopur,Bhojpuri,14:45,AcClass,120₹,30,0
+WestBengal,Jagatdal,SriKrishnaCinemaGhoshpara,Bhojpuri,17:00,Balcony,70₹,85,0
+WestBengal,Jagatdal,SriKrishnaCinemaGhoshpara,Bhojpuri,17:00,RearStall,50₹,340,0
+Bihar,Raghopur,JaiRajanCinemaRaghopur,Bhojpuri,18:00,DressCircle,100₹,60,0
+Bihar,Raghopur,JaiRajanCinemaRaghopur,Bhojpuri,18:00,AcClass,120₹,30,0
