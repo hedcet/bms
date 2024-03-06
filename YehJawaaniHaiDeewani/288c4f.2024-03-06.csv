@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Gujarat,Ahmedabad,PvrAcropolisAhmedabad,Hindi,09:30,Recliner,250₹,11,0
+Gujarat,Ahmedabad,PvrAcropolisAhmedabad,Hindi,09:30,Classic,112₹,42,0
+Gujarat,Ahmedabad,PvrAcropolisAhmedabad,Hindi,09:30,Prime,112₹,42,0
+Gujarat,Ahmedabad,PvrAcropolisAhmedabad,Hindi,09:30,PrimePlus,112₹,70,15
+Gujarat,Ahmedabad,PvrAcropolisAhmedabad,Hindi,12:30,Recliner,250₹,9,2
+Gujarat,Ahmedabad,PvrAcropolisAhmedabad,Hindi,12:30,Classic,112₹,39,0
+Gujarat,Ahmedabad,PvrAcropolisAhmedabad,Hindi,12:30,Prime,112₹,65,0
+Gujarat,Ahmedabad,PvrAcropolisAhmedabad,Hindi,12:30,PrimePlus,112₹,66,15
+Maharashtra,Pune,InoxRoyalHeritageMallNibmExt,Hindi,13:05,RoyaleRecliners,250₹,15,3
+Maharashtra,Pune,InoxRoyalHeritageMallNibmExt,Hindi,13:05,Club,112₹,86,5
+Maharashtra,Pune,InoxRoyalHeritageMallNibmExt,Hindi,13:05,Executive,112₹,26,0
+Maharashtra,Pune,InoxRoyalHeritageMallNibmExt,Hindi,13:05,Royale,112₹,34,24
