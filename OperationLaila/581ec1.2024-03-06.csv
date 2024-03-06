@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+TamilNadu,Nagercoil,ShreeValliTheatreNagercoil,Tamil,11:00,Balcony,120₹,170,0
+TamilNadu,Nagercoil,ShreeValliTheatreNagercoil,Tamil,11:00,FirstClass,100₹,180,0
+TamilNadu,Nagercoil,ShreeValliTheatreNagercoil,Tamil,14:30,Balcony,120₹,170,0
+TamilNadu,Nagercoil,ShreeValliTheatreNagercoil,Tamil,14:30,FirstClass,100₹,180,0
+TamilNadu,Nagercoil,ShreeValliTheatreNagercoil,Tamil,18:30,Balcony,120₹,170,0
+TamilNadu,Nagercoil,ShreeValliTheatreNagercoil,Tamil,18:30,FirstClass,100₹,180,0
+TamilNadu,Nagercoil,ShreeValliTheatreNagercoil,Tamil,22:30,Balcony,120₹,170,0
+TamilNadu,Nagercoil,ShreeValliTheatreNagercoil,Tamil,22:30,FirstClass,100₹,180,0
