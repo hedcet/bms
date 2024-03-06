@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Gujarat,Surat,AppleCinemaJahangirpuraSurat,Gujarati,12:00,Platinum,100₹,101,0
+Gujarat,Surat,TimeCinemaGalaxyCirclePalSurat,Gujarati,12:00,InfinitySofa,150₹,34,0
+Gujarat,Ahmedabad,AbMiniplexShivranjiniCrossRoadSatellite,Gujarati,13:00,UpperSofa,150₹,17,0
+Gujarat,Ahmedabad,AbMiniplexShivranjiniCrossRoadSatellite,Gujarati,13:00,LowerSofa,100₹,27,0
