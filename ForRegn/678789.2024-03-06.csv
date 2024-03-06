@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Karnataka,MysuruMysore,DrcCinemasBmHabitatMall,Kannada,13:40,Premium,160₹,182,12
+Karnataka,MysuruMysore,DrcCinemasBmHabitatMall,Kannada,13:40,Luxury,200₹,19,0
+Karnataka,Bengaluru,PvrGtWorldMallMagadiRoad,Kannada,13:50,Classic,112₹,179,74
+Karnataka,Bengaluru,PvrGtWorldMallMagadiRoad,Kannada,13:50,Recliner,240₹,16,2
+Karnataka,Bengaluru,GopalanCinemasArcadeMallMysoreRoad,Kannada,16:15,Gold,180₹,292,0
+Karnataka,Bengaluru,GopalanCinemasArcadeMallMysoreRoad,Kannada,16:15,Recliner,280₹,19,1
+Karnataka,Bengaluru,GopalanGrandMallOldMadrasRoad,Kannada,16:45,Gold,180₹,148,0
+Karnataka,Bengaluru,MirajCinemasTgnLotusEliteMagadiRoad,Kannada,18:45,Gold,130₹,145,5
+Karnataka,Bengaluru,MirajCinemasTgnLotusEliteMagadiRoad,Kannada,18:45,Silver,110₹,34,9
+Karnataka,Bengaluru,GopalanMallSirsiCircle,Kannada,19:00,Gold,180₹,278,5
+Karnataka,Bengaluru,CinepolisLuluMallBengaluru,Kannada,19:05,Normal,140₹,29,0
+Karnataka,Bengaluru,CinepolisLuluMallBengaluru,Kannada,19:05,Executive,170₹,105,0
+Karnataka,Bengaluru,CinepolisLuluMallBengaluru,Kannada,19:05,Premium,200₹,50,7
+Karnataka,MysuruMysore,MysuruVisionCinemasBehindGrsFantasyPark,Kannada,19:15,Premier,150₹,187,11
