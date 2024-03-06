@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Punjab,Phagwara,PrimeCinemaPhagwara,Telugu,15:40,Silver,150₹,26,0
+Punjab,Phagwara,PrimeCinemaPhagwara,Telugu,15:40,Gold,150₹,104,0
+Punjab,Phagwara,PrimeCinemaPhagwara,Telugu,15:40,Premium,150₹,36,0
