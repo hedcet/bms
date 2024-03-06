@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+UttarPradesh,Badaun,JCPicturePalaceBudaun,Hindi,12:00,Balcony,100₹,168,0
+UttarPradesh,Badaun,JCPicturePalaceBudaun,Hindi,12:00,GoldClass,70₹,308,0
+UttarPradesh,Badaun,JCPicturePalaceBudaun,Hindi,15:00,Balcony,100₹,168,0
+UttarPradesh,Badaun,JCPicturePalaceBudaun,Hindi,15:00,GoldClass,70₹,308,0
+UttarPradesh,Badaun,JCPicturePalaceBudaun,Hindi,18:00,Balcony,100₹,168,0
+UttarPradesh,Badaun,JCPicturePalaceBudaun,Hindi,18:00,GoldClass,70₹,308,0
+UttarPradesh,Badaun,JCPicturePalaceBudaun,Hindi,21:00,Balcony,100₹,168,0
+UttarPradesh,Badaun,JCPicturePalaceBudaun,Hindi,21:00,GoldClass,70₹,308,0
