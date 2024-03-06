@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Telangana,Hyderabad,PvrNextGalleriaMallPanjagutta,Telugu,10:30,Classic,112₹,170,44
+AndhraPradesh,Eluru,SriSatyanarayanaCinemasEluru,Telugu,11:00,Balcony,150₹,202,32
+AndhraPradesh,Eluru,SriSatyanarayanaCinemasEluru,Telugu,11:00,Floor,50₹,40,0
+AndhraPradesh,Eluru,SriSatyanarayanaCinemasEluru,Telugu,14:30,Balcony,150₹,202,16
+AndhraPradesh,Eluru,SriSatyanarayanaCinemasEluru,Telugu,14:30,Floor,50₹,40,7
+AndhraPradesh,Eluru,SriSatyanarayanaCinemasEluru,Telugu,18:30,Balcony,150₹,202,7
+AndhraPradesh,Eluru,SriSatyanarayanaCinemasEluru,Telugu,18:30,Floor,50₹,40,4
+Telangana,Kalluru,LakshmiCinesquareKallur,Telugu,18:30,1Classique,100₹,103,0
+Telangana,Hyderabad,VenkataSaiTheatreAcNewlyRenovatedKeesara,Telugu,21:00,Classic,100₹,282,0
+Telangana,Kalluru,LakshmiCinesquareKallur,Telugu,21:30,1Classique,100₹,103,0
