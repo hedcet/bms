@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Karnataka,Bengaluru,GopalanMallSirsiCircle,Kannada,13:15,Gold,150₹,278,5
+Karnataka,Gulbarga,MirajCinemasGulbarga,Kannada,17:20,Special,110₹,80,0
+Karnataka,Gulbarga,MirajCinemasGulbarga,Kannada,17:20,Executive,110₹,192,10
+Karnataka,Gulbarga,MirajCinemasGulbarga,Kannada,17:20,Gold,200₹,10,0
