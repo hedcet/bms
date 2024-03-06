@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Assam,BarpetaRoad,DilipCinemaBarpetaRoad,Hindi,11:00,DilipCircle,200₹,80,0
+Assam,BarpetaRoad,DilipCinemaBarpetaRoad,Hindi,11:00,DilipPopular,150₹,114,0
+Assam,BarpetaRoad,DilipCinemaBarpetaRoad,Hindi,14:00,DilipCircle,200₹,80,0
+Assam,BarpetaRoad,DilipCinemaBarpetaRoad,Hindi,14:00,DilipPopular,150₹,114,0
+Assam,BarpetaRoad,DilipCinemaBarpetaRoad,Hindi,17:00,DilipCircle,200₹,80,0
+Assam,BarpetaRoad,DilipCinemaBarpetaRoad,Hindi,17:00,DilipPopular,150₹,114,0
