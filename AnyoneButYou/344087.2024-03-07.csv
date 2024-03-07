@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Mumbai,InoxRCityGhatkopar,English,11:20,Insignia,300₹,46,6
+Maharashtra,Mumbai,PvrLuxePhoenixPalladiumLowerParelMumbai,English,11:40,Prime,300₹,20,0
+Maharashtra,Mumbai,PvrLuxePhoenixPalladiumLowerParelMumbai,English,11:40,PrimePlus,300₹,42,2
+Ncr,Delhi,PvrSelectCityWalkHsbcGoldDelhi,English,13:20,Platinum,500₹,24,0
+Ncr,Delhi,PvrSelectCityWalkHsbcGoldDelhi,English,13:20,PlatinumSuperior,500₹,16,5
+Ncr,Noida,PvrSuperplexLogixNoida,English,16:50,Classic,150₹,89,8
