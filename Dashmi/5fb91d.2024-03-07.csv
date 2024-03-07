@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+UttarPradesh,Sitapur,ScmCinemasSitapur,Hindi,21:30,Gold,300₹,11,11
+UttarPradesh,Sitapur,ScmCinemasSitapur,Hindi,21:30,Premium,150₹,58,58
+UttarPradesh,Sitapur,ScmCinemasSitapur,Hindi,21:30,Classic,150₹,91,91
