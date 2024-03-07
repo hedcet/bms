@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,NaviMumbai,CinepolisNexusSeawoodsNaviMumbai,Japanese,14:50,Normal,200₹,49,0
+Maharashtra,NaviMumbai,CinepolisNexusSeawoodsNaviMumbai,Japanese,14:50,Executive,220₹,74,0
+Maharashtra,NaviMumbai,CinepolisNexusSeawoodsNaviMumbai,Japanese,14:50,Premium,240₹,60,0
+Maharashtra,NaviMumbai,CinepolisNexusSeawoodsNaviMumbai,Japanese,14:50,Vip,440₹,14,2
