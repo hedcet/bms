@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kerala,Kottayam,DhanyaRemyaKottayam,Malayalam,11:00,Remya,135₹,251,0
+Kerala,Kozhikode,PalaxiCinemasHiLiteMallKozhikode,Malayalam,12:30,Recliner,300₹,29,0
+Kerala,Kozhikode,PalaxiCinemasHiLiteMallKozhikode,Malayalam,12:30,Premium,150₹,135,1
+Kerala,Kozhikode,PalaxiCinemasHiLiteMallKozhikode,Malayalam,12:30,Executive,100₹,27,1
+Kerala,Kozhikode,PalaxiCinemasHiLiteMallKozhikode,Malayalam,12:30,Lounger,180₹,24,1
+Kerala,Kochi,CinepolisCentreSquareMallKochi,Malayalam,13:15,Normal,140₹,13,0
+Kerala,Kochi,CinepolisCentreSquareMallKochi,Malayalam,13:15,Executive,160₹,26,16
+Kerala,Kochi,CinepolisCentreSquareMallKochi,Malayalam,13:15,Premium,180₹,67,10
+Kerala,Trivandrum,GangaCineHouse4KDolbyAtmosAttingal,Malayalam,14:30,Yamuna,130₹,330,0
+Kerala,Kozhikode,AashirvadCineplexxKozhikode,Malayalam,18:00,Platinum,220₹,27,0
+Kerala,Kozhikode,AashirvadCineplexxKozhikode,Malayalam,18:00,Gold,200₹,54,20
+Kerala,Kollam,DhanyaRemyaKollam,Malayalam,21:00,Platinum,135₹,200,24
