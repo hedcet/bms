@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Karnataka,Bengaluru,PrasannaDigital4KCinemaMagadiRoad,Kannada,10:30,Gold,110₹,355,1
+Karnataka,Bengaluru,PrasannaDigital4KCinemaMagadiRoad,Kannada,10:30,Silver,100₹,748,1
+Karnataka,MysuruMysore,PrabhaTheatreMysuru,Kannada,10:30,Balcony,150₹,209,0
+Karnataka,MysuruMysore,PrabhaTheatreMysuru,Kannada,10:30,SecondClass,100₹,550,5
+Karnataka,Ranebennur,SmartMovizDoomAcCinemaRanebennur,Kannada,11:30,Sofa,175₹,24,0
+Karnataka,Ranebennur,SmartMovizDoomAcCinemaRanebennur,Kannada,11:30,Premium,150₹,39,0
+Karnataka,Ranebennur,SmartMovizDoomAcCinemaRanebennur,Kannada,11:30,Classique,150₹,87,0
+Karnataka,BelagaviBelgaum,PrakashDigital4KCinemaBelagavi,Kannada,12:15,Balcony,100₹,93,0
+Karnataka,BelagaviBelgaum,PrakashDigital4KCinemaBelagavi,Kannada,12:15,Dress,80₹,354,0
+Karnataka,MysuruMysore,PrabhaTheatreMysuru,Kannada,13:30,Balcony,150₹,209,0
+Karnataka,MysuruMysore,PrabhaTheatreMysuru,Kannada,13:30,SecondClass,100₹,550,0
+Karnataka,Ranebennur,SmartMovizDoomAcCinemaRanebennur,Kannada,14:30,Sofa,175₹,24,0
+Karnataka,Ranebennur,SmartMovizDoomAcCinemaRanebennur,Kannada,14:30,Premium,150₹,39,0
+Karnataka,Ranebennur,SmartMovizDoomAcCinemaRanebennur,Kannada,14:30,Classique,150₹,87,0
+Karnataka,BelagaviBelgaum,PrakashDigital4KCinemaBelagavi,Kannada,15:15,Balcony,100₹,93,0
+Karnataka,BelagaviBelgaum,PrakashDigital4KCinemaBelagavi,Kannada,15:15,Dress,80₹,354,0
