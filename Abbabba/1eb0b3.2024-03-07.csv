@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Karnataka,Mangalore,BharathCinemasMangalore,Kannada,10:45,Gold,112₹,47,6
+Karnataka,Mangalore,BharathCinemasMangalore,Kannada,10:45,Silver,112₹,33,0
+Karnataka,Mangalore,BharathCinemasMangalore,Kannada,10:45,Special,112₹,11,0
