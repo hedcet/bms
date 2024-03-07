@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Jalgaon,AshokCinemaJalgaon,Hindi,12:00,Balcony,100₹,189,30
+Maharashtra,Jalgaon,AshokCinemaJalgaon,Hindi,12:00,FClass,50₹,562,50
+Maharashtra,Amravati,PrabhatTalkiesAmravati,Hindi,12:15,Diamond,100₹,139,7
+Maharashtra,Amravati,PrabhatTalkiesAmravati,Hindi,12:15,Gold,80₹,347,48
+Maharashtra,Jalgaon,AshokCinemaJalgaon,Hindi,15:00,Balcony,100₹,189,30
+Maharashtra,Jalgaon,AshokCinemaJalgaon,Hindi,15:00,FClass,50₹,562,50
+Maharashtra,Amravati,PrabhatTalkiesAmravati,Hindi,15:15,Diamond,100₹,139,0
+Maharashtra,Amravati,PrabhatTalkiesAmravati,Hindi,15:15,Gold,80₹,347,51
+Maharashtra,Amravati,PrabhatTalkiesAmravati,Hindi,18:15,Diamond,100₹,139,0
+Maharashtra,Amravati,PrabhatTalkiesAmravati,Hindi,18:15,Gold,80₹,347,47
+Maharashtra,Jalgaon,AshokCinemaJalgaon,Hindi,21:00,Balcony,100₹,189,30
+Maharashtra,Jalgaon,AshokCinemaJalgaon,Hindi,21:00,FClass,50₹,562,50
+Maharashtra,Amravati,PrabhatTalkiesAmravati,Hindi,21:15,Diamond,100₹,139,0
+Maharashtra,Amravati,PrabhatTalkiesAmravati,Hindi,21:15,Gold,80₹,347,47
