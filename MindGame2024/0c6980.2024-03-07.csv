@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+AndhraPradesh,Gudur,VCinemasScreen3Gudur,Telugu,10:30,PremiumClass,100₹,451,47
+AndhraPradesh,Tirupati,PgrCinemasAC4KDolbyAtmosTirupati,Telugu,14:45,Platinum,145₹,352,2
+AndhraPradesh,Tirupati,PgrCinemasAC4KDolbyAtmosTirupati,Telugu,14:45,Gold,100₹,132,3
+AndhraPradesh,Tirupati,PgrCinemasAC4KDolbyAtmosTirupati,Telugu,14:45,Regular,80₹,71,0
+AndhraPradesh,Nellore,RainCinemaNellore,Telugu,15:00,Platinum,200₹,314,56
+AndhraPradesh,Gudur,VCinemasScreen3Gudur,Telugu,18:40,PremiumClass,100₹,451,26
+AndhraPradesh,Nellore,RainCinemaNellore,Telugu,18:50,Platinum,200₹,314,166
+AndhraPradesh,Gudur,VCinemasScreen3Gudur,Telugu,21:40,PremiumClass,100₹,451,27
