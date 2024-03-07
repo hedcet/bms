@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+UttarPradesh,Kanpur,NavrangCineplexKanpur,Hindi,12:30,Gold,100₹,144,36
+UttarPradesh,Kanpur,NavrangCineplexKanpur,Hindi,12:30,Silver,70₹,72,0
+UttarPradesh,Kanpur,NavrangCineplexKanpur,Hindi,15:30,Gold,100₹,144,39
+UttarPradesh,Kanpur,NavrangCineplexKanpur,Hindi,15:30,Silver,70₹,72,0
+UttarPradesh,Kanpur,NavrangCineplexKanpur,Hindi,18:30,Gold,100₹,144,36
+UttarPradesh,Kanpur,NavrangCineplexKanpur,Hindi,18:30,Silver,70₹,72,0
+UttarPradesh,Kanpur,NavrangCineplexKanpur,Hindi,21:30,Gold,100₹,144,36
+UttarPradesh,Kanpur,NavrangCineplexKanpur,Hindi,21:30,Silver,70₹,72,0
