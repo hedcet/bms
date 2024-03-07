@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,KaranjaLad,RamrajyaCineplexKaranjaLad,Marathi,12:00,Premier,120₹,128,80
+Maharashtra,KaranjaLad,RamrajyaCineplexKaranjaLad,Marathi,12:00,Golden,100₹,120,24
+Maharashtra,KaranjaLad,RamrajyaCineplexKaranjaLad,Marathi,15:00,Premier,120₹,128,80
+Maharashtra,KaranjaLad,RamrajyaCineplexKaranjaLad,Marathi,15:00,Golden,100₹,120,24
+Maharashtra,KaranjaLad,RamrajyaCineplexKaranjaLad,Marathi,18:00,Premier,120₹,128,80
+Maharashtra,KaranjaLad,RamrajyaCineplexKaranjaLad,Marathi,18:00,Golden,100₹,120,24
+Maharashtra,KaranjaLad,RamrajyaCineplexKaranjaLad,Marathi,21:00,Premier,120₹,128,80
+Maharashtra,KaranjaLad,RamrajyaCineplexKaranjaLad,Marathi,21:00,Golden,100₹,120,24
