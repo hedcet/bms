@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Ncr,Noida,PvrSuperplexLogixNoida,Hindi,11:00,Classic,112₹,89,0
+Ncr,Gurgaon,PvrAmbienceHsbcGoldGurgaon,Hindi,12:00,Platinum,300₹,28,0
+Ncr,Gurgaon,PvrAmbienceHsbcGoldGurgaon,Hindi,12:00,PlatinumSuperior,300₹,16,10
