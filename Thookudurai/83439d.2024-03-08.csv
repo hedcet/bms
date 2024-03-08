@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+TamilNadu,Vellore,SathuvachariSrinivasaCinemasPksAc4KDolby71,Tamil,11:30,Couple,130₹,20,0
+TamilNadu,Vellore,SathuvachariSrinivasaCinemasPksAc4KDolby71,Tamil,11:30,FirstClass,110₹,354,2
+TamilNadu,Vellore,SathuvachariSrinivasaCinemasPksAc4KDolby71,Tamil,11:30,SecondClass,110₹,46,0
+TamilNadu,Vellore,SathuvachariSrinivasaCinemasPksAc4KDolby71,Tamil,15:00,Couple,130₹,20,2
+TamilNadu,Vellore,SathuvachariSrinivasaCinemasPksAc4KDolby71,Tamil,15:00,FirstClass,110₹,354,0
+TamilNadu,Vellore,SathuvachariSrinivasaCinemasPksAc4KDolby71,Tamil,15:00,SecondClass,110₹,46,0
+TamilNadu,Vellore,SathuvachariSrinivasaCinemasPksAc4KDolby71,Tamil,18:30,Couple,130₹,20,0
+TamilNadu,Vellore,SathuvachariSrinivasaCinemasPksAc4KDolby71,Tamil,18:30,FirstClass,110₹,354,0
+TamilNadu,Vellore,SathuvachariSrinivasaCinemasPksAc4KDolby71,Tamil,18:30,SecondClass,110₹,46,0
+TamilNadu,Vellore,SathuvachariSrinivasaCinemasPksAc4KDolby71,Tamil,22:00,Couple,130₹,20,0
+TamilNadu,Vellore,SathuvachariSrinivasaCinemasPksAc4KDolby71,Tamil,22:00,FirstClass,110₹,354,0
+TamilNadu,Vellore,SathuvachariSrinivasaCinemasPksAc4KDolby71,Tamil,22:00,SecondClass,110₹,46,0
