@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Telangana,Hyderabad,Sudarshan35Mm4KLaserDolbyAtmosRtcXRoads,Telugu,23:55,UpperBalcony,175₹,525,63
+Telangana,Hyderabad,Sudarshan35Mm4KLaserDolbyAtmosRtcXRoads,Telugu,23:55,LowerBalcony,175₹,315,19
+Telangana,Hyderabad,Sudarshan35Mm4KLaserDolbyAtmosRtcXRoads,Telugu,23:55,FirstClass,110₹,124,12
+Telangana,Hyderabad,Sudarshan35Mm4KLaserDolbyAtmosRtcXRoads,Telugu,23:55,SecondClass,55₹,250,39
