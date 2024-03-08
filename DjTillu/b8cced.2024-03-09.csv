@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Telangana,Sircilla,VimalaTheatreSircilla,Telugu,00:00,Gold,110₹,480,40
+Telangana,Hyderabad,MahalaxmiComplexKothapetaHyderabad,Telugu,00:15,Box,150₹,47,26
+Telangana,Hyderabad,MahalaxmiComplexKothapetaHyderabad,Telugu,00:15,Balcony,150₹,493,45
+Telangana,Hyderabad,MahalaxmiComplexKothapetaHyderabad,Telugu,00:15,FirstClass,110₹,110,11
+Telangana,Hyderabad,MahalaxmiComplexKothapetaHyderabad,Telugu,00:15,SecondClass,50₹,127,11
