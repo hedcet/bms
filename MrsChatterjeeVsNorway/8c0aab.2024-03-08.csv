@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Mumbai,MovietimeCubicMallChembur,Hindi,22:00,Gold,100₹,16,0
+Maharashtra,Mumbai,MovietimeCubicMallChembur,Hindi,22:00,Silver,100₹,143,16
+Maharashtra,Mumbai,MovieTimeHubGoregaonE,Hindi,22:00,Gold,100₹,196,21
