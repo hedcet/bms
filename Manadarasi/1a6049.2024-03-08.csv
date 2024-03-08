@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Karnataka,TumakuruTumkur,PrashanthTheatreTumukuru,Kannada,10:30,Balcony,150₹,180,0
+Karnataka,TumakuruTumkur,PrashanthTheatreTumukuru,Kannada,10:30,MiniBalcony,130₹,168,5
+Karnataka,TumakuruTumkur,PrashanthTheatreTumukuru,Kannada,10:30,SecondClass,100₹,378,0
+Karnataka,Bengaluru,MirajCinemasTgnLotusEliteMagadiRoad,Kannada,10:45,Gold,150₹,145,8
+Karnataka,Bengaluru,MirajCinemasTgnLotusEliteMagadiRoad,Kannada,10:45,Silver,130₹,34,0
+Karnataka,TumakuruTumkur,PrashanthTheatreTumukuru,Kannada,13:30,Balcony,150₹,180,9
+Karnataka,TumakuruTumkur,PrashanthTheatreTumukuru,Kannada,13:30,MiniBalcony,130₹,168,2
+Karnataka,TumakuruTumkur,PrashanthTheatreTumukuru,Kannada,13:30,SecondClass,100₹,378,1
