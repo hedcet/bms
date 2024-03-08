@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+WestBengal,Kolkata,NandanKolkata,Bengali,13:00,FrontStall,30₹,111,0
+WestBengal,Kolkata,NandanKolkata,Bengali,13:00,RearStall,50₹,451,8
+WestBengal,Kolkata,NandanKolkata,Bengali,13:00,Balcony,70₹,369,9
+AndhraPradesh,Vizag,InoxVizagChitralayaMall,Bengali,19:40,Executive,177₹,122,10
+Telangana,Hyderabad,InoxGsmMallHyderabad,Bengali,19:50,Royal,250₹,12,4
+Telangana,Hyderabad,InoxGsmMallHyderabad,Bengali,19:50,Executive,112₹,141,8
