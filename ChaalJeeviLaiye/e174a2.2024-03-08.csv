@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Jalgaon,StarMultiplexJalgaon,Gujarati,17:30,Premium,400₹,4,0
+Maharashtra,Jalgaon,StarMultiplexJalgaon,Gujarati,17:30,Luxary,300₹,10,0
+Maharashtra,Jalgaon,StarMultiplexJalgaon,Gujarati,17:30,Comfort,110₹,55,0
+Maharashtra,Jalgaon,StarMultiplexJalgaon,Gujarati,17:30,Classic,80₹,22,0
+Gujarat,Nadiad,CoconutViratMultiplexNadiad,Gujarati,21:30,Platinum,100₹,14,0
+Gujarat,Nadiad,CoconutViratMultiplexNadiad,Gujarati,21:30,Gold,100₹,91,0
