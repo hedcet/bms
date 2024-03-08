@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+TamilNadu,Dharmapuri,DmaxDncTheatresDharmapuri,Tamil,11:00,Couple,180₹,24,0
+TamilNadu,Dharmapuri,DmaxDncTheatresDharmapuri,Tamil,11:00,Premium,150₹,68,0
+TamilNadu,Dharmapuri,DmaxDncTheatresDharmapuri,Tamil,11:00,Economy,150₹,10,0
