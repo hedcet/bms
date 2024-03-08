@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Telangana,Hyderabad,SriKrishna70MmUppal,Telugu,23:45,LowerBalcony,150₹,326,12
+Telangana,Hyderabad,SriKrishna70MmUppal,Telugu,23:45,DressCircle,100₹,316,15
+Telangana,Karimnagar,SriThirumalaTheatreKarimnagar,Telugu,23:55,Balcony,100₹,440,63
+Telangana,Karimnagar,SriThirumalaTheatreKarimnagar,Telugu,23:55,DressCircle,70₹,120,0
