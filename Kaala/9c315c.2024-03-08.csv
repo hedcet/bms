@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+TamilNadu,Chennai,PvrEscapeExpressAvenueMall,Tamil,12:00,Budget,60.12₹,11,11
+TamilNadu,Chennai,PvrEscapeExpressAvenueMall,Tamil,12:00,Elite,120.6₹,99,2
+TamilNadu,Chennai,InoxLuxePhoenixMarketCityVelachery,Tamil,19:05,Elite,139₹,144,32
+TamilNadu,Chennai,InoxLuxePhoenixMarketCityVelachery,Tamil,19:05,Budget,60.12₹,16,16
