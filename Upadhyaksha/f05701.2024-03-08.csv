@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Karnataka,MysuruMysore,SangamDigital2KTheatreDolby71Mysuru,Kannada,10:30,Balcony,150₹,261,0
+Karnataka,MysuruMysore,SangamDigital2KTheatreDolby71Mysuru,Kannada,10:30,FirstClass,100₹,662,0
+Karnataka,Bhadravati,NethravathiACTheatreBhadravati,Kannada,11:30,GoldClass,130₹,175,0
+Karnataka,MysuruMysore,SangamDigital2KTheatreDolby71Mysuru,Kannada,13:30,Balcony,150₹,261,0
+Karnataka,MysuruMysore,SangamDigital2KTheatreDolby71Mysuru,Kannada,13:30,FirstClass,100₹,662,4
+Karnataka,Gulbarga,MirajCinemasGulbarga,Kannada,13:50,Special,130₹,80,0
+Karnataka,Gulbarga,MirajCinemasGulbarga,Kannada,13:50,Executive,150₹,192,0
+Karnataka,Gulbarga,MirajCinemasGulbarga,Kannada,13:50,Gold,300₹,10,0
