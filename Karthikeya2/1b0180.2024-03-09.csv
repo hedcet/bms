@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Telangana,Hyderabad,MahalaxmiComplexKothapetaHyderabad,Telugu,00:15,Balcony,150₹,325,2
+Telangana,Hyderabad,MahalaxmiComplexKothapetaHyderabad,Telugu,00:15,FirstClass,110₹,66,0
+Telangana,Hyderabad,MahalaxmiComplexKothapetaHyderabad,Telugu,00:15,SecondClass,50₹,27,0
