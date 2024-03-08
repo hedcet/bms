@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Mumbai,MaisonInoxJioWorldPlazaBkc,German,15:15,PrimePlus,420₹,88,23
+Maharashtra,Mumbai,MaisonInoxJioWorldPlazaBkc,German,15:15,Prime,330₹,48,0
+Gujarat,Vadodara,PvrNilamberTriumphVadodara,German,16:20,Recliner,300₹,7,1
+Gujarat,Vadodara,PvrNilamberTriumphVadodara,German,16:20,Classic,150₹,33,0
+Gujarat,Vadodara,PvrNilamberTriumphVadodara,German,16:20,Prime,150₹,89,25
+Maharashtra,Mumbai,PvrIconOberoiMallGoregaonE,German,19:00,Recliner,300₹,26,6
+Maharashtra,Mumbai,PvrIconOberoiMallGoregaonE,German,19:00,Classic,150₹,22,0
+Maharashtra,Mumbai,PvrIconOberoiMallGoregaonE,German,19:00,Prime,150₹,96,33
