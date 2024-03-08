@@ -1,0 +1,14 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+AndhraPradesh,Pamarru,SivaCineTheatrePamarru,Telugu,18:00,FirstClass,100₹,177,107
+AndhraPradesh,Pamarru,SivaCineTheatrePamarru,Telugu,18:00,SecondClass,100₹,117,107
+AndhraPradesh,Pamarru,SivaCineTheatrePamarru,Telugu,18:00,ThirdClass,100₹,55,45
+AndhraPradesh,Vijayawada,SwarnaMultiplexVijayawada,Telugu,18:30,Premium,110₹,206,18
+AndhraPradesh,Vijayawada,SwarnaMultiplexVijayawada,Telugu,18:30,Economy,78₹,70,30
+AndhraPradesh,VizagVisakhapatnam,MohiniCinemasDolbyAtmosGajuwaka,Telugu,18:40,Premium,145₹,222,4
+AndhraPradesh,VizagVisakhapatnam,MohiniCinemasDolbyAtmosGajuwaka,Telugu,18:40,NonPremium,100₹,75,0
+AndhraPradesh,Pamarru,SivaCineTheatrePamarru,Telugu,21:00,FirstClass,100₹,177,107
+AndhraPradesh,Pamarru,SivaCineTheatrePamarru,Telugu,21:00,SecondClass,100₹,117,107
+AndhraPradesh,Pamarru,SivaCineTheatrePamarru,Telugu,21:00,ThirdClass,100₹,55,45
+AndhraPradesh,VizagVisakhapatnam,MohiniCinemasDolbyAtmosGajuwaka,Telugu,21:40,Premium,145₹,222,0
+AndhraPradesh,VizagVisakhapatnam,MohiniCinemasDolbyAtmosGajuwaka,Telugu,21:40,NonPremium,100₹,75,0
+AndhraPradesh,Nellore,SiriMultiplexNellore,Telugu,22:00,Gold,100₹,68,0
