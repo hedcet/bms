@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+AndhraPradesh,Gorantla,CtcTheatreGorantla,Telugu,03:15,FirstClass,0₹,117,62
+AndhraPradesh,Gorantla,CtcTheatreGorantla,Telugu,03:15,SecondClass,0₹,106,70
+AndhraPradesh,Gorantla,CtcTheatreGorantla,Telugu,03:15,ThirdClass,0₹,325,306
