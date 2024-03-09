@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+TamilNadu,Thoothukudi,SathyaTheatreTuticorin,Tamil,14:30,FirstClass,50₹,111,1
+TamilNadu,Madurai,PriyaComplexDolbyAtmosMadurai,Tamil,18:30,FirstClass,110₹,300,27
+TamilNadu,Thoothukudi,SathyaTheatreTuticorin,Tamil,18:30,FirstClass,50₹,111,1
+TamilNadu,Thoothukudi,SathyaTheatreTuticorin,Tamil,22:00,FirstClass,50₹,111,1
+TamilNadu,Madurai,PriyaComplexDolbyAtmosMadurai,Tamil,22:30,FirstClass,110₹,300,26
