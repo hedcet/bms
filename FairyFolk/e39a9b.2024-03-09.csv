@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Mumbai,PvrCitiMallAndheriW,Hindi,14:15,Recliner,410₹,24,1
+Maharashtra,Mumbai,PvrCitiMallAndheriW,Hindi,14:15,Prime,220₹,146,62
+Maharashtra,Mumbai,PvrCitiMallAndheriW,Hindi,14:15,Classic,190₹,46,10
+Ncr,Gurgaon,PvrAmbienceGurgaon,Hindi,22:55,ClassicNormal,150₹,105,20
+Ncr,Gurgaon,PvrAmbienceGurgaon,Hindi,22:55,Prime,150₹,62,10
