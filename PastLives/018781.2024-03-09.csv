@@ -1,0 +1,14 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Goa,Goa,InoxOldGmcDbRoadPanaji,English,15:30,Club,150₹,90,6
+Goa,Goa,InoxOldGmcDbRoadPanaji,English,15:30,Executive,150₹,36,0
+Goa,Goa,InoxOldGmcDbRoadPanaji,English,15:30,Royal,150₹,105,18
+Gujarat,Vadodara,PvrNilamberTriumphVadodara,English,16:20,Recliner,300₹,7,0
+Gujarat,Vadodara,PvrNilamberTriumphVadodara,English,16:20,Classic,150₹,33,0
+Gujarat,Vadodara,PvrNilamberTriumphVadodara,English,16:20,Prime,150₹,89,15
+Gujarat,Vadodara,PvrNilamberTriumphVadodara,English,16:50,Recliner,300₹,7,2
+Gujarat,Vadodara,PvrNilamberTriumphVadodara,English,16:50,Classic,150₹,33,0
+Gujarat,Vadodara,PvrNilamberTriumphVadodara,English,16:50,Prime,150₹,89,20
+Maharashtra,Mumbai,MetroInoxCinemasMarineLines,English,19:10,Kiddles,170₹,45,25
+Maharashtra,NaviMumbai,InoxRaghuleelaMallVashi,English,22:30,Executive,150₹,22,4
+Maharashtra,NaviMumbai,InoxRaghuleelaMallVashi,English,22:30,Premier,150₹,89,7
+Maharashtra,NaviMumbai,InoxRaghuleelaMallVashi,English,22:30,Silver,150₹,32,15
