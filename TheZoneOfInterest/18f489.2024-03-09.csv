@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Pune,PvrIconThePavillionPune,German,16:15,Recliner,300₹,8,3
+Maharashtra,Pune,PvrIconThePavillionPune,German,16:15,Classic,150₹,28,0
+Maharashtra,Pune,PvrIconThePavillionPune,German,16:15,Prime,150₹,148,26
+Maharashtra,Mumbai,PvrLuxeMarketCityKurlaMumbai,German,18:45,GoldStar,500₹,36,36
+Maharashtra,Mumbai,PvrLuxeMarketCityKurlaMumbai,German,18:45,GoldPremium,500₹,24,18
+Maharashtra,Mumbai,InoxMegaplexInorbitMallMalad,German,22:45,Kiddles,150₹,57,49
