@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Gujarat,Ahmedabad,DeviMultiplexNaroda,Gujarati,15:30,Platinum,100₹,173,161
+Gujarat,Ahmedabad,DeviMultiplexNaroda,Gujarati,15:30,Gold,100₹,281,128
+Gujarat,Ahmedabad,DeviMultiplexNaroda,Gujarati,15:30,Silver,100₹,58,0
