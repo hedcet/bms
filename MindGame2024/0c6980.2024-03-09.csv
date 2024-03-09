@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+AndhraPradesh,Gudur,VCinemasScreen3Gudur,Telugu,10:30,PremiumClass,100₹,451,26
+AndhraPradesh,Gudur,VCinemasScreen3Gudur,Telugu,13:30,PremiumClass,100₹,451,32
+AndhraPradesh,Nellore,RainCinemaNellore,Telugu,14:50,Premium,150₹,302,56
+AndhraPradesh,Nellore,RainCinemaNellore,Telugu,14:50,Popular,112₹,79,0
+AndhraPradesh,Gudur,VCinemasScreen3Gudur,Telugu,18:40,PremiumClass,100₹,451,26
+AndhraPradesh,Gudur,VCinemasScreen3Gudur,Telugu,21:40,PremiumClass,100₹,451,26
