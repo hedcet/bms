@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Gujarat,Vadodara,PvrTransCubeVadodara,Hindi,17:50,Recliner,250₹,8,0
+Gujarat,Vadodara,PvrTransCubeVadodara,Hindi,17:50,Classic,112₹,39,0
+Gujarat,Vadodara,PvrTransCubeVadodara,Hindi,17:50,Prime,112₹,90,4
