@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Karnataka,Mangalore,BharathCinemasMangalore,Kannada,19:45,Gold,150₹,43,37
+Karnataka,Mangalore,BharathCinemasMangalore,Kannada,19:45,Silver,150₹,20,0
+Karnataka,Mangalore,BharathCinemasMangalore,Kannada,19:45,Special,150₹,7,0
+Karnataka,Bengaluru,PvrGtWorldMallMagadiRoad,Kannada,22:30,Classic,210₹,179,0
+Karnataka,Bengaluru,PvrGtWorldMallMagadiRoad,Kannada,22:30,Recliner,360₹,16,0
