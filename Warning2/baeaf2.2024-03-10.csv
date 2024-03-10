@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Punjab,Amritsar,InoxVrAmbarsarAmritsar,Punjabi,09:30,Normal,112₹,167,14
+Punjab,Amritsar,PvrSctAmritsar,Punjabi,10:45,Classic,112₹,12,0
+Punjab,Amritsar,PvrSctAmritsar,Punjabi,10:45,Prime,112₹,40,2
+Punjab,Mohali,PvrVrPunjabMallMohali,Punjabi,11:00,Classic,112₹,60,0
+Punjab,Mohali,PvrVrPunjabMallMohali,Punjabi,11:00,ClassicPlus,112₹,60,0
+Punjab,Mohali,PvrVrPunjabMallMohali,Punjabi,11:00,Prime,112₹,42,10
+Rajasthan,SriGanganagar,PvrRidhiSidhiMallSriGanganagar,Punjabi,12:40,Classic,150₹,39,0
+Rajasthan,SriGanganagar,PvrRidhiSidhiMallSriGanganagar,Punjabi,12:40,Prime,150₹,90,13
+Punjab,Ludhiana,PvrPavilionLudhiana,Punjabi,15:55,Classic,150₹,124,48
