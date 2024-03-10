@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Karnataka,MysuruMysore,DrcCinemasBmHabitatMall,Kannada,13:15,Premium,160₹,182,41
+Karnataka,MysuruMysore,DrcCinemasBmHabitatMall,Kannada,13:15,Luxury,200₹,19,15
+Karnataka,Bengaluru,VeereshCinemasMagadiRoad,Kannada,13:15,Balcony,110₹,270,38
+Karnataka,Bengaluru,VeereshCinemasMagadiRoad,Kannada,16:15,Balcony,110₹,270,58
+Karnataka,Bengaluru,CinepolisBinnypetMall,Kannada,18:25,Executive,210₹,69,16
+Karnataka,Bengaluru,CinepolisBinnypetMall,Kannada,18:25,Premium,210₹,42,28
