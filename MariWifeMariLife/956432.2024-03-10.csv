@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Gujarat,Ahmedabad,19CinemaSouthBopalAhmedabad,Gujarati,09:25,Platinum,100₹,18,5
+Gujarat,Ahmedabad,19CinemaSouthBopalAhmedabad,Gujarati,09:25,Gold,100₹,32,0
+Gujarat,Ahmedabad,19CinemaSouthBopalAhmedabad,Gujarati,09:25,Silver,100₹,16,0
+Gujarat,Ahmedabad,19CinemaSanandAhmedabad,Gujarati,09:30,ReclinerBed,100₹,20,5
+Gujarat,Ahmedabad,19CinemaSanandAhmedabad,Gujarati,09:30,PremiumSofa,100₹,34,0
+Gujarat,Ahmedabad,19CinemaSanandAhmedabad,Gujarati,09:30,Standard,100₹,20,0
