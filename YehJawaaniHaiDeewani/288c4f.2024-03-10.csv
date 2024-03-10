@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Gujarat,Ahmedabad,PvrAcropolisAhmedabad,Hindi,09:30,Recliner,250₹,11,1
+Gujarat,Ahmedabad,PvrAcropolisAhmedabad,Hindi,09:30,Classic,112₹,42,0
+Gujarat,Ahmedabad,PvrAcropolisAhmedabad,Hindi,09:30,Prime,112₹,42,2
+Gujarat,Ahmedabad,PvrAcropolisAhmedabad,Hindi,09:30,PrimePlus,112₹,70,17
