@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Mumbai,InoxRCityGhatkopar,English,09:15,RoyalRecliner,300₹,16,1
+Maharashtra,Mumbai,InoxRCityGhatkopar,English,09:15,Club,150₹,80,2
+Maharashtra,Mumbai,InoxRCityGhatkopar,English,09:15,Royal,150₹,57,10
+Maharashtra,Mumbai,InoxRCityGhatkopar,English,09:15,Executive,130₹,47,0
+Ncr,GurugramGurgaon,PvrMgfGurgaon,English,10:05,Classic,390₹,96,0
+Ncr,Delhi,PvrVegasDwarka,English,12:00,Recliner,300₹,8,2
+Ncr,Delhi,PvrVegasDwarka,English,12:00,Prime,250₹,21,9
+Ncr,Delhi,PvrVegasDwarka,English,12:00,Classic,250₹,36,0
+Maharashtra,Mumbai,InoxMegaplexInorbitMallMalad,English,13:40,Kiddles,180₹,57,48
+Ncr,GurugramGurgaon,CinepolisAiriaMallSohnaRoadGurgaon,English,15:20,Normal,220₹,30,20
+Ncr,GurugramGurgaon,CinepolisAiriaMallSohnaRoadGurgaon,English,15:20,DoubleSofa,260₹,24,16
+Ncr,GurugramGurgaon,CinepolisAiriaMallSohnaRoadGurgaon,English,15:20,Lounger,240₹,8,0
+Telangana,Hyderabad,PvrNextGalleriaMallPanjagutta,English,19:20,Classic,149₹,54,36
+Ncr,Noida,PvrSuperplexLogixNoida,English,20:30,Classic,240₹,49,9
