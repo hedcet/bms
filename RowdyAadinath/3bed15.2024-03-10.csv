@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Chandrapur,RajkalaCineplexChandrapur,Hindi,12:15,Platinum,100₹,181,57
+Maharashtra,Chandrapur,RajkalaCineplexChandrapur,Hindi,12:15,Gold,100₹,190,48
+Maharashtra,Chandrapur,RajkalaCineplexChandrapur,Hindi,15:15,Platinum,100₹,181,57
+Maharashtra,Chandrapur,RajkalaCineplexChandrapur,Hindi,15:15,Gold,100₹,190,48
+Maharashtra,Chandrapur,RajkalaCineplexChandrapur,Hindi,18:15,Platinum,100₹,181,55
+Maharashtra,Chandrapur,RajkalaCineplexChandrapur,Hindi,18:15,Gold,100₹,190,48
+Maharashtra,Chandrapur,RajkalaCineplexChandrapur,Hindi,21:15,Platinum,100₹,181,55
+Maharashtra,Chandrapur,RajkalaCineplexChandrapur,Hindi,21:15,Gold,100₹,190,48
