@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Karnataka,PutturKarnataka,BharathCinemasPuttur,Kannada,16:30,Gold,150₹,102,22
+Karnataka,PutturKarnataka,BharathCinemasPuttur,Kannada,16:30,Silver,150₹,60,0
+Karnataka,PutturKarnataka,BharathCinemasPuttur,Kannada,16:30,Special,150₹,15,0
+Karnataka,Mangalore,BharathCinemasMangalore,Kannada,17:00,Gold,150₹,43,35
+Karnataka,Mangalore,BharathCinemasMangalore,Kannada,17:00,Silver,150₹,20,0
+Karnataka,Mangalore,BharathCinemasMangalore,Kannada,17:00,Special,150₹,7,0
