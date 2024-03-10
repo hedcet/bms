@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+UttarPradesh,Ghazipur,AvStarCinemaGhazipur,Hindi,10:15,Diamond,150₹,37,0
+UttarPradesh,Ghazipur,AvStarCinemaGhazipur,Hindi,10:15,Gold,130₹,73,0
+UttarPradesh,Ghazipur,AvStarCinemaGhazipur,Hindi,10:15,Silver,100₹,130,0
