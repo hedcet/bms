@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+TamilNadu,Chennai,PvrHeritageRslEcrChennai,Tamil,11:35,Prime,125.93₹,119,6
+TamilNadu,Chennai,PvrHeritageRslEcrChennai,Tamil,11:35,Classic,59.61₹,15,1
+TamilNadu,Chennai,PvrEscapeExpressAvenueMall,Tamil,12:00,Budget,59.61₹,11,11
+TamilNadu,Chennai,PvrEscapeExpressAvenueMall,Tamil,12:00,Elite,119.53₹,99,33
+TamilNadu,Chennai,InoxLuxePhoenixMarketCityVelachery,Tamil,19:05,Elite,139₹,144,65
+TamilNadu,Chennai,InoxLuxePhoenixMarketCityVelachery,Tamil,19:05,Budget,59.61₹,16,16
