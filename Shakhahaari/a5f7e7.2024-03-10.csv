@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Pune,InoxElproCitySquareChinchwad,Kannada,16:40,Club,150₹,78,74
+Maharashtra,Pune,InoxElproCitySquareChinchwad,Kannada,16:40,Executive,150₹,26,0
+Maharashtra,Pune,InoxElproCitySquareChinchwad,Kannada,16:40,Royale,150₹,53,45
+Karnataka,Bengaluru,CinepolisLuluMallBengaluru,Kannada,19:25,Normal,230₹,29,0
+Karnataka,Bengaluru,CinepolisLuluMallBengaluru,Kannada,19:25,Executive,250₹,75,21
+Karnataka,Bengaluru,CinepolisLuluMallBengaluru,Kannada,19:25,Premium,270₹,76,32
