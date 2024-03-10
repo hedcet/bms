@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kerala,Kozhikode,AashirvadCineplexxKozhikode,Malayalam,14:00,Platinum,220₹,27,5
+Kerala,Kozhikode,AashirvadCineplexxKozhikode,Malayalam,14:00,Gold,200₹,54,30
+Kerala,Kochi,CinepolisCentreSquareMallKochi,Malayalam,20:10,Normal,140₹,20,3
+Kerala,Kochi,CinepolisCentreSquareMallKochi,Malayalam,20:10,Executive,160₹,43,22
+Kerala,Kochi,CinepolisCentreSquareMallKochi,Malayalam,20:10,Premium,190₹,44,18
