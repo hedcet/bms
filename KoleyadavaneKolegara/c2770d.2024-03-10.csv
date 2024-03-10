@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Karnataka,Bengaluru,GopalanMiniplexSignatureMallOldMadrasRoad,Kannada,12:00,Gold,180₹,65,0
+Karnataka,Arsikere,MahavirTalkiesMuddebihal,Kannada,12:00,DressCircle,101₹,441,160
+Karnataka,Arsikere,MahavirTalkiesMuddebihal,Kannada,15:00,DressCircle,101₹,441,160
+Karnataka,Bengaluru,GopalanMallSirsiCircle,Kannada,15:00,Gold,200₹,278,5
+Karnataka,Bengaluru,PvrVaishnaviSapphireMallYeshwanthpur,Kannada,15:40,Classic,210₹,85,7
+Karnataka,Bengaluru,PvrVaishnaviSapphireMallYeshwanthpur,Kannada,15:40,Prime,230₹,37,10
+Karnataka,Bengaluru,PvrVaishnaviSapphireMallYeshwanthpur,Kannada,15:40,Recliner,360₹,13,0
+Karnataka,Arsikere,MahavirTalkiesMuddebihal,Kannada,18:00,DressCircle,101₹,441,160
+Karnataka,Arsikere,MahavirTalkiesMuddebihal,Kannada,21:00,DressCircle,101₹,441,160
