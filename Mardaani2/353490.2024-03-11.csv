@@ -1,0 +1,14 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Haryana,Bahadurgarh,MovietimeBahadurgarh,Hindi,12:45,Silver,99₹,119,0
+Haryana,Bahadurgarh,MovietimeBahadurgarh,Hindi,12:45,Gold,99₹,39,0
+Haryana,Bahadurgarh,MovietimeBahadurgarh,Hindi,12:45,Platinum,150₹,13,2
+Haryana,Karnal,MovietimeKarnal,Hindi,15:10,Gold,99₹,98,1
+Haryana,Karnal,MovietimeKarnal,Hindi,15:10,Silver,99₹,44,0
+Haryana,Karnal,MovietimeKarnal,Hindi,15:10,Normal,99₹,42,0
+Uttarakhand,Rudrapur,MovietimeRudrapur,Hindi,15:20,Premier,112₹,153,0
+Uttarakhand,Rudrapur,MovietimeRudrapur,Hindi,15:20,Standara,112₹,38,0
+Uttarakhand,Rudrapur,MovietimeRudrapur,Hindi,15:20,Star,112₹,114,0
+Ncr,Delhi,MovietimePitampura,Hindi,15:35,Platinum,99₹,242,7
+Ncr,Delhi,MovietimePitampura,Hindi,15:35,Premier,99₹,51,0
+JammuAndKashmir,Jammu,MovietimeJammu,Hindi,17:55,Silver,112₹,91,0
+JammuAndKashmir,Jammu,MovietimeJammu,Hindi,17:55,Classic,112₹,70,10
