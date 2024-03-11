@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Mumbai,InoxRCityGhatkopar,German,15:20,Insignia,470₹,46,4
+Maharashtra,Pune,PvrIconThePavillionPune,German,17:20,Recliner,250₹,8,0
+Maharashtra,Pune,PvrIconThePavillionPune,German,17:20,Classic,112₹,28,0
+Maharashtra,Pune,PvrIconThePavillionPune,German,17:20,Prime,112₹,148,3
+Maharashtra,Mumbai,InoxMegaplexInorbitMallMalad,German,22:50,Kiddles,112₹,57,20
