@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Mumbai,PvrMarketCityKurlaPremiere,Hindi,12:35,Classic,112₹,90,0
+Maharashtra,Mumbai,PvrMarketCityKurlaPremiere,Hindi,12:35,Prime,112₹,117,0
+Maharashtra,Pune,InoxMegaplexPhoenixMallOfTheMillennium,Hindi,12:40,Classic,112₹,24,0
+Maharashtra,Pune,InoxMegaplexPhoenixMallOfTheMillennium,Hindi,12:40,Prime,112₹,86,8
+Ncr,Delhi,PvrPromenadeVasantKunj,Hindi,15:55,Classic,112₹,130,14
+Ncr,Delhi,PvrPromenadeVasantKunj,Hindi,15:55,Prime,112₹,22,12
