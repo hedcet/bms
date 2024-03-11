@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Kopargaon,KCineplexKopargaon,Marathi,21:45,Platinum,150₹,26,4
+Maharashtra,Kopargaon,KCineplexKopargaon,Marathi,21:45,Gold,150₹,30,0
+Maharashtra,Kopargaon,KCineplexKopargaon,Marathi,21:45,Silver,150₹,35,0
