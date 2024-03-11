@@ -1,0 +1,14 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Gujarat,Anand,GoldCinemaAnand,Gujarati,10:30,Platinum,100₹,19,0
+Gujarat,Anand,GoldCinemaAnand,Gujarati,10:30,Diamond,100₹,80,0
+Gujarat,Anand,GoldCinemaAnand,Gujarati,13:15,Platinum,110₹,19,0
+Gujarat,Anand,GoldCinemaAnand,Gujarati,13:15,Diamond,110₹,80,0
+Gujarat,Ahmedabad,AbMiniplexShivranjiniCrossRoadSatellite,Gujarati,13:30,CoupleBed,150₹,18,8
+Gujarat,Ahmedabad,KSeraSeraSgHighway,Gujarati,15:30,Gold,150₹,16,0
+Gujarat,Ahmedabad,KSeraSeraSgHighway,Gujarati,15:30,Silver,112₹,60,0
+Gujarat,Anand,GoldCinemaAnand,Gujarati,15:40,Platinum,110₹,19,0
+Gujarat,Anand,GoldCinemaAnand,Gujarati,15:40,Diamond,110₹,80,0
+Gujarat,Anand,ShaanCinema9ScreenMultiplexAnand,Gujarati,16:45,Premium,100₹,142,1
+Gujarat,Anand,ShaanCinema9ScreenMultiplexAnand,Gujarati,16:45,Executive,100₹,32,0
+Gujarat,Anand,GoldCinemaAnand,Gujarati,21:30,Platinum,110₹,19,6
+Gujarat,Anand,GoldCinemaAnand,Gujarati,21:30,Diamond,110₹,80,0
