@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Telangana,Hyderabad,MahalaxmiComplexKothapetaHyderabad,Telugu,11:15,Balcony,150₹,325,1
+Telangana,Hyderabad,MahalaxmiComplexKothapetaHyderabad,Telugu,11:15,FirstClass,110₹,66,0
+Telangana,Hyderabad,MahalaxmiComplexKothapetaHyderabad,Telugu,11:15,SecondClass,50₹,27,0
+AndhraPradesh,Vijayawada,SwarnaMultiplexVijayawada,Telugu,11:30,Premium,110₹,242,24
+AndhraPradesh,Vijayawada,SwarnaMultiplexVijayawada,Telugu,11:30,Economy,78₹,80,16
+AndhraPradesh,Kakinada,InoxSrmtMallKakinada,Telugu,13:05,Executive,112₹,146,15
+AndhraPradesh,Vijayawada,SwarnaMultiplexVijayawada,Telugu,14:45,Premium,110₹,242,22
+AndhraPradesh,Vijayawada,SwarnaMultiplexVijayawada,Telugu,14:45,Economy,78₹,80,21
+Telangana,Hyderabad,MahalaxmiComplexKothapetaHyderabad,Telugu,18:15,Balcony,150₹,325,0
+Telangana,Hyderabad,MahalaxmiComplexKothapetaHyderabad,Telugu,18:15,FirstClass,110₹,66,0
+Telangana,Hyderabad,MahalaxmiComplexKothapetaHyderabad,Telugu,18:15,SecondClass,50₹,27,0
+AndhraPradesh,Vijayawada,SwarnaMultiplexVijayawada,Telugu,18:30,Premium,110₹,242,22
+AndhraPradesh,Vijayawada,SwarnaMultiplexVijayawada,Telugu,18:30,Economy,78₹,80,16
+AndhraPradesh,Kakinada,InoxSrmtMallKakinada,Telugu,19:00,Executive,112₹,146,26
+AndhraPradesh,Vijayawada,SwarnaMultiplexVijayawada,Telugu,22:00,Premium,110₹,242,22
+AndhraPradesh,Vijayawada,SwarnaMultiplexVijayawada,Telugu,22:00,Economy,78₹,80,16
