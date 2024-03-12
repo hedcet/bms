@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Mumbai,InoxMegaplexInorbitMallMalad,English,09:10,Kiddles,150₹,57,8
+TamilNadu,Chennai,PvrHeritageRslEcrChennai,English,12:45,Prime,194₹,67,24
+TamilNadu,Chennai,PvrHeritageRslEcrChennai,English,12:45,Classic,101.3₹,8,8
+Karnataka,Bengaluru,CinepolisNexusShantiniketanBengaluru,English,14:45,Normal,175₹,69,1
+Karnataka,Bengaluru,CinepolisNexusShantiniketanBengaluru,English,14:45,DoubleSofa,260₹,24,4
+Karnataka,Bengaluru,CinepolisNexusShantiniketanBengaluru,English,14:45,Lounger,210₹,9,0
+Karnataka,Bengaluru,CinepolisNexusShantiniketanBengaluru,English,14:45,SingleSofa,230₹,6,1
+Ncr,Noida,PvrSuperplexLogixNoida,English,18:20,Classic,200₹,49,0
+TamilNadu,Chennai,PvrHeritageRslEcrChennai,English,18:40,Prime,194₹,67,29
+TamilNadu,Chennai,PvrHeritageRslEcrChennai,English,18:40,Classic,101.3₹,8,0
+TamilNadu,Chennai,PvrHeritageRslEcrChennai,English,21:00,Prime,194₹,67,13
+TamilNadu,Chennai,PvrHeritageRslEcrChennai,English,21:00,Classic,101.3₹,8,8
