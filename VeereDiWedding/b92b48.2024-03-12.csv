@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Rajasthan,Jaipur,InoxGtCentralMallJaipur,Hindi,11:10,Executive,150₹,20,2
+Rajasthan,Jaipur,InoxGtCentralMallJaipur,Hindi,11:10,Royale,150₹,44,7
+Maharashtra,Mumbai,MaisonInoxJioWorldPlazaBkc,Hindi,11:50,PrimePlus,112₹,105,16
+Maharashtra,Mumbai,MaisonInoxJioWorldPlazaBkc,Hindi,11:50,Prime,112₹,35,1
+Maharashtra,Pune,InoxRoyalHeritageMallNibmExt,Hindi,16:15,RoyaleRecliners,250₹,15,2
+Maharashtra,Pune,InoxRoyalHeritageMallNibmExt,Hindi,16:15,Club,112₹,36,0
+Maharashtra,Pune,InoxRoyalHeritageMallNibmExt,Hindi,16:15,Executive,112₹,24,1
+Maharashtra,Pune,InoxRoyalHeritageMallNibmExt,Hindi,16:15,Royale,112₹,48,6
