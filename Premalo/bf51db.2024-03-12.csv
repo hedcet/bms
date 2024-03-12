@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Telangana,Hyderabad,InoxGsmMallHyderabad,Telugu,11:45,Royal,300₹,11,4
+Telangana,Hyderabad,InoxGsmMallHyderabad,Telugu,11:45,Executive,200₹,141,4
+Telangana,Hyderabad,InoxGsmMallHyderabad,Telugu,15:00,Royal,300₹,11,4
+Telangana,Hyderabad,InoxGsmMallHyderabad,Telugu,15:00,Executive,200₹,141,4
+Telangana,Hyderabad,InoxGsmMallHyderabad,Telugu,18:15,Royal,300₹,11,4
+Telangana,Hyderabad,InoxGsmMallHyderabad,Telugu,18:15,Executive,200₹,141,4
+Telangana,Hyderabad,InoxGsmMallHyderabad,Telugu,21:30,Royal,300₹,11,4
+Telangana,Hyderabad,InoxGsmMallHyderabad,Telugu,21:30,Executive,200₹,141,4
