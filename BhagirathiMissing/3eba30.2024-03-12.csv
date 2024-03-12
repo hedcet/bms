@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Pune,AbhiruchiCityPrideSinhagadRoad,Marathi,12:30,RoyalSofa,200₹,12,0
+Maharashtra,Pune,AbhiruchiCityPrideSinhagadRoad,Marathi,12:30,RoyalGold,150₹,123,38
+Maharashtra,Pune,AbhiruchiCityPrideSinhagadRoad,Marathi,12:30,RoyalSilver,130₹,30,0
+Maharashtra,Pune,VaibhavChitramandirHadapsar,Marathi,14:45,Gold,100₹,142,0
+Maharashtra,Mumbai,MovieTimeHubGoregaonE,Marathi,15:45,Gold,130₹,63,9
+Maharashtra,Pune,CityPrideKothrud,Marathi,15:45,RoyalGold,170₹,149,31
+Maharashtra,Pune,CityPrideKothrud,Marathi,15:45,RoyalSilver,150₹,22,0
+Maharashtra,Ahmednagar,AshaSquareMultiplexAhmednagar,Marathi,18:15,GoldenClass,99₹,342,0
+Maharashtra,Pune,CityPrideMangalaCinema,Marathi,19:30,RoyalGold,160₹,133,51
+Maharashtra,Pune,CityPrideMangalaCinema,Marathi,19:30,RoyalSilver,140₹,57,0
