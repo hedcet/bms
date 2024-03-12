@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Mumbai,PvrDynamixJuhu,English,16:00,Classic,112₹,40,0
+Maharashtra,Mumbai,PvrDynamixJuhu,English,16:00,Prime,112₹,72,25
+Maharashtra,Mumbai,MetroInoxCinemasMarineLines,English,22:00,Club,112₹,144,1
+Maharashtra,Mumbai,MetroInoxCinemasMarineLines,English,22:00,Executive,112₹,36,0
+Maharashtra,Mumbai,MetroInoxCinemasMarineLines,English,22:00,Royale,112₹,57,19
+Maharashtra,Mumbai,InoxInsigniaAtAtriaMallWorli,English,22:15,Insignia,700₹,30,16
+Maharashtra,Mumbai,InoxRCityGhatkopar,English,22:15,Insignia,470₹,46,4
+Maharashtra,Mumbai,InoxMegaplexInorbitMallMalad,English,22:45,Kiddles,112₹,57,19
