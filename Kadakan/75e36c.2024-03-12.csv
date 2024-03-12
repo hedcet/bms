@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kerala,Kochi,CinepolisCentreSquareMallKochi,Malayalam,09:40,Normal,100₹,13,13
+Kerala,Kochi,CinepolisCentreSquareMallKochi,Malayalam,09:40,Executive,130₹,26,26
+Kerala,Kochi,CinepolisCentreSquareMallKochi,Malayalam,09:40,Premium,150₹,67,67
+Kerala,Kasaragod,MoviemaxCircleKasaragod,Malayalam,10:30,Max2,129.8₹,195,0
+Kerala,Vadakara,One2OnePlusFilmCity4K3DDolbyAtmosVadakara,Malayalam,11:00,Screen2,129.8₹,164,0
+Kerala,Manjeri,SreedeviCinePalaceManjeri,Malayalam,14:30,Gopalakrishna,150₹,157,114
+Kerala,Kochi,CinepolisCentreSquareMallKochi,Malayalam,15:15,Normal,140₹,13,0
+Kerala,Kochi,CinepolisCentreSquareMallKochi,Malayalam,15:15,Executive,160₹,26,0
+Kerala,Kochi,CinepolisCentreSquareMallKochi,Malayalam,15:15,Premium,180₹,67,3
+Kerala,Kasaragod,MoviemaxCircleKasaragod,Malayalam,19:30,Max2,129.8₹,195,0
