@@ -1,0 +1,8 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Gujarat,Nadiad,CoconutViratMultiplexNadiad,Gujarati,12:30,Platinum,100₹,14,0
+Gujarat,Nadiad,CoconutViratMultiplexNadiad,Gujarati,12:30,Gold,100₹,91,0
+Gujarat,Surat,TimeCinemaGalaxyCirclePalSurat,Gujarati,15:00,InfinitySofa,150₹,34,0
+Maharashtra,Jalgaon,StarMultiplexJalgaon,Gujarati,17:35,Premium,400₹,4,0
+Maharashtra,Jalgaon,StarMultiplexJalgaon,Gujarati,17:35,Luxary,300₹,10,0
+Maharashtra,Jalgaon,StarMultiplexJalgaon,Gujarati,17:35,Comfort,80₹,55,0
+Maharashtra,Jalgaon,StarMultiplexJalgaon,Gujarati,17:35,Classic,80₹,22,0
