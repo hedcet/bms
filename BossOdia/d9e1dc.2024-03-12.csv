@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Odisha,Rourkela,PvrForumMallRourkela,Odia,12:05,Classic,150₹,28,0
+Odisha,Rourkela,PvrForumMallRourkela,Odia,12:05,PrimePlus,150₹,12,0
+Odisha,Rourkela,PvrForumMallRourkela,Odia,12:05,Prime,150₹,98,14
+Odisha,Bhubaneswar,InoxDnRegaliaMall,Odia,12:50,Club,160₹,50,0
+Odisha,Bhubaneswar,InoxDnRegaliaMall,Odia,12:50,Executive,160₹,20,0
+Odisha,Bhubaneswar,InoxDnRegaliaMall,Odia,12:50,Royal,160₹,69,10
