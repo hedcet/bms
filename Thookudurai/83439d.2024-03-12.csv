@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+TamilNadu,Kambainallur,TmsTheatreKambainallur,Tamil,10:30,FirstClass,50₹,149,40
+TamilNadu,Kambainallur,TmsTheatreKambainallur,Tamil,10:30,SecondClass,50₹,92,82
+TamilNadu,Kambainallur,TmsTheatreKambainallur,Tamil,10:30,ThirdClass,50₹,138,128
+TamilNadu,Kambainallur,TmsTheatreKambainallur,Tamil,14:15,FirstClass,50₹,149,40
+TamilNadu,Kambainallur,TmsTheatreKambainallur,Tamil,14:15,SecondClass,50₹,92,82
+TamilNadu,Kambainallur,TmsTheatreKambainallur,Tamil,14:15,ThirdClass,50₹,138,128
+TamilNadu,Kambainallur,TmsTheatreKambainallur,Tamil,18:00,FirstClass,50₹,149,40
+TamilNadu,Kambainallur,TmsTheatreKambainallur,Tamil,18:00,SecondClass,50₹,92,82
+TamilNadu,Kambainallur,TmsTheatreKambainallur,Tamil,18:00,ThirdClass,50₹,138,128
+TamilNadu,Kambainallur,TmsTheatreKambainallur,Tamil,21:00,FirstClass,50₹,149,40
+TamilNadu,Kambainallur,TmsTheatreKambainallur,Tamil,21:00,SecondClass,50₹,92,82
+TamilNadu,Kambainallur,TmsTheatreKambainallur,Tamil,21:00,ThirdClass,50₹,138,128
