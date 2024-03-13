@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+TamilNadu,Coimbatore,KarpagamTheatres4KDolbyAtmosCoimbatore,Tamil,10:45,FirstClass,90₹,381,5
+TamilNadu,Coimbatore,KarpagamTheatres4KDolbyAtmosCoimbatore,Tamil,10:45,Balcony,90₹,45,16
+TamilNadu,Coimbatore,KarpagamTheatres4KDolbyAtmosCoimbatore,Tamil,14:45,FirstClass,90₹,381,34
+TamilNadu,Coimbatore,KarpagamTheatres4KDolbyAtmosCoimbatore,Tamil,14:45,Balcony,90₹,45,12
+TamilNadu,Coimbatore,KarpagamTheatres4KDolbyAtmosCoimbatore,Tamil,18:45,FirstClass,90₹,381,0
+TamilNadu,Coimbatore,KarpagamTheatres4KDolbyAtmosCoimbatore,Tamil,18:45,Balcony,90₹,45,0
+TamilNadu,Coimbatore,KarpagamTheatres4KDolbyAtmosCoimbatore,Tamil,22:20,FirstClass,90₹,381,0
+TamilNadu,Coimbatore,KarpagamTheatres4KDolbyAtmosCoimbatore,Tamil,22:20,Balcony,90₹,45,0
