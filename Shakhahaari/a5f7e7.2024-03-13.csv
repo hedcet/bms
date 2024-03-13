@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Karnataka,Shivamogga,BharathCinemasShivamogga,Kannada,16:30,Gold,200₹,110,11
+Karnataka,Shivamogga,BharathCinemasShivamogga,Kannada,16:30,Silver,180₹,48,0
+Karnataka,Shivamogga,BharathCinemasShivamogga,Kannada,16:30,Special,150₹,36,0
