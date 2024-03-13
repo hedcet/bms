@@ -1,0 +1,8 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Ncr,Delhi,PvrSelectCityWalkDelhi,Hindi,12:25,ClassicNormal,112₹,112,16
+Ncr,Delhi,PvrSelectCityWalkDelhi,Hindi,12:25,ClassicSuperior,112₹,47,2
+Ncr,Delhi,PvrSelectCityWalkDelhi,Hindi,12:25,ReclinersNormal,250₹,9,8
+Maharashtra,Pune,InoxMegaplexPhoenixMallOfTheMillennium,Hindi,12:35,Classic,112₹,24,0
+Maharashtra,Pune,InoxMegaplexPhoenixMallOfTheMillennium,Hindi,12:35,Prime,112₹,86,8
+Maharashtra,Pune,InoxMegaplexPhoenixMallOfTheMillennium,Hindi,13:25,Classic,112₹,24,0
+Maharashtra,Pune,InoxMegaplexPhoenixMallOfTheMillennium,Hindi,13:25,Prime,112₹,86,8
