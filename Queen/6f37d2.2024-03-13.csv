@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Rajasthan,Jaipur,InoxGtCentralMallJaipur,Hindi,11:10,Executive,150₹,20,2
+Rajasthan,Jaipur,InoxGtCentralMallJaipur,Hindi,11:10,Royale,150₹,44,7
+Karnataka,MysuruMysore,PvrGarudaMallAlbertVictorRoadMysuru,Hindi,12:15,Prime,160₹,23,0
+Karnataka,MysuruMysore,PvrGarudaMallAlbertVictorRoadMysuru,Hindi,12:15,Classic,110₹,240,8
+Maharashtra,Pune,InoxBundGardenRoad,Hindi,13:35,DressCircle,112₹,181,14
+Maharashtra,Pune,InoxBundGardenRoad,Hindi,13:35,Galleria,112₹,60,0
+Telangana,Hyderabad,PvrIrrumManzilHyderabad,Hindi,16:20,Recliner,250₹,8,0
+Telangana,Hyderabad,PvrIrrumManzilHyderabad,Hindi,16:20,Classic,112₹,142,21
