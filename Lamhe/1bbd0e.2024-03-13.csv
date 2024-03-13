@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Mumbai,MaisonInoxJioWorldPlazaBkc,Hindi,11:50,PrimePlus,112₹,105,17
+Maharashtra,Mumbai,MaisonInoxJioWorldPlazaBkc,Hindi,11:50,Prime,112₹,35,0
+Rajasthan,Jaipur,PvrMallOfJaipur,Hindi,12:00,Classic,150₹,20,0
+Rajasthan,Jaipur,PvrMallOfJaipur,Hindi,12:00,Prime,150₹,43,0
+Rajasthan,Jaipur,PvrMallOfJaipur,Hindi,12:00,PrimePlus,150₹,26,0
+Rajasthan,Jaipur,PvrMallOfJaipur,Hindi,12:00,Recliner,300₹,8,0
+Karnataka,Bengaluru,PvrVegaCityBannerghattaRoad,Hindi,13:00,Classic,112₹,77,4
+Assam,Guwahati,PvrCityCentreGuwahati,Hindi,14:10,Classic,112₹,44,0
+Assam,Guwahati,PvrCityCentreGuwahati,Hindi,14:10,Prime,112₹,107,17
+Assam,Guwahati,PvrCityCentreGuwahati,Hindi,14:10,PrimePlus,112₹,14,0
+Maharashtra,Pune,InoxRoyalHeritageMallNibmExt,Hindi,15:30,RoyaleRecliners,250₹,15,2
+Maharashtra,Pune,InoxRoyalHeritageMallNibmExt,Hindi,15:30,Club,112₹,36,0
+Maharashtra,Pune,InoxRoyalHeritageMallNibmExt,Hindi,15:30,Executive,112₹,24,1
+Maharashtra,Pune,InoxRoyalHeritageMallNibmExt,Hindi,15:30,Royale,112₹,48,7
+Ncr,GreaterNoida,PvrGaurCityGreaterNoida,Hindi,17:00,Classic,112₹,101,14
+Ncr,GreaterNoida,PvrGaurCityGreaterNoida,Hindi,17:00,Prime,112₹,13,0
