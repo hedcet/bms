@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Odisha,Bhubaneswar,PvrUtkalKanikaGalleriaBhubaneswar,Odia,13:10,Classic,150₹,24,0
+Odisha,Bhubaneswar,PvrUtkalKanikaGalleriaBhubaneswar,Odia,13:10,Prime,150₹,116,15
+Odisha,Bhubaneshwar,SwatiCineplexxChristie4KDolbyAtmos,Odia,18:00,LuxuriousRecliner,299₹,32,6
+Odisha,Bhubaneshwar,SwatiCineplexxChristie4KDolbyAtmos,Odia,18:00,SofaSlider,199₹,76,12
+Odisha,Bhubaneshwar,SwatiCineplexxChristie4KDolbyAtmos,Odia,18:00,Diamond,149₹,192,10
+Odisha,Bhubaneshwar,SwatiCineplexxChristie4KDolbyAtmos,Odia,18:00,Gold,110₹,75,0
+Odisha,Rourkela,PvrForumMallRourkela,Odia,18:45,Classic,150₹,28,0
+Odisha,Rourkela,PvrForumMallRourkela,Odia,18:45,PrimePlus,150₹,12,0
+Odisha,Rourkela,PvrForumMallRourkela,Odia,18:45,Prime,150₹,98,14
