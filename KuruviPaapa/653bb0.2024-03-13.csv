@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kerala,Kochi,SangeetaCinemaKochi,Malayalam,15:00,BlueCircle,150₹,187,18
+Kerala,Changanassery,DhanyaRemyaChanganassery,Malayalam,18:00,Remya,135₹,196,0
+Kerala,Kottayam,DhanyaRemyaKottayam,Malayalam,18:00,Remya,135₹,251,1
+Kerala,Kollam,DhanyaRemyaKollam,Malayalam,18:00,Platinum,135₹,200,24
+Kerala,Changanassery,DhanyaRemyaChanganassery,Malayalam,21:00,Remya,135₹,196,0
+Kerala,Kottayam,DhanyaRemyaKottayam,Malayalam,21:00,Remya,135₹,251,0
+Kerala,Kollam,DhanyaRemyaKollam,Malayalam,21:00,Platinum,135₹,200,26
+Kerala,Kollam,GmaxCinemasJerome3D71JblKollam,Malayalam,21:30,Blue,180₹,170,18
