@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+TamilNadu,Chennai,InoxLuxePhoenixMarketCityVelachery,Tamil,11:30,Elite,189.06₹,126,70
+TamilNadu,Chennai,InoxLuxePhoenixMarketCityVelachery,Tamil,11:30,Budget,59.61₹,14,14
+TamilNadu,Coimbatore,InoxProzoneMallCoimbatore,Tamil,11:30,Club,151.18₹,184,36
+TamilNadu,Coimbatore,InoxProzoneMallCoimbatore,Tamil,11:30,Executive,59.61₹,25,2
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Tamil,15:55,Classic,150₹,128,0
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Tamil,15:55,Prime,150₹,100,18
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Tamil,15:55,Recliner,300₹,14,3
+Karnataka,Bengaluru,CinepolisOrionEastMallBanaswadi,Tamil,16:30,Normal,160₹,34,3
+Karnataka,Bengaluru,CinepolisOrionEastMallBanaswadi,Tamil,16:30,Executive,180₹,114,15
+Karnataka,Bengaluru,CinepolisOrionEastMallBanaswadi,Tamil,16:30,Premium,200₹,58,18
+Karnataka,Bengaluru,PvrVegaCityBannerghattaRoad,Tamil,22:20,Classic,150₹,118,10
