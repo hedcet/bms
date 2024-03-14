@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Karnataka,Bengaluru,CinepolisNexusShantiniketanBengaluru,English,14:45,Normal,175₹,69,4
+Karnataka,Bengaluru,CinepolisNexusShantiniketanBengaluru,English,14:45,DoubleSofa,260₹,24,4
+Karnataka,Bengaluru,CinepolisNexusShantiniketanBengaluru,English,14:45,Lounger,210₹,9,0
+Karnataka,Bengaluru,CinepolisNexusShantiniketanBengaluru,English,14:45,SingleSofa,230₹,6,0
+Telangana,Hyderabad,PvrNextGalleriaMallPanjagutta,English,17:00,Classic,149₹,54,40
+Ncr,Noida,PvrSuperplexLogixNoida,English,18:20,Classic,200₹,49,33
+TamilNadu,Chennai,PvrHeritageRslEcrChennai,English,22:00,Prime,194₹,67,2
+TamilNadu,Chennai,PvrHeritageRslEcrChennai,English,22:00,Classic,101.3₹,8,8
