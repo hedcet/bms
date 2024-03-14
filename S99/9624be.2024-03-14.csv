@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+TamilNadu,Chennai,InoxLuxePhoenixMarketCityVelachery,Telugu,13:00,Elite,159₹,278,19
+TamilNadu,Chennai,InoxLuxePhoenixMarketCityVelachery,Telugu,13:00,Budget,63.73₹,32,32
+TamilNadu,Chennai,InoxLuxePhoenixMarketCityVelachery,Telugu,16:05,Elite,159₹,278,7
+TamilNadu,Chennai,InoxLuxePhoenixMarketCityVelachery,Telugu,16:05,Budget,63.73₹,32,32
+TamilNadu,Chennai,InoxLuxePhoenixMarketCityVelachery,Telugu,19:10,Elite,189₹,278,19
+TamilNadu,Chennai,InoxLuxePhoenixMarketCityVelachery,Telugu,19:10,Budget,63.73₹,32,32
+Telangana,Hyderabad,PvrNextGalleriaMallPanjagutta,Telugu,19:55,Classic,112₹,144,42
+TamilNadu,Chennai,InoxLuxePhoenixMarketCityVelachery,Telugu,22:15,Elite,159₹,278,48
+TamilNadu,Chennai,InoxLuxePhoenixMarketCityVelachery,Telugu,22:15,Budget,63.73₹,32,32
