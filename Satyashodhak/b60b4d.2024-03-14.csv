@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Akola,NewRegalCinemaAkola,Marathi,12:30,Balcony,100₹,141,0
+Maharashtra,Akola,NewRegalCinemaAkola,Marathi,12:30,ReserveClass,60₹,343,1
+Maharashtra,Kashti,SrCinemasKashti,Marathi,14:00,Gold,70₹,60,60
+Maharashtra,Kashti,SrCinemasKashti,Marathi,14:00,Silver,70₹,48,48
