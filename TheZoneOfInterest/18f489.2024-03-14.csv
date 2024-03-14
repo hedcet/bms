@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Mumbai,MaisonInoxJioWorldPlazaBkc,German,15:15,PrimePlus,112₹,88,25
+Maharashtra,Mumbai,MaisonInoxJioWorldPlazaBkc,German,15:15,Prime,112₹,48,0
+Maharashtra,Mumbai,PvrIconPhoenixPalladiumLowerParelMumbai,German,16:15,Lounger,112₹,10,0
+Maharashtra,Mumbai,PvrIconPhoenixPalladiumLowerParelMumbai,German,16:15,Classic,112₹,39,2
+Maharashtra,Mumbai,PvrIconPhoenixPalladiumLowerParelMumbai,German,16:15,Prime,112₹,68,12
+Maharashtra,Mumbai,PvrIconPhoenixPalladiumLowerParelMumbai,German,16:15,Recliner,250₹,14,6
+Gujarat,Ahmedabad,PvrAcropolisAhmedabad,German,16:30,Recliner,250₹,11,4
+Gujarat,Ahmedabad,PvrAcropolisAhmedabad,German,16:30,Classic,112₹,42,0
+Gujarat,Ahmedabad,PvrAcropolisAhmedabad,German,16:30,Prime,112₹,42,4
+Gujarat,Ahmedabad,PvrAcropolisAhmedabad,German,16:30,PrimePlus,112₹,70,39
+Maharashtra,Mumbai,PvrDynamixJuhu,German,17:20,Classic,112₹,40,0
+Maharashtra,Mumbai,PvrDynamixJuhu,German,17:20,Prime,112₹,72,24
+Rajasthan,Jaipur,PvrMallOfJaipur,German,20:45,Classic,150₹,20,0
+Rajasthan,Jaipur,PvrMallOfJaipur,German,20:45,Prime,150₹,43,1
+Rajasthan,Jaipur,PvrMallOfJaipur,German,20:45,PrimePlus,150₹,26,0
+Rajasthan,Jaipur,PvrMallOfJaipur,German,20:45,Recliner,300₹,8,0
