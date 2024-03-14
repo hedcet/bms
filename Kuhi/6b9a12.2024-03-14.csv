@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Assam,Sivasagar,BhaskarjyotiCinemaSivasagar,Assamese,11:00,SilverClass,200₹,176,0
+Assam,Sivasagar,BhaskarjyotiCinemaSivasagar,Assamese,11:00,PremierCircle,150₹,315,0
+Assam,Guwahati,PvrCityCentreGuwahati,Assamese,13:20,Classic,150₹,40,0
+Assam,Guwahati,PvrCityCentreGuwahati,Assamese,13:20,Prime,150₹,82,8
+Assam,Guwahati,PvrCityCentreGuwahati,Assamese,13:20,PrimePlus,150₹,13,5
