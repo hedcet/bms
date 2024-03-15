@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+WestBengal,Kolkata,InoxSouthCityKolkata,Bengali,14:20,RoyalRecliner,250₹,16,0
+WestBengal,Kolkata,InoxSouthCityKolkata,Bengali,14:20,Premier,112₹,32,0
+WestBengal,Kolkata,InoxSouthCityKolkata,Bengali,14:20,Silver,112₹,165,9
