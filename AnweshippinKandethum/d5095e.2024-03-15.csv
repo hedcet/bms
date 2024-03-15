@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kerala,Trivandrum,PvrLuluTrivandrum,Malayalam,18:40,Recliner,350₹,8,8
+Kerala,Trivandrum,PvrLuluTrivandrum,Malayalam,18:40,Prime,160₹,39,29
+Kerala,Trivandrum,PvrLuluTrivandrum,Malayalam,18:40,Classic,140₹,60,7
+Kerala,Kochi,CinepolisCentreSquareMallKochi,Malayalam,23:20,Normal,140₹,13,13
+Kerala,Kochi,CinepolisCentreSquareMallKochi,Malayalam,23:20,Executive,160₹,26,26
+Kerala,Kochi,CinepolisCentreSquareMallKochi,Malayalam,23:20,Premium,190₹,67,67
