@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+AndhraPradesh,Kadapa,SrCinemasKadapa,Telugu,11:30,FirstClass,150₹,447,108
+AndhraPradesh,Kadapa,SrCinemasKadapa,Telugu,11:30,SecondClass,100₹,54,0
+AndhraPradesh,Kadapa,SrCinemasKadapa,Telugu,11:30,ThirdClass,100₹,54,0
+AndhraPradesh,Vizag,InoxVarunBeachBeachRoad,Telugu,16:30,Excutive,177₹,156,23
+AndhraPradesh,Kakinada,InoxSrmtMallKakinada,Telugu,17:00,Executive,112₹,146,42
+AndhraPradesh,Kadapa,SrCinemasKadapa,Telugu,18:30,FirstClass,150₹,447,108
+AndhraPradesh,Kadapa,SrCinemasKadapa,Telugu,18:30,SecondClass,100₹,54,0
+AndhraPradesh,Kadapa,SrCinemasKadapa,Telugu,18:30,ThirdClass,100₹,54,0
+AndhraPradesh,Kadapa,SrCinemasKadapa,Telugu,21:45,FirstClass,150₹,447,111
+AndhraPradesh,Kadapa,SrCinemasKadapa,Telugu,21:45,SecondClass,100₹,54,0
+AndhraPradesh,Kadapa,SrCinemasKadapa,Telugu,21:45,ThirdClass,100₹,54,0
+Telangana,Hyderabad,MovieMaxAmrEcilSecunderabad,Telugu,22:45,Classic,180₹,34,2
+Telangana,Hyderabad,MovieMaxAmrEcilSecunderabad,Telugu,22:45,Prime,200₹,196,0
+Telangana,Hyderabad,MovieMaxAmrEcilSecunderabad,Telugu,22:45,Recliner,300₹,12,0
