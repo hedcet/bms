@@ -1,0 +1,16 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+UttarPradesh,Bareilly,PvrPhoenixUnitedBareilly,Japanese,10:30,Recliner,250₹,14,0
+UttarPradesh,Bareilly,PvrPhoenixUnitedBareilly,Japanese,10:30,Classic,112₹,96,0
+UttarPradesh,Bareilly,PvrPhoenixUnitedBareilly,Japanese,10:30,Prime,112₹,112,20
+Maharashtra,Pune,InoxMegaplexPhoenixMallOfTheMillennium,Japanese,12:40,Classic,150₹,22,0
+Maharashtra,Pune,InoxMegaplexPhoenixMallOfTheMillennium,Japanese,12:40,Prime,150₹,142,17
+TamilNadu,Chennai,PvrVrChennaiAnnaNagar,Japanese,13:55,Classic,66.3₹,24,24
+TamilNadu,Chennai,PvrVrChennaiAnnaNagar,Japanese,13:55,Prime,169₹,112,20
+Telangana,Hyderabad,PvrNextGalleriaMallPanjagutta,Japanese,14:30,Classic,149₹,54,48
+Karnataka,Bengaluru,CinepolisNexusShantiniketanBengaluru,Japanese,15:15,Normal,150₹,69,7
+Karnataka,Bengaluru,CinepolisNexusShantiniketanBengaluru,Japanese,15:15,DoubleSofa,250₹,24,2
+Karnataka,Bengaluru,CinepolisNexusShantiniketanBengaluru,Japanese,15:15,Lounger,250₹,9,0
+Karnataka,Bengaluru,CinepolisNexusShantiniketanBengaluru,Japanese,15:15,SingleSofa,250₹,6,0
+Karnataka,Bengaluru,PvrVegaCityBannerghattaRoad,Japanese,17:05,Classic,150₹,77,9
+Ncr,GurugramGurgaon,LegendCinemaLoungesMallFiftyOneGurgaon,English,20:30,BedloungerSuperior,800₹,15,0
+Ncr,GurugramGurgaon,LegendCinemaLoungesMallFiftyOneGurgaon,English,20:30,BedLounger,700₹,21,0
