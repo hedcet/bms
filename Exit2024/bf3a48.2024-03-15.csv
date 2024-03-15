@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kerala,Kasaragod,MoviemaxCircleKasaragod,Malayalam,10:30,Max3,129.8₹,289,2
+Kerala,Kasaragod,MoviemaxCircleKasaragod,Malayalam,16:30,Max3,129.8₹,289,2
+Kerala,Kozhikode,PalaxiCinemasHiLiteMallKozhikode,Malayalam,17:30,Recliner,450₹,23,1
+Kerala,Kozhikode,PalaxiCinemasHiLiteMallKozhikode,Malayalam,17:30,Premium,220₹,88,17
+Kerala,Kozhikode,PalaxiCinemasHiLiteMallKozhikode,Malayalam,17:30,Executive,150₹,17,3
+Kerala,Kozhikode,PalaxiCinemasHiLiteMallKozhikode,Malayalam,17:30,Lounger,250₹,14,0
+Kerala,Palakkad,VCinemasSreeDeviDurgaPalakkad,Malayalam,18:00,Standard,129.8₹,126,31
+Kerala,Vadakkencherry,JayabharathTheatreVadakkencherry,Malayalam,21:30,FirstClass,110₹,175,135
