@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Karnataka,BelagaviBelgaum,GlobeCinemasCampArea,Kannada,12:15,Gold,130₹,115,40
+Karnataka,BelagaviBelgaum,GlobeCinemasCampArea,Kannada,12:15,Silver,110₹,144,29
+Karnataka,Dharwad,InoxSmartcityMallDharwad,Kannada,13:15,Club,170₹,84,2
+Karnataka,Dharwad,InoxSmartcityMallDharwad,Kannada,13:15,Executive,150₹,84,16
+Karnataka,BelagaviBelgaum,SantoshTheatreBelagavi,Kannada,15:00,Balcony,100₹,252,0
+Karnataka,BelagaviBelgaum,SantoshTheatreBelagavi,Kannada,15:00,Stall,80₹,370,0
+Karnataka,BelagaviBelgaum,InoxCampRoadBelagavi,Kannada,15:15,Royal,170₹,47,28
+Karnataka,BelagaviBelgaum,InoxCampRoadBelagavi,Kannada,15:15,Club,150₹,160,80
+Karnataka,BelagaviBelgaum,InoxCampRoadBelagavi,Kannada,15:15,Executive,150₹,72,4
