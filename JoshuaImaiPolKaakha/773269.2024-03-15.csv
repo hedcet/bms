@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kerala,Kochi,Kanoos2KRavipuram,Tamil,12:00,Diamond,110₹,186,0
+Kerala,Kochi,Kanoos2KRavipuram,Tamil,15:00,Diamond,110₹,186,0
+Kerala,Kochi,Kanoos2KRavipuram,Tamil,19:00,Diamond,110₹,186,1
+Kerala,Kochi,Kanoos2KRavipuram,Tamil,21:50,Diamond,110₹,186,1
