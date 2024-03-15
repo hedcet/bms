@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kerala,Thrissur,SreelakshmiCinemaAmballur4K2KLaserProjection,Malayalam,15:30,Gold,150₹,145,0
+Kerala,Kollam,MyCinemasRpMallKollamKerala,Malayalam,18:10,PremiumOffline,180₹,108,20
+Kerala,Kozhikode,AashirvadCineplexxKozhikode,Malayalam,18:15,Platinum,220₹,31,2
+Kerala,Kozhikode,AashirvadCineplexxKozhikode,Malayalam,18:15,Gold,200₹,67,0
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,20:00,RoyalRecliner,350₹,10,0
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,20:00,Club,190₹,66,30
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,20:00,Royal,190₹,28,19
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,20:00,Executive,130₹,22,0
+Kerala,Kochi,CinepolisCentreSquareMallKochi,Malayalam,21:15,Normal,140₹,26,11
+Kerala,Kochi,CinepolisCentreSquareMallKochi,Malayalam,21:15,Executive,160₹,39,17
+Kerala,Kochi,CinepolisCentreSquareMallKochi,Malayalam,21:15,Premium,190₹,86,15
