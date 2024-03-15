@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Ncr,GurugramGurgaon,PvrMgfGurgaon,English,16:10,Classic,112₹,75,0
+Ncr,GurugramGurgaon,PvrMgfGurgaon,English,16:10,Prime,112₹,74,17
+Odisha,Rourkela,PvrPlutoneRourkela,English,18:45,Classic,150₹,20,0
+Odisha,Rourkela,PvrPlutoneRourkela,English,18:45,Prime,150₹,106,0
+Odisha,Rourkela,PvrPlutoneRourkela,English,18:45,Recliner,300₹,9,0
+WestBengal,Kolkata,InoxSouthCityKolkata,English,19:25,RoyalRecliner,300₹,16,0
+WestBengal,Kolkata,InoxSouthCityKolkata,English,19:25,Premier,150₹,32,0
+WestBengal,Kolkata,InoxSouthCityKolkata,English,19:25,Silver,150₹,165,25
+Assam,Guwahati,PvrCityCentreGuwahati,English,21:50,Classic,150₹,44,0
+Assam,Guwahati,PvrCityCentreGuwahati,English,21:50,Prime,150₹,107,15
+Assam,Guwahati,PvrCityCentreGuwahati,English,21:50,PrimePlus,150₹,14,0
