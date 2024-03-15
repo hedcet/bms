@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+TamilNadu,Chennai,GkCinemasRgbLaserSrl4DPorur,Tamil,16:45,Lounge1,130₹,17,5
+TamilNadu,Chennai,GkCinemasRgbLaserSrl4DPorur,Tamil,16:45,Lounge2,130₹,12,12
+TamilNadu,Chennai,GkCinemasRgbLaserSrl4DPorur,Tamil,16:45,SignatureClass,130₹,204,102
+TamilNadu,Rajapalayam,SriBalajiTheatreRajapalayamAC,Tamil,18:30,Box,100₹,36,0
+TamilNadu,Rajapalayam,SriBalajiTheatreRajapalayamAC,Tamil,22:30,Box,100₹,36,0
