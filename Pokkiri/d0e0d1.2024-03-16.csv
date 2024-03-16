@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+TamilNadu,Coimbatore,KalpanaTheatre4KDolbyAtmosKavundampalayam,Tamil,22:30,BoxA,70₹,16,16
+TamilNadu,Coimbatore,KalpanaTheatre4KDolbyAtmosKavundampalayam,Tamil,22:30,BoxB,70₹,19,19
+TamilNadu,Coimbatore,KalpanaTheatre4KDolbyAtmosKavundampalayam,Tamil,22:30,Screen1A,70₹,329,73
+TamilNadu,Coimbatore,KalpanaTheatre4KDolbyAtmosKavundampalayam,Tamil,22:30,Screen1B,70₹,40,4
