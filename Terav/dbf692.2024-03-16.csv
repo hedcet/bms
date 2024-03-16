@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Hinganghat,LaxmiTalkiesHinganghat,Marathi,12:15,BalconyClass,120₹,145,0
+Maharashtra,Hinganghat,LaxmiTalkiesHinganghat,Marathi,12:15,ReserveClass,70₹,239,0
+Maharashtra,Hinganghat,LaxmiTalkiesHinganghat,Marathi,12:15,BalconyClass,120₹,145,0
+Maharashtra,Hinganghat,LaxmiTalkiesHinganghat,Marathi,12:15,ReserveClass,70₹,239,0
+Maharashtra,Umred,BalajiMultiplexUmred,Marathi,12:15,Diamond,200₹,10,0
+Maharashtra,Umred,BalajiMultiplexUmred,Marathi,12:15,Gold,160₹,100,0
+Maharashtra,Umred,BalajiMultiplexUmred,Marathi,12:15,Silver,160₹,29,0
+Maharashtra,Wardha,GaneshTalkiesWardha,Marathi,13:20,Gold,110₹,112,16
+Maharashtra,Warora,SatyamCinemaxWarora,Marathi,15:30,Box,200₹,78,0
+Maharashtra,Warora,SatyamCinemaxWarora,Marathi,15:30,Platinum,100₹,180,0
+Maharashtra,Wardha,GaneshTalkiesWardha,Marathi,20:10,Gold,110₹,112,55
