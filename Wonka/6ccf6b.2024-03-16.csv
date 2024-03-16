@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Telangana,Hyderabad,PvrNextGalleriaMallPanjagutta,English,19:20,Classic,149₹,54,22
+Ncr,GurugramGurgaon,GurugramPvrDirectorSCutAmbienceMall,English,20:20,Platinum,700₹,32,8
+Ncr,GurugramGurgaon,GurugramPvrDirectorSCutAmbienceMall,English,20:20,PlatinumSuperior,700₹,9,3
+Ncr,GurugramGurgaon,GurugramPvrDirectorSCutAmbienceMall,English,20:20,DboxSeats,700₹,16,0
