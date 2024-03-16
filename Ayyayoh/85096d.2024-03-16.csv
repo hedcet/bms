@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+TamilNadu,Salem,ArrsMultiplexSalem,Tamil,14:30,FirstClass,150₹,392,50
+TamilNadu,Salem,ArrsMultiplexSalem,Tamil,14:30,SecondClass,120₹,320,0
+TamilNadu,Salem,ArrsMultiplexSalem,Tamil,14:30,ThirdClass,60₹,72,0
