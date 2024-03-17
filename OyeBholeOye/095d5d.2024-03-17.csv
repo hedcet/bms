@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Punjab,Mohali,PvrVrPunjabMallMohali,Punjabi,10:30,Classic,112₹,48,0
+Punjab,Mohali,PvrVrPunjabMallMohali,Punjabi,10:30,ClassicPlus,112₹,48,0
+Punjab,Mohali,PvrVrPunjabMallMohali,Punjabi,10:30,Prime,112₹,38,13
+Punjab,Nakodar,KcCineplexNakodar,Punjabi,21:30,Gold,249₹,75,0
+Punjab,Nakodar,KcCineplexNakodar,Punjabi,21:30,Silver,249₹,75,0
