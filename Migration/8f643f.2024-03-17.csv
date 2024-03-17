@@ -1,0 +1,14 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+TamilNadu,Chennai,PvrVrChennaiAnnaNagar,English,11:30,3DClassic,101.31₹,24,1
+TamilNadu,Chennai,PvrVrChennaiAnnaNagar,English,11:30,3DPrime,220₹,112,82
+Karnataka,Bengaluru,CinepolisNexusShantiniketanBengaluru,English,13:10,Normal,150₹,69,16
+Karnataka,Bengaluru,CinepolisNexusShantiniketanBengaluru,English,13:10,DoubleSofa,250₹,24,2
+Karnataka,Bengaluru,CinepolisNexusShantiniketanBengaluru,English,13:10,Lounger,250₹,9,0
+Karnataka,Bengaluru,CinepolisNexusShantiniketanBengaluru,English,13:10,SingleSofa,250₹,6,3
+Ncr,GurugramGurgaon,CinepolisAiriaMallSohnaRoadGurgaon,English,14:20,Normal,200₹,30,30
+Ncr,GurugramGurgaon,CinepolisAiriaMallSohnaRoadGurgaon,English,14:20,DoubleSofa,300₹,24,24
+Ncr,GurugramGurgaon,CinepolisAiriaMallSohnaRoadGurgaon,English,14:20,Lounger,300₹,8,8
+TamilNadu,Chennai,PvrHeritageRslEcrChennai,English,16:00,Prime,204₹,67,50
+TamilNadu,Chennai,PvrHeritageRslEcrChennai,English,16:00,Classic,101.3₹,8,8
+Telangana,Hyderabad,PvrNextGalleriaMallPanjagutta,English,17:00,Classic,149₹,54,51
+Ncr,Noida,PvrSuperplexLogixNoida,English,18:40,Classic,440₹,48,40
