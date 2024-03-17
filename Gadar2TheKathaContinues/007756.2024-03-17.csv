@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+UttarPradesh,Kanpur,LalPalaceKanpur,Hindi,09:30,Balcony,100₹,336,0
+UttarPradesh,Kanpur,LalPalaceKanpur,Hindi,09:30,Gold,80₹,210,0
+UttarPradesh,Kanpur,LalPalaceKanpur,Hindi,12:30,Balcony,100₹,336,2
+UttarPradesh,Kanpur,LalPalaceKanpur,Hindi,12:30,Gold,80₹,210,0
+UttarPradesh,Kanpur,LalPalaceKanpur,Hindi,15:30,Balcony,100₹,336,0
+UttarPradesh,Kanpur,LalPalaceKanpur,Hindi,15:30,Gold,80₹,210,0
+UttarPradesh,Kanpur,LalPalaceKanpur,Hindi,18:30,Balcony,100₹,336,0
+UttarPradesh,Kanpur,LalPalaceKanpur,Hindi,18:30,Gold,80₹,210,0
