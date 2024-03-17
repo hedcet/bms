@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+WestBengal,Nabadwip,AlochayaCinemaNabadwip,Bengali,13:30,Special,50₹,107,0
+WestBengal,Nabadwip,AlochayaCinemaNabadwip,Bengali,13:30,RearStall,40₹,252,0
+WestBengal,Nabadwip,AlochayaCinemaNabadwip,Bengali,13:30,FrontStall,40₹,196,0
+WestBengal,Nabadwip,AlochayaCinemaNabadwip,Bengali,16:30,Special,50₹,107,0
+WestBengal,Nabadwip,AlochayaCinemaNabadwip,Bengali,16:30,RearStall,40₹,252,0
+WestBengal,Nabadwip,AlochayaCinemaNabadwip,Bengali,16:30,FrontStall,40₹,196,0
+WestBengal,Nabadwip,AlochayaCinemaNabadwip,Bengali,19:30,Special,50₹,107,0
+WestBengal,Nabadwip,AlochayaCinemaNabadwip,Bengali,19:30,RearStall,40₹,252,0
+WestBengal,Nabadwip,AlochayaCinemaNabadwip,Bengali,19:30,FrontStall,40₹,196,0
