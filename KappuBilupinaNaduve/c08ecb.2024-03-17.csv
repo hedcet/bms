@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Karnataka,Bengaluru,GoverdhanTheatreYeshwantpur,Kannada,10:00,BalconyClass,150₹,307,0
+Karnataka,Bengaluru,GoverdhanTheatreYeshwantpur,Kannada,10:00,SecondClass,120₹,555,0
+Karnataka,Kushalnagar,CoorgCineplexKushalnagar,Kannada,11:00,GoldClass,200₹,55,2
+Karnataka,Kushalnagar,CoorgCineplexKushalnagar,Kannada,11:00,SilverClass,150₹,61,2
+Karnataka,Kushalnagar,CoorgCineplexKushalnagar,Kannada,11:00,RegularClass,120₹,303,15
