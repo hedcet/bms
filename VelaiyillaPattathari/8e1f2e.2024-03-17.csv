@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+TamilNadu,Chennai,AgsCinemasMaduravoyal,Tamil,12:50,Diamond,190₹,324,8
+TamilNadu,Chennai,AgsCinemasMaduravoyal,Tamil,12:50,Pearl,60₹,36,36
+TamilNadu,Chennai,AgsCinemasVillivakkam,Tamil,18:40,Diamond,190₹,147,1
+TamilNadu,Chennai,AgsCinemasVillivakkam,Tamil,18:40,Pearl,60₹,17,17
