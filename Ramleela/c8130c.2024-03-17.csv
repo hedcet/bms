@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+TamilNadu,Tirupur,KrishnaTheatreTirupur,Tamil,10:30,FirstClass,50₹,159,0
+TamilNadu,Tirupur,KrishnaTheatreTirupur,Tamil,10:30,SecondClass,50₹,102,0
+TamilNadu,Tirupur,KrishnaTheatreTirupur,Tamil,14:00,FirstClass,50₹,159,0
+TamilNadu,Tirupur,KrishnaTheatreTirupur,Tamil,14:00,SecondClass,50₹,102,0
+TamilNadu,Tirupur,KrishnaTheatreTirupur,Tamil,18:00,FirstClass,50₹,159,0
+TamilNadu,Tirupur,KrishnaTheatreTirupur,Tamil,18:00,SecondClass,50₹,102,0
+TamilNadu,Tirupur,KrishnaTheatreTirupur,Tamil,22:00,FirstClass,50₹,159,4
+TamilNadu,Tirupur,KrishnaTheatreTirupur,Tamil,22:00,SecondClass,50₹,102,0
