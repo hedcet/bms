@@ -1,0 +1,8 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,NaviMumbai,CinepolisNexusSeawoodsNaviMumbai,English,19:05,Normal,100₹,49,0
+Maharashtra,NaviMumbai,CinepolisNexusSeawoodsNaviMumbai,English,19:05,Executive,100₹,74,0
+Maharashtra,NaviMumbai,CinepolisNexusSeawoodsNaviMumbai,English,19:05,Premium,100₹,60,8
+Maharashtra,NaviMumbai,CinepolisNexusSeawoodsNaviMumbai,English,19:05,Vip,200₹,14,9
+Maharashtra,Pune,CinepolisSeasonsMallPune,English,21:50,Normal,110₹,29,1
+Maharashtra,Pune,CinepolisSeasonsMallPune,English,21:50,Executive,110₹,98,2
+Maharashtra,Pune,CinepolisSeasonsMallPune,English,21:50,Premium,110₹,34,7
