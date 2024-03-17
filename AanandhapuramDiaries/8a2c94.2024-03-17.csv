@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kerala,Thrissur,SreelakshmiCinemaAmballur4K2KLaserProjection,Malayalam,15:30,Gold,150₹,145,0
+Kerala,Trivandrum,PvrLuluTrivandrum,Malayalam,16:40,Recliner,300₹,7,2
+Kerala,Trivandrum,PvrLuluTrivandrum,Malayalam,16:40,Prime,160₹,51,23
+Kerala,Trivandrum,PvrLuluTrivandrum,Malayalam,16:40,Classic,140₹,70,20
+Kerala,Alappuzha,PanCinemasAlappuzha,Malayalam,17:45,Platinum,250₹,34,0
+Kerala,Alappuzha,PanCinemasAlappuzha,Malayalam,17:45,Gold,180₹,138,0
+Kerala,Kollam,MyCinemasRpMallKollamKerala,Malayalam,18:10,PremiumOffline,180₹,108,32
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,19:40,RoyalRecliner,350₹,10,2
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,19:40,Club,190₹,66,32
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,19:40,Royal,190₹,28,23
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,19:40,Executive,130₹,22,9
