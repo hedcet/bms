@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Ncr,Delhi,PvrSelectCityWalkHsbcGoldDelhi,English,10:00,Platinum,450₹,24,5
+Ncr,Delhi,PvrSelectCityWalkHsbcGoldDelhi,English,10:00,PlatinumSuperior,450₹,16,4
+Ncr,Delhi,PvrPromenadeVasantKunj,English,15:00,Classic,300₹,50,26
+Ncr,Delhi,PvrPromenadeVasantKunj,English,15:00,Prime,320₹,44,39
