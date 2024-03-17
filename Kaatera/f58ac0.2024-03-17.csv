@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Karnataka,Pandavapura,SriBhyraveshwaraChitraMandiraPandavapura,Kannada,11:30,FirstClass,80₹,294,151
+Karnataka,Davanagere,TrishulTheatreDvg4KDolbyAtmosDavanagere,Kannada,14:00,Balcony,200₹,252,4
+Karnataka,Davanagere,TrishulTheatreDvg4KDolbyAtmosDavanagere,Kannada,14:00,SecondClass,150₹,482,8
+Karnataka,Pandavapura,SriBhyraveshwaraChitraMandiraPandavapura,Kannada,14:30,FirstClass,80₹,294,151
+Karnataka,Pandavapura,SriBhyraveshwaraChitraMandiraPandavapura,Kannada,18:30,FirstClass,80₹,294,151
+Karnataka,Pandavapura,SriBhyraveshwaraChitraMandiraPandavapura,Kannada,21:30,FirstClass,80₹,294,151
