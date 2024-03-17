@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kerala,Trivandrum,SuryaMultiplex4KDolbyAtmosNedumangad,Malayalam,11:00,Executive,400₹,24,0
+Kerala,Trivandrum,SuryaMultiplex4KDolbyAtmosNedumangad,Malayalam,11:00,Gold,130₹,195,0
+Kerala,Trivandrum,GreenfieldMoviemaxCinemasTrivandrum,Malayalam,11:15,Executive,150₹,119,0
+Kerala,Kochi,SangeetaCinemaKochi,Malayalam,11:55,BlueCircle,150₹,187,23
+Kerala,Kochi,SangeetaCinemaKochi,Malayalam,12:00,BlueCircle,150₹,187,18
+Kerala,Payyanur,ShanthiCinemasPayyanur,Malayalam,13:30,Platinum,130₹,443,51
+Kerala,Trivandrum,KalabhavanTheatreTripleBeam3DTrivandrum,Malayalam,14:30,Platinum,125₹,135,67
+Kerala,Trivandrum,KalabhavanTheatreTripleBeam3DTrivandrum,Malayalam,14:30,Gold,105₹,275,63
+Kerala,Kozhikode,AashirvadCineplexxKozhikode,Malayalam,14:45,Platinum,220₹,27,0
+Kerala,Kozhikode,AashirvadCineplexxKozhikode,Malayalam,14:45,Gold,200₹,60,0
+Kerala,Trivandrum,SuryaMultiplex4KDolbyAtmosNedumangad,Malayalam,18:15,Executive,400₹,24,0
+Kerala,Trivandrum,SuryaMultiplex4KDolbyAtmosNedumangad,Malayalam,18:15,Gold,130₹,195,0
