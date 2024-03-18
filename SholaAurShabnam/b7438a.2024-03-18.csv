@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+UttarPradesh,Kanpur,GunjanCinemaKanpur,Hindi,12:30,Balcony,80₹,334,0
+UttarPradesh,Kanpur,GunjanCinemaKanpur,Hindi,15:30,Balcony,80₹,334,0
+UttarPradesh,Kanpur,GunjanCinemaKanpur,Hindi,18:30,Balcony,80₹,334,0
+UttarPradesh,Kanpur,GunjanCinemaKanpur,Hindi,21:30,Balcony,80₹,334,0
