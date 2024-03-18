@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Telangana,Hyderabad,PvrNextGalleriaMallPanjagutta,English,12:20,Recliner,249₹,10,1
+Telangana,Hyderabad,PvrNextGalleriaMallPanjagutta,English,12:20,Classic,149₹,193,22
+WestBengal,Kolkata,InoxQuestMall,English,16:30,RoyalRecliner,250₹,18,9
+WestBengal,Kolkata,InoxQuestMall,English,16:30,Club,112₹,172,2
+WestBengal,Kolkata,InoxQuestMall,English,16:30,Executive,112₹,40,0
+WestBengal,Kolkata,InoxQuestMall,English,16:30,Royal,112₹,72,17
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,English,22:25,Recliner,300₹,16,7
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,English,22:25,Classiic,150₹,108,0
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,English,22:25,Prime,150₹,108,15
+Ncr,Noida,PvrSuperplexLogixNoida,English,22:50,Classic,112₹,89,12
