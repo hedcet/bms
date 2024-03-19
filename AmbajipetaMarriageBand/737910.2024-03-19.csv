@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+AndhraPradesh,Pedana,SriKrishnaTulasiTheaterPedana,Telugu,11:30,Box,100₹,63,0
+AndhraPradesh,Pedana,SriKrishnaTulasiTheaterPedana,Telugu,14:30,Box,100₹,63,0
+AndhraPradesh,Pedana,SriKrishnaTulasiTheaterPedana,Telugu,18:30,Box,100₹,63,0
+AndhraPradesh,Pedana,SriKrishnaTulasiTheaterPedana,Telugu,21:30,Box,100₹,63,1
