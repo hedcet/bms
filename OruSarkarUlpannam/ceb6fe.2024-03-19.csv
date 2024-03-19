@@ -1,0 +1,16 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kerala,Kanhangad,DeepthiCinemasAC2KDolbyAtmosKanhangad,Malayalam,12:30,Gold,150₹,143,14
+Kerala,Payyanur,ArchanaCineplexRgbLaser4K3DAtmosPayyanur,Malayalam,13:30,Standard,129.7₹,125,0
+Kerala,Pathanamthitta,DhanyaRemyaPathanamthitta,Malayalam,14:00,DhanyaCircle,135₹,422,91
+Kerala,Kozhinjampara,RavirajComplexACKozhinjampara,Malayalam,14:00,FirstClass,110₹,172,77
+Kerala,Payyanur,ArchanaCineplexRgbLaser4K3DAtmosPayyanur,Malayalam,16:30,Standard,129.7₹,125,0
+Kerala,Taliparamba,AlinkeelCinemas2KAtmos71Taliparamba,Malayalam,16:45,Reserved,129.8₹,190,0
+Kerala,Kottayam,DhanyaRemyaKottayam,Malayalam,18:00,Remya,135₹,251,0
+Kerala,Palakkad,AromaScreen2Palakkad,Malayalam,18:00,KingCircle,129₹,235,0
+Kerala,Kozhinjampara,RavirajComplexACKozhinjampara,Malayalam,18:00,FirstClass,110₹,172,77
+Kerala,Payyanur,ArchanaCineplexRgbLaser4K3DAtmosPayyanur,Malayalam,19:30,Standard,129.7₹,125,33
+Kerala,Taliparamba,AlinkeelCinemas2KAtmos71Taliparamba,Malayalam,19:45,Reserved,129.8₹,190,0
+Kerala,Kanhangad,DeepthiCinemasAC2KDolbyAtmosKanhangad,Malayalam,20:15,Gold,150₹,143,16
+Kerala,Kochi,CinepolisCentreSquareMallKochi,Malayalam,23:10,Normal,140₹,26,7
+Kerala,Kochi,CinepolisCentreSquareMallKochi,Malayalam,23:10,Executive,160₹,39,7
+Kerala,Kochi,CinepolisCentreSquareMallKochi,Malayalam,23:10,Premium,180₹,86,11
