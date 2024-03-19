@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+UttarPradesh,Bareilly,PvrPhoenixUnitedBareilly,Japanese,10:30,Recliner,250₹,14,0
+UttarPradesh,Bareilly,PvrPhoenixUnitedBareilly,Japanese,10:30,Classic,112₹,96,0
+UttarPradesh,Bareilly,PvrPhoenixUnitedBareilly,Japanese,10:30,Prime,112₹,112,25
+Telangana,Hyderabad,PvrNexusMallKukatpallyHyderabad,Japanese,11:25,Recliner,249₹,12,2
+Telangana,Hyderabad,PvrNexusMallKukatpallyHyderabad,Japanese,11:25,Classic,149₹,232,65
+Maharashtra,Pune,InoxMegaplexPhoenixMallOfTheMillennium,Japanese,12:30,Classic,112₹,22,0
+Maharashtra,Pune,InoxMegaplexPhoenixMallOfTheMillennium,Japanese,12:30,Prime,112₹,142,16
+Telangana,Hyderabad,PvrNextGalleriaMallPanjagutta,Japanese,14:30,Classic,149₹,54,18
+Karnataka,Bengaluru,PvrVegaCityBannerghattaRoad,Japanese,17:05,Classic,112₹,77,1
