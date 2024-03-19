@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Ncr,Delhi,PvrVegasDwarka,English,15:40,Classic,150₹,89,19
+Ncr,GurugramGurgaon,PvrMgfGurgaon,English,16:10,Classic,112₹,75,2
+Ncr,GurugramGurgaon,PvrMgfGurgaon,English,16:10,Prime,112₹,74,16
+Karnataka,Bengaluru,PvrDirectorsCutForumRexWalkBengaluru,English,22:15,PlatSup,700₹,16,14
+Karnataka,Bengaluru,PvrDirectorsCutForumRexWalkBengaluru,English,22:15,Platinum,600₹,32,26
