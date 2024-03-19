@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kerala,Pathanamthitta,SCinemasKonni,Malayalam,11:00,Platinum,150₹,81,20
+Kerala,Pathanamthitta,SCinemasKonni,Malayalam,11:00,Gold,110₹,368,12
+Kerala,Muvattupuzha,LakshmiCinemasCantonMallMuvattupuzha,Malayalam,17:00,Gold,150₹,213,5
