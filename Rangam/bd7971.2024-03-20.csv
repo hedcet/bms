@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+AndhraPradesh,Vizag,ShriLakshmiNarasimhaTheatreKothavalasaVizag,Telugu,07:30,Premium,100₹,399,192
+AndhraPradesh,Vizag,ShriLakshmiNarasimhaTheatreKothavalasaVizag,Telugu,07:30,NonPremium,100₹,131,111
+AndhraPradesh,Vizag,SriLakshmiNarasimhaPicturePalace104Area,Telugu,11:00,FirstClass,145₹,162,0
