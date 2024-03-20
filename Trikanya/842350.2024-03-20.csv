@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Odisha,Bhubaneswar,CinepolisNexusEsplanadeBhubaneswar,Odia,13:35,Normal,160₹,23,0
+Odisha,Bhubaneswar,CinepolisNexusEsplanadeBhubaneswar,Odia,13:35,Executive,180₹,52,40
+Odisha,Bhubaneswar,CinepolisNexusEsplanadeBhubaneswar,Odia,13:35,Premium,200₹,48,22
+Odisha,Bhubaneswar,CinepolisNexusEsplanadeBhubaneswar,Odia,13:35,Vip,500₹,10,0
+Odisha,Bhubaneswar,PvrUtkalKanikaGalleriaBhubaneswar,Odia,18:55,Classic,180₹,24,0
+Odisha,Bhubaneswar,PvrUtkalKanikaGalleriaBhubaneswar,Odia,18:55,Prime,180₹,93,12
+Odisha,Bhubaneswar,PvrUtkalKanikaGalleriaBhubaneswar,Odia,19:00,Classic,180₹,24,0
+Odisha,Bhubaneswar,PvrUtkalKanikaGalleriaBhubaneswar,Odia,19:00,Prime,180₹,116,76
