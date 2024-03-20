@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Pimpri,VishalCinemaasPimpri,Marathi,14:30,Platinum,100₹,101,101
+Maharashtra,Pimpri,VishalCinemaasPimpri,Marathi,14:30,Gold,100₹,80,44
+Maharashtra,Pimpri,VishalCinemaasPimpri,Marathi,14:30,Silver,100₹,14,0
