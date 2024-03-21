@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Gujarat,Kadi,CityGoldKadi,Gujarati,12:15,Box,160₹,16,0
+Gujarat,Kadi,CityGoldKadi,Gujarati,12:15,Gold,140₹,140,0
+Gujarat,Kadi,CityGoldKadi,Gujarati,12:15,Silver,140₹,34,0
+Gujarat,Mehsana,SaneliteCinemasDMartCircleMehsana,Gujarati,15:15,CoupleLounger2Admit,500₹,12,0
+Gujarat,Mehsana,SaneliteCinemasDMartCircleMehsana,Gujarati,15:15,ReclienerSofa,250₹,8,0
