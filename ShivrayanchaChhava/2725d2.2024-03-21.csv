@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Ichalkaranji,RkCinemasRadhaKrishanIchalkaranji,Marathi,10:00,Vip,150₹,35,0
+Maharashtra,Ichalkaranji,RkCinemasRadhaKrishanIchalkaranji,Marathi,10:00,Platinum,60₹,108,2
+Maharashtra,Ichalkaranji,RkCinemasRadhaKrishanIchalkaranji,Marathi,10:00,Gold,60₹,88,0
+Maharashtra,Ichalkaranji,RkCinemasRadhaKrishanIchalkaranji,Marathi,10:00,Silver,60₹,38,6
