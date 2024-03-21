@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Gujarat,Ahmedabad,AppleMultiplexManinagarAhmedabad,Hindi,12:30,UpperSofa,180₹,11,0
+Gujarat,Ahmedabad,AppleMultiplexManinagarAhmedabad,Hindi,12:30,Lounger,160₹,10,0
+Gujarat,Ahmedabad,AppleMultiplexManinagarAhmedabad,Hindi,12:30,Platinum,140₹,100,0
+Maharashtra,Mumbai,G7MultiplexBandraW,Hindi,16:00,Special,150₹,38,1
+Maharashtra,Mumbai,G7MultiplexBandraW,Hindi,16:00,DressCircle,150₹,9,3
