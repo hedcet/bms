@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+TamilNadu,Tirupur,KalaivaniCinemasACDolby92SurroundTirupur,Tamil,10:30,PlatinumClass,120₹,100,0
+TamilNadu,Tirupur,KalaivaniCinemasACDolby92SurroundTirupur,Tamil,10:30,GoldClass,100₹,206,0
+TamilNadu,Tirupur,KalaivaniCinemasACDolby92SurroundTirupur,Tamil,14:30,PlatinumClass,120₹,100,0
+TamilNadu,Tirupur,KalaivaniCinemasACDolby92SurroundTirupur,Tamil,14:30,GoldClass,100₹,206,0
+TamilNadu,Tirupur,KalaivaniCinemasACDolby92SurroundTirupur,Tamil,18:30,PlatinumClass,120₹,100,0
+TamilNadu,Tirupur,KalaivaniCinemasACDolby92SurroundTirupur,Tamil,18:30,GoldClass,100₹,206,0
+TamilNadu,Erode,KrishnaTheatreKoluthupalayam,Tamil,18:30,FirstClass,80₹,302,0
+TamilNadu,Erode,KrishnaTheatreKoluthupalayam,Tamil,22:00,FirstClass,80₹,302,0
+TamilNadu,Tirupur,KalaivaniCinemasACDolby92SurroundTirupur,Tamil,22:15,PlatinumClass,120₹,100,0
+TamilNadu,Tirupur,KalaivaniCinemasACDolby92SurroundTirupur,Tamil,22:15,GoldClass,100₹,206,0
