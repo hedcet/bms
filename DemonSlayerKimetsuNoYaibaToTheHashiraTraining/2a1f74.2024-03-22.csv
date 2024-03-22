@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+UttarPradesh,Moradabad,PvrParshvanathMoradabad,Japanese,10:45,Classic,112₹,72,0
+UttarPradesh,Moradabad,PvrParshvanathMoradabad,Japanese,10:45,ClassicPlus,112₹,161,18
+Telangana,Hyderabad,PvrNextGalleriaMallPanjagutta,Japanese,14:55,Classic,149₹,54,30
+TamilNadu,Chennai,PvrVrChennaiAnnaNagar,English,15:55,Classic,66.3₹,34,34
+TamilNadu,Chennai,PvrVrChennaiAnnaNagar,English,15:55,Prime,185₹,142,8
+Karnataka,Bengaluru,PvrNexusFormerlyForumKoramangala,Japanese,17:00,Prime,280₹,32,14
+Karnataka,Bengaluru,PvrNexusFormerlyForumKoramangala,Japanese,17:00,Classic,250₹,71,10
+Ncr,GurugramGurgaon,LegendCinemaLoungesMallFiftyOneGurgaon,English,18:00,BedloungerSuperior,800₹,15,0
+Ncr,GurugramGurgaon,LegendCinemaLoungesMallFiftyOneGurgaon,English,18:00,BedLounger,700₹,21,0
