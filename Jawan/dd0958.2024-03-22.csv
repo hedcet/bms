@@ -1,0 +1,16 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+WestBengal,Kolkata,EloraMultiplexChampahati,Hindi,12:00,Gold,150₹,40,0
+WestBengal,Kolkata,EloraMultiplexChampahati,Hindi,12:00,Silver,100₹,176,0
+WestBengal,DakshinBarasat,MahamayaTalkiesDakshinBarasat,Hindi,13:30,GoldCouple,300₹,24,5
+WestBengal,DakshinBarasat,MahamayaTalkiesDakshinBarasat,Hindi,13:30,Gold,150₹,14,0
+WestBengal,DakshinBarasat,MahamayaTalkiesDakshinBarasat,Hindi,13:30,Silver,100₹,160,0
+WestBengal,Kolkata,EloraMultiplexChampahati,Hindi,15:00,Gold,150₹,40,0
+WestBengal,Kolkata,EloraMultiplexChampahati,Hindi,15:00,Silver,100₹,176,0
+WestBengal,DakshinBarasat,MahamayaTalkiesDakshinBarasat,Hindi,16:30,GoldCouple,300₹,24,1
+WestBengal,DakshinBarasat,MahamayaTalkiesDakshinBarasat,Hindi,16:30,Gold,150₹,14,0
+WestBengal,DakshinBarasat,MahamayaTalkiesDakshinBarasat,Hindi,16:30,Silver,100₹,160,0
+WestBengal,Kolkata,EloraMultiplexChampahati,Hindi,18:00,Gold,150₹,40,0
+WestBengal,Kolkata,EloraMultiplexChampahati,Hindi,18:00,Silver,100₹,176,0
+WestBengal,DakshinBarasat,MahamayaTalkiesDakshinBarasat,Hindi,19:00,GoldCouple,300₹,24,0
+WestBengal,DakshinBarasat,MahamayaTalkiesDakshinBarasat,Hindi,19:00,Gold,150₹,14,0
+WestBengal,DakshinBarasat,MahamayaTalkiesDakshinBarasat,Hindi,19:00,Silver,100₹,160,0
