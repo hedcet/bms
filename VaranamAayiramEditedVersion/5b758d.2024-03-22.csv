@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+TamilNadu,Erode,SriMuruganTheatreACDtsAmmapettai,Tamil,10:30,FirstClass,80₹,439,22
+TamilNadu,Coimbatore,InoxProzoneMallCoimbatore,Tamil,11:30,Club,151.18₹,184,34
+TamilNadu,Coimbatore,InoxProzoneMallCoimbatore,Tamil,11:30,Executive,59.61₹,25,12
+TamilNadu,Chennai,PvrPalazzoTheNexusVijayaMall,Tamil,12:10,Budget,59.61₹,28,28
+TamilNadu,Chennai,PvrPalazzoTheNexusVijayaMall,Tamil,12:10,Elite,139₹,216,60
+TamilNadu,Chennai,InoxTheMarinaMallOmr,Tamil,12:25,Club,127.19₹,137,38
+TamilNadu,Chennai,InoxTheMarinaMallOmr,Tamil,12:25,Executive,59.61₹,16,16
+TamilNadu,Erode,SriMuruganTheatreACDtsAmmapettai,Tamil,14:30,FirstClass,80₹,439,22
+TamilNadu,Chennai,InoxLuxePhoenixMarketCityVelachery,Tamil,15:20,Elite,139₹,126,41
+TamilNadu,Chennai,InoxLuxePhoenixMarketCityVelachery,Tamil,15:20,Budget,59.61₹,14,14
+TamilNadu,Chennai,PvrVrChennaiAnnaNagar,Tamil,15:20,Classic,59.61₹,16,16
+TamilNadu,Chennai,PvrVrChennaiAnnaNagar,Tamil,15:20,Prime,189.06₹,110,35
+TamilNadu,Erode,SriMuruganTheatreACDtsAmmapettai,Tamil,18:15,FirstClass,80₹,439,22
+TamilNadu,Erode,SriMuruganTheatreACDtsAmmapettai,Tamil,21:30,FirstClass,80₹,439,22
