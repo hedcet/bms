@@ -1,0 +1,8 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Mumbai,PvrIconInfinitiAndheriW,Hindi,10:45,Recliner,250₹,12,10
+Maharashtra,Mumbai,PvrIconInfinitiAndheriW,Hindi,10:45,Classic,112₹,45,0
+Maharashtra,Mumbai,PvrIconInfinitiAndheriW,Hindi,10:45,Prime,112₹,179,17
+Maharashtra,Pune,PvrPhoenixMarketCityPune,Hindi,13:25,Classic,150₹,36,0
+Maharashtra,Pune,PvrPhoenixMarketCityPune,Hindi,13:25,Prime,150₹,153,0
+Maharashtra,Pune,PvrPhoenixMarketCityPune,Hindi,13:25,PrimePlus,150₹,21,0
+Maharashtra,Pune,PvrPhoenixMarketCityPune,Hindi,13:25,Recliner,300₹,16,0
