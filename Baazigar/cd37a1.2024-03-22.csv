@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Mumbai,CinepolisMagnetMallBhandupW,Hindi,22:05,Normal,110₹,36,0
+Maharashtra,Mumbai,CinepolisMagnetMallBhandupW,Hindi,22:05,Executive,110₹,81,16
+Maharashtra,Mumbai,CinepolisMagnetMallBhandupW,Hindi,22:05,Vip,200₹,26,5
