@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Pune,CinepolisNexusWestendMallAundhPune,Marathi,12:50,Normal,220₹,24,0
+Maharashtra,Pune,CinepolisNexusWestendMallAundhPune,Marathi,12:50,Executive,220₹,64,0
+Maharashtra,Pune,CinepolisNexusWestendMallAundhPune,Marathi,12:50,Premium,220₹,48,8
+Maharashtra,Pune,AbhiruchiCityPrideSinhagadRoad,Marathi,16:45,RoyalSofa,250₹,12,2
+Maharashtra,Pune,AbhiruchiCityPrideSinhagadRoad,Marathi,16:45,RoyalGold,200₹,123,15
+Maharashtra,Pune,AbhiruchiCityPrideSinhagadRoad,Marathi,16:45,RoyalSilver,180₹,30,0
+Maharashtra,Pune,CityPrideSataraRoad,Marathi,18:15,RoyalGold,220₹,81,22
+Maharashtra,Pune,CityPrideSataraRoad,Marathi,18:15,RoyalSilver,200₹,9,0
+Maharashtra,Mumbai,MovieTimeHubGoregaonE,Marathi,20:00,Gold,170₹,63,25
+Maharashtra,Thane,CinepolisVivianaMallThane,Marathi,20:05,Normal,260₹,27,0
+Maharashtra,Thane,CinepolisVivianaMallThane,Marathi,20:05,Executive,280₹,104,21
+Maharashtra,Thane,CinepolisVivianaMallThane,Marathi,20:05,Premium,300₹,46,10
+Maharashtra,Pune,CityPrideKothrud,Marathi,20:45,RoyalGold,230₹,149,116
+Maharashtra,Pune,CityPrideKothrud,Marathi,20:45,RoyalSilver,200₹,22,0
