@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Ulhasnagar,AshokAnilMultiplexMirajCinemasUlhasnagar,Telugu,12:00,Gold,180₹,197,197
+Maharashtra,Ulhasnagar,AshokAnilMultiplexMirajCinemasUlhasnagar,Telugu,12:00,Silver,150₹,40,40
+Maharashtra,Ulhasnagar,AshokAnilMultiplexMirajCinemasUlhasnagar,Telugu,15:30,Gold,180₹,197,197
+Maharashtra,Ulhasnagar,AshokAnilMultiplexMirajCinemasUlhasnagar,Telugu,15:30,Silver,150₹,40,40
+Maharashtra,Ulhasnagar,AshokAnilMultiplexMirajCinemasUlhasnagar,Telugu,19:00,Gold,180₹,197,197
+Maharashtra,Ulhasnagar,AshokAnilMultiplexMirajCinemasUlhasnagar,Telugu,19:00,Silver,160₹,40,40
+Maharashtra,Ulhasnagar,AshokAnilMultiplexMirajCinemasUlhasnagar,Telugu,22:30,Gold,180₹,197,0
+Maharashtra,Ulhasnagar,AshokAnilMultiplexMirajCinemasUlhasnagar,Telugu,22:30,Silver,160₹,40,0
