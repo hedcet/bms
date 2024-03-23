@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Karnataka,Hubli,ApsaraSudhaCinemasHubli,Kannada,12:00,Balcony,150₹,220,14
+Karnataka,Hubli,ApsaraSudhaCinemasHubli,Kannada,12:00,DressCircle,110₹,218,0
+Karnataka,Hubli,ApsaraSudhaCinemasHubli,Kannada,18:00,Balcony,150₹,220,14
+Karnataka,Hubli,ApsaraSudhaCinemasHubli,Kannada,18:00,DressCircle,110₹,218,0
