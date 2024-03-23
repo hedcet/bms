@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+WestBengal,Balurghat,SatyajitManchaBalurghat,Hindi,12:30,Balcony,100₹,55,8
+WestBengal,Balurghat,SatyajitManchaBalurghat,Hindi,12:30,RearStall,60₹,880,17
+WestBengal,Balurghat,SatyajitManchaBalurghat,Hindi,15:30,Balcony,100₹,55,2
+WestBengal,Balurghat,SatyajitManchaBalurghat,Hindi,15:30,RearStall,60₹,880,6
+WestBengal,Jagatdal,SriKrishnaCinemaGhoshpara,Hindi,17:00,Balcony,70₹,85,0
+WestBengal,Jagatdal,SriKrishnaCinemaGhoshpara,Hindi,17:00,RearStall,50₹,340,0
+AndhraPradesh,Agiripalli,SriAnuDeluxeAgiripalli,Telugu,18:15,Balcony,100₹,218,50
+AndhraPradesh,Agiripalli,SriAnuDeluxeAgiripalli,Telugu,18:15,Reserved,60₹,84,48
+WestBengal,Balurghat,SatyajitManchaBalurghat,Hindi,18:30,Balcony,100₹,55,0
+WestBengal,Balurghat,SatyajitManchaBalurghat,Hindi,18:30,RearStall,60₹,880,0
+WestBengal,Jagatdal,SriKrishnaCinemaGhoshpara,Hindi,19:30,Balcony,70₹,85,0
+WestBengal,Jagatdal,SriKrishnaCinemaGhoshpara,Hindi,19:30,RearStall,50₹,340,0
+AndhraPradesh,Agiripalli,SriAnuDeluxeAgiripalli,Telugu,21:10,Balcony,100₹,218,50
+AndhraPradesh,Agiripalli,SriAnuDeluxeAgiripalli,Telugu,21:10,Reserved,60₹,84,48
