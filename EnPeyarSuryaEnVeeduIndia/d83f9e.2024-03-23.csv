@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+TamilNadu,Erode,KrishnaTheatreKoluthupalayam,Tamil,10:30,FirstClass,80₹,302,0
+TamilNadu,Erode,KrishnaTheatreKoluthupalayam,Tamil,14:30,FirstClass,80₹,302,0
+Kerala,Thrissur,SreelakshmiCinemaAmballur4K2KLaserProjection,Tamil,15:30,Gold,150₹,145,0
+Kerala,Thrissur,SreelakshmiCinemaAmballur4K2KLaserProjection,Tamil,18:30,Gold,150₹,145,0
+TamilNadu,Erode,KrishnaTheatreKoluthupalayam,Tamil,18:30,FirstClass,80₹,302,0
+TamilNadu,Erode,KrishnaTheatreKoluthupalayam,Tamil,22:00,FirstClass,80₹,302,5
