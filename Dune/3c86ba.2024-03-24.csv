@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+WestBengal,Kolkata,CinepolisLakeMallKolkata,English,21:25,Normal,240₹,40,0
+WestBengal,Kolkata,CinepolisLakeMallKolkata,English,21:25,Executive,260₹,168,4
+WestBengal,Kolkata,CinepolisLakeMallKolkata,English,21:25,Premium,280₹,46,29
+WestBengal,Kolkata,CinepolisLakeMallKolkata,English,21:25,Vip,550₹,10,0
