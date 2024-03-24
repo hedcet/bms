@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kerala,Kollam,MyCinemasRpMallKollamKerala,Malayalam,15:15,PremiumOffline,180₹,96,53
+Kerala,Kozhikode,ArcCoronation4KDolbyAtmos,Malayalam,16:00,Elite,160₹,146,54
+Kerala,Thalassery,LibertyParadiseThalassery,Malayalam,18:00,Suite,129.8₹,324,255
+Kerala,Kochi,VanithaCineplexRgbLaser4K3DAtmosEdappally,Malayalam,19:00,Screen4,180₹,154,115
+Kerala,Kochi,VanithaCineplexRgbLaser4K3DAtmosEdappally,Malayalam,19:00,Screen4Sofa,260₹,15,3
