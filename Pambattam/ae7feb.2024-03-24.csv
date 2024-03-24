@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+TamilNadu,Perambalur,SwamyTheatre2KPerambalur,Tamil,11:00,FirstClass,100₹,270,0
+TamilNadu,Perambalur,SwamyTheatre2KPerambalur,Tamil,14:30,FirstClass,100₹,270,0
+TamilNadu,Madurai,ShaTheatreMadurai,Tamil,18:00,FirstClass,0₹,"1,162","1,036"
+TamilNadu,Manapparai,IndiraCinemasACDolby71Manapparai,Tamil,18:30,FirstClass,100₹,300,0
+TamilNadu,Perambalur,SwamyTheatre2KPerambalur,Tamil,18:30,FirstClass,100₹,270,0
+TamilNadu,Manapparai,IndiraCinemasACDolby71Manapparai,Tamil,22:00,FirstClass,100₹,300,0
+TamilNadu,Madurai,ShaTheatreMadurai,Tamil,22:00,FirstClass,0₹,"1,162","1,036"
+TamilNadu,Perambalur,SwamyTheatre2KPerambalur,Tamil,22:00,FirstClass,100₹,270,0
