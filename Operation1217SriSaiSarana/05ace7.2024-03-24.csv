@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Odisha,Bhubaneswar,PvrUtkalKanikaGalleriaBhubaneswar,Odia,10:40,Recliner,450₹,12,0
+Odisha,Bhubaneswar,PvrUtkalKanikaGalleriaBhubaneswar,Odia,10:40,Classic,190₹,28,1
+Odisha,Bhubaneswar,PvrUtkalKanikaGalleriaBhubaneswar,Odia,10:40,Prime,190₹,211,17
+Odisha,Baripada,RoxyCinemaBaripadaAC2KDolby712,Odia,11:45,Balcony,100₹,122,20
+Odisha,Baripada,RoxyCinemaBaripadaAC2KDolby712,Odia,11:45,DressCircle,120₹,92,8
+Odisha,Baripada,RoxyCinemaBaripadaAC2KDolby712,Odia,11:45,Stall,70₹,400,2
+Odisha,Rourkela,CinecaarnivalCrossroadMallRourkela,Odia,18:00,Diamond,180₹,17,0
+Odisha,Rourkela,CinecaarnivalCrossroadMallRourkela,Odia,18:00,Gold,150₹,88,30
+Odisha,Rourkela,CinecaarnivalCrossroadMallRourkela,Odia,18:00,Silver,150₹,18,0
+Odisha,Bhubaneswar,PvrUtkalKanikaGalleriaBhubaneswar,Odia,19:20,Recliner,450₹,12,2
+Odisha,Bhubaneswar,PvrUtkalKanikaGalleriaBhubaneswar,Odia,19:20,Prime,240₹,139,56
+Odisha,Bhubaneswar,PvrUtkalKanikaGalleriaBhubaneswar,Odia,19:20,Classic,220₹,24,0
