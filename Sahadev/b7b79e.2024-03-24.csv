@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Barshi,GoldenCinemaxBarshi,Hindi,15:10,Platinum,200₹,32,0
+Maharashtra,Barshi,GoldenCinemaxBarshi,Hindi,15:10,Gold,150₹,36,11
+Maharashtra,Barshi,GoldenCinemaxBarshi,Hindi,15:10,Silver,100₹,34,1
+Maharashtra,Barshi,GoldenCinemaxBarshi,Hindi,21:10,Platinum,200₹,32,0
+Maharashtra,Barshi,GoldenCinemaxBarshi,Hindi,21:10,Gold,150₹,36,0
+Maharashtra,Barshi,GoldenCinemaxBarshi,Hindi,21:10,Silver,100₹,34,0
