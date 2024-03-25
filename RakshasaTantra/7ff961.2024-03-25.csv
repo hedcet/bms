@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,10:35,Recliner,360₹,33,0
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,10:35,Prime,200₹,120,0
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,10:35,Classiic,180₹,140,3
+Karnataka,TumakuruTumkur,InoxSMallTumakuru,Kannada,10:40,Club,112₹,64,8
+Karnataka,TumakuruTumkur,InoxSMallTumakuru,Kannada,10:40,Executive,112₹,76,0
+Karnataka,MysuruMysore,InoxCentroMysore,Kannada,14:05,Club,112₹,44,9
+Karnataka,MysuruMysore,InoxCentroMysore,Kannada,14:05,Executive,112₹,46,2
+Karnataka,MysuruMysore,PvrGarudaMallAlbertVictorRoadMysuru,Kannada,16:10,Classic,112₹,119,11
+Karnataka,Bengaluru,PvrGtWorldMallMagadiRoad,Kannada,16:35,Classic,112₹,179,0
+Karnataka,Bengaluru,PvrGtWorldMallMagadiRoad,Kannada,16:35,Recliner,240₹,16,0
+Karnataka,Bengaluru,GopalanCinemasArcadeMallMysoreRoad,Kannada,19:30,Gold,99₹,292,0
+Karnataka,Bengaluru,GopalanCinemasArcadeMallMysoreRoad,Kannada,19:30,Recliner,200₹,19,1
