@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+TamilNadu,Salem,ArrsGeethalayaTheatreSalemOldBusStand,Tamil,10:50,FirstClass,100₹,456,0
+TamilNadu,Tirupur,KrishnaTheatreTirupur,Tamil,14:00,FirstClass,80₹,159,0
+TamilNadu,Tirupur,KrishnaTheatreTirupur,Tamil,14:00,SecondClass,80₹,102,0
+TamilNadu,Tirupur,VaranashiMultiplexTirupur,Tamil,14:00,BoxAOc,140₹,18,0
+TamilNadu,Tirupur,VaranashiMultiplexTirupur,Tamil,14:00,BalconyOc,110₹,279,6
+TamilNadu,Salem,ArrsGeethalayaTheatreSalemOldBusStand,Tamil,14:30,FirstClass,100₹,456,0
+TamilNadu,Chennai,SlbLakshmiBalaMoviePark4KDolbyAtmosPadi,Tamil,15:20,FirstClass,130₹,141,0
+TamilNadu,Tirupur,KrishnaTheatreTirupur,Tamil,18:00,FirstClass,80₹,159,0
+TamilNadu,Tirupur,KrishnaTheatreTirupur,Tamil,18:00,SecondClass,80₹,102,0
+TamilNadu,Salem,ArrsGeethalayaTheatreSalemOldBusStand,Tamil,18:30,FirstClass,100₹,456,0
+TamilNadu,Tirupur,VaranashiMultiplexTirupur,Tamil,21:50,BoxAOc,140₹,18,0
+TamilNadu,Tirupur,VaranashiMultiplexTirupur,Tamil,21:50,BalconyOc,110₹,279,0
+TamilNadu,Tirupur,KrishnaTheatreTirupur,Tamil,22:00,FirstClass,80₹,159,0
+TamilNadu,Tirupur,KrishnaTheatreTirupur,Tamil,22:00,SecondClass,80₹,102,0
+TamilNadu,Salem,ArrsGeethalayaTheatreSalemOldBusStand,Tamil,22:15,FirstClass,100₹,456,0
+TamilNadu,Chennai,SlbLakshmiBalaMoviePark4KDolbyAtmosPadi,Tamil,22:20,FirstClass,130₹,141,0
