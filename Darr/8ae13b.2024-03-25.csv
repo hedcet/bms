@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+UttarPradesh,Agra,ChitraCinemaAgra,Hindi,12:00,Balcony,50₹,117,0
+UttarPradesh,Agra,ChitraCinemaAgra,Hindi,15:00,Balcony,50₹,117,0
+UttarPradesh,Agra,HeeraTalkiesAgra,Hindi,15:35,Balcony,60₹,464,1
+UttarPradesh,Agra,HeeraTalkiesAgra,Hindi,15:35,DressCircle,40₹,308,13
+UttarPradesh,Agra,ChitraCinemaAgra,Hindi,18:00,Balcony,50₹,117,0
+UttarPradesh,Agra,HeeraTalkiesAgra,Hindi,18:50,Balcony,60₹,464,1
+UttarPradesh,Agra,HeeraTalkiesAgra,Hindi,18:50,DressCircle,40₹,308,8
+UttarPradesh,Agra,ChitraCinemaAgra,Hindi,21:00,Balcony,50₹,117,0
