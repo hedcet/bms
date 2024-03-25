@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+HimachalPradesh,Shimla,ShahiTheatreShimla,Hindi,11:00,Balcony,120₹,50,0
+HimachalPradesh,Shimla,ShahiTheatreShimla,Hindi,11:00,BackStall,100₹,138,0
+HimachalPradesh,Shimla,ShahiTheatreShimla,Hindi,14:00,Balcony,120₹,50,0
+HimachalPradesh,Shimla,ShahiTheatreShimla,Hindi,14:00,BackStall,100₹,138,0
+Gujarat,Ahmedabad,AbMiniplexShivranjiniCrossRoadSatellite,Hindi,14:15,CoupleBed,150₹,18,6
+HimachalPradesh,Shimla,ShahiTheatreShimla,Hindi,17:00,Balcony,120₹,50,0
+HimachalPradesh,Shimla,ShahiTheatreShimla,Hindi,17:00,BackStall,100₹,138,0
+HimachalPradesh,Shimla,ShahiTheatreShimla,Hindi,19:30,Balcony,120₹,50,0
+HimachalPradesh,Shimla,ShahiTheatreShimla,Hindi,19:30,BackStall,100₹,138,0
+MadhyaPradesh,Indore,PvrTreasureIslandMallIndore,Hindi,22:20,Recliner,310₹,9,5
+MadhyaPradesh,Indore,PvrTreasureIslandMallIndore,Hindi,22:20,Prime,180₹,46,13
+MadhyaPradesh,Indore,PvrTreasureIslandMallIndore,Hindi,22:20,Classic,150₹,26,0
