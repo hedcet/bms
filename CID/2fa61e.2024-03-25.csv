@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Telangana,Hyderabad,PvrNexusMallKukatpallyHyderabad,Hindi,14:20,Recliner,250₹,9,1
+Telangana,Hyderabad,PvrNexusMallKukatpallyHyderabad,Hindi,14:20,Classic,150₹,135,31
+TamilNadu,Chennai,PvrEscapeExpressAvenueMall,Hindi,16:00,Budget,61.15₹,11,11
+TamilNadu,Chennai,PvrEscapeExpressAvenueMall,Hindi,16:00,Elite,129.33₹,99,17
+Telangana,Hyderabad,PvrNextGalleriaMallPanjagutta,Hindi,16:55,Classic,150₹,145,16
