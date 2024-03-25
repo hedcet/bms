@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Telangana,Hyderabad,PvrNextGalleriaMallPanjagutta,Japanese,14:55,Classic,149₹,54,28
+Karnataka,Bengaluru,PvrNexusFormerlyForumKoramangala,Japanese,17:00,Prime,280₹,32,18
+Karnataka,Bengaluru,PvrNexusFormerlyForumKoramangala,Japanese,17:00,Classic,250₹,71,3
+Ncr,GurugramGurgaon,LegendCinemaLoungesMallFiftyOneGurgaon,English,18:00,BedloungerSuperior,900₹,15,2
+Ncr,GurugramGurgaon,LegendCinemaLoungesMallFiftyOneGurgaon,English,18:00,BedLounger,800₹,21,0
