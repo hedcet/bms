@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+TamilNadu,Pudukkottai,VcCineComplexPudhukottai,Tamil,11:20,FirstClass,120₹,63,0
+TamilNadu,Pudukkottai,VcCineComplexPudhukottai,Tamil,11:20,SecondClass,120₹,44,0
+TamilNadu,Pudukkottai,VcCineComplexPudhukottai,Tamil,11:20,ThirdClass,120₹,91,0
+TamilNadu,Pudukkottai,VcCineComplexPudhukottai,Tamil,14:20,FirstClass,120₹,63,0
+TamilNadu,Pudukkottai,VcCineComplexPudhukottai,Tamil,14:20,SecondClass,120₹,44,0
+TamilNadu,Pudukkottai,VcCineComplexPudhukottai,Tamil,14:20,ThirdClass,120₹,91,0
+TamilNadu,Pudukkottai,VcCineComplexPudhukottai,Tamil,18:30,FirstClass,120₹,63,0
+TamilNadu,Pudukkottai,VcCineComplexPudhukottai,Tamil,18:30,SecondClass,120₹,44,0
+TamilNadu,Pudukkottai,VcCineComplexPudhukottai,Tamil,18:30,ThirdClass,120₹,91,0
+TamilNadu,Pudukkottai,VcCineComplexPudhukottai,Tamil,22:00,FirstClass,120₹,63,0
+TamilNadu,Pudukkottai,VcCineComplexPudhukottai,Tamil,22:00,SecondClass,120₹,44,0
+TamilNadu,Pudukkottai,VcCineComplexPudhukottai,Tamil,22:00,ThirdClass,120₹,91,0
