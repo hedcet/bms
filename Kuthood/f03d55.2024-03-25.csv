@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kerala,Kozhinjampara,VrindavanTheatreKozhinjampara,Malayalam,02:00,Platinum,110₹,189,0
+Kerala,Kasaragod,MoviemaxCircleKasaragod,Malayalam,10:30,Max2,129.8₹,195,0
+Kerala,Mulleria,KaveriCinemasACDtsDolbyKarmamthody,Malayalam,10:30,Standard,110₹,145,0
+Kerala,Payyanur,ArchanaCineplexRgbLaser4K3DAtmosPayyanur,Malayalam,10:30,Standard,129.7₹,131,10
+Kerala,Kochi,SangeetaCinemaKochi,Malayalam,12:00,BlueCircle,150₹,187,18
+Kerala,Kozhinjampara,VrindavanTheatreKozhinjampara,Malayalam,14:00,Platinum,110₹,189,0
+Kerala,Kozhikode,PalaxiCinemasHiLiteMallKozhikode,Malayalam,14:15,Recliner,300₹,23,0
+Kerala,Kozhikode,PalaxiCinemasHiLiteMallKozhikode,Malayalam,14:15,Premium,150₹,88,10
+Kerala,Kozhikode,PalaxiCinemasHiLiteMallKozhikode,Malayalam,14:15,Executive,100₹,17,0
+Kerala,Kozhikode,PalaxiCinemasHiLiteMallKozhikode,Malayalam,14:15,Lounger,180₹,14,0
+Kerala,Mulleria,KaveriCinemasACDtsDolbyKarmamthody,Malayalam,16:30,Standard,110₹,145,0
+Kerala,Kanhangad,VgmMultiplexAC2K71Dolby,Malayalam,17:30,VgmBlue,190₹,241,30
