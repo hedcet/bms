@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+UttarPradesh,Lucknow,ShubhamCinemaLucknow,Hindi,12:45,Firstclass,100₹,38,0
+UttarPradesh,Lucknow,ShubhamCinemaLucknow,Hindi,12:45,Stall,130₹,266,0
+UttarPradesh,Lucknow,ShubhamCinemaLucknow,Hindi,12:45,Silver,160₹,199,0
+UttarPradesh,Lucknow,ShubhamCinemaLucknow,Hindi,12:45,Gold,190₹,14,0
+UttarPradesh,Lucknow,ShubhamCinemaLucknow,Hindi,15:45,Firstclass,100₹,38,0
+UttarPradesh,Lucknow,ShubhamCinemaLucknow,Hindi,15:45,Stall,130₹,266,0
+UttarPradesh,Lucknow,ShubhamCinemaLucknow,Hindi,15:45,Silver,160₹,199,0
+UttarPradesh,Lucknow,ShubhamCinemaLucknow,Hindi,15:45,Gold,190₹,14,0
+UttarPradesh,Lucknow,ShubhamCinemaLucknow,Hindi,18:30,Firstclass,100₹,38,8
+UttarPradesh,Lucknow,ShubhamCinemaLucknow,Hindi,18:30,Stall,130₹,266,1
+UttarPradesh,Lucknow,ShubhamCinemaLucknow,Hindi,18:30,Silver,160₹,199,4
+UttarPradesh,Lucknow,ShubhamCinemaLucknow,Hindi,18:30,Gold,190₹,14,0
+UttarPradesh,Lucknow,ShubhamCinemaLucknow,Hindi,21:30,Firstclass,100₹,38,0
+UttarPradesh,Lucknow,ShubhamCinemaLucknow,Hindi,21:30,Stall,130₹,266,0
+UttarPradesh,Lucknow,ShubhamCinemaLucknow,Hindi,21:30,Silver,160₹,199,0
+UttarPradesh,Lucknow,ShubhamCinemaLucknow,Hindi,21:30,Gold,190₹,14,0
