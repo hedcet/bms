@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Rajasthan,Jaipur,CinepolisWorldTradeParkMallJaipur,Hindi,12:05,Normal,110₹,46,0
+Rajasthan,Jaipur,CinepolisWorldTradeParkMallJaipur,Hindi,12:05,Executive,110₹,114,2
+Rajasthan,Jaipur,CinepolisWorldTradeParkMallJaipur,Hindi,12:05,Premium,110₹,31,0
+Gujarat,Vadodara,CinepolisInorbitVadodaraMall,Hindi,17:15,Normal,110₹,24,0
+Gujarat,Vadodara,CinepolisInorbitVadodaraMall,Hindi,17:15,Premium,110₹,41,10
+Gujarat,Vadodara,CinepolisInorbitVadodaraMall,Hindi,17:15,Executive,110₹,81,0
