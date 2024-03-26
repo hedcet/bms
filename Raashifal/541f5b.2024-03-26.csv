@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Haryana,Kaithal,CineSquareCinemasKaithal,Hindi,17:00,Royale,180₹,84,0
+Chandigarh,Chandigarh,FunCinemasRepublicMallChandigarh,Hindi,19:00,Normal,140₹,66,0
+Chandigarh,Chandigarh,FunCinemasRepublicMallChandigarh,Hindi,19:00,Executive,150₹,166,12
