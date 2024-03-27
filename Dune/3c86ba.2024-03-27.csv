@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+WestBengal,Kolkata,InoxSouthCityKolkata,English,11:00,Silver,250₹,257,14
+WestBengal,Kolkata,InoxSouthCityKolkata,English,14:30,Silver,270₹,257,15
+WestBengal,Kolkata,InoxSouthCityKolkata,English,18:00,Silver,330₹,257,14
+WestBengal,Kolkata,InoxSouthCityKolkata,English,21:30,Silver,330₹,257,14
