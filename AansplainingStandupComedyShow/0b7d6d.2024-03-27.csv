@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+TamilNadu,Chennai,PvrEscapeExpressAvenueMall,English,12:00,Budget,66.3₹,11,11
+TamilNadu,Chennai,PvrEscapeExpressAvenueMall,English,12:00,Elite,169₹,99,1
+TamilNadu,Chennai,InoxTheMarinaMallOmr,English,16:25,Club,211.46₹,137,13
+TamilNadu,Chennai,InoxTheMarinaMallOmr,English,16:25,Executive,66.3₹,16,10
+TamilNadu,Chennai,InoxLuxePhoenixMarketCityVelachery,English,18:30,Elite,211.46₹,134,15
+TamilNadu,Chennai,InoxLuxePhoenixMarketCityVelachery,English,18:30,Budget,66.3₹,24,22
+TamilNadu,Coimbatore,InoxProzoneMallCoimbatore,English,19:00,Club,211.46₹,148,15
+TamilNadu,Coimbatore,InoxProzoneMallCoimbatore,English,19:00,Executive,66.3₹,22,5
+Karnataka,Bengaluru,PvrPhoenixMarketcityMallWhitefieldRoad,English,20:15,Recliner,310₹,12,0
+Karnataka,Bengaluru,PvrPhoenixMarketcityMallWhitefieldRoad,English,20:15,Classic,200₹,136,9
+TamilNadu,Chennai,PvrHeritageRslEcrChennai,English,22:00,Prime,211.46₹,118,13
+TamilNadu,Chennai,PvrHeritageRslEcrChennai,English,22:00,Classic,66.3₹,15,15
