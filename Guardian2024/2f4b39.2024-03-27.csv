@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+TamilNadu,Rasipuram,ShrriDheveeTheatreACDtsRasipuram,Tamil,10:45,Diamond,100₹,210,44
+TamilNadu,Rasipuram,ShrriDheveeTheatreACDtsRasipuram,Tamil,10:45,Gold,100₹,105,0
+TamilNadu,Rasipuram,ShrriDheveeTheatreACDtsRasipuram,Tamil,10:45,Silver,100₹,84,0
+TamilNadu,Rasipuram,ShrriDheveeTheatreACDtsRasipuram,Tamil,14:30,Diamond,100₹,210,42
+TamilNadu,Rasipuram,ShrriDheveeTheatreACDtsRasipuram,Tamil,14:30,Gold,100₹,105,0
+TamilNadu,Rasipuram,ShrriDheveeTheatreACDtsRasipuram,Tamil,14:30,Silver,100₹,84,0
+TamilNadu,Chennai,RohiniSilverScreensKoyambedu,Tamil,15:30,GoldStar,140₹,272,16
+TamilNadu,Rasipuram,ShrriDheveeTheatreACDtsRasipuram,Tamil,18:30,Diamond,100₹,210,42
+TamilNadu,Rasipuram,ShrriDheveeTheatreACDtsRasipuram,Tamil,18:30,Gold,100₹,105,0
+TamilNadu,Rasipuram,ShrriDheveeTheatreACDtsRasipuram,Tamil,18:30,Silver,100₹,84,0
+TamilNadu,Rasipuram,ShrriDheveeTheatreACDtsRasipuram,Tamil,21:45,Diamond,100₹,210,42
+TamilNadu,Rasipuram,ShrriDheveeTheatreACDtsRasipuram,Tamil,21:45,Gold,100₹,105,0
+TamilNadu,Rasipuram,ShrriDheveeTheatreACDtsRasipuram,Tamil,21:45,Silver,100₹,84,0
+TamilNadu,Chennai,RohiniSilverScreensKoyambedu,Tamil,23:00,GoldStar,140₹,272,6
