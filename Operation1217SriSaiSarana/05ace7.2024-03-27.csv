@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Odisha,Baripada,RoxyCinemaBaripadaAC2KDolby712,Odia,11:45,Balcony,100₹,122,4
+Odisha,Baripada,RoxyCinemaBaripadaAC2KDolby712,Odia,11:45,DressCircle,120₹,92,2
+Odisha,Baripada,RoxyCinemaBaripadaAC2KDolby712,Odia,11:45,Stall,70₹,400,0
+Odisha,Rourkela,CinecaarnivalCrossroadMallRourkela,Odia,18:00,Diamond,180₹,17,0
+Odisha,Rourkela,CinecaarnivalCrossroadMallRourkela,Odia,18:00,Gold,150₹,88,0
+Odisha,Rourkela,CinecaarnivalCrossroadMallRourkela,Odia,18:00,Silver,130₹,18,0
+Odisha,Bhubaneswar,PvrUtkalKanikaGalleriaBhubaneswar,Odia,19:25,Recliner,380₹,12,0
+Odisha,Bhubaneswar,PvrUtkalKanikaGalleriaBhubaneswar,Odia,19:25,Classic,180₹,24,0
+Odisha,Bhubaneswar,PvrUtkalKanikaGalleriaBhubaneswar,Odia,19:25,Prime,180₹,139,35
