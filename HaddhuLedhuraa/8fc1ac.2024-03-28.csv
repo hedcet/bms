@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Telangana,Hyderabad,PvrNexusMallKukatpallyHyderabad,Telugu,11:20,Recliner,250₹,12,0
+Telangana,Hyderabad,PvrNexusMallKukatpallyHyderabad,Telugu,11:20,Classic,112₹,232,58
+Telangana,Hyderabad,MetroCinemaBahadurpura,Telugu,11:30,Balcony,100₹,412,0
+Telangana,Hyderabad,MetroCinemaBahadurpura,Telugu,11:30,Silver,70₹,225,0
+Telangana,Hyderabad,MetroCinemaBahadurpura,Telugu,14:30,Balcony,100₹,412,0
+Telangana,Hyderabad,MetroCinemaBahadurpura,Telugu,14:30,Silver,70₹,225,0
+Telangana,Hyderabad,MetroCinemaBahadurpura,Telugu,18:00,Balcony,100₹,412,0
+Telangana,Hyderabad,MetroCinemaBahadurpura,Telugu,18:00,Silver,70₹,225,0
+Telangana,Hyderabad,MetroCinemaBahadurpura,Telugu,21:00,Balcony,100₹,412,0
+Telangana,Hyderabad,MetroCinemaBahadurpura,Telugu,21:00,Silver,70₹,225,0
