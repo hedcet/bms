@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+TamilNadu,Pennagaram,RamBalajiTheatrePennagaram,Tamil,10:30,Balcony,70₹,182,2
+TamilNadu,Pennagaram,RamBalajiTheatrePennagaram,Tamil,10:30,FirstClass,70₹,522,502
+TamilNadu,Pennagaram,RamBalajiTheatrePennagaram,Tamil,13:30,Balcony,70₹,182,2
+TamilNadu,Pennagaram,RamBalajiTheatrePennagaram,Tamil,13:30,FirstClass,70₹,522,502
+TamilNadu,Pennagaram,RamBalajiTheatrePennagaram,Tamil,18:00,Balcony,70₹,182,2
+TamilNadu,Pennagaram,RamBalajiTheatrePennagaram,Tamil,18:00,FirstClass,70₹,522,502
+TamilNadu,Pennagaram,RamBalajiTheatrePennagaram,Tamil,21:00,Balcony,70₹,182,2
+TamilNadu,Pennagaram,RamBalajiTheatrePennagaram,Tamil,21:00,FirstClass,70₹,522,502
