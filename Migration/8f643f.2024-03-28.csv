@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+TamilNadu,Chennai,PvrHeritageRslEcrChennai,English,15:45,Prime,194₹,67,23
+TamilNadu,Chennai,PvrHeritageRslEcrChennai,English,15:45,Classic,101.3₹,8,8
+Ncr,Noida,PvrSuperplexLogixNoida,English,16:40,Classic,265₹,48,11
+Telangana,Hyderabad,PvrNextGalleriaMallPanjagutta,English,17:25,Classic,149₹,54,22
