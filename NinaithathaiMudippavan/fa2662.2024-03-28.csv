@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+TamilNadu,Madurai,PalaniArumugaCinemaACLaserProjectorMadurai,Tamil,10:45,Balcony,120₹,170,35
+TamilNadu,Madurai,PalaniArumugaCinemaACLaserProjectorMadurai,Tamil,10:45,Gold,100₹,183,24
+TamilNadu,Madurai,PalaniArumugaCinemaACLaserProjectorMadurai,Tamil,10:45,Silver,50₹,484,0
+TamilNadu,Madurai,PalaniArumugaCinemaACLaserProjectorMadurai,Tamil,14:30,Balcony,120₹,170,35
+TamilNadu,Madurai,PalaniArumugaCinemaACLaserProjectorMadurai,Tamil,14:30,Gold,100₹,183,24
+TamilNadu,Madurai,PalaniArumugaCinemaACLaserProjectorMadurai,Tamil,14:30,Silver,50₹,484,0
+TamilNadu,Madurai,PalaniArumugaCinemaACLaserProjectorMadurai,Tamil,18:30,Balcony,120₹,170,35
+TamilNadu,Madurai,PalaniArumugaCinemaACLaserProjectorMadurai,Tamil,18:30,Gold,100₹,183,24
+TamilNadu,Madurai,PalaniArumugaCinemaACLaserProjectorMadurai,Tamil,18:30,Silver,50₹,484,0
+TamilNadu,Madurai,PalaniArumugaCinemaACLaserProjectorMadurai,Tamil,22:30,Balcony,120₹,170,35
+TamilNadu,Madurai,PalaniArumugaCinemaACLaserProjectorMadurai,Tamil,22:30,Gold,100₹,183,24
+TamilNadu,Madurai,PalaniArumugaCinemaACLaserProjectorMadurai,Tamil,22:30,Silver,50₹,484,0
