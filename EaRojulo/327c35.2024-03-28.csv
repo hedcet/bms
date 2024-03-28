@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+AndhraPradesh,Madanapalle,AsrAC4KLaserDolbySurround71Madanapalle,Telugu,11:00,Reserved,112₹,386,0
+AndhraPradesh,Madanapalle,AsrAC4KLaserDolbySurround71Madanapalle,Telugu,11:00,SecondClass,89.6₹,134,0
+Telangana,Hyderabad,PvrMallapurRoadCinema,Telugu,13:25,Classic,200₹,201,14
+Telangana,Hyderabad,PvrCentralMallPanjagutta,Telugu,13:30,Classic,200₹,255,19
+Telangana,Hyderabad,PvrAtriumGachibowliHyderabad,Telugu,14:05,Recliner,300₹,12,1
+Telangana,Hyderabad,PvrAtriumGachibowliHyderabad,Telugu,14:05,Classic,200₹,113,13
+AndhraPradesh,Madanapalle,AsrAC4KLaserDolbySurround71Madanapalle,Telugu,14:15,Reserved,112₹,386,0
+AndhraPradesh,Madanapalle,AsrAC4KLaserDolbySurround71Madanapalle,Telugu,14:15,SecondClass,89.6₹,134,0
+Telangana,Hyderabad,AsianCineSquareMultiplexUppal,Telugu,16:50,Sofa,250₹,19,19
+Telangana,Hyderabad,AsianCineSquareMultiplexUppal,Telugu,16:50,Gold,200₹,477,60
+AndhraPradesh,Madanapalle,AsrAC4KLaserDolbySurround71Madanapalle,Telugu,18:00,Reserved,112₹,386,0
+AndhraPradesh,Madanapalle,AsrAC4KLaserDolbySurround71Madanapalle,Telugu,18:00,SecondClass,89.6₹,134,0
+AndhraPradesh,Madanapalle,AsrAC4KLaserDolbySurround71Madanapalle,Telugu,21:15,Reserved,112₹,386,0
+AndhraPradesh,Madanapalle,AsrAC4KLaserDolbySurround71Madanapalle,Telugu,21:15,SecondClass,89.6₹,134,0
