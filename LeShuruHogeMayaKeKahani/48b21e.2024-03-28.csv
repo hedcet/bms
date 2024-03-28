@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Nagpur,RajvilasTalkiesNagpur,Chattisgarhi,12:30,Vip,100₹,96,12
+Maharashtra,Nagpur,RajvilasTalkiesNagpur,Chattisgarhi,12:30,Gold,80₹,200,8
+Maharashtra,Nagpur,RajvilasTalkiesNagpur,Chattisgarhi,12:30,Silver,80₹,136,0
+Maharashtra,Nagpur,RajvilasTalkiesNagpur,Chattisgarhi,15:30,Vip,100₹,96,12
+Maharashtra,Nagpur,RajvilasTalkiesNagpur,Chattisgarhi,15:30,Gold,80₹,200,8
+Maharashtra,Nagpur,RajvilasTalkiesNagpur,Chattisgarhi,15:30,Silver,80₹,136,0
+Maharashtra,Nagpur,RajvilasTalkiesNagpur,Chattisgarhi,18:30,Vip,100₹,96,12
+Maharashtra,Nagpur,RajvilasTalkiesNagpur,Chattisgarhi,18:30,Gold,80₹,200,8
+Maharashtra,Nagpur,RajvilasTalkiesNagpur,Chattisgarhi,18:30,Silver,80₹,136,0
+Maharashtra,Nagpur,RajvilasTalkiesNagpur,Chattisgarhi,21:20,Vip,100₹,96,12
+Maharashtra,Nagpur,RajvilasTalkiesNagpur,Chattisgarhi,21:20,Gold,80₹,200,8
+Maharashtra,Nagpur,RajvilasTalkiesNagpur,Chattisgarhi,21:20,Silver,80₹,136,0
