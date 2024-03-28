@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+TamilNadu,Chennai,PvrEscapeExpressAvenueMall,Korean,12:20,Budget,66.3₹,11,11
+TamilNadu,Chennai,PvrEscapeExpressAvenueMall,Korean,12:20,Elite,169₹,99,19
+Maharashtra,Pune,InoxMegaplexPhoenixMallOfTheMillennium,Korean,13:40,Classic,112₹,22,0
+Maharashtra,Pune,InoxMegaplexPhoenixMallOfTheMillennium,Korean,13:40,Prime,112₹,110,8
+Ncr,Delhi,PvrPromenadeVasantKunj,Korean,16:05,Prime,320₹,44,10
+Ncr,Delhi,PvrPromenadeVasantKunj,Korean,16:05,Classic,280₹,50,0
+Ncr,Noida,MirajCinemasTgipNoida,Korean,16:15,Sofa,300₹,72,0
+Ncr,Noida,MirajCinemasTgipNoida,Korean,16:15,Recliner,450₹,22,0
+Ncr,Delhi,CinepolisDlfAvenueSaket,Korean,16:45,Normal,200₹,42,0
+Ncr,Delhi,CinepolisDlfAvenueSaket,Korean,16:45,Executive,220₹,56,0
+Ncr,Delhi,CinepolisDlfAvenueSaket,Korean,16:45,Premium,240₹,42,1
+Ncr,Delhi,CinepolisDlfAvenueSaket,Korean,16:45,Vip,500₹,8,0
+Maharashtra,Mumbai,MetroInoxCinemasMarineLines,Korean,17:25,Insignia,500₹,47,6
+Ncr,Noida,PvrSuperplexLogixNoida,Korean,21:30,Classic,112₹,119,13
