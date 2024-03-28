@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+AndhraPradesh,Narsapur,SriRajaRajeshwariPicturePalaceNarsapur,Telugu,11:15,SofaClass,0₹,76,0
+AndhraPradesh,Narsapur,SriRajaRajeshwariPicturePalaceNarsapur,Telugu,11:15,FirstClass,0₹,133,0
+AndhraPradesh,Vijayawada,SwarnaMultiplexVijayawada,Telugu,11:30,Premium,110₹,291,27
+AndhraPradesh,Vijayawada,SwarnaMultiplexVijayawada,Telugu,11:30,Economy,78₹,109,31
+AndhraPradesh,Narsapur,SriRajaRajeshwariPicturePalaceNarsapur,Telugu,18:15,SofaClass,0₹,76,0
+AndhraPradesh,Narsapur,SriRajaRajeshwariPicturePalaceNarsapur,Telugu,18:15,FirstClass,0₹,133,0
+AndhraPradesh,Vijayawada,SwarnaMultiplexVijayawada,Telugu,18:30,Premium,110₹,291,24
+AndhraPradesh,Vijayawada,SwarnaMultiplexVijayawada,Telugu,18:30,Economy,78₹,109,24
