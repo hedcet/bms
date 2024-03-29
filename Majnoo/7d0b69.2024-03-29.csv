@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Punjab,Ludhiana,CinepolisMbdNeopolisMallLudhiana,Punjabi,10:25,Premium,150₹,95,0
+Chandigarh,Chandigarh,FunCinemasRepublicMallChandigarh,Punjabi,12:40,Normal,150₹,66,66
+Chandigarh,Chandigarh,FunCinemasRepublicMallChandigarh,Punjabi,12:40,Executive,190₹,166,166
