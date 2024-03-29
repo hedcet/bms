@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+UttarPradesh,Gonda,KunwarNovaCinemazGonda,Hindi,13:00,Diamond,200₹,40,0
+UttarPradesh,Gonda,KunwarNovaCinemazGonda,Hindi,13:00,Gold,160₹,160,0
+UttarPradesh,Gonda,KunwarNovaCinemazGonda,Hindi,15:30,Diamond,200₹,40,0
+UttarPradesh,Gonda,KunwarNovaCinemazGonda,Hindi,15:30,Gold,160₹,160,0
+UttarPradesh,Gonda,KunwarNovaCinemazGonda,Hindi,18:30,Diamond,200₹,40,0
+UttarPradesh,Gonda,KunwarNovaCinemazGonda,Hindi,18:30,Gold,160₹,160,0
