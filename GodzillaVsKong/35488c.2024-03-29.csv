@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+AndhraPradesh,Samalkot,VigneswaraTheatreSamalkota,Telugu,14:30,Premium,110₹,269,114
+UttarPradesh,Agra,VimalCineplexAgra,Hindi,14:45,Gold,200₹,36,4
+UttarPradesh,Agra,VimalCineplexAgra,Hindi,14:45,Ebony,500₹,23,1
+UttarPradesh,Agra,VimalCineplexAgra,Hindi,14:45,Silver,200₹,6,0
+AndhraPradesh,Samalkot,VigneswaraTheatreSamalkota,Telugu,18:30,Premium,110₹,269,100
