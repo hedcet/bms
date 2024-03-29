@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Ncr,Delhi,PvrVegasDwarka,English,10:00,Classic,270₹,89,16
+Ncr,Delhi,PvrPromenadeVasantKunj,English,10:00,Prime,300₹,44,12
+Ncr,Delhi,PvrPromenadeVasantKunj,English,10:00,Classic,270₹,50,0
+Maharashtra,Mumbai,MaisonPvrTheLoftLuxeJioWorldDriveBkc,English,11:15,Luxe,550₹,24,14
+Ncr,GurugramGurgaon,InoxWorldMarkGurugram,English,16:40,RoyalRecliner,530₹,10,9
+Ncr,GurugramGurgaon,InoxWorldMarkGurugram,English,16:40,Royal,330₹,64,15
+Ncr,GurugramGurgaon,InoxWorldMarkGurugram,English,16:40,Club,310₹,65,2
+Ncr,GurugramGurgaon,InoxWorldMarkGurugram,English,16:40,Executive,290₹,26,0
