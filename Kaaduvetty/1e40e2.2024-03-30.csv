@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+TamilNadu,Tirukoilur,EshwariThiraiarangamAC4KDolbyAtmos,Tamil,11:00,PlatinumClass,100₹,378,1
+TamilNadu,Tirukoilur,EshwariThiraiarangamAC4KDolbyAtmos,Tamil,14:00,PlatinumClass,100₹,378,7
+TamilNadu,Chennai,PvrSklsGalaxyMallRedHillsChennai,Tamil,15:55,Prime,165₹,81,10
+TamilNadu,Chennai,PvrSklsGalaxyMallRedHillsChennai,Tamil,15:55,Classic,60.12₹,16,0
+TamilNadu,Tirukoilur,EshwariThiraiarangamAC4KDolbyAtmos,Tamil,18:00,PlatinumClass,100₹,378,0
+TamilNadu,Tirukoilur,EshwariThiraiarangamAC4KDolbyAtmos,Tamil,21:30,PlatinumClass,100₹,378,3
