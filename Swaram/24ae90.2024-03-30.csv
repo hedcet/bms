@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kerala,Kozhinjampara,VrindavanTheatreKozhinjampara,Malayalam,09:00,Platinum,110₹,189,0
+Kerala,Trivandrum,GreenfieldMoviemaxCinemasTrivandrum,Malayalam,10:00,Executive,150₹,119,0
+Kerala,Kodungallur,DCinemaaMughalMallBarco4KLaserKodungallur,Malayalam,10:30,Gold,150₹,172,0
+Kerala,Kodungallur,DCinemaaMughalMallBarco4KLaserKodungallur,Malayalam,10:30,Platinum,250₹,10,0
+Kerala,Kochi,SangeetaCinemaKochi,Malayalam,12:00,BlueCircle,150₹,187,20
+Kerala,Kasaragod,CineKrishna4KKasaragod,Malayalam,13:30,FirstClass,129.8₹,144,0
+Kerala,Kasaragod,CineKrishna4KKasaragod,Malayalam,13:30,Sofa,200₹,8,0
+Kerala,Payyanur,ArchanaCineplexRgbLaser4K3DAtmosPayyanur,Malayalam,13:30,Standard,129.7₹,125,0
+Kerala,Kasaragod,CineKrishna4KKasaragod,Malayalam,16:30,FirstClass,129.8₹,144,0
+Kerala,Kasaragod,CineKrishna4KKasaragod,Malayalam,16:30,Sofa,200₹,8,0
+Kerala,Kozhikode,AashirvadCineplexxKozhikode,Malayalam,16:55,Platinum,220₹,31,2
+Kerala,Kozhikode,AashirvadCineplexxKozhikode,Malayalam,16:55,Gold,200₹,67,9
