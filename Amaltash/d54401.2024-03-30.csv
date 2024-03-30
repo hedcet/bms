@@ -1,0 +1,8 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Mumbai,MaxusCinemasBorivaliW,Marathi,12:15,Couple,299₹,26,0
+Maharashtra,Mumbai,MaxusCinemasBorivaliW,Marathi,12:15,Recliner,299₹,42,4
+Maharashtra,Mumbai,MovieTimeHubGoregaonE,Marathi,12:30,Gold,140₹,63,28
+Telangana,Hyderabad,PvrCentralMallPanjagutta,Marathi,16:45,Classic,150₹,141,25
+Maharashtra,Mumbai,CitylightCinemaMahim,Marathi,17:45,Prime,180₹,252,53
+Maharashtra,Pune,CityPrideKothrud,Marathi,20:15,RoyalGold,230₹,149,134
+Maharashtra,Pune,CityPrideKothrud,Marathi,20:15,RoyalSilver,200₹,22,0
