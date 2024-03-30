@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Bihar,Darbhanga,SahilCineplexDarbhanga,Maithili,14:45,AcBox,150₹,48,0
+Ncr,Noida,PvrSuperplexLogixNoida,Maithili,16:15,Classic,150₹,120,69
+Ncr,Delhi,M2KPitampura,Maithili,16:45,Silver,150₹,166,84
+Ncr,Delhi,M2KPitampura,Maithili,16:45,Gold,180₹,17,17
