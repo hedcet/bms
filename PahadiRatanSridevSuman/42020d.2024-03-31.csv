@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Uttarakhand,Rishikesh,RamaPalaceRishikesh,Garhwali,12:00,FirstClass,60₹,168,112
+Uttarakhand,Rishikesh,RamaPalaceRishikesh,Garhwali,12:00,Silver,90₹,232,232
+Uttarakhand,Rishikesh,RamaPalaceRishikesh,Garhwali,12:00,Gold,140₹,182,182
+Uttarakhand,Rishikesh,RamaPalaceRishikesh,Garhwali,12:00,Platinum,220₹,24,24
