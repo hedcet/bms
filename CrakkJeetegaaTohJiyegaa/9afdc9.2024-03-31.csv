@@ -1,0 +1,3 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+WestBengal,Hooghly,SushamaCinemaSheoraphuli,Hindi,14:00,BalconyAc,150₹,105,0
+WestBengal,Hooghly,SushamaCinemaSheoraphuli,Hindi,17:00,BalconyAc,150₹,105,6
