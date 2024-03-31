@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+TamilNadu,Chennai,MayajaalMultiplexEcrChennai,Tamil,12:00,FirstClass,190.78₹,137,0
+TamilNadu,Salem,SprCinecastle4KRgb64ChDolbyAtmosSalem,Tamil,15:10,Couple,150₹,22,8
+TamilNadu,Salem,SprCinecastle4KRgb64ChDolbyAtmosSalem,Tamil,15:10,Signature,150₹,165,21
+TamilNadu,Salem,SprCinecastle4KRgb64ChDolbyAtmosSalem,Tamil,15:10,Cinephile,120₹,63,0
+TamilNadu,Salem,SprCinecastle4KRgb64ChDolbyAtmosSalem,Tamil,15:10,Elite,60₹,36,0
