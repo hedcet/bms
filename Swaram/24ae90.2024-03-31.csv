@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kerala,Trivandrum,GreenfieldMoviemaxCinemasTrivandrum,Malayalam,10:00,Executive,150₹,119,0
+Kerala,Kochi,SangeetaCinemaKochi,Malayalam,12:00,BlueCircle,150₹,187,18
+Kerala,Kozhikode,AashirvadCineplexxKozhikode,Malayalam,16:55,Platinum,220₹,31,21
+Kerala,Kozhikode,AashirvadCineplexxKozhikode,Malayalam,16:55,Gold,200₹,67,21
