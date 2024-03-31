@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+TamilNadu,Chennai,GokulamCinemas4KDolbyAtmosPoonamalle,Tamil,11:30,Quiet,190₹,105,15
+TamilNadu,Chennai,GokulamCinemas4KDolbyAtmosPoonamalle,Tamil,11:30,FirstClass,110₹,271,28
+TamilNadu,Coimbatore,BroadwayCinemasCoimbatore,Tamil,12:50,Elite,190.78₹,192,16
+TamilNadu,Coimbatore,BroadwayCinemasCoimbatore,Tamil,12:50,Economy,60.12₹,24,12
+TamilNadu,Chennai,MayajaalMultiplexEcrChennai,Tamil,14:20,FirstClass,190.78₹,180,0
+TamilNadu,Thiruttani,SriDurgaCinemasThiruttani,Tamil,14:30,IClass,100₹,158,23
+TamilNadu,Thiruttani,SriDurgaCinemasThiruttani,Tamil,22:00,IClass,100₹,158,26
+TamilNadu,Chennai,CinepolisBsrMallOmrThoraipakkam,Tamil,22:20,Normal,60.12₹,17,10
+TamilNadu,Chennai,CinepolisBsrMallOmrThoraipakkam,Tamil,22:20,Executive,190.78₹,163,7
