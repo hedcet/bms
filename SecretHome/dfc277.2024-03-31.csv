@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kerala,Trivandrum,PvrLuluTrivandrum,Malayalam,09:45,Recliner,350₹,8,5
+Kerala,Trivandrum,PvrLuluTrivandrum,Malayalam,09:45,Prime,190₹,34,26
+Kerala,Trivandrum,PvrLuluTrivandrum,Malayalam,09:45,Classic,160₹,65,2
+Karnataka,MangaluruMangalore,PvrNexusMallPandeshwarMangalore,Malayalam,13:05,Classic,150₹,79,3
+TamilNadu,Chennai,PvrAmpaMallNelsonManickamRoad,Malayalam,15:40,Prime,175₹,130,20
+TamilNadu,Chennai,PvrAmpaMallNelsonManickamRoad,Malayalam,15:40,Classic,63.73₹,17,0
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,16:40,RoyalRecliner,350₹,10,0
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,16:40,Club,190₹,66,8
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,16:40,Royal,190₹,28,20
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,16:40,Executive,130₹,22,0
+Kerala,Trivandrum,PvrLuluTrivandrum,Malayalam,19:05,Recliner,350₹,8,1
+Kerala,Trivandrum,PvrLuluTrivandrum,Malayalam,19:05,Prime,190₹,34,12
+Kerala,Trivandrum,PvrLuluTrivandrum,Malayalam,19:05,Classic,160₹,65,9
+Karnataka,Bengaluru,PvrMsrElementsMallTanisandhraMainRoad,Malayalam,19:45,Classic,250₹,114,28
