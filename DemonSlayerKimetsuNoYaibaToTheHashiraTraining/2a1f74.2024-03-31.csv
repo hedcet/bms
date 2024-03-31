@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+UttarPradesh,Agra,GoldCinemaAgra,English,10:00,Recliner,500₹,30,3
+Ncr,GurugramGurgaon,LegendCinemaLoungesMallFiftyOneGurgaon,English,18:00,BedloungerSuperior,900₹,15,0
+Ncr,GurugramGurgaon,LegendCinemaLoungesMallFiftyOneGurgaon,English,18:00,BedLounger,800₹,21,2
+Telangana,Hyderabad,PvrNextGalleriaMallPanjagutta,Japanese,19:35,Classic,149₹,54,47
