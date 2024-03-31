@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Mumbai,PlazaCinemaDadar,Marathi,13:30,Recliner,450₹,7,4
+Maharashtra,Mumbai,PlazaCinemaDadar,Marathi,13:30,BoxSofa,400₹,20,0
+Maharashtra,Mumbai,PlazaCinemaDadar,Marathi,13:30,Sofa,350₹,54,2
+Maharashtra,Mumbai,PlazaCinemaDadar,Marathi,13:30,PlatinumRecliner,300₹,16,0
+Maharashtra,Mumbai,PlazaCinemaDadar,Marathi,13:30,Platinum,180₹,161,56
+Maharashtra,Mumbai,PlazaCinemaDadar,Marathi,13:30,Gold,150₹,161,0
+Maharashtra,Mumbai,PlazaCinemaDadar,Marathi,13:30,Silver,130₹,207,4
+Maharashtra,Pune,CityPrideKothrud,Marathi,14:45,RoyalGold,200₹,149,70
+Maharashtra,Pune,CityPrideKothrud,Marathi,14:45,RoyalSilver,180₹,22,0
+Maharashtra,Pune,FuntimeDeluxePimpriPune,Marathi,16:15,Gold,150₹,147,6
+Maharashtra,Pune,AbhiruchiCityPrideSinhagadRoad,Marathi,17:00,RoyalSofa,250₹,12,0
+Maharashtra,Pune,AbhiruchiCityPrideSinhagadRoad,Marathi,17:00,RoyalGold,200₹,123,24
+Maharashtra,Pune,AbhiruchiCityPrideSinhagadRoad,Marathi,17:00,RoyalSilver,180₹,30,0
+Maharashtra,Pune,AbhiruchiCityPrideSinhagadRoad,Marathi,20:15,RoyalSofa,250₹,12,0
+Maharashtra,Pune,AbhiruchiCityPrideSinhagadRoad,Marathi,20:15,RoyalGold,200₹,123,80
+Maharashtra,Pune,AbhiruchiCityPrideSinhagadRoad,Marathi,20:15,RoyalSilver,180₹,30,0
