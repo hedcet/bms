@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Odisha,Rourkela,PvrPlutoneRourkela,Odia,15:30,Recliner,250₹,9,0
+Odisha,Rourkela,PvrPlutoneRourkela,Odia,15:30,Classic,112₹,20,0
+Odisha,Rourkela,PvrPlutoneRourkela,Odia,15:30,Prime,112₹,106,39
+Odisha,Bhubaneswar,PvrUtkalKanikaGalleriaBhubaneswar,Odia,16:10,Classic,150₹,24,0
+Odisha,Bhubaneswar,PvrUtkalKanikaGalleriaBhubaneswar,Odia,16:10,Prime,150₹,116,47
