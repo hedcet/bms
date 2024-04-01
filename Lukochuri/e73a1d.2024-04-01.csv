@@ -1,0 +1,3 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+WestBengal,CoochBehar,NewCinemaCoochBehar,Bengali,13:00,Balcony,100₹,101,0
+WestBengal,Kolkata,NandanKolkata,Bengali,13:30,Normal,30₹,165,69
