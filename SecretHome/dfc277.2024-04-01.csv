@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kerala,Trivandrum,PvrLuluTrivandrum,Malayalam,09:45,Recliner,350₹,8,5
+Kerala,Trivandrum,PvrLuluTrivandrum,Malayalam,09:45,Prime,190₹,34,20
+Kerala,Trivandrum,PvrLuluTrivandrum,Malayalam,09:45,Classic,160₹,65,2
+Karnataka,MangaluruMangalore,PvrNexusMallPandeshwarMangalore,Malayalam,13:05,Classic,112₹,79,8
+Kerala,Trivandrum,PvrLuluTrivandrum,Malayalam,19:05,Recliner,350₹,8,2
+Kerala,Trivandrum,PvrLuluTrivandrum,Malayalam,19:05,Prime,190₹,34,11
+Kerala,Trivandrum,PvrLuluTrivandrum,Malayalam,19:05,Classic,160₹,65,5
+Karnataka,Bengaluru,PvrMsrElementsMallTanisandhraMainRoad,Malayalam,19:45,Classic,180₹,114,20
