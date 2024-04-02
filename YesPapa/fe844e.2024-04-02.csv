@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+UttarPradesh,Lucknow,InoxMegaplexEmeraldLucknow,Hindi,15:30,RoyaleRecliner,400₹,9,0
+UttarPradesh,Lucknow,InoxMegaplexEmeraldLucknow,Hindi,15:30,Royale,160₹,85,10
+UttarPradesh,Lucknow,InoxMegaplexEmeraldLucknow,Hindi,15:30,Club,150₹,84,0
+UttarPradesh,Lucknow,InoxMegaplexEmeraldLucknow,Hindi,15:30,Executive,130₹,28,0
+Ncr,Noida,PvrSuperplexLogixNoida,Hindi,17:30,Classic,225₹,97,12
+Ncr,GurugramGurgaon,PvrAmbienceGurgaon,Hindi,20:10,PlatinumSuperior,800₹,16,0
+Ncr,GurugramGurgaon,PvrAmbienceGurgaon,Hindi,20:10,Platinum,600₹,28,3
+Maharashtra,Mumbai,CinepolisFunRepublicMallAndheriW,Hindi,21:00,Normal,130₹,32,0
+Maharashtra,Mumbai,CinepolisFunRepublicMallAndheriW,Hindi,21:00,Executive,150₹,96,69
+Maharashtra,Mumbai,CinepolisFunRepublicMallAndheriW,Hindi,21:00,Premium,170₹,46,28
+Maharashtra,Mumbai,CinepolisFunRepublicMallAndheriW,Hindi,21:00,Platinum,320₹,26,2
