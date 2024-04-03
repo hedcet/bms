@@ -1,0 +1,14 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+TamilNadu,Madurai,ShaTheatreMadurai,Tamil,11:00,FirstClass,0₹,429,329
+TamilNadu,Thirubhuvanai,CentralTalkiesThirubuvanai,Tamil,11:30,Balcony,100₹,71,6
+TamilNadu,Thirubhuvanai,CentralTalkiesThirubuvanai,Tamil,11:30,FirstClass,50₹,404,384
+TamilNadu,Thirubhuvanai,CentralTalkiesThirubuvanai,Tamil,11:30,SecondClass,40₹,88,78
+TamilNadu,Thirubhuvanai,CentralTalkiesThirubuvanai,Tamil,14:30,Balcony,100₹,71,6
+TamilNadu,Thirubhuvanai,CentralTalkiesThirubuvanai,Tamil,14:30,FirstClass,50₹,404,384
+TamilNadu,Thirubhuvanai,CentralTalkiesThirubuvanai,Tamil,14:30,SecondClass,40₹,88,78
+TamilNadu,Thirubhuvanai,CentralTalkiesThirubuvanai,Tamil,18:30,Balcony,100₹,71,6
+TamilNadu,Thirubhuvanai,CentralTalkiesThirubuvanai,Tamil,18:30,FirstClass,50₹,404,384
+TamilNadu,Thirubhuvanai,CentralTalkiesThirubuvanai,Tamil,18:30,SecondClass,40₹,88,78
+TamilNadu,Thirubhuvanai,CentralTalkiesThirubuvanai,Tamil,22:00,Balcony,100₹,71,6
+TamilNadu,Thirubhuvanai,CentralTalkiesThirubuvanai,Tamil,22:00,FirstClass,50₹,404,384
+TamilNadu,Thirubhuvanai,CentralTalkiesThirubuvanai,Tamil,22:00,SecondClass,40₹,88,78
