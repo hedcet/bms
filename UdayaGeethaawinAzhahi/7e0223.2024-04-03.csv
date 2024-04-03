@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+TamilNadu,Viralimalai,JothiTheatreAC4K71ViralimalaiTrichy,Tamil,11:00,PlatinumClass,100₹,305,38
+TamilNadu,Anthiyur,SindhuMultiplexDolbyAtmosDtsXAnthiyur,Tamil,11:00,Platinum,100₹,85,0
+TamilNadu,Anthiyur,SindhuMultiplexDolbyAtmosDtsXAnthiyur,Tamil,11:00,Gold,100₹,26,0
+TamilNadu,Coimbatore,CosmoCinemasRgbLaserDolbyAtmosCoimbatore,Tamil,14:15,Platinum,150₹,163,0
+TamilNadu,Viralimalai,JothiTheatreAC4K71ViralimalaiTrichy,Tamil,14:30,PlatinumClass,100₹,305,38
+TamilNadu,Salem,ArrsMultiplexSalem,Tamil,14:45,FirstClass,150₹,392,0
+TamilNadu,Salem,ArrsMultiplexSalem,Tamil,14:45,SecondClass,120₹,320,0
+TamilNadu,Salem,ArrsMultiplexSalem,Tamil,14:45,ThirdClass,60₹,72,0
+TamilNadu,Dharmapuri,DmaxDncTheatresDharmapuri,Tamil,14:50,Couple,180₹,24,0
+TamilNadu,Dharmapuri,DmaxDncTheatresDharmapuri,Tamil,14:50,Premium,150₹,68,0
+TamilNadu,Dharmapuri,DmaxDncTheatresDharmapuri,Tamil,14:50,Economy,150₹,10,0
+TamilNadu,Chennai,MayajaalMultiplexEcrChennai,Tamil,14:50,FirstClass,190.78₹,137,0
+TamilNadu,Viralimalai,JothiTheatreAC4K71ViralimalaiTrichy,Tamil,18:30,PlatinumClass,100₹,305,38
+TamilNadu,Vellore,PvrVelocitySilkMillGandhiNagar,Tamil,19:10,Prime,139₹,165,26
+TamilNadu,Vellore,PvrVelocitySilkMillGandhiNagar,Tamil,19:10,Classic,60.12₹,17,17
+TamilNadu,Viralimalai,JothiTheatreAC4K71ViralimalaiTrichy,Tamil,22:00,PlatinumClass,100₹,305,38
