@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+TamilNadu,Chennai,PvrVrChennaiAnnaNagar,Tamil,12:15,Prime,140.01₹,112,28
+TamilNadu,Chennai,PvrVrChennaiAnnaNagar,Tamil,12:15,Classic,59.61₹,24,6
+TamilNadu,Coimbatore,CosmoCinemasRgbLaserDolbyAtmosCoimbatore,Tamil,14:15,Platinum,150₹,163,0
+TamilNadu,Salem,ArrsMultiplexSalem,Tamil,14:45,FirstClass,150₹,392,0
+TamilNadu,Salem,ArrsMultiplexSalem,Tamil,14:45,SecondClass,120₹,320,0
+TamilNadu,Salem,ArrsMultiplexSalem,Tamil,14:45,ThirdClass,60₹,72,0
+TamilNadu,Chennai,MayajaalMultiplexEcrChennai,Tamil,14:50,FirstClass,190.78₹,137,0
+TamilNadu,Chennai,InoxLuxePhoenixMarketCityVelachery,Tamil,15:05,Elite,139₹,134,16
+TamilNadu,Chennai,InoxLuxePhoenixMarketCityVelachery,Tamil,15:05,Budget,59.61₹,24,24
+TamilNadu,Chennai,SlbLakshmiBalaMoviePark4KDolbyAtmosPadi,Tamil,19:00,FirstClass,130₹,141,0
