@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+UttarPradesh,Agra,HeeraTalkiesAgra,Hindi,12:01,Balcony,60₹,464,0
+UttarPradesh,Agra,HeeraTalkiesAgra,Hindi,12:01,DressCircle,40₹,308,0
+UttarPradesh,Agra,HeeraTalkiesAgra,Hindi,15:35,Balcony,60₹,464,0
+UttarPradesh,Agra,HeeraTalkiesAgra,Hindi,15:35,DressCircle,40₹,308,0
+UttarPradesh,Agra,HeeraTalkiesAgra,Hindi,19:11,Balcony,60₹,464,1
+UttarPradesh,Agra,HeeraTalkiesAgra,Hindi,19:11,DressCircle,40₹,308,5
