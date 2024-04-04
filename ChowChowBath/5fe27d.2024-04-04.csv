@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Karnataka,Mangalore,BharathCinemasMangalore,Kannada,18:00,Gold,150₹,43,9
+Karnataka,Mangalore,BharathCinemasMangalore,Kannada,18:00,Silver,150₹,20,0
+Karnataka,Mangalore,BharathCinemasMangalore,Kannada,18:00,Special,150₹,7,0
+Karnataka,MangaluruMangalore,CineGalaxySurathkalMangalore,Kannada,18:45,Club,99₹,5,5
+Karnataka,MangaluruMangalore,CineGalaxySurathkalMangalore,Kannada,18:45,Gold,99₹,17,0
+Karnataka,MangaluruMangalore,CineGalaxySurathkalMangalore,Kannada,18:45,Prime,99₹,90,0
+Karnataka,MangaluruMangalore,CineGalaxySurathkalMangalore,Kannada,18:45,Classic,99₹,52,0
+Karnataka,Bengaluru,VeereshCinemasMagadiRoad,Kannada,19:15,Balcony,110₹,270,8
