@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+AndhraPradesh,Samalkot,VigneswaraTheatreSamalkota,Telugu,11:30,Premium,110₹,269,97
+AndhraPradesh,Samalkot,VigneswaraTheatreSamalkota,Telugu,14:30,Premium,110₹,269,100
+AndhraPradesh,Samalkot,VigneswaraTheatreSamalkota,Telugu,18:30,Premium,110₹,269,97
+AndhraPradesh,Samalkot,VigneswaraTheatreSamalkota,Telugu,21:30,Premium,110₹,269,100
