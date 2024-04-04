@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Assam,Jorhat,EleyeMultiplexJorhat,Assamese,13:00,Executive,140₹,48,6
+Assam,Jorhat,EleyeMultiplexJorhat,Assamese,13:00,Club,220₹,60,28
+Assam,Jorhat,EleyeMultiplexJorhat,Assamese,13:00,Gold,350₹,17,0
+Assam,Moranhat,HousefulTalkiesMoranhat,Assamese,15:45,Executive,250₹,14,0
+Assam,Moranhat,HousefulTalkiesMoranhat,Assamese,15:45,Platinum,200₹,58,0
+Assam,Moranhat,HousefulTalkiesMoranhat,Assamese,15:45,Diamond,150₹,108,0
+Assam,Moranhat,HousefulTalkiesMoranhat,Assamese,15:45,Gold,100₹,36,0
+Assam,Guwahati,AideoCinemaHallAsffdcPanjabariGuwahati,Assamese,15:45,Silver,120₹,96,0
+Assam,Guwahati,AideoCinemaHallAsffdcPanjabariGuwahati,Assamese,15:45,Gold,150₹,96,0
+Assam,Guwahati,AideoCinemaHallAsffdcPanjabariGuwahati,Assamese,15:45,Diamond,150₹,48,0
+Assam,Guwahati,CinepolisCentralMallGuwahati,Assamese,18:45,Normal,140₹,24,5
+Assam,Guwahati,CinepolisCentralMallGuwahati,Assamese,18:45,Executive,160₹,116,0
+Assam,Guwahati,CinepolisCentralMallGuwahati,Assamese,18:45,Premium,180₹,56,27
+Assam,Guwahati,CinepolisCentralMallGuwahati,Assamese,18:45,Vip,400₹,4,0
