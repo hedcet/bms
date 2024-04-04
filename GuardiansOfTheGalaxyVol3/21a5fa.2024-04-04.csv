@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+MadhyaPradesh,Jhabua,B4CinemaJhabua,Hindi,18:00,GoldSofa,390₹,10,0
+MadhyaPradesh,Jhabua,B4CinemaJhabua,Hindi,18:00,Premium,220₹,74,0
+MadhyaPradesh,Jhabua,B4CinemaJhabua,Hindi,18:00,SuperStander,190₹,24,0
+MadhyaPradesh,Jhabua,B4CinemaJhabua,Hindi,18:00,Stander,190₹,12,0
