@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+UttarPradesh,Basti,BaadshahMultiplexBasti,Bhojpuri,12:30,Recliner,500₹,16,0
+UttarPradesh,Basti,BaadshahMultiplexBasti,Bhojpuri,12:30,Diamond,300₹,18,0
+UttarPradesh,Basti,BaadshahMultiplexBasti,Bhojpuri,12:30,Gold,200₹,96,0
+UttarPradesh,Basti,BaadshahMultiplexBasti,Bhojpuri,12:30,Recliner,500₹,16,15
+UttarPradesh,Basti,BaadshahMultiplexBasti,Bhojpuri,12:30,Diamond,300₹,18,8
+UttarPradesh,Basti,BaadshahMultiplexBasti,Bhojpuri,12:30,Gold,200₹,96,2
+UttarPradesh,Basti,BaadshahMultiplexBasti,Bhojpuri,15:30,Recliner,500₹,16,0
+UttarPradesh,Basti,BaadshahMultiplexBasti,Bhojpuri,15:30,Diamond,300₹,18,0
+UttarPradesh,Basti,BaadshahMultiplexBasti,Bhojpuri,15:30,Gold,200₹,96,0
