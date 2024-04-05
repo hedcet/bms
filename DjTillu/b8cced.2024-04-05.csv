@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+AndhraPradesh,Kakinada,SuryaCinemaxKakinada,Telugu,11:30,FirstClass,145₹,168,98
+AndhraPradesh,Kakinada,SuryaCinemaxKakinada,Telugu,11:30,SecondClass,70₹,42,3
+AndhraPradesh,Kakinada,SuryaCinemaxKakinada,Telugu,14:30,FirstClass,145₹,168,44
+AndhraPradesh,Kakinada,SuryaCinemaxKakinada,Telugu,14:30,SecondClass,70₹,42,0
+AndhraPradesh,Kakinada,SuryaCinemaxKakinada,Telugu,18:30,FirstClass,145₹,168,44
+AndhraPradesh,Kakinada,SuryaCinemaxKakinada,Telugu,18:30,SecondClass,70₹,42,0
+AndhraPradesh,Kakinada,SuryaCinemaxKakinada,Telugu,21:30,FirstClass,145₹,168,44
+AndhraPradesh,Kakinada,SuryaCinemaxKakinada,Telugu,21:30,SecondClass,70₹,42,0
