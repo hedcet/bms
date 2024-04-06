@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Pune,CityPrideKothrud,Marathi,12:00,RoyalGold,150₹,149,6
+Maharashtra,Pune,CityPrideKothrud,Marathi,12:00,RoyalSilver,150₹,22,0
+Maharashtra,Pune,AbhiruchiCityPrideSinhagadRoad,Marathi,20:30,RoyalSofa,230₹,12,4
+Maharashtra,Pune,AbhiruchiCityPrideSinhagadRoad,Marathi,20:30,RoyalGold,180₹,123,74
+Maharashtra,Pune,AbhiruchiCityPrideSinhagadRoad,Marathi,20:30,RoyalSilver,160₹,30,0
