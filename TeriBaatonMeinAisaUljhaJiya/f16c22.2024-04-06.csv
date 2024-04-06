@@ -1,0 +1,8 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Ncr,GurugramGurgaon,LegendCinemaLoungesMallFiftyOneGurgaon,Hindi,12:15,SofasSuperior,700₹,22,0
+Ncr,GurugramGurgaon,LegendCinemaLoungesMallFiftyOneGurgaon,Hindi,12:15,Sofas,600₹,28,0
+Gujarat,Ahmedabad,SaneliteCinemasScienceCity,Hindi,13:00,Miller,180₹,41,6
+Bihar,Patna,PkvSmartCinemasBoringCanalRoadPatna,Hindi,15:35,Lounger,230₹,8,3
+Bihar,Patna,PkvSmartCinemasBoringCanalRoadPatna,Hindi,15:35,Sofa,200₹,43,14
+Ncr,GurugramGurgaon,LegendCinemaLoungesMallFiftyOneGurgaon,Hindi,19:00,SofasSuperior,700₹,29,0
+Ncr,GurugramGurgaon,LegendCinemaLoungesMallFiftyOneGurgaon,Hindi,19:00,Sofas,600₹,28,0
