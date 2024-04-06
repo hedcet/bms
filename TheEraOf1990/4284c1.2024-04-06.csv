@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Gujarat,Ahmedabad,SaneliteCinemasScienceCity,Hindi,12:15,TwoSeats1For2Admit,400₹,16,0
+Gujarat,Ahmedabad,SaneliteCinemasScienceCity,Hindi,23:00,Miller,250₹,38,0
+Gujarat,Ahmedabad,SaneliteCinemasScienceCity,Hindi,23:00,Lounger,250₹,9,0
