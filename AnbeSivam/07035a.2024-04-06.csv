@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+TamilNadu,Chennai,PvrEscapeExpressAvenueMall,Tamil,12:30,Elite,140.01₹,99,25
+TamilNadu,Chennai,PvrEscapeExpressAvenueMall,Tamil,12:30,Budget,59.61₹,11,11
+TamilNadu,Coimbatore,PvrBrookefieldsMallCoimbatore,Tamil,12:55,Elite,125.93₹,165,27
+TamilNadu,Coimbatore,PvrBrookefieldsMallCoimbatore,Tamil,12:55,Budget,59.61₹,19,15
+TamilNadu,Chennai,PvrPalazzoTheNexusVijayaMall,Tamil,15:00,Elite,140.01₹,230,91
+TamilNadu,Chennai,PvrPalazzoTheNexusVijayaMall,Tamil,15:00,Budget,59.61₹,26,26
+TamilNadu,Chennai,PvrVrChennaiAnnaNagar,Tamil,18:30,Prime,140.01₹,112,41
+TamilNadu,Chennai,PvrVrChennaiAnnaNagar,Tamil,18:30,Classic,59.61₹,24,15
