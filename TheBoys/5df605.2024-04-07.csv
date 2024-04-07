@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+TamilNadu,Chennai,RohiniSilverScreensKoyambedu,Tamil,10:00,GoldStar,160₹,171,61
+TamilNadu,Chennai,PvrPalazzoTheNexusVijayaMall,Tamil,12:20,Elite,165₹,210,127
+TamilNadu,Chennai,PvrPalazzoTheNexusVijayaMall,Tamil,12:20,Budget,60.12₹,27,27
+TamilNadu,Coimbatore,BroadwayCinemasCoimbatore,Tamil,12:40,Elite,190.78₹,145,27
+TamilNadu,Coimbatore,BroadwayCinemasCoimbatore,Tamil,12:40,Economy,60.12₹,15,15
+TamilNadu,Chennai,InoxLuxePhoenixMarketCityVelachery,Tamil,15:15,Elite,149₹,190,177
+TamilNadu,Chennai,InoxLuxePhoenixMarketCityVelachery,Tamil,15:15,Budget,60.12₹,34,34
+TamilNadu,Coimbatore,InoxProzoneMallCoimbatore,Tamil,22:45,Club,165₹,184,29
+TamilNadu,Coimbatore,InoxProzoneMallCoimbatore,Tamil,22:45,Executive,60.12₹,25,25
