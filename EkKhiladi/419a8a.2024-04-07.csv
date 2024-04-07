@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Bihar,Nawada,VijayMultiplexDolbyDigital71Nawada,Hindi,11:00,GoldClass,100₹,131,0
+UttarPradesh,Agra,RajeevCinemaAgra,Hindi,12:15,Balcony,60₹,280,0
+UttarPradesh,Agra,RajeevCinemaAgra,Hindi,12:15,DressCircle,40₹,660,0
+Bihar,Nawada,VijayMultiplexDolbyDigital71Nawada,Hindi,14:00,GoldClass,100₹,131,0
+UttarPradesh,Agra,RajeevCinemaAgra,Hindi,15:15,Balcony,60₹,280,0
+UttarPradesh,Agra,RajeevCinemaAgra,Hindi,15:15,DressCircle,40₹,660,0
+Bihar,Nawada,VijayMultiplexDolbyDigital71Nawada,Hindi,17:00,GoldClass,100₹,131,0
+UttarPradesh,Agra,RajeevCinemaAgra,Hindi,18:15,Balcony,60₹,280,0
+UttarPradesh,Agra,RajeevCinemaAgra,Hindi,18:15,DressCircle,40₹,660,0
