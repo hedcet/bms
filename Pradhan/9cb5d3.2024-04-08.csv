@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+WestBengal,Jhargram,ChhotuMaharajCineCafeJhargramWb,Bengali,14:30,Premium,150₹,110,0
+WestBengal,Jhargram,ChhotuMaharajCineCafeJhargramWb,Bengali,14:30,Classique,120₹,40,0
+WestBengal,Kolkata,RadhaStudioTollygunge,Bengali,15:15,Silver,30₹,146,9
+WestBengal,Jhargram,ChhotuMaharajCineCafeJhargramWb,Bengali,17:30,Premium,150₹,110,2
+WestBengal,Jhargram,ChhotuMaharajCineCafeJhargramWb,Bengali,17:30,Classique,120₹,40,0
+WestBengal,Kolkata,NandanKolkata,Bengali,18:00,FrontStall,30₹,111,2
+WestBengal,Kolkata,NandanKolkata,Bengali,18:00,RearStall,50₹,451,29
+WestBengal,Kolkata,NandanKolkata,Bengali,18:00,Balcony,70₹,369,29
