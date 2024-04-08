@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Rajasthan,Jaipur,ParasCinemaAmerRoad,Hindi,12:15,Recliner,300₹,19,0
+Rajasthan,Jaipur,ParasCinemaAmerRoad,Hindi,12:15,Box,200₹,49,0
+Rajasthan,Jaipur,ParasCinemaAmerRoad,Hindi,12:15,Balcony,110₹,401,0
+Rajasthan,Jaipur,ParasCinemaAmerRoad,Hindi,15:15,Recliner,300₹,19,0
+Rajasthan,Jaipur,ParasCinemaAmerRoad,Hindi,15:15,Box,200₹,49,0
+Rajasthan,Jaipur,ParasCinemaAmerRoad,Hindi,15:15,Balcony,110₹,401,0
+Rajasthan,Jaipur,ParasCinemaAmerRoad,Hindi,18:15,Recliner,300₹,19,0
+Rajasthan,Jaipur,ParasCinemaAmerRoad,Hindi,18:15,Box,200₹,49,0
+Rajasthan,Jaipur,ParasCinemaAmerRoad,Hindi,18:15,Balcony,110₹,401,0
+Rajasthan,Jaipur,ParasCinemaAmerRoad,Hindi,21:15,Recliner,300₹,19,0
+Rajasthan,Jaipur,ParasCinemaAmerRoad,Hindi,21:15,Box,200₹,49,0
+Rajasthan,Jaipur,ParasCinemaAmerRoad,Hindi,21:15,Balcony,110₹,401,0
