@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kerala,Thrissur,DevaCinemas4KDolbyFullAtmosPeringottukara,English,12:15,Dimond,160₹,126,126
+Kerala,Thrissur,DevaCinemas4KDolbyFullAtmosPeringottukara,English,12:15,Gold,130₹,235,1
+TamilNadu,Coimbatore,KrithikaCinemasAC4KDolbyCoimbatore,Tamil,14:30,Gold3D,140₹,398,27
+TamilNadu,Coimbatore,KrithikaCinemasAC4KDolbyCoimbatore,Tamil,14:30,Silver3D,140₹,72,0
+Kerala,Thrissur,DevaCinemas4KDolbyFullAtmosPeringottukara,English,15:15,Dimond3D,190₹,126,126
+Kerala,Thrissur,DevaCinemas4KDolbyFullAtmosPeringottukara,English,15:15,Gold3D,160₹,235,0
+Kerala,Thrissur,DevaCinemas4KDolbyFullAtmosPeringottukara,English,18:30,Dimond3D,190₹,126,126
+Kerala,Thrissur,DevaCinemas4KDolbyFullAtmosPeringottukara,English,18:30,Gold3D,160₹,235,0
+TamilNadu,Coimbatore,KrithikaCinemasAC4KDolbyCoimbatore,Tamil,18:30,Gold3D,140₹,398,16
+TamilNadu,Coimbatore,KrithikaCinemasAC4KDolbyCoimbatore,Tamil,18:30,Silver3D,140₹,72,0
+Kerala,Thrissur,DevaCinemas4KDolbyFullAtmosPeringottukara,English,21:30,Dimond3D,190₹,126,126
+Kerala,Thrissur,DevaCinemas4KDolbyFullAtmosPeringottukara,English,21:30,Gold3D,160₹,235,3
