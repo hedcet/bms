@@ -1,0 +1,8 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Karnataka,Bengaluru,PvrGlobalMallMysoreRoadBengaluru,Kannada,16:10,Recliner,240₹,10,0
+Karnataka,Bengaluru,PvrGlobalMallMysoreRoadBengaluru,Kannada,16:10,Prime,150₹,42,6
+Karnataka,Bengaluru,PvrGlobalMallMysoreRoadBengaluru,Kannada,16:10,Classic,112₹,75,0
+Karnataka,Hagaribommanahalli,SriVishnuPicturePalaceHagaribommanahalli,Kannada,17:45,Balcony,101₹,200,150
+Karnataka,Hagaribommanahalli,SriVishnuPicturePalaceHagaribommanahalli,Kannada,17:45,SecondClass,101₹,300,250
+Karnataka,Hagaribommanahalli,SriVishnuPicturePalaceHagaribommanahalli,Kannada,20:45,Balcony,101₹,200,150
+Karnataka,Hagaribommanahalli,SriVishnuPicturePalaceHagaribommanahalli,Kannada,20:45,SecondClass,101₹,300,250
