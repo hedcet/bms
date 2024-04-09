@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kerala,Thalassery,MagicFramesDowntownMallThalassery,Malayalam,10:00,Gold,140₹,136,13
+Kerala,Trivandrum,PvrLuluTrivandrum,Malayalam,13:20,Recliner,350₹,8,0
+Kerala,Trivandrum,PvrLuluTrivandrum,Malayalam,13:20,Prime,190₹,39,12
+Kerala,Trivandrum,PvrLuluTrivandrum,Malayalam,13:20,Classic,160₹,60,0
+Kerala,Vadakara,AshokCnc4KDolbyAtmosTrippleBeam3DVadakara,Malayalam,14:00,Platinum,129.8₹,120,120
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,14:30,RoyalRecliner,199₹,10,9
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,14:30,Club,99₹,63,2
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,14:30,Executive,99₹,22,0
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,14:30,Royal,99₹,28,21
+Kerala,Vadakara,AshokCnc4KDolbyAtmosTrippleBeam3DVadakara,Malayalam,19:30,Platinum,129.8₹,120,19
