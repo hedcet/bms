@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Mumbai,PvrIconInfinitiAndheriW,Hindi,14:45,Recliner,380₹,11,6
+Maharashtra,Mumbai,PvrIconInfinitiAndheriW,Hindi,14:45,PrimeSuperior,170₹,32,10
+Maharashtra,Mumbai,PvrIconInfinitiAndheriW,Hindi,14:45,Prime,170₹,126,1
+Maharashtra,Mumbai,PvrIconInfinitiAndheriW,Hindi,14:45,Classic,150₹,42,1
+Karnataka,Bengaluru,PvrVegaCityBannerghattaRoad,Hindi,15:10,Recliner,260₹,9,1
+Karnataka,Bengaluru,PvrVegaCityBannerghattaRoad,Hindi,15:10,Classic,160₹,86,11
+UttarPradesh,Lucknow,PvrSuperplexLuluLucknow,Hindi,16:00,Recliner,520₹,9,0
+UttarPradesh,Lucknow,PvrSuperplexLuluLucknow,Hindi,16:00,Prime,260₹,70,14
+UttarPradesh,Lucknow,PvrSuperplexLuluLucknow,Hindi,16:00,ClassicPlus,240₹,22,0
+UttarPradesh,Lucknow,PvrSuperplexLuluLucknow,Hindi,16:00,Classic,220₹,22,0
+Ncr,Noida,PvrSuperplexLogixNoida,Hindi,21:00,Classic,270₹,99,12
+UttarPradesh,Lucknow,InoxMegaplexEmeraldLucknow,Hindi,21:20,Royale,160₹,83,10
+UttarPradesh,Lucknow,InoxMegaplexEmeraldLucknow,Hindi,21:20,Club,150₹,70,0
+UttarPradesh,Lucknow,InoxMegaplexEmeraldLucknow,Hindi,21:20,Executive,130₹,28,0
