@@ -1,0 +1,8 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+WestBengal,Raiganj,KalyaniSMultiplexSvfCinemasRaiganj,Bengali,15:00,Gold,130₹,15,0
+WestBengal,Raiganj,KalyaniSMultiplexSvfCinemasRaiganj,Bengali,15:00,Royal,280₹,14,0
+WestBengal,Raiganj,KalyaniSMultiplexSvfCinemasRaiganj,Bengali,15:00,Platinum,130₹,62,2
+WestBengal,Raiganj,KalyaniSMultiplexSvfCinemasRaiganj,Bengali,15:00,Platinumm,130₹,28,2
+WestBengal,Hooghly,GoodwinCineplexSerampore,Bengali,19:15,Recliner,300₹,6,0
+WestBengal,Hooghly,GoodwinCineplexSerampore,Bengali,19:15,Prime,150₹,24,0
+WestBengal,Hooghly,GoodwinCineplexSerampore,Bengali,19:15,Club,110₹,206,1
