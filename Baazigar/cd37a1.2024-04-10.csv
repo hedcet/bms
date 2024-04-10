@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Ncr,Delhi,CinepolisDlfAvenueSaket,Hindi,12:05,Normal,110₹,42,0
+Ncr,Delhi,CinepolisDlfAvenueSaket,Hindi,12:05,Executive,110₹,56,0
+Ncr,Delhi,CinepolisDlfAvenueSaket,Hindi,12:05,Premium,110₹,42,10
+Ncr,Delhi,CinepolisDlfAvenueSaket,Hindi,12:05,Vip,200₹,8,0
