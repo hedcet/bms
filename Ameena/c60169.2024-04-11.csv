@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Solapur,SrinivasCinematicCinemaSolapur,Hindi,10:00,Platinum,130₹,187,11
+Maharashtra,Solapur,SrinivasCinematicCinemaSolapur,Hindi,10:00,Silver,100₹,382,26
+Gujarat,Songadh,KrishnaMultiplexSongadh,Hindi,15:00,Gold,150₹,87,0
+Gujarat,Songadh,KrishnaMultiplexSongadh,Hindi,15:00,Silver,150₹,40,0
+Gujarat,Kadi,CityGoldKadi,Hindi,17:30,Box,160₹,16,0
+Gujarat,Kadi,CityGoldKadi,Hindi,17:30,Gold,140₹,140,0
+Gujarat,Kadi,CityGoldKadi,Hindi,17:30,Silver,140₹,34,0
+Gujarat,Songadh,KrishnaMultiplexSongadh,Hindi,18:00,Gold,150₹,87,0
+Gujarat,Songadh,KrishnaMultiplexSongadh,Hindi,18:00,Silver,150₹,40,0
+Gujarat,Ahmedabad,CityGoldVastralAhmedabad,Hindi,18:45,Executive,150₹,66,66
