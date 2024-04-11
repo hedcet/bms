@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+MadhyaPradesh,Chhatarpur,JpCinemasChhatarpur,Hindi,16:00,Platinum,180₹,48,0
+MadhyaPradesh,Chhatarpur,JpCinemasChhatarpur,Hindi,16:00,Gold,150₹,96,0
+MadhyaPradesh,Chhatarpur,JpCinemasChhatarpur,Hindi,16:00,Silver,120₹,48,0
+Assam,Golaghat,GoldCinemaGolaghat,Hindi,17:00,Platinum,160₹,24,0
+Assam,Golaghat,GoldCinemaGolaghat,Hindi,17:00,Gold,140₹,142,0
+Assam,Golaghat,GoldCinemaGolaghat,Hindi,17:00,Silver,110₹,54,0
+MadhyaPradesh,Indore,PrafullCinemaIndore,Hindi,18:00,Gold,150₹,92,0
+MadhyaPradesh,Indore,PrafullCinemaIndore,Hindi,18:00,Silver,100₹,48,0
+Assam,Golaghat,GoldCinemaGolaghat,Hindi,20:00,Platinum,160₹,24,0
+Assam,Golaghat,GoldCinemaGolaghat,Hindi,20:00,Gold,140₹,142,0
+Assam,Golaghat,GoldCinemaGolaghat,Hindi,20:00,Silver,110₹,54,0
