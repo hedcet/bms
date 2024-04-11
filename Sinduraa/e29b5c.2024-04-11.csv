@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Odisha,Bargarh,DeepaliCinemaxBargarh,Odia,12:15,Arena,100₹,106,0
+Odisha,Bargarh,DeepaliCinemaxBargarh,Odia,12:15,Classic,100₹,34,0
+Odisha,JajpurTownOdisha,MissionShaktiCinemasJajpurTown,Odia,18:00,Platinum,120₹,45,0
+Odisha,JajpurTownOdisha,MissionShaktiCinemasJajpurTown,Odia,18:00,Gold,100₹,112,0
+Odisha,JajpurTownOdisha,MissionShaktiCinemasJajpurTown,Odia,18:00,Silver,80₹,112,0
