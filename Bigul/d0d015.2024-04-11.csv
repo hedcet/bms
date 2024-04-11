@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Odisha,Phulbani,MSShradhanjaliTalkiesACPhulbani,Odia,11:15,SpecialClass,100₹,184,0
+Odisha,Phulbani,MSShradhanjaliTalkiesACPhulbani,Odia,11:15,FirstClass,70₹,219,0
+Odisha,Berhampur,PsrCinemasBerhampur,Odia,18:20,Recliner,250₹,11,6
+Odisha,Berhampur,PsrCinemasBerhampur,Odia,18:20,SofaSlider,200₹,16,0
+Odisha,Berhampur,PsrCinemasBerhampur,Odia,18:20,Diamond,150₹,144,40
+Odisha,Berhampur,PsrCinemasBerhampur,Odia,18:20,Gold,120₹,90,21
