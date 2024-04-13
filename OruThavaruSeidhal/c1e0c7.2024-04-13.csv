@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+TamilNadu,Tirupur,MohanTheatreKunnathur,Tamil,10:30,FirstClass,100₹,91,0
+TamilNadu,Tirupur,MohanTheatreKunnathur,Tamil,10:30,SecondClass,100₹,78,0
+TamilNadu,Tirupur,MohanTheatreKunnathur,Tamil,14:30,FirstClass,100₹,91,0
+TamilNadu,Tirupur,MohanTheatreKunnathur,Tamil,14:30,SecondClass,100₹,78,0
+TamilNadu,Tirupur,MohanTheatreKunnathur,Tamil,18:30,FirstClass,100₹,91,0
+TamilNadu,Tirupur,MohanTheatreKunnathur,Tamil,18:30,SecondClass,100₹,78,0
+TamilNadu,Tirupur,MohanTheatreKunnathur,Tamil,22:00,FirstClass,100₹,91,0
+TamilNadu,Tirupur,MohanTheatreKunnathur,Tamil,22:00,SecondClass,100₹,78,0
