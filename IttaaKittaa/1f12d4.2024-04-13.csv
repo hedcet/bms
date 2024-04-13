@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Jalgaon,PvrUtsavJalgaon,Gujarati,21:30,Classic,110₹,62,0
+Maharashtra,Jalgaon,PvrUtsavJalgaon,Gujarati,21:30,ClassicPlus,110₹,346,169
+Maharashtra,Jalgaon,PvrUtsavJalgaon,Gujarati,21:30,Prime,110₹,85,85
