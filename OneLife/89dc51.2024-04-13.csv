@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Pune,PvrPhoenixMarketCityPune,English,12:10,GoldPrime,470₹,22,16
+Maharashtra,Pune,PvrPhoenixMarketCityPune,English,12:10,GoldClassic,370₹,24,12
+Maharashtra,Mumbai,MaisonPvrJioWorldDriveMumbai,English,12:30,Luxe,550₹,24,23
+Maharashtra,Mumbai,InoxMegaplexInorbitMallMalad,English,14:00,Kiddles,250₹,57,49
+Ncr,Delhi,DelhiPvrDirectorSCutAmbienceMall,English,20:30,PlatSuperior,"1,650₹",6,6
+Ncr,Delhi,DelhiPvrDirectorSCutAmbienceMall,English,20:30,Platinum,"1,450₹",19,18
