@@ -1,0 +1,8 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+TamilNadu,Virudhunagar,RitzySriRamCinemasAC4K71Virudhunagar,Tamil,17:45,BoxA,50₹,23,2
+TamilNadu,Virudhunagar,RitzySriRamCinemasAC4K71Virudhunagar,Tamil,17:45,BoxB,50₹,14,0
+TamilNadu,Virudhunagar,RitzySriRamCinemasAC4K71Virudhunagar,Tamil,17:45,Premium,50₹,391,113
+TamilNadu,Madurai,RitzyBanuCinemasAC4KThirumangalam,Tamil,18:00,KingClass,50₹,100,29
+TamilNadu,Madurai,RitzyBanuCinemasAC4KThirumangalam,Tamil,18:00,EliteCouple,50₹,26,0
+TamilNadu,Madurai,RitzyBanuCinemasAC4KThirumangalam,Tamil,18:00,PremiumElite,50₹,88,7
+TamilNadu,Madurai,RitzyBanuCinemasAC4KThirumangalam,Tamil,18:00,Elite,50₹,206,0
