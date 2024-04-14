@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+UttarPradesh,Varanasi,ChhotuMaharajCineCafeBabatpurVaranasi,Hindi,12:00,Classique,150₹,26,0
+UttarPradesh,Varanasi,ChhotuMaharajCineCafeBabatpurVaranasi,Hindi,12:00,Premium,150₹,74,0
+UttarPradesh,Varanasi,ChhotuMaharajCineCafeBabatpurVaranasi,Hindi,15:00,Classique,150₹,26,0
+UttarPradesh,Varanasi,ChhotuMaharajCineCafeBabatpurVaranasi,Hindi,15:00,Premium,150₹,74,0
+UttarPradesh,Varanasi,ChhotuMaharajCineCafeBabatpurVaranasi,Hindi,18:00,Classique,150₹,26,0
+UttarPradesh,Varanasi,ChhotuMaharajCineCafeBabatpurVaranasi,Hindi,18:00,Premium,150₹,74,0
+UttarPradesh,Varanasi,ChhotuMaharajCineCafeBabatpurVaranasi,Hindi,21:00,Classique,150₹,26,0
+UttarPradesh,Varanasi,ChhotuMaharajCineCafeBabatpurVaranasi,Hindi,21:00,Premium,150₹,74,0
