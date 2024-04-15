@@ -1,0 +1,16 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+TamilNadu,Chennai,RohiniSilverScreensKoyambedu,Tamil,10:00,GoldStar,140₹,272,22
+TamilNadu,Villupuram,JanasCinemasMaghalakshmiPlaazaaVillupuram,Tamil,11:15,Elite,155.1₹,98,16
+TamilNadu,Villupuram,JanasCinemasMaghalakshmiPlaazaaVillupuram,Tamil,11:15,Premium,109.72₹,46,0
+TamilNadu,Villupuram,JanasCinemasMaghalakshmiPlaazaaVillupuram,Tamil,11:15,Budget,60.12₹,10,0
+TamilNadu,Trichy,LaCinemaSonaMinaRgbLaserTrichy,Tamil,11:20,Posh,140₹,154,23
+TamilNadu,Pondicherry,PvrProvidenceMallPondicherry,Tamil,12:50,Elite,170₹,167,4
+TamilNadu,Pondicherry,PvrProvidenceMallPondicherry,Tamil,12:50,Premium,130₹,62,0
+TamilNadu,Chennai,RohiniSilverScreensKoyambedu,Tamil,13:00,GoldStar,140₹,272,4
+TamilNadu,Chennai,MayajaalMultiplexEcrChennai,Tamil,14:30,FirstClass,190.78₹,134,6
+TamilNadu,Chennai,PvrAmpaMallNelsonManickamRoad,Tamil,18:20,Prime,165₹,130,28
+TamilNadu,Chennai,PvrAmpaMallNelsonManickamRoad,Tamil,18:20,Classic,60.12₹,17,6
+TamilNadu,Coimbatore,BroadwayCinemasCoimbatore,Tamil,18:25,Elite,190.78₹,145,19
+TamilNadu,Coimbatore,BroadwayCinemasCoimbatore,Tamil,18:25,Economy,60.12₹,15,7
+TamilNadu,Chennai,PvrVrChennaiAnnaNagar,Tamil,19:00,Prime,139₹,110,41
+TamilNadu,Chennai,PvrVrChennaiAnnaNagar,Tamil,19:00,Classic,60.12₹,16,9
