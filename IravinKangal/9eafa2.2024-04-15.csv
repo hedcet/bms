@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+TamilNadu,Kanchipuram,SriBalajiTheatreACDolby71Kanchipuram,Tamil,11:30,FirstClass,120₹,176,2
+TamilNadu,Kanchipuram,SriBalajiTheatreACDolby71Kanchipuram,Tamil,11:30,SecondClass,120₹,144,0
+TamilNadu,Kanchipuram,SriBalajiTheatreACDolby71Kanchipuram,Tamil,14:30,FirstClass,120₹,176,0
+TamilNadu,Kanchipuram,SriBalajiTheatreACDolby71Kanchipuram,Tamil,14:30,SecondClass,120₹,144,0
+TamilNadu,Kanchipuram,SriBalajiTheatreACDolby71Kanchipuram,Tamil,18:30,FirstClass,120₹,176,0
+TamilNadu,Kanchipuram,SriBalajiTheatreACDolby71Kanchipuram,Tamil,18:30,SecondClass,120₹,144,0
+TamilNadu,Kanchipuram,SriBalajiTheatreACDolby71Kanchipuram,Tamil,21:30,FirstClass,120₹,176,0
+TamilNadu,Kanchipuram,SriBalajiTheatreACDolby71Kanchipuram,Tamil,21:30,SecondClass,120₹,144,0
