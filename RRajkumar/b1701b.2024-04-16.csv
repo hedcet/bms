@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Rajasthan,Kota,MayurCinemaKota,Hindi,12:15,RoyalClass,80₹,42,0
+Rajasthan,Kota,MayurCinemaKota,Hindi,12:15,GoldClass,70₹,367,0
+Rajasthan,Kota,MayurCinemaKota,Hindi,12:15,SilverClass,50₹,153,0
+Rajasthan,Kota,MayurCinemaKota,Hindi,15:15,RoyalClass,80₹,42,0
+Rajasthan,Kota,MayurCinemaKota,Hindi,15:15,GoldClass,70₹,367,0
+Rajasthan,Kota,MayurCinemaKota,Hindi,15:15,SilverClass,50₹,153,0
+Rajasthan,Kota,MayurCinemaKota,Hindi,18:15,RoyalClass,80₹,42,0
+Rajasthan,Kota,MayurCinemaKota,Hindi,18:15,GoldClass,70₹,367,0
+Rajasthan,Kota,MayurCinemaKota,Hindi,18:15,SilverClass,50₹,153,0
+Rajasthan,Kota,MayurCinemaKota,Hindi,21:00,RoyalClass,80₹,42,0
+Rajasthan,Kota,MayurCinemaKota,Hindi,21:00,GoldClass,70₹,367,0
+Rajasthan,Kota,MayurCinemaKota,Hindi,21:00,SilverClass,50₹,153,0
