@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Telangana,Hyderabad,PvrIrrumManzilHyderabad,Telugu,10:25,Recliner,250₹,10,1
+Telangana,Hyderabad,PvrIrrumManzilHyderabad,Telugu,10:25,Classic,112₹,94,15
+AndhraPradesh,Mandapeta,VpcSriKrishnaCinemaxMandapeta,Telugu,11:20,FirstClass,110₹,144,16
+AndhraPradesh,Mandapeta,VpcSriKrishnaCinemaxMandapeta,Telugu,11:20,SecondClass,70₹,16,16
+AndhraPradesh,Mandapeta,VpcSriKrishnaCinemaxMandapeta,Telugu,18:15,FirstClass,110₹,144,16
+AndhraPradesh,Mandapeta,VpcSriKrishnaCinemaxMandapeta,Telugu,18:15,SecondClass,70₹,16,16
