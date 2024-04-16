@@ -1,0 +1,8 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Mumbai,MarathaMandirMumbaiCentral,Hindi,11:30,Balcony,40₹,294,53
+Maharashtra,Mumbai,MarathaMandirMumbaiCentral,Hindi,11:30,DressCircle,30₹,813,18
+Gujarat,Surat,AppleCinemaJahangirpuraSurat,Hindi,14:20,Platinum,110₹,101,2
+Gujarat,Ahmedabad,AppleMultiplexManinagarAhmedabad,Hindi,16:30,UpperSofa,120₹,12,0
+Gujarat,Ahmedabad,AppleMultiplexManinagarAhmedabad,Hindi,16:30,Platinum,120₹,96,0
+Gujarat,Ahmedabad,AppleMultiplexManinagarAhmedabad,Hindi,16:30,Lounger,120₹,8,0
+Gujarat,Surat,AppleCinemaJahangirpuraSurat,Hindi,20:25,Platinum,110₹,101,0
