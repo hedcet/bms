@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Haryana,Rohtak,BangarCinemasRohtak,Hindi,16:00,Platinum,180₹,48,0
+Haryana,Rohtak,BangarCinemasRohtak,Hindi,16:00,Gold,150₹,101,0
+Haryana,Rohtak,BangarCinemasRohtak,Hindi,16:00,Silver,100₹,69,0
