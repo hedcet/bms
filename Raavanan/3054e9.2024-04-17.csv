@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+TamilNadu,Madurai,GopuramCinemasAtmosAndLaserProjectorMadurai,Tamil,14:50,Elite,127.06₹,70,34
+TamilNadu,Madurai,GopuramCinemasAtmosAndLaserProjectorMadurai,Tamil,14:50,Premium,127.06₹,40,1
+TamilNadu,Madurai,GopuramCinemasAtmosAndLaserProjectorMadurai,Tamil,14:50,Budget,60.12₹,20,20
+TamilNadu,Tirupur,SriSakthiCinemasMultiplexTirupur,Tamil,17:35,Diamond,190₹,16,7
+TamilNadu,Tirupur,SriSakthiCinemasMultiplexTirupur,Tamil,17:35,Platinum,170₹,26,3
+TamilNadu,Tirupur,SriSakthiCinemasMultiplexTirupur,Tamil,17:35,Gold,150₹,86,8
+TamilNadu,Tirupur,SriSakthiCinemasMultiplexTirupur,Tamil,17:35,Silver,100₹,17,5
+TamilNadu,Coimbatore,BroadwayCinemasCoimbatore,Tamil,18:30,Elite,189.06₹,145,71
+TamilNadu,Coimbatore,BroadwayCinemasCoimbatore,Tamil,18:30,Economy,59.61₹,15,15
+TamilNadu,Chennai,AgsCinemasTNagar,Tamil,19:25,Diamond,150₹,197,177
+TamilNadu,Chennai,AgsCinemasTNagar,Tamil,19:25,Pearl,60₹,24,0
