@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Pune,CityPrideKothrud,Marathi,10:30,RoyalGold,120₹,149,37
+Maharashtra,Pune,CityPrideKothrud,Marathi,10:30,RoyalSilver,120₹,22,0
+Maharashtra,Aurangabad,GoldieCinemarkAurangabad,Marathi,18:00,Loungers,300₹,9,0
+Maharashtra,Aurangabad,GoldieCinemarkAurangabad,Marathi,18:00,Sofa,150₹,94,6
