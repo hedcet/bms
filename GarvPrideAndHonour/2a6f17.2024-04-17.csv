@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+UttarPradesh,Agra,RajeevCinemaAgra,Hindi,11:30,Balcony,60₹,280,0
+UttarPradesh,Agra,RajeevCinemaAgra,Hindi,11:30,DressCircle,40₹,660,0
+UttarPradesh,Kanpur,DeliteBigScreenCinemaKanpur,Hindi,12:30,Balcony,60₹,120,0
+UttarPradesh,Agra,RajeevCinemaAgra,Hindi,14:45,Balcony,60₹,280,0
+UttarPradesh,Agra,RajeevCinemaAgra,Hindi,14:45,DressCircle,40₹,660,0
+UttarPradesh,Kanpur,DeliteBigScreenCinemaKanpur,Hindi,15:30,Balcony,60₹,120,0
+UttarPradesh,Agra,HeeraTalkiesAgra,Hindi,15:30,Balcony,60₹,464,0
+UttarPradesh,Agra,HeeraTalkiesAgra,Hindi,15:30,DressCircle,40₹,308,2
+UttarPradesh,Agra,RajeevCinemaAgra,Hindi,18:00,Balcony,60₹,280,0
+UttarPradesh,Agra,RajeevCinemaAgra,Hindi,18:00,DressCircle,40₹,660,0
+UttarPradesh,Kanpur,DeliteBigScreenCinemaKanpur,Hindi,18:30,Balcony,60₹,120,0
+UttarPradesh,Agra,HeeraTalkiesAgra,Hindi,18:30,Balcony,60₹,464,0
+UttarPradesh,Agra,HeeraTalkiesAgra,Hindi,18:30,DressCircle,40₹,308,0
+UttarPradesh,Kanpur,DeliteBigScreenCinemaKanpur,Hindi,21:30,Balcony,60₹,120,0
