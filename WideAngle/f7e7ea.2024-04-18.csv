@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Assam,Guwahati,AideoCinemaHallAsffdcPanjabariGuwahati,Assamese,11:30,Silver,120₹,96,96
+Assam,Guwahati,AideoCinemaHallAsffdcPanjabariGuwahati,Assamese,11:30,Gold,150₹,96,96
+Assam,Guwahati,AideoCinemaHallAsffdcPanjabariGuwahati,Assamese,11:30,Diamond,150₹,48,48
+Assam,Guwahati,AideoCinemaHallAsffdcPanjabariGuwahati,Assamese,11:30,Silver,120₹,96,0
+Assam,Guwahati,AideoCinemaHallAsffdcPanjabariGuwahati,Assamese,11:30,Gold,150₹,96,0
+Assam,Guwahati,AideoCinemaHallAsffdcPanjabariGuwahati,Assamese,11:30,Diamond,150₹,48,0
