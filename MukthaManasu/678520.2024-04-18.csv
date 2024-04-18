@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Karnataka,Bengaluru,SharadaCinemasACLaserProjectorDtsSound,Kannada,10:30,Gold,120₹,159,36
+Karnataka,Bengaluru,SharadaCinemasACLaserProjectorDtsSound,Kannada,10:30,Silver,100₹,315,72
+Karnataka,MysuruMysore,LidoTheatreMysuru,Kannada,10:30,Balcony,150₹,244,0
+Karnataka,MysuruMysore,LidoTheatreMysuru,Kannada,10:30,SecondClass,100₹,456,2
+Karnataka,MysuruMysore,LidoTheatreMysuru,Kannada,13:30,Balcony,150₹,244,0
+Karnataka,MysuruMysore,LidoTheatreMysuru,Kannada,13:30,SecondClass,100₹,456,0
+Karnataka,MysuruMysore,LidoTheatreMysuru,Kannada,16:30,Balcony,150₹,244,0
+Karnataka,MysuruMysore,LidoTheatreMysuru,Kannada,16:30,SecondClass,100₹,456,0
+Karnataka,MysuruMysore,LidoTheatreMysuru,Kannada,19:30,Balcony,150₹,244,0
+Karnataka,MysuruMysore,LidoTheatreMysuru,Kannada,19:30,SecondClass,100₹,456,0
