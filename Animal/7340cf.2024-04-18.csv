@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Gujarat,Ahmedabad,AppleMultiplexManinagarAhmedabad,Hindi,12:15,VipRecliner,250₹,30,0
+Gujarat,Ahmedabad,AppleMultiplexManinagarAhmedabad,Hindi,15:40,Platinum,110₹,104,0
+Gujarat,Ahmedabad,AppleMultiplexManinagarAhmedabad,Hindi,15:40,UpperSofa,100₹,7,2
+Gujarat,Ahmedabad,AppleMultiplexManinagarAhmedabad,Hindi,15:40,Lounger,100₹,9,0
+Gujarat,Surat,AppleCinemaJahangirpuraSurat,Hindi,15:45,Platinum,110₹,101,0
+Gujarat,Surat,AppleCinemaJahangirpuraSurat,Hindi,18:00,Platinum,120₹,94,0
