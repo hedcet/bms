@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Karnataka,Udupi,KalpanaTheatreUdupi,Kannada,10:15,Balcony,100₹,52,0
+Karnataka,Udupi,KalpanaTheatreUdupi,Kannada,10:15,FirstClass,90₹,447,0
+Karnataka,Bengaluru,AkashCinemasLaggere,Kannada,10:30,VipBox,150₹,44,0
+Karnataka,Bengaluru,AkashCinemasLaggere,Kannada,10:30,SilverClass,100₹,729,0
+Karnataka,BelagaviBelgaum,SantoshTheatreBelagavi,Kannada,12:00,Balcony,100₹,252,0
+Karnataka,BelagaviBelgaum,SantoshTheatreBelagavi,Kannada,12:00,Stall,80₹,370,0
+Karnataka,Udupi,KalpanaTheatreUdupi,Kannada,13:15,Balcony,100₹,52,0
+Karnataka,Udupi,KalpanaTheatreUdupi,Kannada,13:15,FirstClass,90₹,447,0
+Karnataka,BelagaviBelgaum,SantoshTheatreBelagavi,Kannada,15:00,Balcony,100₹,252,0
+Karnataka,BelagaviBelgaum,SantoshTheatreBelagavi,Kannada,15:00,Stall,80₹,370,0
+Karnataka,Bengaluru,VeereshCinemasMagadiRoad,Kannada,16:15,Balcony,110₹,270,0
