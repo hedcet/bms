@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Chhattisgarh,Raipur,PvrCityCenterRaipur,Hindi,10:35,Recliner,290₹,12,0
+Chhattisgarh,Raipur,PvrCityCenterRaipur,Hindi,10:35,Prime,130₹,140,16
+Chhattisgarh,Raipur,PvrCityCenterRaipur,Hindi,10:35,Classic,110₹,24,0
+Chhattisgarh,Bilaspur,PvrRamaMagnetoMallBilaspur,Hindi,11:20,Classic,112₹,36,0
+Chhattisgarh,Bilaspur,PvrRamaMagnetoMallBilaspur,Hindi,11:20,PrimePlus,112₹,10,0
+Chhattisgarh,Bilaspur,PvrRamaMagnetoMallBilaspur,Hindi,11:20,Prime,112₹,69,12
+Rajasthan,Jaipur,PvrMallOfJaipur,Hindi,12:00,Recliner,300₹,8,0
+Rajasthan,Jaipur,PvrMallOfJaipur,Hindi,12:00,Classic,150₹,20,0
+Rajasthan,Jaipur,PvrMallOfJaipur,Hindi,12:00,PrimePlus,150₹,26,13
+Rajasthan,Jaipur,PvrMallOfJaipur,Hindi,12:00,Prime,150₹,43,0
+MadhyaPradesh,Indore,PvrTreasureIslandMallIndore,Hindi,12:00,Classic,160₹,28,0
+MadhyaPradesh,Indore,PvrTreasureIslandMallIndore,Hindi,12:00,Prime,160₹,69,20
+UttarPradesh,Lucknow,PvrSuperplexLuluLucknow,Hindi,13:25,Recliner,300₹,7,0
+UttarPradesh,Lucknow,PvrSuperplexLuluLucknow,Hindi,13:25,Prime,150₹,67,13
+Ncr,GreaterNoida,PvrGaurCityGreaterNoida,Hindi,16:00,Classic,150₹,101,14
+Ncr,GreaterNoida,PvrGaurCityGreaterNoida,Hindi,16:00,Prime,150₹,13,0
