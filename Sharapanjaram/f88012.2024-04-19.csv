@@ -1,0 +1,14 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Telangana,Hyderabad,PvrNexusMallKukatpallyHyderabad,Telugu,10:15,Recliner,250₹,12,0
+Telangana,Hyderabad,PvrNexusMallKukatpallyHyderabad,Telugu,10:15,Classic,112₹,250,49
+Telangana,Hyderabad,PvrCentralMallPanjagutta,Telugu,10:40,Classic,112₹,141,29
+Telangana,Warangal,PvrWarangalMaddoxMall,Telugu,11:15,Classic,112₹,158,67
+Telangana,Hyderabad,MirajCinemasShaliniShivaniHyderabad,Telugu,11:30,Executive,112₹,94,14
+Telangana,Thorrur,AsianRamakrishnaThorrur,Telugu,18:00,BoxA,110₹,9,9
+Telangana,Thorrur,AsianRamakrishnaThorrur,Telugu,18:00,BoxB,110₹,14,14
+Telangana,Thorrur,AsianRamakrishnaThorrur,Telugu,18:00,Balcony,110₹,288,76
+Telangana,Thorrur,AsianRamakrishnaThorrur,Telugu,18:00,FirstClass,80₹,44,0
+Telangana,Thorrur,AsianRamakrishnaThorrur,Telugu,21:00,BoxA,110₹,9,9
+Telangana,Thorrur,AsianRamakrishnaThorrur,Telugu,21:00,BoxB,110₹,14,14
+Telangana,Thorrur,AsianRamakrishnaThorrur,Telugu,21:00,Balcony,110₹,288,70
+Telangana,Thorrur,AsianRamakrishnaThorrur,Telugu,21:00,FirstClass,80₹,44,0
