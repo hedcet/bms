@@ -1,0 +1,16 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+TamilNadu,Perundurai,NallappasCinemasPerundurai,Tamil,18:15,Balcony,100₹,80,0
+TamilNadu,Perundurai,NallappasCinemasPerundurai,Tamil,18:15,FirstClass,80₹,270,6
+TamilNadu,Perundurai,NallappasCinemasPerundurai,Tamil,18:15,SecondClass,80₹,60,0
+TamilNadu,Coimbatore,BroadwayCinemasCoimbatore,Tamil,18:45,Elite,189.06₹,145,37
+TamilNadu,Coimbatore,BroadwayCinemasCoimbatore,Tamil,18:45,Economy,59.61₹,15,15
+TamilNadu,Chennai,PvrVrChennaiAnnaNagar,Tamil,18:45,Prime,140.01₹,110,105
+TamilNadu,Chennai,PvrVrChennaiAnnaNagar,Tamil,18:45,Classic,59.61₹,16,16
+TamilNadu,Chennai,MayajaalMultiplexEcrChennai,Tamil,18:50,FirstClass,190.78₹,137,10
+TamilNadu,Madurai,InoxVishaalDeMall,Tamil,19:00,Club,127.06₹,310,114
+TamilNadu,Madurai,InoxVishaalDeMall,Tamil,19:00,Executive,60.12₹,40,40
+TamilNadu,Perundurai,NallappasCinemasPerundurai,Tamil,22:00,Balcony,100₹,80,0
+TamilNadu,Perundurai,NallappasCinemasPerundurai,Tamil,22:00,FirstClass,80₹,270,2
+TamilNadu,Perundurai,NallappasCinemasPerundurai,Tamil,22:00,SecondClass,80₹,60,0
+TamilNadu,Madurai,InoxVishaalDeMall,Tamil,22:30,Club,127.06₹,310,114
+TamilNadu,Madurai,InoxVishaalDeMall,Tamil,22:30,Executive,60.12₹,40,40
