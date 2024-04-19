@@ -1,0 +1,14 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Bihar,Patna,ConnplexSmartTheatreSpVermaRoadPatna,Hindi,12:45,Loungers,150₹,8,0
+Bihar,Patna,ConnplexSmartTheatreSpVermaRoadPatna,Hindi,12:45,Millers,150₹,48,18
+Gujarat,Surat,AppleCinemaJahangirpuraSurat,Hindi,15:45,Platinum,110₹,101,0
+Gujarat,Surat,AppleCinemaJahangirpuraSurat,Hindi,17:30,Platinum,110₹,94,0
+Gujarat,Gandhinagar,BoskyCineplexGandhinagar,Hindi,21:15,UpperSliderSofa,100₹,26,0
+Gujarat,Gandhinagar,BoskyCineplexGandhinagar,Hindi,21:15,MiddleSliderSofa,100₹,22,0
+Gujarat,Gandhinagar,BoskyCineplexGandhinagar,Hindi,21:15,Lounger,100₹,8,0
+Gujarat,Rajpipla,CoconutCinemaRajpipla,Hindi,21:30,Box,120₹,8,8
+Gujarat,Rajpipla,CoconutCinemaRajpipla,Hindi,21:30,Gold,100₹,135,21
+Gujarat,Rajpipla,CoconutCinemaRajpipla,Hindi,21:30,Silver,100₹,40,1
+Gujarat,Himmatnagar,CinemunchMplexMcrHimmatnagar,Hindi,21:30,Gold,100₹,79,0
+Gujarat,Nadiad,CoconutViratMultiplexNadiad,Hindi,22:00,Platinum,100₹,14,0
+Gujarat,Nadiad,CoconutViratMultiplexNadiad,Hindi,22:00,Gold,100₹,104,0
