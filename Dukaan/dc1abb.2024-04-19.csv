@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Ncr,Delhi,CinepolisPacificNsp2Delhi,Hindi,16:20,Normal,360₹,77,0
+Ncr,Delhi,CinepolisPacificNsp2Delhi,Hindi,16:20,Executive,380₹,96,10
+Ncr,Delhi,CinepolisPacificNsp2Delhi,Hindi,16:20,Vip,580₹,11,0
