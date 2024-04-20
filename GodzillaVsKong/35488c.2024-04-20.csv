@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+MadhyaPradesh,Shajapur,ImusicaCinemaShajapur,Hindi,18:30,Gold,110₹,45,0
+MadhyaPradesh,Shajapur,ImusicaCinemaShajapur,Hindi,18:30,Redcarpet,130₹,120,0
+MadhyaPradesh,Shajapur,ImusicaCinemaShajapur,Hindi,18:30,Royal,190₹,12,0
+MadhyaPradesh,Satna,ImusicaEntertainmentsSatna,Hindi,18:45,Gold,110₹,38,38
+MadhyaPradesh,Satna,ImusicaEntertainmentsSatna,Hindi,18:45,RedCarpet,150₹,112,112
+MadhyaPradesh,Satna,ImusicaEntertainmentsSatna,Hindi,18:45,Royal,280₹,11,11
