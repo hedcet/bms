@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,16:10,Recliner,410₹,17,4
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,16:10,Prime,240₹,100,31
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,16:10,Classiic,220₹,128,0
+Karnataka,Bengaluru,PvrGtWorldMallMagadiRoad,Kannada,18:00,Recliner,350₹,12,9
+Karnataka,Bengaluru,PvrGtWorldMallMagadiRoad,Kannada,18:00,Classic,150₹,228,130
+Karnataka,Bengaluru,PvrVaishnaviSapphireMallYeshwanthpur,Kannada,21:55,Recliner,380₹,14,0
+Karnataka,Bengaluru,PvrVaishnaviSapphireMallYeshwanthpur,Kannada,21:55,Prime,240₹,80,22
+Karnataka,Bengaluru,PvrVaishnaviSapphireMallYeshwanthpur,Kannada,21:55,Classic,220₹,85,10
