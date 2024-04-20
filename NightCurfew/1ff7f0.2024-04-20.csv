@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Karnataka,Bengaluru,AbhinayTheatre4KACGandhinagar,Kannada,10:30,Balcony,150₹,369,57
+Karnataka,Bengaluru,AbhinayTheatre4KACGandhinagar,Kannada,10:30,MiniBalcony,120₹,146,0
+Karnataka,Bengaluru,AbhinayTheatre4KACGandhinagar,Kannada,10:30,SecondClass,100₹,480,56
+Karnataka,Bengaluru,AbhinayTheatre4KACGandhinagar,Kannada,13:30,Balcony,150₹,369,57
+Karnataka,Bengaluru,AbhinayTheatre4KACGandhinagar,Kannada,13:30,MiniBalcony,120₹,146,0
+Karnataka,Bengaluru,AbhinayTheatre4KACGandhinagar,Kannada,13:30,SecondClass,100₹,480,56
