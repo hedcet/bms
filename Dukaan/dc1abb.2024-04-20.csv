@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Mumbai,CinepolisFunRepublicMallAndheriW,Hindi,17:35,Normal,180₹,32,2
+Maharashtra,Mumbai,CinepolisFunRepublicMallAndheriW,Hindi,17:35,Executive,200₹,96,2
+Maharashtra,Mumbai,CinepolisFunRepublicMallAndheriW,Hindi,17:35,Premium,220₹,50,12
+Maharashtra,Mumbai,CinepolisFunRepublicMallAndheriW,Hindi,17:35,Platinum,370₹,22,0
+Ncr,Delhi,CinepolisPacificNsp2Delhi,Hindi,18:00,Normal,360₹,77,0
+Ncr,Delhi,CinepolisPacificNsp2Delhi,Hindi,18:00,Executive,380₹,96,10
+Ncr,Delhi,CinepolisPacificNsp2Delhi,Hindi,18:00,Vip,580₹,11,0
+Gujarat,Ahmedabad,CinepolisNexusAhmedabadOne,Hindi,19:10,Normal,300₹,36,0
+Gujarat,Ahmedabad,CinepolisNexusAhmedabadOne,Hindi,19:10,Executive,300₹,78,0
+Gujarat,Ahmedabad,CinepolisNexusAhmedabadOne,Hindi,19:10,Premium,300₹,60,42
+Ncr,Noida,CinepolisModiMallFormerlySpiceMall,Hindi,19:45,Premium,220₹,86,10
+Ncr,Noida,CinepolisModiMallFormerlySpiceMall,Hindi,19:45,Classic,210₹,171,0
