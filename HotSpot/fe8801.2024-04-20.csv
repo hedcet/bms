@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+TamilNadu,Chennai,InoxTheMarinaMallOmr,Tamil,10:00,Club,127.06₹,137,36
+TamilNadu,Chennai,InoxTheMarinaMallOmr,Tamil,10:00,Executive,60.12₹,16,16
+TamilNadu,Coimbatore,InoxProzoneMallCoimbatore,Tamil,12:05,Club,127.12₹,175,25
+TamilNadu,Coimbatore,InoxProzoneMallCoimbatore,Tamil,12:05,Executive,60.12₹,21,5
+TamilNadu,Chennai,PvrAmpaMallNelsonManickamRoad,Tamil,13:30,Prime,165₹,130,91
+TamilNadu,Chennai,PvrAmpaMallNelsonManickamRoad,Tamil,13:30,Classic,60.12₹,17,17
+TamilNadu,Chennai,InoxTheMarinaMallOmr,Tamil,16:10,Club,127.06₹,137,54
+TamilNadu,Chennai,InoxTheMarinaMallOmr,Tamil,16:10,Executive,60.12₹,16,16
+TamilNadu,Chennai,PvrPalazzoTheNexusVijayaMall,Tamil,19:45,Elite,179₹,210,94
+TamilNadu,Chennai,PvrPalazzoTheNexusVijayaMall,Tamil,19:45,Budget,60.12₹,27,27
+TamilNadu,Chennai,PvrVrChennaiAnnaNagar,Tamil,22:00,Prime,165₹,112,53
+TamilNadu,Chennai,PvrVrChennaiAnnaNagar,Tamil,22:00,Classic,60.12₹,24,13
+TamilNadu,Chennai,InoxLuxePhoenixMarketCityVelachery,Tamil,22:30,Elite,165₹,190,114
+TamilNadu,Chennai,InoxLuxePhoenixMarketCityVelachery,Tamil,22:30,Budget,60.12₹,34,33
