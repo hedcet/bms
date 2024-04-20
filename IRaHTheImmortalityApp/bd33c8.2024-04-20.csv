@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Sikkim,Gangtok,DenzongCinemaGangtok,Hindi,11:00,UpperCircle,200₹,158,0
+Sikkim,Gangtok,DenzongCinemaGangtok,Hindi,11:00,RearCircle,140₹,270,0
+Maharashtra,Aurangabad,KhinvasaraCineplexWaluj,Hindi,13:00,Diamond,200₹,82,0
+Sikkim,Gangtok,DenzongCinemaGangtok,Hindi,14:15,UpperCircle,200₹,158,0
+Sikkim,Gangtok,DenzongCinemaGangtok,Hindi,14:15,RearCircle,140₹,270,0
+Sikkim,Gangtok,DenzongCinemaGangtok,Hindi,17:30,UpperCircle,200₹,158,0
+Sikkim,Gangtok,DenzongCinemaGangtok,Hindi,17:30,RearCircle,140₹,270,0
+Maharashtra,Aurangabad,KhinvasaraCineplexWaluj,Hindi,19:00,Diamond,200₹,82,0
