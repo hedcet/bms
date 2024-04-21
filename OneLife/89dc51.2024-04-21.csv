@@ -1,0 +1,8 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Mumbai,PvrIconPhoenixPalladiumLowerParelMumbai,English,14:00,Prime,840₹,12,11
+Maharashtra,Mumbai,PvrIconPhoenixPalladiumLowerParelMumbai,English,14:00,PrimePlus,810₹,30,30
+Ncr,Delhi,DelhiPvrDirectorSCutAmbienceMall,English,16:05,PlatSuperior,"1,650₹",19,19
+Ncr,Delhi,DelhiPvrDirectorSCutAmbienceMall,English,16:05,Platinum,"1,450₹",27,14
+Maharashtra,Pune,PvrPhoenixMarketCityPune,English,17:50,GoldPrime,610₹,22,6
+Maharashtra,Pune,PvrPhoenixMarketCityPune,English,17:50,GoldClassic,560₹,24,8
+Maharashtra,Mumbai,MaisonPvrJioWorldDriveMumbai,English,20:45,Luxe,"1,200₹",24,10
