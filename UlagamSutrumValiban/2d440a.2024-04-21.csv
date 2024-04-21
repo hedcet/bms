@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+TamilNadu,Madurai,GaneshTheatreACSony4K3DDolby71Madurai,Tamil,10:30,FirstClass,100₹,182,20
+TamilNadu,Madurai,GaneshTheatreACSony4K3DDolby71Madurai,Tamil,10:30,SecondClass,100₹,216,0
+TamilNadu,Trichy,PalaceTheatreTiruchirappalli,Tamil,11:15,FirstClass,61.2₹,266,7
+TamilNadu,Trichy,PalaceTheatreTiruchirappalli,Tamil,14:15,FirstClass,61.2₹,266,7
+TamilNadu,Madurai,GaneshTheatreACSony4K3DDolby71Madurai,Tamil,14:30,FirstClass,100₹,182,40
+TamilNadu,Madurai,GaneshTheatreACSony4K3DDolby71Madurai,Tamil,14:30,SecondClass,100₹,216,0
+TamilNadu,Trichy,PalaceTheatreTiruchirappalli,Tamil,18:15,FirstClass,61.2₹,266,7
+TamilNadu,Madurai,GaneshTheatreACSony4K3DDolby71Madurai,Tamil,18:30,Balcony,130₹,198,198
+TamilNadu,Madurai,GaneshTheatreACSony4K3DDolby71Madurai,Tamil,18:30,FirstClass,100₹,182,115
+TamilNadu,Madurai,GaneshTheatreACSony4K3DDolby71Madurai,Tamil,18:30,SecondClass,100₹,216,50
+TamilNadu,Madurai,GaneshTheatreACSony4K3DDolby71Madurai,Tamil,18:30,ThirdClass,100₹,76,0
+TamilNadu,Trichy,PalaceTheatreTiruchirappalli,Tamil,22:00,FirstClass,61.2₹,266,7
+TamilNadu,Madurai,GaneshTheatreACSony4KDolby71Madurai,Tamil,22:15,FirstClass,100₹,182,23
+TamilNadu,Madurai,GaneshTheatreACSony4KDolby71Madurai,Tamil,22:15,SecondClass,100₹,216,0
