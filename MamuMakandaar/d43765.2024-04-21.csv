@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Telangana,Hyderabad,MetroCinemaBahadurpura,Hindi,11:30,Balcony,110₹,412,0
+Telangana,Hyderabad,MetroCinemaBahadurpura,Hindi,11:30,Silver,100₹,225,0
+Telangana,Hyderabad,MetroCinemaBahadurpura,Hindi,14:30,Balcony,110₹,412,0
+Telangana,Hyderabad,MetroCinemaBahadurpura,Hindi,14:30,Silver,100₹,225,0
+Telangana,Hyderabad,MetroCinemaBahadurpura,Hindi,18:00,Balcony,110₹,412,0
+Telangana,Hyderabad,MetroCinemaBahadurpura,Hindi,18:00,Silver,100₹,225,0
+Telangana,Hyderabad,MetroCinemaBahadurpura,Hindi,21:00,Balcony,110₹,412,2
+Telangana,Hyderabad,MetroCinemaBahadurpura,Hindi,21:00,Silver,100₹,225,0
+Telangana,Hyderabad,LocalCinemasYakutMahalLaserDolby,Hindi,21:45,Balcony,70₹,196,0
+Telangana,Hyderabad,LocalCinemasYakutMahalLaserDolby,Hindi,21:45,DressCircle,50₹,192,0
