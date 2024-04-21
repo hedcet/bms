@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Chhattisgarh,Raipur,ShyamTalkies2KLaser51DolbyRaipur,Chattisgarhi,12:00,Balcony,80₹,250,0
+Chhattisgarh,Raipur,ShyamTalkies2KLaser51DolbyRaipur,Chattisgarhi,12:00,LowerClass,60₹,628,0
+Chhattisgarh,Raipur,ShyamTalkies2KLaser51DolbyRaipur,Chattisgarhi,15:00,Balcony,80₹,250,0
+Chhattisgarh,Raipur,ShyamTalkies2KLaser51DolbyRaipur,Chattisgarhi,15:00,LowerClass,60₹,628,0
+Chhattisgarh,Raipur,ShyamTalkies2KLaser51DolbyRaipur,Chattisgarhi,18:00,Balcony,80₹,250,0
+Chhattisgarh,Raipur,ShyamTalkies2KLaser51DolbyRaipur,Chattisgarhi,18:00,LowerClass,60₹,628,0
+Chhattisgarh,Pendra,DurgeshTalkiesPendra,Chattisgarhi,18:00,Balcony,150₹,65,0
+Chhattisgarh,Pendra,DurgeshTalkiesPendra,Chattisgarhi,18:00,ReserveClass,120₹,87,0
+Chhattisgarh,Pendra,DurgeshTalkiesPendra,Chattisgarhi,18:00,UpperStall,100₹,71,0
+Chhattisgarh,Raipur,ShyamTalkies2KLaser51DolbyRaipur,Chattisgarhi,21:00,Balcony,80₹,250,2
+Chhattisgarh,Raipur,ShyamTalkies2KLaser51DolbyRaipur,Chattisgarhi,21:00,LowerClass,60₹,628,0
+Chhattisgarh,Pendra,DurgeshTalkiesPendra,Chattisgarhi,21:00,Balcony,150₹,65,0
+Chhattisgarh,Pendra,DurgeshTalkiesPendra,Chattisgarhi,21:00,ReserveClass,120₹,87,0
+Chhattisgarh,Pendra,DurgeshTalkiesPendra,Chattisgarhi,21:00,UpperStall,100₹,71,0
