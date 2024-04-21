@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+UttarPradesh,Kanpur,DeliteBigScreenCinemaKanpur,Hindi,12:00,Balcony,60₹,120,0
+UttarPradesh,Kanpur,DeliteBigScreenCinemaKanpur,Hindi,15:10,Balcony,60₹,120,0
+UttarPradesh,Kanpur,DeliteBigScreenCinemaKanpur,Hindi,18:20,Balcony,60₹,120,0
+UttarPradesh,Kanpur,DeliteBigScreenCinemaKanpur,Hindi,21:30,Balcony,60₹,120,0
