@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+WestBengal,Siliguri,RabindraManchShaktigarhSiliguri,Bengali,12:30,RearStall,100₹,392,0
+WestBengal,Balurghat,SatyajitManchaBalurghat,Bengali,12:30,Balcony,100₹,55,4
+WestBengal,Balurghat,SatyajitManchaBalurghat,Bengali,12:30,RearStall,60₹,880,0
+WestBengal,Kolkata,PriyaCinemaRashbehariAvenue,Bengali,18:25,Stall,112₹,84,0
+WestBengal,Kolkata,PriyaCinemaRashbehariAvenue,Bengali,18:25,Rear,112₹,257,7
+WestBengal,Kolkata,PriyaCinemaRashbehariAvenue,Bengali,18:25,Box,190₹,12,8
+WestBengal,Kolkata,PriyaCinemaRashbehariAvenue,Bengali,18:25,Recliners,270₹,17,2
+WestBengal,Kolkata,PriyaCinemaRashbehariAvenue,Bengali,18:25,Classic,190₹,76,0
+WestBengal,Kolkata,PriyaCinemaRashbehariAvenue,Bengali,18:25,Balcony,170₹,104,2
