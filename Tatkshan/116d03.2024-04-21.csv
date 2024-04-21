@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+UttarPradesh,Kanpur,DeliteBigScreenCinemaKanpur,Hindi,10:00,Balcony,60₹,120,0
+UttarPradesh,Hardoi,MeeraChitraMandirHardoi,Hindi,10:00,Diamond,110₹,198,0
+UttarPradesh,Kanpur,NoveltyCinemaKanpur,Hindi,10:15,Gold,100₹,156,0
+UttarPradesh,Kanpur,NoveltyCinemaKanpur,Hindi,10:15,GoldSpecial,200₹,26,0
+UttarPradesh,Dudhi,DRCinemaDudhi,Hindi,15:00,Gold,150₹,47,13
+UttarPradesh,Dudhi,DRCinemaDudhi,Hindi,15:00,Silver,110₹,105,21
+UttarPradesh,Gonda,KunwarNovaCinemazGonda,Hindi,15:30,Diamond,200₹,38,0
+UttarPradesh,Gonda,KunwarNovaCinemazGonda,Hindi,15:30,Gold,160₹,196,0
+UttarPradesh,Dudhi,DRCinemaDudhi,Hindi,18:00,Gold,150₹,47,13
+UttarPradesh,Dudhi,DRCinemaDudhi,Hindi,18:00,Silver,110₹,105,21
+UttarPradesh,Gonda,KunwarNovaCinemazGonda,Hindi,18:30,Diamond,200₹,38,38
+UttarPradesh,Gonda,KunwarNovaCinemazGonda,Hindi,18:30,Gold,160₹,196,196
+UttarPradesh,Dudhi,DRCinemaDudhi,Hindi,21:00,Gold,150₹,47,13
+UttarPradesh,Dudhi,DRCinemaDudhi,Hindi,21:00,Silver,110₹,105,21
