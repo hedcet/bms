@@ -1,0 +1,16 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Mumbai,G7MultiplexBandraW,Hindi,14:30,Special,150₹,36,4
+Maharashtra,Mumbai,G7MultiplexBandraW,Hindi,14:30,DressCircle,150₹,10,8
+Ncr,Delhi,CinepolisDlfAvenueSaket,Hindi,16:30,Normal,260₹,42,0
+Ncr,Delhi,CinepolisDlfAvenueSaket,Hindi,16:30,Executive,280₹,59,3
+Ncr,Delhi,CinepolisDlfAvenueSaket,Hindi,16:30,Premium,300₹,48,10
+Ncr,Delhi,CinepolisDlfAvenueSaket,Hindi,16:30,Vip,500₹,10,2
+Ncr,Delhi,CinepolisPacificNsp2Delhi,Hindi,18:00,Normal,280₹,77,0
+Ncr,Delhi,CinepolisPacificNsp2Delhi,Hindi,18:00,Executive,300₹,96,10
+Ncr,Delhi,CinepolisPacificNsp2Delhi,Hindi,18:00,Vip,600₹,11,0
+Maharashtra,Mumbai,CinepolisFunRepublicMallAndheriW,Hindi,18:10,Normal,110₹,32,0
+Maharashtra,Mumbai,CinepolisFunRepublicMallAndheriW,Hindi,18:10,Executive,150₹,96,2
+Maharashtra,Mumbai,CinepolisFunRepublicMallAndheriW,Hindi,18:10,Premium,150₹,46,12
+Maharashtra,Mumbai,CinepolisFunRepublicMallAndheriW,Hindi,18:10,Platinum,300₹,26,0
+Ncr,Noida,CinepolisModiMallFormerlySpiceMall,Hindi,19:45,Premium,"1,200₹",86,11
+Ncr,Noida,CinepolisModiMallFormerlySpiceMall,Hindi,19:45,Classic,"1,400₹",171,25
