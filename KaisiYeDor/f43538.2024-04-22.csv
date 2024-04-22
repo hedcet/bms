@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+WestBengal,Ranaghat,RanaghatTalkiesNadia,Hindi,11:00,1stClass,40₹,720,0
+WestBengal,Ranaghat,RanaghatTalkiesNadia,Hindi,11:00,Balcony,60₹,130,12
+WestBengal,Krishnanagar,SangeetaTalkiesKrishnanagar,Hindi,22:45,Balcony,60₹,231,0
+WestBengal,Krishnanagar,SangeetaTalkiesKrishnanagar,Hindi,22:45,FirstClass,40₹,513,0
