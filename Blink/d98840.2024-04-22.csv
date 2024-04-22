@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Karnataka,Bengaluru,MirajCinemasTgnLotusEliteMagadiRoad,Kannada,16:00,Gold,130₹,162,1
+Karnataka,Bengaluru,MirajCinemasTgnLotusEliteMagadiRoad,Kannada,16:00,Silver,110₹,34,0
+Karnataka,Bengaluru,PvrVaishnaviSapphireMallYeshwanthpur,Kannada,18:50,Recliner,290₹,14,2
+Karnataka,Bengaluru,PvrVaishnaviSapphireMallYeshwanthpur,Kannada,18:50,Prime,200₹,80,8
+Karnataka,Bengaluru,PvrVaishnaviSapphireMallYeshwanthpur,Kannada,18:50,Classic,180₹,85,4
