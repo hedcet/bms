@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+WestBengal,Kolkata,PadmaCinemaKolkata,Bengali,11:30,Balcony,80₹,116,0
+WestBengal,Kolkata,PadmaCinemaKolkata,Bengali,11:30,DressCircleAc,110₹,120,0
+WestBengal,Kolkata,PadmaCinemaKolkata,Bengali,11:30,RearStall,60₹,205,0
