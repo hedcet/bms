@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+WestBengal,Kolkata,PriyaCinemaRashbehariAvenue,Bengali,16:10,Stall,112₹,84,0
+WestBengal,Kolkata,PriyaCinemaRashbehariAvenue,Bengali,16:10,Rear,112₹,257,0
+WestBengal,Kolkata,PriyaCinemaRashbehariAvenue,Bengali,16:10,Box,190₹,12,8
+WestBengal,Kolkata,PriyaCinemaRashbehariAvenue,Bengali,16:10,Recliners,270₹,17,0
+WestBengal,Kolkata,PriyaCinemaRashbehariAvenue,Bengali,16:10,Classic,190₹,76,0
+WestBengal,Kolkata,PriyaCinemaRashbehariAvenue,Bengali,16:10,Balcony,170₹,104,0
+WestBengal,Kolkata,NazrultirthaCinemaScreen3Kolkata,Bengali,19:15,Gold,130₹,30,0
+WestBengal,Kolkata,NazrultirthaCinemaScreen3Kolkata,Bengali,19:15,Recliner,150₹,8,0
+WestBengal,Kolkata,NazrultirthaCinemaScreen3Kolkata,Bengali,19:15,Sofa,130₹,12,0
