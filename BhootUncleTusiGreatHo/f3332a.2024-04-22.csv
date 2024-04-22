@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Punjab,Abohar,SamarCinemasAbohar,Punjabi,10:00,Gold,120₹,64,0
+Punjab,Abohar,SamarCinemasAbohar,Punjabi,10:00,Silver,120₹,24,0
+Punjab,Abohar,SamarCinemasAbohar,Punjabi,10:00,Premium,160₹,5,0
