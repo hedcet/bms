@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Karnataka,Bengaluru,PvrSuperplexForumMallKanakapuraRoad,Kannada,13:15,Recliner,230₹,13,2
+Karnataka,Bengaluru,PvrSuperplexForumMallKanakapuraRoad,Kannada,13:15,Prime,160₹,80,10
+Karnataka,Bengaluru,PvrSuperplexForumMallKanakapuraRoad,Kannada,13:15,Classic,140₹,84,15
+Karnataka,Bengaluru,PvrGtWorldMallMagadiRoad,Kannada,18:00,Recliner,290₹,12,7
+Karnataka,Bengaluru,PvrGtWorldMallMagadiRoad,Kannada,18:00,Classic,180₹,228,25
+Karnataka,Bengaluru,PvrVaishnaviSapphireMallYeshwanthpur,Kannada,21:55,Recliner,290₹,14,0
+Karnataka,Bengaluru,PvrVaishnaviSapphireMallYeshwanthpur,Kannada,21:55,Prime,200₹,80,9
+Karnataka,Bengaluru,PvrVaishnaviSapphireMallYeshwanthpur,Kannada,21:55,Classic,180₹,85,15
