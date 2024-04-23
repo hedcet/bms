@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Karnataka,VijayapuraBijapur,SriLakshmiTheatreVijayapuraBijapur,Kannada,15:00,Box,200₹,21,0
+Karnataka,VijayapuraBijapur,SriLakshmiTheatreVijayapuraBijapur,Kannada,15:00,Balcony,150₹,126,0
+Karnataka,VijayapuraBijapur,SriLakshmiTheatreVijayapuraBijapur,Kannada,21:00,Box,200₹,21,0
+Karnataka,VijayapuraBijapur,SriLakshmiTheatreVijayapuraBijapur,Kannada,21:00,Balcony,150₹,126,0
