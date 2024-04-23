@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Assam,Guwahati,AideoCinemaHallAsffdcPanjabariGuwahati,Assamese,15:00,Silver,120₹,96,0
+Assam,Guwahati,AideoCinemaHallAsffdcPanjabariGuwahati,Assamese,15:00,Gold,150₹,96,0
+Assam,Guwahati,AideoCinemaHallAsffdcPanjabariGuwahati,Assamese,15:00,Diamond,150₹,48,0
+Assam,Jorhat,EleyeMultiplexJorhat,Assamese,17:00,Executive,99₹,48,0
+Assam,Jorhat,EleyeMultiplexJorhat,Assamese,17:00,Club,99₹,60,0
+Assam,Jorhat,EleyeMultiplexJorhat,Assamese,17:00,Gold,99₹,17,2
