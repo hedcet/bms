@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Ncr,Delhi,PvrVegasDwarka,Garhwali,15:40,Classic,150₹,108,23
+Ncr,Delhi,PvrVegasDwarka,Garhwali,15:40,Prime,150₹,88,52
+Uttarakhand,Dehradun,PvrCentrioDehradun,Garhwali,15:55,Recliner,300₹,11,1
+Uttarakhand,Dehradun,PvrCentrioDehradun,Garhwali,15:55,Classic,150₹,22,2
+Uttarakhand,Dehradun,PvrCentrioDehradun,Garhwali,15:55,ClassicPlus,150₹,55,23
+Uttarakhand,Dehradun,PvrCentrioDehradun,Garhwali,15:55,Prime,150₹,60,60
+Ncr,Ghaziabad,RrCinemaJaipuriaMall,Garhwali,16:35,PremiumSofa,250₹,21,0
+Ncr,Ghaziabad,RrCinemaJaipuriaMall,Garhwali,16:35,Gold,140₹,252,30
+Ncr,Ghaziabad,RrCinemaJaipuriaMall,Garhwali,16:35,Silver,110₹,100,0
