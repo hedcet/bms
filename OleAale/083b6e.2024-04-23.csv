@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Pune,MoviemaxAmanoraTownCentrePune,Marathi,19:00,Royale,200₹,12,2
+Maharashtra,Pune,MoviemaxAmanoraTownCentrePune,Marathi,19:00,Club,112₹,239,12
+Maharashtra,Pune,MoviemaxAmanoraTownCentrePune,Marathi,19:00,Executive,112₹,32,0
+Maharashtra,Nashik,MovieMaXTheZoneCollegeRoadNashik,Marathi,20:15,Classic,150₹,57,0
+Maharashtra,Nashik,MovieMaXTheZoneCollegeRoadNashik,Marathi,20:15,Prime,150₹,261,10
+Maharashtra,Nashik,MovieMaXTheZoneCollegeRoadNashik,Marathi,20:15,PrimePlus,160₹,16,4
