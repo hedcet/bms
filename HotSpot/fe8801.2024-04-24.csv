@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+TamilNadu,Coimbatore,InoxProzoneMallCoimbatore,Tamil,11:30,Club,127.12₹,175,16
+TamilNadu,Coimbatore,InoxProzoneMallCoimbatore,Tamil,11:30,Executive,60.12₹,21,1
+TamilNadu,Chennai,InoxTheMarinaMallOmr,Tamil,13:10,Club,127.06₹,137,18
+TamilNadu,Chennai,InoxTheMarinaMallOmr,Tamil,13:10,Executive,60.12₹,16,16
+TamilNadu,Chennai,PvrAmpaMallNelsonManickamRoad,Tamil,13:30,Prime,165₹,130,18
+TamilNadu,Chennai,PvrAmpaMallNelsonManickamRoad,Tamil,13:30,Classic,60.12₹,17,17
+TamilNadu,Chennai,InoxTheMarinaMallOmr,Tamil,16:10,Club,127.06₹,137,21
+TamilNadu,Chennai,InoxTheMarinaMallOmr,Tamil,16:10,Executive,60.12₹,16,16
+TamilNadu,Chennai,PvrPalazzoTheNexusVijayaMall,Tamil,19:45,Elite,165₹,210,21
+TamilNadu,Chennai,PvrPalazzoTheNexusVijayaMall,Tamil,19:45,Budget,60.12₹,27,27
+TamilNadu,Chennai,PvrVrChennaiAnnaNagar,Tamil,22:00,Prime,149₹,112,15
+TamilNadu,Chennai,PvrVrChennaiAnnaNagar,Tamil,22:00,Classic,60.12₹,24,24
+TamilNadu,Coimbatore,InoxProzoneMallCoimbatore,Tamil,22:00,Club,127.12₹,175,17
+TamilNadu,Coimbatore,InoxProzoneMallCoimbatore,Tamil,22:00,Executive,60.12₹,21,5
+TamilNadu,Chennai,InoxLuxePhoenixMarketCityVelachery,Tamil,22:30,Elite,139₹,190,104
+TamilNadu,Chennai,InoxLuxePhoenixMarketCityVelachery,Tamil,22:30,Budget,60.12₹,34,34
