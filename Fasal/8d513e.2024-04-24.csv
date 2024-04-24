@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+UttarPradesh,Varanasi,AnandMandirCinemaVaranasi,Bhojpuri,12:30,Balcony,70₹,232,0
+UttarPradesh,Varanasi,AnandMandirCinemaVaranasi,Bhojpuri,15:30,Balcony,70₹,232,3
+UttarPradesh,Varanasi,AnandMandirCinemaVaranasi,Bhojpuri,18:30,Balcony,70₹,232,0
