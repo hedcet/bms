@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Aurangabad,GoldieCinemarkAurangabad,Marathi,18:30,Loungers,300₹,9,0
+Maharashtra,Aurangabad,GoldieCinemarkAurangabad,Marathi,18:30,Sofa,99₹,94,0
+Maharashtra,Pune,MoviemaxAmanoraTownCentrePune,Marathi,19:00,Royale,150₹,12,6
+Maharashtra,Pune,MoviemaxAmanoraTownCentrePune,Marathi,19:00,Club,90₹,239,10
+Maharashtra,Pune,MoviemaxAmanoraTownCentrePune,Marathi,19:00,Executive,90₹,32,0
+Maharashtra,Nashik,MovieMaXTheZoneCollegeRoadNashik,Marathi,20:15,Classic,150₹,57,0
+Maharashtra,Nashik,MovieMaXTheZoneCollegeRoadNashik,Marathi,20:15,Prime,150₹,261,2
+Maharashtra,Nashik,MovieMaXTheZoneCollegeRoadNashik,Marathi,20:15,PrimePlus,160₹,16,8
