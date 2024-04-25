@@ -1,0 +1,8 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+TamilNadu,Chennai,RohiniSilverScreensKoyambedu,Tamil,10:00,GoldStar,140₹,171,51
+TamilNadu,Chennai,PvrPalazzoTheNexusVijayaMall,Tamil,11:00,Elite,165₹,266,29
+TamilNadu,Chennai,PvrPalazzoTheNexusVijayaMall,Tamil,11:00,Budget,60.12₹,34,34
+TamilNadu,Trichy,LaCinemaSonaMinaRgbLaserTrichy,Tamil,11:20,Posh,140₹,154,30
+TamilNadu,Chennai,MayajaalMultiplexEcrChennai,Tamil,11:20,FirstClass,190.78₹,137,2
+TamilNadu,Chennai,RohiniSilverScreensKoyambedu,Tamil,13:00,GoldStar,140₹,171,45
+TamilNadu,Chennai,MayajaalMultiplexEcrChennai,Tamil,22:15,FirstClass,190.78₹,137,10
