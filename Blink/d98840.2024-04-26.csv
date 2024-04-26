@@ -1,0 +1,8 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Karnataka,Bengaluru,CinepolisSjrCentralMallArekereBannergatta,Kannada,13:15,Normal,180₹,42,0
+Karnataka,Bengaluru,CinepolisSjrCentralMallArekereBannergatta,Kannada,13:15,Executive,180₹,79,0
+Karnataka,Bengaluru,CinepolisSjrCentralMallArekereBannergatta,Kannada,13:15,Premium,180₹,67,20
+Karnataka,Bengaluru,CinepolisSjrCentralMallArekereBannergatta,Kannada,13:15,Vip,350₹,12,0
+Karnataka,Bengaluru,CinepolisBinnypetMall,Kannada,16:05,Normal,170₹,9,0
+Karnataka,Bengaluru,CinepolisBinnypetMall,Kannada,16:05,Executive,170₹,81,0
+Karnataka,Bengaluru,CinepolisBinnypetMall,Kannada,16:05,Premium,170₹,52,19
