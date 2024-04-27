@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+WestBengal,Lakshmikantapur,SreeLakshmiTalkiesLakshmikantapur,Bengali,11:00,GoldCoupleSeats,100₹,52,2
+WestBengal,Lakshmikantapur,SreeLakshmiTalkiesLakshmikantapur,Bengali,11:00,Silver,70₹,168,0
+WestBengal,Kolkata,NazrultirthaCinemaScreen3Kolkata,Bengali,16:50,Gold,130₹,30,0
+WestBengal,Kolkata,NazrultirthaCinemaScreen3Kolkata,Bengali,16:50,Recliner,150₹,8,0
+WestBengal,Kolkata,NazrultirthaCinemaScreen3Kolkata,Bengali,16:50,Sofa,130₹,12,0
