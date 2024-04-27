@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Mumbai,MovieTimeHubGoregaonE,Hindi,15:30,Gold,100₹,63,31
+Gujarat,Gandhidham,OmCineplexGandhidham,Hindi,15:51,Ruby,350₹,23,2
+Gujarat,Gandhidham,OmCineplexGandhidham,Hindi,15:51,Recliner,300₹,17,0
+Gujarat,Gandhidham,OmCineplexGandhidham,Hindi,15:51,Di,250₹,34,0
+Gujarat,Gandhidham,OmCineplexGandhidham,Hindi,15:51,Gold,180₹,84,0
+Gujarat,Gandhidham,OmCineplexGandhidham,Hindi,15:51,Silver,150₹,68,1
