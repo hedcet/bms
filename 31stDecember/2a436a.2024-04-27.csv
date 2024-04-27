@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Gujarat,Morbi,NexusCinemaMorbi,Gujarati,13:00,Recliner,500₹,16,7
+Gujarat,Morbi,NexusCinemaMorbi,Gujarati,13:00,Platinum,400₹,18,0
+Gujarat,Morbi,NexusCinemaMorbi,Gujarati,13:00,Gold,300₹,120,5
+Gujarat,Morbi,NexusCinemaMorbi,Gujarati,13:00,Silver,200₹,58,0
+Gujarat,Morbi,NexusCinemaMorbi,Gujarati,18:45,Recliner,500₹,16,5
+Gujarat,Morbi,NexusCinemaMorbi,Gujarati,18:45,Platinum,400₹,18,0
+Gujarat,Morbi,NexusCinemaMorbi,Gujarati,18:45,Gold,300₹,120,5
+Gujarat,Morbi,NexusCinemaMorbi,Gujarati,18:45,Silver,200₹,58,0
