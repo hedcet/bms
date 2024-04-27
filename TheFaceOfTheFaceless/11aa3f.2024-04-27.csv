@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Gujarat,Gandhidham,RajhansCinemasGandhidham,Malayalam,17:30,Recliner,300₹,20,20
+Gujarat,Gandhidham,RajhansCinemasGandhidham,Malayalam,17:30,Executive,200₹,182,139
+Gujarat,Gandhidham,RajhansCinemasGandhidham,Malayalam,17:30,Royal,180₹,40,0
+Gujarat,Gandhidham,RajhansCinemasGandhidham,Malayalam,17:30,Marvel,160₹,20,0
