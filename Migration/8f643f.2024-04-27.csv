@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Ncr,GurugramGurgaon,CinepolisAiriaMallSohnaRoadGurgaon,English,11:00,Normal,200₹,30,12
+Ncr,GurugramGurgaon,CinepolisAiriaMallSohnaRoadGurgaon,English,11:00,DoubleSofa,300₹,24,13
+Ncr,GurugramGurgaon,CinepolisAiriaMallSohnaRoadGurgaon,English,11:00,Lounger,300₹,8,0
+Gujarat,Ahmedabad,PvrArvedTranscubeAhmedabad,English,16:15,Prime,200₹,100,20
+Gujarat,Ahmedabad,PvrArvedTranscubeAhmedabad,English,16:15,Classic,160₹,33,0
+Maharashtra,Pune,InoxBundGardenRoad,English,17:00,DressCircle,150₹,181,31
+Maharashtra,Pune,InoxBundGardenRoad,English,17:00,Galleria,150₹,60,3
+Maharashtra,Mumbai,InoxInsigniaAtAtriaMallWorli,English,17:30,Insignia,700₹,30,16
+TamilNadu,Chennai,PvrVrChennaiAnnaNagar,English,18:20,Prime,140.66₹,112,109
+TamilNadu,Chennai,PvrVrChennaiAnnaNagar,English,18:20,Classic,66.3₹,24,18
+Maharashtra,Mumbai,PvrMarketCityKurlaPremiere,English,19:45,Prime,170₹,143,81
+Maharashtra,Mumbai,PvrMarketCityKurlaPremiere,English,19:45,Classic,150₹,80,3
+Karnataka,Bengaluru,PvrPhoenixMarketcityMallWhitefieldRoad,English,21:30,Recliner,300₹,8,8
+Karnataka,Bengaluru,PvrPhoenixMarketcityMallWhitefieldRoad,English,21:30,Classic,150₹,120,40
