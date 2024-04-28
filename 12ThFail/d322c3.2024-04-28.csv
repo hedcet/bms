@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+MadhyaPradesh,Indore,PvrTreasureIslandMallIndore,Hindi,10:55,Recliner,230₹,9,9
+MadhyaPradesh,Indore,PvrTreasureIslandMallIndore,Hindi,10:55,Classic,130₹,26,0
+MadhyaPradesh,Indore,PvrTreasureIslandMallIndore,Hindi,10:55,Prime,130₹,46,15
