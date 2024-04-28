@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Chhattisgarh,Ambikapur,BasantMultiplexAmbikapur,Hindi,15:00,Gold,100₹,48,1
+Chhattisgarh,Ambikapur,BasantMultiplexAmbikapur,Hindi,15:00,Platinum,150₹,48,0
+Chhattisgarh,Ambikapur,BasantMultiplexAmbikapur,Hindi,15:00,Diamond,200₹,48,2
+Chhattisgarh,Ambikapur,BasantMultiplexAmbikapur,Hindi,15:00,Recliner,350₹,23,0
