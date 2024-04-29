@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+TamilNadu,Tirupur,SriSakthiCinemasMultiplexTirupur,Tamil,10:15,Diamond,190₹,16,0
+TamilNadu,Tirupur,SriSakthiCinemasMultiplexTirupur,Tamil,10:15,Platinum,170₹,26,0
+TamilNadu,Tirupur,SriSakthiCinemasMultiplexTirupur,Tamil,10:15,Gold,150₹,86,0
+TamilNadu,Tirupur,SriSakthiCinemasMultiplexTirupur,Tamil,10:15,Silver,100₹,17,0
+TamilNadu,Trichy,PalaceTheatreTiruchirappalli,Tamil,11:15,FirstClass,61.2₹,266,7
+TamilNadu,Trichy,PalaceTheatreTiruchirappalli,Tamil,14:15,FirstClass,61.2₹,266,7
+TamilNadu,Coimbatore,BroadwayCinemasCoimbatore,Tamil,15:55,Elite,190.78₹,145,6
+TamilNadu,Coimbatore,BroadwayCinemasCoimbatore,Tamil,15:55,Economy,60.12₹,15,4
+TamilNadu,Trichy,PalaceTheatreTiruchirappalli,Tamil,18:15,FirstClass,61.2₹,266,7
+TamilNadu,Trichy,PalaceTheatreTiruchirappalli,Tamil,22:00,FirstClass,61.2₹,266,7
