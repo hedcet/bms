@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Telangana,Hyderabad,PvrCentralMallPanjagutta,Telugu,11:00,Classic,112₹,141,13
+Telangana,Warangal,PvrWarangalMaddoxMall,Telugu,11:20,Classic,112₹,97,13
+Telangana,Karimnagar,ThirandazDeluxeKarimnagar,Telugu,14:00,UpperBalcony,80₹,220,220
+Telangana,Karimnagar,ThirandazDeluxeKarimnagar,Telugu,14:00,LowerBalcony,80₹,162,162
+Telangana,Karimnagar,ThirandazDeluxeKarimnagar,Telugu,14:00,DressCircle,70₹,154,154
+Telangana,Karimnagar,ThirandazDeluxeKarimnagar,Telugu,14:00,ThirdClass,50₹,146,146
+Telangana,Karimnagar,ThirandazDeluxeKarimnagar,Telugu,18:00,UpperBalcony,80₹,220,220
+Telangana,Karimnagar,ThirandazDeluxeKarimnagar,Telugu,18:00,LowerBalcony,80₹,162,162
+Telangana,Karimnagar,ThirandazDeluxeKarimnagar,Telugu,18:00,DressCircle,70₹,154,154
+Telangana,Karimnagar,ThirandazDeluxeKarimnagar,Telugu,18:00,ThirdClass,50₹,146,146
+Telangana,Karimnagar,ThirandazDeluxeKarimnagar,Telugu,21:00,UpperBalcony,80₹,220,220
+Telangana,Karimnagar,ThirandazDeluxeKarimnagar,Telugu,21:00,LowerBalcony,80₹,162,162
+Telangana,Karimnagar,ThirandazDeluxeKarimnagar,Telugu,21:00,DressCircle,70₹,154,154
+Telangana,Karimnagar,ThirandazDeluxeKarimnagar,Telugu,21:00,ThirdClass,50₹,146,146
