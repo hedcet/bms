@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Gujarat,Surat,TriveniCinemaSurat,Hindi,15:00,Balcony,120₹,45,0
+Gujarat,Surat,TriveniCinemaSurat,Hindi,15:00,Upper,100₹,80,0
+Gujarat,Surat,TriveniCinemaSurat,Hindi,18:00,Balcony,120₹,45,0
+Gujarat,Surat,TriveniCinemaSurat,Hindi,18:00,Upper,100₹,80,0
+Gujarat,Surat,TriveniCinemaSurat,Hindi,21:00,Balcony,120₹,45,0
+Gujarat,Surat,TriveniCinemaSurat,Hindi,21:00,Upper,100₹,80,0
