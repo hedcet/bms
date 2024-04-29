@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Gujarat,Petlad,FlamingoCinemasPetlad,Hindi,12:30,Recliner,350₹,10,0
+Gujarat,Petlad,FlamingoCinemasPetlad,Hindi,12:30,Executive,99₹,84,0
+Gujarat,Petlad,FlamingoCinemasPetlad,Hindi,12:30,Royal,99₹,28,0
+Gujarat,Petlad,FlamingoCinemasPetlad,Hindi,15:30,Recliner,350₹,10,0
+Gujarat,Petlad,FlamingoCinemasPetlad,Hindi,15:30,Executive,150₹,84,0
+Gujarat,Petlad,FlamingoCinemasPetlad,Hindi,15:30,Royal,100₹,28,0
+Gujarat,Petlad,FlamingoCinemasPetlad,Hindi,18:30,Recliner,350₹,10,0
+Gujarat,Petlad,FlamingoCinemasPetlad,Hindi,18:30,Executive,150₹,84,0
+Gujarat,Petlad,FlamingoCinemasPetlad,Hindi,18:30,Royal,100₹,28,0
+Gujarat,Petlad,FlamingoCinemasPetlad,Hindi,21:30,Recliner,350₹,10,0
+Gujarat,Petlad,FlamingoCinemasPetlad,Hindi,21:30,Executive,150₹,84,0
+Gujarat,Petlad,FlamingoCinemasPetlad,Hindi,21:30,Royal,100₹,28,0
