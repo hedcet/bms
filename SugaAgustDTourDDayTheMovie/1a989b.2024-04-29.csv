@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Ncr,Delhi,CinepolisPacificNsp2Delhi,Korean,13:30,Normal,180₹,71,2
+Ncr,Delhi,CinepolisPacificNsp2Delhi,Korean,13:30,Executive,200₹,86,14
+Ncr,Delhi,CinepolisPacificNsp2Delhi,Korean,13:30,Vip,300₹,9,0
+Karnataka,MysuruMysore,PvrNexusMallCentreCityMysuru,Korean,15:25,Classic,250₹,152,10
+Karnataka,Bengaluru,PvrVrBengaluruWhitefieldRoad,Korean,17:10,Prime,380₹,108,8
+Karnataka,Bengaluru,PvrVrBengaluruWhitefieldRoad,Korean,17:10,Classic,350₹,161,2
+Ncr,Delhi,CinepolisPacificNsp2Delhi,Korean,18:35,Normal,180₹,71,0
+Ncr,Delhi,CinepolisPacificNsp2Delhi,Korean,18:35,Executive,200₹,86,10
+Ncr,Delhi,CinepolisPacificNsp2Delhi,Korean,18:35,Vip,300₹,9,0
+Karnataka,Bengaluru,PvrVrBengaluruWhitefieldRoad,Korean,19:30,Prime,400₹,108,10
+Karnataka,Bengaluru,PvrVrBengaluruWhitefieldRoad,Korean,19:30,Classic,370₹,161,5
