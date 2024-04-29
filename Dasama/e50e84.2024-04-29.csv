@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Odisha,Koraput,MeghrajCinemazKoraput,Odia,14:15,Vip,299₹,19,3
+Odisha,Koraput,MeghrajCinemazKoraput,Odia,14:15,Premium,90₹,51,5
+Odisha,Koraput,MeghrajCinemazKoraput,Odia,14:15,Executive,90₹,51,0
+Odisha,Koraput,MeghrajCinemazKoraput,Odia,14:15,Royal,90₹,56,0
