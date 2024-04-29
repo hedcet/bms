@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Gujarat,Vadodara,PvrTransCubeVadodara,English,16:05,Recliner,300₹,11,0
+Gujarat,Vadodara,PvrTransCubeVadodara,English,16:05,Classic,150₹,57,0
+Gujarat,Vadodara,PvrTransCubeVadodara,English,16:05,Prime,150₹,145,22
+Maharashtra,Pune,InoxMegaplexPhoenixMallOfTheMillennium,English,17:00,Classic,200₹,24,0
+Maharashtra,Pune,InoxMegaplexPhoenixMallOfTheMillennium,English,17:00,Prime,200₹,80,15
+TamilNadu,Chennai,PvrVrChennaiAnnaNagar,English,18:20,Prime,140.66₹,112,28
+TamilNadu,Chennai,PvrVrChennaiAnnaNagar,English,18:20,Classic,66.3₹,24,24
+Karnataka,Bengaluru,PvrPhoenixMarketcityMallWhitefieldRoad,English,21:30,KidsRecliner,170₹,8,0
+Karnataka,Bengaluru,PvrPhoenixMarketcityMallWhitefieldRoad,English,21:30,KidsClassic,150₹,72,0
+Karnataka,Bengaluru,PvrPhoenixMarketcityMallWhitefieldRoad,English,21:30,KidsPrime,150₹,48,9
