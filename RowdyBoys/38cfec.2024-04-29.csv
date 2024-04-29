@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Telangana,Hyderabad,AaaCinemasAmeerpet,Telugu,13:35,SemiRecliner,300₹,18,18
+Telangana,Hyderabad,AaaCinemasAmeerpet,Telugu,13:35,Gold,112₹,304,304
+Telangana,Hyderabad,PrasadsMultiplexHyderabad,Telugu,15:40,Executive,150₹,364,7
+AndhraPradesh,Nellore,SiriMultiplexNellore,Telugu,19:00,Gold,140₹,76,0
+AndhraPradesh,Nellore,SiriMultiplexNellore,Telugu,19:00,Silver,110₹,221,0
