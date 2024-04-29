@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Karnataka,Bellary,RrMultiplexBellary,Kannada,11:00,GoldClass,150₹,86,0
+Karnataka,Bellary,RrMultiplexBellary,Kannada,11:00,SilverClass,100₹,243,0
+Karnataka,Bellary,RrMultiplexBellary,Kannada,14:00,GoldClass,150₹,86,0
+Karnataka,Bellary,RrMultiplexBellary,Kannada,14:00,SilverClass,100₹,243,0
+Karnataka,Siruguppa,RamakrishnaPicturePalaceSiruguppa,Kannada,14:15,Balcony,100₹,243,0
+Karnataka,Siruguppa,RamakrishnaPicturePalaceSiruguppa,Kannada,14:15,2ndClass,70₹,170,0
+Karnataka,Bengaluru,SharadaCinemasACLaserProjectorDtsSound,Kannada,16:15,Gold,120₹,159,36
+Karnataka,Bengaluru,SharadaCinemasACLaserProjectorDtsSound,Kannada,16:15,Silver,100₹,315,72
+Karnataka,Bengaluru,SharadaCinemasACLaserProjectorDtsSound,Kannada,19:15,Gold,120₹,159,36
+Karnataka,Bengaluru,SharadaCinemasACLaserProjectorDtsSound,Kannada,19:15,Silver,100₹,315,72
+Karnataka,Bengaluru,MirajCinemasTgnLotusEliteMagadiRoad,Kannada,19:20,Silver,110₹,34,2
+Karnataka,Bengaluru,MirajCinemasTgnLotusEliteMagadiRoad,Kannada,19:20,Gold,110₹,145,3
