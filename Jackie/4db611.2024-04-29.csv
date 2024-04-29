@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Karnataka,Udupi,KalpanaTheatreUdupi,Kannada,10:15,Balcony,100₹,52,0
+Karnataka,Udupi,KalpanaTheatreUdupi,Kannada,10:15,FirstClass,90₹,447,0
+Karnataka,Udupi,KalpanaTheatreUdupi,Kannada,13:15,Balcony,100₹,52,0
+Karnataka,Udupi,KalpanaTheatreUdupi,Kannada,13:15,FirstClass,90₹,447,0
+Karnataka,Udupi,KalpanaTheatreUdupi,Kannada,16:15,Balcony,100₹,52,0
+Karnataka,Udupi,KalpanaTheatreUdupi,Kannada,16:15,FirstClass,90₹,447,0
+Karnataka,Udupi,KalpanaTheatreUdupi,Kannada,19:15,Balcony,100₹,52,0
+Karnataka,Udupi,KalpanaTheatreUdupi,Kannada,19:15,FirstClass,90₹,447,0
