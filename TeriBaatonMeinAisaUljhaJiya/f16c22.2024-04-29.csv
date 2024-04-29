@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+MadhyaPradesh,Dhar,SheshnagManmandirCinemaDhar,Hindi,12:00,Silver,100₹,158,0
+MadhyaPradesh,Dhar,SheshnagManmandirCinemaDhar,Hindi,15:00,Silver,100₹,158,0
+MadhyaPradesh,Dhar,SheshnagManmandirCinemaDhar,Hindi,18:00,Silver,100₹,158,0
+Karnataka,Bhadravati,NethravathiACTheatreBhadravati,Hindi,18:30,GoldClass,130₹,175,0
+MadhyaPradesh,Dhar,SheshnagManmandirCinemaDhar,Hindi,21:00,Silver,100₹,158,0
+Karnataka,Bhadravati,NethravathiACTheatreBhadravati,Hindi,21:30,GoldClass,130₹,175,0
