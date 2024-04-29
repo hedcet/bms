@@ -1,0 +1,14 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Pune,CineProVasantCinemaPune,Hindi,09:30,Balcony,100₹,96,96
+Maharashtra,Pune,CineProVasantCinemaPune,Hindi,09:30,Stall,70₹,208,2
+UttarPradesh,Agra,ChhotuMaharajCineCafeAgra,Hindi,12:00,Recliner,300₹,6,0
+UttarPradesh,Agra,ChhotuMaharajCineCafeAgra,Hindi,12:00,Classique,150₹,34,0
+UttarPradesh,Agra,ChhotuMaharajCineCafeAgra,Hindi,12:00,Premium,100₹,92,0
+UttarPradesh,Agra,ChhotuMaharajCineCafeAgra,Hindi,17:05,Recliner,300₹,6,0
+UttarPradesh,Agra,ChhotuMaharajCineCafeAgra,Hindi,17:05,Classique,150₹,34,1
+UttarPradesh,Agra,ChhotuMaharajCineCafeAgra,Hindi,17:05,Premium,100₹,92,0
+Goa,VascoDaGama,1930Vasco,Hindi,19:45,PushBack,250₹,74,0
+Goa,VascoDaGama,1930Vasco,Hindi,19:45,Prime,250₹,6,0
+UttarPradesh,Agra,ChhotuMaharajCineCafeAgra,Hindi,22:20,Recliner,300₹,6,0
+UttarPradesh,Agra,ChhotuMaharajCineCafeAgra,Hindi,22:20,Classique,150₹,34,0
+UttarPradesh,Agra,ChhotuMaharajCineCafeAgra,Hindi,22:20,Premium,100₹,92,0
