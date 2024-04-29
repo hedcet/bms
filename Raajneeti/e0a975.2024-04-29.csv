@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Jharkhand,Ranchi,PjpCinemasMallOfRanchi,Hindi,12:20,Normal,110₹,20,0
+Jharkhand,Ranchi,PjpCinemasMallOfRanchi,Hindi,12:20,Executive,110₹,56,0
+Jharkhand,Ranchi,PjpCinemasMallOfRanchi,Hindi,12:20,Premium,110₹,38,0
+Jharkhand,Ranchi,PjpCinemasMallOfRanchi,Hindi,12:20,Recliners,300₹,14,1
+Jharkhand,Jamshedpur,PjpCinepolisJamshedpur,Hindi,12:35,Normal,150₹,24,0
+Jharkhand,Jamshedpur,PjpCinepolisJamshedpur,Hindi,12:35,Executive,150₹,56,1
+Jharkhand,Jamshedpur,PjpCinepolisJamshedpur,Hindi,12:35,Premium,150₹,64,0
+Jharkhand,Jamshedpur,PjpCinepolisJamshedpur,Hindi,12:35,Vip,500₹,12,0
+Bihar,Muzaffarpur,PjpCinemasMuzaffarpur,Hindi,16:00,Normal,70₹,30,0
+Bihar,Muzaffarpur,PjpCinemasMuzaffarpur,Hindi,16:00,Executive,70₹,102,0
+Bihar,Muzaffarpur,PjpCinemasMuzaffarpur,Hindi,16:00,Premium,70₹,80,11
