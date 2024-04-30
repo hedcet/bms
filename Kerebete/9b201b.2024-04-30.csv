@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Karnataka,Bengaluru,PvrSuperplexForumMallKanakapuraRoad,Kannada,11:55,Recliner,200₹,16,1
+Karnataka,Bengaluru,PvrSuperplexForumMallKanakapuraRoad,Kannada,11:55,Prime,140₹,76,14
+Karnataka,Bengaluru,PvrSuperplexForumMallKanakapuraRoad,Kannada,11:55,Classic,112₹,90,6
+Karnataka,Bengaluru,PvrGtWorldMallMagadiRoad,Kannada,12:20,Recliner,210₹,16,7
+Karnataka,Bengaluru,PvrGtWorldMallMagadiRoad,Kannada,12:20,Classic,112₹,179,17
