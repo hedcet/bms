@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kerala,Kozhikode,PalaxiCinemasHiLiteMallKozhikode,Malayalam,09:45,Recliner,300₹,29,1
+Kerala,Kozhikode,PalaxiCinemasHiLiteMallKozhikode,Malayalam,09:45,Premium,150₹,135,9
+Kerala,Kozhikode,PalaxiCinemasHiLiteMallKozhikode,Malayalam,09:45,Executive,100₹,27,1
+Kerala,Kozhikode,PalaxiCinemasHiLiteMallKozhikode,Malayalam,09:45,Lounger,180₹,24,1
+Kerala,Angamaly,MyCinemasKsrtComplexAngamalyKerala,Malayalam,10:30,GoldOffline,150₹,202,0
+Kerala,Trivandrum,SreeKaleeswarySreeSaraswathy2K3DKaliyikkav,Malayalam,11:00,RoyalCircle,150₹,87,0
+Kerala,Trivandrum,PvrLuluTrivandrum,Malayalam,15:55,Recliner,350₹,8,5
+Kerala,Trivandrum,PvrLuluTrivandrum,Malayalam,15:55,Prime,190₹,34,17
+Kerala,Trivandrum,PvrLuluTrivandrum,Malayalam,15:55,Classic,160₹,65,11
+Kerala,Kochi,PanCinemasNucleusMall,Malayalam,19:30,Platinum,230₹,7,2
+Kerala,Kochi,PanCinemasNucleusMall,Malayalam,19:30,Gold,170₹,120,8
