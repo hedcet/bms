@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Pune,PvrGrandHighstreetMallHinjawadi,Hindi,18:55,Recliner,300₹,8,0
+Maharashtra,Pune,PvrGrandHighstreetMallHinjawadi,Hindi,18:55,Classic,150₹,28,0
+Maharashtra,Pune,PvrGrandHighstreetMallHinjawadi,Hindi,18:55,Prime,150₹,70,0
+Maharashtra,Pune,PvrGrandHighstreetMallHinjawadi,Hindi,18:55,PrimePlus,150₹,64,18
