@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Telangana,Hyderabad,PvrNexusMallKukatpallyHyderabad,Telugu,10:30,Recliner,250₹,9,1
+Telangana,Hyderabad,PvrNexusMallKukatpallyHyderabad,Telugu,10:30,Classic,112₹,135,30
+Telangana,Warangal,PvrWarangalMaddoxMall,Telugu,10:40,Classic,112₹,158,18
+Telangana,Haliya,AcchiReddyTheaterACDolbyDtsHaliya,Telugu,11:15,Balcony,100₹,84,22
+Telangana,Haliya,AcchiReddyTheaterACDolbyDtsHaliya,Telugu,11:15,LowerBalcony,100₹,120,54
+Telangana,Hyderabad,PvrIrrumManzilHyderabad,Telugu,11:40,Recliner,250₹,10,2
+Telangana,Hyderabad,PvrIrrumManzilHyderabad,Telugu,11:40,Classic,112₹,94,15
+Telangana,Hyderabad,PvrMallapurRoadCinema,Telugu,13:50,Classic,112₹,201,14
+Telangana,Haliya,AcchiReddyTheaterACDolbyDtsHaliya,Telugu,14:15,Balcony,100₹,84,22
+Telangana,Haliya,AcchiReddyTheaterACDolbyDtsHaliya,Telugu,14:15,LowerBalcony,100₹,120,54
+Telangana,Haliya,AcchiReddyTheaterACDolbyDtsHaliya,Telugu,18:15,Balcony,100₹,84,22
+Telangana,Haliya,AcchiReddyTheaterACDolbyDtsHaliya,Telugu,18:15,LowerBalcony,100₹,120,54
+AndhraPradesh,Rapur,SriVenkateswaraMahalACDtsRapur,Telugu,19:00,Gold,110₹,277,210
+Telangana,Haliya,AcchiReddyTheaterACDolbyDtsHaliya,Telugu,21:15,Balcony,100₹,84,22
+Telangana,Haliya,AcchiReddyTheaterACDolbyDtsHaliya,Telugu,21:15,LowerBalcony,100₹,120,54
+AndhraPradesh,Rapur,SriVenkateswaraMahalACDtsRapur,Telugu,22:00,Gold,110₹,277,210
