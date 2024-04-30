@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Jharkhand,Ranchi,PopkornCinemasGalaxiaMallRanchi,Hindi,13:30,Recliner,200₹,8,0
+Jharkhand,Ranchi,PopkornCinemasGalaxiaMallRanchi,Hindi,13:30,Greeco,150₹,12,0
+Jharkhand,Ranchi,PopkornCinemasGalaxiaMallRanchi,Hindi,13:30,Premium,110₹,97,2
+Jharkhand,Ranchi,PopkornCinemasGalaxiaMallRanchi,Hindi,13:30,Gold,90₹,84,0
+Jharkhand,Ranchi,PopkornCinemasGalaxiaMallRanchi,Hindi,13:30,Silver,70₹,38,0
+Jharkhand,Ranchi,PopkornCinemasGalaxiaMallRanchi,Hindi,19:15,Recliner,200₹,8,0
+Jharkhand,Ranchi,PopkornCinemasGalaxiaMallRanchi,Hindi,19:15,Greeco,150₹,12,0
+Jharkhand,Ranchi,PopkornCinemasGalaxiaMallRanchi,Hindi,19:15,Premium,110₹,97,0
+Jharkhand,Ranchi,PopkornCinemasGalaxiaMallRanchi,Hindi,19:15,Gold,90₹,84,0
+Jharkhand,Ranchi,PopkornCinemasGalaxiaMallRanchi,Hindi,19:15,Silver,70₹,38,0
