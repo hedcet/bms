@@ -1,0 +1,14 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Punjab,Nawanshahr,KSeraSeraNawanshahar,Punjabi,10:15,Gold,140₹,30,0
+Punjab,Nawanshahr,KSeraSeraNawanshahar,Punjabi,10:15,Silver,100₹,10,0
+Punjab,Nawanshahr,KSeraSeraNawanshahar,Punjabi,10:15,Platinum,150₹,36,0
+Punjab,Malerkotla,HeenaCinemaMalerkotla,Punjabi,12:00,FamilyBalcony,100₹,42,0
+Punjab,Malerkotla,HeenaCinemaMalerkotla,Punjabi,12:00,Hall,70₹,52,0
+Punjab,Nawanshahr,KSeraSeraNawanshahar,Punjabi,16:30,Gold,150₹,30,0
+Punjab,Nawanshahr,KSeraSeraNawanshahar,Punjabi,16:30,Silver,100₹,10,0
+Punjab,Nawanshahr,KSeraSeraNawanshahar,Punjabi,16:30,Platinum,170₹,36,0
+Punjab,Malerkotla,HeenaCinemaMalerkotla,Punjabi,17:00,FamilyBalcony,100₹,42,0
+Punjab,Malerkotla,HeenaCinemaMalerkotla,Punjabi,17:00,Hall,70₹,52,0
+Punjab,Nawanshahr,KSeraSeraNawanshahar,Punjabi,21:30,Gold,150₹,30,0
+Punjab,Nawanshahr,KSeraSeraNawanshahar,Punjabi,21:30,Silver,100₹,10,0
+Punjab,Nawanshahr,KSeraSeraNawanshahar,Punjabi,21:30,Platinum,170₹,36,0
