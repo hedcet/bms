@@ -1,0 +1,14 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Telangana,Warangal,PvrWarangalMaddoxMall,Telugu,10:35,Classic,112₹,158,18
+AndhraPradesh,Rapur,SriVenkateswaraMahalACDtsRapur,Telugu,11:00,Gold,110₹,277,210
+Telangana,Haliya,AcchiReddyTheaterACDolbyDtsHaliya,Telugu,11:15,Balcony,100₹,84,22
+Telangana,Haliya,AcchiReddyTheaterACDolbyDtsHaliya,Telugu,11:15,LowerBalcony,100₹,120,54
+AndhraPradesh,Rapur,SriVenkateswaraMahalACDtsRapur,Telugu,14:00,Gold,110₹,277,210
+Telangana,Haliya,AcchiReddyTheaterACDolbyDtsHaliya,Telugu,14:15,Balcony,100₹,84,22
+Telangana,Haliya,AcchiReddyTheaterACDolbyDtsHaliya,Telugu,14:15,LowerBalcony,100₹,120,54
+Telangana,Haliya,AcchiReddyTheaterACDolbyDtsHaliya,Telugu,18:15,Balcony,100₹,84,22
+Telangana,Haliya,AcchiReddyTheaterACDolbyDtsHaliya,Telugu,18:15,LowerBalcony,100₹,120,54
+AndhraPradesh,Rapur,SriVenkateswaraMahalACDtsRapur,Telugu,19:00,Gold,110₹,277,210
+Telangana,Haliya,AcchiReddyTheaterACDolbyDtsHaliya,Telugu,21:15,Balcony,100₹,84,22
+Telangana,Haliya,AcchiReddyTheaterACDolbyDtsHaliya,Telugu,21:15,LowerBalcony,100₹,120,54
+AndhraPradesh,Rapur,SriVenkateswaraMahalACDtsRapur,Telugu,22:00,Gold,110₹,277,210
