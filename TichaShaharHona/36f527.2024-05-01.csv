@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Mehkar,CinemarkMultiplexMehkar,Marathi,12:00,RoyalSofa,100₹,26,0
+Maharashtra,Mehkar,CinemarkMultiplexMehkar,Marathi,12:00,Gold,50₹,146,2
+Maharashtra,Pune,VikasCinemaManchar,Marathi,18:05,1stClass,100₹,156,0
+Maharashtra,Pune,VikasCinemaManchar,Marathi,18:05,2ndClass,80₹,196,0
