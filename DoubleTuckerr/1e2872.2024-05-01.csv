@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+TamilNadu,Chennai,PvrSathyamRoyapettah,Tamil,16:20,Elite,127.06₹,102,52
+TamilNadu,Chennai,PvrSathyamRoyapettah,Tamil,16:20,Budget,60.12₹,12,12
+TamilNadu,Chennai,PvrVrChennaiAnnaNagar,Tamil,22:05,Prime,127.06₹,112,46
+TamilNadu,Chennai,PvrVrChennaiAnnaNagar,Tamil,22:05,Classic,60.12₹,24,24
