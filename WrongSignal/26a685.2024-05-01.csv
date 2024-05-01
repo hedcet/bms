@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Gujarat,Ahmedabad,CityGoldAshramRoad,Gujarati,12:00,Executive,150₹,130,10
+Gujarat,Ahmedabad,CityGoldBopal,Gujarati,14:45,Executive,150₹,115,11
+Gujarat,Ahmedabad,CityGoldBopal,Gujarati,21:30,Executive,150₹,115,11
+Gujarat,Kadi,CityGoldKadi,Gujarati,21:45,Box,110₹,18,0
+Gujarat,Kadi,CityGoldKadi,Gujarati,21:45,Gold,100₹,137,0
+Gujarat,Kadi,CityGoldKadi,Gujarati,21:45,Silver,100₹,32,0
+Gujarat,Ahmedabad,CityGoldAshramRoad,Gujarati,22:00,Executive,200₹,130,22
+Gujarat,Ahmedabad,CityGoldVastralAhmedabad,Gujarati,22:00,Executive,100₹,66,16
