@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Karnataka,Bengaluru,SlnTheatreRgbLaserProjectorHesaraghatta,Kannada,10:00,Balcony,100₹,264,0
+Karnataka,Bengaluru,Sapna2KDolby51DigitalSRGandhiNagar,Kannada,10:30,DeluxClass,100₹,208,48
+Karnataka,HubballiHubli,RupamCinemaHubballi,Kannada,12:00,Balcony,150₹,176,40
+Karnataka,HubballiHubli,RupamCinemaHubballi,Kannada,12:00,Dresscircle,100₹,380,77
+Karnataka,Bengaluru,SlnTheatreRgbLaserProjectorHesaraghatta,Kannada,13:00,Balcony,100₹,264,0
+Karnataka,Bengaluru,Sapna2KDolby51DigitalSRGandhiNagar,Kannada,13:30,DeluxClass,100₹,208,76
+Karnataka,Bengaluru,SlnTheatreRgbLaserProjectorHesaraghatta,Kannada,16:00,Balcony,100₹,264,0
+Karnataka,Bengaluru,Sapna2KDolby51DigitalSRGandhiNagar,Kannada,16:30,DeluxClass,100₹,208,35
+Karnataka,Bengaluru,SlnTheatreRgbLaserProjectorHesaraghatta,Kannada,19:00,Balcony,100₹,264,0
+Karnataka,Bengaluru,Sapna2KDolby51DigitalSRGandhiNagar,Kannada,19:30,DeluxClass,100₹,208,48
+Karnataka,Bengaluru,SlnTheatreRgbLaserProjectorHesaraghatta,Kannada,22:00,Balcony,100₹,264,0
