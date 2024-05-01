@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Telangana,Hyderabad,Sandhya35MmRtcXRoad,Telugu,11:00,Balcony,150₹,731,174
+Telangana,Hyderabad,Sandhya35MmRtcXRoad,Telugu,11:00,FrontCircle,110₹,109,0
+Telangana,Hyderabad,Sandhya35MmRtcXRoad,Telugu,11:00,ThirdClass,50₹,215,0
+Telangana,Hyderabad,Sandhya35MmRtcXRoad,Telugu,14:00,Balcony,150₹,731,190
+Telangana,Hyderabad,Sandhya35MmRtcXRoad,Telugu,14:00,FrontCircle,110₹,109,0
+Telangana,Hyderabad,Sandhya35MmRtcXRoad,Telugu,14:00,ThirdClass,50₹,215,0
+Telangana,Hyderabad,Sandhya35MmRtcXRoad,Telugu,18:00,Balcony,150₹,731,171
+Telangana,Hyderabad,Sandhya35MmRtcXRoad,Telugu,18:00,FrontCircle,110₹,109,2
+Telangana,Hyderabad,Sandhya35MmRtcXRoad,Telugu,18:00,ThirdClass,50₹,215,0
+Telangana,Hyderabad,Sandhya35MmRtcXRoad,Telugu,21:00,Balcony,150₹,731,172
+Telangana,Hyderabad,Sandhya35MmRtcXRoad,Telugu,21:00,FrontCircle,110₹,109,0
+Telangana,Hyderabad,Sandhya35MmRtcXRoad,Telugu,21:00,ThirdClass,50₹,215,0
