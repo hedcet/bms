@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kerala,Kozhikode,PalaxiCinemasHiLiteMallKozhikode,Malayalam,09:45,Recliner,300₹,29,1
+Kerala,Kozhikode,PalaxiCinemasHiLiteMallKozhikode,Malayalam,09:45,Premium,150₹,135,1
+Kerala,Kozhikode,PalaxiCinemasHiLiteMallKozhikode,Malayalam,09:45,Executive,100₹,27,1
+Kerala,Kozhikode,PalaxiCinemasHiLiteMallKozhikode,Malayalam,09:45,Lounger,180₹,24,1
+Kerala,Kochi,CinepolisCentreSquareMallKochi,Malayalam,14:05,Normal,140₹,20,4
+Kerala,Kochi,CinepolisCentreSquareMallKochi,Malayalam,14:05,Executive,160₹,43,6
+Kerala,Kochi,CinepolisCentreSquareMallKochi,Malayalam,14:05,Premium,180₹,44,16
+Kerala,Kattappana,SanthoshCinemaDolby71Kattappana,Malayalam,15:00,RoyalCircle,110₹,268,0
