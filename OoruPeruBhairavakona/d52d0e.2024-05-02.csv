@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+AndhraPradesh,Mangalagiri,VijayaDeluxeMangalagiri,Telugu,10:40,PremiumSofa,80₹,80,40
+AndhraPradesh,Mangalagiri,VijayaDeluxeMangalagiri,Telugu,10:40,PremiumBalcony,80₹,168,50
+AndhraPradesh,Mangalagiri,VijayaDeluxeMangalagiri,Telugu,10:40,PremiumFirstClass,70₹,190,58
+AndhraPradesh,Mangalagiri,VijayaDeluxeMangalagiri,Telugu,13:40,PremiumSofa,80₹,80,40
+AndhraPradesh,Mangalagiri,VijayaDeluxeMangalagiri,Telugu,13:40,PremiumBalcony,80₹,168,50
+AndhraPradesh,Mangalagiri,VijayaDeluxeMangalagiri,Telugu,13:40,PremiumFirstClass,70₹,190,58
+AndhraPradesh,Mangalagiri,VijayaDeluxeMangalagiri,Telugu,18:30,PremiumSofa,80₹,80,40
+AndhraPradesh,Mangalagiri,VijayaDeluxeMangalagiri,Telugu,18:30,PremiumBalcony,80₹,168,50
+AndhraPradesh,Mangalagiri,VijayaDeluxeMangalagiri,Telugu,18:30,PremiumFirstClass,70₹,190,58
+AndhraPradesh,Mangalagiri,VijayaDeluxeMangalagiri,Telugu,21:30,PremiumSofa,80₹,80,40
+AndhraPradesh,Mangalagiri,VijayaDeluxeMangalagiri,Telugu,21:30,PremiumBalcony,80₹,168,50
+AndhraPradesh,Mangalagiri,VijayaDeluxeMangalagiri,Telugu,21:30,PremiumFirstClass,70₹,190,58
