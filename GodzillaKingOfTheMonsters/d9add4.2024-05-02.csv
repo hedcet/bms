@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Pune,InoxBundGardenRoad,English,12:10,DressCircle,112₹,181,17
+Maharashtra,Pune,InoxBundGardenRoad,English,12:10,Galleria,112₹,60,0
+Maharashtra,Mumbai,InoxInsigniaAtAtriaMallWorli,English,13:30,Insignia,700₹,30,4
+Telangana,Hyderabad,PvrNexusMallKukatpallyHyderabad,English,16:10,Recliner,250₹,9,1
+Telangana,Hyderabad,PvrNexusMallKukatpallyHyderabad,English,16:10,Classic,112₹,135,30
+Odisha,Rourkela,PvrForumMallRourkela,English,17:25,Classic,112₹,28,0
+Odisha,Rourkela,PvrForumMallRourkela,English,17:25,PrimePlus,112₹,12,0
+Odisha,Rourkela,PvrForumMallRourkela,English,17:25,Prime,112₹,98,1
