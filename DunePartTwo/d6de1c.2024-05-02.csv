@@ -1,0 +1,8 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Telangana,Hyderabad,InoxGsmMallHyderabad,English,16:40,Royal,250₹,11,2
+Telangana,Hyderabad,InoxGsmMallHyderabad,English,16:40,Executive,112₹,152,2
+Ncr,GurugramGurgaon,PvrMgfGurgaon,English,21:30,Classic,250₹,104,0
+Ncr,GurugramGurgaon,PvrMgfGurgaon,English,21:30,Prime,250₹,61,27
+Telangana,Hyderabad,PvrNextGalleriaMallPanjagutta,English,22:00,Classic,112₹,170,24
+Ncr,GurugramGurgaon,InoxArdeeMallGurugram,English,22:55,PlatinumSuperior,600₹,12,2
+Ncr,GurugramGurgaon,InoxArdeeMallGurugram,English,22:55,Platinum,500₹,18,0
