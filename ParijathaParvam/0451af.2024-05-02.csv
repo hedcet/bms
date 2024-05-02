@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+AndhraPradesh,Nandyal,PratapPicturePalaceAC4KDtsNandyal,Telugu,11:30,Premium,110₹,294,30
+AndhraPradesh,Nandyal,PratapPicturePalaceAC4KDtsNandyal,Telugu,11:30,NonPremium,80₹,429,0
+AndhraPradesh,Nandyal,PratapPicturePalaceAC4KDtsNandyal,Telugu,14:30,Premium,110₹,294,34
+AndhraPradesh,Nandyal,PratapPicturePalaceAC4KDtsNandyal,Telugu,14:30,NonPremium,80₹,429,9
+AndhraPradesh,Nandyal,PratapPicturePalaceAC4KDtsNandyal,Telugu,18:30,Premium,110₹,294,30
+AndhraPradesh,Nandyal,PratapPicturePalaceAC4KDtsNandyal,Telugu,18:30,NonPremium,80₹,429,0
+AndhraPradesh,Nandyal,PratapPicturePalaceAC4KDtsNandyal,Telugu,21:30,Premium,110₹,294,30
+AndhraPradesh,Nandyal,PratapPicturePalaceAC4KDtsNandyal,Telugu,21:30,NonPremium,80₹,429,0
