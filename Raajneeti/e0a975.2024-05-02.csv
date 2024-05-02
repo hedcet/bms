@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Jharkhand,Jamshedpur,PjpCinepolisJamshedpur,Hindi,12:55,Normal,150₹,24,0
+Jharkhand,Jamshedpur,PjpCinepolisJamshedpur,Hindi,12:55,Executive,150₹,56,0
+Jharkhand,Jamshedpur,PjpCinepolisJamshedpur,Hindi,12:55,Premium,150₹,64,1
+Jharkhand,Jamshedpur,PjpCinepolisJamshedpur,Hindi,12:55,Vip,500₹,12,0
