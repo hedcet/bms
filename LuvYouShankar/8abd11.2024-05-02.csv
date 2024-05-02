@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+UttarPradesh,Agra,ChhotuMaharajCineCafeAgra,Hindi,12:00,Recliner,300₹,6,0
+UttarPradesh,Agra,ChhotuMaharajCineCafeAgra,Hindi,12:00,Classique,150₹,34,0
+UttarPradesh,Agra,ChhotuMaharajCineCafeAgra,Hindi,12:00,Premium,100₹,92,0
+UttarPradesh,Agra,ChhotuMaharajCineCafeAgra,Hindi,17:05,Recliner,300₹,6,0
+UttarPradesh,Agra,ChhotuMaharajCineCafeAgra,Hindi,17:05,Classique,150₹,34,0
+UttarPradesh,Agra,ChhotuMaharajCineCafeAgra,Hindi,17:05,Premium,100₹,92,0
+UttarPradesh,Agra,ChhotuMaharajCineCafeAgra,Hindi,22:20,Recliner,300₹,6,0
+UttarPradesh,Agra,ChhotuMaharajCineCafeAgra,Hindi,22:20,Classique,150₹,34,0
+UttarPradesh,Agra,ChhotuMaharajCineCafeAgra,Hindi,22:20,Premium,100₹,92,0
