@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Haryana,Palwal,SaimCinemasPalwal,Hindi,10:30,Box,250₹,7,0
+Haryana,Palwal,SaimCinemasPalwal,Hindi,10:30,Platinum,200₹,18,0
+Haryana,Palwal,SaimCinemasPalwal,Hindi,10:30,Gold,150₹,127,0
+Haryana,Palwal,SaimCinemasPalwal,Hindi,10:30,Silver,110₹,105,0
+Haryana,Palwal,SaimCinemasPalwal,Hindi,21:15,Box,250₹,12,0
+Haryana,Palwal,SaimCinemasPalwal,Hindi,21:15,Platinum,200₹,36,0
+Haryana,Palwal,SaimCinemasPalwal,Hindi,21:15,Gold,150₹,144,0
+Haryana,Palwal,SaimCinemasPalwal,Hindi,21:15,Silver,110₹,126,0
