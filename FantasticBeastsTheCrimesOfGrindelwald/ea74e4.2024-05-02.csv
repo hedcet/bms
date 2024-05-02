@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,NaviMumbai,InoxRaghuleelaMallVashi,English,13:10,Executive,150₹,32,3
+Maharashtra,NaviMumbai,InoxRaghuleelaMallVashi,English,13:10,Premier,150₹,105,6
+Maharashtra,NaviMumbai,InoxRaghuleelaMallVashi,English,13:10,Silver,150₹,43,20
+Maharashtra,Mumbai,InoxMegaplexInorbitMallMalad,English,15:00,Kiddles,150₹,57,4
+Goa,Goa,InoxOldGmcDbRoadPanaji,English,15:05,RoyalRecliners,250₹,23,0
+Goa,Goa,InoxOldGmcDbRoadPanaji,English,15:05,Club,112₹,126,0
+Goa,Goa,InoxOldGmcDbRoadPanaji,English,15:05,Executive,112₹,42,0
+Goa,Goa,InoxOldGmcDbRoadPanaji,English,15:05,Royal,112₹,96,16
+Ncr,Delhi,InoxPacificMallJasola,English,15:30,Club,150₹,94,0
+Ncr,Delhi,InoxPacificMallJasola,English,15:30,Royal,150₹,112,12
