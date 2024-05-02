@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Gujarat,Surat,PvrRahulRajSurat,Hindi,12:30,Recliner,300₹,24,0
+Gujarat,Surat,PvrRahulRajSurat,Hindi,12:30,Classic,150₹,30,0
+Gujarat,Surat,PvrRahulRajSurat,Hindi,12:30,ClassicPlus,150₹,30,0
+Gujarat,Surat,PvrRahulRajSurat,Hindi,12:30,Prime,150₹,87,4
+Gujarat,Surat,InoxDrWorldSurat,Hindi,14:55,Club,140₹,55,0
+Gujarat,Surat,InoxDrWorldSurat,Hindi,14:55,Executive,140₹,11,0
+Gujarat,Surat,InoxDrWorldSurat,Hindi,14:55,Royal,140₹,28,6
+Punjab,Raikot,KvaCineplexRaikot,Hindi,23:00,Vip,250₹,66,0
+Punjab,Raikot,KvaCineplexRaikot,Hindi,23:00,Diamond,160₹,146,0
+Punjab,Raikot,KvaCineplexRaikot,Hindi,23:00,Gold,110₹,36,0
