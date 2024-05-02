@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+AndhraPradesh,Nandyal,NidhiCinemasAC2KNandyal,Telugu,11:30,Balcony,110₹,201,17
+AndhraPradesh,Nandyal,NidhiCinemasAC2KNandyal,Telugu,11:30,FirstClass,80₹,147,5
+AndhraPradesh,Nandyal,NidhiCinemasAC2KNandyal,Telugu,14:30,Balcony,110₹,201,17
+AndhraPradesh,Nandyal,NidhiCinemasAC2KNandyal,Telugu,14:30,FirstClass,80₹,147,1
+AndhraPradesh,Nandyal,NidhiCinemasAC2KNandyal,Telugu,18:30,Balcony,110₹,201,20
+AndhraPradesh,Nandyal,NidhiCinemasAC2KNandyal,Telugu,18:30,FirstClass,80₹,147,5
+AndhraPradesh,Nandyal,NidhiCinemasAC2KNandyal,Telugu,21:30,Balcony,110₹,201,17
+AndhraPradesh,Nandyal,NidhiCinemasAC2KNandyal,Telugu,21:30,FirstClass,80₹,147,0
