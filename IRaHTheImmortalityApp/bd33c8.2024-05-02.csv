@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Bihar,Madhepura,ChhotuMaharajCineCafeMadhepuraBihar,Hindi,15:30,Gold,200₹,59,0
+Bihar,Madhepura,ChhotuMaharajCineCafeMadhepuraBihar,Hindi,15:30,Classique,150₹,41,0
+Maharashtra,Nanded,LibertyCinemaNanded,Hindi,18:00,Gold,60₹,209,0
+Maharashtra,Nanded,LibertyCinemaNanded,Hindi,18:00,Silver,60₹,118,0
+Bihar,Madhepura,ChhotuMaharajCineCafeMadhepuraBihar,Hindi,18:30,Gold,200₹,59,0
+Bihar,Madhepura,ChhotuMaharajCineCafeMadhepuraBihar,Hindi,18:30,Classique,150₹,41,0
+Maharashtra,Nanded,LibertyCinemaNanded,Hindi,21:00,Gold,60₹,209,0
+Maharashtra,Nanded,LibertyCinemaNanded,Hindi,21:00,Silver,60₹,118,0
