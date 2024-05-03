@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Mumbai,PvrIconInfinitiAndheriW,English,10:00,Recliner,250₹,12,7
+Maharashtra,Mumbai,PvrIconInfinitiAndheriW,English,10:00,Classic,112₹,45,1
+Maharashtra,Mumbai,PvrIconInfinitiAndheriW,English,10:00,Prime,112₹,179,13
+Maharashtra,Nandurbar,MirajCinemasNbcNandurbar,Hindi,12:30,Special,130₹,24,0
+Maharashtra,Nandurbar,MirajCinemasNbcNandurbar,Hindi,12:30,Executive,150₹,72,12
+Maharashtra,Nandurbar,MirajCinemasNbcNandurbar,Hindi,12:30,Gold,250₹,9,2
+Maharashtra,Pune,InoxRoyalHeritageMallNibmExt,English,13:15,RoyaleRecliners,300₹,14,4
+Maharashtra,Pune,InoxRoyalHeritageMallNibmExt,English,13:15,Club,150₹,33,0
+Maharashtra,Pune,InoxRoyalHeritageMallNibmExt,English,13:15,Executive,150₹,22,0
+Maharashtra,Pune,InoxRoyalHeritageMallNibmExt,English,13:15,Royale,150₹,45,9
+Maharashtra,Mumbai,InoxInsigniaAtAtriaMallWorli,English,17:05,Insignia,700₹,30,7
