@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Rajasthan,Jaipur,InoxPinkSquareMallAdarshNagar,Sindhi,19:00,Royale,310₹,17,5
+Rajasthan,Jaipur,InoxPinkSquareMallAdarshNagar,Sindhi,19:00,Club,240₹,146,16
+Rajasthan,Jaipur,InoxPinkSquareMallAdarshNagar,Sindhi,19:00,Executive,220₹,66,0
+Maharashtra,Nagpur,InoxJaswantTuliMallKampteeRoad,Sindhi,19:15,Royale,200₹,71,37
+Maharashtra,Nagpur,InoxJaswantTuliMallKampteeRoad,Sindhi,19:15,Club,170₹,173,31
+Maharashtra,Nagpur,InoxJaswantTuliMallKampteeRoad,Sindhi,19:15,Executive,110₹,49,3
