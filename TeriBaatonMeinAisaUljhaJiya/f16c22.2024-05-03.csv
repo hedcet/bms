@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+UttarPradesh,Gorakhpur,AdCinemasGorakhpur,Hindi,14:45,Gold,110₹,20,0
+UttarPradesh,Gorakhpur,AdCinemasGorakhpur,Hindi,14:45,Diamond,120₹,23,2
+UttarPradesh,Gorakhpur,AdCinemasGorakhpur,Hindi,14:45,Platinum,140₹,64,13
+Chhattisgarh,Raipur,ColorsCinemasColorsMallRaipur,Hindi,20:15,Lounge,250₹,27,14
+Chhattisgarh,Raipur,ColorsCinemasColorsMallRaipur,Hindi,20:15,Club,170₹,112,14
+Chhattisgarh,Raipur,ColorsCinemasColorsMallRaipur,Hindi,20:15,Premium,150₹,100,20
+Chhattisgarh,Raipur,ColorsCinemasColorsMallRaipur,Hindi,21:45,Recliner,300₹,16,5
+Chhattisgarh,Raipur,ColorsCinemasColorsMallRaipur,Hindi,21:45,Club,130₹,134,17
+Chhattisgarh,Raipur,ColorsCinemasColorsMallRaipur,Hindi,21:45,Premium,130₹,100,20
