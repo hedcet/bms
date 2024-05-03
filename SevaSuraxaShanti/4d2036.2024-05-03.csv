@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Gujarat,Patan,SaneliteCinemasPatan,Gujarati,17:00,Platinum,200₹,54,0
+Gujarat,Patan,SaneliteCinemasPatan,Gujarati,17:00,Gold,170₹,33,0
+Gujarat,Patan,SaneliteCinemasPatan,Gujarati,17:00,Silver,150₹,11,0
