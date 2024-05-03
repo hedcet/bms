@@ -1,0 +1,16 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Karnataka,Bengaluru,GopalanCinemasArcadeMallMysoreRoad,Kannada,13:30,Gold,150₹,292,19
+Karnataka,Bengaluru,GopalanCinemasArcadeMallMysoreRoad,Kannada,13:30,Recliner,250₹,19,1
+Karnataka,MysuruMysore,DrcCinemasBmHabitatMall,Kannada,13:45,Premium,160₹,182,14
+Karnataka,MysuruMysore,DrcCinemasBmHabitatMall,Kannada,13:45,Luxury,200₹,15,5
+Karnataka,Bengaluru,InoxCentralJpNagarMantriJunction,Kannada,14:20,Royal,300₹,14,4
+Karnataka,Bengaluru,InoxCentralJpNagarMantriJunction,Kannada,14:20,Club,150₹,237,32
+Karnataka,Bengaluru,InoxMegaplexMallOfAsiaBangalore,Kannada,16:00,Club,170₹,93,22
+Karnataka,Bengaluru,InoxMegaplexMallOfAsiaBangalore,Kannada,16:00,Executive,150₹,78,3
+Karnataka,Bengaluru,PvrDirectorsCutForumRexWalkBengaluru,Kannada,17:15,Platinum,399₹,32,0
+Karnataka,Bengaluru,PvrDirectorsCutForumRexWalkBengaluru,Kannada,17:15,PlatSup,399₹,16,2
+Karnataka,Bengaluru,MirajCinemasTgnLotusEliteMagadiRoad,Kannada,19:00,Silver,150₹,34,0
+Karnataka,Bengaluru,MirajCinemasTgnLotusEliteMagadiRoad,Kannada,19:00,Gold,170₹,162,2
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,19:00,Recliner,250₹,16,14
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,19:00,Classiic,150₹,108,0
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,19:00,Prime,150₹,108,21
