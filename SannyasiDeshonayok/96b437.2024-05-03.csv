@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+UttarPradesh,Lucknow,VinPalaceMultiplexDolbyAtmosVikasNagar,Bengali,15:30,Silver,80₹,42,0
+UttarPradesh,Lucknow,VinPalaceMultiplexDolbyAtmosVikasNagar,Bengali,15:30,Gold,80₹,142,31
+UttarPradesh,Lucknow,VinPalaceMultiplexDolbyAtmosVikasNagar,Bengali,15:30,Recliner,110₹,10,8
