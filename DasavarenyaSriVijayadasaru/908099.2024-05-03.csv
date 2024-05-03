@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Karnataka,Bengaluru,GopalanMallSirsiCircle,Kannada,16:30,Gold,200₹,278,11
+Karnataka,Bengaluru,PvrGlobalMallMysoreRoadBengaluru,Kannada,18:30,Recliner,300₹,10,2
+Karnataka,Bengaluru,PvrGlobalMallMysoreRoadBengaluru,Kannada,18:30,Classic,150₹,68,0
+Karnataka,Bengaluru,PvrGlobalMallMysoreRoadBengaluru,Kannada,18:30,Prime,150₹,42,15
