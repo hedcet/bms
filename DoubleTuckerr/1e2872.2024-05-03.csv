@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+TamilNadu,Chennai,PvrVrChennaiAnnaNagar,Tamil,16:15,Prime,127.06₹,110,22
+TamilNadu,Chennai,PvrVrChennaiAnnaNagar,Tamil,16:15,Classic,60.12₹,16,7
+TamilNadu,Coimbatore,PvrBrookefieldsMallCoimbatore,Tamil,22:35,Elite,165₹,174,0
+TamilNadu,Coimbatore,PvrBrookefieldsMallCoimbatore,Tamil,22:35,Budget,60.12₹,20,4
