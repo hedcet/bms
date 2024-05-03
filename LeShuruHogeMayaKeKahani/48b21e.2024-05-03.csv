@@ -1,0 +1,16 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Chhattisgarh,Bemetara,RatanTalkiesBemetara,Chattisgarhi,11:00,GoldClass,100₹,121,0
+Chhattisgarh,Raigarh,RamniwasTalkiesAirconditionedRaigarh,Chattisgarhi,12:15,Platinum,100₹,158,0
+Chhattisgarh,Raigarh,RamniwasTalkiesAirconditionedRaigarh,Chattisgarhi,12:15,Gold,70₹,151,0
+Chhattisgarh,Raigarh,RamniwasTalkiesAirconditionedRaigarh,Chattisgarhi,12:15,Silver,70₹,125,0
+Chhattisgarh,Bemetara,RatanTalkiesBemetara,Chattisgarhi,14:00,GoldClass,100₹,121,0
+Chhattisgarh,Raigarh,RamniwasTalkiesAirconditionedRaigarh,Chattisgarhi,15:15,Platinum,100₹,158,0
+Chhattisgarh,Raigarh,RamniwasTalkiesAirconditionedRaigarh,Chattisgarhi,15:15,Gold,70₹,151,0
+Chhattisgarh,Raigarh,RamniwasTalkiesAirconditionedRaigarh,Chattisgarhi,15:15,Silver,70₹,125,0
+Chhattisgarh,Bemetara,RatanTalkiesBemetara,Chattisgarhi,17:00,GoldClass,100₹,121,0
+Chhattisgarh,Raigarh,RamniwasTalkiesAirconditionedRaigarh,Chattisgarhi,18:15,Platinum,100₹,158,0
+Chhattisgarh,Raigarh,RamniwasTalkiesAirconditionedRaigarh,Chattisgarhi,18:15,Gold,70₹,151,2
+Chhattisgarh,Raigarh,RamniwasTalkiesAirconditionedRaigarh,Chattisgarhi,18:15,Silver,70₹,125,0
+Chhattisgarh,Raigarh,RamniwasTalkiesAirconditionedRaigarh,Chattisgarhi,21:15,Platinum,100₹,158,0
+Chhattisgarh,Raigarh,RamniwasTalkiesAirconditionedRaigarh,Chattisgarhi,21:15,Gold,70₹,151,0
+Chhattisgarh,Raigarh,RamniwasTalkiesAirconditionedRaigarh,Chattisgarhi,21:15,Silver,70₹,125,0
