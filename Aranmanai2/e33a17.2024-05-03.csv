@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Karnataka,MysuruMysore,PvrGarudaMallAlbertVictorRoadMysuru,Tamil,11:25,Prime,160₹,23,0
+Karnataka,MysuruMysore,PvrGarudaMallAlbertVictorRoadMysuru,Tamil,11:25,Classic,112₹,240,8
+Karnataka,Bengaluru,InoxMegaplexMallOfAsiaBangalore,Tamil,12:35,Royal,400₹,23,11
+Karnataka,Bengaluru,InoxMegaplexMallOfAsiaBangalore,Tamil,12:35,Recliners,350₹,24,0
+Karnataka,MysuruMysore,PvrGarudaMallAlbertVictorRoadMysuru,Tamil,18:20,Prime,160₹,23,0
+Karnataka,MysuruMysore,PvrGarudaMallAlbertVictorRoadMysuru,Tamil,18:20,Classic,112₹,240,9
+Karnataka,MysuruMysore,PvrGarudaMallAlbertVictorRoadMysuru,Tamil,21:30,Prime,160₹,23,0
+Karnataka,MysuruMysore,PvrGarudaMallAlbertVictorRoadMysuru,Tamil,21:30,Classic,112₹,240,8
