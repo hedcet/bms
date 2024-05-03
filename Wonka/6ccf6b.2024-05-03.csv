@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Ncr,Noida,PvrSuperplexLogixNoida,English,21:00,Classic,350₹,48,17
+Ncr,Delhi,PvrVegasDwarka,English,21:55,Prime,340₹,21,10
+Ncr,Delhi,PvrVegasDwarka,English,21:55,Classic,310₹,36,0
