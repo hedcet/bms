@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kerala,Kasaragod,CineKrishna4KKasaragod,Malayalam,10:30,FirstClass,129.8₹,301,7
+Kerala,Trivandrum,GreenfieldMoviemaxCinemasTrivandrum,Malayalam,16:30,Executive,150₹,132,30
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,16:45,RoyalRecliner,350₹,10,2
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,16:45,Club,190₹,66,10
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,16:45,Royal,190₹,28,17
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,16:45,Executive,130₹,22,20
+Kerala,Kochi,PvrLuluKochi,Malayalam,16:50,Recliner,300₹,10,4
+Kerala,Kochi,PvrLuluKochi,Malayalam,16:50,Prime,160₹,68,4
+Kerala,Kochi,PvrLuluKochi,Malayalam,16:50,ClassicPlus,140₹,91,13
+Kerala,Kochi,PvrLuluKochi,Malayalam,16:50,Classic,110₹,39,20
+Kerala,Trivandrum,ThapasyaCineHouseAttingal,Malayalam,21:45,Circle,130₹,436,49
+Kerala,Trivandrum,PvrLuluTrivandrum,Malayalam,22:40,Recliner,350₹,8,0
+Kerala,Trivandrum,PvrLuluTrivandrum,Malayalam,22:40,Prime,190₹,39,5
+Kerala,Trivandrum,PvrLuluTrivandrum,Malayalam,22:40,Classic,160₹,60,27
