@@ -1,0 +1,16 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Telangana,Hyderabad,InoxGsmMallHyderabad,English,13:10,Royal,250₹,11,7
+Telangana,Hyderabad,InoxGsmMallHyderabad,English,13:10,Executive,112₹,152,12
+Telangana,Hyderabad,PvrNextGalleriaMallPanjagutta,English,16:45,Recliner,250₹,10,4
+Telangana,Hyderabad,PvrNextGalleriaMallPanjagutta,English,16:45,Classic,112₹,193,25
+Ncr,GurugramGurgaon,InoxArdeeMallGurugram,English,17:20,Platinum,500₹,18,0
+Ncr,GurugramGurgaon,InoxArdeeMallGurugram,English,17:20,PlatinumSuperior,500₹,12,0
+Ncr,GurugramGurgaon,PvrMgfGurgaon,English,18:00,Prime,460₹,61,13
+Ncr,GurugramGurgaon,PvrMgfGurgaon,English,18:00,Classic,350₹,104,0
+Karnataka,Bengaluru,PvrNexusFormerlyForumKoramangala,English,21:30,Recliner,730₹,12,12
+Karnataka,Bengaluru,PvrNexusFormerlyForumKoramangala,English,21:30,Prime,340₹,57,28
+Karnataka,Bengaluru,PvrNexusFormerlyForumKoramangala,English,21:30,Classic,260₹,109,17
+Ncr,Delhi,PvrSelectCityWalkDelhi,English,21:55,PSuperior,750₹,16,13
+Ncr,Delhi,PvrSelectCityWalkDelhi,English,21:55,Platinum,550₹,24,8
+Ncr,GurugramGurgaon,PvrAmbienceGurgaon,English,22:00,Platinum,700₹,28,0
+Ncr,GurugramGurgaon,PvrAmbienceGurgaon,English,22:00,PlatinumSuperior,700₹,16,11
