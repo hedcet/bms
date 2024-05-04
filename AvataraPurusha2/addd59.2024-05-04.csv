@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Karnataka,Bengaluru,GopalanCinemasArcadeMallMysoreRoad,Kannada,11:00,Gold,150₹,292,5
+Karnataka,Bengaluru,GopalanCinemasArcadeMallMysoreRoad,Kannada,11:00,Recliner,250₹,19,5
+Karnataka,Shivamogga,BharathCinemasShivamogga,Kannada,11:00,Vip,500₹,7,0
+Karnataka,Shivamogga,BharathCinemasShivamogga,Kannada,11:00,Gold,200₹,99,10
+Karnataka,Shivamogga,BharathCinemasShivamogga,Kannada,11:00,Silver,150₹,48,4
+Karnataka,Shivamogga,BharathCinemasShivamogga,Kannada,11:00,Special,150₹,36,0
+Karnataka,Shivamogga,BharathCinemasShivamogga,Kannada,22:15,Vip,500₹,8,0
+Karnataka,Shivamogga,BharathCinemasShivamogga,Kannada,22:15,Gold,200₹,113,10
+Karnataka,Shivamogga,BharathCinemasShivamogga,Kannada,22:15,Silver,150₹,56,0
+Karnataka,Shivamogga,BharathCinemasShivamogga,Kannada,22:15,Special,150₹,42,0
