@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Gujarat,Halol,CineIndiaCinemaHalol,Gujarati,18:30,Sofa,30₹,16,15
+Gujarat,Halol,CineIndiaCinemaHalol,Gujarati,18:30,Royal,30₹,69,8
+Gujarat,Halol,CineIndiaCinemaHalol,Gujarati,18:30,Platinum,30₹,29,0
+Gujarat,Halol,CineIndiaCinemaHalol,Gujarati,18:30,Gold,30₹,15,0
+Gujarat,Halol,CineIndiaCinemaHalol,Gujarati,21:30,Sofa,30₹,16,15
+Gujarat,Halol,CineIndiaCinemaHalol,Gujarati,21:30,Royal,30₹,69,68
+Gujarat,Halol,CineIndiaCinemaHalol,Gujarati,21:30,Platinum,30₹,29,28
+Gujarat,Halol,CineIndiaCinemaHalol,Gujarati,21:30,Gold,30₹,15,14
