@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+ArunachalPradesh,Naharlagun,ChhotuMaharajCinemaNaharlagun,Hindi,13:00,Gold,150₹,50,0
+ArunachalPradesh,Naharlagun,ChhotuMaharajCinemaNaharlagun,Hindi,13:00,Sofa,150₹,5,0
+ArunachalPradesh,Naharlagun,ChhotuMaharajCinemaNaharlagun,Hindi,13:00,Premium,120₹,12,0
+ArunachalPradesh,Naharlagun,ChhotuMaharajCinemaNaharlagun,Hindi,13:00,Silver,100₹,81,0
+ArunachalPradesh,Naharlagun,ChhotuMaharajCinemaNaharlagun,Hindi,16:00,Gold,150₹,50,0
+ArunachalPradesh,Naharlagun,ChhotuMaharajCinemaNaharlagun,Hindi,16:00,Sofa,150₹,5,0
+ArunachalPradesh,Naharlagun,ChhotuMaharajCinemaNaharlagun,Hindi,16:00,Premium,120₹,12,0
+ArunachalPradesh,Naharlagun,ChhotuMaharajCinemaNaharlagun,Hindi,16:00,Silver,100₹,81,0
+ArunachalPradesh,Naharlagun,ChhotuMaharajCinemaNaharlagun,Hindi,19:00,Gold,150₹,50,0
+ArunachalPradesh,Naharlagun,ChhotuMaharajCinemaNaharlagun,Hindi,19:00,Sofa,150₹,5,0
+ArunachalPradesh,Naharlagun,ChhotuMaharajCinemaNaharlagun,Hindi,19:00,Premium,120₹,12,0
+ArunachalPradesh,Naharlagun,ChhotuMaharajCinemaNaharlagun,Hindi,19:00,Silver,100₹,81,4
