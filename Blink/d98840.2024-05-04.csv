@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Karnataka,Bengaluru,CinepolisBinnypetMall,Kannada,16:15,Normal,170₹,9,0
+Karnataka,Bengaluru,CinepolisBinnypetMall,Kannada,16:15,Executive,170₹,81,8
+Karnataka,Bengaluru,CinepolisBinnypetMall,Kannada,16:15,Premium,170₹,52,16
