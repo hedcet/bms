@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Gujarat,Ahmedabad,RevolutionMultiplexCtmAhmedabad,Gujarati,12:40,SofaClass,200₹,16,0
+Gujarat,Ahmedabad,RevolutionMultiplexCtmAhmedabad,Gujarati,12:40,PlatinumClass,150₹,40,0
+Gujarat,Ahmedabad,RevolutionMultiplexCtmAhmedabad,Gujarati,12:40,GoldenClass,150₹,50,0
+Gujarat,Ahmedabad,RevolutionMultiplexCtmAhmedabad,Gujarati,12:40,SilverClass,150₹,19,0
+Gujarat,Ahmedabad,RevolutionMultiplexCtmAhmedabad,Gujarati,15:40,SofaClass,200₹,16,0
+Gujarat,Ahmedabad,RevolutionMultiplexCtmAhmedabad,Gujarati,15:40,PlatinumClass,150₹,40,0
+Gujarat,Ahmedabad,RevolutionMultiplexCtmAhmedabad,Gujarati,15:40,GoldenClass,150₹,50,0
+Gujarat,Ahmedabad,RevolutionMultiplexCtmAhmedabad,Gujarati,15:40,SilverClass,150₹,19,0
+Gujarat,Ahmedabad,RevolutionMultiplexCtmAhmedabad,Gujarati,21:25,SofaClass,200₹,16,0
+Gujarat,Ahmedabad,RevolutionMultiplexCtmAhmedabad,Gujarati,21:25,PlatinumClass,150₹,40,0
+Gujarat,Ahmedabad,RevolutionMultiplexCtmAhmedabad,Gujarati,21:25,GoldenClass,150₹,50,0
+Gujarat,Ahmedabad,RevolutionMultiplexCtmAhmedabad,Gujarati,21:25,SilverClass,150₹,19,0
