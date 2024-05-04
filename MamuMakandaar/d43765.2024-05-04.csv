@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Telangana,Hyderabad,SreeSaiRajaTheatreMusheerabad,Hindi,11:30,Balcony,110₹,377,0
+Telangana,Hyderabad,SreeSaiRajaTheatreMusheerabad,Hindi,11:30,DressCircle,80₹,338,0
+Telangana,Hyderabad,SreeSaiRajaTheatreMusheerabad,Hindi,11:30,ThirdClass,50₹,182,0
+Telangana,Hyderabad,SreeSaiRajaTheatreMusheerabad,Hindi,14:30,Balcony,110₹,377,0
+Telangana,Hyderabad,SreeSaiRajaTheatreMusheerabad,Hindi,14:30,DressCircle,80₹,338,0
+Telangana,Hyderabad,SreeSaiRajaTheatreMusheerabad,Hindi,14:30,ThirdClass,50₹,182,0
+Telangana,Hyderabad,SreeSaiRajaTheatreMusheerabad,Hindi,18:00,Balcony,110₹,377,0
+Telangana,Hyderabad,SreeSaiRajaTheatreMusheerabad,Hindi,18:00,DressCircle,80₹,338,0
+Telangana,Hyderabad,SreeSaiRajaTheatreMusheerabad,Hindi,18:00,ThirdClass,50₹,182,0
+Telangana,Hyderabad,MetroCinemaBahadurpura,Hindi,18:00,Balcony,110₹,412,0
+Telangana,Hyderabad,MetroCinemaBahadurpura,Hindi,18:00,Silver,100₹,225,0
+Telangana,Hyderabad,SreeSaiRajaTheatreMusheerabad,Hindi,21:00,Balcony,110₹,377,0
+Telangana,Hyderabad,SreeSaiRajaTheatreMusheerabad,Hindi,21:00,DressCircle,80₹,338,0
+Telangana,Hyderabad,SreeSaiRajaTheatreMusheerabad,Hindi,21:00,ThirdClass,50₹,182,0
+Telangana,Hyderabad,MetroCinemaBahadurpura,Hindi,21:00,Balcony,110₹,412,0
+Telangana,Hyderabad,MetroCinemaBahadurpura,Hindi,21:00,Silver,100₹,225,0
