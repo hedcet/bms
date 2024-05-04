@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+MadhyaPradesh,Indore,PvrTreasureIslandMallIndore,Hindi,11:00,Recliner,190₹,9,3
+MadhyaPradesh,Indore,PvrTreasureIslandMallIndore,Hindi,11:00,Prime,140₹,46,4
+MadhyaPradesh,Indore,PvrTreasureIslandMallIndore,Hindi,11:00,Classic,110₹,26,0
+Ncr,Noida,PvrSuperplexLogixNoida,Hindi,11:10,Classic,150₹,89,6
