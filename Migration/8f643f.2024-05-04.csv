@@ -1,0 +1,14 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Pune,InoxBundGardenRoad,English,12:25,DressCircle,150₹,181,30
+Maharashtra,Pune,InoxBundGardenRoad,English,12:25,Galleria,150₹,60,0
+Maharashtra,Mumbai,PvrMarketCityKurlaPremiere,English,12:40,Classic,150₹,80,0
+Maharashtra,Mumbai,PvrMarketCityKurlaPremiere,English,12:40,Prime,150₹,143,21
+Ncr,GurugramGurgaon,CinepolisAiriaMallSohnaRoadGurgaon,English,15:30,Normal,260₹,30,18
+Ncr,GurugramGurgaon,CinepolisAiriaMallSohnaRoadGurgaon,English,15:30,DoubleSofa,390₹,24,24
+Ncr,GurugramGurgaon,CinepolisAiriaMallSohnaRoadGurgaon,English,15:30,Lounger,390₹,8,8
+TamilNadu,Chennai,PvrVrChennaiAnnaNagar,English,15:45,Prime,140.66₹,112,101
+TamilNadu,Chennai,PvrVrChennaiAnnaNagar,English,15:45,Classic,66.3₹,24,5
+Gujarat,Ahmedabad,PvrArvedTranscubeAhmedabad,English,15:55,Recliner,300₹,12,3
+Gujarat,Ahmedabad,PvrArvedTranscubeAhmedabad,English,15:55,Classic,150₹,54,0
+Gujarat,Ahmedabad,PvrArvedTranscubeAhmedabad,English,15:55,Prime,150₹,206,23
+Maharashtra,Mumbai,InoxInsigniaAtAtriaMallWorli,English,17:05,Insignia,700₹,30,20
