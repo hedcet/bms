@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Bhandara,AdarshChitraMandirBhandara,Marathi,15:45,Box,150₹,6,4
+Maharashtra,Bhandara,AdarshChitraMandirBhandara,Marathi,15:45,Balcony,110₹,110,38
+Maharashtra,Bhandara,AdarshChitraMandirBhandara,Marathi,15:45,DressCircle,80₹,92,39
+Maharashtra,Bhandara,AdarshChitraMandirBhandara,Marathi,15:45,UpperStall,60₹,182,40
+Maharashtra,Bhandara,AdarshChitraMandirBhandara,Marathi,15:45,FrontStall,50₹,113,0
+Maharashtra,Bhandara,AdarshChitraMandirBhandara,Marathi,21:20,Box,150₹,6,0
+Maharashtra,Bhandara,AdarshChitraMandirBhandara,Marathi,21:20,Balcony,110₹,110,38
+Maharashtra,Bhandara,AdarshChitraMandirBhandara,Marathi,21:20,DressCircle,80₹,92,38
+Maharashtra,Bhandara,AdarshChitraMandirBhandara,Marathi,21:20,UpperStall,60₹,182,38
+Maharashtra,Bhandara,AdarshChitraMandirBhandara,Marathi,21:20,FrontStall,50₹,113,0
