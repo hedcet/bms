@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Punjab,Mohali,PvrCp67MallMohali,Hindi,15:00,Classic,900₹,83,83
+Punjab,Mohali,PvrCp67MallMohali,Hindi,15:00,Prime,700₹,132,132
+Punjab,Mohali,PvrCp67MallMohali,Hindi,15:00,Recliner,500₹,15,13
