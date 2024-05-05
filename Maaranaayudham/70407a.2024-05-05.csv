@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Karnataka,MysuruMysore,PrabhaTheatreMysuru,Telugu,10:30,Balcony,150₹,209,0
+Karnataka,MysuruMysore,PrabhaTheatreMysuru,Telugu,10:30,SecondClass,100₹,550,0
+Karnataka,MysuruMysore,PrabhaTheatreMysuru,Telugu,13:30,Balcony,150₹,209,2
+Karnataka,MysuruMysore,PrabhaTheatreMysuru,Telugu,13:30,SecondClass,100₹,550,15
+Karnataka,MysuruMysore,PrabhaTheatreMysuru,Telugu,16:30,Balcony,150₹,209,0
+Karnataka,MysuruMysore,PrabhaTheatreMysuru,Telugu,16:30,SecondClass,100₹,550,11
+Karnataka,MysuruMysore,PrabhaTheatreMysuru,Telugu,19:30,Balcony,150₹,209,0
+Karnataka,MysuruMysore,PrabhaTheatreMysuru,Telugu,19:30,SecondClass,100₹,550,3
