@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Bihar,Saharsa,PrashantAc2KDolbySaharsa,Hindi,12:10,LoungeRecliner,250₹,20,0
+Bihar,Saharsa,PrashantAc2KDolbySaharsa,Hindi,12:10,GoldSofa,170₹,32,0
+Bihar,Saharsa,PrashantAc2KDolbySaharsa,Hindi,12:10,DcAllInclusive,150₹,142,2
+Bihar,Saharsa,PrashantAc2KDolbySaharsa,Hindi,12:10,RoyalAllInclusive,130₹,201,0
+Bihar,Saharsa,PrashantAc2KDolbySaharsa,Hindi,12:10,Silver,70₹,109,0
