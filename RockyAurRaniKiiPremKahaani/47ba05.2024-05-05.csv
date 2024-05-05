@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+UttarPradesh,Jhansi,KhilonaCinemaJhansi,Hindi,12:30,Recliner,500₹,20,0
+UttarPradesh,Jhansi,KhilonaCinemaJhansi,Hindi,12:30,Premium,250₹,158,2
+UttarPradesh,Jhansi,KhilonaCinemaJhansi,Hindi,21:30,Recliner,500₹,20,0
+UttarPradesh,Jhansi,KhilonaCinemaJhansi,Hindi,21:30,Premium,250₹,164,2
