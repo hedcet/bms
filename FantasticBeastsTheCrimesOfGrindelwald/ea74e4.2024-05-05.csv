@@ -1,0 +1,16 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Mumbai,PvrIconPhoenixPalladiumLowerParelMumbai,English,10:15,Recliner,330₹,14,4
+Maharashtra,Mumbai,PvrIconPhoenixPalladiumLowerParelMumbai,English,10:15,Lounger,250₹,10,0
+Maharashtra,Mumbai,PvrIconPhoenixPalladiumLowerParelMumbai,English,10:15,Prime,250₹,68,17
+Maharashtra,Mumbai,PvrIconPhoenixPalladiumLowerParelMumbai,English,10:15,Classic,170₹,42,0
+Maharashtra,Mumbai,InoxRCityGhatkopar,English,11:00,RoyalRecliner,250₹,14,0
+Maharashtra,Mumbai,InoxRCityGhatkopar,English,11:00,Club,112₹,65,0
+Maharashtra,Mumbai,InoxRCityGhatkopar,English,11:00,Executive,112₹,35,0
+Maharashtra,Mumbai,InoxRCityGhatkopar,English,11:00,Royal,112₹,48,14
+Maharashtra,Pune,InoxMegaplexPhoenixMallOfTheMillennium,English,12:20,Classic,150₹,24,0
+Maharashtra,Pune,InoxMegaplexPhoenixMallOfTheMillennium,English,12:20,Prime,150₹,80,14
+Gujarat,Vadodara,PvrTransCubeVadodara,English,15:35,Recliner,300₹,8,0
+Gujarat,Vadodara,PvrTransCubeVadodara,English,15:35,Classic,150₹,42,0
+Gujarat,Vadodara,PvrTransCubeVadodara,English,15:35,Prime,150₹,137,0
+TamilNadu,Chennai,PvrVrChennaiAnnaNagar,English,15:45,Prime,140.66₹,112,42
+TamilNadu,Chennai,PvrVrChennaiAnnaNagar,English,15:45,Classic,66.3₹,24,2
