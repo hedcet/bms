@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+ArunachalPradesh,Itanagar,ChhotuMaharajCineCafeItanagar,Hindi,13:30,Premium,200₹,56,2
+ArunachalPradesh,Itanagar,ChhotuMaharajCineCafeItanagar,Hindi,13:30,Classique,150₹,44,3
+ArunachalPradesh,Itanagar,ChhotuMaharajCineCafeItanagar,Hindi,17:00,Premium,200₹,56,8
+ArunachalPradesh,Itanagar,ChhotuMaharajCineCafeItanagar,Hindi,17:00,Classique,150₹,44,0
+ArunachalPradesh,Itanagar,ChhotuMaharajCineCafeItanagar,Hindi,20:30,Premium,200₹,56,0
+ArunachalPradesh,Itanagar,ChhotuMaharajCineCafeItanagar,Hindi,20:30,Classique,150₹,44,0
