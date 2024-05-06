@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+TamilNadu,Dharmapuri,GmTheatreDharmapuri,Tamil,10:30,Balcony,0₹,183,26
+TamilNadu,Dharmapuri,GmTheatreDharmapuri,Tamil,10:30,1FirstClass,0₹,276,257
+TamilNadu,Dharmapuri,GmTheatreDharmapuri,Tamil,10:30,2SecondClass,0₹,230,211
+TamilNadu,Dharmapuri,GmTheatreDharmapuri,Tamil,10:30,ThirdClass,0₹,92,73
+TamilNadu,Dharmapuri,GmTheatreDharmapuri,Tamil,14:00,Balcony,0₹,183,26
+TamilNadu,Dharmapuri,GmTheatreDharmapuri,Tamil,14:00,1FirstClass,0₹,276,257
+TamilNadu,Dharmapuri,GmTheatreDharmapuri,Tamil,14:00,2SecondClass,0₹,230,211
+TamilNadu,Dharmapuri,GmTheatreDharmapuri,Tamil,14:00,ThirdClass,0₹,92,73
+TamilNadu,Dharmapuri,GmTheatreDharmapuri,Tamil,18:30,Balcony,0₹,183,26
+TamilNadu,Dharmapuri,GmTheatreDharmapuri,Tamil,18:30,1FirstClass,0₹,276,257
+TamilNadu,Dharmapuri,GmTheatreDharmapuri,Tamil,18:30,2SecondClass,0₹,230,211
+TamilNadu,Dharmapuri,GmTheatreDharmapuri,Tamil,18:30,ThirdClass,0₹,92,73
+TamilNadu,Dharmapuri,GmTheatreDharmapuri,Tamil,21:30,Balcony,0₹,183,26
+TamilNadu,Dharmapuri,GmTheatreDharmapuri,Tamil,21:30,1FirstClass,0₹,276,257
+TamilNadu,Dharmapuri,GmTheatreDharmapuri,Tamil,21:30,2SecondClass,0₹,230,211
+TamilNadu,Dharmapuri,GmTheatreDharmapuri,Tamil,21:30,ThirdClass,0₹,92,73
