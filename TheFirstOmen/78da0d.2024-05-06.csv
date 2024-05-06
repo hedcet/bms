@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Punjab,Chandigarh,PvrElanteChandigarh,English,12:00,Recliner,550₹,26,2
+Punjab,Chandigarh,PvrElanteChandigarh,English,12:00,Classic,180₹,160,20
+Ncr,GurugramGurgaon,PvrAmbienceGurgaon,English,13:30,Platinum,500₹,28,2
+Ncr,GurugramGurgaon,PvrAmbienceGurgaon,English,13:30,PlatinumSuperior,500₹,16,7
+Ncr,Noida,PvrSuperplexLogixNoida,English,15:20,Classic,220₹,97,7
+Punjab,Mohali,PvrVrPunjabMallMohali,English,22:25,Prime,210₹,106,29
+Punjab,Mohali,PvrVrPunjabMallMohali,English,22:25,ClassicPlus,190₹,68,2
+Punjab,Mohali,PvrVrPunjabMallMohali,English,22:25,Classic,170₹,68,2
