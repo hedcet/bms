@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Meghalaya,Shillong,BijouCinemaShillong,Khasi,11:30,Balcony,200₹,365,0
+Meghalaya,Shillong,BijouCinemaShillong,Khasi,11:30,RearStall,150₹,245,0
+Meghalaya,Shillong,BijouCinemaShillong,Khasi,11:30,FrontStall,100₹,319,0
+Meghalaya,Shillong,BijouCinemaShillong,Khasi,14:00,Balcony,200₹,365,11
+Meghalaya,Shillong,BijouCinemaShillong,Khasi,14:00,RearStall,150₹,245,5
+Meghalaya,Shillong,BijouCinemaShillong,Khasi,14:00,FrontStall,100₹,319,4
+Meghalaya,Shillong,BijouCinemaShillong,Khasi,17:00,Balcony,200₹,365,0
+Meghalaya,Shillong,BijouCinemaShillong,Khasi,17:00,RearStall,150₹,245,0
+Meghalaya,Shillong,BijouCinemaShillong,Khasi,17:00,FrontStall,100₹,319,3
+Meghalaya,Shillong,BijouCinemaShillong,Khasi,19:10,Balcony,200₹,365,0
+Meghalaya,Shillong,BijouCinemaShillong,Khasi,19:10,RearStall,150₹,245,0
+Meghalaya,Shillong,BijouCinemaShillong,Khasi,19:10,FrontStall,100₹,319,0
