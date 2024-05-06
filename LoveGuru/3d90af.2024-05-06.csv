@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+AndhraPradesh,Vijayawada,ApsaraCinemaHouseVijayawada,Telugu,11:30,Balcony,110₹,254,38
+AndhraPradesh,Vijayawada,ApsaraCinemaHouseVijayawada,Telugu,11:30,DressCircle,110₹,66,13
+AndhraPradesh,Vijayawada,ApsaraCinemaHouseVijayawada,Telugu,11:30,FirstClass,90₹,370,31
+AndhraPradesh,Vijayawada,ApsaraCinemaHouseVijayawada,Telugu,11:30,SecondClass,70₹,231,62
+AndhraPradesh,Vijayawada,ApsaraCinemaHouseVijayawada,Telugu,14:30,Balcony,110₹,254,39
+AndhraPradesh,Vijayawada,ApsaraCinemaHouseVijayawada,Telugu,14:30,DressCircle,110₹,66,13
+AndhraPradesh,Vijayawada,ApsaraCinemaHouseVijayawada,Telugu,14:30,FirstClass,90₹,370,32
+AndhraPradesh,Vijayawada,ApsaraCinemaHouseVijayawada,Telugu,14:30,SecondClass,70₹,231,63
+AndhraPradesh,Vijayawada,ApsaraCinemaHouseVijayawada,Telugu,18:30,Balcony,110₹,254,39
+AndhraPradesh,Vijayawada,ApsaraCinemaHouseVijayawada,Telugu,18:30,DressCircle,110₹,66,16
+AndhraPradesh,Vijayawada,ApsaraCinemaHouseVijayawada,Telugu,18:30,FirstClass,90₹,370,34
+AndhraPradesh,Vijayawada,ApsaraCinemaHouseVijayawada,Telugu,18:30,SecondClass,70₹,231,62
+AndhraPradesh,Vijayawada,ApsaraCinemaHouseVijayawada,Telugu,21:30,Balcony,110₹,254,36
+AndhraPradesh,Vijayawada,ApsaraCinemaHouseVijayawada,Telugu,21:30,DressCircle,110₹,66,13
+AndhraPradesh,Vijayawada,ApsaraCinemaHouseVijayawada,Telugu,21:30,FirstClass,90₹,370,32
+AndhraPradesh,Vijayawada,ApsaraCinemaHouseVijayawada,Telugu,21:30,SecondClass,70₹,231,62
