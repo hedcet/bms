@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Rajasthan,Jodhpur,NasraniCinemaJodhpur,Hindi,18:15,Lounge,330₹,14,0
+Rajasthan,Jodhpur,NasraniCinemaJodhpur,Hindi,18:15,Platinum,230₹,14,0
+Rajasthan,Jodhpur,NasraniCinemaJodhpur,Hindi,18:15,Gold,130₹,153,0
+Rajasthan,Jodhpur,NasraniCinemaJodhpur,Hindi,18:15,Lounge,350₹,14,0
+Rajasthan,Jodhpur,NasraniCinemaJodhpur,Hindi,18:15,Platinum,250₹,14,6
+Rajasthan,Jodhpur,NasraniCinemaJodhpur,Hindi,18:15,Gold,150₹,156,21
+Chhattisgarh,Raipur,ColorsCinemasColorsMallRaipur,Hindi,20:00,Recliner,300₹,16,5
+Chhattisgarh,Raipur,ColorsCinemasColorsMallRaipur,Hindi,20:00,Club,99₹,134,16
+Chhattisgarh,Raipur,ColorsCinemasColorsMallRaipur,Hindi,20:00,Premium,99₹,100,20
