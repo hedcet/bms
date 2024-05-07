@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Odisha,Koraput,MeghrajCinemazKoraput,Hindi,14:00,Vip,299₹,19,1
+Odisha,Koraput,MeghrajCinemazKoraput,Hindi,14:00,Premium,199₹,51,0
+Odisha,Koraput,MeghrajCinemazKoraput,Hindi,14:00,Executive,149₹,51,0
+Odisha,Koraput,MeghrajCinemazKoraput,Hindi,14:00,Royal,99₹,56,0
+Odisha,Koraput,MeghrajCinemazKoraput,Hindi,17:30,Vip,299₹,19,0
+Odisha,Koraput,MeghrajCinemazKoraput,Hindi,17:30,Premium,199₹,51,0
+Odisha,Koraput,MeghrajCinemazKoraput,Hindi,17:30,Executive,149₹,51,0
+Odisha,Koraput,MeghrajCinemazKoraput,Hindi,17:30,Royal,99₹,56,0
+Odisha,Koraput,MeghrajCinemazKoraput,Hindi,21:00,Vip,299₹,19,0
+Odisha,Koraput,MeghrajCinemazKoraput,Hindi,21:00,Premium,199₹,51,0
+Odisha,Koraput,MeghrajCinemazKoraput,Hindi,21:00,Executive,149₹,51,0
+Odisha,Koraput,MeghrajCinemazKoraput,Hindi,21:00,Royal,99₹,56,0
