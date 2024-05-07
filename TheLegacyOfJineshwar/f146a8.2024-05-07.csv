@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Chhattisgarh,Raipur,ColorsCinemasColorsMallRaipur,Hindi,20:00,Recliner,300₹,16,4
+Chhattisgarh,Raipur,ColorsCinemasColorsMallRaipur,Hindi,20:00,Club,99₹,134,23
+Chhattisgarh,Raipur,ColorsCinemasColorsMallRaipur,Hindi,20:00,Premium,99₹,100,20
+Gujarat,Surat,InoxDrWorldSurat,Hindi,21:05,Club,150₹,55,1
+Gujarat,Surat,InoxDrWorldSurat,Hindi,21:05,Executive,150₹,11,0
+Gujarat,Surat,InoxDrWorldSurat,Hindi,21:05,Royal,150₹,28,6
