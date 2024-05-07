@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Pune,InoxBundGardenRoad,English,12:25,DressCircle,112₹,181,21
+Maharashtra,Pune,InoxBundGardenRoad,English,12:25,Galleria,112₹,60,0
+Maharashtra,Mumbai,PvrMarketCityKurlaPremiere,English,12:40,Classic,112₹,80,2
+Maharashtra,Mumbai,PvrMarketCityKurlaPremiere,English,12:40,Prime,112₹,143,5
+Maharashtra,Mumbai,InoxInsigniaAtAtriaMallWorli,English,14:00,Insignia,500₹,38,6
+Maharashtra,Mumbai,InoxInsigniaAtAtriaMallWorli,English,14:05,Insignia,500₹,30,4
+Ncr,GurugramGurgaon,InoxAiplJoyStreetGurgaon,English,18:15,Club,150₹,40,0
+Ncr,GurugramGurgaon,InoxAiplJoyStreetGurgaon,English,18:15,Royale,150₹,48,8
