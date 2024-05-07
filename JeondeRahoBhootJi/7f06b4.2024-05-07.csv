@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Punjab,Rupnagar,JrRitzMultiplexRopar,Punjabi,10:00,Silver,130₹,95,0
+Punjab,Mohali,PvrVrPunjabMallMohali,Punjabi,11:05,Prime,200₹,42,1
+Punjab,Mohali,PvrVrPunjabMallMohali,Punjabi,11:05,ClassicPlus,180₹,60,15
+Punjab,Mohali,PvrVrPunjabMallMohali,Punjabi,11:05,Classic,160₹,60,0
+Punjab,Rupnagar,JrRitzMultiplexRopar,Punjabi,15:30,Silver,180₹,95,0
+Punjab,Patiala,PvrVrcPatiala,Punjabi,18:20,Recliner,400₹,9,0
+Punjab,Patiala,PvrVrcPatiala,Punjabi,18:20,Prime,200₹,78,13
+Punjab,Patiala,PvrVrcPatiala,Punjabi,18:20,Classic,175₹,26,0
