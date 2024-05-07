@@ -1,0 +1,16 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Punjab,Jalandhar,PvrFriendsJalandhar,Hindi,12:30,Recliner,300₹,10,2
+Punjab,Jalandhar,PvrFriendsJalandhar,Hindi,12:30,Classic,150₹,70,0
+Punjab,Jalandhar,PvrFriendsJalandhar,Hindi,12:30,Prime,150₹,80,20
+Punjab,Amritsar,PvrSctAmritsar,Hindi,15:10,Recliner,250₹,11,1
+Punjab,Amritsar,PvrSctAmritsar,Hindi,15:10,Classic,112₹,103,0
+Punjab,Amritsar,PvrSctAmritsar,Hindi,15:10,Prime,112₹,60,0
+Punjab,Mohali,PvrVrPunjabMallMohali,Hindi,16:25,Prime,220₹,38,0
+Punjab,Mohali,PvrVrPunjabMallMohali,Hindi,16:25,ClassicPlus,200₹,48,12
+Punjab,Mohali,PvrVrPunjabMallMohali,Hindi,16:25,Classic,180₹,48,0
+Maharashtra,Mumbai,PvrIconInfinitiAndheriW,Hindi,17:25,Recliner,430₹,11,4
+Maharashtra,Mumbai,PvrIconInfinitiAndheriW,Hindi,17:25,PrimeSuperior,210₹,32,8
+Maharashtra,Mumbai,PvrIconInfinitiAndheriW,Hindi,17:25,Prime,210₹,126,1
+Maharashtra,Mumbai,PvrIconInfinitiAndheriW,Hindi,17:25,Classic,180₹,42,0
+Punjab,Ludhiana,PvrPavilionLudhiana,Hindi,18:50,Prime,330₹,8,0
+Punjab,Ludhiana,PvrPavilionLudhiana,Hindi,18:50,Classic,200₹,130,13
