@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Karnataka,MysuruMysore,LidoTheatreMysuru,Kannada,10:30,Balcony,150₹,244,0
+Karnataka,MysuruMysore,LidoTheatreMysuru,Kannada,10:30,SecondClass,100₹,456,2
+Karnataka,MysuruMysore,MysuruVisionCinemasBehindGrsFantasyPark,Kannada,13:15,Premier,150₹,187,0
+Karnataka,MysuruMysore,LidoTheatreMysuru,Kannada,13:30,Balcony,150₹,244,6
+Karnataka,MysuruMysore,LidoTheatreMysuru,Kannada,13:30,SecondClass,100₹,456,10
+Karnataka,MysuruMysore,LidoTheatreMysuru,Kannada,16:30,Balcony,150₹,244,1
+Karnataka,MysuruMysore,LidoTheatreMysuru,Kannada,16:30,SecondClass,100₹,456,10
+Karnataka,MysuruMysore,LidoTheatreMysuru,Kannada,19:30,Balcony,150₹,244,0
+Karnataka,MysuruMysore,LidoTheatreMysuru,Kannada,19:30,SecondClass,100₹,456,1
