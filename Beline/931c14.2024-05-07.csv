@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+WestBengal,Kolkata,NandanKolkata,Bengali,13:30,FrontStall,30₹,111,1
+WestBengal,Kolkata,NandanKolkata,Bengali,13:30,RearStall,50₹,451,22
+WestBengal,Kolkata,NandanKolkata,Bengali,13:30,Balcony,70₹,369,24
+Tripura,Agartala,SsrBalakaCinemasAgartala,Bengali,16:30,Gold,150₹,336,16
