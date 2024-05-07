@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kerala,Kasaragod,CineKrishna4KKasaragod,Malayalam,10:30,FirstClass,129.8₹,144,0
+Kerala,Kasaragod,CineKrishna4KKasaragod,Malayalam,10:30,Sofa,200₹,8,0
+Kerala,Vadakkencherry,KadankavilCinemas2KLaserVadakkenchery,Malayalam,11:30,Recliner,400₹,12,0
+Kerala,Vadakkencherry,KadankavilCinemas2KLaserVadakkenchery,Malayalam,11:30,Platinum,180₹,84,0
+Kerala,Vadakkencherry,KadankavilCinemas2KLaserVadakkenchery,Malayalam,11:30,Diamond,110₹,198,0
+Kerala,Kochi,SangeetaCinemaKochi,Malayalam,12:00,BlueCircle,150₹,187,26
+Kerala,Kozhikode,AashirvadCineplexxKozhikode,Malayalam,14:00,Platinum,220₹,31,24
+Kerala,Kozhikode,AashirvadCineplexxKozhikode,Malayalam,14:00,Gold,200₹,67,13
