@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+UttarPradesh,Amanpur,SasiaMultiplexAmanpur,Hindi,12:15,Balcony,100₹,122,0
+WestBengal,Ranaghat,SurendraCinemaRanaghat,Hindi,13:30,Balocny,60₹,315,0
+UttarPradesh,Amanpur,SasiaMultiplexAmanpur,Hindi,15:30,Balcony,100₹,122,0
+UttarPradesh,Amanpur,SasiaMultiplexAmanpur,Hindi,19:00,Balcony,100₹,122,0
