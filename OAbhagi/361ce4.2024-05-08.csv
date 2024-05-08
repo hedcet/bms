@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+WestBengal,Kalyani,DolphinMultiplexHaringhata,Bengali,13:00,RoyalClass,150₹,9,0
+WestBengal,Kalyani,DolphinMultiplexHaringhata,Bengali,13:00,EconomyClass,100₹,72,0
+WestBengal,Kalyani,DolphinMultiplexHaringhata,Bengali,16:00,RoyalClass,150₹,9,0
+WestBengal,Kalyani,DolphinMultiplexHaringhata,Bengali,16:00,EconomyClass,100₹,72,0
+WestBengal,Kalyani,DolphinMultiplexHaringhata,Bengali,19:00,RoyalClass,150₹,9,0
+WestBengal,Kalyani,DolphinMultiplexHaringhata,Bengali,19:00,EconomyClass,100₹,72,0
