@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Punjab,Banga,SuryaOhriCinemaBanga,Punjabi,10:00,Gold,230₹,30,0
+Punjab,Banga,SuryaOhriCinemaBanga,Punjabi,10:00,Silver,200₹,134,0
+Punjab,Banga,SuryaOhriCinemaBanga,Punjabi,14:45,Gold,230₹,30,2
+Punjab,Banga,SuryaOhriCinemaBanga,Punjabi,14:45,Silver,200₹,134,0
