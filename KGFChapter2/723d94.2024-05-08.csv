@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Odisha,Baripada,RoxyCinemaBaripadaAC2KDolby712,Hindi,11:45,Balcony,100₹,122,1
+Odisha,Baripada,RoxyCinemaBaripadaAC2KDolby712,Hindi,11:45,DressCircle,100₹,92,0
+Odisha,Baripada,RoxyCinemaBaripadaAC2KDolby712,Hindi,11:45,Stall,70₹,400,5
+Odisha,Baripada,RoxyCinemaBaripadaAC2KDolby712,Hindi,21:00,Balcony,100₹,122,0
+Odisha,Baripada,RoxyCinemaBaripadaAC2KDolby712,Hindi,21:00,DressCircle,100₹,92,0
+Odisha,Baripada,RoxyCinemaBaripadaAC2KDolby712,Hindi,21:00,Stall,70₹,400,0
