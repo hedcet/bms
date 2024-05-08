@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+MadhyaPradesh,Katni,DlgCinemasKatni,Sindhi,16:30,Recliner,250₹,17,10
+MadhyaPradesh,Katni,DlgCinemasKatni,Sindhi,16:30,Platinum,150₹,48,11
+MadhyaPradesh,Katni,DlgCinemasKatni,Sindhi,16:30,Gold,150₹,64,0
+MadhyaPradesh,Katni,DlgCinemasKatni,Sindhi,16:30,Silver,100₹,48,0
+MadhyaPradesh,Katni,DlgCinemasKatni,Sindhi,19:30,Recliner,250₹,17,5
+MadhyaPradesh,Katni,DlgCinemasKatni,Sindhi,19:30,Platinum,150₹,48,41
+MadhyaPradesh,Katni,DlgCinemasKatni,Sindhi,19:30,Gold,150₹,64,6
+MadhyaPradesh,Katni,DlgCinemasKatni,Sindhi,19:30,Silver,100₹,48,5
+MadhyaPradesh,Katni,DlgCinemasKatni,Sindhi,22:05,Recliner,250₹,17,17
+MadhyaPradesh,Katni,DlgCinemasKatni,Sindhi,22:05,Platinum,150₹,48,48
+MadhyaPradesh,Katni,DlgCinemasKatni,Sindhi,22:05,Gold,150₹,64,51
+MadhyaPradesh,Katni,DlgCinemasKatni,Sindhi,22:05,Silver,100₹,48,0
