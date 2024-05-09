@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Pune,InoxMegaplexPhoenixMallOfTheMillennium,Marathi,14:10,Prime,190₹,110,5
+Maharashtra,Pune,InoxMegaplexPhoenixMallOfTheMillennium,Marathi,14:10,Classic,160₹,22,1
+Maharashtra,Mumbai,MovieTimeHubGoregaonE,Marathi,15:00,Gold,130₹,63,9
+Maharashtra,Pune,CityPrideKothrud,Marathi,19:30,RoyalGold,180₹,149,88
+Maharashtra,Pune,CityPrideKothrud,Marathi,19:30,RoyalSilver,180₹,22,0
