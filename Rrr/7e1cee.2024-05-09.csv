@@ -1,0 +1,16 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Odisha,Nabarangpur,GlazeCinemasNabarangpur,Hindi,15:00,Lounger,200₹,9,0
+Odisha,Nabarangpur,GlazeCinemasNabarangpur,Hindi,15:00,Recliner,199₹,13,0
+Odisha,Nabarangpur,GlazeCinemasNabarangpur,Hindi,15:00,Premium,150₹,54,0
+Odisha,Nabarangpur,GlazeCinemasNabarangpur,Hindi,15:00,Delux,130₹,27,0
+Odisha,Nabarangpur,GlazeCinemasNabarangpur,Hindi,15:00,Executive,99₹,27,0
+Odisha,Nabarangpur,GlazeCinemasNabarangpur,Hindi,18:00,Lounger,200₹,9,0
+Odisha,Nabarangpur,GlazeCinemasNabarangpur,Hindi,18:00,Recliner,199₹,13,0
+Odisha,Nabarangpur,GlazeCinemasNabarangpur,Hindi,18:00,Premium,150₹,54,0
+Odisha,Nabarangpur,GlazeCinemasNabarangpur,Hindi,18:00,Delux,130₹,27,0
+Odisha,Nabarangpur,GlazeCinemasNabarangpur,Hindi,18:00,Executive,99₹,27,0
+Odisha,Nabarangpur,GlazeCinemasNabarangpur,Hindi,21:00,Lounger,200₹,9,0
+Odisha,Nabarangpur,GlazeCinemasNabarangpur,Hindi,21:00,Recliner,199₹,13,0
+Odisha,Nabarangpur,GlazeCinemasNabarangpur,Hindi,21:00,Premium,150₹,54,0
+Odisha,Nabarangpur,GlazeCinemasNabarangpur,Hindi,21:00,Delux,130₹,27,0
+Odisha,Nabarangpur,GlazeCinemasNabarangpur,Hindi,21:00,Executive,99₹,27,0
