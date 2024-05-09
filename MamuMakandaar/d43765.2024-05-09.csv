@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Telangana,Hyderabad,MetroCinemaBahadurpura,Hindi,18:00,Balcony,110₹,412,0
+Telangana,Hyderabad,MetroCinemaBahadurpura,Hindi,18:00,Silver,100₹,225,0
+Telangana,Hyderabad,MetroCinemaBahadurpura,Hindi,21:00,Balcony,110₹,412,0
+Telangana,Hyderabad,MetroCinemaBahadurpura,Hindi,21:00,Silver,100₹,225,0
