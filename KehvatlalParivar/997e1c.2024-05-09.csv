@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Gujarat,Ahmedabad,KSeraSeraSgHighway,Gujarati,19:45,Gold,99₹,16,0
+Gujarat,Ahmedabad,KSeraSeraSgHighway,Gujarati,19:45,Silver,99₹,60,1
+Gujarat,Ahmedabad,KSeraSeraSgHighway,Gujarati,22:30,Gold,99₹,16,5
+Gujarat,Ahmedabad,KSeraSeraSgHighway,Gujarati,22:30,Silver,99₹,60,0
