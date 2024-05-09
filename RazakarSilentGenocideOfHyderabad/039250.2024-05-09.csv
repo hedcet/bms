@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Odisha,Raygada,PsrCinemasRayagada,Telugu,12:15,Diamond,112₹,22,0
+Odisha,Raygada,PsrCinemasRayagada,Telugu,12:15,Gold,112₹,154,0
+Odisha,Raygada,PsrCinemasRayagada,Telugu,12:15,Silver,112₹,132,0
+Odisha,Raygada,PsrCinemasRayagada,Telugu,21:00,Diamond,112₹,22,3
+Odisha,Raygada,PsrCinemasRayagada,Telugu,21:00,Gold,112₹,154,0
+Odisha,Raygada,PsrCinemasRayagada,Telugu,21:00,Silver,112₹,132,0
