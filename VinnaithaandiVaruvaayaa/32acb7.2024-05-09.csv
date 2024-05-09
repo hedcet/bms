@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+TamilNadu,Chennai,PvrVrChennaiAnnaNagar,Tamil,12:20,Prime,165.01₹,102,42
+TamilNadu,Chennai,PvrVrChennaiAnnaNagar,Tamil,12:20,Classic,59.61₹,11,5
+TamilNadu,Chennai,InoxLuxePhoenixMarketCityVelachery,Tamil,12:50,Elite,139₹,190,29
+TamilNadu,Chennai,InoxLuxePhoenixMarketCityVelachery,Tamil,12:50,Budget,59.61₹,34,6
