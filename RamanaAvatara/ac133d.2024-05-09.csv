@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,19:00,Recliner,250₹,33,33
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,19:00,Classiic,150₹,140,137
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,19:00,Prime,150₹,120,120
+Karnataka,MysuruMysore,DrcCinemasBmHabitatMall,Kannada,19:05,Premium,112₹,182,80
+Karnataka,MysuruMysore,DrcCinemasBmHabitatMall,Kannada,19:05,Luxury,200₹,15,12
