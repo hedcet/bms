@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+UttarPradesh,Bareilly,HindTalkiesBareilly,Hindi,11:45,Diamond,₹120,122,0
+UttarPradesh,Bareilly,HindTalkiesBareilly,Hindi,11:45,GoldClass,₹70,218,0
+UttarPradesh,Jhansi,EliteCinemaJhansi,Hindi,12:00,Balcony,₹100,130,0
+UttarPradesh,Bareilly,HindTalkiesBareilly,Hindi,15:10,Diamond,₹120,122,0
+UttarPradesh,Bareilly,HindTalkiesBareilly,Hindi,15:10,GoldClass,₹70,218,3
+UttarPradesh,Jhansi,EliteCinemaJhansi,Hindi,15:30,Balcony,₹100,130,0
+UttarPradesh,Bareilly,HindTalkiesBareilly,Hindi,18:30,Diamond,₹120,122,0
+UttarPradesh,Bareilly,HindTalkiesBareilly,Hindi,18:30,GoldClass,₹70,218,5
+UttarPradesh,Jhansi,EliteCinemaJhansi,Hindi,18:45,Balcony,₹100,130,0
+UttarPradesh,Badaun,JCPicturePalaceBudaun,Hindi,21:00,Balcony,₹120,168,0
+UttarPradesh,Badaun,JCPicturePalaceBudaun,Hindi,21:00,GoldClass,₹80,308,0
