@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Mumbai,MaisonPvrJioWorldDriveMumbai,English,11:30,Luxe,₹600,24,1
+Ncr,Delhi,DelhiPvrDirectorSCutAmbienceMall,English,11:30,Platinum,₹650,12,0
+Ncr,Delhi,DelhiPvrDirectorSCutAmbienceMall,English,11:30,PlatSuperior,₹650,13,8
