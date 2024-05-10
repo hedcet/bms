@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+UttarPradesh,Lucknow,InoxMegaplexPhoenixPalassioMall,English,10:15,Club,₹150,32,0
+UttarPradesh,Lucknow,InoxMegaplexPhoenixPalassioMall,English,10:15,Executive,₹150,16,0
+UttarPradesh,Lucknow,InoxMegaplexPhoenixPalassioMall,English,10:15,Royale,₹150,30,10
+Ncr,GurugramGurgaon,CinepolisAiriaMallSohnaRoadGurgaon,English,13:00,Normal,₹200,30,0
+Ncr,GurugramGurgaon,CinepolisAiriaMallSohnaRoadGurgaon,English,13:00,DoubleSofa,₹300,24,13
+Ncr,GurugramGurgaon,CinepolisAiriaMallSohnaRoadGurgaon,English,13:00,Lounger,₹300,8,0
