@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Gujarat,Mahuva,CineArcMultiplexMahuva,Gujarati,12:30,Gold,₹150,65,15
+Gujarat,Mahuva,CineArcMultiplexMahuva,Gujarati,12:30,Silver,₹100,170,12
+Gujarat,Ahmedabad,AbMiniplexShivranjiniCrossRoadSatellite,Gujarati,14:30,SingleSeat,₹110,13,0
+Gujarat,Ahmedabad,AbMiniplexShivranjiniCrossRoadSatellite,Gujarati,14:30,CoupleSeat,₹110,34,2
+Gujarat,Surat,RajImperialInoxVarachhaRoadSurat,Gujarati,15:05,Imperial,₹380,10,4
+Gujarat,Surat,RajImperialInoxVarachhaRoadSurat,Gujarati,15:05,Platinum,₹210,45,12
+Gujarat,Surat,RajImperialInoxVarachhaRoadSurat,Gujarati,15:05,Gold,₹170,150,28
+Gujarat,Surat,RajImperialInoxVarachhaRoadSurat,Gujarati,15:05,Silver,₹150,32,4
+Gujarat,Surat,CherishCinemasKatargam,Gujarati,15:40,Gold,₹170,49,0
+Gujarat,Surat,CherishCinemasKatargam,Gujarati,15:40,Silver,₹170,59,0
+Gujarat,Surat,CherishCinemasKatargam,Gujarati,15:40,Platinum,₹130,30,0
+Gujarat,Surat,CherishCinemasKatargam,Gujarati,15:40,Premium,₹130,30,0
+Gujarat,Surat,CherishCinemasKatargam,Gujarati,19:30,Gold,₹170,52,0
+Gujarat,Surat,CherishCinemasKatargam,Gujarati,19:30,Silver,₹170,64,0
+Gujarat,Surat,CherishCinemasKatargam,Gujarati,19:30,Platinum,₹130,32,0
+Gujarat,Surat,CherishCinemasKatargam,Gujarati,19:30,Premium,₹130,32,0
