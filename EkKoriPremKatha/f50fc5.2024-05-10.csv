@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+ArunachalPradesh,Naharlagun,ANationalCinemaMarketAreaNaharlagun,Hindi,17:00,Platinum,₹300,150,0
+ArunachalPradesh,Naharlagun,ANationalCinemaMarketAreaNaharlagun,Hindi,17:00,Gold,₹200,126,0
+ArunachalPradesh,Naharlagun,ANationalCinemaMarketAreaNaharlagun,Hindi,17:00,Silver,₹150,36,0
+Assam,Diphu,GalaxyCinemaDiphu,Hindi,17:00,Gold,₹200,54,0
+Assam,Diphu,GalaxyCinemaDiphu,Hindi,17:00,Club,₹250,133,0
+Assam,Diphu,GalaxyCinemaDiphu,Hindi,17:00,Executive,₹500,8,0
+Assam,Haflong,HamringdiCinemaHaflong,Hindi,17:00,Diamond,₹300,151,0
+Assam,Haflong,HamringdiCinemaHaflong,Hindi,17:00,Gold,₹250,76,0
