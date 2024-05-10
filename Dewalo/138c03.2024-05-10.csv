@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+MadhyaPradesh,Katni,DlgCinemasKatni,Sindhi,22:00,Recliner,₹250,17,16
+MadhyaPradesh,Katni,DlgCinemasKatni,Sindhi,22:00,Platinum,₹150,48,48
+MadhyaPradesh,Katni,DlgCinemasKatni,Sindhi,22:00,Gold,₹150,64,59
+MadhyaPradesh,Katni,DlgCinemasKatni,Sindhi,22:00,Silver,₹100,48,16
