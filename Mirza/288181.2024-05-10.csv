@@ -1,0 +1,14 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+WestBengal,Jalpaiguri,SriDayalCinemaHallJalpaiguri,Bengali,13:00,Balcony,₹70,360,0
+WestBengal,Kolkata,InoxHilandPark,Bengali,13:00,Royal,₹400,16,2
+WestBengal,Kolkata,InoxHilandPark,Bengali,13:00,Silver,₹230,155,9
+WestBengal,Kolkata,InoxHilandPark,Bengali,13:00,Premier,₹210,29,0
+WestBengal,Kolkata,PvrDiamondPlazaJessoreKolkata,Bengali,13:25,Recliner,₹380,12,0
+WestBengal,Kolkata,PvrDiamondPlazaJessoreKolkata,Bengali,13:25,Prime,₹250,18,0
+WestBengal,Kolkata,PvrDiamondPlazaJessoreKolkata,Bengali,13:25,Classic,₹150,93,22
+WestBengal,Kolkata,NandanKolkata,Bengali,13:35,Normal,₹30,165,49
+WestBengal,Kolkata,PvrDiamondPlazaJessoreKolkata,Bengali,14:55,Recliner,₹380,12,0
+WestBengal,Kolkata,PvrDiamondPlazaJessoreKolkata,Bengali,14:55,Prime,₹250,18,0
+WestBengal,Kolkata,PvrDiamondPlazaJessoreKolkata,Bengali,14:55,Classic,₹150,93,20
+WestBengal,Jalpaiguri,SriDayalCinemaHallJalpaiguri,Bengali,16:00,Balcony,₹70,360,0
+WestBengal,Jalpaiguri,SriDayalCinemaHallJalpaiguri,Bengali,19:00,Balcony,₹70,360,0
