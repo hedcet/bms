@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Mumbai,NishatCinemaGrantRoad,Hindi,12:30,Balcony,₹100,125,0
+Maharashtra,Mumbai,NishatCinemaGrantRoad,Hindi,12:30,Gold,₹80,88,0
+Maharashtra,Mumbai,NishatCinemaGrantRoad,Hindi,12:30,Silver,₹70,141,0
+Maharashtra,Mumbai,NishatCinemaGrantRoad,Hindi,15:30,Balcony,₹100,125,4
+Maharashtra,Mumbai,NishatCinemaGrantRoad,Hindi,15:30,Gold,₹80,88,10
+Maharashtra,Mumbai,NishatCinemaGrantRoad,Hindi,15:30,Silver,₹70,141,32
+Maharashtra,Mumbai,NishatCinemaGrantRoad,Hindi,18:30,Balcony,₹100,125,3
+Maharashtra,Mumbai,NishatCinemaGrantRoad,Hindi,18:30,Gold,₹80,88,6
+Maharashtra,Mumbai,NishatCinemaGrantRoad,Hindi,18:30,Silver,₹70,141,24
+Maharashtra,Mumbai,NishatCinemaGrantRoad,Hindi,21:30,Balcony,₹100,125,4
+Maharashtra,Mumbai,NishatCinemaGrantRoad,Hindi,21:30,Gold,₹80,88,6
+Maharashtra,Mumbai,NishatCinemaGrantRoad,Hindi,21:30,Silver,₹70,141,32
