@@ -1,0 +1,16 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+UttarPradesh,Agra,RajeevCinemaAgra,Hindi,12:15,Balcony,₹40,280,0
+UttarPradesh,Agra,RajeevCinemaAgra,Hindi,12:15,DressCircle,₹20,660,0
+UttarPradesh,Kannauj,NarayanMiniplexKannauj,Hindi,12:15,Gold,₹110,215,0
+UttarPradesh,Agra,RajeevCinemaAgra,Hindi,15:15,Balcony,₹40,280,0
+UttarPradesh,Agra,RajeevCinemaAgra,Hindi,15:15,DressCircle,₹20,660,0
+UttarPradesh,Kannauj,NarayanMiniplexKannauj,Hindi,15:15,Gold,₹110,215,0
+UttarPradesh,Aligarh,MeenakshiCinemaAligarh,Hindi,15:30,Balcony,₹130,251,0
+UttarPradesh,Aligarh,MeenakshiCinemaAligarh,Hindi,15:30,SpecialClass,₹100,142,0
+UttarPradesh,Agra,RajeevCinemaAgra,Hindi,18:15,Balcony,₹40,280,0
+UttarPradesh,Agra,RajeevCinemaAgra,Hindi,18:15,DressCircle,₹20,660,0
+UttarPradesh,Kannauj,NarayanMiniplexKannauj,Hindi,18:15,Gold,₹110,215,0
+UttarPradesh,Aligarh,MeenakshiCinemaAligarh,Hindi,18:30,Balcony,₹130,251,0
+UttarPradesh,Aligarh,MeenakshiCinemaAligarh,Hindi,18:30,SpecialClass,₹100,142,0
+UttarPradesh,Aligarh,MeenakshiCinemaAligarh,Hindi,21:15,Balcony,₹130,251,0
+UttarPradesh,Aligarh,MeenakshiCinemaAligarh,Hindi,21:15,SpecialClass,₹100,142,0
