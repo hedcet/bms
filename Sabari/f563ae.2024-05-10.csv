@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Karnataka,Bellary,RrMultiplexBellary,Telugu,17:00,GoldClass,₹150,86,0
+Karnataka,Bellary,RrMultiplexBellary,Telugu,17:00,SilverClass,₹100,243,0
+Karnataka,Bellary,RrMultiplexBellary,Telugu,20:00,GoldClass,₹150,86,0
+Karnataka,Bellary,RrMultiplexBellary,Telugu,20:00,SilverClass,₹100,243,0
