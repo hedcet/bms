@@ -1,0 +1,16 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Mumbai,InoxInsigniaAtAtriaMallWorli,English,10:10,Insignia,₹350,30,4
+Kerala,Trivandrum,PvrLuluTrivandrum,English,15:05,Recliner,₹300,7,0
+Kerala,Trivandrum,PvrLuluTrivandrum,English,15:05,Prime,₹160,51,0
+Kerala,Trivandrum,PvrLuluTrivandrum,English,15:05,Classic,₹140,70,0
+Ncr,GurugramGurgaon,PvrAmbienceGurgaon,English,15:40,Classic,₹150,36,0
+Ncr,GurugramGurgaon,PvrAmbienceGurgaon,English,15:40,Prime,₹150,22,9
+TamilNadu,Chennai,PvrEscapeExpressAvenueMall,English,15:45,Elite,₹140.66,99,36
+TamilNadu,Chennai,PvrEscapeExpressAvenueMall,English,15:45,Budget,₹66.3,11,11
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,English,16:30,Recliner,₹300,37,6
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,English,16:30,Classiic,₹150,220,2
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,English,16:30,Prime,₹150,130,17
+Maharashtra,Mumbai,PvrTheCapitalMallNalasoparaE,English,17:20,Recliner,₹300,14,0
+Maharashtra,Mumbai,PvrTheCapitalMallNalasoparaE,English,17:20,Classic,₹150,32,0
+Maharashtra,Mumbai,PvrTheCapitalMallNalasoparaE,English,17:20,Prime,₹150,140,19
+Ncr,Noida,PvrSuperplexLogixNoida,English,19:50,Classic,₹150,48,12
