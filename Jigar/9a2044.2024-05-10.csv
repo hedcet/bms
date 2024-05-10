@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+UttarPradesh,Gorakhpur,UnitedTalkiesGorakhpur,Hindi,15:45,Platinum,₹100,176,0
+UttarPradesh,Gorakhpur,UnitedTalkiesGorakhpur,Hindi,15:45,Diamond,₹80,229,0
+UttarPradesh,Gorakhpur,UnitedTalkiesGorakhpur,Hindi,15:45,Gold,₹60,144,0
+UttarPradesh,Gorakhpur,UnitedTalkiesGorakhpur,Hindi,15:45,Silver,₹50,96,2
+UttarPradesh,Gorakhpur,UnitedTalkiesGorakhpur,Hindi,18:45,Platinum,₹100,176,5
+UttarPradesh,Gorakhpur,UnitedTalkiesGorakhpur,Hindi,18:45,Diamond,₹80,229,1
+UttarPradesh,Gorakhpur,UnitedTalkiesGorakhpur,Hindi,18:45,Gold,₹60,144,0
+UttarPradesh,Gorakhpur,UnitedTalkiesGorakhpur,Hindi,18:45,Silver,₹50,96,3
+UttarPradesh,Gorakhpur,UnitedTalkiesGorakhpur,Hindi,21:30,Platinum,₹100,176,0
+UttarPradesh,Gorakhpur,UnitedTalkiesGorakhpur,Hindi,21:30,Diamond,₹80,229,0
+UttarPradesh,Gorakhpur,UnitedTalkiesGorakhpur,Hindi,21:30,Gold,₹60,144,0
+UttarPradesh,Gorakhpur,UnitedTalkiesGorakhpur,Hindi,21:30,Silver,₹50,96,0
