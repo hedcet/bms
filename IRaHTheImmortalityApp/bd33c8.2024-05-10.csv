@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Bihar,Patna,CinemaCafeSmartTheatreRpsMorePatna,Hindi,10:30,Classique,₹100,100,0
+Bihar,Patna,CinemaCafeSmartTheatreRpsMorePatna,Hindi,16:30,Classique,₹100,100,0
+Bihar,Patna,CinemaCafeSmartTheatreRpsMorePatna,Hindi,19:00,Classique,₹100,100,2
+Bihar,Patna,CinemaCafeSmartTheatreRpsMorePatna,Hindi,22:10,Classique,₹100,100,0
