@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+TamilNadu,Coimbatore,BroadwayCinemasCoimbatore,Tamil,12:20,Elite,₹190.78,145,2
+TamilNadu,Coimbatore,BroadwayCinemasCoimbatore,Tamil,12:20,Economy,₹60.12,15,1
+TamilNadu,Coimbatore,InoxProzoneMallCoimbatore,Tamil,13:25,Club,₹165,151,7
+TamilNadu,Coimbatore,InoxProzoneMallCoimbatore,Tamil,13:25,Executive,₹60.12,19,7
+TamilNadu,Madurai,ShaTheatreMadurai,Tamil,14:00,FirstClass,₹0,"1,162","1,036"
+TamilNadu,Chennai,PvrVrChennaiAnnaNagar,Tamil,15:45,Prime,₹165,112,27
+TamilNadu,Chennai,PvrVrChennaiAnnaNagar,Tamil,15:45,Classic,₹60.12,24,11
+TamilNadu,Madurai,ShaTheatreMadurai,Tamil,18:00,FirstClass,₹0,"1,162","1,036"
+TamilNadu,Madurai,ShaTheatreMadurai,Tamil,22:00,FirstClass,₹0,"1,162","1,036"
+TamilNadu,Chennai,InoxLuxePhoenixMarketCityVelachery,Tamil,22:15,Elite,₹127.06,190,87
+TamilNadu,Chennai,InoxLuxePhoenixMarketCityVelachery,Tamil,22:15,Budget,₹60.12,34,3
