@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Nanded,LibertyCinemaNanded,Hindi,12:00,Gold,₹60,209,0
+Maharashtra,Nanded,LibertyCinemaNanded,Hindi,12:00,Silver,₹60,118,0
+Maharashtra,Nanded,LibertyCinemaNanded,Hindi,15:00,Gold,₹60,209,6
+Maharashtra,Nanded,LibertyCinemaNanded,Hindi,15:00,Silver,₹60,118,0
+Maharashtra,Nanded,LibertyCinemaNanded,Hindi,18:00,Gold,₹60,209,0
+Maharashtra,Nanded,LibertyCinemaNanded,Hindi,18:00,Silver,₹60,118,0
+Maharashtra,Nanded,LibertyCinemaNanded,Hindi,21:00,Gold,₹60,209,0
+Maharashtra,Nanded,LibertyCinemaNanded,Hindi,21:00,Silver,₹60,118,0
