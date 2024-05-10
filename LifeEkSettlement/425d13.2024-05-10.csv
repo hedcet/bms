@@ -1,0 +1,14 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Gujarat,Deesa,ShreeRamMultiplexDeesa,Gujarati,12:15,Box,₹300,24,0
+Gujarat,Deesa,ShreeRamMultiplexDeesa,Gujarati,12:15,Platinum,₹200,132,0
+Gujarat,Deesa,ShreeRamMultiplexDeesa,Gujarati,12:15,Gold,₹100,207,0
+Gujarat,Deesa,ShreeRamMultiplexDeesa,Gujarati,15:15,Box,₹300,24,0
+Gujarat,Deesa,ShreeRamMultiplexDeesa,Gujarati,15:15,Platinum,₹200,132,0
+Gujarat,Deesa,ShreeRamMultiplexDeesa,Gujarati,15:15,Gold,₹100,207,0
+Gujarat,Ahmedabad,19CinemaGodrejGardenCityAhmedabad,Gujarati,18:00,Sofa,₹100,25,0
+Gujarat,Deesa,ShreeRamMultiplexDeesa,Gujarati,18:15,Box,₹300,24,0
+Gujarat,Deesa,ShreeRamMultiplexDeesa,Gujarati,18:15,Platinum,₹200,132,0
+Gujarat,Deesa,ShreeRamMultiplexDeesa,Gujarati,18:15,Gold,₹100,207,0
+Gujarat,Deesa,ShreeRamMultiplexDeesa,Gujarati,21:15,Box,₹300,24,0
+Gujarat,Deesa,ShreeRamMultiplexDeesa,Gujarati,21:15,Platinum,₹200,132,0
+Gujarat,Deesa,ShreeRamMultiplexDeesa,Gujarati,21:15,Gold,₹100,207,0
