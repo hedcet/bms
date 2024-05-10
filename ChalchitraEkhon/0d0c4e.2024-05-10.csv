@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+WestBengal,Hooghly,SvfCinemasKpsMallMilonCinemaChinsurah,Bengali,14:45,Lounger,₹200,11,0
+WestBengal,Hooghly,SvfCinemasKpsMallMilonCinemaChinsurah,Bengali,14:45,Gold,₹130,12,0
+WestBengal,Hooghly,SvfCinemasKpsMallMilonCinemaChinsurah,Bengali,14:45,Platinum,₹150,65,0
+WestBengal,Kolkata,SvfCinemasWoodSquareMallNarendrapur,Bengali,19:45,Gold,₹150,8,0
+WestBengal,Kolkata,SvfCinemasWoodSquareMallNarendrapur,Bengali,19:45,Platinum,₹170,116,4
+WestBengal,Kolkata,SvfCinemasWoodSquareMallNarendrapur,Bengali,19:45,Royal,₹300,9,2
+WestBengal,Kolkata,PriyaCinemaRashbehariAvenue,Bengali,20:30,Stall,₹112,84,1
+WestBengal,Kolkata,PriyaCinemaRashbehariAvenue,Bengali,20:30,Rear,₹112,257,3
+WestBengal,Kolkata,PriyaCinemaRashbehariAvenue,Bengali,20:30,Box,₹190,12,8
+WestBengal,Kolkata,PriyaCinemaRashbehariAvenue,Bengali,20:30,Recliners,₹280,17,5
+WestBengal,Kolkata,PriyaCinemaRashbehariAvenue,Bengali,20:30,Classic,₹190,76,1
+WestBengal,Kolkata,PriyaCinemaRashbehariAvenue,Bengali,20:30,Balcony,₹180,104,5
