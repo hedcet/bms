@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+MadhyaPradesh,Indore,PrafullCinemaIndore,Hindi,12:00,Gold,₹150,92,0
+MadhyaPradesh,Indore,PrafullCinemaIndore,Hindi,12:00,Silver,₹100,48,0
+Rajasthan,Jaipur,GalaxyCinemaMansarovarJaipur,Hindi,12:15,Recliner,₹200,59,3
+Rajasthan,Jaipur,GalaxyCinemaMansarovarJaipur,Hindi,12:15,Club,₹99,176,1
+Rajasthan,Jaipur,GalaxyCinemaMansarovarJaipur,Hindi,12:15,Premier,₹99,120,0
+Rajasthan,Jaipur,GalaxyCinemaMansarovarJaipur,Hindi,12:15,Lounge,₹99,90,0
+MadhyaPradesh,Indore,PrafullCinemaIndore,Hindi,15:00,Gold,₹150,92,0
+MadhyaPradesh,Indore,PrafullCinemaIndore,Hindi,15:00,Silver,₹100,48,0
+MadhyaPradesh,Indore,PrafullCinemaIndore,Hindi,18:00,Gold,₹150,92,0
+MadhyaPradesh,Indore,PrafullCinemaIndore,Hindi,18:00,Silver,₹100,48,0
+MadhyaPradesh,Indore,PrafullCinemaIndore,Hindi,21:00,Gold,₹150,92,0
+MadhyaPradesh,Indore,PrafullCinemaIndore,Hindi,21:00,Silver,₹100,48,0
