@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kerala,Alappuzha,PanCinemasAlappuzha,Malayalam,10:00,Platinum,₹250,37,0
+Kerala,Alappuzha,PanCinemasAlappuzha,Malayalam,10:00,Gold,₹180,136,0
+Kerala,Kochi,SangeetaCinemaKochi,Malayalam,10:00,BlueCircle,₹150,187,18
+Kerala,Kozhikode,AashirvadCineplexxKozhikode,Malayalam,16:45,Platinum,₹220,31,12
+Kerala,Kozhikode,AashirvadCineplexxKozhikode,Malayalam,16:45,Gold,₹200,67,10
+Kerala,Pathanapuram,SeemaCineplexPathanapuram,Malayalam,18:30,Audi3,₹140,136,73
