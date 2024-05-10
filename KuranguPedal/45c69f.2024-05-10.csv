@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+TamilNadu,Tirupur,SriSakthiCinemasMultiplexTirupur,Tamil,10:30,Diamond,₹190,15,0
+TamilNadu,Tirupur,SriSakthiCinemasMultiplexTirupur,Tamil,10:30,Platinum,₹190,32,0
+TamilNadu,Tirupur,SriSakthiCinemasMultiplexTirupur,Tamil,10:30,Gold,₹150,128,4
+TamilNadu,Tirupur,SriSakthiCinemasMultiplexTirupur,Tamil,10:30,Silver,₹100,16,1
+TamilNadu,Chennai,PvrVrChennaiAnnaNagar,Tamil,15:40,Prime,₹165,102,44
+TamilNadu,Chennai,PvrVrChennaiAnnaNagar,Tamil,15:40,Classic,₹60.12,11,11
+TamilNadu,Chennai,InoxLuxePhoenixMarketCityVelachery,Tamil,19:35,Elite,₹149,190,104
+TamilNadu,Chennai,InoxLuxePhoenixMarketCityVelachery,Tamil,19:35,Budget,₹60.12,34,2
