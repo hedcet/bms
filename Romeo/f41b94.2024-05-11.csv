@@ -1,0 +1,16 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+TamilNadu,Chennai,PvrAmpaMallNelsonManickamRoad,Tamil,11:30,Prime,₹149,130,14
+TamilNadu,Chennai,PvrAmpaMallNelsonManickamRoad,Tamil,11:30,Classic,₹60.12,17,17
+TamilNadu,Chennai,PvrHeritageRslEcrChennai,Tamil,12:00,Prime,₹139,99,32
+TamilNadu,Chennai,PvrHeritageRslEcrChennai,Tamil,12:00,Classic,₹60.12,11,11
+TamilNadu,Chennai,PvrEscapeExpressAvenueMall,Tamil,12:55,Elite,₹149,99,66
+TamilNadu,Chennai,PvrEscapeExpressAvenueMall,Tamil,12:55,Budget,₹60.12,11,11
+TamilNadu,Chennai,PvrVrChennaiAnnaNagar,Tamil,13:00,Prime,₹165,110,79
+TamilNadu,Chennai,PvrVrChennaiAnnaNagar,Tamil,13:00,Classic,₹60.12,16,14
+TamilNadu,Trichy,SriRengarajTalkiesTiruchirappalli,Tamil,14:15,FirstClass,₹51,211,1
+TamilNadu,Trichy,SriRengarajTalkiesTiruchirappalli,Tamil,18:15,FirstClass,₹51,211,3
+TamilNadu,Chennai,PvrSathyamRoyapettah,Tamil,18:30,Elite,₹165,102,37
+TamilNadu,Chennai,PvrSathyamRoyapettah,Tamil,18:30,Budget,₹60.12,12,12
+TamilNadu,Chennai,PvrPalazzoTheNexusVijayaMall,Tamil,22:10,Elite,₹165,216,46
+TamilNadu,Chennai,PvrPalazzoTheNexusVijayaMall,Tamil,22:10,Budget,₹60.12,28,28
+TamilNadu,Trichy,SriRengarajTalkiesTiruchirappalli,Tamil,22:15,FirstClass,₹51,211,1
