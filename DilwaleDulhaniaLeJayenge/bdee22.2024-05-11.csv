@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+UttarPradesh,Ghazipur,AvStarCinemaGhazipur,Hindi,09:45,Diamond,₹200,38,0
+UttarPradesh,Ghazipur,AvStarCinemaGhazipur,Hindi,09:45,Gold,₹170,97,0
+UttarPradesh,Ghazipur,AvStarCinemaGhazipur,Hindi,09:45,Silver,₹150,83,0
+UttarPradesh,Ghazipur,AvStarCinemaGhazipur,Hindi,13:00,Diamond,₹200,38,2
+UttarPradesh,Ghazipur,AvStarCinemaGhazipur,Hindi,13:00,Gold,₹170,97,0
+UttarPradesh,Ghazipur,AvStarCinemaGhazipur,Hindi,13:00,Silver,₹150,83,0
+UttarPradesh,Ghazipur,AvStarCinemaGhazipur,Hindi,16:30,Diamond,₹200,38,0
+UttarPradesh,Ghazipur,AvStarCinemaGhazipur,Hindi,16:30,Gold,₹170,97,0
+UttarPradesh,Ghazipur,AvStarCinemaGhazipur,Hindi,16:30,Silver,₹150,83,0
+Assam,Guwahati,GrandeCinesGuwahati,Hindi,19:00,Silver,₹150,45,0
+Assam,Guwahati,GrandeCinesGuwahati,Hindi,19:00,Gold,₹150,60,0
+Assam,Guwahati,GrandeCinesGuwahati,Hindi,19:00,PremiumGold,₹150,82,0
+Assam,Guwahati,GrandeCinesGuwahati,Hindi,19:00,ExecutiveGold,₹200,12,0
+UttarPradesh,Ghazipur,AvStarCinemaGhazipur,Hindi,20:00,Diamond,₹200,38,0
+UttarPradesh,Ghazipur,AvStarCinemaGhazipur,Hindi,20:00,Gold,₹170,97,0
+UttarPradesh,Ghazipur,AvStarCinemaGhazipur,Hindi,20:00,Silver,₹150,83,0
