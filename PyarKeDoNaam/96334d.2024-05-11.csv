@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+UttarPradesh,Bulandshahr,SuncityCinemaBulandshahr,Hindi,10:00,Platinum,₹250,37,3
+UttarPradesh,Bulandshahr,SuncityCinemaBulandshahr,Hindi,10:00,Gold,₹180,245,5
+UttarPradesh,Bulandshahr,SuncityCinemaBulandshahr,Hindi,12:30,Platinum,₹250,37,3
+UttarPradesh,Bulandshahr,SuncityCinemaBulandshahr,Hindi,12:30,Gold,₹180,245,3
