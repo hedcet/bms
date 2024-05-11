@@ -1,0 +1,8 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+TamilNadu,Chennai,SlbLakshmiBalaMoviePark4KDolbyAtmosPadi,Tamil,12:00,FirstClass,₹130,141,15
+TamilNadu,Kulithalai,VasanthamTheatreKulithalai,Tamil,14:30,FirstClass,₹0,211,101
+TamilNadu,Thoothukudi,SathyaTheatreTuticorin,Tamil,14:30,FirstClass,₹50,111,1
+TamilNadu,Kulithalai,VasanthamTheatreKulithalai,Tamil,18:30,FirstClass,₹0,211,101
+TamilNadu,Thoothukudi,SathyaTheatreTuticorin,Tamil,18:30,FirstClass,₹50,111,1
+TamilNadu,Kulithalai,VasanthamTheatreKulithalai,Tamil,22:00,FirstClass,₹0,211,101
+TamilNadu,Thoothukudi,SathyaTheatreTuticorin,Tamil,22:00,FirstClass,₹50,111,1
