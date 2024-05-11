@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Assam,BiswanathChariali,PabhoiDigitalCinemaBiswanathChariali,Assamese,16:30,Silver,₹150,59,0
+Assam,BiswanathChariali,PabhoiDigitalCinemaBiswanathChariali,Assamese,16:30,Gold,₹200,98,0
+Assam,Guwahati,AideoCinemaHallAsffdcPanjabariGuwahati,Assamese,17:30,Silver,₹120,96,0
+Assam,Guwahati,AideoCinemaHallAsffdcPanjabariGuwahati,Assamese,17:30,Gold,₹150,96,2
+Assam,Guwahati,AideoCinemaHallAsffdcPanjabariGuwahati,Assamese,17:30,Diamond,₹150,48,10
