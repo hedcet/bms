@@ -1,0 +1,8 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Karnataka,Bengaluru,GopalanCinemasArcadeMallMysoreRoad,Kannada,15:00,Gold,₹180,332,17
+Karnataka,Bengaluru,GopalanCinemasArcadeMallMysoreRoad,Kannada,15:00,Sofa,₹230,21,0
+Karnataka,Bengaluru,InoxMegaplexMallOfAsiaBangalore,Kannada,16:20,Club,₹170,79,43
+Karnataka,Bengaluru,InoxMegaplexMallOfAsiaBangalore,Kannada,16:20,Executive,₹150,65,10
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,19:10,Recliner,₹250,16,11
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,19:10,Classiic,₹150,108,6
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,19:10,Prime,₹150,108,91
