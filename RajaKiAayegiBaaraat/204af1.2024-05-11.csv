@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+UttarPradesh,Sahjanwa,HariOmMultiplexSahjanwa,Bhojpuri,12:30,Gold,₹150,97,0
+UttarPradesh,Sahjanwa,HariOmMultiplexSahjanwa,Bhojpuri,12:30,Silver,₹110,36,1
+UttarPradesh,Sahjanwa,HariOmMultiplexSahjanwa,Bhojpuri,15:30,Gold,₹150,97,0
+UttarPradesh,Sahjanwa,HariOmMultiplexSahjanwa,Bhojpuri,15:30,Silver,₹110,36,0
+UttarPradesh,Sahjanwa,HariOmMultiplexSahjanwa,Bhojpuri,18:30,Gold,₹150,97,0
+UttarPradesh,Sahjanwa,HariOmMultiplexSahjanwa,Bhojpuri,18:30,Silver,₹110,36,0
+UttarPradesh,Sahjanwa,HariOmMultiplexSahjanwa,Bhojpuri,21:30,Gold,₹150,97,0
+UttarPradesh,Sahjanwa,HariOmMultiplexSahjanwa,Bhojpuri,21:30,Silver,₹110,36,0
