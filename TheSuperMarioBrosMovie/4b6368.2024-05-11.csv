@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Mumbai,InoxLaserplexCr2NarimanPoint,English,12:20,Club,₹350,128,0
+Maharashtra,Mumbai,InoxLaserplexCr2NarimanPoint,English,12:20,Royale,₹350,111,11
+Maharashtra,Mumbai,PvrIconInfinitiAndheriW,English,14:15,Recliner,₹300,11,2
+Maharashtra,Mumbai,PvrIconInfinitiAndheriW,English,14:15,Classic,₹150,42,0
+Maharashtra,Mumbai,PvrIconInfinitiAndheriW,English,14:15,PrimeSuperior,₹150,32,4
+Maharashtra,Mumbai,PvrIconInfinitiAndheriW,English,14:15,Prime,₹150,126,2
+Ncr,Delhi,PvrPromenadeVasantKunj,English,15:50,Classic,₹150,96,13
+Ncr,Delhi,PvrPromenadeVasantKunj,English,15:50,Prime,₹150,33,14
+Ncr,GurugramGurgaon,CinepolisAiriaMallSohnaRoadGurgaon,English,19:45,Normal,₹220,30,7
+Ncr,GurugramGurgaon,CinepolisAiriaMallSohnaRoadGurgaon,English,19:45,DoubleSofa,₹330,24,10
+Ncr,GurugramGurgaon,CinepolisAiriaMallSohnaRoadGurgaon,English,19:45,Lounger,₹330,8,0
