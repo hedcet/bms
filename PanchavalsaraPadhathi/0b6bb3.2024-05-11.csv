@@ -1,0 +1,8 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kerala,Trivandrum,GreenfieldMoviemaxCinemasTrivandrum,Malayalam,10:30,Executive,₹150,145,58
+Kerala,Kozhikode,PalaxiCinemasHiLiteMallKozhikode,Malayalam,13:30,Recliner,₹450,27,0
+Kerala,Kozhikode,PalaxiCinemasHiLiteMallKozhikode,Malayalam,13:30,Premium,₹220,146,41
+Kerala,Kozhikode,PalaxiCinemasHiLiteMallKozhikode,Malayalam,13:30,Executive,₹150,25,15
+Kerala,Kozhikode,PalaxiCinemasHiLiteMallKozhikode,Malayalam,13:30,Lounger,₹250,22,0
+Kerala,Irinjalakuda,MasMoviesIrinjalakuda,Malayalam,15:00,Silver,₹129,207,60
+Kerala,Kasaragod,CineKrishna4KKasaragod,Malayalam,16:30,FirstClass,₹129.8,301,52
