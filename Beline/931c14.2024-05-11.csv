@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+WestBengal,Kolkata,NazrultirthaCinemaScreen3Kolkata,Bengali,15:30,Gold,₹130,30,5
+WestBengal,Kolkata,NazrultirthaCinemaScreen3Kolkata,Bengali,15:30,Recliner,₹150,8,8
+WestBengal,Kolkata,NazrultirthaCinemaScreen3Kolkata,Bengali,15:30,Sofa,₹130,12,0
+WestBengal,Asansol,CineCosmoSentrumMallAsansol,Bengali,19:00,Gold,₹140,43,12
+WestBengal,Asansol,CineCosmoSentrumMallAsansol,Bengali,19:00,Silver,₹130,150,75
+WestBengal,Asansol,CineCosmoSentrumMallAsansol,Bengali,19:00,Premium,₹110,63,21
