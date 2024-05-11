@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kerala,Kochi,SangeetaCinemaKochi,Malayalam,10:00,BlueCircle,₹150,187,18
+Kerala,Kozhikode,AashirvadCineplexxKozhikode,Malayalam,16:45,Platinum,₹220,31,0
+Kerala,Kozhikode,AashirvadCineplexxKozhikode,Malayalam,16:45,Gold,₹200,67,0
+Kerala,Pathanapuram,SeemaCineplexPathanapuram,Malayalam,18:30,Audi3,₹140,136,50
