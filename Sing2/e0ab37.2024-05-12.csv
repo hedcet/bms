@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Mumbai,InoxInsigniaAtAtriaMallWorli,English,10:10,Insignia,₹350,30,7
+Rajasthan,Jaipur,InoxGtCentralMallJaipur,English,12:15,Kiddles,₹150,40,16
+Maharashtra,Pune,PvrIconThePavillionPune,English,13:00,Recliner,₹300,14,3
+Maharashtra,Pune,PvrIconThePavillionPune,English,13:00,Classic,₹150,40,0
+Maharashtra,Pune,PvrIconThePavillionPune,English,13:00,Prime,₹150,189,9
+Ncr,GurugramGurgaon,PvrAmbienceGurgaon,English,15:40,Classic,₹150,36,15
+Ncr,GurugramGurgaon,PvrAmbienceGurgaon,English,15:40,Prime,₹150,22,16
+MadhyaPradesh,Indore,InoxPhoenixCitadelMallIndore,English,16:45,Club,₹150,84,0
+MadhyaPradesh,Indore,InoxPhoenixCitadelMallIndore,English,16:45,Executive,₹150,16,0
+MadhyaPradesh,Indore,InoxPhoenixCitadelMallIndore,English,16:45,Royal,₹150,39,7
+Maharashtra,Mumbai,PvrTheCapitalMallNalasoparaE,English,17:20,Recliner,₹300,14,2
+Maharashtra,Mumbai,PvrTheCapitalMallNalasoparaE,English,17:20,Classic,₹150,32,0
+Maharashtra,Mumbai,PvrTheCapitalMallNalasoparaE,English,17:20,Prime,₹150,140,1
+Ncr,Noida,PvrSuperplexLogixNoida,English,18:50,Classic,₹150,48,11
