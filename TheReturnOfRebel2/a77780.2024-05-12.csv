@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+UttarPradesh,Agra,ChitraCinemaAgra,Hindi,12:15,Balcony,₹40,117,0
+UttarPradesh,Agra,ChitraCinemaAgra,Hindi,15:15,Balcony,₹40,117,0
+UttarPradesh,Agra,ChitraCinemaAgra,Hindi,18:15,Balcony,₹40,117,0
+UttarPradesh,Agra,ChitraCinemaAgra,Hindi,21:15,Balcony,₹40,117,0
