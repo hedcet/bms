@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Ncr,GurugramGurgaon,PvrAmbienceGurgaon,English,11:00,Prime,₹250,22,20
+Ncr,GurugramGurgaon,PvrAmbienceGurgaon,English,11:00,Classic,₹200,36,8
+Ncr,Delhi,PvrVegasDwarka,English,12:40,Prime,₹380,21,9
+Ncr,Delhi,PvrVegasDwarka,English,12:40,Classic,₹350,36,7
