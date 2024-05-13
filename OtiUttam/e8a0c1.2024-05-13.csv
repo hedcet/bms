@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+WestBengal,Kolkata,PvrDiamondPlazaJessoreKolkata,Bengali,19:20,Recliner,₹350,12,0
+WestBengal,Kolkata,PvrDiamondPlazaJessoreKolkata,Bengali,19:20,Prime,₹230,18,0
+WestBengal,Kolkata,PvrDiamondPlazaJessoreKolkata,Bengali,19:20,Classic,₹130,93,20
