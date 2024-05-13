@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Ncr,Delhi,PvrPromenadeVasantKunj,English,15:50,Classic,₹150,96,2
+Ncr,Delhi,PvrPromenadeVasantKunj,English,15:50,Prime,₹150,33,13
+TamilNadu,Chennai,InoxLuxePhoenixMarketCityVelachery,English,16:10,Elite,₹140.66,126,16
+TamilNadu,Chennai,InoxLuxePhoenixMarketCityVelachery,English,16:10,Budget,₹66.3,14,2
