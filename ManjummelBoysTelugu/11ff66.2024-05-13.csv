@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+AndhraPradesh,Nandyal,SriRamaComplexNandyal,Telugu,11:30,FirstClass,₹110,215,0
+AndhraPradesh,Nandyal,SriRamaComplexNandyal,Telugu,11:30,SecondClass,₹80,85,0
+AndhraPradesh,Nandyal,SriRamaComplexNandyal,Telugu,14:30,FirstClass,₹110,215,0
+AndhraPradesh,Nandyal,SriRamaComplexNandyal,Telugu,14:30,SecondClass,₹80,85,0
+AndhraPradesh,VizagVisakhapatnam,MohiniCinemasDolbyAtmosGajuwaka,Telugu,14:30,Premium,₹145,293,7
+AndhraPradesh,VizagVisakhapatnam,MohiniCinemasDolbyAtmosGajuwaka,Telugu,14:30,NonPremium,₹100,132,11
+AndhraPradesh,Nandyal,SriRamaComplexNandyal,Telugu,18:30,FirstClass,₹110,215,9
+AndhraPradesh,Nandyal,SriRamaComplexNandyal,Telugu,18:30,SecondClass,₹80,85,2
+AndhraPradesh,Nandyal,SriRamaComplexNandyal,Telugu,21:30,FirstClass,₹110,215,0
+AndhraPradesh,Nandyal,SriRamaComplexNandyal,Telugu,21:30,SecondClass,₹80,85,0
