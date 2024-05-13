@@ -1,0 +1,8 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Pune,AbhiruchiCityPrideSinhagadRoad,Hindi,14:00,RoyalSofa,₹230,12,12
+Maharashtra,Pune,AbhiruchiCityPrideSinhagadRoad,Hindi,14:00,RoyalGold,₹180,123,61
+Maharashtra,Pune,AbhiruchiCityPrideSinhagadRoad,Hindi,14:00,RoyalSilver,₹160,30,2
+Maharashtra,Pune,CityPrideKothrud,Hindi,15:45,RoyalGold,₹230,149,133
+Maharashtra,Pune,CityPrideKothrud,Hindi,15:45,RoyalSilver,₹200,22,10
+Gujarat,Ahmedabad,CityGoldBopal,Hindi,19:15,Executive,₹150,115,8
+Ncr,Noida,PvrSuperplexLogixNoida,Hindi,21:50,Classic,₹150,94,16
