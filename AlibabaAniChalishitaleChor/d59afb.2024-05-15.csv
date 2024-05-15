@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Pune,CinepolisNexusWestendMallAundhPune,Marathi,16:15,Normal,₹270,25,2
+Maharashtra,Pune,CinepolisNexusWestendMallAundhPune,Marathi,16:15,Executive,₹270,55,0
+Maharashtra,Pune,CinepolisNexusWestendMallAundhPune,Marathi,16:15,Premium,₹270,48,16
