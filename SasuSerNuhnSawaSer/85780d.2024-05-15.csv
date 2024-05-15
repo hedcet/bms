@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Gujarat,Vadodara,CinemarcNewVipRoad,Sindhi,19:15,Gold,₹120,37,32
+Gujarat,Vadodara,CinemarcNewVipRoad,Sindhi,19:15,Silver,₹110,158,27
+Gujarat,Vadodara,CinemarcNewVipRoad,Sindhi,19:15,Premium,₹100,46,2
+Gujarat,Vadodara,CinemarcNewVipRoad,Sindhi,19:15,Sofa,₹140,35,13
