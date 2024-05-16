@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+TamilNadu,Trichy,LaCinemaSonaMinaRgbLaserTrichy,Malayalam,14:55,Posh,₹150,154,14
+TamilNadu,Chennai,PvrEscapeExpressAvenueMall,Malayalam,15:25,Elite,₹149,99,41
+TamilNadu,Chennai,PvrEscapeExpressAvenueMall,Malayalam,15:25,Budget,₹63.73,11,11
+Karnataka,Bengaluru,InoxMegaplexMallOfAsiaBangalore,Malayalam,15:40,Royal,₹300,13,3
+Karnataka,Bengaluru,InoxMegaplexMallOfAsiaBangalore,Malayalam,15:40,Club,₹170,76,35
+Karnataka,Bengaluru,InoxMegaplexMallOfAsiaBangalore,Malayalam,15:40,Executive,₹150,84,17
+Karnataka,MysuruMysore,InoxCentroMysore,Malayalam,16:05,Club,₹112,44,19
+Karnataka,MysuruMysore,InoxCentroMysore,Malayalam,16:05,Executive,₹112,46,2
+Kerala,Trivandrum,PvrLuluTrivandrum,Malayalam,19:25,Recliner,₹300,7,4
+Kerala,Trivandrum,PvrLuluTrivandrum,Malayalam,19:25,Prime,₹160,60,6
+Kerala,Trivandrum,PvrLuluTrivandrum,Malayalam,19:25,Classic,₹140,77,4
