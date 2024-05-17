@@ -1,0 +1,14 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Pune,PvrIconThePavillionPune,English,11:20,Recliner,₹300,8,0
+Maharashtra,Pune,PvrIconThePavillionPune,English,11:20,Classic,₹150,28,0
+Maharashtra,Pune,PvrIconThePavillionPune,English,11:20,Prime,₹150,148,14
+Maharashtra,Mumbai,PvrTheCapitalMallNalasoparaE,English,11:30,Recliner,₹250,14,0
+Maharashtra,Mumbai,PvrTheCapitalMallNalasoparaE,English,11:30,Classic,₹112,32,0
+Maharashtra,Mumbai,PvrTheCapitalMallNalasoparaE,English,11:30,Prime,₹112,140,19
+Maharashtra,Mumbai,InoxInsigniaAtAtriaMallWorli,English,11:30,Insignia,₹350,30,4
+Ncr,GurugramGurgaon,PvrAmbienceGurgaon,English,15:50,Classic,₹150,36,6
+Ncr,GurugramGurgaon,PvrAmbienceGurgaon,English,15:50,Prime,₹150,22,8
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,English,16:40,Recliner,₹300,37,4
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,English,16:40,Classiic,₹150,220,0
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,English,16:40,Prime,₹150,130,18
+Ncr,Noida,PvrSuperplexLogixNoida,English,19:55,Classic,₹150,48,4
