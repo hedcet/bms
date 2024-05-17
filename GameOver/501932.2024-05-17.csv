@@ -1,0 +1,3 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+UttarPradesh,Kanpur,NoveltyCinemaKanpur,Hindi,21:30,Gold,₹100,156,1
+UttarPradesh,Kanpur,NoveltyCinemaKanpur,Hindi,21:30,GoldSpecial,₹200,26,0
