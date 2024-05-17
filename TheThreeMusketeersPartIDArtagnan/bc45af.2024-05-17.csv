@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Thane,CinepolisVivianaMallThane,English,16:15,Normal,₹230,25,0
+Maharashtra,Thane,CinepolisVivianaMallThane,English,16:15,Executive,₹250,97,6
+Maharashtra,Thane,CinepolisVivianaMallThane,English,16:15,Premium,₹270,43,1
+Ncr,Delhi,CinepolisDlfAvenueSaket,English,16:20,Normal,₹300,42,0
+Ncr,Delhi,CinepolisDlfAvenueSaket,English,16:20,Executive,₹320,59,4
+Ncr,Delhi,CinepolisDlfAvenueSaket,English,16:20,Premium,₹340,45,0
+Ncr,Delhi,CinepolisDlfAvenueSaket,English,16:20,Vip,₹600,10,0
+Kerala,Kochi,CinepolisCentreSquareMallKochi,English,19:40,Normal,₹140,20,3
+Kerala,Kochi,CinepolisCentreSquareMallKochi,English,19:40,Executive,₹160,43,3
+Kerala,Kochi,CinepolisCentreSquareMallKochi,English,19:40,Premium,₹180,44,10
