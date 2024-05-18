@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Telangana,Hyderabad,InoxSattvaNecklaceMallKavadiguda,Hindi,14:15,Royal,₹250,16,1
+Telangana,Hyderabad,InoxSattvaNecklaceMallKavadiguda,Hindi,14:15,Executive,₹150,233,6
+MadhyaPradesh,Indore,PvrTreasureIslandMallIndore,Hindi,15:00,Prime,₹250,110,8
+MadhyaPradesh,Indore,PvrTreasureIslandMallIndore,Hindi,15:00,Classic,₹220,38,0
+Maharashtra,Pune,InoxMegaplexPhoenixMallOfTheMillennium,Hindi,15:00,RoyaleRecliners,₹610,49,14
+Maharashtra,Mumbai,PvrMarketCityKurlaPremiere,Hindi,16:00,GoldPremium,₹690,24,16
+Maharashtra,Mumbai,PvrMarketCityKurlaPremiere,Hindi,16:00,GoldStar,₹590,36,3
+Telangana,Hyderabad,InoxMaheshwariParmeshwariMallKachiguda,Hindi,16:20,Executive,₹150,236,24
+UttarPradesh,Lucknow,InoxMegaplexEmeraldLucknow,Hindi,17:25,Club,₹150,70,0
+UttarPradesh,Lucknow,InoxMegaplexEmeraldLucknow,Hindi,17:25,Executive,₹150,28,0
+UttarPradesh,Lucknow,InoxMegaplexEmeraldLucknow,Hindi,17:25,Royale,₹150,83,3
+Maharashtra,Mumbai,InoxRCityGhatkopar,Hindi,22:00,Insignia,₹740,46,17
+Maharashtra,Mumbai,InoxMegaplexInorbitMallMalad,Hindi,22:30,Kiddles,₹350,57,30
+Telangana,Hyderabad,InoxMaheshwariParmeshwariMallKachiguda,Hindi,22:40,Executive,₹150,161,14
