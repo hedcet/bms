@@ -1,0 +1,3 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Gujarat,Rajkot,RajshriCinemaRajkot,Gujarati,13:00,Balcony,₹150,208,0
+Gujarat,Rajkot,RajshriCinemaRajkot,Gujarati,13:00,Upper,₹100,550,8
