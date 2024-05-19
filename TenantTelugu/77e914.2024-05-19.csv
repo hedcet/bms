@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+AndhraPradesh,Palakollu,SrinivasaComplexAcDtsPalakol,Telugu,11:00,1stClass,₹160,233,65
+AndhraPradesh,Palakollu,SrinivasaComplexAcDtsPalakol,Telugu,11:00,2ndClass,₹0,51,41
+AndhraPradesh,Palakollu,SrinivasaComplexAcDtsPalakol,Telugu,11:00,3rdClass,₹0,71,61
+AndhraPradesh,Palakollu,SrinivasaComplexAcDtsPalakol,Telugu,14:00,1stClass,₹160,233,65
+AndhraPradesh,Palakollu,SrinivasaComplexAcDtsPalakol,Telugu,14:00,2ndClass,₹0,51,41
+AndhraPradesh,Palakollu,SrinivasaComplexAcDtsPalakol,Telugu,14:00,3rdClass,₹0,71,61
+AndhraPradesh,Palakollu,SrinivasaComplexAcDtsPalakol,Telugu,18:00,1stClass,₹160,233,65
+AndhraPradesh,Palakollu,SrinivasaComplexAcDtsPalakol,Telugu,18:00,2ndClass,₹0,51,41
+AndhraPradesh,Palakollu,SrinivasaComplexAcDtsPalakol,Telugu,18:00,3rdClass,₹0,71,61
+AndhraPradesh,Palakollu,SrinivasaComplexAcDtsPalakol,Telugu,21:00,1stClass,₹160,233,65
+AndhraPradesh,Palakollu,SrinivasaComplexAcDtsPalakol,Telugu,21:00,2ndClass,₹0,51,41
+AndhraPradesh,Palakollu,SrinivasaComplexAcDtsPalakol,Telugu,21:00,3rdClass,₹0,71,61
