@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Rajasthan,AbuRoad,CineplusMultiplexAbuRoad,Hindi,12:00,Premium,₹320,15,0
+Rajasthan,AbuRoad,CineplusMultiplexAbuRoad,Hindi,12:00,Diamond,₹200,68,0
+Rajasthan,AbuRoad,CineplusMultiplexAbuRoad,Hindi,12:00,Gold,₹150,48,0
+Rajasthan,AbuRoad,CineplusMultiplexAbuRoad,Hindi,12:00,Silver,₹110,48,0
+Gujarat,Rajkot,InoxRelianceMegaMallRajkot,Hindi,12:30,Royal,₹190,49,12
+Gujarat,Rajkot,InoxRelianceMegaMallRajkot,Hindi,12:30,Club,₹170,72,9
+Gujarat,Rajkot,InoxRelianceMegaMallRajkot,Hindi,12:30,Executive,₹150,24,0
+Rajasthan,AbuRoad,CineplusMultiplexAbuRoad,Hindi,15:00,Premium,₹320,15,0
+Rajasthan,AbuRoad,CineplusMultiplexAbuRoad,Hindi,15:00,Diamond,₹200,68,0
+Rajasthan,AbuRoad,CineplusMultiplexAbuRoad,Hindi,15:00,Gold,₹150,48,0
+Rajasthan,AbuRoad,CineplusMultiplexAbuRoad,Hindi,15:00,Silver,₹110,48,0
+Gujarat,Vapi,GunjanGeetCinemaVapi,Hindi,15:30,Executive,₹250,41,0
+Gujarat,Vapi,GunjanGeetCinemaVapi,Hindi,15:30,Prime,₹200,111,3
+Gujarat,Rajkot,CosmoplexMultiplexRajkot,Hindi,16:30,Club,₹250,65,27
+Gujarat,Ahmedabad,SbMultiplexAgoraMall,Hindi,19:30,Elite,₹300,96,18
+Gujarat,Ahmedabad,SbMultiplexAgoraMall,Hindi,19:30,Classic,₹150,28,0
