@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+WestBengal,Arambagh,KarunaCinemaArambagh,Bengali,11:00,LowerStall,₹50,220,0
+WestBengal,Arambagh,KarunaCinemaArambagh,Bengali,11:00,Balcony,₹60,270,0
+WestBengal,Arambagh,KarunaCinemaArambagh,Bengali,13:30,LowerStall,₹50,220,0
+WestBengal,Arambagh,KarunaCinemaArambagh,Bengali,13:30,Balcony,₹60,270,0
+WestBengal,Arambagh,KarunaCinemaArambagh,Bengali,16:00,LowerStall,₹50,220,0
+WestBengal,Arambagh,KarunaCinemaArambagh,Bengali,16:00,Balcony,₹60,270,0
