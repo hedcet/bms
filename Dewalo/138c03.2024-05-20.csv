@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+MadhyaPradesh,Satna,ImusicaEntertainmentsSatna,Sindhi,18:30,Gold,₹100,42,19
+MadhyaPradesh,Satna,ImusicaEntertainmentsSatna,Sindhi,18:30,RedCarpet,₹100,98,97
+MadhyaPradesh,Satna,ImusicaEntertainmentsSatna,Sindhi,18:30,Royal,₹200,8,6
+MadhyaPradesh,Satna,ImusicaEntertainmentsSatna,Sindhi,21:30,Gold,₹100,42,0
+MadhyaPradesh,Satna,ImusicaEntertainmentsSatna,Sindhi,21:30,RedCarpet,₹100,98,31
+MadhyaPradesh,Satna,ImusicaEntertainmentsSatna,Sindhi,21:30,Royal,₹200,8,5
