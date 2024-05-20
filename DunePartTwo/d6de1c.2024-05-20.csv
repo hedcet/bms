@@ -1,0 +1,8 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Telangana,Hyderabad,PvrNextGalleriaMallPanjagutta,English,13:50,Classic,₹150,170,21
+Ncr,GurugramGurgaon,PvrMgfGurgaon,English,15:55,Prime,₹310,61,17
+Ncr,GurugramGurgaon,PvrMgfGurgaon,English,15:55,Classic,₹260,104,2
+Ncr,GurugramGurgaon,InoxArdeeMallGurugram,English,19:50,PlatinumSuperior,₹900,12,2
+Ncr,GurugramGurgaon,InoxArdeeMallGurugram,English,19:50,Platinum,₹800,18,2
+Ncr,GurugramGurgaon,PvrAmbienceGurgaon,English,21:50,Prime,₹340,57,3
+Ncr,GurugramGurgaon,PvrAmbienceGurgaon,English,21:50,Classic,₹290,82,1
