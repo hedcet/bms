@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Pune,PvrPhoenixMarketCityPune,English,10:00,Recliner,₹200,15,0
+Maharashtra,Pune,PvrPhoenixMarketCityPune,English,10:00,Classic,₹99,38,0
+Maharashtra,Pune,PvrPhoenixMarketCityPune,English,10:00,PrimePlus,₹99,22,1
+Maharashtra,Pune,PvrPhoenixMarketCityPune,English,10:00,Prime,₹99,161,22
+Karnataka,Bengaluru,InoxMegaplexMallOfAsiaBangalore,English,11:10,Club,₹170,93,14
+Karnataka,Bengaluru,InoxMegaplexMallOfAsiaBangalore,English,11:10,Executive,₹150,78,0
+Maharashtra,Mumbai,MetroInoxCinemasMarineLines,English,13:35,Kiddles,₹112,45,6
+Telangana,Hyderabad,PvrNexusMallKukatpallyHyderabad,English,17:00,Recliner,₹250,9,1
+Telangana,Hyderabad,PvrNexusMallKukatpallyHyderabad,English,17:00,Classic,₹112,135,31
