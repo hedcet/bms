@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Ncr,Noida,PvrSuperplexLogixNoida,English,12:50,Classic,₹235,49,12
+Maharashtra,Pune,PvrPhoenixMarketCityPune,English,16:30,PrimePlus,₹270,17,2
+Maharashtra,Pune,PvrPhoenixMarketCityPune,English,16:30,Prime,₹190,111,0
+Maharashtra,Pune,PvrPhoenixMarketCityPune,English,16:30,Classic,₹170,48,1
