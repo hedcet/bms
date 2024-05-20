@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kerala,Kozhikode,PalaxiCinemasHiLiteMallKozhikode,Malayalam,13:45,Recliner,₹390,29,1
+Kerala,Kozhikode,PalaxiCinemasHiLiteMallKozhikode,Malayalam,13:45,Premium,₹190,135,1
+Kerala,Kozhikode,PalaxiCinemasHiLiteMallKozhikode,Malayalam,13:45,Executive,₹100,27,1
+Kerala,Kozhikode,PalaxiCinemasHiLiteMallKozhikode,Malayalam,13:45,Lounger,₹210,24,1
+Kerala,Kochi,PvrForumMallKochi,Malayalam,14:35,Recliner,₹400,10,2
+Kerala,Kochi,PvrForumMallKochi,Malayalam,14:35,Elite,₹200,111,2
+Kerala,Kochi,PvrForumMallKochi,Malayalam,14:35,Classic,₹180,24,0
+Kerala,Trivandrum,PvrLuluTrivandrum,Malayalam,16:15,LuxePrime,₹500,18,0
+Kerala,Trivandrum,PvrLuluTrivandrum,Malayalam,16:15,Luxe,₹400,24,0
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,22:00,RoyalRecliner,₹290,10,0
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,22:00,Club,₹170,63,0
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,22:00,Royal,₹170,28,12
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,22:00,Executive,₹130,22,0
+Kerala,Trivandrum,PvrLuluTrivandrum,Malayalam,22:15,Recliner,₹300,7,0
+Kerala,Trivandrum,PvrLuluTrivandrum,Malayalam,22:15,Prime,₹160,68,3
+Kerala,Trivandrum,PvrLuluTrivandrum,Malayalam,22:15,Classic,₹140,104,0
