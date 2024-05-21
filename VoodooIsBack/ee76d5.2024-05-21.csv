@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+MadhyaPradesh,Jaora,ShabnamCineplexJaora,Hindi,12:00,Recliner,₹300,13,0
+MadhyaPradesh,Jaora,ShabnamCineplexJaora,Hindi,12:00,Diamond,₹200,72,0
+MadhyaPradesh,Jaora,ShabnamCineplexJaora,Hindi,12:00,Platinum,₹150,50,0
+MadhyaPradesh,Jaora,ShabnamCineplexJaora,Hindi,12:00,Gold,₹100,70,0
+MadhyaPradesh,Jaora,ShabnamCineplexJaora,Hindi,15:00,Recliner,₹300,13,0
+MadhyaPradesh,Jaora,ShabnamCineplexJaora,Hindi,15:00,Diamond,₹200,72,0
+MadhyaPradesh,Jaora,ShabnamCineplexJaora,Hindi,15:00,Platinum,₹150,50,0
+MadhyaPradesh,Jaora,ShabnamCineplexJaora,Hindi,15:00,Gold,₹100,70,0
+MadhyaPradesh,Jaora,ShabnamCineplexJaora,Hindi,18:00,Recliner,₹300,13,0
+MadhyaPradesh,Jaora,ShabnamCineplexJaora,Hindi,18:00,Diamond,₹200,72,0
+MadhyaPradesh,Jaora,ShabnamCineplexJaora,Hindi,18:00,Platinum,₹150,50,0
+MadhyaPradesh,Jaora,ShabnamCineplexJaora,Hindi,18:00,Gold,₹100,70,0
+MadhyaPradesh,Jaora,ShabnamCineplexJaora,Hindi,21:00,Recliner,₹300,13,0
+MadhyaPradesh,Jaora,ShabnamCineplexJaora,Hindi,21:00,Diamond,₹200,72,0
+MadhyaPradesh,Jaora,ShabnamCineplexJaora,Hindi,21:00,Platinum,₹150,50,0
+MadhyaPradesh,Jaora,ShabnamCineplexJaora,Hindi,21:00,Gold,₹100,70,0
