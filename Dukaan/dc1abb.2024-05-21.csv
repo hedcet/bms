@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Chhattisgarh,Dhamtari,VimalCineplexDhamtari,Hindi,12:00,Balcony,₹100,63,0
+Chhattisgarh,Dhamtari,VimalCineplexDhamtari,Hindi,12:00,ReserveClass,₹80,73,0
+Chhattisgarh,Dhamtari,VimalCineplexDhamtari,Hindi,15:00,Balcony,₹100,63,0
+Chhattisgarh,Dhamtari,VimalCineplexDhamtari,Hindi,15:00,ReserveClass,₹80,73,0
+Chhattisgarh,Dhamtari,VimalCineplexDhamtari,Hindi,18:00,Balcony,₹100,63,0
+Chhattisgarh,Dhamtari,VimalCineplexDhamtari,Hindi,18:00,ReserveClass,₹80,73,0
+Chhattisgarh,Dhamtari,VimalCineplexDhamtari,Hindi,21:00,Balcony,₹100,63,0
+Chhattisgarh,Dhamtari,VimalCineplexDhamtari,Hindi,21:00,ReserveClass,₹80,73,0
