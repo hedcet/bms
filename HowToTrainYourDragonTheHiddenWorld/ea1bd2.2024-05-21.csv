@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Pune,PvrPhoenixMarketCityPune,English,10:00,Recliner,₹200,15,0
+Maharashtra,Pune,PvrPhoenixMarketCityPune,English,10:00,Classic,₹99,38,0
+Maharashtra,Pune,PvrPhoenixMarketCityPune,English,10:00,PrimePlus,₹99,22,2
+Maharashtra,Pune,PvrPhoenixMarketCityPune,English,10:00,Prime,₹99,161,25
+Maharashtra,Mumbai,InoxMegaplexInorbitMallMalad,English,12:35,Kiddles,₹150,57,4
+Maharashtra,Mumbai,MetroInoxCinemasMarineLines,English,13:35,Kiddles,₹112,45,10
