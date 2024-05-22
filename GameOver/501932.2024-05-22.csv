@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+UttarPradesh,Kanpur,NoveltyCinemaKanpur,Hindi,12:30,Gold,₹100,156,2
+UttarPradesh,Kanpur,NoveltyCinemaKanpur,Hindi,12:30,GoldSpecial,₹200,26,2
+UttarPradesh,Kanpur,NoveltyCinemaKanpur,Hindi,15:30,Gold,₹100,156,0
+UttarPradesh,Kanpur,NoveltyCinemaKanpur,Hindi,15:30,GoldSpecial,₹200,26,0
+UttarPradesh,Kanpur,NoveltyCinemaKanpur,Hindi,18:30,Gold,₹100,156,1
+UttarPradesh,Kanpur,NoveltyCinemaKanpur,Hindi,18:30,GoldSpecial,₹200,26,0
+UttarPradesh,Kanpur,NoveltyCinemaKanpur,Hindi,21:30,Gold,₹100,156,0
+UttarPradesh,Kanpur,NoveltyCinemaKanpur,Hindi,21:30,GoldSpecial,₹200,26,0
