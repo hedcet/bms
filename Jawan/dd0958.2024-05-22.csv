@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Amravati,FunCinemasSarojTalkiesAmravati,Hindi,12:00,Premier,₹100,45,0
+Maharashtra,Amravati,FunCinemasSarojTalkiesAmravati,Hindi,12:00,Economy,₹70,246,0
+Maharashtra,Amravati,FunCinemasSarojTalkiesAmravati,Hindi,15:00,Premier,₹100,45,0
+Maharashtra,Amravati,FunCinemasSarojTalkiesAmravati,Hindi,15:00,Economy,₹70,246,0
+Maharashtra,Amravati,FunCinemasSarojTalkiesAmravati,Hindi,18:00,Premier,₹100,45,0
+Maharashtra,Amravati,FunCinemasSarojTalkiesAmravati,Hindi,18:00,Economy,₹70,246,0
+Maharashtra,Amravati,FunCinemasSarojTalkiesAmravati,Hindi,21:00,Premier,₹100,45,0
+Maharashtra,Amravati,FunCinemasSarojTalkiesAmravati,Hindi,21:00,Economy,₹70,246,0
