@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Jalgaon,AshokCinemaJalgaon,Hindi,12:00,Balcony,₹100,189,30
+Maharashtra,Jalgaon,AshokCinemaJalgaon,Hindi,12:00,FClass,₹50,562,50
+Maharashtra,Akola,NewRegalCinemaAkola,Hindi,12:15,Balcony,₹100,141,0
+Maharashtra,Akola,NewRegalCinemaAkola,Hindi,12:15,ReserveClass,₹50,343,1
+Maharashtra,Jalgaon,AshokCinemaJalgaon,Hindi,15:00,Balcony,₹100,189,30
+Maharashtra,Jalgaon,AshokCinemaJalgaon,Hindi,15:00,FClass,₹50,562,50
+Maharashtra,Akola,NewRegalCinemaAkola,Hindi,15:15,Balcony,₹100,141,0
+Maharashtra,Akola,NewRegalCinemaAkola,Hindi,15:15,ReserveClass,₹50,343,4
+Maharashtra,Jalgaon,AshokCinemaJalgaon,Hindi,18:00,Balcony,₹100,189,30
+Maharashtra,Jalgaon,AshokCinemaJalgaon,Hindi,18:00,FClass,₹50,562,50
+Maharashtra,Akola,NewRegalCinemaAkola,Hindi,18:15,Balcony,₹100,141,0
+Maharashtra,Akola,NewRegalCinemaAkola,Hindi,18:15,ReserveClass,₹50,343,0
+Maharashtra,Jalgaon,AshokCinemaJalgaon,Hindi,21:00,Balcony,₹100,189,30
+Maharashtra,Jalgaon,AshokCinemaJalgaon,Hindi,21:00,FClass,₹50,562,50
+Maharashtra,Akola,NewRegalCinemaAkola,Hindi,21:15,Balcony,₹100,141,0
+Maharashtra,Akola,NewRegalCinemaAkola,Hindi,21:15,ReserveClass,₹50,343,0
