@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+TamilNadu,Salem,ArrsMultiplexSalem,Malayalam,14:30,FirstClass,₹160,197,0
+TamilNadu,Salem,ArrsMultiplexSalem,Malayalam,14:30,SecondClass,₹128,158,0
+TamilNadu,Salem,ArrsMultiplexSalem,Malayalam,14:30,ThirdClass,₹64,40,0
+Kerala,Kochi,SangeetaCinemaKochi,Malayalam,15:00,BlueCircle,₹150,187,19
+Karnataka,Bengaluru,SangeetTheatreShivajiNagar,Malayalam,16:30,BalconyClass,₹120,384,0
