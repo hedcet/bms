@@ -1,0 +1,14 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+AndhraPradesh,Vizag,SaratTheaterAC4KDolbyAtmosVizag,Telugu,18:30,BoxA,₹145,24,12
+AndhraPradesh,Vizag,SaratTheaterAC4KDolbyAtmosVizag,Telugu,18:30,BoxB,₹145,24,8
+AndhraPradesh,Vizag,SaratTheaterAC4KDolbyAtmosVizag,Telugu,18:30,Premium,₹145,572,222
+AndhraPradesh,Vizag,SaratTheaterAC4KDolbyAtmosVizag,Telugu,18:30,NonPremium,₹100,208,87
+Telangana,Hyderabad,Devi70Mm4KLaserDolbyAtmosRtcXRoads,Telugu,18:30,LowerBalcony,₹175,462,426
+Telangana,Hyderabad,Devi70Mm4KLaserDolbyAtmosRtcXRoads,Telugu,18:30,UpperBalcony,₹175,408,255
+Telangana,Hyderabad,Devi70Mm4KLaserDolbyAtmosRtcXRoads,Telugu,18:30,FirstClass,₹110,140,114
+Telangana,Hyderabad,Devi70Mm4KLaserDolbyAtmosRtcXRoads,Telugu,18:30,SecondClass,₹55,263,95
+AndhraPradesh,Vijayawada,SwarnaMultiplexVijayawada,Telugu,18:30,Premium,₹110,291,235
+AndhraPradesh,Vijayawada,SwarnaMultiplexVijayawada,Telugu,18:30,Economy,₹78,109,74
+Telangana,Hyderabad,AmbCinemasGachibowli,Telugu,19:10,Platinum,₹350,12,8
+Telangana,Hyderabad,AmbCinemasGachibowli,Telugu,19:10,Gold,₹250,283,201
+Telangana,Hyderabad,AmbCinemasGachibowli,Telugu,19:10,Loungers,₹250,13,11
