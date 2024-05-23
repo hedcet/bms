@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Gujarat,Ahmedabad,SaneliteCinemasScienceCity,Gujarati,18:45,Miller,₹150,41,20
+Gujarat,Bhuj,NyCinemasSevenSkyBhuj,Gujarati,20:15,Premium,₹200,68,0
+Gujarat,Bhuj,NyCinemasSevenSkyBhuj,Gujarati,20:15,Executive,₹180,54,0
+Gujarat,Bhuj,NyCinemasSevenSkyBhuj,Gujarati,20:15,Normal,₹150,36,8
+Gujarat,Bhuj,NyCinemasSevenSkyBhuj,Gujarati,20:15,Ebony,₹250,12,2
