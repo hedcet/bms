@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kerala,Kochi,PvrOberonMallKochi,Malayalam,15:30,ClassicPlus,₹120,81,30
+Kerala,Kochi,PvrOberonMallKochi,Malayalam,15:30,Classic,₹100,36,0
+Kerala,Kochi,PvrForumMallKochi,Malayalam,22:30,Elite,₹200,85,11
+Kerala,Kochi,PvrForumMallKochi,Malayalam,22:30,Classic,₹180,22,0
