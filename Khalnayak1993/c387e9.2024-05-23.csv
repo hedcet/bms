@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Karnataka,Belgaum,SantoshTheatreBelagavi,Hindi,12:00,Balcony,₹100,252,0
+Karnataka,Belgaum,SantoshTheatreBelagavi,Hindi,12:00,Stall,₹80,370,0
+Karnataka,Belgaum,SantoshTheatreBelagavi,Hindi,15:00,Balcony,₹100,252,0
+Karnataka,Belgaum,SantoshTheatreBelagavi,Hindi,15:00,Stall,₹80,370,0
+Karnataka,Belgaum,SantoshTheatreBelagavi,Hindi,18:00,Balcony,₹100,252,0
+Karnataka,Belgaum,SantoshTheatreBelagavi,Hindi,18:00,Stall,₹80,370,0
+Karnataka,Belgaum,SantoshTheatreBelagavi,Hindi,21:00,Balcony,₹100,252,0
+Karnataka,Belgaum,SantoshTheatreBelagavi,Hindi,21:00,Stall,₹80,370,0
