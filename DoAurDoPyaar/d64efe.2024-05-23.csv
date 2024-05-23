@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+UttarPradesh,Lucknow,InoxMegaplexEmeraldLucknow,Hindi,09:50,RoyaleRecliner,₹150,9,2
+UttarPradesh,Lucknow,InoxMegaplexEmeraldLucknow,Hindi,09:50,Club,₹80,84,0
+UttarPradesh,Lucknow,InoxMegaplexEmeraldLucknow,Hindi,09:50,Executive,₹80,28,0
+UttarPradesh,Lucknow,InoxMegaplexEmeraldLucknow,Hindi,09:50,Royale,₹80,85,10
+Telangana,Hyderabad,InoxMaheshwariParmeshwariMallKachiguda,Hindi,13:45,Executive,₹150,161,5
+Telangana,Hyderabad,InoxSattvaNecklaceMallKavadiguda,Hindi,14:05,Royal,₹250,15,2
+Telangana,Hyderabad,InoxSattvaNecklaceMallKavadiguda,Hindi,14:05,Executive,₹150,210,4
+Maharashtra,Pune,InoxMegaplexPhoenixMallOfTheMillennium,Hindi,15:00,RoyaleRecliners,₹560,49,4
+MadhyaPradesh,Indore,PvrTreasureIslandMallIndore,Hindi,15:00,Prime,₹170,110,2
+MadhyaPradesh,Indore,PvrTreasureIslandMallIndore,Hindi,15:00,Classic,₹150,38,0
+Maharashtra,Mumbai,InoxRCityGhatkopar,Hindi,15:10,Insignia,₹480,46,19
+Maharashtra,Mumbai,PvrMarketCityKurlaPremiere,Hindi,17:55,GoldPremium,₹480,24,2
+Maharashtra,Mumbai,PvrMarketCityKurlaPremiere,Hindi,17:55,GoldStar,₹380,36,8
+Maharashtra,Mumbai,InoxMegaplexInorbitMallMalad,Hindi,19:35,Insignia,₹610,46,10
