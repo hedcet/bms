@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Pune,CityPrideKothrud,Hindi,12:00,RoyalGold,₹180,149,20
+Maharashtra,Pune,CityPrideKothrud,Hindi,12:00,RoyalSilver,₹160,22,12
+Gujarat,Surat,RajhansMultiplexAdajanSurat,Hindi,16:30,Business,₹200,94,4
+Gujarat,Ahmedabad,CityGoldBopal,Hindi,19:15,Executive,₹150,117,0
