@@ -1,0 +1,14 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Karnataka,Mysore,DrcCinemasBmHabitatMall,Kannada,10:30,Premium,₹112,182,7
+Karnataka,Mysore,DrcCinemasBmHabitatMall,Kannada,10:30,Luxury,₹200,15,2
+Karnataka,Bengaluru,RocklineCinemasJalahalliCross,Kannada,15:50,Gold,₹150,163,16
+Karnataka,Bengaluru,CinepolisLuluMallBengaluru,Kannada,16:00,Normal,₹150,29,0
+Karnataka,Bengaluru,CinepolisLuluMallBengaluru,Kannada,16:00,Executive,₹150,105,10
+Karnataka,Bengaluru,CinepolisLuluMallBengaluru,Kannada,16:00,Premium,₹150,50,7
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,16:00,Recliner,₹250,14,2
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,16:00,Classiic,₹150,128,0
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,16:00,Prime,₹150,100,8
+Karnataka,Shivamogga,BharathCinemasShivamogga,Kannada,17:15,Gold,₹200,96,10
+Karnataka,Shivamogga,BharathCinemasShivamogga,Kannada,17:15,Silver,₹150,40,0
+Karnataka,Shivamogga,BharathCinemasShivamogga,Kannada,17:15,Special,₹150,30,0
+Karnataka,Mysore,InoxMallOfMysuru,Kannada,21:00,Club,₹150,214,14
