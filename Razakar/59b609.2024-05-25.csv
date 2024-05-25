@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Haryana,Rohtak,BangarCinemasRohtak,Hindi,12:30,Platinum,₹180,48,0
+Haryana,Rohtak,BangarCinemasRohtak,Hindi,12:30,Gold,₹150,101,0
+Haryana,Rohtak,BangarCinemasRohtak,Hindi,12:30,Silver,₹100,69,0
+Ncr,Gurgaon,LegendCinemaLoungesMallFiftyOneGurgaon,Hindi,18:15,Sofas,₹399,28,0
+Ncr,Gurgaon,LegendCinemaLoungesMallFiftyOneGurgaon,Hindi,18:15,SofasSuperior,₹399,22,0
+Haryana,Rohtak,BangarCinemasRohtak,Hindi,18:30,Box,₹250,27,3
+Haryana,Rohtak,BangarCinemasRohtak,Hindi,18:30,Platinum,₹180,108,19
+Haryana,Rohtak,BangarCinemasRohtak,Hindi,18:30,Gold,₹150,188,19
+Haryana,Rohtak,BangarCinemasRohtak,Hindi,18:30,Silver,₹100,104,13
