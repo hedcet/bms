@@ -1,0 +1,16 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Karnataka,Bengaluru,InoxGarudaYelahankaBengaluru,Telugu,10:10,Club,₹150,123,12
+Karnataka,Bengaluru,InoxGarudaYelahankaBengaluru,Telugu,10:10,Executive,₹130,72,0
+Karnataka,Bengaluru,PvrVrBengaluruWhitefieldRoad,Telugu,10:25,GoldPrime,₹400,14,6
+Karnataka,Bengaluru,PvrVrBengaluruWhitefieldRoad,Telugu,10:25,Gold,₹350,14,13
+Telangana,Wanaparthy,Srinivasa70MmWanaparthy,Telugu,11:00,Balcony,₹120,455,0
+Telangana,Wanaparthy,Srinivasa70MmWanaparthy,Telugu,14:00,Balcony,₹120,455,0
+Karnataka,Bengaluru,PvrVrBengaluruWhitefieldRoad,Telugu,16:00,Recliner,₹360,20,4
+Karnataka,Bengaluru,PvrVrBengaluruWhitefieldRoad,Telugu,16:00,Prime,₹250,109,22
+Karnataka,Bengaluru,PvrVrBengaluruWhitefieldRoad,Telugu,16:00,Classic,₹200,126,4
+Karnataka,Bengaluru,InoxGarudaYelahankaBengaluru,Telugu,16:05,Club,₹150,123,12
+Karnataka,Bengaluru,InoxGarudaYelahankaBengaluru,Telugu,16:05,Executive,₹150,60,0
+Telangana,Wanaparthy,Srinivasa70MmWanaparthy,Telugu,18:00,Balcony,₹120,455,0
+Telangana,Wanaparthy,Srinivasa70MmWanaparthy,Telugu,21:00,Balcony,₹120,455,0
+Karnataka,Bengaluru,InoxGarudaYelahankaBengaluru,Telugu,22:20,Club,₹150,123,12
+Karnataka,Bengaluru,InoxGarudaYelahankaBengaluru,Telugu,22:20,Executive,₹150,60,0
