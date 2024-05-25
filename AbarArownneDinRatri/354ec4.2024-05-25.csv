@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+WestBengal,Lakshmikantapur,SreeLakshmiTalkiesLakshmikantapur,Bengali,12:00,GoldCoupleSeats,₹200,76,0
+WestBengal,Lakshmikantapur,SreeLakshmiTalkiesLakshmikantapur,Bengali,12:00,Silver,₹70,100,0
+WestBengal,CoochBehar,NewCinemaCoochBehar,Bengali,13:00,Balcony,₹100,101,0
+WestBengal,Kolkata,LilaCinemaBaruipur,Bengali,13:00,Balcony,₹60,76,0
+WestBengal,Arambagh,KarunaCinemaArambagh,Bengali,13:30,LowerStall,₹50,220,0
+WestBengal,Arambagh,KarunaCinemaArambagh,Bengali,13:30,Balcony,₹60,270,0
+WestBengal,Lakshmikantapur,SreeLakshmiTalkiesLakshmikantapur,Bengali,15:00,GoldCoupleSeats,₹200,76,0
+WestBengal,Lakshmikantapur,SreeLakshmiTalkiesLakshmikantapur,Bengali,15:00,Silver,₹70,100,0
+WestBengal,Arambagh,KarunaCinemaArambagh,Bengali,16:00,LowerStall,₹50,220,0
+WestBengal,Arambagh,KarunaCinemaArambagh,Bengali,16:00,Balcony,₹60,270,0
+WestBengal,Lakshmikantapur,SreeLakshmiTalkiesLakshmikantapur,Bengali,17:30,GoldCoupleSeats,₹200,76,0
+WestBengal,Lakshmikantapur,SreeLakshmiTalkiesLakshmikantapur,Bengali,17:30,Silver,₹70,100,0
