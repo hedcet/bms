@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+WestBengal,Arambagh,KarunaCinemaArambagh,Bengali,11:00,LowerStall,₹50,220,0
+WestBengal,Arambagh,KarunaCinemaArambagh,Bengali,11:00,Balcony,₹60,270,0
+WestBengal,Kolkata,InoxSouthCityKolkata,Bengali,12:00,RoyalRecliner,₹460,16,0
+WestBengal,Kolkata,InoxSouthCityKolkata,Bengali,12:00,Premier,₹280,32,32
+WestBengal,Kolkata,InoxSouthCityKolkata,Bengali,12:00,Silver,₹280,165,86
+WestBengal,Howrah,MirajCinemasHowrah,Bengali,14:00,Premium,₹180,153,53
+WestBengal,Howrah,MirajCinemasHowrah,Bengali,14:00,Deluxe,₹180,106,10
+WestBengal,Kolkata,MirajCinemasSaltLakeKolkata,Bengali,14:15,Silver,₹130,57,30
+WestBengal,Kolkata,MirajCinemasSaltLakeKolkata,Bengali,14:15,Executive,₹150,68,0
+WestBengal,Kolkata,MirajCinemasSaltLakeKolkata,Bengali,14:15,Gold,₹150,91,2
+WestBengal,Kolkata,MirajCinemasSaltLakeKolkata,Bengali,14:15,Recliner,₹250,12,0
+WestBengal,Kolkata,MirajCinemasNewtownKolkata,Bengali,14:25,Recliner,₹350,47,2
+WestBengal,Kolkata,MirajCinemasNewtownKolkata,Bengali,14:25,Executive,₹200,85,0
+WestBengal,Kolkata,MirajCinemasNewtownKolkata,Bengali,14:25,Special,₹180,59,20
