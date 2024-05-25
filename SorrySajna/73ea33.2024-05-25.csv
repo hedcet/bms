@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Gujarat,Anand,KalpanaCinemaAnand,Gujarati,15:30,Box,₹150,8,0
+Gujarat,Anand,KalpanaCinemaAnand,Gujarati,15:30,Balcony,₹130,101,0
+Gujarat,Anand,KalpanaCinemaAnand,Gujarati,15:30,Executive,₹100,106,0
+Gujarat,Anand,KalpanaCinemaAnand,Gujarati,21:30,Box,₹150,8,0
+Gujarat,Anand,KalpanaCinemaAnand,Gujarati,21:30,Balcony,₹130,101,0
+Gujarat,Anand,KalpanaCinemaAnand,Gujarati,21:30,Executive,₹100,106,0
