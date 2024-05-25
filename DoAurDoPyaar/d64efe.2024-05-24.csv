@@ -1,0 +1,8 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Telangana,Hyderabad,InoxSattvaNecklaceMallKavadiguda,Hindi,16:20,Royal,₹250,15,2
+Telangana,Hyderabad,InoxSattvaNecklaceMallKavadiguda,Hindi,16:20,Executive,₹150,210,5
+Maharashtra,Mumbai,InoxRCityGhatkopar,Hindi,18:00,Insignia,₹690,46,9
+MadhyaPradesh,Indore,PvrTreasureIslandMallIndore,Hindi,21:40,Prime,₹250,69,18
+MadhyaPradesh,Indore,PvrTreasureIslandMallIndore,Hindi,21:40,Classic,₹230,28,1
+Telangana,Hyderabad,InoxMaheshwariParmeshwariMallKachiguda,Hindi,22:40,Executive,₹150,139,16
+Maharashtra,Mumbai,InoxMegaplexInorbitMallMalad,Hindi,22:40,Insignia,₹810,38,6
