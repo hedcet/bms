@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kerala,Kozhikode,AashirvadCineplexxKozhikode,Malayalam,16:30,Platinum,₹220,31,0
+Kerala,Kozhikode,AashirvadCineplexxKozhikode,Malayalam,16:30,Gold,₹200,67,0
+Kerala,Trivandrum,LeninCinemas4K3DDolbyAtmosKsfdcTrivandrum,Malayalam,18:00,Platinum,₹150,22,0
+Kerala,Trivandrum,LeninCinemas4K3DDolbyAtmosKsfdcTrivandrum,Malayalam,18:00,Gold,₹129,144,0
+Kerala,Kochi,Kanoos2KRavipuram,Malayalam,19:00,Diamond,₹110,186,1
