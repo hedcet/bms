@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Karnataka,Bengaluru,CinepolisLuluMallBengaluru,Kannada,18:40,Normal,₹150,29,0
+Karnataka,Bengaluru,CinepolisLuluMallBengaluru,Kannada,18:40,Executive,₹150,105,0
+Karnataka,Bengaluru,CinepolisLuluMallBengaluru,Kannada,18:40,Premium,₹150,50,32
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,18:55,Recliner,₹250,14,6
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,18:55,Classiic,₹150,128,0
+Karnataka,Bengaluru,PvrOrionMallDrRajkumarRoad,Kannada,18:55,Prime,₹150,100,16
+Karnataka,Bengaluru,PvrGtWorldMallMagadiRoad,Kannada,21:00,Recliner,₹330,16,7
+Karnataka,Bengaluru,PvrGtWorldMallMagadiRoad,Kannada,21:00,Classic,₹190,179,7
