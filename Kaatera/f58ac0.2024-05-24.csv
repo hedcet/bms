@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Karnataka,Bengaluru,AnupamaTheatreAC4KDolbyGandhinagar,Kannada,10:15,Balcony,₹150,247,0
+Karnataka,Bengaluru,AnupamaTheatreAC4KDolbyGandhinagar,Kannada,10:15,MiddleClass,₹120,480,0
+Karnataka,Bengaluru,AnupamaTheatreAC4KDolbyGandhinagar,Kannada,13:30,Balcony,₹150,247,4
+Karnataka,Bengaluru,AnupamaTheatreAC4KDolbyGandhinagar,Kannada,13:30,MiddleClass,₹120,480,11
+Karnataka,Bengaluru,AnupamaTheatreAC4KDolbyGandhinagar,Kannada,16:45,Balcony,₹150,247,2
+Karnataka,Bengaluru,AnupamaTheatreAC4KDolbyGandhinagar,Kannada,16:45,MiddleClass,₹120,480,7
+Karnataka,Bengaluru,AnupamaTheatreAC4KDolbyGandhinagar,Kannada,20:00,Balcony,₹150,247,0
+Karnataka,Bengaluru,AnupamaTheatreAC4KDolbyGandhinagar,Kannada,20:00,MiddleClass,₹120,480,6
