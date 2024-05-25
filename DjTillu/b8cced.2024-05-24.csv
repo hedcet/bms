@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+AndhraPradesh,Sompeta,SriSrinivasaMahalSsMaxSompeta,Telugu,11:00,FirstClass,₹100,378,150
+AndhraPradesh,Sompeta,SriSrinivasaMahalSsMaxSompeta,Telugu,11:00,SecondClass,₹100,99,0
+AndhraPradesh,Sompeta,SriSrinivasaMahalSsMaxSompeta,Telugu,14:15,FirstClass,₹100,378,150
+AndhraPradesh,Sompeta,SriSrinivasaMahalSsMaxSompeta,Telugu,14:15,SecondClass,₹100,99,0
+AndhraPradesh,Sompeta,SriSrinivasaMahalSsMaxSompeta,Telugu,18:15,FirstClass,₹100,378,151
+AndhraPradesh,Sompeta,SriSrinivasaMahalSsMaxSompeta,Telugu,18:15,SecondClass,₹100,99,0
+AndhraPradesh,Sompeta,SriSrinivasaMahalSsMaxSompeta,Telugu,21:15,FirstClass,₹100,378,150
+AndhraPradesh,Sompeta,SriSrinivasaMahalSsMaxSompeta,Telugu,21:15,SecondClass,₹100,99,0
