@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Vita,SuriyaNovaCinemazVita,Marathi,14:20,Gold,₹150,77,0
+Maharashtra,Vita,SuriyaNovaCinemazVita,Marathi,14:20,Silver,₹120,42,0
+Maharashtra,Sangli,AurumCinemasCentre1MallSangli,Marathi,16:30,Gold,₹120,108,48
+Maharashtra,Sangli,AurumCinemasCentre1MallSangli,Marathi,16:30,Silver,₹120,24,0
+Maharashtra,Ichalkaranji,RkCinemasRadhaKrishanIchalkaranji,Marathi,19:15,Vip,₹130,35,0
+Maharashtra,Ichalkaranji,RkCinemasRadhaKrishanIchalkaranji,Marathi,19:15,Platinum,₹110,108,3
+Maharashtra,Ichalkaranji,RkCinemasRadhaKrishanIchalkaranji,Marathi,19:15,Gold,₹110,88,2
+Maharashtra,Ichalkaranji,RkCinemasRadhaKrishanIchalkaranji,Marathi,19:15,Silver,₹110,38,6
+Maharashtra,Sangli,NewPrideMultiplexSangliNewlyRenovated,Marathi,19:30,Lounger,₹180,18,0
+Maharashtra,Sangli,NewPrideMultiplexSangliNewlyRenovated,Marathi,19:30,Gold,₹150,284,177
+Maharashtra,Sangli,NewPrideMultiplexSangliNewlyRenovated,Marathi,19:30,RoyalRecliner,₹200,74,0
