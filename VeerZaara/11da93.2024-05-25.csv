@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Ncr,Delhi,DeliteCinemaAsafAliRoad,Hindi,12:00,StarClass,₹120,38,22
+Ncr,Delhi,DeliteCinemaAsafAliRoad,Hindi,12:00,GoldClass,₹120,110,21
+Ncr,Delhi,DeliteCinemaAsafAliRoad,Hindi,18:15,StarClass,₹120,38,28
+Ncr,Delhi,DeliteCinemaAsafAliRoad,Hindi,18:15,GoldClass,₹120,110,17
+Ncr,Delhi,DeliteCinemaAsafAliRoad,Hindi,21:40,StarClass,₹120,38,23
+Ncr,Delhi,DeliteCinemaAsafAliRoad,Hindi,21:40,GoldClass,₹120,110,10
