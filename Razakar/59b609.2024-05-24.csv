@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Haryana,Rohtak,BangarCinemasRohtak,Hindi,12:30,Platinum,₹180,48,0
+Haryana,Rohtak,BangarCinemasRohtak,Hindi,12:30,Gold,₹150,101,0
+Haryana,Rohtak,BangarCinemasRohtak,Hindi,12:30,Silver,₹100,69,0
+Maharashtra,Mumbai,G7MultiplexBandraW,Hindi,15:30,Special,₹150,38,4
+Maharashtra,Mumbai,G7MultiplexBandraW,Hindi,15:30,DressCircle,₹150,9,5
+Haryana,Rohtak,BangarCinemasRohtak,Hindi,16:00,Box,₹250,27,3
+Haryana,Rohtak,BangarCinemasRohtak,Hindi,16:00,Platinum,₹180,108,3
+Haryana,Rohtak,BangarCinemasRohtak,Hindi,16:00,Gold,₹150,188,4
+Haryana,Rohtak,BangarCinemasRohtak,Hindi,16:00,Silver,₹100,104,4
+Ncr,Gurgaon,LegendCinemaLoungesMallFiftyOneGurgaon,Hindi,19:30,Sofas,₹399,28,0
+Ncr,Gurgaon,LegendCinemaLoungesMallFiftyOneGurgaon,Hindi,19:30,SofasSuperior,₹399,22,0
