@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+AndhraPradesh,Vijayawada,InoxLeplIconPatamata,Telugu,11:20,Royal,₹295,12,5
+AndhraPradesh,Vijayawada,InoxLeplIconPatamata,Telugu,11:20,Club,₹177,213,13
+AndhraPradesh,Kakinada,InoxSrmtMallKakinada,Telugu,11:50,Executive,₹112,146,15
+Telangana,Hyderabad,PvrCentralMallPanjagutta,Telugu,13:35,Classic,₹112,141,16
+AndhraPradesh,Anakapalle,SriSatyanarayanaPicturePalaceAcDtsAnakapall,Telugu,14:30,FirstClass,₹145,207,10
+AndhraPradesh,Anakapalle,SriSatyanarayanaPicturePalaceAcDtsAnakapall,Telugu,14:30,2ndClass,₹70,71,51
+AndhraPradesh,Vizag,InoxCmrCentralMaddilapalem,Telugu,17:20,Executive,₹177,161,10
+AndhraPradesh,Anakapalle,SriSatyanarayanaPicturePalaceAcDtsAnakapall,Telugu,18:30,FirstClass,₹145,207,5
+AndhraPradesh,Anakapalle,SriSatyanarayanaPicturePalaceAcDtsAnakapall,Telugu,18:30,2ndClass,₹70,71,51
+AndhraPradesh,Anakapalle,SriSatyanarayanaPicturePalaceAcDtsAnakapall,Telugu,21:45,FirstClass,₹145,207,5
+AndhraPradesh,Anakapalle,SriSatyanarayanaPicturePalaceAcDtsAnakapall,Telugu,21:45,2ndClass,₹70,71,51
