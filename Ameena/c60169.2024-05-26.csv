@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Mumbai,MovieTimeHubGoregaonE,Hindi,10:00,Gold,₹100,63,29
+WestBengal,Dubrajpur,BinapaniTalkiesDubrajpur,Hindi,13:00,Balcony,₹50,200,0
+WestBengal,Dubrajpur,BinapaniTalkiesDubrajpur,Hindi,13:00,RearStall,₹40,500,0
+WestBengal,Dubrajpur,BinapaniTalkiesDubrajpur,Hindi,19:00,Balcony,₹50,200,0
+WestBengal,Dubrajpur,BinapaniTalkiesDubrajpur,Hindi,19:00,RearStall,₹40,500,0
