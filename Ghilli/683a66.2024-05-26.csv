@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+TamilNadu,Chennai,CinepolisBsrMallOmrThoraipakkam,Tamil,10:00,Normal,₹60.12,16,0
+TamilNadu,Chennai,CinepolisBsrMallOmrThoraipakkam,Tamil,10:00,Executive,₹139.81,153,23
+TamilNadu,Trichy,PalaceTheatreTiruchirappalli,Tamil,11:15,FirstClass,₹71.4,266,7
+TamilNadu,Chennai,CinepolisBsrMallOmrThoraipakkam,Tamil,13:15,Normal,₹60.12,16,0
+TamilNadu,Chennai,CinepolisBsrMallOmrThoraipakkam,Tamil,13:15,Executive,₹139.81,153,85
+TamilNadu,Trichy,PalaceTheatreTiruchirappalli,Tamil,14:15,FirstClass,₹71.4,266,7
+TamilNadu,Trichy,PalaceTheatreTiruchirappalli,Tamil,18:15,FirstClass,₹71.4,266,8
+TamilNadu,Trichy,PalaceTheatreTiruchirappalli,Tamil,22:00,FirstClass,₹71.4,266,7
+TamilNadu,Chennai,PvrPalazzoTheNexusVijayaMall,Tamil,22:45,Elite,₹127.19,230,34
+TamilNadu,Chennai,PvrPalazzoTheNexusVijayaMall,Tamil,22:45,Budget,₹59.61,26,26
