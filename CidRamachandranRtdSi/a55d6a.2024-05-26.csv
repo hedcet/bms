@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kerala,Kozhinjampara,RavirajComplexACKozhinjampara,Malayalam,14:00,FirstClass,₹110,172,81
+Kerala,Trivandrum,ArtechCinemasTrivandrum,Malayalam,15:30,Gold,₹350,13,4
+Kerala,Trivandrum,ArtechCinemasTrivandrum,Malayalam,15:30,Platinum,₹210,64,15
+Kerala,Trivandrum,ArtechCinemasTrivandrum,Malayalam,15:30,Silver,₹190,87,3
+Kerala,Trivandrum,ArtechCinemasTrivandrum,Malayalam,15:30,Executive,₹140,13,0
+Kerala,Kozhikode,AashirvadCineplexxKozhikode,Malayalam,16:30,Platinum,₹220,31,2
+Kerala,Kozhikode,AashirvadCineplexxKozhikode,Malayalam,16:30,Gold,₹200,67,22
+Kerala,Punalur,DevaCarnivalCinemasDMallPunalur,Malayalam,16:35,Recliner,₹290,17,15
+Kerala,Punalur,DevaCarnivalCinemasDMallPunalur,Malayalam,16:35,Silver,₹129.7,215,76
+Kerala,Trivandrum,LeninCinemas4K3DDolbyAtmosKsfdcTrivandrum,Malayalam,18:00,Platinum,₹150,22,0
+Kerala,Trivandrum,LeninCinemas4K3DDolbyAtmosKsfdcTrivandrum,Malayalam,18:00,Gold,₹129,144,6
+Kerala,Kozhinjampara,RavirajComplexACKozhinjampara,Malayalam,18:00,FirstClass,₹110,172,77
+Kerala,Kochi,Kanoos2KRavipuram,Malayalam,19:00,Diamond,₹110,186,0
+Kerala,Kozhinjampara,RavirajComplexACKozhinjampara,Malayalam,21:00,FirstClass,₹110,172,77
