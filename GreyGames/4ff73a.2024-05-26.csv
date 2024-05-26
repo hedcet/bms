@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Karnataka,Bengaluru,CinepolisLuluMallBengaluru,Kannada,18:40,Normal,₹150,29,0
+Karnataka,Bengaluru,CinepolisLuluMallBengaluru,Kannada,18:40,Executive,₹150,105,17
+Karnataka,Bengaluru,CinepolisLuluMallBengaluru,Kannada,18:40,Premium,₹150,50,20
