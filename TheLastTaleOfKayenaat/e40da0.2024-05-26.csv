@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Chhattisgarh,Bhilai,SriVenkateshwaraTalkiesBhilai,Hindi,12:00,Balcony,₹110,390,0
+Chhattisgarh,Bhilai,SriVenkateshwaraTalkiesBhilai,Hindi,15:00,Balcony,₹110,390,0
+UttarPradesh,Agra,ChitraCinemaAgra,Hindi,15:15,Balcony,₹40,117,0
+Chhattisgarh,Bhilai,SriVenkateshwaraTalkiesBhilai,Hindi,18:00,Balcony,₹110,390,0
+UttarPradesh,Agra,ChitraCinemaAgra,Hindi,18:15,Balcony,₹40,117,0
+Chhattisgarh,Bhilai,SriVenkateshwaraTalkiesBhilai,Hindi,21:00,Balcony,₹110,390,0
+UttarPradesh,Agra,ChitraCinemaAgra,Hindi,21:15,Balcony,₹40,117,0
+Maharashtra,Mumbai,G7MultiplexBandraW,Hindi,22:00,Special,₹150,36,5
+Maharashtra,Mumbai,G7MultiplexBandraW,Hindi,22:00,DressCircle,₹150,10,4
