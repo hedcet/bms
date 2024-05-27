@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Karnataka,Bengaluru,PvrDirectorsCutForumRexWalkBengaluru,English,09:00,PlatSup,₹600,16,0
+Karnataka,Bengaluru,PvrDirectorsCutForumRexWalkBengaluru,English,09:00,Platinum,₹550,32,8
+Maharashtra,Mumbai,InoxMegaplexInorbitMallMalad,English,10:45,Insignia,₹350,46,15
+Maharashtra,Pune,PvrDirectorsCutKopaPune,English,11:30,PlatinumSuperior,₹360,54,11
+Maharashtra,Pune,PvrDirectorsCutKopaPune,English,11:30,Platinum,₹310,44,2
+Ncr,Gurgaon,PvrAmbienceGurgaon,English,13:20,Platinum,₹500,28,0
+Ncr,Gurgaon,PvrAmbienceGurgaon,English,13:20,PlatinumSuperior,₹500,16,2
+Karnataka,Bengaluru,PvrNexusFormerlyForumKoramangala,English,16:55,Prime,₹220,52,21
+Karnataka,Bengaluru,PvrNexusFormerlyForumKoramangala,English,16:55,Classic,₹190,120,7
+Maharashtra,Mumbai,InoxInsigniaAtAtriaMallWorli,English,19:00,Insignia,₹970,34,12
+Maharashtra,Mumbai,PvrIconPhoenixPalladiumLowerParelMumbai,English,22:30,PrimePlus,₹880,30,8
+Maharashtra,Mumbai,PvrIconPhoenixPalladiumLowerParelMumbai,English,22:30,Prime,₹880,12,0
+Karnataka,Bengaluru,PvrDirectorsCutForumRexWalkBengaluru,English,22:30,Platinum,₹600,32,11
+Karnataka,Bengaluru,PvrDirectorsCutForumRexWalkBengaluru,English,22:30,PlatSup,₹600,16,14
+Ncr,Delhi,PvrPromenadeVasantKunj,English,22:55,Prime,₹350,44,10
+Ncr,Delhi,PvrPromenadeVasantKunj,English,22:55,Classic,₹330,50,4
