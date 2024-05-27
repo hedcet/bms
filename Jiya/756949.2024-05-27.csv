@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Assam,Tezpur,AnwarVrsCinemaTezpur,Assamese,17:00,Silver,₹100,48,0
+Assam,Tezpur,AnwarVrsCinemaTezpur,Assamese,17:00,Gold,₹150,64,0
+Assam,Tezpur,AnwarVrsCinemaTezpur,Assamese,17:00,Diamond,₹200,64,0
+Assam,Tezpur,AnwarVrsCinemaTezpur,Assamese,17:00,Platinum,₹250,38,0
+Assam,Tezpur,AnwarVrsCinemaTezpur,Assamese,17:00,Recliner,₹350,10,0
+Assam,Jorhat,EleyeMultiplexJorhat,Assamese,17:45,Executive,₹140,48,0
+Assam,Jorhat,EleyeMultiplexJorhat,Assamese,17:45,Club,₹220,60,27
+Assam,Jorhat,EleyeMultiplexJorhat,Assamese,17:45,Gold,₹350,17,0
