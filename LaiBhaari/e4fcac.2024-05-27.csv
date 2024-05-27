@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Aurangabad,InoxRelianceMallAurangabad,Marathi,12:30,RoyaleRecliners,₹250,31,0
+Maharashtra,Aurangabad,InoxRelianceMallAurangabad,Marathi,12:30,Club,₹112,166,2
+Maharashtra,Aurangabad,InoxRelianceMallAurangabad,Marathi,12:30,Executive,₹112,57,5
+Maharashtra,Aurangabad,InoxRelianceMallAurangabad,Marathi,12:30,Royale,₹112,66,17
