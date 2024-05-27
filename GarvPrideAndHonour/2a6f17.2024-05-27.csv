@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Jalgaon,AshokCinemaJalgaon,Hindi,12:00,Balcony,₹100,189,30
+Maharashtra,Jalgaon,AshokCinemaJalgaon,Hindi,12:00,FClass,₹50,562,50
+Maharashtra,Jalgaon,AshokCinemaJalgaon,Hindi,15:00,Balcony,₹100,189,32
+Maharashtra,Jalgaon,AshokCinemaJalgaon,Hindi,15:00,FClass,₹50,562,52
+Maharashtra,Jalgaon,AshokCinemaJalgaon,Hindi,18:00,Balcony,₹100,189,30
+Maharashtra,Jalgaon,AshokCinemaJalgaon,Hindi,18:00,FClass,₹50,562,50
+Maharashtra,Jalgaon,AshokCinemaJalgaon,Hindi,21:00,Balcony,₹100,189,30
+Maharashtra,Jalgaon,AshokCinemaJalgaon,Hindi,21:00,FClass,₹50,562,50
