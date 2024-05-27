@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Chhattisgarh,Bemetara,RatanTalkiesBemetara,Chattisgarhi,11:00,GoldClass,₹100,121,0
+Chhattisgarh,Bilaspur,City36CinemasBilaspur,Chattisgarhi,12:30,Premium,₹100,36,0
+Chhattisgarh,Bilaspur,City36CinemasBilaspur,Chattisgarhi,12:30,Gold,₹150,102,0
+Chhattisgarh,Bilaspur,City36CinemasBilaspur,Chattisgarhi,12:30,Recliner,₹300,15,0
+Chhattisgarh,Raipur,InoxAmbujaCityCentreRaipur,Chattisgarhi,13:05,RoyalRecliner,₹200,18,4
+Chhattisgarh,Raipur,InoxAmbujaCityCentreRaipur,Chattisgarhi,13:05,Club,₹130,132,13
+Chhattisgarh,Raipur,InoxAmbujaCityCentreRaipur,Chattisgarhi,13:05,Executive,₹130,28,1
+Chhattisgarh,Raipur,InoxAmbujaCityCentreRaipur,Chattisgarhi,13:05,Royal,₹130,34,27
+Chhattisgarh,Bemetara,RatanTalkiesBemetara,Chattisgarhi,14:00,GoldClass,₹100,121,8
+Chhattisgarh,Bemetara,RatanTalkiesBemetara,Chattisgarhi,17:00,GoldClass,₹100,121,2
+Chhattisgarh,Raipur,InoxCityMall36GERoad,Chattisgarhi,18:50,Club,₹130,50,0
+Chhattisgarh,Raipur,InoxCityMall36GERoad,Chattisgarhi,18:50,Gold,₹130,275,6
+Chhattisgarh,Raipur,InoxCityMall36GERoad,Chattisgarhi,18:50,Platinum,₹130,28,10
+Chhattisgarh,Bemetara,RatanTalkiesBemetara,Chattisgarhi,20:00,GoldClass,₹100,121,5
