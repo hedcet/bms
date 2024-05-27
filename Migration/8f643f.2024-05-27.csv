@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Ncr,Gurgaon,CinepolisAiriaMallSohnaRoadGurgaon,English,12:15,Normal,₹180,30,7
+Ncr,Gurgaon,CinepolisAiriaMallSohnaRoadGurgaon,English,12:15,DoubleSofa,₹270,24,2
+Ncr,Gurgaon,CinepolisAiriaMallSohnaRoadGurgaon,English,12:15,Lounger,₹270,8,0
