@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Vita,SuriyaNovaCinemazVita,Marathi,12:00,Gold,₹150,77,2
+Maharashtra,Vita,SuriyaNovaCinemazVita,Marathi,12:00,Silver,₹120,42,0
+Maharashtra,Vita,SuriyaNovaCinemazVita,Marathi,14:20,Gold,₹150,77,0
+Maharashtra,Vita,SuriyaNovaCinemazVita,Marathi,14:20,Silver,₹120,42,0
+Maharashtra,Sangli,AurumCinemasCentre1MallSangli,Marathi,16:30,Gold,₹100,108,44
+Maharashtra,Sangli,AurumCinemasCentre1MallSangli,Marathi,16:30,Silver,₹100,24,0
+Maharashtra,Mumbai,MovieTimeHubGoregaonE,Marathi,18:45,Gold,₹130,63,11
+Maharashtra,Ichalkaranji,RkCinemasRadhaKrishanIchalkaranji,Marathi,19:15,Vip,₹100,35,1
+Maharashtra,Ichalkaranji,RkCinemasRadhaKrishanIchalkaranji,Marathi,19:15,Platinum,₹80,108,4
+Maharashtra,Ichalkaranji,RkCinemasRadhaKrishanIchalkaranji,Marathi,19:15,Gold,₹80,88,2
+Maharashtra,Ichalkaranji,RkCinemasRadhaKrishanIchalkaranji,Marathi,19:15,Silver,₹80,38,6
+Maharashtra,Sangli,NewPrideMultiplexSangliNewlyRenovated,Marathi,19:30,Recliner,₹250,24,0
+Maharashtra,Sangli,NewPrideMultiplexSangliNewlyRenovated,Marathi,19:30,Gold,₹150,358,227
+Maharashtra,Sangli,NewPrideMultiplexSangliNewlyRenovated,Marathi,19:30,Silver,₹150,78,3
