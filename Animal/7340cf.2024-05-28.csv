@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Gujarat,Surat,MadhuramMultiplexSurat,Hindi,10:00,Platinum,₹130,18,0
+Gujarat,Surat,MadhuramMultiplexSurat,Hindi,10:00,Gold,₹99,36,0
+Gujarat,Surat,MadhuramMultiplexSurat,Hindi,10:00,Silver,₹99,27,0
+Gujarat,Surat,MadhuramMultiplexSurat,Hindi,16:45,Platinum,₹130,18,0
+Gujarat,Surat,MadhuramMultiplexSurat,Hindi,16:45,Gold,₹99,36,1
+Gujarat,Surat,MadhuramMultiplexSurat,Hindi,16:45,Silver,₹99,27,0
+UttarPradesh,Lucknow,FunCinemasFunRepublicMallLucknow,Hindi,17:45,Normal,₹99,110,0
+UttarPradesh,Lucknow,FunCinemasFunRepublicMallLucknow,Hindi,17:45,Executive,₹99,248,0
+Gujarat,Surat,MadhuramMultiplexSurat,Hindi,20:30,Platinum,₹130,18,0
+Gujarat,Surat,MadhuramMultiplexSurat,Hindi,20:30,Gold,₹99,36,0
+Gujarat,Surat,MadhuramMultiplexSurat,Hindi,20:30,Silver,₹99,27,0
