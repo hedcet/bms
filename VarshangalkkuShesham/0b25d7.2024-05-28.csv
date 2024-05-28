@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,15:00,RoyalRecliner,₹199,10,0
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,15:00,Club,₹99,66,0
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,15:00,Executive,₹99,22,0
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,15:00,Royal,₹99,28,22
+Kerala,Trivandrum,NewTheatre4KRgbLaserDolbyAtmosTrivandrum,Malayalam,18:30,Elite,₹150,173,2
+Kerala,Trivandrum,NewTheatre4KRgbLaserDolbyAtmosTrivandrum,Malayalam,21:30,Elite,₹150,173,4
+Kerala,Trivandrum,PvrLuluTrivandrum,Malayalam,22:25,Recliner,₹199,8,3
+Kerala,Trivandrum,PvrLuluTrivandrum,Malayalam,22:25,Classic,₹99,65,4
+Kerala,Trivandrum,PvrLuluTrivandrum,Malayalam,22:25,Prime,₹99,34,9
