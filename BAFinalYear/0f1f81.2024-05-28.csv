@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Chhattisgarh,Raipur,InoxAmbujaCityCentreRaipur,Chattisgarhi,09:25,RoyalRecliner,₹190,20,4
+Chhattisgarh,Raipur,InoxAmbujaCityCentreRaipur,Chattisgarhi,09:25,Club,₹110,192,0
+Chhattisgarh,Raipur,InoxAmbujaCityCentreRaipur,Chattisgarhi,09:25,Executive,₹110,36,1
+Chhattisgarh,Raipur,InoxAmbujaCityCentreRaipur,Chattisgarhi,09:25,Royal,₹110,42,6
+Chhattisgarh,Bemetara,RatanTalkiesBemetara,Chattisgarhi,11:00,GoldClass,₹100,121,0
+Chhattisgarh,Raipur,InoxAmbujaCityCentreRaipur,Chattisgarhi,13:05,RoyalRecliner,₹200,18,4
+Chhattisgarh,Raipur,InoxAmbujaCityCentreRaipur,Chattisgarhi,13:05,Club,₹130,132,0
+Chhattisgarh,Raipur,InoxAmbujaCityCentreRaipur,Chattisgarhi,13:05,Executive,₹130,28,1
+Chhattisgarh,Raipur,InoxAmbujaCityCentreRaipur,Chattisgarhi,13:05,Royal,₹130,34,13
+Chhattisgarh,Bemetara,RatanTalkiesBemetara,Chattisgarhi,14:00,GoldClass,₹100,121,0
+Chhattisgarh,Bemetara,RatanTalkiesBemetara,Chattisgarhi,17:00,GoldClass,₹100,121,4
+Chhattisgarh,Bemetara,RatanTalkiesBemetara,Chattisgarhi,20:00,GoldClass,₹100,121,2
