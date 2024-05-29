@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+UttarPradesh,Ujhani,AdsCineplexUjhani,Hindi,18:00,Platinum,₹250,68,0
+UttarPradesh,Ujhani,AdsCineplexUjhani,Hindi,18:00,Gold,₹200,56,0
+UttarPradesh,Ujhani,AdsCineplexUjhani,Hindi,18:00,Silver,₹150,162,0
