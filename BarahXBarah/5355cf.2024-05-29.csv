@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Mumbai,PvrMarketCityKurlaPremiere,Hindi,09:40,Prime,₹130,143,0
+Maharashtra,Mumbai,PvrMarketCityKurlaPremiere,Hindi,09:40,Classic,₹110,80,0
+Maharashtra,Mumbai,MaisonPvrJioWorldDriveMumbai,Hindi,11:45,Luxe,₹400,24,0
+Ncr,Gurgaon,PvrAmbienceGurgaon,Hindi,12:00,Prime,₹310,57,17
+Ncr,Gurgaon,PvrAmbienceGurgaon,Hindi,12:00,Classic,₹260,82,14
+WestBengal,Kolkata,InoxHilandPark,Hindi,12:20,Royal,₹330,16,4
+WestBengal,Kolkata,InoxHilandPark,Hindi,12:20,Premier,₹140,36,0
+WestBengal,Kolkata,InoxHilandPark,Hindi,12:20,Silver,₹140,155,10
+Maharashtra,Mumbai,MetroInoxCinemasMarineLines,Hindi,12:25,Insignia,₹530,47,6
+UttarPradesh,Lucknow,InoxMegaplexEmeraldLucknow,Hindi,12:30,Club,₹100,70,0
+UttarPradesh,Lucknow,InoxMegaplexEmeraldLucknow,Hindi,12:30,Executive,₹100,28,0
+UttarPradesh,Lucknow,InoxMegaplexEmeraldLucknow,Hindi,12:30,Royale,₹100,83,11
+WestBengal,Kolkata,CinepolisAcropolisMallKolkata,Hindi,18:30,Normal,₹180,22,0
+WestBengal,Kolkata,CinepolisAcropolisMallKolkata,Hindi,18:30,Executive,₹180,64,3
+WestBengal,Kolkata,CinepolisAcropolisMallKolkata,Hindi,18:30,Premium,₹180,38,11
+Maharashtra,Mumbai,MovieTimeHubGoregaonE,Hindi,21:00,Gold,₹150,63,12
