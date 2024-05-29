@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+MadhyaPradesh,Jabalpur,SamdareeyaEraCinemaJabalpur,Sindhi,18:15,Platinum,₹90,89,25
+MadhyaPradesh,Jabalpur,SamdareeyaEraCinemaJabalpur,Sindhi,18:15,Gold,₹90,132,2
+MadhyaPradesh,Jabalpur,SamdareeyaEraCinemaJabalpur,Sindhi,18:15,Silver,₹90,77,0
+MadhyaPradesh,Jabalpur,SamdareeyaEraCinemaJabalpur,Sindhi,18:15,Recliner,₹190,16,16
