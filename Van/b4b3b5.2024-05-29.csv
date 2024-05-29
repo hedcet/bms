@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+AndhraPradesh,Guntur,PvrGunturNaazCenterRoad,Telugu,11:00,Recliner,₹295,10,0
+AndhraPradesh,Guntur,PvrGunturNaazCenterRoad,Telugu,11:00,Classic,₹177,170,14
+Telangana,Hyderabad,PvrCentralMallPanjagutta,Telugu,13:35,Classic,₹112,141,0
