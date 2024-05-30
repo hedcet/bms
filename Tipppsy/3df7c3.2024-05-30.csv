@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+WestBengal,Moyna,PriyaCineplexMoynaDolby51,Hindi,12:30,Executive,₹100,160,0
+WestBengal,Siliguri,RabindraManchShaktigarhSiliguri,Hindi,12:30,RearStall,₹100,392,0
+WestBengal,Kalyani,DolphinMultiplexHaringhata,Hindi,13:00,RoyalClass,₹150,9,0
+WestBengal,Kalyani,DolphinMultiplexHaringhata,Hindi,13:00,EconomyClass,₹100,72,0
+WestBengal,Kolkata,JayantiCinemaBarrackpore,Hindi,14:00,Stall,₹100,26,0
+WestBengal,Kolkata,JayantiCinemaBarrackpore,Hindi,14:00,SuperStall,₹100,183,0
+WestBengal,Moyna,PriyaCineplexMoynaDolby51,Hindi,15:30,Executive,₹100,160,0
+WestBengal,Siliguri,RabindraManchShaktigarhSiliguri,Hindi,15:30,RearStall,₹100,392,0
+WestBengal,Kalyani,DolphinMultiplexHaringhata,Hindi,16:00,RoyalClass,₹150,9,0
+WestBengal,Kalyani,DolphinMultiplexHaringhata,Hindi,16:00,EconomyClass,₹100,72,0
+WestBengal,Moyna,PriyaCineplexMoynaDolby51,Hindi,18:30,Executive,₹100,160,0
+WestBengal,Siliguri,RabindraManchShaktigarhSiliguri,Hindi,18:30,RearStall,₹100,392,0
+WestBengal,Kalyani,DolphinMultiplexHaringhata,Hindi,19:00,RoyalClass,₹150,9,0
+WestBengal,Kalyani,DolphinMultiplexHaringhata,Hindi,19:00,EconomyClass,₹100,72,0
