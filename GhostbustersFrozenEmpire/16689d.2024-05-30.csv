@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Ncr,Gurgaon,InoxArdeeMallGurugram,English,10:00,Platinum,₹600,18,0
+Ncr,Gurgaon,InoxArdeeMallGurugram,English,10:00,PlatinumSuperior,₹600,12,0
+Telangana,Hyderabad,PvrNextGalleriaMallPanjagutta,English,22:15,Classic,₹150,54,2
