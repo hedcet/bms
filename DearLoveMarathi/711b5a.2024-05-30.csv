@@ -1,0 +1,8 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Vita,SuriyaNovaCinemazVita,Marathi,14:20,Gold,₹150,77,0
+Maharashtra,Vita,SuriyaNovaCinemazVita,Marathi,14:20,Silver,₹120,42,7
+Maharashtra,Mumbai,MovieTimeHubGoregaonE,Marathi,18:45,Gold,₹130,63,9
+Maharashtra,Ichalkaranji,RkCinemasRadhaKrishanIchalkaranji,Marathi,19:15,Vip,₹100,35,1
+Maharashtra,Ichalkaranji,RkCinemasRadhaKrishanIchalkaranji,Marathi,19:15,Platinum,₹80,108,4
+Maharashtra,Ichalkaranji,RkCinemasRadhaKrishanIchalkaranji,Marathi,19:15,Gold,₹80,88,2
+Maharashtra,Ichalkaranji,RkCinemasRadhaKrishanIchalkaranji,Marathi,19:15,Silver,₹80,38,6
