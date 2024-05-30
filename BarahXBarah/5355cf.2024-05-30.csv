@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Pune,InoxMegaplexPhoenixMallOfTheMillennium,Hindi,09:45,Prime,₹160,156,9
+Maharashtra,Pune,InoxMegaplexPhoenixMallOfTheMillennium,Hindi,09:45,Classic,₹150,26,0
+Maharashtra,Mumbai,MaisonPvrJioWorldDriveMumbai,Hindi,11:45,Luxe,₹400,24,2
+WestBengal,Kolkata,InoxHilandPark,Hindi,12:20,Royal,₹330,16,4
+WestBengal,Kolkata,InoxHilandPark,Hindi,12:20,Premier,₹140,36,0
+WestBengal,Kolkata,InoxHilandPark,Hindi,12:20,Silver,₹140,155,8
+WestBengal,Kolkata,InoxSwabhumiMaulanaAzadSarani,Hindi,14:35,Club,₹150,119,0
+WestBengal,Kolkata,InoxSwabhumiMaulanaAzadSarani,Hindi,14:35,Executive,₹150,32,0
+WestBengal,Kolkata,InoxSwabhumiMaulanaAzadSarani,Hindi,14:35,Royal,₹150,24,10
+Maharashtra,Mumbai,MovieTimeHubGoregaonE,Hindi,21:00,Gold,₹150,63,12
