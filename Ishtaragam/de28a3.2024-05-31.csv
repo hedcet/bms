@@ -1,0 +1,16 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kerala,Kochi,VanithaCineplexRgbLaser4K3DAtmosEdappally,Malayalam,10:00,Screen4,₹180,154,102
+Kerala,Kochi,VanithaCineplexRgbLaser4K3DAtmosEdappally,Malayalam,10:00,Screen4Sofa,₹260,15,0
+Kerala,Kozhikode,PalaxiCinemasHiLiteMallKozhikode,Malayalam,11:00,Recliner,₹400,29,1
+Kerala,Kozhikode,PalaxiCinemasHiLiteMallKozhikode,Malayalam,11:00,Premium,₹99,135,1
+Kerala,Kozhikode,PalaxiCinemasHiLiteMallKozhikode,Malayalam,11:00,Executive,₹99,27,1
+Kerala,Kozhikode,PalaxiCinemasHiLiteMallKozhikode,Malayalam,11:00,Lounger,₹200,24,1
+Kerala,Vadakkencherry,JayabharathTheatreVadakkencherry,Malayalam,11:15,Screen1,₹120,293,90
+Kerala,Palakkad,AromaScreen2Palakkad,Malayalam,11:15,KingCircle,₹129,235,2
+Kerala,Payyanur,ShanthiCinemasPayyanur,Malayalam,13:30,Platinum,₹130,314,47
+Kerala,Trivandrum,GangaCineHouse4KDolbyAtmosAttingal,Malayalam,16:30,Kavery,₹130,465,0
+Kerala,Payyanur,ShanthiCinemasPayyanur,Malayalam,16:30,Platinum,₹130,314,33
+Kerala,Kozhikode,AashirvadCineplexxKozhikode,Malayalam,16:45,Recliner,₹380,17,0
+Kerala,Kozhikode,AashirvadCineplexxKozhikode,Malayalam,16:45,Platinum,₹220,51,0
+Kerala,Kozhikode,AashirvadCineplexxKozhikode,Malayalam,16:45,Gold,₹200,111,0
+Kerala,Kozhinjampara,VrindavanTheatreKozhinjampara,Malayalam,18:00,Platinum,₹110,189,0
