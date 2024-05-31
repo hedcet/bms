@@ -1,0 +1,16 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+TamilNadu,Batlagundu,ParimalamCinemasACLaserDolby71,Tamil,10:30,Balcony,₹150,88,0
+TamilNadu,Batlagundu,ParimalamCinemasACLaserDolby71,Tamil,10:30,BoxA,₹150,18,0
+TamilNadu,Batlagundu,ParimalamCinemasACLaserDolby71,Tamil,10:30,BoxB,₹150,18,0
+TamilNadu,Batlagundu,ParimalamCinemasACLaserDolby71,Tamil,10:30,FirstClass,₹100,284,0
+TamilNadu,Theni,VetriCinemasDolbyAtmosTheni,Tamil,11:20,FirstClass,₹190.78,130,0
+TamilNadu,Theni,VetriCinemasDolbyAtmosTheni,Tamil,11:20,SecondClass,₹120.6,30,11
+TamilNadu,Theni,VetriCinemasDolbyAtmosTheni,Tamil,11:20,ThirdClass,₹60.12,18,0
+TamilNadu,Coimbatore,CosmoCinemasRgbLaserDolbyAtmosCoimbatore,Tamil,16:30,Platinum,₹150,138,0
+TamilNadu,Salem,ArrsMultiplexSalem,Tamil,16:45,FirstClass,₹150,326,0
+TamilNadu,Salem,ArrsMultiplexSalem,Tamil,16:45,SecondClass,₹120,264,0
+TamilNadu,Salem,ArrsMultiplexSalem,Tamil,16:45,ThirdClass,₹60,62,0
+TamilNadu,Batlagundu,ParimalamCinemasACLaserDolby71,Tamil,22:00,Balcony,₹150,88,0
+TamilNadu,Batlagundu,ParimalamCinemasACLaserDolby71,Tamil,22:00,BoxA,₹150,18,0
+TamilNadu,Batlagundu,ParimalamCinemasACLaserDolby71,Tamil,22:00,BoxB,₹150,18,0
+TamilNadu,Batlagundu,ParimalamCinemasACLaserDolby71,Tamil,22:00,FirstClass,₹100,284,0
