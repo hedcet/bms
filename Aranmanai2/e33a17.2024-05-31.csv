@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Karnataka,Dharwad,SangamTheatreDharwad,Tamil,12:00,Balcony,₹100,161,0
+Karnataka,Dharwad,SangamTheatreDharwad,Tamil,12:00,DressCircle,₹80,447,0
+Karnataka,Dharwad,SangamTheatreDharwad,Tamil,15:00,Balcony,₹100,161,0
+Karnataka,Dharwad,SangamTheatreDharwad,Tamil,15:00,DressCircle,₹80,447,0
