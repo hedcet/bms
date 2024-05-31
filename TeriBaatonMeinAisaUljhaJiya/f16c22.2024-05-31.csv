@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+UttarPradesh,Jhansi,NatarajCinemaJhansi,Hindi,10:00,Executive,₹200,146,7
+UttarPradesh,Jhansi,NatarajCinemaJhansi,Hindi,15:30,Executive,₹200,146,13
+UttarPradesh,Jhansi,NatarajCinemaJhansi,Hindi,21:30,Executive,₹200,146,10
