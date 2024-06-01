@@ -1,0 +1,8 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+WestBengal,CoochBehar,BhavaniCinemaCoochBehar,Bengali,10:15,AcSpecialClass1,₹100,204,0
+WestBengal,CoochBehar,BhavaniCinemaCoochBehar,Bengali,10:15,AcSpecialClass2,₹70,112,0
+WestBengal,CoochBehar,BhavaniCinemaCoochBehar,Bengali,13:00,AcSpecialClass1,₹100,204,0
+WestBengal,CoochBehar,BhavaniCinemaCoochBehar,Bengali,13:00,AcSpecialClass2,₹70,112,0
+WestBengal,Kolkata,InoxSouthCityKolkata,Bengali,14:00,RoyalRecliner,₹460,16,1
+WestBengal,Kolkata,InoxSouthCityKolkata,Bengali,14:00,Silver,₹260,165,27
+WestBengal,Kolkata,InoxSouthCityKolkata,Bengali,14:00,Premier,₹240,32,0
