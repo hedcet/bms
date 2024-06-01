@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Karnataka,Bengaluru,InoxMantriSquareMalleshwaram,Malayalam,13:15,Club,₹220,225,44
+Karnataka,Mysore,InoxCentroMysore,Malayalam,13:30,Club,₹112,44,11
+Karnataka,Mysore,InoxCentroMysore,Malayalam,13:30,Executive,₹112,46,0
+TamilNadu,Trichy,LaCinemaSonaMinaRgbLaserTrichy,Malayalam,15:10,Posh,₹150,154,12
