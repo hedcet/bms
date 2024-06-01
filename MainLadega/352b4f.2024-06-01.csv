@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+WestBengal,Betberia,SobhaTalkiesBetberia,Hindi,10:30,Balcony,₹100,220,0
+WestBengal,Betberia,SobhaTalkiesBetberia,Hindi,10:30,RearStall,₹70,204,0
+WestBengal,Betberia,SobhaTalkiesBetberia,Hindi,13:00,Balcony,₹100,220,0
+WestBengal,Betberia,SobhaTalkiesBetberia,Hindi,13:00,RearStall,₹70,204,0
+WestBengal,Hooghly,SushamaCinemaSheoraphuli,Hindi,14:00,BalconyAc,₹150,105,0
+WestBengal,Betberia,SobhaTalkiesBetberia,Hindi,16:00,Balcony,₹100,220,0
+WestBengal,Betberia,SobhaTalkiesBetberia,Hindi,16:00,RearStall,₹70,204,0
+WestBengal,Hooghly,SushamaCinemaSheoraphuli,Hindi,17:00,BalconyAc,₹150,105,0
+WestBengal,Betberia,SobhaTalkiesBetberia,Hindi,19:00,Balcony,₹100,220,0
+WestBengal,Betberia,SobhaTalkiesBetberia,Hindi,19:00,RearStall,₹70,204,0
