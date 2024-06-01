@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Assam,Guwahati,AnuradhaCineplexGuwahati,Assamese,17:00,Silver,₹100,62,1
+Assam,Guwahati,AnuradhaCineplexGuwahati,Assamese,17:00,Gold,₹150,170,2
+Assam,Guwahati,AnuradhaCineplexGuwahati,Assamese,17:00,Platinum,₹200,158,25
+Assam,Guwahati,AnuradhaCineplexGuwahati,Assamese,17:00,Diamond,₹350,16,4
+Assam,Guwahati,AnuradhaCineplexGuwahati,Assamese,17:00,Box2,₹250,22,2
+Assam,Guwahati,AnuradhaCineplexGuwahati,Assamese,17:00,Box1,₹250,10,2
+Assam,Guwahati,MatrixCinemasMatrixMallBeltolaGuwahati,Assamese,18:05,Gold,₹300,42,17
+Assam,Guwahati,MatrixCinemasMatrixMallBeltolaGuwahati,Assamese,18:05,Club,₹200,52,17
+Assam,Guwahati,MatrixCinemasMatrixMallBeltolaGuwahati,Assamese,18:05,Executive,₹150,13,2
