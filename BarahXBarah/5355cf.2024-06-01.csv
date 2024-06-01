@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Mumbai,MovieTimeHubGoregaonE,Hindi,17:15,Gold,₹180,63,10
+WestBengal,Kolkata,CinepolisAcropolisMallKolkata,Hindi,22:15,Normal,₹220,38,0
+WestBengal,Kolkata,CinepolisAcropolisMallKolkata,Hindi,22:15,Executive,₹220,151,0
+WestBengal,Kolkata,CinepolisAcropolisMallKolkata,Hindi,22:15,Premium,₹220,65,0
