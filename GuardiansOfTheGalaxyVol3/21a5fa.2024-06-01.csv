@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Karnataka,Bengaluru,PvrSuperplexForumMallKanakapuraRoad,English,13:05,Recliner,₹460,17,0
+Karnataka,Bengaluru,PvrSuperplexForumMallKanakapuraRoad,English,13:05,Prime,₹260,88,19
+Karnataka,Bengaluru,PvrSuperplexForumMallKanakapuraRoad,English,13:05,Classic,₹240,132,2
+Ncr,Delhi,PvrPromenadeVasantKunj,English,21:30,PrimePlus,₹370,10,5
+Ncr,Delhi,PvrPromenadeVasantKunj,English,21:30,Prime,₹310,26,16
+Ncr,Delhi,PvrPromenadeVasantKunj,English,21:30,Classic,₹250,104,0
