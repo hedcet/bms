@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kerala,Kochi,SavitaCinemaKochi,Malayalam,10:15,Deluxe,₹150,555,34
+Kerala,Payyanur,ShanthiCinemasPayyanur,Malayalam,10:30,Platinum,₹130,314,32
+Kerala,Thodupuzha,SilverHillsCinemas4KLaser3DDolby71,Malayalam,16:45,Silver,₹160,80,80
+Kerala,Kozhinjampara,VrindavanTheatreKozhinjampara,Malayalam,21:00,Platinum,₹110,189,0
