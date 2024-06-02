@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+AndhraPradesh,Machilipatnam,PvrVaramCentralMachilipatnam,Telugu,14:20,Recliner,₹325,19,5
+AndhraPradesh,Machilipatnam,PvrVaramCentralMachilipatnam,Telugu,14:20,Premium,₹207,184,8
+AndhraPradesh,Machilipatnam,PvrVaramCentralMachilipatnam,Telugu,14:20,ClassicPlus,₹175,60,0
+AndhraPradesh,Machilipatnam,PvrVaramCentralMachilipatnam,Telugu,14:20,Classic,₹142,39,0
