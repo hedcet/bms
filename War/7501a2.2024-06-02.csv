@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Uttarakhand,Kichha,AnupamCineplexKichha,Hindi,12:30,Box,₹200,12,0
+Uttarakhand,Kichha,AnupamCineplexKichha,Hindi,12:30,DiamondRecliner,₹250,17,0
+Uttarakhand,Kichha,AnupamCineplexKichha,Hindi,12:30,RoyalGold,₹100,104,0
+Uttarakhand,Kichha,AnupamCineplexKichha,Hindi,15:30,Box,₹200,12,0
+Uttarakhand,Kichha,AnupamCineplexKichha,Hindi,15:30,DiamondRecliner,₹250,17,0
+Uttarakhand,Kichha,AnupamCineplexKichha,Hindi,15:30,RoyalGold,₹100,104,0
+Uttarakhand,Kichha,AnupamCineplexKichha,Hindi,18:30,Box,₹200,12,0
+Uttarakhand,Kichha,AnupamCineplexKichha,Hindi,18:30,DiamondRecliner,₹250,17,0
+Uttarakhand,Kichha,AnupamCineplexKichha,Hindi,18:30,RoyalGold,₹100,104,0
+Uttarakhand,Kichha,AnupamCineplexKichha,Hindi,21:30,Box,₹200,12,0
+Uttarakhand,Kichha,AnupamCineplexKichha,Hindi,21:30,DiamondRecliner,₹250,17,0
+Uttarakhand,Kichha,AnupamCineplexKichha,Hindi,21:30,RoyalGold,₹100,104,0
