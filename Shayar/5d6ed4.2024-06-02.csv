@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Punjab,Banga,SuryaOhriCinemaBanga,Punjabi,12:20,Gold,₹230,30,1
+Punjab,Banga,SuryaOhriCinemaBanga,Punjabi,12:20,Silver,₹200,91,3
+Punjab,Chandigarh,PvrCentraChandigarh,Punjabi,12:45,Prime,₹190,175,36
+Punjab,Chandigarh,PvrCentraChandigarh,Punjabi,12:45,Classic,₹150,126,0
+Punjab,Mohali,PvrVrPunjabMallMohali,Punjabi,13:05,Prime,₹340,42,17
+Punjab,Mohali,PvrVrPunjabMallMohali,Punjabi,13:05,ClassicPlus,₹320,60,10
+Punjab,Mohali,PvrVrPunjabMallMohali,Punjabi,13:05,Classic,₹300,60,0
+Punjab,Patiala,PvrVrcPatiala,Punjabi,15:50,Recliner,₹490,10,7
+Punjab,Patiala,PvrVrcPatiala,Punjabi,15:50,Prime,₹250,153,55
+Punjab,Patiala,PvrVrcPatiala,Punjabi,15:50,Classic,₹230,32,0
+Punjab,Mohali,PvrCp67MallMohali,Punjabi,16:30,Recliner,₹900,34,5
+Punjab,Ludhiana,PvrSilverArcLudhiana,Punjabi,16:35,Recliner,₹450,20,5
+Punjab,Ludhiana,PvrSilverArcLudhiana,Punjabi,16:35,Prime,₹280,10,8
+Punjab,Ludhiana,PvrSilverArcLudhiana,Punjabi,16:35,Classic,₹240,126,31
+Punjab,Ludhiana,PvrPavilionLudhiana,Punjabi,22:55,Prime,₹370,8,3
+Punjab,Ludhiana,PvrPavilionLudhiana,Punjabi,22:55,Classic,₹250,130,5
