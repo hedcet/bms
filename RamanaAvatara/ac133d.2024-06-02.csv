@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Karnataka,Hubli,PvrLaxmiMallCoenRoad,Kannada,10:05,Prime,₹250,11,0
+Karnataka,Hubli,PvrLaxmiMallCoenRoad,Kannada,10:05,Classic,₹150,78,0
+Karnataka,Hubli,PvrLaxmiMallCoenRoad,Kannada,10:05,ClassicPlus,₹150,156,18
+Karnataka,Bengaluru,RocklineCinemasJalahalliCross,Kannada,10:20,Gold,₹150,193,30
+Karnataka,Mysore,PvrGarudaMallAlbertVictorRoadMysuru,Kannada,12:20,Classic,₹130,119,29
+Karnataka,Bengaluru,PvrSoulSpiritCentralMallBellandur,Kannada,13:50,Prime,₹290,60,16
+Karnataka,Bengaluru,PvrSoulSpiritCentralMallBellandur,Kannada,13:50,Classic,₹270,22,0
+Karnataka,Bengaluru,PvrAuraParkSquareWhitefield,Kannada,16:30,Recliner,₹370,12,0
+Karnataka,Bengaluru,PvrAuraParkSquareWhitefield,Kannada,16:30,Classic,₹220,120,11
