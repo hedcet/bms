@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Amravati,PrabhatTalkiesAmravati,Sindhi,18:30,Diamond,₹150,139,139
+Maharashtra,Amravati,PrabhatTalkiesAmravati,Sindhi,18:30,Gold,₹100,347,162
+Maharashtra,Akola,NewRegalCinemaAkola,Sindhi,18:30,Balcony,₹100,141,68
+Maharashtra,Akola,NewRegalCinemaAkola,Sindhi,18:30,ReserveClass,₹50,343,17
+Maharashtra,Amravati,PrabhatTalkiesAmravati,Sindhi,21:30,Diamond,₹150,139,139
+Maharashtra,Amravati,PrabhatTalkiesAmravati,Sindhi,21:30,Gold,₹100,347,132
+Maharashtra,Akola,NewRegalCinemaAkola,Sindhi,21:30,Balcony,₹100,141,67
+Maharashtra,Akola,NewRegalCinemaAkola,Sindhi,21:30,ReserveClass,₹50,343,4
