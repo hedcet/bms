@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Ncr,Delhi,DeliteCinemaAsafAliRoad,Hindi,12:35,Balcony,₹180,358,38
+Ncr,Delhi,DeliteCinemaAsafAliRoad,Hindi,12:35,UpperStall,₹130,270,12
+Ncr,Delhi,DeliteCinemaAsafAliRoad,Hindi,12:35,CentreStall,₹95,252,35
+Ncr,Delhi,DeliteCinemaAsafAliRoad,Hindi,12:35,LowerStall,₹95,100,0
