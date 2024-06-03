@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+MadhyaPradesh,Jabalpur,SamdareeyaEraCinemaJabalpur,Sindhi,18:00,Platinum,₹250,82,0
+MadhyaPradesh,Jabalpur,SamdareeyaEraCinemaJabalpur,Sindhi,18:00,Gold,₹200,180,0
+MadhyaPradesh,Jabalpur,SamdareeyaEraCinemaJabalpur,Sindhi,18:00,Silver,₹120,76,0
+Maharashtra,Akola,NewRegalCinemaAkola,Sindhi,18:30,Balcony,₹100,141,27
+Maharashtra,Akola,NewRegalCinemaAkola,Sindhi,18:30,ReserveClass,₹50,343,25
+Maharashtra,Amravati,PrabhatTalkiesAmravati,Sindhi,18:30,Diamond,₹150,139,36
+Maharashtra,Amravati,PrabhatTalkiesAmravati,Sindhi,18:30,Gold,₹100,347,78
+Maharashtra,Amravati,PrabhatTalkiesAmravati,Sindhi,21:30,Diamond,₹150,139,42
+Maharashtra,Amravati,PrabhatTalkiesAmravati,Sindhi,21:30,Gold,₹100,347,70
