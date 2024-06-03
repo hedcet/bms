@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Pune,PvrDirectorsCutKopaPune,English,16:40,PrimePlus,₹420,72,0
+Maharashtra,Pune,PvrDirectorsCutKopaPune,English,16:40,Prime,₹340,112,1
+Ncr,Delhi,PvrPromenadeVasantKunj,English,21:30,PrimePlus,₹370,10,1
+Ncr,Delhi,PvrPromenadeVasantKunj,English,21:30,Prime,₹310,26,2
+Ncr,Delhi,PvrPromenadeVasantKunj,English,21:30,Classic,₹250,104,1
+Karnataka,Bengaluru,PvrSuperplexForumMallKanakapuraRoad,English,22:30,Recliner,₹360,17,4
+Karnataka,Bengaluru,PvrSuperplexForumMallKanakapuraRoad,English,22:30,Prime,₹240,88,4
+Karnataka,Bengaluru,PvrSuperplexForumMallKanakapuraRoad,English,22:30,Classic,₹220,132,0
