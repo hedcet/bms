@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+AndhraPradesh,Vijayawada,SwarnaMultiplexVijayawada,Telugu,11:30,Premium,₹110,206,19
+AndhraPradesh,Vijayawada,SwarnaMultiplexVijayawada,Telugu,11:30,Economy,₹78,70,23
+AndhraPradesh,Vijayawada,SwarnaMultiplexVijayawada,Telugu,18:30,Premium,₹110,206,22
+AndhraPradesh,Vijayawada,SwarnaMultiplexVijayawada,Telugu,18:30,Economy,₹78,70,24
+AndhraPradesh,Vijayawada,SwarnaMultiplexVijayawada,Telugu,22:00,Premium,₹110,206,20
+AndhraPradesh,Vijayawada,SwarnaMultiplexVijayawada,Telugu,22:00,Economy,₹78,70,21
