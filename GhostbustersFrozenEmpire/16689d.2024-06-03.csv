@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+UttarPradesh,Dhampur,SheelaTalkiesDhampur,Hindi,12:00,Royal,₹200,35,3
+UttarPradesh,Dhampur,SheelaTalkiesDhampur,Hindi,12:00,Prime,₹150,198,4
+UttarPradesh,Dhampur,SheelaTalkiesDhampur,Hindi,12:00,Gold,₹100,290,4
+UttarPradesh,Dhampur,SheelaTalkiesDhampur,Hindi,15:00,Royal,₹200,35,3
+UttarPradesh,Dhampur,SheelaTalkiesDhampur,Hindi,15:00,Prime,₹150,198,4
+UttarPradesh,Dhampur,SheelaTalkiesDhampur,Hindi,15:00,Gold,₹100,290,4
+UttarPradesh,Dhampur,SheelaTalkiesDhampur,Hindi,18:00,Royal,₹200,35,3
+UttarPradesh,Dhampur,SheelaTalkiesDhampur,Hindi,18:00,Prime,₹150,198,4
+UttarPradesh,Dhampur,SheelaTalkiesDhampur,Hindi,18:00,Gold,₹100,290,4
+UttarPradesh,Dhampur,SheelaTalkiesDhampur,Hindi,21:00,Royal,₹200,35,3
+UttarPradesh,Dhampur,SheelaTalkiesDhampur,Hindi,21:00,Prime,₹150,198,4
+UttarPradesh,Dhampur,SheelaTalkiesDhampur,Hindi,21:00,Gold,₹100,290,4
