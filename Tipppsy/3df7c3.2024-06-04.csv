@@ -1,0 +1,3 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+WestBengal,Siliguri,NewCinemaSiliguri,Hindi,11:00,Sofa,₹300,72,0
+WestBengal,Siliguri,NewCinemaSiliguri,Hindi,11:00,SpecialClass,₹80,162,2
