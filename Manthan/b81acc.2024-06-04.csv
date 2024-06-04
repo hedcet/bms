@@ -1,0 +1,14 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Gujarat,Surat,InoxDrWorldSurat,Hindi,18:05,Club,₹112,55,3
+Gujarat,Surat,InoxDrWorldSurat,Hindi,18:05,Executive,₹112,11,0
+Gujarat,Surat,InoxDrWorldSurat,Hindi,18:05,Royal,₹112,28,6
+Telangana,Hyderabad,PvrIrrumManzilHyderabad,Hindi,19:05,Recliner,₹250,10,2
+Telangana,Hyderabad,PvrIrrumManzilHyderabad,Hindi,19:05,Classic,₹112,158,25
+AndhraPradesh,Kakinada,InoxSrmtMallKakinada,Hindi,19:05,Executive,₹112,146,15
+Karnataka,Bengaluru,CinepolisNexusShantiniketanBengaluru,Hindi,19:10,Normal,₹99,24,0
+Karnataka,Bengaluru,CinepolisNexusShantiniketanBengaluru,Hindi,19:10,Executive,₹99,24,0
+Karnataka,Bengaluru,CinepolisNexusShantiniketanBengaluru,Hindi,19:10,Premium,₹99,80,6
+Karnataka,Bengaluru,CinepolisNexusShantiniketanBengaluru,Hindi,19:10,Vip,₹250,10,7
+Karnataka,Bengaluru,CinepolisLuluMallBengaluru,Hindi,19:10,Normal,₹112,25,0
+Karnataka,Bengaluru,CinepolisLuluMallBengaluru,Hindi,19:10,Executive,₹112,65,4
+Karnataka,Bengaluru,CinepolisLuluMallBengaluru,Hindi,19:10,Premium,₹112,45,12
