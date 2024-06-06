@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Karnataka,Belgaum,NirmalTheatreBelagavi,Kannada,12:00,Balcony,₹100,226,0
+Karnataka,Belgaum,NirmalTheatreBelagavi,Kannada,12:00,Stall,₹80,476,0
+Karnataka,Belgaum,NirmalTheatreBelagavi,Kannada,15:00,Balcony,₹100,226,0
+Karnataka,Belgaum,NirmalTheatreBelagavi,Kannada,15:00,Stall,₹80,476,0
+Karnataka,Belgaum,NirmalTheatreBelagavi,Kannada,18:00,Balcony,₹100,226,0
+Karnataka,Belgaum,NirmalTheatreBelagavi,Kannada,18:00,Stall,₹80,476,0
