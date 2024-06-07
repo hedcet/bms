@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Karnataka,Bengaluru,SriVinayaka2KDigital71DJHalli,Tamil,11:00,Balcony,₹150,226,0
+Karnataka,Bengaluru,SriVinayaka2KDigital71DJHalli,Tamil,11:00,FirstClass,₹100,394,0
+Karnataka,Bengaluru,SharadaCinemasACLaserProjectorDtsSound,Tamil,16:15,Gold,₹120,159,36
+Karnataka,Bengaluru,SharadaCinemasACLaserProjectorDtsSound,Tamil,16:15,Silver,₹100,315,72
+Karnataka,Mysore,PrabhaTheatreMysuru,Tamil,16:30,Balcony,₹150,209,0
+Karnataka,Mysore,PrabhaTheatreMysuru,Tamil,16:30,SecondClass,₹100,550,6
+Karnataka,Bengaluru,GalaxyParadiseMiniplexBegurRoad,Tamil,19:00,Gold,₹160,100,20
+Karnataka,Mysore,PrabhaTheatreMysuru,Tamil,19:30,Balcony,₹150,209,0
+Karnataka,Mysore,PrabhaTheatreMysuru,Tamil,19:30,SecondClass,₹100,550,3
+Karnataka,Bengaluru,SriVinayaka2KDigital71DJHalli,Tamil,21:30,Balcony,₹150,226,0
+Karnataka,Bengaluru,SriVinayaka2KDigital71DJHalli,Tamil,21:30,FirstClass,₹100,394,0
