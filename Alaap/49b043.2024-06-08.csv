@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+WestBengal,CoochBehar,BhavaniCinemaCoochBehar,Bengali,10:15,AcSpecialClass1,₹100,204,0
+WestBengal,CoochBehar,BhavaniCinemaCoochBehar,Bengali,10:15,AcSpecialClass2,₹70,112,0
+WestBengal,Kolkata,NandanKolkata,Bengali,14:00,FrontStall,₹30,111,29
+WestBengal,Kolkata,NandanKolkata,Bengali,14:00,RearStall,₹50,451,115
+WestBengal,Kolkata,NandanKolkata,Bengali,14:00,Balcony,₹70,369,142
