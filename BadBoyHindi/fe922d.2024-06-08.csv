@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Ncr,Noida,CinepolisModiMallFormerlySpiceMall,Hindi,09:35,Premium,₹200,123,1
+Ncr,Noida,CinepolisModiMallFormerlySpiceMall,Hindi,09:35,Classic,₹190,75,0
+Maharashtra,Nagpur,AmCinemaJaiprakashNagarNagpur,Hindi,12:00,Prime,₹180,60,60
+Maharashtra,Nagpur,AmCinemaJaiprakashNagarNagpur,Hindi,12:00,Economic,₹140,10,10
+Ncr,Noida,CinepolisModiMallFormerlySpiceMall,Hindi,17:35,Premium,₹250,123,5
+Ncr,Noida,CinepolisModiMallFormerlySpiceMall,Hindi,17:35,Classic,₹240,75,0
+Maharashtra,Nagpur,AmCinemaJaiprakashNagarNagpur,Hindi,22:15,Prime,₹250,60,0
+Maharashtra,Nagpur,AmCinemaJaiprakashNagarNagpur,Hindi,22:15,Economic,₹210,10,0
