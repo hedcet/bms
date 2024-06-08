@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Ncr,Gurgaon,PvrAmbienceGurgaon,English,13:05,PlatinumSuperior,₹800,16,6
+Ncr,Gurgaon,PvrAmbienceGurgaon,English,13:05,Platinum,₹600,28,9
+Ncr,Gurgaon,PvrMgfGurgaon,English,16:00,Prime,₹460,61,26
+Ncr,Gurgaon,PvrMgfGurgaon,English,16:00,Classic,₹350,104,16
+Ncr,Gurgaon,InoxArdeeMallGurugram,English,21:30,PlatinumSuperior,"₹1,350",12,0
+Ncr,Gurgaon,InoxArdeeMallGurugram,English,21:30,Platinum,"₹1,250",18,0
+Ncr,Gurgaon,InoxArdeeMallGurugram,English,22:10,PlatinumSuperior,"₹1,000",12,7
+Ncr,Gurgaon,InoxArdeeMallGurugram,English,22:10,Platinum,₹900,18,0
