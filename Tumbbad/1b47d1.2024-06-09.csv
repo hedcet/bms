@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Kolhapur,InoxRelianceMegaMallKolhapur,Hindi,14:00,Club,₹150,84,0
+Maharashtra,Kolhapur,InoxRelianceMegaMallKolhapur,Hindi,14:00,Executive,₹150,28,0
+Maharashtra,Kolhapur,InoxRelianceMegaMallKolhapur,Hindi,14:00,Royale,₹150,27,11
