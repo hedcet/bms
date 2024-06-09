@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Amravati,PrabhatTalkiesAmravati,Sindhi,18:30,Diamond,₹150,139,139
+Maharashtra,Amravati,PrabhatTalkiesAmravati,Sindhi,18:30,Gold,₹100,347,155
+Maharashtra,Amravati,PrabhatTalkiesAmravati,Sindhi,21:30,Diamond,₹150,139,25
+Maharashtra,Amravati,PrabhatTalkiesAmravati,Sindhi,21:30,Gold,₹100,347,78
