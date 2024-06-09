@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kerala,Trivandrum,SreeKaleeswarySreeSaraswathy2K3DKaliyikkav,Malayalam,11:00,RoyalCircle,₹150,87,17
+Kerala,Trivandrum,GTracksScreen1Sony4KKadinamkulam,Malayalam,11:15,Gold,₹130,400,0
+Kerala,Kochi,SangeetaCinemaKochi,Malayalam,12:00,BlueCircle,₹150,187,40
+Kerala,Thiruvalla,ChilankaCinemasThiruvalla,Malayalam,13:00,Balcony,₹129.78,277,13
+Kerala,Thiruvalla,ChilankaCinemasThiruvalla,Malayalam,13:00,FirstClass,₹129.78,198,0
+Kerala,Thalassery,MagicFramesDowntownMallThalassery,Malayalam,13:30,Gold,₹160,135,11
+Kerala,Trivandrum,ThapasyaCineHouseAttingal,Malayalam,14:45,Circle,₹130,436,69
+Kerala,Thodupuzha,SilverHillsCinemas4KLaser3DDolby71,Malayalam,14:45,Silver,₹160,80,80
+Kerala,Kozhinjampara,VrindavanTheatreKozhinjampara,Malayalam,16:00,Box,₹120,45,18
+Kerala,Kozhinjampara,VrindavanTheatreKozhinjampara,Malayalam,16:00,Platinum,₹110,154,22
+Kerala,Trivandrum,GreenfieldMoviemaxCinemasTrivandrum,Malayalam,16:30,Executive,₹150,132,56
+Kerala,Trivandrum,GTracksScreen1Sony4KKadinamkulam,Malayalam,18:15,Gold,₹130,400,0
+Kerala,Trivandrum,AjantaTheatre4KWideTrivandrum,Malayalam,18:15,GrandA,₹350,6,1
+Kerala,Trivandrum,AjantaTheatre4KWideTrivandrum,Malayalam,18:15,GrandB,₹350,9,0
+Kerala,Trivandrum,AjantaTheatre4KWideTrivandrum,Malayalam,18:15,Royale,₹250,22,9
+Kerala,Trivandrum,AjantaTheatre4KWideTrivandrum,Malayalam,18:15,Premium,₹150,264,49
