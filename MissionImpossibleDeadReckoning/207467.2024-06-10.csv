@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Ncr,Gurgaon,PvrAmbienceGurgaon,English,12:30,Classic,₹150,105,1
+Ncr,Gurgaon,PvrAmbienceGurgaon,English,12:30,Prime,₹150,86,7
+Maharashtra,Pune,PvrDirectorsCutKopaPune,English,14:00,PrimePlus,₹390,72,0
+Maharashtra,Pune,PvrDirectorsCutKopaPune,English,14:00,Prime,₹320,112,0
