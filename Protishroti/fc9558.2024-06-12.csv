@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Assam,Jorhat,EleyeMultiplexJorhat,Assamese,09:15,Premier,₹140,60,30
+Assam,Jorhat,EleyeMultiplexJorhat,Assamese,09:15,Executive,₹140,60,60
+Assam,Jorhat,EleyeMultiplexJorhat,Assamese,09:15,Club,₹140,94,94
+Assam,Jorhat,EleyeMultiplexJorhat,Assamese,09:15,Gold,₹320,15,2
+Assam,Pathsala,SarmaTalkiesPathsala,Assamese,11:00,ExecutiveClass,₹200,100,0
+Assam,Pathsala,SarmaTalkiesPathsala,Assamese,11:00,DeluxeClass,₹170,100,0
+Assam,Pathsala,SarmaTalkiesPathsala,Assamese,11:00,EconomyClass,₹140,48,0
+Assam,Pathsala,SarmaTalkiesPathsala,Assamese,11:00,EasyClass,₹110,48,0
+Assam,Jorhat,EleyeMultiplexJorhat,Assamese,18:10,Executive,₹140,48,14
+Assam,Jorhat,EleyeMultiplexJorhat,Assamese,18:10,Club,₹240,60,17
+Assam,Jorhat,EleyeMultiplexJorhat,Assamese,18:10,Gold,₹350,17,0
