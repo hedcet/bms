@@ -1,0 +1,8 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kerala,Trivandrum,SreeKaleeswarySreeSaraswathy2K3DKaliyikkav,Malayalam,11:00,RoyalCircle,₹150,87,0
+Kerala,Kochi,SangeetaCinemaKochi,Malayalam,12:00,BlueCircle,₹150,187,38
+Kerala,Kottayam,AnupamaTheatreDolby71Kottayam,Malayalam,14:00,PremiumBalcony,₹140,149,0
+Kerala,Kottayam,AnupamaTheatreDolby71Kottayam,Malayalam,14:00,UpperCircle,₹100,473,0
+Kerala,Kottayam,AnupamaTheatreDolby71Kottayam,Malayalam,14:00,Circle,₹110,194,194
+Kerala,Trivandrum,ThapasyaCineHouseAttingal,Malayalam,14:45,Circle,₹130,436,63
+Kerala,Trivandrum,GreenfieldMoviemaxCinemasTrivandrum,Malayalam,19:00,Executive,₹150,132,41
