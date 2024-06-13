@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+TamilNadu,Chennai,PvrAmpaMallNelsonManickamRoad,Tamil,16:00,Prime,₹165,130,11
+TamilNadu,Chennai,PvrAmpaMallNelsonManickamRoad,Tamil,16:00,Classic,₹60.12,17,2
+TamilNadu,Chennai,PvrGrandGaladaPallavaram,Tamil,22:20,Prime,₹149,152,10
+TamilNadu,Chennai,PvrGrandGaladaPallavaram,Tamil,22:20,Classic,₹60.12,28,3
