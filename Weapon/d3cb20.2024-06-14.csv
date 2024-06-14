@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+TamilNadu,Chennai,RohiniSilverScreensKoyambedu,Tamil,10:00,GoldStar,₹160,315,40
+Karnataka,Udupi,DianaTheatreUdupi,Tamil,10:30,Balcony,₹100,172,0
+TamilNadu,Chennai,RohiniSilverScreensKoyambedu,Tamil,13:00,GoldStar,₹160,315,315
+Karnataka,Udupi,DianaTheatreUdupi,Tamil,13:30,Balcony,₹100,172,0
+TamilNadu,Chennai,RohiniSilverScreensKoyambedu,Tamil,16:00,GoldStar,₹160,315,43
+Karnataka,Udupi,DianaTheatreUdupi,Tamil,16:30,Balcony,₹100,172,0
+Karnataka,Udupi,DianaTheatreUdupi,Tamil,19:30,Balcony,₹100,172,0
+TamilNadu,Kanchipuram,ArunaCinemasRgbLaser4KAcDolbyAtmos,Tamil,21:30,Platinum,₹120,81,63
+TamilNadu,Kanchipuram,ArunaCinemasRgbLaser4KAcDolbyAtmos,Tamil,21:30,Diamond,₹120,219,0
