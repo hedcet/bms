@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Karnataka,Bengaluru,PushpanjaliBNPuraAC2KDolby71,Tamil,06:30,Balcony,₹150,378,0
+Karnataka,Bengaluru,PushpanjaliBNPuraAC2KDolby71,Tamil,06:30,FirstClass,₹100,570,0
+Karnataka,Bengaluru,SriKrishnaLazerProjection4KBomanahalli,Tamil,06:30,FirstClass,₹150,618,19
+Karnataka,Bengaluru,SrinivasaCinema4KDolbyAtmosRgbLaserSgPalya,Tamil,07:00,SrinivasaDiamond,₹150,260,0
+Karnataka,Bengaluru,SrinivasaCinema4KDolbyAtmosRgbLaserSgPalya,Tamil,07:00,SrinivasaGold,₹120,514,0
+Karnataka,Bengaluru,AnjanDigital4KACCinemaMagadiRoad,Tamil,07:05,Balcony,₹150,279,0
+Karnataka,Bengaluru,AnjanDigital4KACCinemaMagadiRoad,Tamil,07:05,SecondClass,₹100,650,69
+Karnataka,Bengaluru,SavithaTheatre2KDolbyACMalleshwaram,Tamil,08:00,Platinum,₹150,27,0
+Karnataka,Bengaluru,SavithaTheatre2KDolbyACMalleshwaram,Tamil,08:00,Gold,₹120,248,0
+Karnataka,Bengaluru,Mukunda4KDolbyAtmosMSNagar,Tamil,08:00,BalconyPrime,₹160,211,0
+Karnataka,Bengaluru,Mukunda4KDolbyAtmosMSNagar,Tamil,08:00,RearClassic,₹130,473,26
+Karnataka,Bengaluru,Mukunda4KDolbyAtmosMSNagar,Tamil,08:00,RoyalBox,₹200,21,0
