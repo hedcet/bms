@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Pune,MirajCinemasSpineCityMallPune,Hindi,11:30,Silver,₹112,48,0
+Maharashtra,Pune,MirajCinemasSpineCityMallPune,Hindi,11:30,Gold,₹112,177,0
+Maharashtra,Pune,MirajCinemasSpineCityMallPune,Hindi,11:30,PlatinumRecliner,₹200,16,0
+Maharashtra,Pune,CityPrideKothrud,Hindi,12:00,RoyalSofa,₹200,13,2
+Maharashtra,Pune,CityPrideKothrud,Hindi,12:00,RoyalGold,₹150,76,0
+Maharashtra,Pune,CityPrideKothrud,Hindi,12:00,RoyalSilver,₹150,22,0
+Gujarat,Ahmedabad,MirajCityPulseAhmedabad,Hindi,13:45,Gold,₹150,56,0
+Karnataka,Bengaluru,GopalanMallSirsiCircle,Hindi,16:00,Gold,₹99,278,9
+Karnataka,Bengaluru,PvrVrBengaluruWhitefieldRoad,Hindi,18:10,GoldPrime,₹750,14,4
+Karnataka,Bengaluru,PvrVrBengaluruWhitefieldRoad,Hindi,18:10,Gold,₹700,14,0
