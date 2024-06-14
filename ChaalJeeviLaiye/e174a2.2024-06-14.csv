@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Gujarat,Surat,InoxDrWorldSurat,Gujarati,09:30,Executive,₹112,105,8
+Gujarat,Rajpipla,CoconutCinemaRajpipla,Gujarati,12:30,Box,₹120,8,8
+Gujarat,Rajpipla,CoconutCinemaRajpipla,Gujarati,12:30,Gold,₹100,135,21
+Gujarat,Rajpipla,CoconutCinemaRajpipla,Gujarati,12:30,Silver,₹100,40,1
+Gujarat,Bharuch,FunCinemasShilpiMultiplex,Gujarati,15:00,PlatinumRecliner,₹200,15,3
+Gujarat,Bharuch,FunCinemasShilpiMultiplex,Gujarati,15:00,Gold,₹100,90,0
+Gujarat,Bharuch,FunCinemasShilpiMultiplex,Gujarati,15:00,Silver,₹100,33,0
+Gujarat,Himmatnagar,CinemunchMplexMcrHimmatnagar,Gujarati,15:30,Gold,₹100,79,0
+Gujarat,Surat,InoxDrWorldSurat,Gujarati,20:12,Executive,₹112,105,23
