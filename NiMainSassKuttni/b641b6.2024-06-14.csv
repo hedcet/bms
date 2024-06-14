@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Punjab,Ludhiana,V2VCinemasOldSrsLudhiana,Punjabi,09:30,Platinum,₹110,247,26
+Punjab,Ludhiana,V2VCinemasOldSrsLudhiana,Punjabi,09:30,Gold,₹110,80,0
+Punjab,Ludhiana,V2VCinemasOldSrsLudhiana,Punjabi,09:30,Silver,₹110,40,0
+Punjab,Hoshiarpur,MirajCinemasHoshiarpur,Punjabi,12:05,Special,₹140,34,0
+Punjab,Hoshiarpur,MirajCinemasHoshiarpur,Punjabi,12:05,Executive,₹160,101,14
+Punjab,Hoshiarpur,MirajCinemasHoshiarpur,Punjabi,17:40,Special,₹140,34,0
+Punjab,Hoshiarpur,MirajCinemasHoshiarpur,Punjabi,17:40,Executive,₹160,101,30
+Punjab,Hoshiarpur,MirajCinemasHoshiarpur,Punjabi,22:55,Special,₹140,34,0
+Punjab,Hoshiarpur,MirajCinemasHoshiarpur,Punjabi,22:55,Executive,₹160,101,11
