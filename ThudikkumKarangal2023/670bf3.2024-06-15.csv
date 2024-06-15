@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+TamilNadu,Alangudi,VcCinemaAlangudi,Tamil,11:20,FirstClass,₹100,149,0
+TamilNadu,Alangudi,VcCinemaAlangudi,Tamil,14:30,FirstClass,₹100,149,0
+TamilNadu,Alangudi,VcCinemaAlangudi,Tamil,18:30,FirstClass,₹100,149,0
+TamilNadu,Alangudi,VcCinemaAlangudi,Tamil,22:20,FirstClass,₹100,149,0
