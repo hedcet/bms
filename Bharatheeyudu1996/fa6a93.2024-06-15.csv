@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+AndhraPradesh,Vijayawada,AlankarAC4KDolbySurroundVijayawada,Telugu,08:01,Reclainer,₹295,28,6
+AndhraPradesh,Vijayawada,AlankarAC4KDolbySurroundVijayawada,Telugu,08:01,Balcony,₹112,390,62
+AndhraPradesh,Vijayawada,AlankarAC4KDolbySurroundVijayawada,Telugu,08:01,FirstClass,₹78,101,8
+AndhraPradesh,JangareddyGudem,CnrMallYScreensJangareddyGudem,Telugu,11:30,Recliner,₹295,14,14
+AndhraPradesh,JangareddyGudem,CnrMallYScreensJangareddyGudem,Telugu,11:30,FirstClass,₹150,185,185
+AndhraPradesh,JangareddyGudem,CnrMallYScreensJangareddyGudem,Telugu,14:30,Recliner,₹295,14,14
+AndhraPradesh,JangareddyGudem,CnrMallYScreensJangareddyGudem,Telugu,14:30,FirstClass,₹150,185,185
+Telangana,Hyderabad,BvkMultiplexVijayalakshmiLbNagar,Telugu,16:30,Balcony,₹200,357,9
+AndhraPradesh,JangareddyGudem,CnrMallYScreensJangareddyGudem,Telugu,18:15,Recliner,₹295,14,14
+AndhraPradesh,JangareddyGudem,CnrMallYScreensJangareddyGudem,Telugu,18:15,FirstClass,₹150,185,185
+AndhraPradesh,JangareddyGudem,CnrMallYScreensJangareddyGudem,Telugu,21:15,Recliner,₹295,14,14
+AndhraPradesh,JangareddyGudem,CnrMallYScreensJangareddyGudem,Telugu,21:15,FirstClass,₹150,185,185
