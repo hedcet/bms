@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Pune,PvrDirectorsCutKopaPune,English,10:15,PlatinumSuperior,₹410,32,17
+Maharashtra,Pune,PvrDirectorsCutKopaPune,English,10:15,Platinum,₹360,27,0
+Maharashtra,Mumbai,PvrIconPhoenixPalladiumLowerParelMumbai,English,10:20,PrimePlus,₹480,30,6
+Maharashtra,Mumbai,PvrIconPhoenixPalladiumLowerParelMumbai,English,10:20,Prime,₹480,12,0
+Ncr,Gurgaon,GurugramPvrDirectorSCutAmbienceMall,English,10:30,Platinum,₹650,40,2
+Ncr,Gurgaon,GurugramPvrDirectorSCutAmbienceMall,English,10:30,PlatinumSuperior,₹650,16,2
+Karnataka,Bengaluru,PvrDirectorsCutForumRexWalkBengaluru,English,11:55,PlatSup,₹800,16,13
+Karnataka,Bengaluru,PvrDirectorsCutForumRexWalkBengaluru,English,11:55,Platinum,₹700,32,9
+Maharashtra,Mumbai,MaisonPvrJioWorldDriveMumbai,English,14:15,Luxe,₹500,24,19
+Ncr,Gurgaon,GurugramPvrDirectorSCutAmbienceMall,English,22:40,PlatinumSuperior,"₹1,400",17,8
+Ncr,Gurgaon,GurugramPvrDirectorSCutAmbienceMall,English,22:40,Platinum,"₹1,200",40,8
