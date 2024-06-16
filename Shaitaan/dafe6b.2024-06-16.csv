@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Pune,MirajCinemasSpineCityMallPune,Hindi,11:30,Silver,₹150,48,0
+Maharashtra,Pune,MirajCinemasSpineCityMallPune,Hindi,11:30,Gold,₹170,177,4
+Maharashtra,Pune,MirajCinemasSpineCityMallPune,Hindi,11:30,PlatinumRecliner,₹270,16,0
+Karnataka,Bengaluru,GopalanCinemasBannerghattaRoad,Hindi,13:15,Gold,₹99,267,267
+Karnataka,Bengaluru,GopalanCinemasBannerghattaRoad,Hindi,13:15,Sofa,₹150,16,16
+Gujarat,Ahmedabad,MirajCityPulseAhmedabad,Hindi,13:45,Gold,₹180,56,6
+Karnataka,Bengaluru,GopalanMallSirsiCircle,Hindi,13:50,Gold,₹150,179,0
+Karnataka,Bengaluru,GopalanMallSirsiCircle,Hindi,13:50,Recliner,₹300,18,0
+Ncr,GreaterNoida,PvrGaurCityGreaterNoida,Hindi,19:30,Prime,₹260,13,3
+Ncr,GreaterNoida,PvrGaurCityGreaterNoida,Hindi,19:30,Classic,₹220,101,16
+UttarPradesh,Lucknow,InoxMegaplexEmeraldLucknow,Hindi,19:30,RoyaleRecliner,₹250,8,0
+UttarPradesh,Lucknow,InoxMegaplexEmeraldLucknow,Hindi,19:30,Club,₹150,136,0
+UttarPradesh,Lucknow,InoxMegaplexEmeraldLucknow,Hindi,19:30,Executive,₹150,34,0
+UttarPradesh,Lucknow,InoxMegaplexEmeraldLucknow,Hindi,19:30,Royale,₹150,84,15
+Karnataka,Bengaluru,GopalanCinemasBannerghattaRoad,Hindi,22:00,Gold,₹120,267,2
+Karnataka,Bengaluru,GopalanCinemasBannerghattaRoad,Hindi,22:00,Sofa,₹170,16,2
