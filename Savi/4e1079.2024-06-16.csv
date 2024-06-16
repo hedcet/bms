@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+UttarPradesh,Lucknow,PvrSuperplexLuluLucknow,Hindi,10:10,Recliner,₹250,16,0
+UttarPradesh,Lucknow,PvrSuperplexLuluLucknow,Hindi,10:10,Classic,₹150,36,0
+UttarPradesh,Lucknow,PvrSuperplexLuluLucknow,Hindi,10:10,ClassicPlus,₹150,54,0
+UttarPradesh,Lucknow,PvrSuperplexLuluLucknow,Hindi,10:10,Prime,₹150,99,26
+Maharashtra,Mumbai,G7MultiplexBandraW,Hindi,17:00,Special,₹150,38,2
+Maharashtra,Mumbai,G7MultiplexBandraW,Hindi,17:00,DressCircle,₹150,9,7
+Bihar,Bhagalpur,FmCineplexBhagalpur,Hindi,20:10,Platinum,₹150,18,4
+Bihar,Bhagalpur,FmCineplexBhagalpur,Hindi,20:10,Gold,₹120,35,0
