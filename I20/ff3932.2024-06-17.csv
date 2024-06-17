@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+AndhraPradesh,Yemmiganur,SivaPriyaCinemaYemmiganur,Telugu,11:00,FirstClass,₹110,165,45
+AndhraPradesh,Yemmiganur,SivaPriyaCinemaYemmiganur,Telugu,14:30,FirstClass,₹110,165,44
+AndhraPradesh,Yemmiganur,SivaPriyaCinemaYemmiganur,Telugu,18:30,FirstClass,₹110,165,40
+AndhraPradesh,Nandyal,SriRamaComplexNandyal,Telugu,18:30,FirstClass,₹110,215,0
+AndhraPradesh,Nandyal,SriRamaComplexNandyal,Telugu,18:30,SecondClass,₹80,85,0
+AndhraPradesh,Nandyal,SriRamaComplexNandyal,Telugu,21:30,FirstClass,₹110,215,0
+AndhraPradesh,Nandyal,SriRamaComplexNandyal,Telugu,21:30,SecondClass,₹80,85,0
+AndhraPradesh,Yemmiganur,SivaPriyaCinemaYemmiganur,Telugu,22:00,FirstClass,₹110,165,42
