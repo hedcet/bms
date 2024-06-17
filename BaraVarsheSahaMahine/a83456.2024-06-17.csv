@@ -1,0 +1,8 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Kalyan,Sm5Kalyan,Marathi,12:45,Premium,₹200,101,22
+Maharashtra,Mumbai,MovieTimeHubGoregaonE,Marathi,15:00,Gold,₹140,63,29
+Maharashtra,Mumbai,PvrTheCapitalMallNalasoparaE,Marathi,16:10,Recliner,₹400,14,7
+Maharashtra,Mumbai,PvrTheCapitalMallNalasoparaE,Marathi,16:10,Prime,₹200,140,53
+Maharashtra,Mumbai,PvrTheCapitalMallNalasoparaE,Marathi,16:10,Classic,₹180,32,0
+Maharashtra,Mumbai,KtVisionCinemaVasaiScreens,Marathi,20:00,Royal,₹130,12,0
+Maharashtra,Mumbai,KtVisionCinemaVasaiScreens,Marathi,20:00,Platinum,₹110,60,0
