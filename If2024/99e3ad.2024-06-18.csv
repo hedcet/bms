@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Mumbai,InoxInsigniaAtAtriaMallWorli,English,10:00,Insignia,₹390,30,4
+Ncr,Gurgaon,PvrAmbienceGurgaon,English,10:15,Platinum,₹400,28,2
+Ncr,Gurgaon,PvrAmbienceGurgaon,English,10:15,PlatinumSuperior,₹400,16,12
+Karnataka,Bengaluru,PvrNexusFormerlyForumKoramangala,English,11:55,Prime,₹210,32,17
+Karnataka,Bengaluru,PvrNexusFormerlyForumKoramangala,English,11:55,Classic,₹190,71,14
+Ncr,Gurgaon,WaveUrbanaPremiumSector67Gurugram,English,13:15,Classic,₹150,48,0
+Ncr,Gurgaon,WaveUrbanaPremiumSector67Gurugram,English,13:15,Premium,₹150,114,0
+TamilNadu,Chennai,InoxLuxePhoenixMarketCityVelachery,English,21:45,Elite,₹140.66,180,23
+TamilNadu,Chennai,InoxLuxePhoenixMarketCityVelachery,English,21:45,Budget,₹66.3,20,0
