@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Mumbai,MovieTimeHubGoregaonE,Hindi,09:45,Gold,₹100,63,29
+Assam,BarpetaRoad,DilipCinemaBarpetaRoad,Hindi,11:00,DilipCircle,₹200,80,0
+Assam,BarpetaRoad,DilipCinemaBarpetaRoad,Hindi,11:00,DilipPopular,₹150,114,0
+Assam,Nagaon,DivyajyotiCinemaNagaon,Hindi,13:00,Balcony,₹150,186,0
+Assam,BarpetaRoad,DilipCinemaBarpetaRoad,Hindi,14:00,DilipCircle,₹200,80,0
+Assam,BarpetaRoad,DilipCinemaBarpetaRoad,Hindi,14:00,DilipPopular,₹150,114,0
+Assam,Nagaon,DivyajyotiCinemaNagaon,Hindi,16:00,Balcony,₹150,186,0
+Karnataka,Mysore,PrabhaTheatreMysuru,Hindi,16:30,Balcony,₹150,209,0
+Karnataka,Mysore,PrabhaTheatreMysuru,Hindi,16:30,SecondClass,₹100,550,7
+Assam,BarpetaRoad,DilipCinemaBarpetaRoad,Hindi,17:00,DilipCircle,₹200,80,0
+Assam,BarpetaRoad,DilipCinemaBarpetaRoad,Hindi,17:00,DilipPopular,₹150,114,0
+Karnataka,Bengaluru,GoverdhanTheatreYeshwantpur,Hindi,19:00,BalconyClass,₹120,307,0
+Karnataka,Bengaluru,GoverdhanTheatreYeshwantpur,Hindi,19:00,SecondClass,₹100,555,0
+Assam,Nagaon,DivyajyotiCinemaNagaon,Hindi,19:00,Balcony,₹150,186,0
+Karnataka,Mysore,PrabhaTheatreMysuru,Hindi,19:30,Balcony,₹150,209,0
+Karnataka,Mysore,PrabhaTheatreMysuru,Hindi,19:30,SecondClass,₹100,550,5
