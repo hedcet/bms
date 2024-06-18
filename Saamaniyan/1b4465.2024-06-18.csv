@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+TamilNadu,Krishnagiri,SriMuruganTheatreKrishnagiri,Tamil,10:00,FirstClass,₹0,464,210
+TamilNadu,Viralimalai,JothiTheatreAC4K71ViralimalaiTrichy,Tamil,11:00,PlatinumClass,₹100,305,38
+TamilNadu,Krishnagiri,SriMuruganTheatreKrishnagiri,Tamil,14:00,FirstClass,₹0,464,210
+TamilNadu,Viralimalai,JothiTheatreAC4K71ViralimalaiTrichy,Tamil,14:30,PlatinumClass,₹100,305,38
+TamilNadu,Krishnagiri,SriMuruganTheatreKrishnagiri,Tamil,18:00,FirstClass,₹0,464,210
+TamilNadu,Viralimalai,JothiTheatreAC4K71ViralimalaiTrichy,Tamil,18:30,PlatinumClass,₹100,305,38
+TamilNadu,Krishnagiri,SriMuruganTheatreKrishnagiri,Tamil,22:00,FirstClass,₹0,464,210
+TamilNadu,Viralimalai,JothiTheatreAC4K71ViralimalaiTrichy,Tamil,22:00,PlatinumClass,₹100,305,38
