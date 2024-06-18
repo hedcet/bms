@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+TamilNadu,Salem,SangeethComplexSalem,Tamil,11:00,Balcony,₹130,157,8
+TamilNadu,Salem,SangeethComplexSalem,Tamil,11:00,FirstClass,₹100,420,32
+TamilNadu,Salem,SangeethComplexSalem,Tamil,14:30,Balcony,₹130,157,8
+TamilNadu,Salem,SangeethComplexSalem,Tamil,14:30,FirstClass,₹100,420,32
+TamilNadu,Salem,SangeethComplexSalem,Tamil,18:30,Balcony,₹130,157,8
+TamilNadu,Salem,SangeethComplexSalem,Tamil,18:30,FirstClass,₹100,420,32
+TamilNadu,Salem,SangeethComplexSalem,Tamil,22:30,Balcony,₹130,157,8
+TamilNadu,Salem,SangeethComplexSalem,Tamil,22:30,FirstClass,₹100,420,32
