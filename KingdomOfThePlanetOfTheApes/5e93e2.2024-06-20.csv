@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Ncr,Noida,PvrSuperplexLogixNoida,English,09:30,Classic,₹300,92,13
+Gujarat,Ahmedabad,PvrAcropolisAhmedabad,Hindi,11:00,Classic,₹300,36,0
+Gujarat,Ahmedabad,PvrAcropolisAhmedabad,Hindi,11:00,Prime,₹300,84,12
+Gujarat,Vadodara,PvrTransCubeVadodara,Hindi,11:15,Recliner,₹270,8,3
+Gujarat,Vadodara,PvrTransCubeVadodara,Hindi,11:15,Classic,₹130,42,0
+Gujarat,Vadodara,PvrTransCubeVadodara,Hindi,11:15,Prime,₹130,99,19
+Maharashtra,Mumbai,InoxMegaplexInorbitMallMalad,English,11:35,Insignia,₹350,38,4
+TamilNadu,Coimbatore,BroadwayCinemasCoimbatore,Tamil,12:20,Elite,₹190.78,145,5
+TamilNadu,Coimbatore,BroadwayCinemasCoimbatore,Tamil,12:20,Economy,₹60.12,15,0
+Ncr,GreaterNoida,PvrGaurCityGreaterNoida,Hindi,16:20,Prime,₹240,13,9
+Ncr,GreaterNoida,PvrGaurCityGreaterNoida,Hindi,16:20,Classic,₹180,106,14
+Ncr,Delhi,PvrVegasDwarka,Hindi,18:20,Prime,₹420,24,13
+Ncr,Delhi,PvrVegasDwarka,Hindi,18:20,Classic,₹400,84,18
+Ncr,GreaterNoida,UsCinemasGalaxyBlueSapphireNoidaExt,Hindi,18:35,Royal,₹300,16,0
+Ncr,GreaterNoida,UsCinemasGalaxyBlueSapphireNoidaExt,Hindi,18:35,RoyalPlus,₹350,42,12
+UttarPradesh,Lucknow,PvrSuperplexLuluLucknow,Hindi,21:55,Prime,₹300,116,25
