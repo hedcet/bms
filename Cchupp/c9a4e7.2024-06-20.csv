@@ -1,0 +1,16 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Gujarat,Ahmedabad,CityGoldSatelliteAhmedabad,Gujarati,09:30,Executive,₹150,123,25
+Gujarat,Petlad,TheLuxCinemaPetlad,Gujarati,10:30,Platinum,₹130,50,0
+Gujarat,Petlad,TheLuxCinemaPetlad,Gujarati,10:30,Gold,₹100,30,0
+Gujarat,Ahmedabad,MirajCityPulseAhmedabad,Gujarati,13:30,Gold,₹150,56,6
+Gujarat,Surat,CherishCinemasKatargam,Gujarati,14:30,Gold,₹110,49,0
+Gujarat,Surat,CherishCinemasKatargam,Gujarati,14:30,Silver,₹110,59,1
+Gujarat,Surat,CherishCinemasKatargam,Gujarati,14:30,Platinum,₹110,30,0
+Gujarat,Surat,CherishCinemasKatargam,Gujarati,14:30,Premium,₹110,30,0
+Gujarat,Petlad,TheLuxCinemaPetlad,Gujarati,16:30,Platinum,₹130,50,0
+Gujarat,Petlad,TheLuxCinemaPetlad,Gujarati,16:30,Gold,₹100,30,0
+Gujarat,Petlad,TheLuxCinemaPetlad,Gujarati,19:30,Platinum,₹130,50,0
+Gujarat,Petlad,TheLuxCinemaPetlad,Gujarati,19:30,Gold,₹100,30,0
+Gujarat,Ahmedabad,WideAngleAhmedabad,Gujarati,20:00,Silver,₹100,76,6
+Gujarat,Ahmedabad,WideAngleAhmedabad,Gujarati,20:00,Gold,₹100,104,9
+Gujarat,Ahmedabad,CityGoldAshramRoad,Gujarati,22:00,Executive,₹170,130,19
