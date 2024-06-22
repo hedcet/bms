@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Karnataka,Bengaluru,PvrOrionUptownOldMadrasRoadBengaluru,Telugu,11:00,Recliner,₹260,12,0
+Karnataka,Bengaluru,PvrOrionUptownOldMadrasRoadBengaluru,Telugu,11:00,Prime,₹150,73,10
+Karnataka,Bengaluru,PvrOrionUptownOldMadrasRoadBengaluru,Telugu,11:00,Classic,₹112,92,0
