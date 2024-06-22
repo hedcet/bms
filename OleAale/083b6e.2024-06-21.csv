@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Aurangabad,GoldieCinemarkAurangabad,Marathi,09:30,Loungers,₹300,9,0
+Maharashtra,Aurangabad,GoldieCinemarkAurangabad,Marathi,09:30,Sofa,₹150,94,0
+Maharashtra,Pune,CinepolisSeasonsMallPune,Marathi,10:55,Normal,₹150,31,0
+Maharashtra,Pune,CinepolisSeasonsMallPune,Marathi,10:55,Executive,₹150,84,0
+Maharashtra,Pune,CinepolisSeasonsMallPune,Marathi,10:55,Premium,₹170,50,10
+Maharashtra,NaviMumbai,CinepolisNexusSeawoodsNaviMumbai,Marathi,11:00,Normal,₹220,32,0
+Maharashtra,NaviMumbai,CinepolisNexusSeawoodsNaviMumbai,Marathi,11:00,Executive,₹240,91,2
+Maharashtra,NaviMumbai,CinepolisNexusSeawoodsNaviMumbai,Marathi,11:00,Premium,₹260,80,3
+Maharashtra,NaviMumbai,CinepolisNexusSeawoodsNaviMumbai,Marathi,11:00,Vip,₹480,14,2
+Maharashtra,Thane,CinepolisVivianaMallThane,Marathi,16:00,Normal,₹240,27,0
+Maharashtra,Thane,CinepolisVivianaMallThane,Marathi,16:00,Executive,₹260,104,5
+Maharashtra,Thane,CinepolisVivianaMallThane,Marathi,16:00,Premium,₹280,46,1
