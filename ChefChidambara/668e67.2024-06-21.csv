@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Karnataka,Bengaluru,PvrGtWorldMallMagadiRoad,Kannada,12:00,Recliner,₹290,12,7
+Karnataka,Bengaluru,PvrGtWorldMallMagadiRoad,Kannada,12:00,Prime,₹170,138,0
+Karnataka,Bengaluru,PvrGtWorldMallMagadiRoad,Kannada,12:00,Classic,₹150,90,0
+Karnataka,Bengaluru,RocklineCinemasJalahalliCross,Kannada,13:00,Gold,₹150,213,19
+Karnataka,Bengaluru,SriSrinivasa4KDolbyDigital71Padmanabanagara,Kannada,14:00,Gold,₹120,516,3
+Karnataka,Bengaluru,SriSrinivasa4KDolbyDigital71Padmanabanagara,Kannada,14:00,Sofa,₹150,15,2
+Karnataka,Shivamogga,BharathCinemasShivamogga,Kannada,15:00,Gold,₹200,110,14
+Karnataka,Shivamogga,BharathCinemasShivamogga,Kannada,15:00,Silver,₹200,48,0
+Karnataka,Shivamogga,BharathCinemasShivamogga,Kannada,15:00,Special,₹150,36,0
+Karnataka,Bengaluru,MirajCinemasTgnLotusEliteMagadiRoad,Kannada,15:30,Silver,₹130,34,30
+Karnataka,Bengaluru,MirajCinemasTgnLotusEliteMagadiRoad,Kannada,15:30,Gold,₹150,173,2
+Karnataka,Bengaluru,MirajCinemasTgnLotusEliteMagadiRoad,Kannada,15:30,PlatinumRecliner,₹250,20,2
+Karnataka,Bengaluru,GopalanMallSirsiCircle,Kannada,17:15,Gold,₹150,179,0
+Karnataka,Bengaluru,GopalanMallSirsiCircle,Kannada,17:15,Recliner,₹300,18,0
+Karnataka,Mysore,InoxCentroMysore,Kannada,19:50,Club,₹112,61,10
+Karnataka,Mysore,InoxCentroMysore,Kannada,19:50,Executive,₹112,65,0
