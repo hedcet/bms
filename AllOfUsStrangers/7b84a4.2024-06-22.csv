@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Mumbai,MaisonInoxJioWorldPlazaBkc,English,13:45,PrimePlus,₹150,88,40
+Maharashtra,Mumbai,MaisonInoxJioWorldPlazaBkc,English,13:45,Prime,₹150,48,0
+Ncr,Delhi,PvrSelectCityWalkDelhi,English,14:30,Recliner,₹300,10,4
+Ncr,Delhi,PvrSelectCityWalkDelhi,English,14:30,ClassicNormal,₹150,120,4
+Ncr,Delhi,PvrSelectCityWalkDelhi,English,14:30,ClaSuperior,₹150,34,11
+Ncr,Gurgaon,InoxWorldMarkGurugram,English,15:20,Royal,₹350,80,12
+Ncr,Gurgaon,InoxWorldMarkGurugram,English,15:20,Club,₹320,78,2
+Ncr,Gurgaon,InoxWorldMarkGurugram,English,15:20,Executive,₹280,26,0
+Ncr,Noida,PvrSuperplexLogixNoida,English,19:35,Classic,₹150,99,8
+Maharashtra,Mumbai,MetroInoxCinemasMarineLines,English,20:00,Club,₹150,144,11
+Maharashtra,Mumbai,MetroInoxCinemasMarineLines,English,20:00,Executive,₹150,36,2
+Maharashtra,Mumbai,MetroInoxCinemasMarineLines,English,20:00,Royale,₹150,57,19
