@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Ncr,Gurgaon,WaveUrbanaPremiumSector67Gurugram,English,11:00,Classic,₹150,48,3
+Ncr,Gurgaon,WaveUrbanaPremiumSector67Gurugram,English,11:00,Premium,₹200,108,3
+Karnataka,Bengaluru,PvrNexusFormerlyForumKoramangala,English,11:55,Prime,₹300,32,26
+Karnataka,Bengaluru,PvrNexusFormerlyForumKoramangala,English,11:55,Classic,₹280,71,22
+TamilNadu,Chennai,InoxLuxePhoenixMarketCityVelachery,English,18:45,Elite,₹140.66,180,78
+TamilNadu,Chennai,InoxLuxePhoenixMarketCityVelachery,English,18:45,Budget,₹66.3,20,5
