@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Assam,Guwahati,CinepolisCentralMallGuwahati,Hindi,11:30,Normal,₹140,24,24
+Assam,Guwahati,CinepolisCentralMallGuwahati,Hindi,11:30,Executive,₹160,116,116
+Assam,Guwahati,CinepolisCentralMallGuwahati,Hindi,11:30,Premium,₹180,56,56
+Assam,Guwahati,CinepolisCentralMallGuwahati,Hindi,11:30,Vip,₹400,4,4
+Ncr,GreaterNoida,UsCinemasGalaxyBlueSapphireNoidaExt,Hindi,14:30,Royal,₹300,16,0
+Ncr,GreaterNoida,UsCinemasGalaxyBlueSapphireNoidaExt,Hindi,14:30,RoyalPlus,₹400,42,0
