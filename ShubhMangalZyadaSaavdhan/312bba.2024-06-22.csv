@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Pune,PvrPhoenixMarketCityPune,Hindi,16:00,Classic,₹150,48,0
+Maharashtra,Pune,PvrPhoenixMarketCityPune,Hindi,16:00,PrimePlus,₹150,17,0
+Maharashtra,Pune,PvrPhoenixMarketCityPune,Hindi,16:00,Prime,₹150,111,15
+Ncr,Gurgaon,GurugramPvrDirectorSCutAmbienceMall,Hindi,20:05,Platinum,₹350,40,0
+Ncr,Gurgaon,GurugramPvrDirectorSCutAmbienceMall,Hindi,20:05,PlatinumSuperior,₹350,17,0
