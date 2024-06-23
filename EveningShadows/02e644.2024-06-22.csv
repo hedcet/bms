@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Mumbai,MetroInoxCinemasMarineLines,Hindi,14:15,Club,₹150,144,3
+Maharashtra,Mumbai,MetroInoxCinemasMarineLines,Hindi,14:15,Executive,₹150,36,2
+Maharashtra,Mumbai,MetroInoxCinemasMarineLines,Hindi,14:15,Royale,₹150,57,9
+Ncr,Noida,PvrSuperplexLogixNoida,Hindi,16:15,Classic,₹150,99,0
