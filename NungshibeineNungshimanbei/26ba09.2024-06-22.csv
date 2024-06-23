@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Manipur,Imphal,KumecsCinemaImphal,Manipuri,13:00,Normal,₹150,30,0
+Manipur,Imphal,KumecsCinemaImphal,Manipuri,13:00,Standard,₹150,38,6
+Manipur,Imphal,KumecsCinemaImphal,Manipuri,13:00,Executive,₹200,39,0
+Manipur,Imphal,KumecsCinemaImphal,Manipuri,13:00,Premium,₹200,34,9
+Manipur,Imphal,KumecsCinemaImphal,Manipuri,13:00,Recliner,₹300,14,0
+Manipur,Imphal,KumecsCinemaImphal,Manipuri,18:55,Normal,₹150,30,0
+Manipur,Imphal,KumecsCinemaImphal,Manipuri,18:55,Standard,₹150,38,25
+Manipur,Imphal,KumecsCinemaImphal,Manipuri,18:55,Executive,₹200,39,0
+Manipur,Imphal,KumecsCinemaImphal,Manipuri,18:55,Premium,₹200,34,17
+Manipur,Imphal,KumecsCinemaImphal,Manipuri,18:55,Recliner,₹300,14,12
