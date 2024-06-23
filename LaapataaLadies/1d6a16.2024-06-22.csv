@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Ncr,GreaterNoida,PvrGaurCityGreaterNoida,Hindi,10:35,Recliner,₹250,14,2
+Ncr,GreaterNoida,PvrGaurCityGreaterNoida,Hindi,10:35,Classic,₹112,172,0
+Ncr,GreaterNoida,PvrGaurCityGreaterNoida,Hindi,10:35,Prime,₹112,50,5
+Ncr,Delhi,PvrVegasDwarka,Hindi,12:10,Classic,₹150,108,4
+Ncr,Delhi,PvrVegasDwarka,Hindi,12:10,Prime,₹150,88,54
+UttarPradesh,Lucknow,InoxMegaplexPhoenixPalassioMall,Hindi,12:25,Club,₹200,54,0
+UttarPradesh,Lucknow,InoxMegaplexPhoenixPalassioMall,Hindi,12:25,Executive,₹200,20,0
+UttarPradesh,Lucknow,InoxMegaplexPhoenixPalassioMall,Hindi,12:25,Royale,₹200,59,21
+Ncr,Noida,PvrSuperplexLogixNoida,Hindi,13:05,Classic,₹150,89,46
+Bihar,Bhagalpur,FmCineplexBhagalpur,Hindi,15:30,Platinum,₹150,18,8
+Bihar,Bhagalpur,FmCineplexBhagalpur,Hindi,15:30,Gold,₹120,35,0
+Bihar,Patna,InoxAshokPatna,Hindi,16:05,Club,₹150,152,31
+Bihar,Patna,InoxAshokPatna,Hindi,16:05,Executive,₹150,36,0
+MadhyaPradesh,Indore,PvrTreasureIslandMallIndore,Hindi,19:40,Recliner,₹350,9,5
+MadhyaPradesh,Indore,PvrTreasureIslandMallIndore,Hindi,19:40,Classic,₹150,26,0
+MadhyaPradesh,Indore,PvrTreasureIslandMallIndore,Hindi,19:40,Prime,₹150,46,21
