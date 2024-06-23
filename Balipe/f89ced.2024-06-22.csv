@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Karnataka,Mangalore,CinepolisCityCentreMallMangaluru,Tulu,10:00,Platinum,₹150,50,0
+Karnataka,Mangalore,CinepolisCityCentreMallMangaluru,Tulu,10:00,Vip,₹250,17,0
+Karnataka,Mangalore,BharathCinemasMangalore,Tulu,18:00,Gold,₹150,43,35
+Karnataka,Mangalore,BharathCinemasMangalore,Tulu,18:00,Silver,₹150,20,0
+Karnataka,Mangalore,BharathCinemasMangalore,Tulu,18:00,Special,₹150,7,0
