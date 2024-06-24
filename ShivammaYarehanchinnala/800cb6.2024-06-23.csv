@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Karnataka,Bengaluru,PvrVaishnaviSapphireMallYeshwanthpur,Kannada,16:45,Recliner,₹350,9,8
+Karnataka,Bengaluru,PvrVaishnaviSapphireMallYeshwanthpur,Kannada,16:45,Classic,₹150,68,62
+Karnataka,Bengaluru,PvrVaishnaviSapphireMallYeshwanthpur,Kannada,16:45,Prime,₹150,54,54
+Karnataka,Bengaluru,PvrGtWorldMallMagadiRoad,Kannada,22:15,Recliner,₹330,16,7
+Karnataka,Bengaluru,PvrGtWorldMallMagadiRoad,Kannada,22:15,Prime,₹190,105,0
+Karnataka,Bengaluru,PvrGtWorldMallMagadiRoad,Kannada,22:15,Classic,₹170,74,0
+Karnataka,Bengaluru,PvrGtWorldMallMagadiRoad,Kannada,22:15,Recliner,₹290,16,15
+Karnataka,Bengaluru,PvrGtWorldMallMagadiRoad,Kannada,22:15,Prime,₹170,105,5
+Karnataka,Bengaluru,PvrGtWorldMallMagadiRoad,Kannada,22:15,Classic,₹150,74,1
