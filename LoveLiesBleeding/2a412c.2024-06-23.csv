@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Assam,Guwahati,PvrCityCentreGuwahati,English,12:00,PrimePlus,₹210,14,14
+Assam,Guwahati,PvrCityCentreGuwahati,English,12:00,Classic,₹150,44,0
+Assam,Guwahati,PvrCityCentreGuwahati,English,12:00,Prime,₹150,107,21
+Punjab,Chandigarh,PvrElanteChandigarh,English,15:50,Recliner,₹650,13,4
+Punjab,Chandigarh,PvrElanteChandigarh,English,15:50,Classic,₹230,153,8
