@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Punjab,Chandigarh,PvrElanteChandigarh,English,15:00,Recliner,₹550,13,0
+Punjab,Chandigarh,PvrElanteChandigarh,English,15:00,Classic,₹180,153,16
+Maharashtra,Pune,PvrDirectorsCutKopaPune,English,15:05,PlatinumSuperior,₹390,13,0
+Maharashtra,Pune,PvrDirectorsCutKopaPune,English,15:05,Platinum,₹350,12,0
