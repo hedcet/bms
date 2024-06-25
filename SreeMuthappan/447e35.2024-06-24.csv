@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kerala,Taliparamba,ClassicCinema4KDolbyAtmosTaliparamba,Malayalam,17:30,Classic,₹150,349,7
+Kerala,Kannur,LibertyCinemaKannurAmbiliTheatre,Malayalam,19:30,Recliner,₹300,21,17
+Kerala,Kannur,LibertyCinemaKannurAmbiliTheatre,Malayalam,19:30,Diamond,₹129.8,227,121
+Kerala,Thalassery,MagicFramesDowntownMallThalassery,Malayalam,20:30,Gold,₹140,131,4
