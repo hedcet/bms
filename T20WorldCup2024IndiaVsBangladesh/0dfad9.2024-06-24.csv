@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Amravati,MirajCinemasTapadiaCityCentreMallAmravati,Hindi,19:15,Silver,₹200,90,0
+Maharashtra,Amravati,MirajCinemasTapadiaCityCentreMallAmravati,Hindi,19:15,Gold,₹220,171,3
+Maharashtra,Amravati,MirajCinemasTapadiaCityCentreMallAmravati,Hindi,19:15,Platinum,₹300,11,11
