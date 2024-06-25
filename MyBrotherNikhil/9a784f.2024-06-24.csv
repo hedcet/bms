@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Karnataka,Bengaluru,InoxMegaplexMallOfAsiaBangalore,Hindi,15:50,Club,₹170,83,8
+Karnataka,Bengaluru,InoxMegaplexMallOfAsiaBangalore,Hindi,15:50,Executive,₹150,55,0
+Ncr,Noida,PvrSuperplexLogixNoida,Hindi,19:35,Classic,₹112,89,11
+Maharashtra,Mumbai,MetroInoxCinemasMarineLines,Hindi,20:00,Club,₹150,144,4
+Maharashtra,Mumbai,MetroInoxCinemasMarineLines,Hindi,20:00,Executive,₹150,36,2
+Maharashtra,Mumbai,MetroInoxCinemasMarineLines,Hindi,20:00,Royale,₹150,57,13
+Punjab,Chandigarh,PvrElanteChandigarh,Hindi,20:35,Recliner,₹550,13,0
+Punjab,Chandigarh,PvrElanteChandigarh,Hindi,20:35,Classic,₹180,153,15
