@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Mumbai,InoxMegaplexInorbitMallMalad,Hindi,09:45,Insignia,₹350,38,5
+Maharashtra,Mumbai,InoxRCityGhatkopar,Hindi,10:20,RoyalRecliner,₹250,13,4
+Maharashtra,Mumbai,InoxRCityGhatkopar,Hindi,10:20,Club,₹140,63,0
+Maharashtra,Mumbai,InoxRCityGhatkopar,Hindi,10:20,Royal,₹140,45,8
+Maharashtra,Mumbai,InoxRCityGhatkopar,Hindi,10:20,Executive,₹110,36,0
+Ncr,Noida,CinepolisModiMallFormerlySpiceMall,Hindi,10:45,Premium,₹130,40,0
+Ncr,Noida,CinepolisModiMallFormerlySpiceMall,Hindi,10:45,Classic,₹130,65,0
+Maharashtra,Mumbai,MetroInoxCinemasMarineLines,Hindi,12:05,Insignia,₹530,47,5
+UttarPradesh,Lucknow,CinepolisOneAwadhCentreLucknow,Hindi,12:35,Normal,₹130,29,0
+UttarPradesh,Lucknow,CinepolisOneAwadhCentreLucknow,Hindi,12:35,Executive,₹130,96,0
+UttarPradesh,Lucknow,CinepolisOneAwadhCentreLucknow,Hindi,12:35,Premium,₹130,54,0
+UttarPradesh,Lucknow,CinepolisOneAwadhCentreLucknow,Hindi,12:35,Vip,₹300,20,0
+Ncr,Noida,CinepolisModiMallFormerlySpiceMall,Hindi,23:50,Premium,₹130,123,5
+Ncr,Noida,CinepolisModiMallFormerlySpiceMall,Hindi,23:50,Classic,₹130,75,0
