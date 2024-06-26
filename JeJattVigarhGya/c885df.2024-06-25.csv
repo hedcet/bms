@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Punjab,Amritsar,PvrSctAmritsar,Punjabi,16:40,Recliner,₹360,12,0
+Punjab,Amritsar,PvrSctAmritsar,Punjabi,16:40,Prime,₹190,60,5
+Punjab,Amritsar,PvrSctAmritsar,Punjabi,16:40,Classic,₹180,105,0
