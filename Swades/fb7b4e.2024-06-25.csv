@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Aurangabad,AbhinayAurangabad,Hindi,15:30,Diamond,₹110,24,4
+Maharashtra,Aurangabad,AbhinayAurangabad,Hindi,15:30,Ruby,₹110,58,58
+Maharashtra,Aurangabad,AbhinayAurangabad,Hindi,15:30,Opel,₹110,58,58
+Maharashtra,Aurangabad,AbhinayAurangabad,Hindi,15:30,Emrald,₹110,183,5
+Maharashtra,Aurangabad,AbhinayAurangabad,Hindi,15:30,Pearl,₹110,294,0
+WestBengal,Kolkata,HindInoxKolkata,Hindi,19:30,Executive,₹150,37,0
+WestBengal,Kolkata,HindInoxKolkata,Hindi,19:30,Premium,₹150,107,0
+WestBengal,Kolkata,HindInoxKolkata,Hindi,19:30,Silver,₹150,193,15
