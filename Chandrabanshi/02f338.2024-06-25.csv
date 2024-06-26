@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Odisha,Asika,CineCaarnivalAsika,Odia,11:30,Diamond,₹150,16,0
+Odisha,Asika,CineCaarnivalAsika,Odia,11:30,Gold,₹130,114,0
+Odisha,Asika,CineCaarnivalAsika,Odia,11:30,Silver,₹100,76,0
+Odisha,Bhubaneshwar,StuteeCineplexxChristieRgbDolbyPlus,Odia,11:40,Recliner,₹249,16,0
+Odisha,Bhubaneshwar,StuteeCineplexxChristieRgbDolbyPlus,Odia,11:40,SofaSlider,₹170,40,0
+Odisha,Bhubaneshwar,StuteeCineplexxChristieRgbDolbyPlus,Odia,11:40,Diamond,₹149,313,7
+Odisha,Bhubaneshwar,StuteeCineplexxChristieRgbDolbyPlus,Odia,11:40,Gold,₹110,60,0
+Odisha,Odisha,BirajaTalkiesJajpurTownOdisha,Odia,15:30,FirstClass,₹100,148,0
+Odisha,Bhubaneshwar,StuteeCineplexxChristieRgbDolbyPlus,Odia,17:05,Recliner,₹249,16,0
+Odisha,Bhubaneshwar,StuteeCineplexxChristieRgbDolbyPlus,Odia,17:05,SofaSlider,₹170,40,7
+Odisha,Bhubaneshwar,StuteeCineplexxChristieRgbDolbyPlus,Odia,17:05,Diamond,₹149,313,0
+Odisha,Bhubaneshwar,StuteeCineplexxChristieRgbDolbyPlus,Odia,17:05,Gold,₹110,60,8
