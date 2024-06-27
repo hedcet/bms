@@ -1,0 +1,11 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+AndhraPradesh,Vizag,InoxVizagChitralayaMall,Telugu,14:50,Executive,₹177,134,10
+Telangana,Hyderabad,InoxSattvaNecklaceMallKavadiguda,Telugu,17:05,Royal,₹250,14,4
+Telangana,Hyderabad,InoxSattvaNecklaceMallKavadiguda,Telugu,17:05,Executive,₹112,126,4
+Telangana,Hyderabad,PvrCentralMallPanjagutta,Telugu,17:10,Classic,₹112,141,2
+Telangana,Hyderabad,InoxAshokaOneMallKukatpallyYJunction,Telugu,17:55,Royale,₹250,13,2
+Telangana,Hyderabad,InoxAshokaOneMallKukatpallyYJunction,Telugu,17:55,Executive,₹112,174,3
+AndhraPradesh,Nandyal,SriRamaComplexNandyal,Telugu,18:30,FirstClass,₹110,215,0
+AndhraPradesh,Nandyal,SriRamaComplexNandyal,Telugu,18:30,SecondClass,₹80,85,0
+AndhraPradesh,Nandyal,SriRamaComplexNandyal,Telugu,21:30,FirstClass,₹110,215,0
+AndhraPradesh,Nandyal,SriRamaComplexNandyal,Telugu,21:30,SecondClass,₹80,85,0
