@@ -1,0 +1,14 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+TamilNadu,Chennai,PvrVrChennaiAnnaNagar,Hindi,14:55,Prime,₹134.99,142,3
+TamilNadu,Chennai,PvrVrChennaiAnnaNagar,Hindi,14:55,Classic,₹63.73,34,2
+Ncr,Gurgaon,InoxWorldMarkGurugram,Hindi,15:20,Royal,₹260,80,10
+Ncr,Gurgaon,InoxWorldMarkGurugram,Hindi,15:20,Club,₹240,78,2
+Ncr,Gurgaon,InoxWorldMarkGurugram,Hindi,15:20,Executive,₹220,26,0
+Kerala,Trivandrum,PvrLuluTrivandrum,Hindi,15:25,Recliner,₹300,7,5
+Kerala,Trivandrum,PvrLuluTrivandrum,Hindi,15:25,Prime,₹180,51,17
+Kerala,Trivandrum,PvrLuluTrivandrum,Hindi,15:25,Classic,₹150,70,0
+Ncr,Gurgaon,GurugramPvrDirectorSCutAmbienceMall,Hindi,20:05,Platinum,₹350,40,0
+Ncr,Gurgaon,GurugramPvrDirectorSCutAmbienceMall,Hindi,20:05,PlatinumSuperior,₹350,17,3
+Ncr,Delhi,PvrSelectCityWalkDelhi,Hindi,20:15,Recliner,₹300,10,3
+Ncr,Delhi,PvrSelectCityWalkDelhi,Hindi,20:15,ClassicNormal,₹150,120,2
+Ncr,Delhi,PvrSelectCityWalkDelhi,Hindi,20:15,ClaSuperior,₹150,34,0
