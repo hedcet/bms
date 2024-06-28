@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Punjab,Ludhiana,CinepolisMbdNeopolisMallLudhiana,Punjabi,12:10,Normal,₹180,66,0
+Punjab,Ludhiana,CinepolisMbdNeopolisMallLudhiana,Punjabi,12:10,Executive,₹200,110,0
+Punjab,Ludhiana,CinepolisMbdNeopolisMallLudhiana,Punjabi,12:10,Premium,₹210,138,10
+Punjab,Ludhiana,CinepolisMbdNeopolisMallLudhiana,Punjabi,12:10,Vip,₹450,16,4
