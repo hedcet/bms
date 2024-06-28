@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+WestBengal,Dubrajpur,BinapaniTalkiesDubrajpur,Bhojpuri,16:00,Balcony,₹50,200,0
+WestBengal,Dubrajpur,BinapaniTalkiesDubrajpur,Bhojpuri,16:00,RearStall,₹40,500,0
+WestBengal,Dubrajpur,BinapaniTalkiesDubrajpur,Bhojpuri,19:00,Balcony,₹50,200,0
+WestBengal,Dubrajpur,BinapaniTalkiesDubrajpur,Bhojpuri,19:00,RearStall,₹40,500,0
