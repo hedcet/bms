@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Gujarat,Vadodara,CinepolisInorbitVadodaraMall,Hindi,19:30,Normal,₹280,24,0
+Gujarat,Vadodara,CinepolisInorbitVadodaraMall,Hindi,19:30,Premium,₹280,38,2
+Gujarat,Vadodara,CinepolisInorbitVadodaraMall,Hindi,19:30,Executive,₹280,93,0
