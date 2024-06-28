@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Ncr,Gurgaon,LegendCinemaLoungesMallFiftyOneGurgaon,English,09:30,BedLounger,₹599,21,0
+Ncr,Gurgaon,LegendCinemaLoungesMallFiftyOneGurgaon,English,09:30,BedloungerSuperior,₹599,15,0
+JammuAndKashmir,Srinagar,InoxSrinagarShivpora,English,09:50,RoyaleClub,₹220,41,0
+JammuAndKashmir,Srinagar,InoxSrinagarShivpora,English,09:50,Royale,₹170,67,0
+JammuAndKashmir,Srinagar,InoxSrinagarShivpora,English,09:50,Club,₹150,69,0
+JammuAndKashmir,Srinagar,InoxSrinagarShivpora,English,09:50,Executive,₹130,46,0
+Maharashtra,Pune,ESquareEliteXionMallHinjawadiPune,English,14:00,Recliner,₹200,10,0
+Maharashtra,Pune,ESquareEliteXionMallHinjawadiPune,English,14:00,SofaPlatinum,₹160,36,0
+Maharashtra,Pune,ESquareEliteXionMallHinjawadiPune,English,14:00,SofaGold,₹140,9,0
+Ncr,Gurgaon,LegendCinemaLoungesMallFiftyOneGurgaon,English,14:00,BedLounger,₹799,21,0
+Ncr,Gurgaon,LegendCinemaLoungesMallFiftyOneGurgaon,English,14:00,BedloungerSuperior,₹799,15,0
+Ncr,Gurgaon,LegendCinemaLoungesMallFiftyOneGurgaon,English,20:15,BedLounger,₹899,21,0
+Ncr,Gurgaon,LegendCinemaLoungesMallFiftyOneGurgaon,English,20:15,BedloungerSuperior,₹899,15,0
+Maharashtra,Pune,ESquareEliteXionMallHinjawadiPune,English,20:30,Recliner,₹250,10,0
+Maharashtra,Pune,ESquareEliteXionMallHinjawadiPune,English,20:30,SofaPlatinum,₹180,36,2
+Maharashtra,Pune,ESquareEliteXionMallHinjawadiPune,English,20:30,SofaGold,₹160,9,0
