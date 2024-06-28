@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Rajasthan,Jaipur,PvrMallOfJaipur,Hindi,13:40,Recliner,₹300,8,3
+Rajasthan,Jaipur,PvrMallOfJaipur,Hindi,13:40,PrimePlus,₹180,26,25
+Rajasthan,Jaipur,PvrMallOfJaipur,Hindi,13:40,Classic,₹150,20,0
+Rajasthan,Jaipur,PvrMallOfJaipur,Hindi,13:40,Prime,₹150,43,5
