@@ -1,0 +1,8 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Sikkim,Gangtok,DenzongCinemaGangtok,Nepali,14:15,UpperCircle,₹300,158,0
+Sikkim,Gangtok,DenzongCinemaGangtok,Nepali,14:15,RearCircle,₹200,270,0
+Sikkim,Gangtok,DenzongCinemaGangtok,Nepali,17:30,UpperCircle,₹300,158,3
+Sikkim,Gangtok,DenzongCinemaGangtok,Nepali,17:30,RearCircle,₹200,270,0
+Sikkim,Melli,DazomCinemaMelli,Nepali,20:00,Executive,₹250,64,6
+Sikkim,Melli,DazomCinemaMelli,Nepali,20:00,Rear,₹250,64,0
+Sikkim,Melli,DazomCinemaMelli,Nepali,20:00,Front,₹250,22,0
