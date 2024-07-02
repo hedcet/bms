@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Telangana,Hyderabad,AsianMCubeMallAttapur,Hindi,13:30,Recliners,₹200,14,4
+Telangana,Hyderabad,AsianMCubeMallAttapur,Hindi,13:30,Gold,₹150,310,148
+Telangana,Hyderabad,AmbCinemasGachibowli,Hindi,13:40,Platinum,₹350,10,10
+Telangana,Hyderabad,AmbCinemasGachibowli,Hindi,13:40,Gold,₹250,138,42
+Telangana,Hyderabad,AmbCinemasGachibowli,Hindi,13:40,Loungers,₹250,14,0
+Telangana,Hyderabad,InoxGvkOneBanjaraHills,Hindi,15:40,Royal,₹250,9,4
+Telangana,Hyderabad,InoxGvkOneBanjaraHills,Hindi,15:40,Executive,₹112,208,53
+Telangana,Hyderabad,InoxMaheshwariParmeshwariMallKachiguda,Hindi,16:05,Executive,₹112,236,16

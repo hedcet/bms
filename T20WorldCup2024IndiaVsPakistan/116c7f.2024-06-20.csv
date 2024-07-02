@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+UttarPradesh,Badaun,DhishoomCinemasCityMallBudaun,Hindi,20:00,Gold,₹150,64,1
+UttarPradesh,Badaun,DhishoomCinemasCityMallBudaun,Hindi,20:00,Platinum,₹200,84,8
+UttarPradesh,Badaun,DhishoomCinemasCityMallBudaun,Hindi,20:00,Sofa,₹250,23,0

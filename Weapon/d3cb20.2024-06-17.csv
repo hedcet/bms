@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+TamilNadu,Chennai,RohiniSilverScreensKoyambedu,Tamil,10:00,GoldStar,₹160,315,64
+TamilNadu,Kanchipuram,ArunaCinemasRgbLaser4KAcDolbyAtmos,Tamil,11:00,Platinum,₹120,81,63
+TamilNadu,Kanchipuram,ArunaCinemasRgbLaser4KAcDolbyAtmos,Tamil,11:00,Diamond,₹120,219,9
+TamilNadu,Chennai,RohiniSilverScreensKoyambedu,Tamil,16:00,GoldStar,₹160,315,71
+TamilNadu,Chennai,RohiniSilverScreensKoyambedu,Tamil,22:30,GoldStar,₹160,315,67

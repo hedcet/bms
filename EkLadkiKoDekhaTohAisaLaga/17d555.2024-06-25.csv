@@ -1,0 +1,15 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Karnataka,Bengaluru,PvrNexusFormerlyForumKoramangala,Hindi,13:00,Recliner,₹300,12,0
+Karnataka,Bengaluru,PvrNexusFormerlyForumKoramangala,Hindi,13:00,Classic,₹150,109,0
+Karnataka,Bengaluru,PvrNexusFormerlyForumKoramangala,Hindi,13:00,Prime,₹150,57,1
+Kerala,Kochi,PvrForumMallKochi,Hindi,14:50,Classic,₹129,22,0
+Kerala,Kochi,PvrForumMallKochi,Hindi,14:50,Elite,₹129,85,0
+TamilNadu,Chennai,PvrEscapeExpressAvenueMall,Hindi,18:35,Elite,₹134.99,108,7
+TamilNadu,Chennai,PvrEscapeExpressAvenueMall,Hindi,18:35,Budget,₹63.73,12,0
+Telangana,Hyderabad,PvrIconHitechMadhapurHyderabad,Hindi,19:00,Recliner,₹250,11,0
+Telangana,Hyderabad,PvrIconHitechMadhapurHyderabad,Hindi,19:00,Classic,₹112,179,17
+Assam,Guwahati,PvrCityCentreGuwahati,Hindi,19:40,Classic,₹112,44,0
+Assam,Guwahati,PvrCityCentreGuwahati,Hindi,19:40,Prime,₹112,107,15
+Assam,Guwahati,PvrCityCentreGuwahati,Hindi,19:40,PrimePlus,₹112,14,0
+Maharashtra,Pune,PvrDirectorsCutKopaPune,Hindi,20:30,PlatinumSuperior,₹390,13,0
+Maharashtra,Pune,PvrDirectorsCutKopaPune,Hindi,20:30,Platinum,₹350,12,2

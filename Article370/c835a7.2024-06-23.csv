@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Rajasthan,Jodhpur,NasraniCinemaJodhpur,Hindi,22:15,Lounge,₹50,13,13
+Rajasthan,Jodhpur,NasraniCinemaJodhpur,Hindi,22:15,Platinum,₹50,14,14
+Rajasthan,Jodhpur,NasraniCinemaJodhpur,Hindi,22:15,Gold,₹50,137,137
+Rajasthan,Jodhpur,NasraniCinemaJodhpur,Hindi,22:30,Lounge,₹50,14,14
+Rajasthan,Jodhpur,NasraniCinemaJodhpur,Hindi,22:30,Platinum,₹50,14,14
+Rajasthan,Jodhpur,NasraniCinemaJodhpur,Hindi,22:30,Gold,₹50,156,156
+Rajasthan,Jodhpur,NasraniCinemaJodhpur,Hindi,23:35,Lounge,₹50,14,14
+Rajasthan,Jodhpur,NasraniCinemaJodhpur,Hindi,23:35,Platinum,₹50,14,14
+Rajasthan,Jodhpur,NasraniCinemaJodhpur,Hindi,23:35,Gold,₹50,153,153
+Rajasthan,Jodhpur,NasraniCinemaJodhpur,Hindi,23:40,Lounge,₹50,13,13
+Rajasthan,Jodhpur,NasraniCinemaJodhpur,Hindi,23:40,Platinum,₹50,14,14
+Rajasthan,Jodhpur,NasraniCinemaJodhpur,Hindi,23:40,Gold,₹50,138,138

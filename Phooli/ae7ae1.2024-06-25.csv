@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Uttarakhand,Almora,RcmCinemaAlmora,Hindi,13:10,Silver,₹130,52,52
+Uttarakhand,Almora,RcmCinemaAlmora,Hindi,13:10,Gold,₹130,39,39
+Uttarakhand,Almora,RcmCinemaAlmora,Hindi,13:10,Platinum,₹130,15,15
+Uttarakhand,Dehradun,SilverCityMultiplexRajpurRoad,Hindi,17:00,Silver,₹100,68,0
+Uttarakhand,Dehradun,SilverCityMultiplexRajpurRoad,Hindi,17:00,Gold,₹150,137,28
+Uttarakhand,Dehradun,SilverCityMultiplexRajpurRoad,Hindi,17:00,Platinum,₹200,15,0

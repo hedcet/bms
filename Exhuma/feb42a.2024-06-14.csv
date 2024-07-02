@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Karnataka,Bengaluru,CinepolisNexusShantiniketanBengaluru,Korean,13:25,Normal,₹200,24,0
+Karnataka,Bengaluru,CinepolisNexusShantiniketanBengaluru,Korean,13:25,Executive,₹200,24,0
+Karnataka,Bengaluru,CinepolisNexusShantiniketanBengaluru,Korean,13:25,Premium,₹200,80,6
+Karnataka,Bengaluru,CinepolisNexusShantiniketanBengaluru,Korean,13:25,Vip,₹400,10,3
+TamilNadu,Chennai,InoxLuxePhoenixMarketCityVelachery,Korean,15:00,Elite,₹140.66,134,29
+TamilNadu,Chennai,InoxLuxePhoenixMarketCityVelachery,Korean,15:00,Budget,₹66.3,24,10
+Telangana,Hyderabad,PvrNexusMallKukatpallyHyderabad,Korean,19:35,Recliner,₹250,9,8
+Telangana,Hyderabad,PvrNexusMallKukatpallyHyderabad,Korean,19:35,Classic,₹150,135,40

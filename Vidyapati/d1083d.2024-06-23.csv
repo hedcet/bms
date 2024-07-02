@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Bihar,Samastipur,MuktaA2CinemasVinussOneMallSamastipur,Maithili,16:00,Recliner,₹150,6,4
+Bihar,Samastipur,MuktaA2CinemasVinussOneMallSamastipur,Maithili,16:00,Lounger,₹110,8,0
+Bihar,Samastipur,MuktaA2CinemasVinussOneMallSamastipur,Maithili,16:00,SofaSeat,₹110,52,22

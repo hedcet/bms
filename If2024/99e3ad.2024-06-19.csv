@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Ncr,Gurgaon,PvrAmbienceGurgaon,English,10:15,Platinum,₹400,28,3
+Ncr,Gurgaon,PvrAmbienceGurgaon,English,10:15,PlatinumSuperior,₹400,16,14
+Karnataka,Bengaluru,PvrNexusFormerlyForumKoramangala,English,11:55,Prime,₹210,32,11
+Karnataka,Bengaluru,PvrNexusFormerlyForumKoramangala,English,11:55,Classic,₹190,71,0
+TamilNadu,Chennai,InoxLuxePhoenixMarketCityVelachery,English,21:45,Elite,₹140.66,180,10
+TamilNadu,Chennai,InoxLuxePhoenixMarketCityVelachery,English,21:45,Budget,₹66.3,20,1

@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Ncr,Gurgaon,InoxWorldMarkGurugram,English,19:30,RoyalRecliner,₹370,8,0
+Ncr,Gurgaon,InoxWorldMarkGurugram,English,19:30,Royal,₹250,45,10
+Ncr,Gurgaon,InoxWorldMarkGurugram,English,19:30,Club,₹230,65,0
+Ncr,Gurgaon,InoxWorldMarkGurugram,English,19:30,Executive,₹200,26,0

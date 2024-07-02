@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+TamilNadu,Chennai,PvrVrChennaiAnnaNagar,Malayalam,14:55,Prime,₹134.99,142,39
+TamilNadu,Chennai,PvrVrChennaiAnnaNagar,Malayalam,14:55,Classic,₹63.73,34,0
+Karnataka,Bengaluru,InoxMegaplexMallOfAsiaBangalore,Malayalam,15:50,Club,₹170,83,11
+Karnataka,Bengaluru,InoxMegaplexMallOfAsiaBangalore,Malayalam,15:50,Executive,₹150,55,0

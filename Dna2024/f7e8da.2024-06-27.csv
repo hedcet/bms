@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kerala,Thrissur,RamdasMovieHouseThrissur,Malayalam,12:00,DiamondCircle,₹150,51,7
+Kerala,Thrissur,RamdasMovieHouseThrissur,Malayalam,12:00,PearlCircle,₹110,245,31
+Kerala,Palakkad,NewAromaTheatrePalakkad,Malayalam,14:15,PlatinumCircle,₹129,200,0
+Kerala,Palakkad,NewAromaTheatrePalakkad,Malayalam,14:15,DiamondCircle,₹110,229,0
+Kerala,Trivandrum,KairaliSreeNilaRgbLaser4KDolbyAtmos,Malayalam,14:30,Platinum,₹125,259,45
+Kerala,Kasaragod,MoviemaxCircleKasaragod,Malayalam,16:30,Max2,₹129.8,195,0

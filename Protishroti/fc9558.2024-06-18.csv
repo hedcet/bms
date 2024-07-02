@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Assam,Jorhat,EleyeMultiplexJorhat,Assamese,19:00,Executive,₹140,48,5
+Assam,Jorhat,EleyeMultiplexJorhat,Assamese,19:00,Club,₹220,60,22
+Assam,Jorhat,EleyeMultiplexJorhat,Assamese,19:00,Gold,₹350,17,2

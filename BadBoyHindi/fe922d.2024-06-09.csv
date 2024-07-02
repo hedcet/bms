@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+UttarPradesh,Hapur,NyCinemasOmPalaceHapur,Hindi,15:45,Recliner,₹350,18,0
+UttarPradesh,Hapur,NyCinemasOmPalaceHapur,Hindi,15:45,Prime,₹200,208,0
+UttarPradesh,Hapur,NyCinemasOmPalaceHapur,Hindi,15:45,Classic,₹180,104,0
+UttarPradesh,Hapur,NyCinemasOmPalaceHapur,Hindi,22:05,Recliner,₹350,12,0
+UttarPradesh,Hapur,NyCinemasOmPalaceHapur,Hindi,22:05,Prime,₹200,166,0
+UttarPradesh,Hapur,NyCinemasOmPalaceHapur,Hindi,22:05,Classic,₹180,62,0

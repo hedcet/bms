@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Ncr,Delhi,PvrImaxWithLaserPriyaDelhi,Hindi,18:00,Classic,₹150,58,2
+Ncr,Delhi,PvrImaxWithLaserPriyaDelhi,Hindi,18:00,Prime,₹150,119,88
+Ncr,Delhi,PvrImaxWithLaserPriyaDelhi,Hindi,18:00,Recliner,₹150,16,16
+Ncr,Delhi,PvrImaxWithLaserPriyaDelhi,Hindi,18:00,Superior,₹150,123,116
+Punjab,Chandigarh,PvrElanteChandigarh,Hindi,20:35,Recliner,₹650,13,4
+Punjab,Chandigarh,PvrElanteChandigarh,Hindi,20:35,Classic,₹230,153,16

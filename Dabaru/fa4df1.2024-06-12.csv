@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+WestBengal,Kolkata,InoxStarMallMadhyamgram,Bengali,13:50,Royal,₹200,73,10
+WestBengal,Kolkata,InoxStarMallMadhyamgram,Bengali,13:50,Club,₹160,92,0
+WestBengal,Kolkata,InoxStarMallMadhyamgram,Bengali,13:50,Executive,₹160,32,0
+WestBengal,Kolkata,PvrDiamondPlazaJessoreKolkata,Bengali,14:05,Recliner,₹390,14,2
+WestBengal,Kolkata,PvrDiamondPlazaJessoreKolkata,Bengali,14:05,Prime,₹260,20,3
+WestBengal,Kolkata,PvrDiamondPlazaJessoreKolkata,Bengali,14:05,Classic,₹160,168,23
+WestBengal,Alipurduar,ChhotuMaharajCineCafeAlipurduarWestBengal,Bengali,14:30,Platinum,₹120,40,0
+WestBengal,Alipurduar,ChhotuMaharajCineCafeAlipurduarWestBengal,Bengali,14:30,Gold,₹70,59,0
+WestBengal,Alipurduar,ChhotuMaharajCineCafeAlipurduarWestBengal,Bengali,14:30,Silver,₹50,48,0
+WestBengal,Kolkata,CinepolisAcropolisMallKolkata,Bengali,15:30,Normal,₹99,42,0
+WestBengal,Kolkata,CinepolisAcropolisMallKolkata,Bengali,15:30,Executive,₹99,135,16
+WestBengal,Kolkata,CinepolisAcropolisMallKolkata,Bengali,15:30,Premium,₹99,75,24
+WestBengal,Kolkata,NandanKolkata,Bengali,16:10,Normal,₹30,165,165
+WestBengal,Kolkata,NazrultirthaCinemaScreen3Kolkata,Bengali,16:45,Gold,₹130,30,6
+WestBengal,Kolkata,NazrultirthaCinemaScreen3Kolkata,Bengali,16:45,Recliner,₹150,8,2
+WestBengal,Kolkata,NazrultirthaCinemaScreen3Kolkata,Bengali,16:45,Sofa,₹130,12,0

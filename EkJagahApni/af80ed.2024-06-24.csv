@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Ncr,Delhi,PvrSelectCityWalkDelhi,Hindi,14:30,Recliner,₹300,10,0
+Ncr,Delhi,PvrSelectCityWalkDelhi,Hindi,14:30,ClassicNormal,₹150,120,31
+Ncr,Delhi,PvrSelectCityWalkDelhi,Hindi,14:30,ClaSuperior,₹150,34,8
+Ncr,Gurgaon,InoxWorldMarkGurugram,Hindi,15:20,Royal,₹250,80,15
+Ncr,Gurgaon,InoxWorldMarkGurugram,Hindi,15:20,Club,₹230,78,0
+Ncr,Gurgaon,InoxWorldMarkGurugram,Hindi,15:20,Executive,₹210,26,0
+Ncr,Gurgaon,GurugramPvrDirectorSCutAmbienceMall,Hindi,20:05,Platinum,₹350,40,1
+Ncr,Gurgaon,GurugramPvrDirectorSCutAmbienceMall,Hindi,20:05,PlatinumSuperior,₹350,17,0

@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+WestBengal,Kolkata,NandanKolkata,Bengali,18:30,Normal,₹30,165,165
+WestBengal,Kolkata,NazrultirthaCinemaKolkata,Bengali,20:20,Silver,₹130,26,0
+WestBengal,Kolkata,NazrultirthaCinemaKolkata,Bengali,20:20,Gold,₹150,75,14

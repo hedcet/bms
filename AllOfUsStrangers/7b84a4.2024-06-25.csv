@@ -1,0 +1,10 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Pune,PvrDirectorsCutKopaPune,English,15:05,PlatinumSuperior,₹390,13,3
+Maharashtra,Pune,PvrDirectorsCutKopaPune,English,15:05,Platinum,₹350,12,0
+Maharashtra,Pune,PvrPhoenixMarketCityPune,English,16:00,Classic,₹112,48,0
+Maharashtra,Pune,PvrPhoenixMarketCityPune,English,16:00,PrimePlus,₹112,17,5
+Maharashtra,Pune,PvrPhoenixMarketCityPune,English,16:00,Prime,₹112,111,2
+Ncr,Delhi,DelhiPvrDirectorSCutAmbienceMall,English,19:55,Platinum,₹350,27,14
+Ncr,Delhi,DelhiPvrDirectorSCutAmbienceMall,English,19:55,PlatSuperior,₹350,19,11
+Maharashtra,Mumbai,MaisonInoxJioWorldPlazaBkc,English,20:35,PrimePlus,₹112,88,28
+Maharashtra,Mumbai,MaisonInoxJioWorldPlazaBkc,English,20:35,Prime,₹112,48,0

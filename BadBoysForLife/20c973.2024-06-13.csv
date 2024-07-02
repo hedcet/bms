@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Chhattisgarh,Kanker,CineworldCityCenterKanker,Hindi,15:45,Silver,₹100,72,0
+Chhattisgarh,Kanker,CineworldCityCenterKanker,Hindi,15:45,Gold,₹100,148,5
+Chhattisgarh,Kanker,CineworldCityCenterKanker,Hindi,15:45,Platinum,₹150,44,0

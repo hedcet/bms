@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+UttarPradesh,Lucknow,InoxMegaplexPhoenixPalassioMall,Hindi,21:00,Club,₹250,48,0
+UttarPradesh,Lucknow,InoxMegaplexPhoenixPalassioMall,Hindi,21:00,Executive,₹250,24,18
+UttarPradesh,Lucknow,InoxMegaplexPhoenixPalassioMall,Hindi,21:00,Royale,₹250,63,18
+UttarPradesh,Lucknow,PvrSuperplexLuluLucknow,Hindi,22:20,Prime,₹300,116,26

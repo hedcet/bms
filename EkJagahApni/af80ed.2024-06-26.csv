@@ -1,0 +1,14 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Telangana,Hyderabad,PvrIrrumManzilHyderabad,Hindi,17:00,Recliner,₹250,10,1
+Telangana,Hyderabad,PvrIrrumManzilHyderabad,Hindi,17:00,Classic,₹112,158,19
+TamilNadu,Chennai,PvrVrChennaiAnnaNagar,Hindi,18:30,Prime,₹134.99,112,28
+TamilNadu,Chennai,PvrVrChennaiAnnaNagar,Hindi,18:30,Classic,₹63.73,24,0
+Kerala,Trivandrum,PvrLuluTrivandrum,Hindi,19:05,Recliner,₹300,7,5
+Kerala,Trivandrum,PvrLuluTrivandrum,Hindi,19:05,Prime,₹180,51,17
+Kerala,Trivandrum,PvrLuluTrivandrum,Hindi,19:05,Classic,₹150,70,0
+Ncr,Delhi,DelhiPvrDirectorSCutAmbienceMall,Hindi,19:55,Platinum,₹350,27,2
+Ncr,Delhi,DelhiPvrDirectorSCutAmbienceMall,Hindi,19:55,PlatSuperior,₹350,19,2
+Maharashtra,Mumbai,MaisonInoxJioWorldPlazaBkc,Hindi,20:35,PrimePlus,₹112,88,23
+Maharashtra,Mumbai,MaisonInoxJioWorldPlazaBkc,Hindi,20:35,Prime,₹112,48,0
+Karnataka,Bengaluru,InoxMegaplexMallOfAsiaBangalore,Hindi,21:30,Club,₹170,83,11
+Karnataka,Bengaluru,InoxMegaplexMallOfAsiaBangalore,Hindi,21:30,Executive,₹150,55,1

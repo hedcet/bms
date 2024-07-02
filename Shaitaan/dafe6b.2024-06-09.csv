@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Ncr,Noida,PvrSuperplexLogixNoida,Hindi,10:05,Classic,₹150,89,18
+WestBengal,Siliguri,CarnivalCinemasSiliguri,Hindi,13:15,Special,₹110,28,0
+WestBengal,Siliguri,CarnivalCinemasSiliguri,Hindi,13:15,Executive,₹110,188,5
+MadhyaPradesh,Ratlam,ShriLokendraTalkiesLaserProjectorRatlam,Hindi,21:00,Vip,₹100,130,0
+MadhyaPradesh,Ratlam,ShriLokendraTalkiesLaserProjectorRatlam,Hindi,21:00,Balcony,₹100,112,0

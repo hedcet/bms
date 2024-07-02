@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Punjab,Jalandhar,PvrMbdJalandhar,Hindi,19:30,Recliner,₹700,11,0
+Punjab,Jalandhar,PvrMbdJalandhar,Hindi,19:30,Classic,₹350,90,0
+Punjab,Jalandhar,PvrMbdJalandhar,Hindi,19:30,ClassicPlus,₹350,162,18
+Punjab,Jalandhar,PvrMbdJalandhar,Hindi,19:30,Prime,₹350,11,0

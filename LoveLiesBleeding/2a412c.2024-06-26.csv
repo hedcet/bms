@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Pune,PvrPhoenixMarketCityPune,English,16:00,Classic,₹112,48,0
+Maharashtra,Pune,PvrPhoenixMarketCityPune,English,16:00,PrimePlus,₹112,17,1
+Maharashtra,Pune,PvrPhoenixMarketCityPune,English,16:00,Prime,₹112,111,20

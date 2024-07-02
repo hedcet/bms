@@ -1,0 +1,17 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+MadhyaPradesh,Ashoknagar,VivekTalkiesAshoknagar,Hindi,12:15,Diamond,₹100,127,2
+MadhyaPradesh,Ashoknagar,VivekTalkiesAshoknagar,Hindi,12:15,Dc,₹60,373,0
+MadhyaPradesh,Guna,JagatTalkiesGuna,Hindi,12:15,Diamond,₹100,323,1
+MadhyaPradesh,Guna,JagatTalkiesGuna,Hindi,12:15,DressCircle,₹60,200,5
+MadhyaPradesh,Ashoknagar,VivekTalkiesAshoknagar,Hindi,15:15,Diamond,₹100,127,0
+MadhyaPradesh,Ashoknagar,VivekTalkiesAshoknagar,Hindi,15:15,Dc,₹60,373,2
+MadhyaPradesh,Guna,JagatTalkiesGuna,Hindi,15:15,Diamond,₹100,323,0
+MadhyaPradesh,Guna,JagatTalkiesGuna,Hindi,15:15,DressCircle,₹60,200,1
+MadhyaPradesh,Ashoknagar,VivekTalkiesAshoknagar,Hindi,18:15,Diamond,₹100,127,0
+MadhyaPradesh,Ashoknagar,VivekTalkiesAshoknagar,Hindi,18:15,Dc,₹60,373,0
+MadhyaPradesh,Guna,JagatTalkiesGuna,Hindi,18:15,Diamond,₹100,323,0
+MadhyaPradesh,Guna,JagatTalkiesGuna,Hindi,18:15,DressCircle,₹60,200,1
+MadhyaPradesh,Ashoknagar,VivekTalkiesAshoknagar,Hindi,21:15,Diamond,₹100,127,0
+MadhyaPradesh,Ashoknagar,VivekTalkiesAshoknagar,Hindi,21:15,Dc,₹60,373,1
+MadhyaPradesh,Guna,JagatTalkiesGuna,Hindi,21:15,Diamond,₹100,323,0
+MadhyaPradesh,Guna,JagatTalkiesGuna,Hindi,21:15,DressCircle,₹60,200,1

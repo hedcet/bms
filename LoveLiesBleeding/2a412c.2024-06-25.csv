@@ -1,0 +1,14 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Mumbai,MetroInoxCinemasMarineLines,English,14:15,Club,₹150,144,4
+Maharashtra,Mumbai,MetroInoxCinemasMarineLines,English,14:15,Executive,₹150,36,2
+Maharashtra,Mumbai,MetroInoxCinemasMarineLines,English,14:15,Royale,₹150,57,8
+TamilNadu,Chennai,PvrVrChennaiAnnaNagar,English,14:55,Prime,₹140.66,142,2
+TamilNadu,Chennai,PvrVrChennaiAnnaNagar,English,14:55,Classic,₹66.3,34,1
+Kerala,Trivandrum,PvrLuluTrivandrum,English,15:25,Recliner,₹300,7,5
+Kerala,Trivandrum,PvrLuluTrivandrum,English,15:25,Prime,₹180,51,17
+Kerala,Trivandrum,PvrLuluTrivandrum,English,15:25,Classic,₹150,70,1
+Karnataka,Bengaluru,InoxMegaplexMallOfAsiaBangalore,English,15:50,Club,₹170,83,0
+Karnataka,Bengaluru,InoxMegaplexMallOfAsiaBangalore,English,15:50,Executive,₹150,55,1
+Ncr,Noida,PvrSuperplexLogixNoida,English,16:15,Classic,₹112,99,16
+Ncr,Gurgaon,GurugramPvrDirectorSCutAmbienceMall,English,20:05,Platinum,₹350,40,1
+Ncr,Gurgaon,GurugramPvrDirectorSCutAmbienceMall,English,20:05,PlatinumSuperior,₹350,17,4

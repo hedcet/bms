@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Aurangabad,GoldieCinemarkAurangabad,Marathi,09:30,Loungers,₹300,9,0
+Maharashtra,Aurangabad,GoldieCinemarkAurangabad,Marathi,09:30,Sofa,₹150,94,8
+Maharashtra,Pune,CinepolisSeasonsMallPune,Marathi,09:55,Normal,₹150,31,0
+Maharashtra,Pune,CinepolisSeasonsMallPune,Marathi,09:55,Executive,₹150,84,10
+Maharashtra,Pune,CinepolisSeasonsMallPune,Marathi,09:55,Premium,₹170,50,7
+Maharashtra,Kalyan,Sm5Kalyan,Marathi,12:30,Premium,₹180,101,27

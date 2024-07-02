@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Maharashtra,Mumbai,MaisonInoxJioWorldPlazaBkc,Hindi,14:30,PrimePlus,₹112,88,3
+Maharashtra,Mumbai,MaisonInoxJioWorldPlazaBkc,Hindi,14:30,Prime,₹112,48,0
+Ncr,Delhi,DelhiPvrDirectorSCutAmbienceMall,Hindi,14:50,Platinum,₹350,27,0
+Ncr,Delhi,DelhiPvrDirectorSCutAmbienceMall,Hindi,14:50,PlatSuperior,₹350,19,11
+Punjab,Chandigarh,PvrElanteChandigarh,Hindi,20:35,Recliner,₹550,13,1
+Punjab,Chandigarh,PvrElanteChandigarh,Hindi,20:35,Classic,₹180,153,15

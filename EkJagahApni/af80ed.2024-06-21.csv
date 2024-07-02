@@ -1,0 +1,6 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Assam,Guwahati,PvrCityCentreGuwahati,Hindi,12:00,Classic,₹150,44,0
+Assam,Guwahati,PvrCityCentreGuwahati,Hindi,12:00,Prime,₹150,107,15
+Assam,Guwahati,PvrCityCentreGuwahati,Hindi,12:00,PrimePlus,₹150,14,0
+Ncr,Gurgaon,GurugramPvrDirectorSCutAmbienceMall,Hindi,20:05,Platinum,₹350,40,0
+Ncr,Gurgaon,GurugramPvrDirectorSCutAmbienceMall,Hindi,20:05,PlatinumSuperior,₹350,17,0

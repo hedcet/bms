@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Ncr,Gurgaon,PvrAmbienceGurgaon,English,13:05,Platinum,₹500,28,0
+Ncr,Gurgaon,PvrAmbienceGurgaon,English,13:05,PlatinumSuperior,₹500,16,10
+Ncr,Gurgaon,PvrMgfGurgaon,English,16:00,Prime,₹270,61,18
+Ncr,Gurgaon,PvrMgfGurgaon,English,16:00,Classic,₹220,104,2

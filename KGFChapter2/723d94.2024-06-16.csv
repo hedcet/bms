@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+TamilNadu,Theni,VetriCinemasDolbyAtmosTheni,Tamil,11:00,FirstClass,₹120.6,130,0
+TamilNadu,Theni,VetriCinemasDolbyAtmosTheni,Tamil,11:00,SecondClass,₹120.6,30,0
+TamilNadu,Theni,VetriCinemasDolbyAtmosTheni,Tamil,11:00,ThirdClass,₹60.12,18,0
+TamilNadu,Madurai,VetriCinemasDolbyAtmosMadurai,Tamil,11:00,ClassA,₹119.39,206,6
+TamilNadu,Madurai,VetriCinemasDolbyAtmosMadurai,Tamil,11:00,ClassB,₹60.12,20,1
+Gujarat,Jamnagar,AmberCinemaJamnagar,Hindi,12:30,Balcony,₹80,176,0
+Gujarat,Jamnagar,AmberCinemaJamnagar,Hindi,15:30,Balcony,₹80,176,4
+Gujarat,Jamnagar,AmberCinemaJamnagar,Hindi,18:30,Balcony,₹80,176,0
+Gujarat,Jamnagar,AmberCinemaJamnagar,Hindi,21:30,Balcony,₹80,176,0
+TamilNadu,Theni,VetriCinemasDolbyAtmosTheni,Tamil,22:45,FirstClass,₹120.6,130,130
+TamilNadu,Theni,VetriCinemasDolbyAtmosTheni,Tamil,22:45,SecondClass,₹120.6,30,30
+TamilNadu,Theni,VetriCinemasDolbyAtmosTheni,Tamil,22:45,ThirdClass,₹60.12,18,18

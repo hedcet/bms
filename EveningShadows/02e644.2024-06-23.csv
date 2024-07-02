@@ -1,0 +1,4 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Ncr,Delhi,PvrSelectCityWalkDelhi,Hindi,14:30,Recliner,₹300,10,0
+Ncr,Delhi,PvrSelectCityWalkDelhi,Hindi,14:30,ClassicNormal,₹150,120,0
+Ncr,Delhi,PvrSelectCityWalkDelhi,Hindi,14:30,ClaSuperior,₹150,34,3

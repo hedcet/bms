@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Assam,Guwahati,PvrCityCentreGuwahati,English,12:10,Classic,₹112,44,0
+Assam,Guwahati,PvrCityCentreGuwahati,English,12:10,Prime,₹112,107,8
+Assam,Guwahati,PvrCityCentreGuwahati,English,12:10,PrimePlus,₹112,14,1
+Ncr,Delhi,PvrSelectCityWalkDelhi,English,14:30,Recliner,₹300,10,7
+Ncr,Delhi,PvrSelectCityWalkDelhi,English,14:30,ClassicNormal,₹150,120,31
+Ncr,Delhi,PvrSelectCityWalkDelhi,English,14:30,ClaSuperior,₹150,34,19
+Punjab,Chandigarh,PvrElanteChandigarh,English,15:00,Recliner,₹550,13,4
+Punjab,Chandigarh,PvrElanteChandigarh,English,15:00,Classic,₹180,153,5
+WestBengal,Kolkata,InoxQuestMall,English,19:20,RoyalRecliner,₹270,15,9
+WestBengal,Kolkata,InoxQuestMall,English,19:20,Club,₹112,162,8
+WestBengal,Kolkata,InoxQuestMall,English,19:20,Executive,₹112,30,1
+WestBengal,Kolkata,InoxQuestMall,English,19:20,Royal,₹112,57,27
