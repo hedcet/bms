@@ -1,0 +1,16 @@
+State,City,Name,Language,Time(IST),Area,Price,Capacity,Booked
+Kerala,Trivandrum,SreeKaleeswarySreeSaraswathy2K3DKaliyikkav,Malayalam,11:00,RoyalCircle,₹150,87,0
+Kerala,Thodupuzha,SilverHillsCinemas4KLaser3DDolby71,Malayalam,11:45,Silver,₹130,172,0
+Kerala,Trivandrum,PvrLuluTrivandrum,Malayalam,13:05,Recliner,₹300,8,7
+Kerala,Trivandrum,PvrLuluTrivandrum,Malayalam,13:05,Prime,₹160,34,18
+Kerala,Trivandrum,PvrLuluTrivandrum,Malayalam,13:05,Classic,₹140,65,5
+Kerala,Trivandrum,SreeKaleeswarySreeSaraswathy2K3DKaliyikkav,Malayalam,14:30,RoyalCircle,₹150,87,0
+Kerala,Thodupuzha,SilverHillsCinemas4KLaser3DDolby71,Malayalam,14:30,Silver,₹130,172,0
+Kerala,Changaramkulam,MarsCinemas4KDolbyAtmosChangaramkulam,Malayalam,15:00,Executive,₹250,12,0
+Kerala,Changaramkulam,MarsCinemas4KDolbyAtmosChangaramkulam,Malayalam,15:00,Platinum,₹150,124,0
+Kerala,Trivandrum,SreeKaleeswarySreeSaraswathy2K3DKaliyikkav,Malayalam,18:15,RoyalCircle,₹150,87,4
+Kerala,Trivandrum,NewTheatre4KRgbLaserDolbyAtmosTrivandrum,Malayalam,18:30,Elite,₹150,173,0
+Kerala,Koppam,SyndicateCinemasKoppam4KDolbyAtmosRgbLaser,Malayalam,19:00,Platinum,₹250,16,0
+Kerala,Koppam,SyndicateCinemasKoppam4KDolbyAtmosRgbLaser,Malayalam,19:00,Gold,₹129,166,0
+Kerala,Koppam,SyndicateCinemasKoppam4KDolbyAtmosRgbLaser,Malayalam,19:00,PlatinumCouple,₹250,4,0
+Kerala,Trivandrum,SreeKaleeswarySreeSaraswathy2K3DKaliyikkav,Malayalam,21:45,RoyalCircle,₹150,87,0
